@@ -1,4 +1,5 @@
 AfflictionDescription,Deadly venom courses through your veins.,毒液在你的體內流淌。
+AfflictionDescription,Groteseque changes are happening to your body.,
 AfflictionDescription,Something deeply unsettling is happening... down there.,有一種無法平息的感覺……在很深的地方。
 AfflictionDescription,There is a gnawing sensation from deep inside your stomach.,在你胃的深處有一種噬咬感。
 AfflictionDescription,This viral disease causes inflammation of the brain and is spread by infected animals.,這種病毒性疾病會導致腦炎，通過被感染的動物傳播
@@ -6,6 +7,7 @@ AfflictionDescription,You feel unclean and everything itches.,你感覺身上每
 AfflictionDescription,You have a dreadful case of stomach acid.,你的胃酸會經常回流出來。
 AfflictionDescription,Your skin is sickly green and something is very wrong inside your stomach.,你的皮膚呈現病態的綠色，感到胃裡十分不舒服。
 AfflictionName,crabs,陰虱
+AfflictionName,mutation,
 AfflictionName,nits,跳蚤
 AfflictionName,poisoning,中毒
 AfflictionName,rabies,狂犬病
@@ -43,76 +45,136 @@ AppearanceDescription,A short but sturdy looking coat of mithril armour.,一件�
 AppearanceDescription,A slender and delicate looking coat of mithril armour.,一件薄而精妙的秘銀夾克。
 AppearanceDescription,A slender and glossy looking coat of mithril armour.,一件薄而光亮的秘銀夾克。
 AppearanceDescription,This classic wizard accessory is a pointed hat decorated with moons and stars.,這件經典的法師裝備——裝點著星月花紋的尖頂帽。
+AppearanceName,acrid book,
 AppearanceName,adamantine slug,精金彈頭
 AppearanceName,adamantine staff,精金手杖
 AppearanceName,agate ring,瑪瑙戒指
+AppearanceName,alabaster book,
 AppearanceName,aluminium wand,鋁制魔杖
+AppearanceName,amber book,
+AppearanceName,ancient book,
 AppearanceName,angled poleaxe,有角長柄斧
+AppearanceName,antique book,
+AppearanceName,arcane book,
+AppearanceName,arcing book,
+AppearanceName,argent book,
+AppearanceName,ashen book,
 AppearanceName,backwards book,顛倒的書
 AppearanceName,bag,包
 AppearanceName,balsa wand,輕木魔杖
 AppearanceName,bamboo arrow,竹箭
 AppearanceName,bamboo wand,竹製魔杖
+AppearanceName,banded book,
+AppearanceName,barbed ring,
+AppearanceName,basalt book,
+AppearanceName,battered book,
+AppearanceName,beaded book,
 AppearanceName,beaked polearm,勾形長柄武器
 AppearanceName,bell,青銅鈴鐺
 AppearanceName,big book,巨大的書
+AppearanceName,bilious book,
+AppearanceName,birch book,
 AppearanceName,black book,黑色書本
+AppearanceName,black bound book,
 AppearanceName,black gem,黑色寶石
 AppearanceName,black gloves,黑色手套
 AppearanceName,black onyx ring,黑晶戒指
 AppearanceName,black potion,黑色藥水
+AppearanceName,black stone,
 AppearanceName,black wand,黑色魔杖
+AppearanceName,blackened book,
+AppearanceName,bloodstained book,
 AppearanceName,bloody potion,血腥藥水
 AppearanceName,blue and green shield,藍綠相間的盾牌
 AppearanceName,blue gem,藍色寶石
 AppearanceName,blue robe,藍色長袍
+AppearanceName,bone book,
+AppearanceName,bone bound book,
 AppearanceName,bone earrings,骨制耳環
 AppearanceName,bone staff,骨制手杖
+AppearanceName,bone white book,
+AppearanceName,boulder bound book,
+AppearanceName,bramble book,
+AppearanceName,brass book,
+AppearanceName,brass bound book,
+AppearanceName,brass clasped book,
 AppearanceName,brass ring,黃銅戒指
 AppearanceName,brass wand,黃銅魔杖
 AppearanceName,brilliant blue potion,燦藍藥水
+AppearanceName,brittle book,
+AppearanceName,broad katar,
 AppearanceName,broad pick,鶴嘴鋤
 AppearanceName,broad short sword,寬刃短劍
 AppearanceName,bronze book,青銅書
 AppearanceName,bronze ring,青銅戒指
 AppearanceName,bronze wand,青銅魔杖
+AppearanceName,bronzed book,
 AppearanceName,brown potion,褐色藥水
 AppearanceName,bubbly potion,發泡藥水
+AppearanceName,buckled book,
 AppearanceName,bugle,喇叭
+AppearanceName,burnished book,
 AppearanceName,candle,蠟燭
 AppearanceName,canvas book,帆布封面的書
+AppearanceName,celestial book,
 AppearanceName,ceramic wand,陶土魔杖
+AppearanceName,chained book,
+AppearanceName,chalkstone book,
+AppearanceName,charcoal book,
+AppearanceName,charnel book,
+AppearanceName,charred book,
+AppearanceName,cinder book,
+AppearanceName,cindered book,
 AppearanceName,circular amulet,圓形護符
+AppearanceName,clasped book,
+AppearanceName,clay bound book,
 AppearanceName,clay ring,粘土戒指
 AppearanceName,clear potion,清澄藥水
+AppearanceName,clockwork gun,
 AppearanceName,cloth book,布制封面的書
 AppearanceName,cloudy potion,渾濁藥水
 AppearanceName,coarse mantelet,粗糙斗篷
+AppearanceName,cobalt book,
+AppearanceName,cobblestone book,
+AppearanceName,coiled gun,
 AppearanceName,colourful book,彩色封面的書
 AppearanceName,combat boots,戰鬥靴
 AppearanceName,compact gun,小型槍支
+AppearanceName,compass bound book,
 AppearanceName,concave amulet,凹狀護符
 AppearanceName,conical hat,圓錐帽子
+AppearanceName,consecrated book,
 AppearanceName,convex amulet,凸面護符
 AppearanceName,copper book,紫銅書
 AppearanceName,copper ring,紫銅戒指
 AppearanceName,copper wand,紫銅魔杖
+AppearanceName,coral book,
 AppearanceName,coral ring,珊瑚戒指
+AppearanceName,corded book,
+AppearanceName,cracked book,
+AppearanceName,cratered book,
 AppearanceName,crested helmet,鳳頭頭盔
+AppearanceName,crimson book,
 AppearanceName,crude arrow,粗糙的箭
 AppearanceName,crude bow,粗糙的弓
 AppearanceName,crude chain mail,粗糙的鏈甲
 AppearanceName,crude dagger,粗糙的匕首
+AppearanceName,crude disc,
 AppearanceName,crude ring mail,粗糙的環甲
 AppearanceName,crude short sword,粗糙短劍
 AppearanceName,crude spear,粗糙的矛
+AppearanceName,crumbling book,
+AppearanceName,crystal book,
 AppearanceName,crystal staff,水晶手杖
 AppearanceName,crystal wand,水晶魔杖
+AppearanceName,crystalline book,
 AppearanceName,curved polearm,曲刃長柄武器
 AppearanceName,curved sword,曲刃劍
 AppearanceName,curved wand,彎曲魔杖
+AppearanceName,cut glass book,
 AppearanceName,cyan book,青藍色的書
 AppearanceName,cyan potion,青藍藥水
+AppearanceName,damascened book,
 AppearanceName,dark blue book,深藍色的書
 AppearanceName,dark brown book,暗褐色的書
 AppearanceName,dark green book,暗綠色的書
@@ -122,27 +184,43 @@ AppearanceName,deep book,深色的書
 AppearanceName,diamond ring,鑽石戒指
 AppearanceName,dirty rag,骯髒的布塊
 AppearanceName,dog eared book,折角的書
+AppearanceName,dolomite book,
 AppearanceName,double-headed axe,雙頭斧
+AppearanceName,dove grey book,
+AppearanceName,dress boots,
 AppearanceName,drum,鼓
 AppearanceName,dull book,灰暗的書
+AppearanceName,dusk blue book,
 AppearanceName,dusty book,滿是灰塵的書
 AppearanceName,ebony wand,烏木魔杖
+AppearanceName,eelskin book,
 AppearanceName,effervescent potion,冒泡藥水
+AppearanceName,ember book,
 AppearanceName,emerald potion,翠綠藥水
 AppearanceName,emerald ring,綠寶石戒指
 AppearanceName,engagement ring,結婚戒指
+AppearanceName,etched book,
 AppearanceName,etched helmet,蝕銹頭盔
+AppearanceName,eternity ring,
 AppearanceName,exotic two-pointed polearm,奇異雙尖長柄武器
 AppearanceName,faded book,褪色的書
 AppearanceName,faded pall,褪色斗篷
+AppearanceName,feldspar book,
 AppearanceName,fencing gloves,劍術手套
 AppearanceName,figurine,小模型
 AppearanceName,fine mithril-coat,優良的秘銀夾克
 AppearanceName,fizzy potion,起泡藥水
+AppearanceName,flint book,
 AppearanceName,flute,笛子
 AppearanceName,forked polearm,叉狀長柄武器
+AppearanceName,forked wand,
+AppearanceName,frostbitten book,
+AppearanceName,frosted book,
 AppearanceName,fur boots,皮革鞋子
 AppearanceName,fuzzy book,模糊的書
+AppearanceName,gale book,
+AppearanceName,gilded book,
+AppearanceName,glass bound book,
 AppearanceName,glass orb,玻璃法球
 AppearanceName,glass ring,玻璃戒指
 AppearanceName,glass wand,玻璃魔杖
@@ -153,13 +231,21 @@ AppearanceName,glossy arrow,黑色符文箭
 AppearanceName,glossy bow,黑色符文弓
 AppearanceName,glossy dagger,黑色符文匕首
 AppearanceName,glossy mithril-coat,光亮的秘銀夾克
+AppearanceName,glossy potion,
 AppearanceName,glossy short sword,黑色符文短劍
+AppearanceName,gloved book,
+AppearanceName,gneiss book,
 AppearanceName,gold book,金製的書
 AppearanceName,gold earrings,黃金耳環
 AppearanceName,gold ring,黃金戒指
 AppearanceName,gold wand,黃金魔杖
 AppearanceName,golden potion,金色藥水
+AppearanceName,gossamer book,
+AppearanceName,granite book,
 AppearanceName,granite ring,花崗岩戒指
+AppearanceName,graphite book,
+AppearanceName,grave bound book,
+AppearanceName,gravel book,
 AppearanceName,green gem,綠色寶石
 AppearanceName,green robe,綠色長袍
 AppearanceName,grey book,灰色的書
@@ -168,38 +254,54 @@ AppearanceName,hard hat,硬帽子
 AppearanceName,hard shoes,堅硬鞋子
 AppearanceName,hardcover book,精裝本書
 AppearanceName,harp,豎琴
+AppearanceName,hazel book,
 AppearanceName,heavy barrelled gun,帶槍管的重型槍支
 AppearanceName,heavy gun,重型槍支
 AppearanceName,hexagonal amulet,六邊形護符
 AppearanceName,hexagonal wand,六邊形魔杖
+AppearanceName,hide bound book,
 AppearanceName,hiking boots,徒步鞋
 AppearanceName,hilted polearm,奇特長柄武器
+AppearanceName,hoarfrost book,
+AppearanceName,hollow book,
 AppearanceName,hooded cloak,兜帽斗篷
 AppearanceName,hooked polearm,鉤狀長柄武器
+AppearanceName,hooked sword,
 AppearanceName,horn,號角
 AppearanceName,horseshoe,馬蹄鐵
 AppearanceName,humongous book,龐大的書
 AppearanceName,icy potion,凍結藥劑
+AppearanceName,incandescent book,
 AppearanceName,indigo book,靛色的書
 AppearanceName,iridium wand,銥制魔杖
+AppearanceName,iron bound book,
 AppearanceName,iron ring,鐵製戒指
 AppearanceName,iron skull cap,鐵製便帽
 AppearanceName,iron wand,鐵製魔杖
+AppearanceName,ivory book,
 AppearanceName,ivory ring,象牙戒指
 AppearanceName,jackboots,長筒靴
+AppearanceName,jade book,
 AppearanceName,jade ring,玉石戒指
+AppearanceName,jewelled book,
 AppearanceName,jewelled wand,寶石魔杖
 AppearanceName,jungle boots,叢林靴
+AppearanceName,keening book,
 AppearanceName,key,鑰匙
+AppearanceName,khaki potion,
 AppearanceName,lamp,油燈
 AppearanceName,large gun,巨大的槍支
 AppearanceName,large round shield,大圓盾
+AppearanceName,leaden book,
 AppearanceName,leather apron,皮革圍裙
 AppearanceName,leather book,皮質書
 AppearanceName,leather hat,皮質帽子
 AppearanceName,light blue book,淺藍色的書
 AppearanceName,light brown book,淺褐色的書
 AppearanceName,light green book,淺綠色的書
+AppearanceName,limestone book,
+AppearanceName,linen book,
+AppearanceName,loam book,
 AppearanceName,long barrelled gun,長管槍械
 AppearanceName,long book,細長的書
 AppearanceName,long bow,長弓
@@ -211,13 +313,18 @@ AppearanceName,luminescent potion,螢光藥水
 AppearanceName,magenta book,紫紅色的書
 AppearanceName,magenta potion,紫紅藥水
 AppearanceName,maple wand,楓樹魔杖
+AppearanceName,marble book,
 AppearanceName,marble wand,大理石魔杖
 AppearanceName,marker,記號筆
+AppearanceName,marlstone book,
 AppearanceName,medallion amulet,獎章護符
 AppearanceName,metal canister,金屬罐頭
 AppearanceName,metal pineapple,金屬菠蘿
 AppearanceName,metal slug,金屬彈頭
+AppearanceName,mica book,
+AppearanceName,mildewed book,
 AppearanceName,milky potion,乳白藥水
+AppearanceName,millstone book,
 AppearanceName,mithril boots,秘銀靴
 AppearanceName,mithril ring,秘銀戒指
 AppearanceName,mithril slug,秘銀彈頭
@@ -225,70 +332,109 @@ AppearanceName,mithril staff,秘銀手杖
 AppearanceName,mood ring,情緒戒指
 AppearanceName,moonstone ring,月長石戒指
 AppearanceName,mortar gun,手炮
+AppearanceName,mossy book,
+AppearanceName,moth eaten book,
 AppearanceName,mottled book,斑駁的書
 AppearanceName,mud boots,泥地靴
 AppearanceName,muddy potion,泥濁藥水
 AppearanceName,murky potion,朦朧藥水
+AppearanceName,murmuring book,
+AppearanceName,muted book,
 AppearanceName,mysterious gadget,神秘的小玩意
+AppearanceName,notched book,
 AppearanceName,oak wand,橡木魔杖
+AppearanceName,obsidian book,
 AppearanceName,obsidian ring,黑曜石戒指
 AppearanceName,ochre book,赭色的書
 AppearanceName,octagonal amulet,八邊形護符
 AppearanceName,octagonal wand,八邊形魔杖
 AppearanceName,old gloves,舊手套
+AppearanceName,olive branch book,
+AppearanceName,onyx book,
+AppearanceName,opal book,
 AppearanceName,opal ring,蛋白石戒指
+AppearanceName,opaline book,
 AppearanceName,opera cloak,晚禮服斗篷
 AppearanceName,orange book,橙色的書
 AppearanceName,orange gem,橙色寶石
 AppearanceName,orange potion,橙色藥水
 AppearanceName,orange robe,橙色長袍
 AppearanceName,ornamental cope,裝飾斗篷
+AppearanceName,ossuary book,
 AppearanceName,oval amulet,橢圓護符
 AppearanceName,padded gloves,護墊手套
+AppearanceName,pale book,
 AppearanceName,papyrus book,莎草紙書
 AppearanceName,parchment book,羊皮紙書
 AppearanceName,pearl earrings,珍珠耳環
 AppearanceName,pearl ring,珍珠戒指
+AppearanceName,phoenix down book,
 AppearanceName,piece of cloth,衣料塊
+AppearanceName,pine wand,
 AppearanceName,pink book,粉紅色的書
 AppearanceName,pink potion,粉紅藥水
+AppearanceName,pitted book,
+AppearanceName,plague ridden book,
 AppearanceName,plaid book,方格書
 AppearanceName,plain book,樸素的書
 AppearanceName,plain ring,樸素戒指
 AppearanceName,plain robe,樸素長袍
 AppearanceName,plastic slug,塑料彈頭
 AppearanceName,plastic stick,塑料棍子
+AppearanceName,plastic wand,
 AppearanceName,platinum wand,白金魔杖
 AppearanceName,plumed helmet,羽毛盔
+AppearanceName,pocked book,
 AppearanceName,pole cleaver,長柄屠刀
 AppearanceName,pole sickle,長柄鐮刀
 AppearanceName,polished silver shield,拋光的銀盾
+AppearanceName,porphyry book,
+AppearanceName,prismatic book,
 AppearanceName,pronged polearm,分叉長柄武器
 AppearanceName,pruning hook,修枝刀
+AppearanceName,psalm book,
 AppearanceName,puce potion,紫褐藥水
+AppearanceName,pumice book,
 AppearanceName,purple book,紫色的書
 AppearanceName,purple-red potion,玫紅藥水
 AppearanceName,pyramidal amulet,金字塔形護符
+AppearanceName,quartzite book,
+AppearanceName,quicksilver book,
+AppearanceName,radiant book,
 AppearanceName,ragged book,破爛的書
 AppearanceName,rainbow book,彩虹色的書
 AppearanceName,red book,紅色的書
 AppearanceName,red gem,紅色寶石
 AppearanceName,red robe,紅色長袍
+AppearanceName,red stone,
 AppearanceName,red-eyed shield,赤目之盾
 AppearanceName,riding boots,馬靴
 AppearanceName,riding gloves,騎手手套
+AppearanceName,rimed book,
+AppearanceName,riveted book,
 AppearanceName,ruby potion,紅寶石藥水
 AppearanceName,ruby ring,紅寶石戒指
 AppearanceName,runed arrow,符文箭
+AppearanceName,runed book,
 AppearanceName,runed bow,符文弓
 AppearanceName,runed broadsword,符文寬刃劍
 AppearanceName,runed dagger,符文匕首
+AppearanceName,runed disc,
 AppearanceName,runed short sword,符文短劍
 AppearanceName,runed spear,符文矛
 AppearanceName,runed wand,符文魔杖
+AppearanceName,russet book,
+AppearanceName,rusted book,
 AppearanceName,rusty wand,銹跡魔杖
+AppearanceName,sable book,
+AppearanceName,saddle book,
+AppearanceName,sallow book,
 AppearanceName,samurai sword,日本刀
+AppearanceName,sanguine book,
+AppearanceName,sapphire book,
 AppearanceName,sapphire ring,藍寶石戒指
+AppearanceName,scalded book,
+AppearanceName,schist book,
 AppearanceName,scoped long gun,帶鏡頭的長槍
 AppearanceName,scroll labelled ANDOVA BEGARIN,寫有「ANDOVA BEGARIN」的卷軸
 AppearanceName,scroll labelled AZZGAZ,寫有「AZZGAZ」的卷軸
@@ -321,36 +467,56 @@ AppearanceName,scroll labelled XALICH UDED,寫有「XALICH UDED」的卷軸
 AppearanceName,scroll labelled XIXAXA XOXAXA XUXAXA,寫有「XIXAXA XOXAXA XUXAXA」的卷軸
 AppearanceName,scroll labelled YUM YUM,寫有「YUM YUM」的卷軸
 AppearanceName,scroll labelled ZELGO MER,寫有「ZELGO MER」的卷軸
+AppearanceName,sepia book,
+AppearanceName,sepulchral book,
 AppearanceName,shadow book,黯淡的書
+AppearanceName,shale book,
+AppearanceName,shimmering book,
 AppearanceName,shining book,閃爍的書
 AppearanceName,shiny ring,閃耀戒指
 AppearanceName,short barrelled gun,短管槍械
 AppearanceName,short samurai sword,短日本刀
 AppearanceName,short wand,短魔杖
 AppearanceName,shoulder gun,肩扛式槍械
+AppearanceName,shrapnel book,
+AppearanceName,silk book,
+AppearanceName,silken book,
+AppearanceName,silly wand,
 AppearanceName,silver book,白銀書
 AppearanceName,silver ring,白銀戒指
 AppearanceName,silver slug,銀色彈頭
 AppearanceName,silver wand,白銀魔杖
+AppearanceName,silvered book,
 AppearanceName,single-edged polearm,單刃長柄武器
 AppearanceName,sky blue potion,天藍藥水
+AppearanceName,slate book,
 AppearanceName,slippery cloak,滑順斗篷
 AppearanceName,small gun,小型槍械
+AppearanceName,small horizontal bow,
 AppearanceName,smoky potion,冒煙藥水
 AppearanceName,snow boots,雪靴
+AppearanceName,solar book,
+AppearanceName,sooty book,
+AppearanceName,soul bound book,
 AppearanceName,sparkling potion,火花藥水
 AppearanceName,spherical amulet,球狀護符
 AppearanceName,spiked wand,尖刺法杖
 AppearanceName,spotted book,帶點的書
 AppearanceName,square amulet,方形護符
 AppearanceName,stained book,骯髒的書
+AppearanceName,starless book,
+AppearanceName,starlit book,
+AppearanceName,static book,
 AppearanceName,steel ring,鋼製戒指
 AppearanceName,steel wand,鋼製魔杖
 AppearanceName,sticky glob,黏黏的小球
+AppearanceName,storm wracked book,
 AppearanceName,stout mithril-coat,堅固秘銀夾克
 AppearanceName,stout spear,堅固的矛
 AppearanceName,studded samurai stick,武士的釘頭錘
 AppearanceName,stylish book,時髦的書
+AppearanceName,sundered book,
+AppearanceName,sunlit book,
 AppearanceName,swirly potion,漩渦藥水
 AppearanceName,tan book,棕褐色的書
 AppearanceName,tattered book,磨損的書
@@ -365,35 +531,51 @@ AppearanceName,throwing disc,飛盤
 AppearanceName,throwing spear,標槍
 AppearanceName,throwing star,飛鏢
 AppearanceName,throwing stick,長棍
+AppearanceName,thunderous book,
 AppearanceName,tiger eye ring,虎眼石戒指
 AppearanceName,tin wand,錫制魔杖
 AppearanceName,tiny book,小巧的書
+AppearanceName,topaz book,
 AppearanceName,topaz ring,黃玉戒指
 AppearanceName,torn book,被撕裂的書
+AppearanceName,toy bat,
+AppearanceName,toy hammer,
 AppearanceName,toy sword,玩具劍
 AppearanceName,triangular amulet,三角形護符
 AppearanceName,turquoise book,綠松石書
 AppearanceName,twisted ring,扭曲戒指
+AppearanceName,umber book,
+AppearanceName,unbound book,
 AppearanceName,unlabelled scroll,無字卷軸
 AppearanceName,uranium wand,鈾色魔杖
+AppearanceName,veiled book,
 AppearanceName,vellum book,犢皮紙書
 AppearanceName,velvet book,天鵝絨皮書
+AppearanceName,verdigris book,
 AppearanceName,violet book,淺紫色的書
 AppearanceName,violet gem,淺紫寶石
 AppearanceName,visored helmet,帶沿頭盔
+AppearanceName,voltaic book,
 AppearanceName,vulgar polearm,粗俗長柄武器
 AppearanceName,walking shoes,休閒鞋
 AppearanceName,warped amulet,翹狀護符
+AppearanceName,warped book,
+AppearanceName,waxen book,
 AppearanceName,wedding ring,婚禮戒指
+AppearanceName,welded book,
+AppearanceName,whispering book,
 AppearanceName,whistle,哨子
 AppearanceName,white book,白色的書
 AppearanceName,white coat,白外套
 AppearanceName,white gem,白色寶石
 AppearanceName,white potion,白色藥水
 AppearanceName,wide book,寬大的書
+AppearanceName,wilted book,
 AppearanceName,winged missile,有翼炮彈
 AppearanceName,wire ring,線圈戒指
+AppearanceName,withered book,
 AppearanceName,wooden ring,木製戒指
+AppearanceName,wormwood book,
 AppearanceName,wrinkled book,起皺的書
 AppearanceName,yellow book,黃色的書
 AppearanceName,yellow gem,黃色寶石
@@ -489,62 +671,116 @@ BlockName,statue,雕像
 BlockName,stone boulder,巨石
 BlockName,trophy,金雕
 BlockName,wooden barrel,木桶
+BoonDescription,"A darker resurrection than the temples offer: certain to succeed, but the dead come back enraged.",
+BoonDescription,"A generous healing gift, fae-touched: your hands will not be quite steady later.",
 BoonDescription,Ask for a unicorn to join your party.,召喚一頭獨角獸與你為伴。
+BoonDescription,Ask the fae for a favour. What you get is entirely up to her mood.,
+BoonDescription,"Bathe in the etching vats. It burns, but you rise with a hide the acid cannot bite.",
 BoonDescription,Bless one item in your inventory or on the ground.,祝福物品欄中或地面上的一件物品。
 BoonDescription,Brew a random potion into your bottle of water.,將你身上的一瓶水隨機變成一種藥劑。
 BoonDescription,Butcher a corpse into an easy to carry container.,將屍體做成罐頭。
 BoonDescription,Call upon the undead to fight for you.,召喚不死生物為你戰鬥。
+BoonDescription,Consult the observatory's charts for the full layout of this level.,
 BoonDescription,Convert one item into a random alternative of the same type.,將一個道具變成同類型的另一個道具。
 BoonDescription,Determine the enchantment and charges of all carried items.,揭示身上所有道具的附魔和充能。
+BoonDescription,"Drill under the captain's eye. You may be quickened, or you may be worn out.",
+BoonDescription,Drink the warrior's drink and fight in a berserker rage. It does not spare your allies.,
+BoonDescription,"Eat at the fae table. You will not go hungry, but the wine shows you things that are not there.",
 BoonDescription,"Erase the magic from a potion, scroll or book.",「從藥劑、卷軸或者書本上移除魔力。」
+BoonDescription,Fall into a trance and see through walls and floors for a time.,
 BoonDescription,Hatch an egg and become a parent.,孵化一個蛋。
+BoonDescription,Have the efreeti bind a captive elemental to your service.,
+BoonDescription,"Have the temple armour smiths put a keener edge on one weapon, magical or not.",
+BoonDescription,Have the wizard read the true nature of everything you carry.,
+BoonDescription,"Have your destiny read from the stars, hastening your growth.",
 BoonDescription,Heal damage and recover mana for yourself and your steed if mounted.,治療你的角色以及你的坐騎（如果正騎在上面）。
 BoonDescription,Learn how to cast a random spell.,隨機教授一個咒語
 BoonDescription,Learn the divine status of all carried items.,瞭解所有所攜帶物品的聖靈屬性。
 BoonDescription,Learn the name of one random unknown item.,揭示一個道具知識。
 BoonDescription,Make an imitation copy of an item.,製作一件物品的複製品。
 BoonDescription,Partially recharge a spent item.,給一件充能型物品進行部分充能。
+BoonDescription,Petition the vizier for a spectral cat to guard you as it once guarded the tomb.,
 BoonDescription,Place a curse on one equipped or carried item.,將正裝備或正攜帶的一件物品詛咒。
+BoonDescription,"Plunge into the quenching trough. It burns with cold, but you rise proof against it.",
 BoonDescription,Reanimate a corpse as a loyal revenant.,將一具屍體復活為忠實的僕從。
+BoonDescription,Receive the linen wrappings used to prepare the dead for the afterlife.,
 BoonDescription,Remove all magic from an item.,移除一件道具的所有聖靈（受祝福/受詛咒）/充能/附魔（強化）。
 BoonDescription,Remove the curse on one equipped or carried item.,去除一件已裝備物品或所攜帶物品上的詛咒。
 BoonDescription,Rename an item for vanity and as a small protection against cancellation.,給一件裝備重命名，讓它看起來更酷，並且可以抵禦一次撤銷效果。
 BoonDescription,Request a fresh corpse with no questions asked.,請求給予一具新鮮的屍體。
 BoonDescription,Request one cast of the polymorph spell.,請求對你釋放一次變形。
+BoonDescription,Requisition soldiers from the garrison to march at your side.,
 BoonDescription,Restore any lost ability and remove any negative transient conditions.,恢復被降低的能力併除去任何短期負面狀態。
 BoonDescription,Return a corpse back to life.,讓一具死屍重獲生命。
+BoonDescription,Stand in the temple square and receive the captain's defensive blessing.,
+BoonDescription,"Step into the forge fire. It burns, but you rise with fire in your blood.",
 BoonDescription,Summon a powerful steed from the underworld.,從地下世界召喚一匹強大的坐騎。
 BoonDescription,Summon a tame forest beast as your ally.,召喚一頭馴服的森林野獸
+BoonDescription,Summon an escort from the pharaoh's retinue to walk beside you.,
+BoonDescription,The princess trades you a measure of charm. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of grace. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of wit. Something else must give way for it.,
+BoonDescription,Toss a coal on the forge fire and take whatever ward it grants you.,
+BoonDescription,Train under a veteran until a weapon or armour discipline sticks.,
 BoonDescription,Upgrade an item or increase its power.,升級一個道具或者增加它的威力。
 BoonDescription,Use nature magic to grow the power of your ally.,使用自然魔法讓你的盟友獲得成長。
+BoonDescription,Watch the level through the great lens and mark every creature on it.,
+BoonDescription,Whisper a question into the vault. The dead do not always tell the truth.,
 BoonDescription,Write a random scroll onto your blank paper.,將你的空白卷軸隨機變成一個別的卷軸。
 BoonName,animate dead,死者復甦
 BoonName,assess,評估
+BoonName,banquet of the fae,
+BoonName,battle fury,
+BoonName,black rite of revival,
 BoonName,bless,祝福
+BoonName,bound elemental,
 BoonName,brew,釀造
+BoonName,call the escort,
 BoonName,cancel,撤銷
+BoonName,capricious wish,
+BoonName,chart the level,
+BoonName,clairvoyant trance,
+BoonName,commune with the dead,
 BoonName,corpse wish,請求屍體
+BoonName,court of the underworld,
 BoonName,divine,神聖
+BoonName,drill,
 BoonName,enchant,附魔
 BoonName,enlighten,啟蒙
 BoonName,erase,抹除
+BoonName,fae cunning,
+BoonName,fae grace,
+BoonName,fae guile,
 BoonName,fantastical beast,神奇動物
+BoonName,forced march,
+BoonName,godmother's blessing,
 BoonName,grow,成長
 BoonName,hatch,孵化
+BoonName,identify all,
+BoonName,map the ranks,
 BoonName,nightmare steed,夜魘坐騎
+BoonName,ordeal of embers,
 BoonName,place curse,詛咒
 BoonName,polymorph,變形
 BoonName,purify,淨化
 BoonName,raise dead,亡靈再起
+BoonName,read your destiny,
 BoonName,recharge,充能
 BoonName,reforge,重鑄
 BoonName,rejuvenate,返老還童
 BoonName,remove curse,去除詛咒
 BoonName,rename,重命名
 BoonName,replicate,複製
+BoonName,sacred wrappings,
 BoonName,scribe,撰寫
+BoonName,sharpen blade,
+BoonName,shield wall,
 BoonName,teach spell,傳授咒語
+BoonName,temper in acid,
+BoonName,temper in flame,
+BoonName,temper in frost,
 BoonName,tinned meat,罐裝肉塊
+BoonName,tomb guardian,
 BoonName,undead army,不死大軍
 BoonName,unicorn friend,獨角獸夥伴
 CalendarText,d MMMM yyyy,yyyy年 M月 d日
@@ -560,7 +796,11 @@ CharacterName,Bason,Bason
 CharacterName,Belietha,Belietha
 CharacterName,Bok,Bok
 CharacterName,Bolan,Bolan
+CharacterName,Bones,
+CharacterName,Borgrim,
+CharacterName,Briar,
 CharacterName,Brouwer,Brouwer
+CharacterName,Buckshot,
 CharacterName,Cailie,Cailie
 CharacterName,Capo,Capo
 CharacterName,Carthyre,Carthyre
@@ -581,18 +821,25 @@ CharacterName,Emina,Emina
 CharacterName,Enlan,Enlan
 CharacterName,Ericendrick,Ericendrick
 CharacterName,Eybrinde,Eybrinde
+CharacterName,Fangs,
 CharacterName,Faraze,Faraze
 CharacterName,Fenlas,Fenlas
 CharacterName,Fenraymond,Fenraymond
+CharacterName,Fern,
 CharacterName,Floki,Floki
 CharacterName,Forro,Forro
 CharacterName,Franzia,Franzia
 CharacterName,Galday,Galday
 CharacterName,Gasberg,Gasberg
+CharacterName,Gearwing,
+CharacterName,Ghrenna,
+CharacterName,Giggles,
 CharacterName,Gleichman,Gleichman
 CharacterName,Gmima,Gmima
 CharacterName,Gohu,Gohu
 CharacterName,Gomack,Gomack
+CharacterName,Grakna,
+CharacterName,Grum,
 CharacterName,Grytt,Grytt
 CharacterName,Haelom,Haelom
 CharacterName,Haique,Haique
@@ -615,34 +862,41 @@ CharacterName,Kevugo,Kevugo
 CharacterName,Kierantha,Kierantha
 CharacterName,Kira,Kira
 CharacterName,Kneller,Kneller
+CharacterName,Korrath,
 CharacterName,Lagratha,Lagratha
 CharacterName,Lanetwalz,Lanetwalz
 CharacterName,Lant,Lant
 CharacterName,Lesha,Lesha
 CharacterName,Luickean,Luickean
+CharacterName,Lyric,
 CharacterName,Lzay,Lzay
 CharacterName,Malasuth,Malasuth
+CharacterName,Malgrim,
 CharacterName,Marisa,Marisa
 CharacterName,Melchai,Melchai
 CharacterName,Meloty,Meloty
 CharacterName,Miller,Miller
 CharacterName,Misteph,Misteph
 CharacterName,Nichaeltoy,Nichaeltoy
+CharacterName,Nihlus,
 CharacterName,Ninerma,Ninerma
 CharacterName,Ninhart,Ninhart
 CharacterName,Ninny,Ninny
 CharacterName,Nodin,Nodin
 CharacterName,Norbant,Norbant
+CharacterName,Nugget,
 CharacterName,Okennwood,Okennwood
 CharacterName,Ollac,Ollac
 CharacterName,Omdarro,Omdarro
 CharacterName,Orankin,Orankin
 CharacterName,Oscae,Oscae
 CharacterName,Paltrick,Paltrick
+CharacterName,Panderos,
 CharacterName,Pauwinner,Pauwinner
 CharacterName,Penevieve,Penevieve
 CharacterName,Perceval,Perceval
 CharacterName,Pinkerton,Pinkerton
+CharacterName,Pip,
 CharacterName,Plegg,Plegg
 CharacterName,Pleyson,Pleyson
 CharacterName,Pnerfa,Pnerfa
@@ -660,16 +914,26 @@ CharacterName,Rebenna,Rebenna
 CharacterName,Renorber,Renorber
 CharacterName,Rokiju,Rokiju
 CharacterName,Rupley,Rupley
+CharacterName,Rustbeard,
 CharacterName,Sarlia,Sarlia
+CharacterName,Scraps,
+CharacterName,Sentinel,
+CharacterName,Serathiel,
+CharacterName,Shadow,
 CharacterName,Shinaas,Shinaas
+CharacterName,Sissik,
+CharacterName,Skrix,
 CharacterName,Smither,Smither
+CharacterName,Sprocket,
 CharacterName,Stevere,Stevere
 CharacterName,Stewite,Stewite
 CharacterName,Sully,Sully
 CharacterName,Talon,Talon
 CharacterName,Tanyacka,Tanyacka
 CharacterName,Thakuline,Thakuline
+CharacterName,Thokk,
 CharacterName,Threepo,Threepo
+CharacterName,Tillie,
 CharacterName,Timonen,Timonen
 CharacterName,Trank,Trank
 CharacterName,Udfoot,Udfoot
@@ -677,7 +941,10 @@ CharacterName,Uffle,Uffle
 CharacterName,Ujopayne,Ujopayne
 CharacterName,Umazi,Umazi
 CharacterName,Urenval,Urenval
+CharacterName,Vaelithra,
+CharacterName,Valor,
 CharacterName,Valorn,Valorn
+CharacterName,Vashti,
 CharacterName,Vekincarc,Vekincarc
 CharacterName,Vidar,Vidar
 CharacterName,Vikethome,Vikethome
@@ -687,7 +954,9 @@ CharacterName,Wallison,Wallison
 CharacterName,Waltis,Waltis
 CharacterName,Walzen,Walzen
 CharacterName,Wendry,Wendry
+CharacterName,Wisp,
 CharacterName,Wollet,Wollet
+CharacterName,Wraith,
 CharacterName,Xamarin,Xamarin
 CharacterName,Xandries,Xandries
 CharacterName,Xank,Xank
@@ -699,6 +968,7 @@ CharacterName,Yassage,Yassage
 CharacterName,Yorque,Yorque
 CharacterName,Yral,Yral
 CharacterName,Yuvaloren,Yuvaloren
+CharacterName,Zathrik,
 CharacterName,Zean,Zean
 CharacterName,Zerbarry,Zerbarry
 CharacterName,Zimn,Zimn
@@ -709,16 +979,19 @@ ClassDescription,"Benevolent caretakers, always willing to lend a helping hand t
 ClassDescription,"Champions of the winter realms, fierce and proud. Hardy and strong, they will boldly face any challenger until they meet a glorious death.",寒冬邊境以內的領主，她們勇猛且高傲，堅韌且強壯。她們會直面任何挑戰者直到充滿榮耀地犧牲。
 ClassDescription,"Charming minstrels, making their way through the world with their songs and stories. They are jacks-of-all-trades; alongside their troubadour talents, they dabble in both martial skills and spellcraft.",富有魅力的詩人，他們以詩歌與故事而聞名世界。同時他們對萬物略知一二；排除開他們在詩歌上的天賦，他們也精通武術與法術。
 ClassDescription,"Conductors of natural energies, these uniquely attuned spell casters derive their powers from the living world. Peaceful until threatened, they are unafraid to respond with animalistic savagery.",能夠以獨特的方式去調和自然能量奧秘的施法者，他們從生物世界中獲得力量。他們儒雅隨和，可一旦他們受到威脅，他們會無畏地用野性的殘暴來反擊。
+ClassDescription,"Contract killers trained to strike once, from the dark, and vanish before the body is found. They favour poisoned steel over honest combat and trust no blade they have not sharpened themselves.",
 ClassDescription,"Corrupt and hateful souls, who are motivated by causing carnage and spreading chaos. Subject to uncontrollable bouts of rage, they bring doom and destruction to friend and foe alike.",這些腐爛且令人憎惡的靈魂僅能被屠殺以及混亂驅使，他們給盟友以及同類帶來破壞以及毀滅。
 ClassDescription,"Daft harlequins, always carrying a trick up their sleeves. Eclectic and eccentric; they are unassuming masters of chaos, adept in many bewildering talents.",戲劇中愚蠢的丑角，他們的袖中彷彿藏著不同的戲法並且風格迥異；他們否認自己是造成混亂的大師，可他們熟練可以使人迷惑的技巧。
 ClassDescription,"Deft miscreants, conniving and quick with their wits. Through trial and error, they have learned that their best chance in avoiding the clutches of death is to stick to the shadows and outmanoeuvre their pursuers.",手腳麻利的大盜，他們放縱，敏捷且機智。通過不斷的嘗試與錯誤，他們學會以隱匿在暗影中來躲避追擊者的追擊以及死亡的魔爪。
 ClassDescription,"Devoted to understanding the essence of magic and the marvel of engineering, these adept craftsman crave both knowledge and resources. Whether directed by madness or genius, they are a capable adversary and a tenacious survivor.",獻身於魔法之精華以及工程學之奇跡的熟練工匠，他們渴望知識以及資源。無論他們是天才還是鬼才，他們都會是一個強勁的對手以及打不死的小強。
 ClassDescription,Escaped criminals who have spent so much of their life incarcerated that any trace of who or what they once were has all but vanished.,曾經在監獄裡度過無數時日的逃犯，在監獄中的時日抹去了他們曾經的記憶以及掌握的技藝。
 ClassDescription,"Freebooting buccaneers, sailing the high seas and plundering many a merchant's vessel in their endless pursuit of riches and infamy. They are murderous cutthroats with little regard for anything but gold.",自由掠奪的海盜，他們遠渡重洋，為了掠奪商人們的財產從而追求更多的財富，也因此遭受罵名。他們是冷血無情的殺手，只有金錢能吸引他們的注意力。
+ClassDescription,"Grim oath-bound hunters who court death against the mightiest foes, undead and monstrous alike. What they lack in subtlety they make up for with unrelenting rage and a body built to shrug off ruin.",
 ClassDescription,"Happy-go-lucky travellers, committed to only the most authentic experiences. Quixotic and brave, they meticulously prepare with a wide variety of paraphernalia - yet remain ill-equipped for the perils they will soon face.",逍遙自在的遊客，只認可最真實的經歷。勇敢卻不切實際，他們精心準備了一系列的工具 - 雖然仍不足以面對即將到來的危險。
 ClassDescription,"Hidden agents, fleet-footed and schooled in many ancient arts of assassination. When all else fails, they are indubitably prepared to make swift escapes.",隱藏的間諜，他們行動靈敏並學習許多古老的刺殺藝術。當其他所有人失敗時，他們會毫無疑問的迅速逃離。
 ClassDescription,"Honourable warriors, who have dedicated their lives to an ancient code. Skilled in art of dual-wielding blades, they make fast work of their enemies.",充滿榮耀的戰士， 他們的生命中延續著古老傳承的印記。他們精通雙刃的藝術， 且會將對手快速解決。
 ClassDescription,"Keepers of cosmic secrets, who derive their sacred powers from the spirit realms hidden from mortal eyes. They are compelled by dark forces and are adept at bending the material world to their will.",宇宙秘密的傳承者，他們神聖的力量衍生於隱藏在平凡的雙眼之下的精神領域。他們被黑暗力量迫使且精通將已知的物質世界按照他們的意願扭曲。
+ClassDescription,"Keepers of old hexes and older grudges, more at home among gravestones and cauldrons than decent company. They do not hurl fire; they unmake their enemies' luck, strength and flesh by degrees.",
 ClassDescription,"Noble savages, hardened to battle by generations of survival in the unforgiving wilderness. They are not strangers to death's call; legends tell of their incredible strength and battle prowess with heavy weapons.",高貴的野蠻人，在殘酷的野外經歷數代的生存之後，他們變得在戰鬥中更加堅韌。他們對於面對死亡習以為常。傳聞他們擁有極強的力量且能勇猛的使用極重的武器。
 ClassDescription,"Obsessed with blurring the line between life and death, these meddlers of dark forces prefer to associate with cadavers over the living. To some, the rituals are grotesque, but they see pure majesty in the manipulation of the natural order.",沉迷於模糊生死界線，這些黑暗力量的操縱者相比於接觸生者更願意接觸死屍。對一些人而言，這些儀式很可怖，但他們在扭曲自然秩序中見到了純粹的力量。
 ClassDescription,"Pious scholars, oath-bound to their scripture. Although altruistic and good-natured, they are trained in martial arts so as to protect themselves and the canon they live by.",虔誠的學者，曾對他們的聖經起誓。儘管他們無私且溫和，但他們仍會用武術來保護他們自己以及他們的信念。
@@ -729,11 +1002,16 @@ ClassDescription,Questionably pious individuals from an ancient religious and mi
 ClassDescription,"Quintessential scientific researchers and dauntless historical investigators. Both brash and debonair, they seek out knowledge and accolades alike. They are curiously fond of whips and share a perplexing hatred towards serpents.",典型的科學家以及無畏的考古學家。他們高傲且自信， 他們尋求他們所認可的知識以及意見。 奇怪且令人困擾的是，他們喜愛鞭子，可他們同樣討厭蛇類。
 ClassDescription,"Restless desperados, driven by wanderlust and troubled by the haunting memories of those they could not protect. They are sly masters of lead and steel, hellbent on redemption and retribution.",陷入無盡絕望的迷途者， 被無法保護所想要保護的人或事物的記憶所困擾而流浪。他們是帶著火藥味硝煙的詭計師，在因果報應與救贖之中承受煉獄的考驗。
 ClassDescription,"Righteous clergymen, dedicated to a life of sacrifice and spreading the word of their almighty deities. Well-versed in divine magic and the judicial delivery of violence to those deemed unworthy of salvation.",受人尊重的牧師，他們的生命注定要奉獻給全能的神靈。他們廣知各種聖靈之術，也可對他們所認為無可救藥的生物以武力來審判。
+ClassDescription,"Scholars who bound their fate to raw elemental force rather than the slower disciplines of wizardry. Fire and frost answer their call in equal measure, a duality most mages never dare attempt.",
+ClassDescription,"Self-taught chemists of the underworld, forever mixing, tasting and bottling the unknown. What they lack in swordsmanship they make up for with a satchel of volatile solutions and a hard-won immunity to their own mistakes.",
 ClassDescription,"Strongly built, tough and industrious workers who are more than capable in dangerous situations. Traditional practices and heavy tools are used to overcome obstacles in their pursuit of valuable gemstones.",體格健壯，這位強壯而努力的工人在危險環境中如魚得水。他們在追尋珍貴寶石的路途中用練習與重型工具克服困難。
 ClassDescription,"Sworn to uphold justice, these righteous warriors are dogmatic in pursuit of their sacred work. Classical martial skills are complemented by magical powers to protect the innocent and smite the wicked.",出於對心中正義的信仰，這些受人尊敬的戰士追求於他們神聖的工作，他們用經典的武術搭配上魔力的補足來懲惡揚善。
 ClassDescription,"Venerable men-at-arms clad in gleaming armour, renowned for their unyielding chivalry and conviction. They are high-born and are educated to be strategists and capable leaders on any battlefront.",受人尊敬的聖甲戰士，他們因他們的身份與信念而受人尊敬， 他們皆出生於貴族並且受過良好的教育，能夠在前線領導軍隊。
 ClassDescription,"Warrior slaves compelled to battle for the entertainment of raucous crowds, often to the death. Those that can survive this cauldron are trained into the most brutal of pit fighters.",被迫以戰鬥給喧囂的群眾取樂的奴隸，死亡是他們的舊友。在角鬥場上的生存將他們磨煉成最殘忍的角鬥士。
 ClassDescription,"Wilderness sentinels who understand the true balance of the universe. With bow in hand, they have devoted their lives to protecting the forces of nature from the corrupting touch of civilisation.",狂野的哨兵，他們深知宇宙之間的真正平衡。他們執弓於手， 將自己獻身於保護自然之力免受其它文明的腐蝕。
+ClassName,apothecary//female,
+ClassName,apothecary//male,
+ClassName,apothecary//non-binary,
 ClassName,barbarian//female,野蠻人
 ClassName,barbarian//male,野蠻人
 ClassName,barbarian//non-binary,野蠻人
@@ -749,6 +1027,9 @@ ClassName,convict//non-binary,罪犯
 ClassName,druid//female,德魯伊
 ClassName,druid//male,德魯伊
 ClassName,druid//non-binary,德魯伊
+ClassName,elementalist//female,
+ClassName,elementalist//male,
+ClassName,elementalist//non-binary,
 ClassName,explorer//female,探險家
 ClassName,explorer//male,探險家
 ClassName,explorer//non-binary,探險家
@@ -782,6 +1063,9 @@ ClassName,mystic//non-binary,神秘學者
 ClassName,necromancer//female,死靈法師
 ClassName,necromancer//male,死靈法師
 ClassName,necromancer//non-binary,死靈法師
+ClassName,nightblade//female,
+ClassName,nightblade//male,
+ClassName,nightblade//non-binary,
 ClassName,ninja//female,忍者
 ClassName,ninja//male,忍者
 ClassName,ninja//non-binary,忍者
@@ -809,6 +1093,9 @@ ClassName,samurai//non-binary,武士
 ClassName,shaman//female,薩滿
 ClassName,shaman//male,薩滿
 ClassName,shaman//non-binary,薩滿
+ClassName,slayer//female,
+ClassName,slayer//male,
+ClassName,slayer//non-binary,
 ClassName,templar//female,聖堂武士
 ClassName,templar//male,聖堂武士
 ClassName,templar//non-binary,聖堂武士
@@ -821,18 +1108,26 @@ ClassName,tourist//non-binary,遊客
 ClassName,valkyrie//female,女武神
 ClassName,valkyrie//male,武神
 ClassName,valkyrie//non-binary,武神
+ClassName,witch//female,
+ClassName,witch//male,
+ClassName,witch//non-binary,
 ClassName,wizard//female,法師
 ClassName,wizard//male,法師
 ClassName,wizard//non-binary,法師
+CompanionName,almiraj,
+CompanionName,astral puppy,
 CompanionName,bird,鳥
+CompanionName,blink puppy,
 CompanionName,cat,貓
 CompanionName,dog,狗
 CompanionName,egg,蛋
 CompanionName,ghoul,食屍鬼
+CompanionName,hamster,
 CompanionName,horse,馬
 CompanionName,imp,小惡魔
 CompanionName,monkey,猴子
 CompanionName,rat,老鼠
+CompanionName,raven,
 CounterName,afflictions,感染
 CounterName,animations,活化
 CounterName,anoints,洗滌
@@ -925,8 +1220,10 @@ DeviceName,fire trap,噴火陷阱
 DeviceName,grease trap,油液陷阱
 DeviceName,hallucination trap,幻覺陷阱
 DeviceName,hole,破洞
+DeviceName,humantrap,
 DeviceName,hunger trap,飢餓陷阱
 DeviceName,ice trap,冰凍陷阱
+DeviceName,ink pool,
 DeviceName,level teleporter,樓層轉送器
 DeviceName,lightning trap,閃電陷阱
 DeviceName,noxious pool,毒液池
@@ -941,6 +1238,7 @@ DeviceName,sleeping gas trap,催眠陷阱
 DeviceName,spear trap,長矛陷阱
 DeviceName,spiked pit,尖刺陷坑
 DeviceName,squeaky board,發聲板
+DeviceName,statue trap,
 DeviceName,teleporter,傳送器
 DeviceName,toxic trap,劇毒陷阱
 DeviceName,trapdoor,陷阱門
@@ -1007,15 +1305,68 @@ EncumbranceName,stressed,重壓
 EncumbranceName,unencumbered,無負擔
 EngulfmentName,engulfed,吞入
 EngulfmentName,swallowed,吞嚥
+EntityDescription,"A blink dog pup, already able to flicker away from danger before it lands a bite.",
+EntityDescription,A bulbous fungus that bursts into a hissing cloud of acid when disturbed.,
+EntityDescription,"A cave bear whose pelt has gone grey as cinders, hardened by years sheltered in a live volcano's roots.",
+EntityDescription,"A cave spider drained of all colour by lightless generations, hunting by web-thrum alone.",
+EntityDescription,"A cobra pale as hoarfrost, coiled in the ice caves where warm-blooded prey seeks shelter.",
+EntityDescription,"A coyote with a static-charged coat, drawn down from the high plains after a lightning storm.",
+EntityDescription,"A dead tree animated by rot and old malice, its bark split open where a jaw shouldn't be.",
+EntityDescription,"A dragon steeped in high magic, said to hoard grimoires as jealously as gold.",
+EntityDescription,A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.,
+EntityDescription,A dwarf of a mountain clan so far north the forge-fires burn blue; one of its twin mattocks bites like the wind off the peak.,
+EntityDescription,A fey hound that flickers between here and elsewhere; it fights alongside anyone it trusts.,
+EntityDescription,"A giant bat with clouded, sightless eyes, navigating wholly by the shriek of its own echo.",
+EntityDescription,"A giant beetle with a carapace of blue-white chitin, breath steaming with cold in the deep dark.",
+EntityDescription,"A giant caked grey with volcanic ash, walking down from a smoking peak with a club still smoking at the tip.",
+EntityDescription,"A giant of the high glaciers, sheathed in rime; its breath alone can flash-freeze a puddle solid.",
+EntityDescription,"A gila monster whose beaded hide glows dull orange along the seams, as if lit from beneath.",
+EntityDescription,"A gnome who never left the deep tunnels, pale and stooped, at ease chewing through rock with a pickaxe.",
+EntityDescription,"A golem cast from bronze rather than raw iron; where its cousin only staggers under a lightning strike, this one drinks the current and spits it back.",
+EntityDescription,"A hound of the Astral plane, half-seen even when it stands still; it does not breathe or bleed.",
+EntityDescription,"A jackal wasted by sickness, its ribs showing through a mangy hide; its bite festers.",
+EntityDescription,A jelly black as a starless sky; things it touches for too long forget how alive they were.,
+EntityDescription,A jelly that glows faintly like a coal; fire only makes it swell larger and angrier.,
+EntityDescription,A jelly that reeks of rot; it dissolves flesh and gear alike to feed itself.,
+EntityDescription,"A jelly the colour of a bruise, faintly crackling; touching it feels like brushing a doorknob after crossing a carpet in winter.",
+EntityDescription,"A jelly the colour of glacier ice, cold to the touch and colder still if it touches back.",
+EntityDescription,"A kobold camouflaged in mottled green, more comfortable in the canopy than underground; it spits venom from a hollow reed.",
+EntityDescription,"A long worm that burrows through permafrost, its segmented hide crusted with rime.",
+EntityDescription,"A lynx with a rime-white winter coat, breath fogging even in a warm room.",
 EntityDescription,A medium-sized creature prone to great ambition. Short-lived but ubiquitous; they are not to be underestimated.,有遠大理想的中體型生物。短命而常見，不要低估它們。
+EntityDescription,"A panther whose black coat smoulders at the edges, leaving smoking pawprints on stone.",
+EntityDescription,"A plump waterfowl, unbothered by dungeons so long as there is a puddle nearby.",
+EntityDescription,"A pudding of black, viscid tar that oozes and smoulders at once; anything it swallows comes out cindered.",
+EntityDescription,"A raven with feathers like beaten iron, riding the thunderheads and stooping with a crack of static.",
+EntityDescription,"A rodent the size of a dog, cheek pouches bulging with whatever it last found on the floor.",
+EntityDescription,"A sewer rat gone pure white and pink-eyed, blind from generations in unlit tunnels.",
+EntityDescription,"A shade gone pale and crystalline, trailing frost wherever it drifts; the cold pours off it before it ever draws near.",
+EntityDescription,A shambling corpse wrapped in weeping buboes; the sickness that killed it did not stop working when it died.,
+EntityDescription,"A shark bred to lightless ocean trenches, its eyes filmed over and useless.",
+EntityDescription,"A skeleton picked clean by something worse than time; its bones are black at the joints, and its touch draws the warmth out of the living.",
+EntityDescription,A small heap of coins that isn't quite finished counting itself.,
+EntityDescription,"A small, quick-witted dragon out of the fey courts, more prankster than predator.",
+EntityDescription,"A spitting beetle whose glands have gone volcanic, hawking gobbets of burning pitch.",
+EntityDescription,"A standing wave of brackish swamp water, thick with algae and old poison; nothing in it is fresh, and nothing about touching it is safe.",
+EntityDescription,"A troll that wandered too near a volcano and came out the other side wrong: its hide is cracked magma-rock, glowing at every seam.",
+EntityDescription,"A water moccasin gone jet black, all but invisible against a night-flooded cave pool.",
+EntityDescription,"A weathered chest, until its lid splits open into a maw ringed with teeth.",
+EntityDescription,"A young astral dog, still learning to keep all four paws on the material plane at once.",
+EntityDescription,"A young mimic, its shapeshifting still crude — usually just a box that bites back.",
 EntityDescription,"Amorphous beings who have no typical shape but often take on a translucent humanoid form. While unmistakable for anything other than a plasma-like ooze, this form enables the use of clothing and tools.",可以隨意變形的奇妙存在，沒有固定的形狀，常常被描述為等離子體一樣的軟泥怪。不過它們經常呈現為半透明的人形，這樣就可以使用工具和衣物。
 EntityDescription,"An ancient race of towering recluses. Their terrifying size gives them immense strength, supplemented by a voracious diet of meats and minerals.",軀體龐大的遠古種族。他們可怖的體型給他們帶來無比的力量，需要靠進食大量肉類與岩石支撐。
+EntityDescription,"An ape with a crackling, wire-taut hide, native to the thunderheads above the high peaks.",
+EntityDescription,"An elf of the sunlit dunes, skin bronzed and eyes narrowed; its arrows are fletched with fire-hardened reed and fly burning.",
+EntityDescription,"An ogre gone half-feral in the fens, its skin sallow and slick; its claws carry a rot no wound-dressing can clean.",
+EntityDescription,An orc mummy exhumed from a barrow sealed under a cinder-field; its wrappings are charred and its grip sears whatever it holds.,
+EntityDescription,"An orc that has made its home in the marshlands, its blade notched and slicked with venom drawn from swamp adders.",
 EntityDescription,"Astral beings who are a vessel for the indomitable spirit of a vanquished adventurer. Having no motivations of their own, they are glad to permit the possession; for the deceased adventurer, it is a second chance at revenge or redemption. Born from astral matter, they are slightly built, translucent and can move freely through physical obstacles.",已故冒險者殘留在世間的靈魂。他們已經沒有了那種世俗的慾望，因此很樂意與他人分享。對於這些已故的冒險者來說，這是他們的第二次機會，讓他們能夠繼續自己的復仇或是尋求救贖。作為一種靈體，他們體型較大，呈半透明狀，並且可以在牆壁中穿梭。
 EntityDescription,"Beautiful, otherworldly beings characterised by their signature halo and feathered wings. Strongly attuned to the struggle between good and evil, they sense the divinity within anything they hold.",美麗且與俗世隔絕的生物，謠傳他們帶有標誌型的光圈與帶羽毛的翅膀。 他們能在善惡分辨中從容自如，並且能在一切所持的物品中感覺到神性。
 EntityDescription,Beware this clockwork machine of war.,當心這個發條控制的戰爭機器。
 EntityDescription,Bipedal mechanical automatons with nearly unbounded artificial intelligence. Powered by a molten core engine that requires a constant supply of raw metals and is susceptible to water damage.,一種雙足機械造物，擁有近乎無限的智能，由熔核引擎驅動。這種引擎需要持續提供金屬作為原料，並且極易受到水的傷害。
 EntityDescription,"Fey creatures linked by powerful nature spirits to fuel their antics. They are stocky with furry lower bodies, cloven hooves of a goat and curled horns of a ram. Ribald and clever, they cheerfully lead hedonistic escapades of drinking, dancing and fighting.",受到自然之靈祝福的異族生物，擁有魁梧的身軀，毛茸茸的下半身，山羊的蹄子和公羊的角。他們野蠻而又聰明，過著每天喝酒跳舞打架的快樂生活。
 EntityDescription,"Imposing and heavily built, they resemble humanoid dragons with a snout, scaly hide and functional wings.",看起來像人形的龍，體型健壯、氣勢雄偉，具有一些爬行動物的特徵，包括鱗片、呼吸孔和爪子。
+EntityDescription,"It waits among the headstones shaped like one more grave marker, patient as the dead around it.",
 EntityDescription,"Large, omnivorous reptilians whose bestial ancestors dominated the world long before the birth of civilisation. They are fearsome predators, capable of leaping impressive distances and warding off many attacks with their thick scaly hides.",大型食肉爬行動物其祖先在文明出現前就已統治世界許久。他們是令人恐懼的掠食者，可以跳躍很遠、用厚皮抵擋許多攻擊。
 EntityDescription,Monstrous creatures with the head and tail of a bull and the body of a man.,可怖的生物，有公牛一般的頭和尾巴，身體卻是人形。
 EntityDescription,"Perverse creatures of many aberrations but always with crimson skin and horns. Their mere presence compels others to act out their darkest, most violent desires.",雖然是所有邪惡生物的簡稱，但總長著赤紅的皮膚以及長角。 僅僅是迫使他人就能使他們展現出最黑暗且殘暴的慾望。
@@ -1033,7 +1384,11 @@ EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",醜陋而殘暴的食人物種，好戰、強力但愚蠢。
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.",大家常常以貌取人，覺得這種矮小的爬行動物軟弱而無能。他們用邪惡而狡猾的策略來面對難題，以克服自己身體上的限制。
 EntityName,abbot,修道院長
+EntityName,abyssal shark,
 EntityName,acid blob,強酸污斑
+EntityName,acid elemental,
+EntityName,acid sphere,
+EntityName,acid spore,
 EntityName,acid worm,強酸蠕蟲
 EntityName,acolyte,侍僧
 EntityName,adamantine golem,精金傀儡
@@ -1049,8 +1404,15 @@ EntityName,adult shimmering dragon,閃爍之龍
 EntityName,adult silver dragon,銀龍
 EntityName,adult white dragon,白龍
 EntityName,adult yellow dragon,黃龍
+EntityName,air binder,
 EntityName,air elemental,氣元素
+EntityName,air maker,
+EntityName,air seeker,
+EntityName,air sphere,
+EntityName,albino rat,
+EntityName,alchemist,
 EntityName,Aleax,復仇神使
+EntityName,almiraj,
 EntityName,ancient black dragon,古黑龍
 EntityName,ancient blue dragon,古藍龍
 EntityName,ancient deep dragon,古深淵龍
@@ -1063,6 +1425,7 @@ EntityName,ancient silver dragon,古銀龍
 EntityName,ancient white dragon,古白龍
 EntityName,ancient yellow dragon,古黃龍
 EntityName,angel,天使
+EntityName,angel warrior,
 EntityName,animate object,活化物件
 EntityName,ape,猿
 EntityName,Aphrodite,阿芙洛迪忒
@@ -1070,17 +1433,30 @@ EntityName,apprentice,學徒
 EntityName,arc bug,電弧蟲
 EntityName,arch-lich,大巫妖
 EntityName,archangel,大天使
+EntityName,archeologist,
 EntityName,Archmage Dirachi,寒冰大法師
 EntityName,Archmage Flaynn,火焰大法師
 EntityName,archon,亞空
 EntityName,Archpriest Avvakrum,大祭司
+EntityName,army captain,
+EntityName,army lieutenant,
+EntityName,army sergeant,
+EntityName,army soldier,
 EntityName,artisan,工匠
+EntityName,ash elemental,
+EntityName,ash giant,
+EntityName,ashen cave bear,
+EntityName,ashen mummy,
 EntityName,Ashikaga Takauji,足利尊氏
 EntityName,Asmodeus,阿斯摩蒂爾斯
 EntityName,asphynx,蛇怪
+EntityName,assassin,
 EntityName,assassin bug,獵蝽
 EntityName,Assassin Mortimer,刺客大師
 EntityName,astral deva,星界使徒
+EntityName,astral dog,
+EntityName,astral dragon,
+EntityName,astral puppy,
 EntityName,athol,阿索爾
 EntityName,attendant,侍從
 EntityName,Baalzebub,別西卜
@@ -1092,6 +1468,7 @@ EntityName,baby deep dragon,深淵雛龍
 EntityName,baby gold dragon,金色雛龍
 EntityName,baby green dragon,綠色雛龍
 EntityName,baby long worm,幼長蠕蟲
+EntityName,baby mimic,
 EntityName,baby orange dragon,橙色雛龍
 EntityName,baby purple worm,幼紫蠕蟲
 EntityName,baby red dragon,紅色雛龍
@@ -1111,8 +1488,10 @@ EntityName,basilisk,石化蜥蜴
 EntityName,bat,蝙蝠
 EntityName,bearded devil,倒鉤魔
 EntityName,beholder,眼魔
+EntityName,berserker,
 EntityName,bile worm,膽汁蠕蟲
 EntityName,bile worm tail,膽汁蠕蟲尾
+EntityName,bishop,
 EntityName,black light,黑光
 EntityName,black marketeer,黑市商人
 EntityName,black mould,黑色真菌
@@ -1123,26 +1502,37 @@ EntityName,black rat,黑鼠
 EntityName,black troll,黑巨魔
 EntityName,black unicorn,黑色獨角獸
 EntityName,black wasp,黑蜂
+EntityName,blind cave bat,
+EntityName,blink dog,
+EntityName,blink puppy,
 EntityName,blinking eye,眨眼者
 EntityName,blood imp,血色惡魔
 EntityName,bloodshot eye,血絲之眼
 EntityName,bloodworm,血蠕蟲
 EntityName,blue jelly,藍色凝凍
 EntityName,blue light,藍光
+EntityName,bog ogre,
 EntityName,bone devil,骨魔
+EntityName,bone reaper,
+EntityName,brine elemental,
+EntityName,bronze golem,
 EntityName,brown mould,褐色真菌
 EntityName,brown pudding,褐色凝膠怪
 EntityName,brownie,淘氣鬼
 EntityName,bugbear,熊地精
 EntityName,bull,公牛
+EntityName,buraq,
 EntityName,burbling blob,低鳴污斑
+EntityName,bushi,
 EntityName,byakhee,拜亞基
+EntityName,Byakko,
 EntityName,captain,上尉
 EntityName,carnivorous ape,食肉猿
 EntityName,carrion crawler,腐屍爬行者
 EntityName,caterwaul,尖嘯貓
 EntityName,catoblepas,石化牛
 EntityName,cave bear,洞穴熊
+EntityName,cave gnome,
 EntityName,cave spider,洞穴蜘蛛
 EntityName,cave troll,洞穴巨魔
 EntityName,centipede,蜈蚣
@@ -1151,6 +1541,7 @@ EntityName,chameleon,變色龍
 EntityName,changeling,變形人
 EntityName,Charon,卡戎
 EntityName,chasme,蠅魔
+EntityName,cherubim,
 EntityName,chickatrice,幼雞蛇
 EntityName,chicken,雞
 EntityName,chief yeoman warder,自耕農看守長
@@ -1170,6 +1561,7 @@ EntityName,crocodile,鱷魚
 EntityName,Croesus,克洛伊索斯
 EntityName,crystal golem,水晶傀儡
 EntityName,Cthulhu,克蘇魯
+EntityName,cyan jelly,
 EntityName,cyclops,獨眼巨人
 EntityName,dao,土巨靈
 EntityName,dark cleric,黑暗祭司
@@ -1201,7 +1593,12 @@ EntityName,dracon,龍裔
 EntityName,dragon king,龍王
 EntityName,dretch,怯魔
 EntityName,drow,卓爾精靈
+EntityName,drow mage,
+EntityName,drow monk,
+EntityName,drow priestess,
+EntityName,drow thief,
 EntityName,dryad,森林女神
+EntityName,duck,
 EntityName,duergar,灰矮人
 EntityName,dung worm,地牢蠕蟲
 EntityName,dust vortex,塵土旋風
@@ -1220,6 +1617,7 @@ EntityName,earth seeker,大地侍徒
 EntityName,earth sphere,泥巖球
 EntityName,echo,靈體
 EntityName,efreeti,火巨靈
+EntityName,elder wizard,
 EntityName,electric eel,電鰻
 EntityName,elephant,大象
 EntityName,elf,精靈
@@ -1229,16 +1627,24 @@ EntityName,elf mummy,精靈木乃伊
 EntityName,elf zombie,精靈殭屍
 EntityName,Elwing,愛爾溫
 EntityName,embalmer,斂屍者
+EntityName,ember panther,
+EntityName,ember spitting beetle,
 EntityName,emerald golem,綠寶石傀儡
+EntityName,energy elemental,
 EntityName,energy vortex,能量旋風
 EntityName,erinys,欲魔
+EntityName,eshim,
 EntityName,ettin,雙頭巨人
 EntityName,ettin mummy,雙頭巨人木乃伊
 EntityName,ettin zombie,雙頭巨人殭屍
+EntityName,explosive elemental,
+EntityName,explosive sphere,
 EntityName,exterminator,滅蟲者
+EntityName,fae dragon,
 EntityName,fairy,妖精
 EntityName,Famine,饑荒
 EntityName,Father Dagon,父神達貢
+EntityName,female demon,
 EntityName,fiend,邪神
 EntityName,fire ant,火蟻
 EntityName,fire elemental,火元素
@@ -1257,16 +1663,24 @@ EntityName,fog cloud,雲霧
 EntityName,forest centaur,森林半人馬
 EntityName,fox,狐狸
 EntityName,Frankenstein's Monster,弗蘭肯斯坦的怪物
+EntityName,frost beetle,
 EntityName,frost binder,極冰使者
+EntityName,frost cobra,
+EntityName,frost dwarf,
 EntityName,frost giant,冰霜巨人
+EntityName,frost long worm,
+EntityName,frost lynx,
 EntityName,frost maker,冰暴法師
 EntityName,frost seeker,冰凍侍徒
 EntityName,frost sphere,冰凍球
+EntityName,frost wraith,
+EntityName,galgalim,
 EntityName,gargoyle,石像魔
 EntityName,garter snake,束帶蛇
 EntityName,gas spore,氣體孢子
 EntityName,gecko,壁虎
 EntityName,gelatinous cube,膠狀立方
+EntityName,General Breetai,
 EntityName,genetic engineer,基因工程師
 EntityName,Geryon,格律翁
 EntityName,ghast,妖鬼
@@ -1284,6 +1698,7 @@ EntityName,giant crab,巨蟹
 EntityName,giant eel,巨鰻
 EntityName,giant flea,巨蚤
 EntityName,giant frog,巨蛙
+EntityName,giant hamster,
 EntityName,giant king,巨人之王
 EntityName,giant louse,巨虱
 EntityName,giant mimic,巨型擬態魔
@@ -1297,6 +1712,7 @@ EntityName,giant termite,巨白蟻
 EntityName,giant tick,巨蜱
 EntityName,giant wasp,巨黃蜂
 EntityName,giant zombie,巨人殭屍
+EntityName,Gianta Klaus,
 EntityName,gibberling,囉嗦鬼
 EntityName,gila monster,希拉毒蜥
 EntityName,Girtab,蠍尾獸
@@ -1321,8 +1737,10 @@ EntityName,goblin king,地精之王
 EntityName,gold golem,黃金傀儡
 EntityName,golden naga,金色娜迦
 EntityName,golden naga hatchling,金色幼娜迦
+EntityName,grave mimic,
 EntityName,great orc,偉岸獸人
 EntityName,green elf,綠精靈
+EntityName,green jelly,
 EntityName,green mould,綠色真菌
 EntityName,green slime,綠色史萊姆
 EntityName,gremlin,小妖精
@@ -1338,7 +1756,10 @@ EntityName,guide,嚮導
 EntityName,Guildmaster Vaughn,盜賊大師
 EntityName,Guru Quilion,大師
 EntityName,gypsy,吉普賽人
+EntityName,hag,
 EntityName,halfling,半身人
+EntityName,halfling female caveman,
+EntityName,halfling male caveman,
 EntityName,harpy,鷹身女妖
 EntityName,hell hound,地獄犬
 EntityName,hell hound pup,地獄犬幼崽
@@ -1363,9 +1784,11 @@ EntityName,human,人類
 EntityName,human king,人類國王
 EntityName,human mummy,人類木乃伊
 EntityName,human zombie,人類殭屍
+EntityName,huntress,
 EntityName,hydra,九頭蛇
 EntityName,ice devil,冰魔
 EntityName,ice elemental,冰元素
+EntityName,ice giant,
 EntityName,ice troll,寒冰巨魔
 EntityName,ice vortex,寒冰旋風
 EntityName,iguana,鼠鬣蜥
@@ -1381,8 +1804,10 @@ EntityName,jackalwere,胡狼人
 EntityName,jaguar,美洲虎
 EntityName,jellyfish,水母
 EntityName,jiggling blob,輕搖污斑
+EntityName,journeyman wizard,
 EntityName,juggernaut,主宰
 EntityName,Juiblex,無面之主
+EntityName,jungle kobold,
 EntityName,juvenile raven,幼烏鴉
 EntityName,Kaloi Thrym,暗黑魔王
 EntityName,kamadan,卡曼丹
@@ -1408,6 +1833,7 @@ EntityName,kobold warrior,狗頭人戰士
 EntityName,kobold zombie,狗頭人殭屍
 EntityName,komodo dragon,科莫多龍
 EntityName,kraken,克拉肯
+EntityName,Krull,
 EntityName,lamb,羊羔
 EntityName,Lareth,拉瑞斯
 EntityName,large cat,巨貓
@@ -1418,6 +1844,7 @@ EntityName,large mimic,大型擬態魔
 EntityName,large pile of killer coins,大型殺手金幣堆
 EntityName,larva,幼蟲
 EntityName,lava blob,岩漿污斑
+EntityName,lava troll,
 EntityName,leather golem,皮革傀儡
 EntityName,lemure,劣魔
 EntityName,leocrotta,尖牙獸
@@ -1434,6 +1861,7 @@ EntityName,lizardman,蜥蜴人
 EntityName,lizardman berserker,蜥蜴人狂戰士
 EntityName,lizardman chieftain,蜥蜴人頭領
 EntityName,lizardman mage,蜥蜴人魔法師
+EntityName,lizardman samurai,
 EntityName,lizardman shaman,蜥蜴人薩滿
 EntityName,lizardman warrior,蜥蜴人戰士
 EntityName,Lolth,羅絲女神
@@ -1456,18 +1884,24 @@ EntityName,master mind flayer,奪心魔大師
 EntityName,mastodon,乳齒象
 EntityName,Maugneshaagar,瑪納什格
 EntityName,medusa,美杜莎
+EntityName,melanistic moccasin,
 EntityName,mellified man,蜜漬木乃伊
 EntityName,merchant,商人
+EntityName,Merdude,
 EntityName,Metamorphius,位移者大師
+EntityName,midnight jelly,
 EntityName,migo drone,米戈工蜂
 EntityName,migo queen,米戈女皇
 EntityName,migo warrior,米戈戰士
+EntityName,mimic,
+EntityName,mimic coins,
 EntityName,mind flayer,奪心魔
 EntityName,minotaur,牛頭人
 EntityName,minotaur lord,牛頭人領主
 EntityName,mist wolf,迷霧之狼
 EntityName,mithril golem,秘銀傀儡
 EntityName,mobat,大蝙蝠
+EntityName,molten gila monster,
 EntityName,monadic deva,元素使徒
 EntityName,mongbat,猴蝠
 EntityName,monkey,猴子
@@ -1478,6 +1912,7 @@ EntityName,mountain nymph,山地仙女
 EntityName,movanic deva,光暗使徒
 EntityName,mugger,搶劫者
 EntityName,mumak,戰象
+EntityName,mystical dragon,
 EntityName,nabassu,掠魂魔
 EntityName,nalfeshnee,判魂魔
 EntityName,Nalzok,納佐克
@@ -1488,9 +1923,12 @@ EntityName,newt,蠑螈
 EntityName,nickelpede,大型千足蟲
 EntityName,nightgaunt,夜魔
 EntityName,nightmare,夢魘
+EntityName,noble elf,
 EntityName,Norn,諾恩女神
+EntityName,nun,
 EntityName,nupperibo,臃腫魔
 EntityName,nurse,護士
+EntityName,Nymph Princess,
 EntityName,occultist,死靈法師
 EntityName,ochre jelly,赭石色凝凍
 EntityName,ogre,食人魔
@@ -1507,6 +1945,7 @@ EntityName,orc grunt,低吼獸人
 EntityName,orc king,獸人王
 EntityName,orc mummy,獸人木乃伊
 EntityName,orc shaman,獸人薩滿
+EntityName,orc thief,
 EntityName,orc warrior,獸人勇士
 EntityName,orc zombie,獸人殭屍
 EntityName,Orcus,奧伽斯
@@ -1514,6 +1953,7 @@ EntityName,Orion,俄裡翁
 EntityName,owlbear,鴞熊
 EntityName,pack rat,包囊鼠
 EntityName,page,騎士侍從
+EntityName,pale cave spider,
 EntityName,panther,黑豹
 EntityName,pantherwere,豹狼人
 EntityName,paper golem,紙制傀儡
@@ -1524,6 +1964,10 @@ EntityName,Pelias,珀利阿斯
 EntityName,Pestilence,瘟疫
 EntityName,phase spider,相位蜘蛛
 EntityName,phase worm,相位蠕蟲
+EntityName,pheral khit,
+EntityName,pheral pharaoh,
+EntityName,pheral sentinel,
+EntityName,pheral vizier,
 EntityName,pig,豬
 EntityName,pile of killer coins,殺手金幣堆
 EntityName,piranha,食人魚
@@ -1531,10 +1975,13 @@ EntityName,pit bull,鬥牛犬
 EntityName,pit fiend,深獄煉魔
 EntityName,pit viper,頰窩毒蛇
 EntityName,pixie,仙子
+EntityName,plague jackal,
+EntityName,plague zombie,
 EntityName,plains centaur,平原半人馬
 EntityName,Planetar,異界神侍
 EntityName,plasmoid,凝質體
 EntityName,plastic golem,塑料傀儡
+EntityName,poison alchemist,
 EntityName,pony,小馬
 EntityName,proudfoot,普勞德富特
 EntityName,purple worm,紫蟲
@@ -1554,6 +2001,7 @@ EntityName,rancid jelly,腐臭凝凍
 EntityName,rat king,鼠之王
 EntityName,ratwere,鼠狼人
 EntityName,recluse spider,隱士蜘蛛
+EntityName,red jelly,
 EntityName,red light,紅光
 EntityName,red mould,紅色真菌
 EntityName,red naga,紅色娜迦
@@ -1561,6 +2009,10 @@ EntityName,red naga hatchling,紅色幼娜迦
 EntityName,rhaumbusun,巨蜥
 EntityName,rhumbat,朗姆吸血蝠
 EntityName,robot,機器人
+EntityName,robot female,
+EntityName,robot male vampire gunslinger,
+EntityName,robot sentry,
+EntityName,robot singer,
 EntityName,rock kobold,岩石狗頭人
 EntityName,rock mole,岩石鼴鼠
 EntityName,rock piercer,岩石洞穿者
@@ -1570,6 +2022,7 @@ EntityName,roshi,禪師
 EntityName,rot worm,腐爛蠕蟲
 EntityName,rothé,洛斯獸
 EntityName,ruby golem,紅寶石傀儡
+EntityName,runicorn,
 EntityName,rust monster,銹蝕怪
 EntityName,rutterkin,畸魔
 EntityName,sabre-toothed cat,劍齒虎
@@ -1578,10 +2031,13 @@ EntityName,sandestin,變形魔
 EntityName,sapphire golem,藍寶石傀儡
 EntityName,sasquatch,大腳怪
 EntityName,satyr,山羊人
+EntityName,savage brute,
+EntityName,savage stalker,
 EntityName,scorpion,蠍子
 EntityName,Scorpius,天蠍座
 EntityName,scramper,多面者
 EntityName,seal,海豹
+EntityName,seraphim,
 EntityName,sergeant,中士
 EntityName,sewer rat,褐鼠
 EntityName,shade,陰影
@@ -1589,6 +2045,7 @@ EntityName,shadow,暗影
 EntityName,shadow ogre,暗影食人魔
 EntityName,shadow wolf,影狼
 EntityName,Shaman Karnov,卡諾夫薩滿
+EntityName,shaolin monk,
 EntityName,shark,鯊魚
 EntityName,sheep,綿羊
 EntityName,shifter,變形者
@@ -1599,6 +2056,7 @@ EntityName,shock seeker,電光侍徒
 EntityName,shock sphere,閃電球
 EntityName,shoggoth,修格斯
 EntityName,shrieker,尖嘯者
+EntityName,silver golem,
 EntityName,Sir Lorimar,洛立馬爵士
 EntityName,skeleton,骷髏
 EntityName,small mimic,小型擬態魔
@@ -1610,6 +2068,9 @@ EntityName,snow orc,雪地獸人
 EntityName,Solar,熾天使
 EntityName,soldier,士兵
 EntityName,soldier ant,兵蟻
+EntityName,sonic elemental,
+EntityName,sonic sphere,
+EntityName,Soul Summoner,
 EntityName,spark bug,火花蟲
 EntityName,spider queen,蜘蛛女王
 EntityName,spiderwere,蜘蛛狼人
@@ -1623,24 +2084,36 @@ EntityName,static blob,堅韌污斑
 EntityName,steam vortex,蒸汽旋風
 EntityName,stone giant,岩石巨人
 EntityName,stone golem,岩石傀儡
+EntityName,storm ape,
+EntityName,storm coyote,
 EntityName,storm giant,風暴巨人
+EntityName,storm raven,
 EntityName,straw golem,稻草傀儡
 EntityName,student,學生
 EntityName,succubus,魅魔
+EntityName,sun elf,
 EntityName,swamp kobold,沼澤狗頭人
+EntityName,swamp orc,
+EntityName,tar pudding,
+EntityName,tempter,
+EntityName,temptress,
 EntityName,tengu,大天狗
+EntityName,thief,
 EntityName,Thorin,索林
 EntityName,Thoth Amon,阿蒙
 EntityName,thug,暴徒
 EntityName,tiger,虎
 EntityName,tigerwere,虎狼人
+EntityName,tin golem,
 EntityName,titan,泰坦巨人
 EntityName,titanothere,雷獸
 EntityName,topaz golem,黃玉傀儡
 EntityName,tortle,龜行者
 EntityName,tracker,賞金獵人
+EntityName,trader,
 EntityName,transmuter,變形術士
 EntityName,trapper,陷阱魔
+EntityName,traveller,
 EntityName,treant,樹精
 EntityName,troll,巨魔
 EntityName,troll mummy,巨魔木乃伊
@@ -1658,6 +2131,7 @@ EntityName,vampire mage,吸血鬼法師
 EntityName,Van Helsing,范海辛
 EntityName,Vecna,維克那
 EntityName,violet fungus,淺紫真菌
+EntityName,violet jelly,
 EntityName,vorpal jabberwock,斷頭炸脖龍
 EntityName,vrock,鷲魔
 EntityName,war orc,戰爭獸人
@@ -1687,6 +2161,7 @@ EntityName,weretiger,虎人
 EntityName,werewolf,狼人
 EntityName,white unicorn,白色獨角獸
 EntityName,wight,屍妖
+EntityName,wind sphere,
 EntityName,winged gargoyle,有翼石像魔
 EntityName,winter wolf,雪狼
 EntityName,winter wolf cub,雪狼幼崽
@@ -1722,6 +2197,7 @@ EntityName,young shimmering dragon,閃爍幼龍
 EntityName,young silver dragon,銀色幼龍
 EntityName,young white dragon,白色幼龍
 EntityName,young yellow dragon,黃色幼龍
+EntityName,zombietree,
 EntityName,zruty,祖魯提
 EquipAction,employ,使用
 EquipAction,purse,放入錢包
@@ -1763,9 +2239,15 @@ FeatureName,bed,床
 FeatureName,fountain,噴泉
 FeatureName,grave,墳墓
 FeatureName,pentagram,五芒星法陣
+FeatureName,pyramid,
 FeatureName,sarcophagus,石棺
+FeatureName,sink,
 FeatureName,stall,貨攤
 FeatureName,throne,王座
+FeatureName,toilet,
+FeatureName,wooden sign,
+FeatureName,wooden stool,
+FeatureName,wooden table,
 FeatureName,workbench,工作台
 FormatText,{ActionCount} action,{ActionCount} 行動
 FormatText,{ActionCount} actions,{ActionCount} 行動
@@ -2056,13 +2538,17 @@ GradeName,exotic,超凡
 GradeName,standard,普通
 GroundDescription,The cool stone surface has immaculate craftsmanship but is marked by damage and time.,冰冷的石頭地面的製作手藝並不精良，但是上面刻滿了時間的痕跡。
 GroundName,cave floor,洞穴地面
+GroundName,cave path,
 GroundName,chasm,裂隙
+GroundName,cloud,
+GroundName,deep water,
 GroundName,dirt,泥土地面
 GroundName,gold floor,黃金地面
 GroundName,granite floor,花崗岩地面
 GroundName,grass,草地
 GroundName,hive floor,巢穴地面
 GroundName,ice,堅冰
+GroundName,lattice floor,
 GroundName,lava,熔岩
 GroundName,marble floor,大理石地面
 GroundName,metal floor,金屬地面
@@ -2070,33 +2556,51 @@ GroundName,moss,苔蘚叢
 GroundName,obsidian floor,黑曜石地面
 GroundName,sand,沙地
 GroundName,sewer floor,下水道地面
+GroundName,shallow water,
 GroundName,snow,雪地
 GroundName,stone floor,岩石地面
 GroundName,stone path,岩石走廊
 GroundName,water,水
 GroundName,wooden floor,木製地板
+HordeName,acid foundry,
+HordeName,air foundry,
+HordeName,albino rat,
+HordeName,angelic choir,
 HordeName,ant,蟻
 HordeName,ape,猿
+HordeName,army patrol,
+HordeName,army platoon,
+HordeName,army squad,
+HordeName,ash foundry,
+HordeName,astral dog,
 HordeName,bat,蝙蝠
 HordeName,bee,蜂
 HordeName,beetle,甲蟲
+HordeName,blink dog,
+HordeName,brine foundry,
 HordeName,cockroach,蟑螂
 HordeName,couatl,羽蛇
 HordeName,coyote,犬
 HordeName,demon,惡魔
 HordeName,drow,卓爾精靈
+HordeName,drow enclave,
 HordeName,dwarf,矮人
 HordeName,electric bug,電蟲
 HordeName,elf,精靈
+HordeName,energy foundry,
+HordeName,explosive foundry,
 HordeName,flea,跳蚤
 HordeName,garter snake,束帶蛇
 HordeName,gibberling,囉嗦鬼
 HordeName,gnome,侏儒
 HordeName,goblin,地精
+HordeName,golem workshop,
 HordeName,grimlock,石暗盲族
 HordeName,harpy,鷹身女妖
+HordeName,heavenly host,
 HordeName,hell hound,地獄犬
 HordeName,jackal,胡狼
+HordeName,jelly cistern,
 HordeName,keystone,假警察
 HordeName,kobold,狗頭人
 HordeName,lemure,狐猴
@@ -2105,14 +2609,20 @@ HordeName,louse,虱子
 HordeName,mane,陰魂
 HordeName,mangler,絞肉機
 HordeName,migo,米戈
+HordeName,mimic nest,
 HordeName,mould,真菌
 HordeName,ogre,食人魔
 HordeName,orc,獸人
+HordeName,pheral tomb,
+HordeName,plague jackal,
 HordeName,rat,老鼠
 HordeName,rothé,洛斯獸
 HordeName,scorpion,蠍子
+HordeName,sonic foundry,
 HordeName,spider,蜘蛛
 HordeName,spore,孢子
+HordeName,storm coyote,
+HordeName,tar pudding,
 HordeName,termite,白蟻
 HordeName,tick,蜱蟲
 HordeName,tsetse fly,舌蠅
@@ -2124,15 +2634,36 @@ HordeName,wolf,狼
 HordeName,worm,蠕蟲
 HordeName,yeoman,自耕農
 HordeName,zombie,殭屍
+ItemDescription,"A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.",
+ItemDescription,"A barbed iron hook on a long coil of rope, thrown out and hauled back in.",
+ItemDescription,"A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.",
+ItemDescription,"A branched silver candle-holder, its every arm lit at once.",
+ItemDescription,"A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.",
+ItemDescription,"A canvas roll of bandages, salves and sutures for treating wounds in the field.",
+ItemDescription,"A ceremonial double-bitted axe, its twin blades curved like a crescent moon.",
+ItemDescription,"A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.",
+ItemDescription,"A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.",
 ItemDescription,A cloth mask that completely obstructs the wearer's vision.,阻擋穿戴者視野的布面具。
 ItemDescription,"A collection of utensils, including empty tins and butchering tools, for packing corpses so as to condense them.",一組家什，包括空罐頭和屠宰工具，用來打包屍體使其防腐。
 ItemDescription,A compact hand-held firearm.,小型手持火器。
+ItemDescription,"A crudely hammered throwing disc with a jagged, uneven rim, more likely to tear than to cut cleanly.",
+ItemDescription,"A curved funerary blade inlaid with gold, once carried by a pharaonic guardian charged with keeping the dead in their tombs.",
+ItemDescription,"A curved single-edged blade mounted on a long oaken shaft, prized by the warrior monks of the far east.",
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.",一把單刃的彎刀，常由騎兵使用。對下界生物尤其有效。
 ItemDescription,A curved single-edged blade often used by cavalry.,一把單刃的彎刀，常由騎兵使用。
 ItemDescription,A curved yellow fruit and a great source of fibre.,彎曲的黃色水果，提供大量纖維。
+ItemDescription,A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.,
+ItemDescription,A fine-grained stone for putting an edge back on a tired blade.,
+ItemDescription,"A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.",
+ItemDescription,A flat black stone used since antiquity to tell real gemstones from paste and glass.,
+ItemDescription,A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.,
 ItemDescription,"A flat throwing weapon made of wood, often used for hunting.",扁平的木製投擲武器，常用於狩獵。
 ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.",一塊又圓又扁的餅。用煎鍋做的，你可能已經猜到了。
+ItemDescription,"A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.",
 ItemDescription,A foreign device which creates perfect visual depictions of reality.,能完美描繪現實景象的異國設備。
+ItemDescription,"A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.",
+ItemDescription,"A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.",
+ItemDescription,"A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.",
 ItemDescription,A hand-held brass horn.,手持銅號。
 ItemDescription,"A hard rock, smooth and therefore aerodynamic.",形狀符合空氣動力學原理的石頭。
 ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,硬木棍。看著不起眼，在行家手裡是可畏的武器。
@@ -2140,10 +2671,16 @@ ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.",大�
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.",長雙刃。類似長劍，為雙手使用設計。
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,為近戰特別打造的重錘。
 ItemDescription,A heavy suit of armour made up of many strips of metal.,很多金屬片組成的厚重盔甲。
+ItemDescription,"A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.",
 ItemDescription,"A horizontal, mechanically-aided bow and arrow with a shoulder stock.",有肩托的機械弓箭。
 ItemDescription,A key designed to open all mundane locks.,設計來開所有鎖的鑰匙。
+ItemDescription,"A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.",
 ItemDescription,"A leather pouch set between two cords, meant for launching small projectiles.",兩個繩頭栓一塊皮包袱，用來發射小型投擲物。
+ItemDescription,"A length of sturdy rope with a clasp, for keeping a tame animal close at hand.",
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.",綁在前臂的輕木片，有金屬部分加固。
+ItemDescription,"A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.",
+ItemDescription,A long cane rod strung with line and hook. Best used beside open water.,
+ItemDescription,"A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.",重心平衡的鐵製小刀，可以用來投擲。
 ItemDescription,A long pipe meant for shooting darts through force of breath.,用吹氣射出飛鏢的長管。
 ItemDescription,A long thrusting polearm best suited to mounted combat.,一根長矛樣的長柄武器，騎乘的時候使用效果更好。
@@ -2151,68 +2688,110 @@ ItemDescription,A long-shafted arrow with a distinctive tip.,尖端突出的長�
 ItemDescription,"A long, flexible leather thong. Unexpectedly sharp.",一條長皮子，意想不到的鋒利。
 ItemDescription,"A long, flowing garment, with long sleeves and a hood.",帶長袖和兜帽的服裝。
 ItemDescription,A mace that is spiked on its head.,頭有尖刺的棍棒。
+ItemDescription,"A massive adamantine maul, its head as large as a barrel stave, that shrugs off the recoil of its own swing.",
+ItemDescription,"A massive, mithril-shod maul, its head as large as a barrel stave.",
 ItemDescription,A meal made from the stomach lining of an animal.,某種動物的胃部。
+ItemDescription,"A miniature crossbow of elven design, light enough to be drawn and fired one-handed without a stirrup.",
+ItemDescription,"A monstrous greatsword forged with three parallel blades fused along a single spine, each edge catching the light at a different angle.",
 ItemDescription,"A package of preserved meats, all dried and chewy.",一包熟成肉，又乾又柴
+ItemDescription,"A pair of gauntlets ringed with jagged knuckle-spikes, made to turn a punch into a wound.",
+ItemDescription,A pair of solid iron-plated boots that guard the shin and instep at the cost of a good deal of weight.,
 ItemDescription,A pair of sturdy leather boots which extend upward until just below the knee.,長及膝下的皮靴。
 ItemDescription,A pair of sturdy leather boots which extend upwards to just above the ankle.,長及腳踝的皮靴。
+ItemDescription,"A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.",
+ItemDescription,"A physician's instrument for listening to a heartbeat -- yours, or something else's.",
+ItemDescription,"A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.",
+ItemDescription,"A plain, undyed shirt of woven cloth, worn under armour or on its own.",
 ItemDescription,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.",尖鐵片接在硬木柄上，用來穿刺硬質表面。
 ItemDescription,A pointed metal cylinder meant to be discharged from a firearm.,用於從火器中被射出的尖圓柱。
+ItemDescription,A polished sheet of silvered glass. Some things recoil from their own reflection.,
 ItemDescription,A portable source of light fashioned out of copper and fuelled by oil.,銅質移動光源，需要添油。
 ItemDescription,A projectile consisting of a wooden shaft with a sharp metal tip at its front and stabilising fins at its rear.,尖金屬頭和尾羽接在木棍上。
+ItemDescription,"A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.",
 ItemDescription,A righteous sword forged by a revered blacksmith many years ago who set out to hone his craft and to create the ultimate blade. The noble intent of its creator lingers in this weapon to cut down the wicked and protect the innocent.,一把由著名的鐵匠經過多年鍛造出來的最終之刃，它被創造的初衷是為了斬盡一切邪穢之物從而保護無辜。
+ItemDescription,A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.,
 ItemDescription,"A sanctimonious biscuit. A miracle to the meek, a scourge to the undead.",神聖的餅乾。馴良者的福音，死靈的噩夢。
 ItemDescription,"A semi-rigid weapon made up of a notched wooden shaft with a drawstring attached to both ends, used to launch arrows.",木柄和拉弦組成的武器，用來發射箭。
+ItemDescription,"A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.",
 ItemDescription,A sharp iron wedge fashioned to a sturdy handle.,尖鐵楔接在硬柄上。
 ItemDescription,"A sharp metal throwing weapon, smaller than a hand and shaped like a star.",鋒利的金屬投擲武器，比手掌小，外形像星星。
 ItemDescription,A short and light double-edged blade.,短而輕的雙刃劍。
+ItemDescription,"A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.",
+ItemDescription,"A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.",
+ItemDescription,"A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.",
 ItemDescription,"A slimy, scaly sea creature, in its entirety. Good for a meal.",某種黏黏糊糊有鱗片的海生動物。可以飽食一頓了。
 ItemDescription,A small cutting utensil made of metal with a wooden handle.,木柄鐵質切割工具。
+ItemDescription,A small glass vial holding a captive mote of light.,
+ItemDescription,A small hooked blade made for prying the lid off a sealed tin.,
 ItemDescription,A small iron tool designed for opening all sorts of locks.,被設計用來打開任意鎖具的鐵製小工具。
 ItemDescription,A small missile with a pointed tip meant for throwing.,一段極度尖銳的小型投擲物。
 ItemDescription,A small missile with a reservoir of liquid delivered through a hollow pointed tip.,一種尖銳的小型投擲武器，其尖端的中空部分注入了毒液
+ItemDescription,"A small, chalky tablet of uncertain origin. Best swallowed quickly.",
+ItemDescription,"A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.",
+ItemDescription,"A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.",
 ItemDescription,"A soft-brimmed hat, somewhat out of fashion.",有點過時的軟邊帽。
 ItemDescription,A sophisticated bludgeon with a heavy iron head.,硬鐵頭大錘。
 ItemDescription,A spacious bag made of incredibly stretchy cotton.,一個寬敞的袋子，由擁有超強伸展性的棉製成。
 ItemDescription,A spacious cloth bag.,空間很大的布包。
+ItemDescription,"A staff of living, unworked rock. What shapes matter cannot itself be unmade.",
 ItemDescription,A stick of cured meat.,臘肉串。
 ItemDescription,"A stick of highly explosive material, with a short fuse on one end.",一根易爆物，一端有短引線。
+ItemDescription,A stone infused with restorative magic. It crumbles a little more each time it is used.,
+ItemDescription,A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.,
+ItemDescription,"A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.",
 ItemDescription,"A straight, double-edged and often cruciform blade.",這把劍擁有筆直的雙刃，通常是十字形。
+ItemDescription,"A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.",
 ItemDescription,A sturdy and solid mineral.,堅硬的礦物。
 ItemDescription,A suit of armour made from metal rings sewn onto a foundation of leather or cloth.,環甲由皮革或布料製作的襯裡和外面所附著的獨立鐵環組成。
+ItemDescription,"A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.",
 ItemDescription,"A surviving portion of the legendary wall of Verimurus, an ancient elven city said to have lasted since time immemorial. However, not even the mightiest walls could withstand the endless onslaught of the dragons. Now the enchanted walls stand alone over the land that once held them.",威利姆路斯是精靈的一座城市，其歷史據說可以追溯到上古時期。但是，即使是最堅固的城牆也無法抵擋住惡龍無盡的襲擊。如今，威利姆路斯早已化為塵埃，只留下了這堵附魔的城牆。
 ItemDescription,"A sweet citrus fruit, coloured eponymously.",某種柑橘類水果，顏色看名字就知道。
 ItemDescription,"A sweet custard-filled pie with a thin crust, topped with whipped cream.",填充了醬料的派，頂上是一層奶油。
 ItemDescription,"A sweet, round fruit, of the red variety. Reportedly a great supplement to your physical health.",紅色圓形水果。對你的身體有好處。
+ItemDescription,"A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.",
 ItemDescription,"A tall, asymmetric bow.",對稱的長弓。
+ItemDescription,"A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.",
 ItemDescription,"A thick leather coat, constructed to withstand weather and wear.",厚皮衣物，遮風擋雨耐磨。
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.",大木棍子。難看，但是好用。
+ItemDescription,"A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,靈活的長劍，基本只能用於穿刺。
+ItemDescription,A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.,
 ItemDescription,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.",雙手火器，有肩托，常用於打獵。打人很疼。
 ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.",來源自矮人的天才想法以及精湛匠工，被獸人偷竊後擅自使用。安裝在長軸上之後，這件武器在馬背上或用來反擊時尤其強大。在鑽上的電流會意外地排出並讓膽敢擋在它面前的人知道它的洶湧。
+ItemDescription,"A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.",
 ItemDescription,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,農具的一種，將彎刀固定在手柄上製成
 ItemDescription,An ambiguous curiosity. It seems edible.,不知道什麼玩意兒。看起來能吃。
 ItemDescription,An article of leather clothing covering the torso that hangs around the neck and on the shoulders.,圍在脖子和肩膀上、覆蓋身體的皮衣物。
 ItemDescription,An article of waterproof cotton clothing covering the torso that hangs around the neck and on the shoulders.,圍在脖子和肩膀上、覆蓋身體的防水棉衣物。
+ItemDescription,"An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.",
 ItemDescription,An elven travel food. It is incredibly satiating.,精靈旅行食物。特別管飽。
+ItemDescription,"An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.",
 ItemDescription,An extremely sharp little blade used for precise incisions.,非常鋒利的小刀，用於精密切割。
 ItemDescription,An inconspicuous snack that tells deep secrets.,不起眼的零食，藏著深刻的秘密。
 ItemDescription,An iron projectile made up of a shaft with a sharpened square-pyramid tip.,一種頭部呈金字塔型的鐵質投射物。
+ItemDescription,"An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.",
 ItemDescription,"An orange root-vegetable, commonly believed to improve eyesight.",橘紅色的蔬菜根部，普遍認為對視力有益。
+ItemDescription,"An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.",
 ItemDescription,"Boiled leather, moulded into a bodily shape to be donned as light armour.",熟皮子塑成軀體狀作為輕甲。
 ItemDescription,"Bold, or just tacky?",「大膽，還是俗氣？」
 ItemDescription,Chain mail consists of a mesh of metal rings interlinked to form a flexible armour.,鏈甲由網狀相連的鐵環組成，柔韌靈活。
+ItemDescription,"Fate itself bends around the wearer, keeping them exactly where the blow cannot land.",
 ItemDescription,"Forged deep underground by dwarven hands, this blade was made to slay the scaled beasts who sought to steal their treasures. Throughout the long years this blade has bathed in the blood of its winged prey. Now almost forgotten, it yearns again for the taste of dragon flesh.",由矮人匠工於地下深處打造，這把利刃當初被用來殺戮欲要搶奪他們寶藏的巨大野獸。 在漫長的歲月中這把利刃已在它的帶翼獵物的血液中浸泡得鮮紅。 如今它幾乎被遺忘，卻仍嚮往著品嚐巨龍的血肉。
 ItemDescription,"Gazing into its crimson depths you can see the concentrated life essence of countless victims swirling inside of it. The artifact was completed in the moment of the creators' death, as his soul was claimed by his creation. Now residing among the souls of his former victims, his essence as an alchemist provides the stone with ultimate transmutative powers.",如果你注視著這赤紅寶石的深處，你可以窺見帶有無數冤魂在其中環繞的生命精華.這件神器在它的創造者的死亡時完成，他的靈魂被這件神器所佔有。現如今與環繞著的冤魂一起，他的精華在鮮紅的寶石中作為熔爐，為這顆寶石提供無盡且強大的轉化之力。
+ItemDescription,"Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.",
 ItemDescription,Its high-quality elvish manufacture makes for an effective close combat weapon.,精靈製造的高質量產品，有效的近戰武器。
 ItemDescription,Leather armour with close-set studs so as to offer more protection.,釘有鐵釘的皮甲，防護效果更好。
 ItemDescription,"Like a smaller variant of the katana, often used as a side-arm.",武士刀的小型變種，常做備用武器。
+ItemDescription,"Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.",
 ItemDescription,One segment of a particularly pungent and bulbous herb.,某種辛辣球狀植物的一部分。
 ItemDescription,Standard issue protective metal headgear.,一般的金屬頭部護具。
+ItemDescription,"Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.",
 ItemDescription,"Sturdy leather garments fitted firm onto the hands, sheathing each finger individually.",覆蓋每根手指的皮質衣物。
 ItemDescription,The final sword forged by a once respected blacksmith who lost himself in the depths of the dungeon. His warped soul now inhabits this blade and lusts for blood. It is said that the one who wields this sword is coerced into cutting down friend and foe alike.,由一位在地牢深處迷失自我的著名鐵匠鍛造而成的最終之作，他扭曲的靈魂潛藏在刀刃之中。 傳聞稱使用這把利刃的人會因為寄居在刀刃裡宿主的嗜血意志而變得狂暴從而攻擊盟友與同類。
 ItemDescription,The head of a ranseur consists of a spear-tip affixed with a cross hilt at its base.,一個三叉矛頭，底部與十字狀刀柄相連接。
 ItemDescription,The only coin that can be found and spent in the dungeon.,在地牢發現並能夠使用的唯一的貨幣。
 ItemDescription,The snipped segment of a plant known for its antilycanthropic properties.,某種植物的一部分，以抗獸化效果知名。
+ItemDescription,"The spiral horn of a unicorn, its magic bound permanently into the artifact rather than spent in a single burst.",
 ItemDescription,The wearer will occasionally fly into uncontrollable rage lashing out at both friend and foe.,穿戴者偶爾會進入無法控制的暴怒，向敵人與盟友發起攻擊。
 ItemDescription,This ancient artifact is a marvel to behold with exquisite craftsmanship and unbridled digging power.,這件古老的神器是一件見證了絕妙的匠人手藝的傑作，以及它的無與倫比的挖掘力。
 ItemDescription,"This axe is specifically designed to facilitate deep, grievous wounds in combat. This large weapon is wielded in both hands.",這把巨大斧子的出現就是為了製造致命而令人痛苦的傷口。它需要用雙手來揮舞。
@@ -2221,6 +2800,7 @@ ItemDescription,This convenient vial of ink can be used to replenish your marker
 ItemDescription,This crudely made blade is still an effective throwing weapon.,這把刀雖然製作粗糙，但仍然是有效的投擲武器。
 ItemDescription,This curious artifact somehow chastens those it strikes and submits them to your will.,這件奇特的神器不知為何會令被擊中的敵人感到懊悔並服從你的意志。
 ItemDescription,This dwarvish manufactured sword is sturdy and suited to being wielded in the offhand.,這把矮人短劍十分結實，適合副手使用。
+ItemDescription,"This dwarvish punching blade is forged thicker than most, its crossbar reinforced to survive a full-strength thrust.",
 ItemDescription,This gemstone is made from hardened tree sap.,這塊「寶石」其實是用樹脂製成的。
 ItemDescription,This glowing looking glass reveals glimpses of the future and corrupts your soul.,這面發光的鏡子揭示著未來的碎片，腐化著你的靈魂。
 ItemDescription,This hammer is a four-pronged head mounted atop a long polearm stick. It bears a long spike on its reverse and an even longer spike extending from the very top. It proves effective at puncturing or smashing armour as well as dismounting riders.,這把戰錘錘頭正面有四角，反面有一根尖刺，還有一根更長的刺在錘頭頂部。加長它的長柄，它可以在刺穿與擊碎敵人盔甲的同時把敵人從坐騎上拽下。
@@ -2250,6 +2830,7 @@ ItemDescription,This weapon consists of a spearhead mounted on a long wooden sha
 ItemDescription,"This weapon is a curved blade attached to a pole by binding the lower two-thirds of the blade to the side of the pole, to form a sort of axe.",一把彎曲的刃由向下三分之二處捆綁在長柄的一側，使用起來類似於斧頭。
 ItemDescription,This withered hand is the last remnant of an ancient and powerful lich.,這只乾枯的手是一位古老而又強大的巫妖留下的，最後的遺物。
 ItemDescription,Tiny metal spikes thrown to the ground to impede mobility.,用來扔在地上延緩移動的小金屬刺。
+ItemDescription,"Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.",
 ItemDescription,Winged sandals made of imperishable gold which fly the wearer swiftly and silently.,用不朽之金製成的帶翼涼鞋，可以使穿戴者迅捷且無聲地飛行。
 ItemDescription,Zapping it at a wall creates a big tunnel.,對著牆壁使用可以製造一個巨大的隧道。
 ItemName,adamantine arrow,精金箭
@@ -2257,16 +2838,25 @@ ItemName,adamantine axe,精金斧
 ItemName,adamantine bident,精金雙尖刀
 ItemName,adamantine bow,精金弓
 ItemName,adamantine bullet,精金子彈
+ItemName,adamantine crossbow bolt,
 ItemName,adamantine dagger,精金匕首
 ItemName,adamantine dart,精金飛鏢
 ItemName,adamantine greataxe,精金戰斧
+ItemName,adamantine greatmace,
 ItemName,adamantine greatsword,精金大劍
 ItemName,adamantine hatchet,精金手斧
+ItemName,adamantine helm,
+ItemName,adamantine helmet,
+ItemName,adamantine katana,
+ItemName,adamantine lance,
 ItemName,adamantine long sword,精金長劍
 ItemName,adamantine plate mail,精金板甲
+ItemName,adamantine poleaxe,
+ItemName,adamantine quarterstaff,
 ItemName,adamantine rapier,精金細劍
 ItemName,adamantine sabre,精金馬刀
 ItemName,adamantine short sword,精金短劍
+ItemName,adamantine shuriken,
 ItemName,adamantine spear,精金矛
 ItemName,adamantine two-handed sword,精金雙手劍
 ItemName,agate,瑪瑙
@@ -2300,8 +2890,10 @@ ItemName,Backpack,背包
 ItemName,bag of holding,收納之袋
 ItemName,bag of tricks,詭計之袋
 ItemName,banana,香蕉
+ItemName,bandage,
 ItemName,banded mail,帶鏈甲
 ItemName,bardiche,月刃斧
+ItemName,baseball bat,
 ItemName,battle robe,戰袍
 ItemName,battle staff,戰杖
 ItemName,battle-axe,戰斧
@@ -2322,68 +2914,229 @@ ItemName,blowgun,吹管
 ItemName,blue dragon scale mail,藍色龍鱗甲
 ItemName,blue dragon scales,藍色龍鱗
 ItemName,blue glass bauble,藍色玻璃裝飾品
+ItemName,book of acid splash,
 ItemName,book of acid stream,強酸之流咒語書
 ItemName,book of animate dead,腐化術咒語術
 ItemName,book of animate object,活化物件咒語書
+ItemName,book of arc conduit,
+ItemName,book of arcane blight,
+ItemName,book of arcane whetstone,
+ItemName,book of arcing bolt,
+ItemName,book of artificer's exchange,
+ItemName,book of atonement,
+ItemName,book of augury,
+ItemName,book of bane,
+ItemName,book of banshee wail,
+ItemName,book of barring ward,
+ItemName,book of battle fury,
 ItemName,book of bind undead,死靈役使咒語書
+ItemName,book of binding sphere,
+ItemName,book of black ice patch,
+ItemName,book of black plague,
+ItemName,book of blade blessing,
 ItemName,book of blank paper,空白之書
+ItemName,book of bless,
 ItemName,book of blinking,閃現咒語書
+ItemName,book of blurred form,
+ItemName,book of call of the pack,
+ItemName,book of calm,
+ItemName,book of caltrop swarm,
 ItemName,book of cancellation,撤銷咒語書
+ItemName,book of causeway,
+ItemName,book of chain lightning,
+ItemName,book of changeless ward,
 ItemName,book of charm,魅惑咒語書
+ItemName,book of chill grasp,
+ItemName,book of chromatic orb,
 ItemName,book of clairvoyance,洞察咒語書
+ItemName,book of claybind touch,
+ItemName,book of clear sight,
+ItemName,book of clouded mind,
+ItemName,book of command,
+ItemName,book of commune,
+ItemName,book of concussive blast,
 ItemName,book of cone of cold,嚴寒之錐咒語書
 ItemName,book of confusion,混亂咒語書
+ItemName,book of conjure barricade,
+ItemName,book of conjure boulder,
+ItemName,book of conjure guardian,
+ItemName,book of conjure homunculus,
+ItemName,book of conjure mount,
+ItemName,book of conjured pit,
+ItemName,book of consecration,
+ItemName,book of contagion,
+ItemName,book of corpse explosion,
+ItemName,book of corroding ray,
 ItemName,book of create familiar,侍靈製造咒語書
+ItemName,book of creeping palsy,
+ItemName,book of crimson ichor lance,
 ItemName,book of crushing sphere,泥巖球侍靈咒語書
 ItemName,book of curing,疾病治癒咒語書
+ItemName,book of danger sense,
 ItemName,book of darkness,黑暗咒語書
+ItemName,book of daze,
+ItemName,book of death ward,
+ItemName,book of death's bargain,
+ItemName,book of deathwatch,
 ItemName,book of deflection,保護咒語書
 ItemName,book of detect food,食物偵測咒語書
+ItemName,book of detect metal,
 ItemName,book of detect monsters,怪物偵測咒語書
 ItemName,book of detect treasure,寶藏偵測咒語書
+ItemName,book of detect undead,
 ItemName,book of detect unseen,不可見偵測咒語書
 ItemName,book of dig,挖掘咒語書
+ItemName,book of disarming ward,
+ItemName,book of discord,
 ItemName,book of disintegrate,解離咒語書
+ItemName,book of dispel magic,
+ItemName,book of displacement,
+ItemName,book of divine favor,
+ItemName,book of divine intervention,
+ItemName,book of dominate mind,
 ItemName,book of drain life,生命吸取咒語書
+ItemName,book of earthen colossus,
+ItemName,book of elemental servant,
+ItemName,book of elemental warding,
+ItemName,book of ember lance,
+ItemName,book of enlarge,
+ItemName,book of entangling vines,
+ItemName,book of entropic siphon,
 ItemName,book of extra healing,強效治療咒語書
+ItemName,book of false life,
 ItemName,book of fear,恐懼咒語書
+ItemName,book of find doors,
+ItemName,book of find traps,
 ItemName,book of finger of death,死亡之指咒語書
 ItemName,book of fireball,火球咒語書
 ItemName,book of flaming sphere,火焰球侍靈咒語書
 ItemName,book of force bolt,能量箭咒語書
+ItemName,book of foreknowledge,
+ItemName,book of freedom,
+ItemName,book of freedom of movement,
 ItemName,book of freezing sphere,冰凍球侍靈咒語書
+ItemName,book of frost breath,
 ItemName,book of full healing,全面治療咒語書
+ItemName,book of gate,
+ItemName,book of gilding touch,
+ItemName,book of glacial spike,
+ItemName,book of grasping mind,
+ItemName,book of grave rot,
+ItemName,book of gravity well,
+ItemName,book of guided path,
+ItemName,book of harvest of souls,
 ItemName,book of haste,迅捷咒語書
+ItemName,book of hazard sense,
 ItemName,book of healing,治療咒語書
+ItemName,book of hex,
+ItemName,book of hexbind,
+ItemName,book of hideous laughter,
+ItemName,book of hold monster,
+ItemName,book of hold person,
+ItemName,book of holy word,
 ItemName,book of ice storm,冰風暴咒語書
 ItemName,book of identify,鑒定咒語書
+ItemName,book of inner calm,
 ItemName,book of invisibility,隱形咒語書
+ItemName,book of iron will,
+ItemName,book of ironbind door,
+ItemName,book of juggernaut ray,
 ItemName,book of jumping,跳躍咒語書
+ItemName,book of keen search,
 ItemName,book of knock,開鎖咒語書
+ItemName,book of legion of bone,
 ItemName,book of levitation,漂浮咒語書
 ItemName,book of light,光芒咒語書
 ItemName,book of lightning bolt,閃電束咒語書
 ItemName,book of living wall,活體牆咒語書
 ItemName,book of magic mapping,魔法地圖咒語書
 ItemName,book of magic missile,魔法飛彈咒語書
+ItemName,book of meteoric cataclysm,
+ItemName,book of mind ken,
+ItemName,book of mind link,
+ItemName,book of mind spike,
+ItemName,book of mindrend,
+ItemName,book of mirror ward,
+ItemName,book of neutralize poison,
+ItemName,book of oracle's eye,
+ItemName,book of owl eyes,
+ItemName,book of petrifying touch,
 ItemName,book of phasing,相位轉移咒語書
+ItemName,book of planar anchor,
+ItemName,book of planar swap,
 ItemName,book of poison blast,毒液爆破咒語書
 ItemName,book of polymorph,變形咒語書
+ItemName,book of porter's reach,
+ItemName,book of prayer,
+ItemName,book of premonition,
+ItemName,book of prismatic spray,
+ItemName,book of psychic shove,
 ItemName,book of raise dead,亡靈再起咒語書
+ItemName,book of rally cry,
+ItemName,book of ray of enfeeblement,
+ItemName,book of reap,
 ItemName,book of regenerate,生命恢復咒語書
 ItemName,book of remove curse,詛咒移除咒語書
+ItemName,book of repelling ward,
+ItemName,book of repulsion,
 ItemName,book of restoration,能力恢復咒語書
+ItemName,book of revelation,
+ItemName,book of sanctuary,
+ItemName,book of scalding cloud,
+ItemName,book of searing light,
+ItemName,book of sense curse,
+ItemName,book of sense the restless,
+ItemName,book of sentinel ward,
+ItemName,book of shimmer shield,
 ItemName,book of shocking sphere,閃電球侍靈咒語書
+ItemName,book of shrink,
+ItemName,book of silence,
+ItemName,book of simulacrum,
 ItemName,book of sleep,睡眠咒語書
+ItemName,book of slick detonation,
+ItemName,book of slipping free,
 ItemName,book of slow,緩慢咒語書
 ItemName,book of soaking sphere,水球侍靈之書
+ItemName,book of song of discord,
+ItemName,book of spark bolt,
+ItemName,book of spectral shroud,
+ItemName,book of spirit leech,
+ItemName,book of spirit shield,
+ItemName,book of starfall,
+ItemName,book of steadfast ward,
+ItemName,book of stone to flesh,
+ItemName,book of stoneskin,
 ItemName,book of summoning,召喚咒語書
+ItemName,book of sunburst smite,
+ItemName,book of sunder gear,
+ItemName,book of swoon,
 ItemName,book of telekinesis,念力控制之書
+ItemName,book of telekinetic shove,
 ItemName,book of teleport away,傳送咒語書
+ItemName,book of thunderclap,
+ItemName,book of timed combustion,
+ItemName,book of tongue tied,
 ItemName,book of toxic spray,毒液噴射咒語書
+ItemName,book of transmuter's mastery,
+ItemName,book of true appraisal,
 ItemName,book of turn undead,死靈驅散咒語書
+ItemName,book of unbinding,
+ItemName,book of undying ward,
+ItemName,book of unseen hand,
+ItemName,book of vampiric feast,
+ItemName,book of veil of shadows,
+ItemName,book of wall breach,
+ItemName,book of wall of thorns,
 ItemName,book of walling,造牆術咒語書
+ItemName,book of ward of return,
+ItemName,book of warning ward,
+ItemName,book of web snare,
+ItemName,book of whispers of madness,
+ItemName,book of wildfire brand,
+ItemName,book of wither,
+ItemName,book of withering ray,
 ItemName,book of wizard lock,法師之鎖咒語書
+ItemName,book of world vision,
 ItemName,boomerang,迴旋鏢
 ItemName,bow,弓
 ItemName,brass bugle,黃銅號角
@@ -2397,9 +3150,13 @@ ItemName,bullwhip,鞭子
 ItemName,c-ration,c型口糧
 ItemName,caltrops,鐵蒺藜
 ItemName,can of grease,罐裝潤滑脂
+ItemName,candelabrum,
 ItemName,candy bar,糖塊
 ItemName,Carapace,胄甲
 ItemName,carrot,胡蘿蔔
+ItemName,Celestial Doom,
+ItemName,Celestial Kismet,
+ItemName,Celestial Portent,
 ItemName,chain barding,鎖鏈馬甲
 ItemName,chain mail,鏈甲
 ItemName,chakram,環刃
@@ -2415,6 +3172,7 @@ ItemName,cloak of deflection,防護斗篷
 ItemName,cloak of displacement,分身斗篷
 ItemName,cloak of invisibility,隱身斗篷
 ItemName,cloak of magic resistance,魔法抗性斗篷
+ItemName,cloth shirt,
 ItemName,clove of garlic,蒜瓣
 ItemName,club,大棒
 ItemName,Colossal Excavator,巨型挖掘者
@@ -2422,18 +3180,22 @@ ItemName,cornuthaum,巫師帽
 ItemName,costume earrings,無效果耳環
 ItemName,cram ration,廉價口糧
 ItemName,cream pie,奶油派
+ItemName,credit card,
 ItemName,Creeping Sprout,幼芽
+ItemName,crimson cloak,
 ItemName,crossbow,弩
 ItemName,crossbow bolt,弩箭
 ItemName,crysknife,呼嘯之刃
 ItemName,crystal ball,水晶球
 ItemName,crystal plate mail,水晶板甲
 ItemName,dagger,匕首
+ItemName,darkstone,
 ItemName,dart,飛鏢
 ItemName,Deadwood,枯枝
 ItemName,Deagle,沙漠之鷹
 ItemName,deep dragon scale mail,深淵龍鱗甲
 ItemName,deep dragon scales,深淵龍鱗
+ItemName,Demiurge,
 ItemName,dented pot,凹損之罐
 ItemName,detonation key,震爆鑰匙
 ItemName,diamond,鑽石
@@ -2441,6 +3203,8 @@ ItemName,dilithium crystal,雙鋰晶體
 ItemName,dimension key,次元鑰匙
 ItemName,Dire Needle,血色薔薇
 ItemName,disencumbrance boots,負重之靴
+ItemName,doublet,
+ItemName,dragon horn,
 ItemName,Dragonbane,斬龍劍
 ItemName,dread staff,恐懼手杖
 ItemName,Drilanze,三千驚雷槍
@@ -2453,6 +3217,7 @@ ItemName,drum of earthquake,地震之鼓
 ItemName,dunce cap,蠢人帽
 ItemName,dwarvish cloak,矮人族斗篷
 ItemName,dwarvish iron helm,矮人族鐵盔
+ItemName,dwarvish katar,
 ItemName,dwarvish mattock,矮人鶴嘴鋤
 ItemName,dwarvish mithril-coat,矮人族秘銀夾克
 ItemName,dwarvish roundshield,矮人圓盾
@@ -2465,8 +3230,10 @@ ItemName,elven arrow,精靈箭
 ItemName,elven boots,精靈靴
 ItemName,elven bow,精靈弓
 ItemName,elven broadsword,精靈寬刃劍
+ItemName,elven chakram,
 ItemName,elven cloak,精靈族斗篷
 ItemName,elven dagger,精靈匕首
+ItemName,elven hand crossbow,
 ItemName,elven leather helm,精靈族皮盔
 ItemName,elven mithril-coat,精靈族秘銀夾克
 ItemName,elven shield,精靈盾
@@ -2477,11 +3244,14 @@ ItemName,Escapist,逃脫專家
 ItemName,eucalyptus leaf,桉樹葉
 ItemName,expensive camera,昂貴相機
 ItemName,Eye of Aethiopica,埃塞俄比加之眼
+ItemName,eyeball,
 ItemName,Eyes of Ra,太陽神之眼
+ItemName,fancy boots,
 ItemName,fauchard,彎刃矛
 ItemName,fedora,軟呢帽
 ItemName,fire horn,火焰號角
 ItemName,fish,魚
+ItemName,fishing pole,
 ItemName,flail,連枷
 ItemName,flash staff,閃光手杖
 ItemName,fleet robe,迅捷之袍
@@ -2491,6 +3261,7 @@ ItemName,fly swatter,蒼蠅拍
 ItemName,food ration,食物
 ItemName,fortune cookie,簽語餅
 ItemName,frag grenade,破片手雷
+ItemName,frisbee,
 ItemName,frost horn,冰霜號角
 ItemName,fumble boots,笨拙靴
 ItemName,garnet,石榴石
@@ -2501,10 +3272,26 @@ ItemName,gauntlets of phasing,相位手套
 ItemName,gauntlets of power,力量手套
 ItemName,Giantslayer,巨人殺手
 ItemName,glaive,劍刃戟
+ItemName,gold axe,
+ItemName,gold chakram,
 ItemName,gold coin,金幣
+ItemName,gold dagger,
+ItemName,gold double vajra,
 ItemName,gold dragon scale mail,金色龍鱗甲
 ItemName,gold dragon scales,金色龍鱗
+ItemName,gold flail,
 ItemName,Gold Key,黃金鑰匙
+ItemName,gold khanda,
+ItemName,gold labrys,
+ItemName,gold longsword,
+ItemName,gold plate mail,
+ItemName,gold single vajra,
+ItemName,gold spade,
+ItemName,gold trident,
+ItemName,gold twohanded sword,
+ItemName,gold urumi,
+ItemName,gold whistle,
+ItemName,grappling hook,
 ItemName,great dagger,長匕首
 ItemName,green dragon scale mail,綠色龍鱗甲
 ItemName,green dragon scales,綠色龍鱗
@@ -2512,10 +3299,12 @@ ItemName,green glass bauble,綠色玻璃裝飾品
 ItemName,grenade launcher,榴彈發射器
 ItemName,Grimtooth,邪獸之牙
 ItemName,guisarme,威爾士鉤矛
+ItemName,Gungnir,
 ItemName,halberd,戟
 ItemName,Harbalest,雙子星
 ItemName,hatchet,手斧
 ItemName,hawaiian shirt,夏威夷襯衫
+ItemName,healthstone,
 ItemName,heavy hammer,重錘
 ItemName,heavy iron ball,沉重鐵球
 ItemName,heavy machine gun,重機槍
@@ -2548,6 +3337,7 @@ ItemName,kanabo,鬼金棒
 ItemName,katana,打刀
 ItemName,katar,拳刃
 ItemName,kelp frond,海帶藻體
+ItemName,khopesh,
 ItemName,knife,刀
 ItemName,lab coat,實驗服
 ItemName,lance,騎槍
@@ -2556,6 +3346,7 @@ ItemName,lantern,煤油燈
 ItemName,large box,大盒子
 ItemName,large shield,大盾牌
 ItemName,Lashing Tongue,抽動之舌
+ItemName,leash,
 ItemName,leather armour,皮甲
 ItemName,leather barding,皮製馬甲
 ItemName,leather cloak,皮製斗篷
@@ -2565,10 +3356,12 @@ ItemName,leather jacket,皮夾克
 ItemName,lembas wafer,蘭巴斯餅乾
 ItemName,lenses,隱形眼鏡
 ItemName,levitation boots,漂浮之靴
+ItemName,loadstone,
 ItemName,lock pick,開鎖器
 ItemName,long sword,長劍
 ItemName,low boots,短靴
 ItemName,lucern hammer,琉森錘
+ItemName,luckstone,
 ItemName,lump of royal jelly,蜂王漿團
 ItemName,mace,釘頭錘
 ItemName,magic bugle,魔法號角
@@ -2588,32 +3381,48 @@ ItemName,Maulfrost,冰霜漩渦
 ItemName,meat ring,肉環
 ItemName,meat stick,肉棒
 ItemName,meatball,肉球
+ItemName,medical kit,
 ItemName,melon,蜜瓜
+ItemName,mirror,
 ItemName,Mirrorbright,明鏡
 ItemName,Miserus,貪婪法典
 ItemName,mithril arrow,秘銀箭
+ItemName,mithril axe,
 ItemName,mithril barding,秘銀馬甲
 ItemName,mithril battle-axe,秘銀戰斧
 ItemName,mithril bullet,秘銀子彈
 ItemName,mithril crossbow bolt,秘銀弩箭
 ItemName,mithril dagger,秘銀匕首
 ItemName,mithril dart,秘銀飛鏢
+ItemName,mithril gauntlets,
+ItemName,mithril greatmace,
+ItemName,mithril greatsword,
+ItemName,mithril hatchet,
 ItemName,mithril helmet,秘銀頭盔
+ItemName,mithril katana,
 ItemName,mithril katar,秘銀拳刃
 ItemName,mithril lance,秘銀騎槍
 ItemName,mithril long sword,秘銀長劍
 ItemName,mithril plate mail,秘銀板甲
+ItemName,mithril poleaxe,
+ItemName,mithril rapier,
 ItemName,mithril sabre,秘銀馬刀
 ItemName,mithril shield,秘銀盾
 ItemName,mithril short sword,秘銀短劍
+ItemName,mithril shuriken,
 ItemName,mithril spear,秘銀矛
+ItemName,mithril trident,
 ItemName,mithril two-handed sword,秘銀雙手劍
 ItemName,mithril whip,秘銀鞭
+ItemName,mooshroom,
 ItemName,morning star,流星錘
+ItemName,Mournblade,
 ItemName,mummy wrapping,木乃伊裹屍布
 ItemName,Muramasa,村正
 ItemName,mushroom,蘑菇
 ItemName,mute earrings,沉默耳環
+ItemName,naginata,
+ItemName,Nonagon Infinity,
 ItemName,nunchaku,雙截棍
 ItemName,obsidian,黑曜石
 ItemName,oil lamp,油燈
@@ -2626,6 +3435,7 @@ ItemName,orange glass bauble,橙色玻璃裝飾品
 ItemName,orcish arrow,獸人箭
 ItemName,orcish bow,獸人弓
 ItemName,orcish chain mail,獸人族鏈甲
+ItemName,orcish chakram,
 ItemName,orcish cloak,獸人族斗篷
 ItemName,orcish dagger,獸人匕首
 ItemName,orcish helm,獸人族頭盔
@@ -2640,9 +3450,13 @@ ItemName,partisan,槍戟
 ItemName,pear,梨
 ItemName,pearl,珍珠
 ItemName,phantom key,幻影鑰匙
+ItemName,phial,
 ItemName,Philosophers Stone,哲學者之石
 ItemName,pick-axe,鶴嘴鋤
+ItemName,pill,
 ItemName,pistol,手槍
+ItemName,plastic bat,
+ItemName,plastic hammer,
 ItemName,plastic sword,塑料劍
 ItemName,plate barding,金屬馬甲
 ItemName,plate mail,板甲
@@ -2679,10 +3493,13 @@ ItemName,potion of see invisible,隱身偵測藥水
 ItemName,potion of sickness,疾病藥水
 ItemName,potion of sleeping,睡眠藥水
 ItemName,potion of speed,速度藥水
+ItemName,potion of sustenance,
+ItemName,potion of warning,
 ItemName,potion of water,水
 ItemName,proof earrings,評價耳環
 ItemName,Prudentia,智慧之鏡
 ItemName,quarterstaff,短杖
+ItemName,railgun,
 ItemName,ranseur,三叉矛
 ItemName,rapier,細劍
 ItemName,Ravenbow,鴉羽弓
@@ -2698,6 +3515,7 @@ ItemName,ring of cold resistance,寒冷抗性之戒
 ItemName,ring of conflict,衝突之戒
 ItemName,ring of constitution,體質之戒
 ItemName,ring of dexterity,敏捷之戒
+ItemName,ring of energy,
 ItemName,ring of fire resistance,火焰抗性之戒
 ItemName,ring of free action,自由行動之戒
 ItemName,ring of hunger,飢餓之戒
@@ -2705,6 +3523,7 @@ ItemName,ring of impact,衝擊之戒
 ItemName,ring of intelligence,智力之戒
 ItemName,ring of invisibility,隱身之戒
 ItemName,ring of levitation,漂浮之戒
+ItemName,ring of marksmanship,
 ItemName,ring of naught,無效果戒指
 ItemName,ring of poison resistance,毒素抗性之戒
 ItemName,ring of polymorph,變形之戒
@@ -2728,11 +3547,24 @@ ItemName,robe,長袍
 ItemName,rock,石塊
 ItemName,rocket,火箭
 ItemName,rocket launcher,火箭筒
+ItemName,rose axe,
+ItemName,rose battleaxe,
+ItemName,rose bident,
+ItemName,rose dagger,
+ItemName,rose greatsword,
+ItemName,rose hatchet,
+ItemName,rose long sword,
+ItemName,rose rapier,
+ItemName,rose ring,
+ItemName,rose sabre,
+ItemName,rose short sword,
+ItemName,rose spear,
 ItemName,Rosenthral,魅血
 ItemName,rubber hose,橡膠管
 ItemName,ruby,紅寶石
 ItemName,Ruby Key,紅寶石鑰匙
 ItemName,Runesword,符文劍
+ItemName,Runicorn Horn,
 ItemName,sabre,馬刀
 ItemName,sack,口袋
 ItemName,saddle,馬鞍
@@ -2779,6 +3611,7 @@ ItemName,scythe,長柄鐮刀
 ItemName,shades,面罩
 ItemName,Shadow Key,陰影鑰匙
 ItemName,shield of reflection,反射之盾
+ItemName,Shillelagh,
 ItemName,shimmering dragon scale mail,閃光龍鱗甲
 ItemName,shimmering dragon scales,閃光龍鱗
 ItemName,short sword,短劍
@@ -2798,6 +3631,7 @@ ItemName,Silver Key,白銀鑰匙
 ItemName,silver lance,銀製騎槍
 ItemName,silver long sword,銀製長劍
 ItemName,silver mace,銀製釘頭錘
+ItemName,silver rapier,
 ItemName,silver sabre,銀製馬刀
 ItemName,silver short sword,銀製短劍
 ItemName,silver spear,銀製矛
@@ -2805,6 +3639,7 @@ ItemName,silver two-handed sword,銀製雙手劍
 ItemName,skeleton key,萬能鑰匙
 ItemName,slime mould,史萊姆粘液
 ItemName,sling,投石器
+ItemName,sling staff,
 ItemName,small shield,小型盾牌
 ItemName,sniper rifle,狙擊槍
 ItemName,spear,矛
@@ -2814,29 +3649,40 @@ ItemName,spetum,槍矛
 ItemName,splint mail,板鏈甲
 ItemName,sprig of wolfsbane,附子草枝
 ItemName,Stamped Letter,有印章的信
+ItemName,steel boots,
+ItemName,stethoscope,
 ItemName,stick of dynamite,條狀炸藥
 ItemName,stiletto,長刃短劍
 ItemName,stone club,石製大棒
+ItemName,Stormbringer,
+ItemName,strange object,
 ItemName,studded leather armour,鑲釘皮革甲
 ItemName,submachine gun,衝鋒鎗
+ItemName,Sudarshana Chakra,
 ItemName,Sunsword,陽炎劍
 ItemName,t-shirt,T恤
+ItemName,tabard,
 ItemName,Talaria,泰拉瑞亞
 ItemName,The Hero,「英雄」
 ItemName,thunder staff,雷霆手杖
 ItemName,tin,罐頭
+ItemName,tin opener,
 ItemName,tin whistle,錫制口哨
 ItemName,tinning kit,罐裝器
 ItemName,tooled horn,加工過的號角
 ItemName,topaz,黃玉
 ItemName,torch,火炬
 ItemName,tortilla,墨西哥薄餅
+ItemName,touchstone,
+ItemName,towel,
 ItemName,trident,三叉戟
 ItemName,tripe ration,內臟
+ItemName,triplesword,
 ItemName,tsurugi,野太刀
 ItemName,turquoise,綠松石
 ItemName,two-handed sword,雙手劍
 ItemName,unicorn horn,獨角獸角
+ItemName,Vajra,
 ItemName,vegetable corpse,植物屍體
 ItemName,Verimurus,威利姆之壁
 ItemName,violet glass bauble,淺紫玻璃裝飾品
@@ -2847,6 +3693,7 @@ ItemName,wakizashi,脅差
 ItemName,wand of animation,活化物件之杖
 ItemName,wand of cancellation,取消之杖
 ItemName,wand of cold,嚴寒之杖
+ItemName,wand of confusion,
 ItemName,wand of create horde,怪物群製造之杖
 ItemName,wand of death,死亡之杖
 ItemName,wand of digging,挖掘之杖
@@ -2858,6 +3705,8 @@ ItemName,wand of fireball,火球之杖
 ItemName,wand of haste,迅捷之杖
 ItemName,wand of healing,治療之杖
 ItemName,wand of iceball,冰風暴之杖
+ItemName,wand of jumping,
+ItemName,wand of levitation,
 ItemName,wand of light,光明之杖
 ItemName,wand of lightning,閃電之杖
 ItemName,wand of locking,上鎖之杖
@@ -2873,12 +3722,17 @@ ItemName,wand of sleep,睡眠之杖
 ItemName,wand of slow,緩慢之杖
 ItemName,wand of striking,震擊之杖
 ItemName,wand of summoning,召喚之杖
+ItemName,wand of telekinesis,
 ItemName,wand of teleportation,傳送之杖
 ItemName,wand of theft,盜竊之杖
 ItemName,wand of undead turning,亡靈驅散之杖
 ItemName,war club,戰棍
 ItemName,war hammer,戰錘
+ItemName,war maul,
 ItemName,wax candle,石蠟蠟燭
+ItemName,Wepwawet's Fang,
+ItemName,wheellock pistol,
+ItemName,whetstone,
 ItemName,white dragon scale mail,白色龍鱗甲
 ItemName,white dragon scales,白色龍鱗
 ItemName,white glass bauble,白色玻璃裝飾品
@@ -2893,8 +3747,10 @@ ItemName,yellow dragon scale mail,黃色龍鱗甲
 ItemName,yellow dragon scales,黃色龍鱗
 ItemName,yellow glass bauble,黃色玻璃裝飾品
 ItemName,yellowish brown glass bauble,黃褐玻璃裝飾品
+ItemName,yoyo,
 ItemName,yumi,和弓
 ItemName,zircon,藍鋯石
+ItemName,Zweihander,
 ItemType,amulet,護符
 ItemType,bag,包
 ItemType,barding,馬甲
@@ -4440,13 +5296,17 @@ SchoolName,necromancy,亡靈系
 SchoolName,transmutation,變化系
 ServiceDescription,detect traps in the surrounding area.,在附近區域內偵測陷阱。
 ServiceDescription,identify one item in your inventory.,鑒定你物品欄內的一件物品。
+ServiceDescription,learn how to cast a random spell.,
+ServiceDescription,learn how to cast two random spells.,
 ServiceDescription,magic mapping for the surrounding area.,畫出附近區域地圖。
 ServiceDescription,refresh the shop with new items for sale.,刷新商店內可購買的道具和商人的金幣。
 ServiceDescription,remove a curse from one item in your inventory.,移除你物品欄內一件物品上的詛咒。
+ServiceName,advanced tuition,
 ServiceName,curse removal,詛咒移除
 ServiceName,identification,鑒定
 ServiceName,magic mapping,魔法地圖
 ServiceName,restock shop,給商店進貨
+ServiceName,spell tuition,
 ServiceName,trap detection,陷阱偵測
 ShopName,antique weapons outlet,古兵器店
 ShopName,delicatessen,熟食店
@@ -4462,9 +5322,14 @@ ShopName,second-hand stationery store,二手文具商店
 ShopName,used armour dealership,二手盔甲營銷
 ShrineName,craft station,製作站點
 ShrineName,dark sepulchre,黑暗聖殿
+ShrineName,elemental forge,
+ShrineName,fae chapel,
 ShrineName,holy shrine,祭壇
+ShrineName,martial temple,
 ShrineName,mystic coven,神秘據點
+ShrineName,pheral vault,
 ShrineName,sacred grove,神聖森林
+ShrineName,star observatory,
 SizeName,gargantuan,龐大
 SizeName,huge,巨大
 SizeName,large,大型
@@ -4670,101 +5535,290 @@ SonicName,write,書寫
 SpecialDescription,Aristocrats who enjoy all the privilege that comes with wealth and wonder why everyone hates them.,作為一位貴族，你享受著財富帶來的所有特權，同時很好奇為什麼自己會被所有人憎恨。
 SpecialDescription,"Being unusually short and slight, they are more nimble but not as effective in combat.",與你的同類相比，你的體型異常得瘦小。這使得你更加敏捷，但是會降低你的格鬥能力。
 SpecialDescription,"Being unusually tall and heavy, they move a bit slower but are more resilient.",與你的同類相比，你的體型異常得高大。你的行動比同類要遲緩一些，但是你擁有更強的韌性。
+SpecialDescription,"Bound by an infernal pact to a patron whose power flows through them, whether they will it or not.",
+SpecialDescription,"Changeling blood runs through their veins, granting them an otherworldly grace, but cold iron burns them like acid.",
+SpecialDescription,"Cursed with visions of what is to come, they see danger before it arrives, but the visions are slowly undoing their mind.",
+SpecialDescription,"Escaped from a laboratory before the experiment concluded, their body still bears the unstable mark of what was done to them.",
 SpecialDescription,"Forever cursed with lycanthropy, these beings can transform themselves into monstrous wolf forms.",由於受到狼人詛咒，你會變成可怕的狼形怪物。
 SpecialDescription,Forsaken creature that subsists by feeding on the vital essence of the living.,你被造物主所遺棄，只能以活人的生命精華為食。
 SpecialDescription,Gifted with extrasensory perception to identify entities otherwise hidden from the normal senses but at the cost of a gnawing hunger.,上天賜予你感知難以察覺的怪物的能力，但是你要承受無盡的飢餓。
+SpecialDescription,"Hardened by a lifetime of campaigns, they strike with brutal efficiency but carry old wounds that never fully healed.",
 SpecialDescription,"Highly attuned servants of elemental earth, they can conjure exploding spheres to destroy their enemies.",與泥巖球侍靈高度契合，他們可以召喚泥巖球侍靈為他們而戰。
 SpecialDescription,"Highly attuned servants of elemental flame, they can conjure exploding spheres to destroy their enemies.",與火焰球侍靈高度契合，他們可以召喚火焰球侍靈為他們而戰。
 SpecialDescription,"Highly attuned servants of elemental frost, they can conjure exploding spheres to destroy their enemies.",與冰凍球侍靈高度契合，他們可以召喚冰凍球侍靈為他們而戰。
 SpecialDescription,"Highly attuned servants of elemental shock, they can conjure exploding spheres to destroy their enemies.",與閃電球侍靈高度契合，他們可以召喚閃電球侍靈為他們而戰。
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.",與水球侍靈高度契合，他們可以召喚水球侍靈為他們而戰。
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,畢生的研習讓你把精力都放在了書本上，忽視了其他愛好以及身體鍛煉。
+SpecialDescription,"Made a living prying open tombs that were meant to stay shut, and picked up a rare set of skills along the way; the dead have not forgiven them.",
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,主角綜合征讓你堅信自己擁有主角光環，只是你的主角光環必須得通過一次現實的檢驗。
+SpecialDescription,"More at home among beasts than people, they ride and bond with animals expertly but rely on their companions more than their own blade.",
+SpecialDescription,"Newly turned by an elder vampire's bite, they crave blood but have not yet mastered the strengths of the curse.",
+SpecialDescription,"One of the few to survive a great plague, their blood now resists poison but their body was left frail and their nearby creatures keep their distance.",
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.",你無法確定自己的位置，已經適應了同時存在於任何地方的生活。
+SpecialDescription,"Pulled under by the sea and cursed to return, their lungs have made an uneasy peace with water while their waterlogged flesh dries out on land.",
+SpecialDescription,"Raised outside civilisation among beasts, they are quick and keen-eyed but never learned the discipline of formal combat.",
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,你的身體由活玻璃雕刻而成，完美地再現了你同族的模樣，能夠將光線與能量折射回去。
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.",雖然身上一塊肉都沒有，但從某種意義上來說還算是活著。這種奇特的體質會為你帶來一些優勢。
 SpecialDescription,The habitually drunk make for brazen yet slightly unsteady adventurers; just don't ask them to recite the alphabet backwards.,你是一位經常喝醉的冒險家，厚臉皮掩蓋不住腳下的不穩；在你看來，你只是沒辦法倒背字母表而已。
+SpecialDescription,"Touched by the animating art of golem-crafters, their flesh has hardened toward stone, granting resilience at the cost of grace.",
+SpecialDescription,"Trained in the one-on-one blade duel, every strike is precise, but a lifetime spent perfecting offence left little time to master defence.",
+SpecialDescription,"Trained since childhood in a monastic order, their body is a honed weapon but their vows forbid armour and forsake worldly learning.",
 SpecialDescription,"Whether innocent or guilty of their accused crimes, these individuals are desperate to escape custody.",無論自己是不是無辜的，這些囚犯們都會想方設法越獄。
+SpecialName,ascetic,
 SpecialName,colossus,高大魁梧
+SpecialName,construct,
+SpecialName,drowned,
 SpecialName,drunkard,踉蹌酒鬼
+SpecialName,duelist,
 SpecialName,earth,大地使者
+SpecialName,feral,
+SpecialName,fey,
 SpecialName,flame,烈焰使者
 SpecialName,frost,凜冬使者
 SpecialName,fugitive,亡命之徒
 SpecialName,glass,折光玻璃
+SpecialName,graverobber,
 SpecialName,midget,矮小侏儒
 SpecialName,noble,高雅貴族
+SpecialName,plagued,
+SpecialName,prophet,
 SpecialName,protagonist,主角光環
 SpecialName,psychic,窺密隱者
 SpecialName,quantum,混沌量子
 SpecialName,scholar,淵博學者
 SpecialName,shock,雷霆使者
 SpecialName,skeleton,不死骷髏
+SpecialName,spawn,
+SpecialName,specimen,
+SpecialName,tamer,
 SpecialName,vampire,吸血鬼
+SpecialName,veteran,
+SpecialName,warlock,
 SpecialName,water,潮汐使者
 SpecialName,werewolf,狼人詛咒
 SpellDescription,Projects a ball of energy that impacts on both monsters and objects.,發射同時分解敵人和物品的能量球。
+SpellName,acid splash,
 SpellName,acid stream,強酸之流
 SpellName,animate dead,腐化術
 SpellName,animate object,活化物件
+SpellName,arc conduit,
+SpellName,arcane blight,
+SpellName,arcane whetstone,
+SpellName,arcing bolt,
+SpellName,artificer's exchange,
+SpellName,atonement,
+SpellName,augury,
+SpellName,bane,
+SpellName,banshee wail,
+SpellName,barring ward,
+SpellName,battle fury,
 SpellName,bind undead,死靈役使
+SpellName,binding sphere,
+SpellName,black ice patch,
+SpellName,black plague,
+SpellName,blade blessing,
+SpellName,bless,
 SpellName,blinking,閃現
+SpellName,blurred form,
+SpellName,call of the pack,
+SpellName,calm,
+SpellName,caltrop swarm,
 SpellName,cancellation,撤銷
+SpellName,causeway,
+SpellName,chain lightning,
+SpellName,changeless ward,
 SpellName,charm,魅惑
+SpellName,chill grasp,
+SpellName,chromatic orb,
 SpellName,clairvoyance,洞察力
+SpellName,claybind touch,
+SpellName,clear sight,
+SpellName,clouded mind,
+SpellName,command,
+SpellName,commune,
+SpellName,concussive blast,
 SpellName,cone of cold,寒冰錐
 SpellName,confusion,混亂
+SpellName,conjure barricade,
+SpellName,conjure boulder,
+SpellName,conjure guardian,
+SpellName,conjure homunculus,
+SpellName,conjure mount,
+SpellName,conjured pit,
+SpellName,consecration,
+SpellName,contagion,
+SpellName,corpse explosion,
+SpellName,corroding ray,
 SpellName,create familiar,侍靈創造
+SpellName,creeping palsy,
+SpellName,crimson ichor lance,
 SpellName,crushing sphere,泥巖球侍靈
 SpellName,curing,疾病治癒
+SpellName,danger sense,
 SpellName,darkness,黑暗
+SpellName,daze,
+SpellName,death ward,
+SpellName,death's bargain,
+SpellName,deathwatch,
 SpellName,deflection,保護
 SpellName,detect food,食物偵測
+SpellName,detect metal,
 SpellName,detect monsters,怪物偵測
 SpellName,detect treasure,寶藏偵測
+SpellName,detect undead,
 SpellName,detect unseen,不可見偵測
 SpellName,dig,挖掘
+SpellName,disarming ward,
+SpellName,discord,
 SpellName,disintegrate,解離術
+SpellName,dispel magic,
+SpellName,displacement,
+SpellName,divine favor,
+SpellName,divine intervention,
+SpellName,dominate mind,
 SpellName,drain life,生命吸取
+SpellName,earthen colossus,
+SpellName,elemental servant,
+SpellName,elemental warding,
+SpellName,ember lance,
+SpellName,enlarge,
+SpellName,entangling vines,
+SpellName,entropic siphon,
 SpellName,extra healing,強效治療
+SpellName,false life,
 SpellName,fear,恐懼
+SpellName,find doors,
+SpellName,find traps,
 SpellName,finger of death,死亡之指
 SpellName,fireball,火球
 SpellName,flaming sphere,火焰球侍靈
 SpellName,force bolt,能量箭
+SpellName,foreknowledge,
+SpellName,freedom,
+SpellName,freedom of movement,
 SpellName,freezing sphere,冰凍球侍靈
+SpellName,frost breath,
 SpellName,full healing,全面治療
+SpellName,gate,
+SpellName,gilding touch,
+SpellName,glacial spike,
+SpellName,grasping mind,
+SpellName,grave rot,
+SpellName,gravity well,
+SpellName,guided path,
+SpellName,harvest of souls,
 SpellName,haste,加速
+SpellName,hazard sense,
 SpellName,healing,治療
+SpellName,hex,
+SpellName,hexbind,
+SpellName,hideous laughter,
+SpellName,hold monster,
+SpellName,hold person,
+SpellName,holy word,
 SpellName,ice storm,冰風暴
 SpellName,identify,鑒定
+SpellName,inner calm,
 SpellName,invisibility,隱身
+SpellName,iron will,
+SpellName,ironbind door,
+SpellName,juggernaut ray,
 SpellName,jumping,跳躍
+SpellName,keen search,
 SpellName,knock,開鎖
+SpellName,legion of bone,
 SpellName,levitation,漂浮
 SpellName,light,光芒
 SpellName,lightning bolt,閃電束
 SpellName,living wall,活體牆
 SpellName,magic mapping,魔法地圖
 SpellName,magic missile,魔法飛彈
+SpellName,meteoric cataclysm,
+SpellName,mind ken,
+SpellName,mind link,
+SpellName,mind spike,
+SpellName,mindrend,
+SpellName,mirror ward,
+SpellName,neutralize poison,
+SpellName,oracle's eye,
+SpellName,owl eyes,
+SpellName,petrifying touch,
 SpellName,phasing,相位轉移
+SpellName,planar anchor,
+SpellName,planar swap,
 SpellName,poison blast,毒液爆破
 SpellName,polymorph,變形
+SpellName,porter's reach,
+SpellName,prayer,
+SpellName,premonition,
+SpellName,prismatic spray,
+SpellName,psychic shove,
 SpellName,raise dead,亡靈再起
+SpellName,rally cry,
+SpellName,ray of enfeeblement,
+SpellName,reap,
 SpellName,regenerate,生命恢復
 SpellName,remove curse,詛咒移除
+SpellName,repelling ward,
+SpellName,repulsion,
 SpellName,restoration,能力恢復
+SpellName,revelation,
+SpellName,sanctuary,
+SpellName,scalding cloud,
+SpellName,searing light,
+SpellName,sense curse,
+SpellName,sense the restless,
+SpellName,sentinel ward,
+SpellName,shimmer shield,
 SpellName,shocking sphere,閃電球侍靈
+SpellName,shrink,
+SpellName,silence,
+SpellName,simulacrum,
 SpellName,sleep,睡眠
+SpellName,slick detonation,
+SpellName,slipping free,
 SpellName,slow,緩慢
 SpellName,soaking sphere,水球侍靈
+SpellName,song of discord,
+SpellName,spark bolt,
+SpellName,spectral shroud,
+SpellName,spirit leech,
+SpellName,spirit shield,
+SpellName,starfall,
+SpellName,steadfast ward,
+SpellName,stone to flesh,
+SpellName,stoneskin,
 SpellName,summoning,召喚
+SpellName,sunburst smite,
+SpellName,sunder gear,
+SpellName,swoon,
 SpellName,telekinesis,念力控制
+SpellName,telekinetic shove,
 SpellName,teleport away,傳送
+SpellName,thunderclap,
+SpellName,timed combustion,
+SpellName,tongue tied,
 SpellName,toxic spray,毒液噴射
+SpellName,transmuter's mastery,
+SpellName,true appraisal,
 SpellName,turn undead,死靈驅散
+SpellName,unbinding,
+SpellName,undying ward,
+SpellName,unseen hand,
+SpellName,vampiric feast,
+SpellName,veil of shadows,
+SpellName,wall breach,
+SpellName,wall of thorns,
 SpellName,walling,造牆術
+SpellName,ward of return,
+SpellName,warning ward,
+SpellName,web snare,
+SpellName,whispers of madness,
+SpellName,wildfire brand,
+SpellName,wither,
+SpellName,withering ray,
 SpellName,wizard lock,法師之鎖
+SpellName,world vision,
 StandingName,damned,受詛咒
 StandingName,doomed,厄運纏身
 StandingName,doubtful,充滿懷疑
@@ -4815,19 +5869,31 @@ VolatileName,blaze,火焰
 VolatileName,blood,血
 VolatileName,electricity,感電
 VolatileName,freeze,冰霧
+VolatileName,oil,
 VolatileName,steam,蒸汽
 WallStructureName,illusionary,幻象
 WallStructureName,permanent,永久
 WallStructureName,solid,堅固
+ZooName,angelic sanctuary,
 ZooName,ant hole,蟻窟
+ZooName,astral kennel,
 ZooName,barracks,兵營
 ZooName,bee hive,蜂窩
 ZooName,cocknest,雞巢
 ZooName,college of wizardry,巫師學院
 ZooName,dragon nest,龍穴
+ZooName,dragon rookery,
+ZooName,drow stronghold,
+ZooName,elemental foundry,
+ZooName,golem forge,
 ZooName,graveyard,墓園
 ZooName,gremlin pit,妖精坑
+ZooName,jelly vat,
 ZooName,leprechaun hall,小矮妖大廳
+ZooName,military camp,
+ZooName,mimic den,
+ZooName,monster greenhouse,
+ZooName,pheral crypt,
 ZooName,salty pool,鹹水池
 ZooName,science lab,科學實驗室
 ZooName,slumber party,睡衣派對

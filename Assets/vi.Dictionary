@@ -1,4 +1,5 @@
 ﻿AfflictionDescription,Deadly venom courses through your veins.,Nọc độc chết người đang chảy trong người bạn.
+AfflictionDescription,Groteseque changes are happening to your body.,
 AfflictionDescription,Something deeply unsettling is happening... down there.,Có một cái gì đó rất đáng lo ngại đang xảy ra... dưới đó.
 AfflictionDescription,There is a gnawing sensation from deep inside your stomach.,Có một cảm giác gặm nhấm sâu bên trong bụng của bạn.
 AfflictionDescription,This viral disease causes inflammation of the brain and is spread by infected animals.,Căn bệnh do virus này làm bạn bị viêm não và được lây lan bởi những con vật bị nhiễm bệnh.
@@ -6,6 +7,7 @@ AfflictionDescription,You feel unclean and everything itches.,Bạn cảm thấy
 AfflictionDescription,You have a dreadful case of stomach acid.,"Bạn bị trào ngược dịch dạ dày, khá tệ đấy."
 AfflictionDescription,Your skin is sickly green and something is very wrong inside your stomach.,Da của bạn xanh xao và bụng của bạn có gì đó không ổn.
 AfflictionName,crabs,Cua
+AfflictionName,mutation,
 AfflictionName,nits,Bọ
 AfflictionName,poisoning,Trúng độc
 AfflictionName,rabies,Bệnh dại
@@ -43,76 +45,136 @@ AppearanceDescription,A short but sturdy looking coat of mithril armour.,Một c
 AppearanceDescription,A slender and delicate looking coat of mithril armour.,Một chiếc áo dài thun và tinh tế làm từ mithril.
 AppearanceDescription,A slender and glossy looking coat of mithril armour.,Một chiếc áo thun dài và bóng láng làm từ mithril.
 AppearanceDescription,This classic wizard accessory is a pointed hat decorated with moons and stars.,Chiếc mũ nhọn đầu trang trí với mặt trăng và những ngôi sao này là phụ kiện thường thấy của phù thủy.
+AppearanceName,acrid book,
 AppearanceName,adamantine slug,đạn nhỏ adamantine
 AppearanceName,adamantine staff,gậy adamantine
 AppearanceName,agate ring,Nhẫn mã não
+AppearanceName,alabaster book,
 AppearanceName,aluminium wand,Gậy nhôm
+AppearanceName,amber book,
+AppearanceName,ancient book,
 AppearanceName,angled poleaxe,Cây sào nghiêng
+AppearanceName,antique book,
+AppearanceName,arcane book,
+AppearanceName,arcing book,
+AppearanceName,argent book,
+AppearanceName,ashen book,
 AppearanceName,backwards book,Quyển sách đảo ngược
 AppearanceName,bag,Túi
 AppearanceName,balsa wand,Gậy gỗ bấc
 AppearanceName,bamboo arrow,Mũi tên tre
 AppearanceName,bamboo wand,Gậy tre
+AppearanceName,banded book,
+AppearanceName,barbed ring,
+AppearanceName,basalt book,
+AppearanceName,battered book,
+AppearanceName,beaded book,
 AppearanceName,beaked polearm,Cây sào mỏ
 AppearanceName,bell,Chuông đồng
 AppearanceName,big book,Quyển sách to
+AppearanceName,bilious book,
+AppearanceName,birch book,
 AppearanceName,black book,Quyển sách màu đen
+AppearanceName,black bound book,
 AppearanceName,black gem,Viên ngọc đen
 AppearanceName,black gloves,Đôi găng màu đen
 AppearanceName,black onyx ring,Nhẫn thạch anh màu đen
 AppearanceName,black potion,Lọ thuốc màu đen
+AppearanceName,black stone,
 AppearanceName,black wand,Gậy phép màu đen
+AppearanceName,blackened book,
+AppearanceName,bloodstained book,
 AppearanceName,bloody potion,Lọ thuốc vấy máu
 AppearanceName,blue and green shield,Khiên xanh dương và xanh lá
 AppearanceName,blue gem,Đá quý xanh dương
 AppearanceName,blue robe,Áo choàng xanh dương
+AppearanceName,bone book,
+AppearanceName,bone bound book,
 AppearanceName,bone earrings,Đôi khuyên tai xương
 AppearanceName,bone staff,Gậy xương
+AppearanceName,bone white book,
+AppearanceName,boulder bound book,
+AppearanceName,bramble book,
+AppearanceName,brass book,
+AppearanceName,brass bound book,
+AppearanceName,brass clasped book,
 AppearanceName,brass ring,Nhẫn đồng thau
 AppearanceName,brass wand,Đũa phép đồng thau
 AppearanceName,brilliant blue potion,Lọ thuốc nhuộm xanh dương
+AppearanceName,brittle book,
+AppearanceName,broad katar,
 AppearanceName,broad pick,cuốc
 AppearanceName,broad short sword,Thanh kiếm ngắn
 AppearanceName,bronze book,Quyển sách đồng
 AppearanceName,bronze ring,Nhẫn đồng
 AppearanceName,bronze wand,Đũa phép đồng
+AppearanceName,bronzed book,
 AppearanceName,brown potion,Lọ thuốc màu nâu
 AppearanceName,bubbly potion,Lọ thuốc nhiều bọt
+AppearanceName,buckled book,
 AppearanceName,bugle,Kèn Bugle
+AppearanceName,burnished book,
 AppearanceName,candle,Nến
 AppearanceName,canvas book,Sách vải buồm
+AppearanceName,celestial book,
 AppearanceName,ceramic wand,Đũa phép gốm
+AppearanceName,chained book,
+AppearanceName,chalkstone book,
+AppearanceName,charcoal book,
+AppearanceName,charnel book,
+AppearanceName,charred book,
+AppearanceName,cinder book,
+AppearanceName,cindered book,
 AppearanceName,circular amulet,Bùa hình tròn
+AppearanceName,clasped book,
+AppearanceName,clay bound book,
 AppearanceName,clay ring,Nhẫn đất sét
 AppearanceName,clear potion,Lọ thuốc trong suốt
+AppearanceName,clockwork gun,
 AppearanceName,cloth book,Sách vải
 AppearanceName,cloudy potion,Lọ thuốc âm u
 AppearanceName,coarse mantelet,Cái mộc thô
+AppearanceName,cobalt book,
+AppearanceName,cobblestone book,
+AppearanceName,coiled gun,
 AppearanceName,colourful book,Quyển sách sặc sỡ
 AppearanceName,combat boots,Ủng chiến đấu
 AppearanceName,compact gun,Súng nhỏ gọn
+AppearanceName,compass bound book,
 AppearanceName,concave amulet,Bùa mặt lõm
 AppearanceName,conical hat,Nón lá
+AppearanceName,consecrated book,
 AppearanceName,convex amulet,Bùa mặt lồi
 AppearanceName,copper book,Sách đồng đỏ
 AppearanceName,copper ring,Nhẫn đồng đỏ
 AppearanceName,copper wand,Đũa phép đồng đỏ
+AppearanceName,coral book,
 AppearanceName,coral ring,Nhẫn san hô
+AppearanceName,corded book,
+AppearanceName,cracked book,
+AppearanceName,cratered book,
 AppearanceName,crested helmet,Mũ gắn biểu tượng
+AppearanceName,crimson book,
 AppearanceName,crude arrow,Mũi tên thô
 AppearanceName,crude bow,Cung tên thô
 AppearanceName,crude chain mail,Giáp xích thô
 AppearanceName,crude dagger,Dao găm thô
+AppearanceName,crude disc,
 AppearanceName,crude ring mail,Giáp nhẫn thô
 AppearanceName,crude short sword,Kiếm ngắn thô
 AppearanceName,crude spear,Thương thô
+AppearanceName,crumbling book,
+AppearanceName,crystal book,
 AppearanceName,crystal staff,Gậy pha lê
 AppearanceName,crystal wand,Đũa phép pha lê
+AppearanceName,crystalline book,
 AppearanceName,curved polearm,Cây sào cong
 AppearanceName,curved sword,Thanh kiếm cong
 AppearanceName,curved wand,Đũa phép cong
+AppearanceName,cut glass book,
 AppearanceName,cyan book,Quyển sách lục lam
 AppearanceName,cyan potion,Lọ thuốc lục lam
+AppearanceName,damascened book,
 AppearanceName,dark blue book,Quyển sách xanh nước biển
 AppearanceName,dark brown book,Quyển sách nâu đậm
 AppearanceName,dark green book,Quyển sách xanh lá đậm
@@ -122,27 +184,43 @@ AppearanceName,deep book,Quyển sách màu xanh đậm
 AppearanceName,diamond ring,Nhẫn kim cương
 AppearanceName,dirty rag,Giẻ bẩn
 AppearanceName,dog eared book,Quyển sách sờn nát
+AppearanceName,dolomite book,
 AppearanceName,double-headed axe,Rìu hai lưỡi
+AppearanceName,dove grey book,
+AppearanceName,dress boots,
 AppearanceName,drum,Trống
 AppearanceName,dull book,Quyển sách nhàm chán
+AppearanceName,dusk blue book,
 AppearanceName,dusty book,Quyển sách bụi bặm
 AppearanceName,ebony wand,Đũa phép gỗ mun
+AppearanceName,eelskin book,
 AppearanceName,effervescent potion,Lọ thuốc sủi bọt
+AppearanceName,ember book,
 AppearanceName,emerald potion,Lọ thuốc màu lục bảo
 AppearanceName,emerald ring,Nhẫn ngọc lục bảo
 AppearanceName,engagement ring,Nhẫn đính hôn
+AppearanceName,etched book,
 AppearanceName,etched helmet,Giáp mũ khắc
+AppearanceName,eternity ring,
 AppearanceName,exotic two-pointed polearm,trượng 2 đầu thiên phẩm
 AppearanceName,faded book,Quyển sách lu mờ
 AppearanceName,faded pall,Áo khoác lu mờ
+AppearanceName,feldspar book,
 AppearanceName,fencing gloves,Đôi găng tay đấu kiếm
 AppearanceName,figurine,Bức tượng nhỏ
 AppearanceName,fine mithril-coat,Áo choàng mithril chất lượng cao
 AppearanceName,fizzy potion,Lọ thuốc sùi bọt
+AppearanceName,flint book,
 AppearanceName,flute,Cây sáo
 AppearanceName,forked polearm,Sào 2 lưỡi
+AppearanceName,forked wand,
+AppearanceName,frostbitten book,
+AppearanceName,frosted book,
 AppearanceName,fur boots,Ủng lông thú
 AppearanceName,fuzzy book,Quyển sách bị mờ
+AppearanceName,gale book,
+AppearanceName,gilded book,
+AppearanceName,glass bound book,
 AppearanceName,glass orb,Nhãn cầu kính
 AppearanceName,glass ring,Nhẫn kính
 AppearanceName,glass wand,Đũa phép kính
@@ -153,13 +231,21 @@ AppearanceName,glossy arrow,Mũi tên khắc cổ ngữ màu đen
 AppearanceName,glossy bow,Cung tên khắc cổ ngữ màu đen
 AppearanceName,glossy dagger,Dao găm khắc cổ ngữ màu đen
 AppearanceName,glossy mithril-coat,Áo choàng mithril sáng bóng
+AppearanceName,glossy potion,
 AppearanceName,glossy short sword,Kiếm ngắn khắc cổ ngữ màu đen
+AppearanceName,gloved book,
+AppearanceName,gneiss book,
 AppearanceName,gold book,Quyển sách bằng vàng
 AppearanceName,gold earrings,Đôi khuyên tai bằng vàng
 AppearanceName,gold ring,Nhẫn bằng vàng
 AppearanceName,gold wand,Đũa phép bằng vàng
 AppearanceName,golden potion,Lọ thuốc bằng vàng
+AppearanceName,gossamer book,
+AppearanceName,granite book,
 AppearanceName,granite ring,Nhẫn đá hoa cương
+AppearanceName,graphite book,
+AppearanceName,grave bound book,
+AppearanceName,gravel book,
 AppearanceName,green gem,Viên ngọc xanh lá
 AppearanceName,green robe,Áo choàng khoác vai xanh lá
 AppearanceName,grey book,Quyển sách màu xám
@@ -168,38 +254,54 @@ AppearanceName,hard hat,Mũ bảo hộ
 AppearanceName,hard shoes,Giày bảo hộ
 AppearanceName,hardcover book,Quyển sách bìa cứng
 AppearanceName,harp,Đàn hạc
+AppearanceName,hazel book,
 AppearanceName,heavy barrelled gun,súng hai nòng
 AppearanceName,heavy gun,Súng hạng nặng
 AppearanceName,hexagonal amulet,Bùa lục giác
 AppearanceName,hexagonal wand,Đũa phép lục giác
+AppearanceName,hide bound book,
 AppearanceName,hiking boots,Ủng leo núi
 AppearanceName,hilted polearm,Sào chuôi kiếm
+AppearanceName,hoarfrost book,
+AppearanceName,hollow book,
 AppearanceName,hooded cloak,Áo choàng đầu
 AppearanceName,hooked polearm,Sào lưỡi móc
+AppearanceName,hooked sword,
 AppearanceName,horn,Tù và
 AppearanceName,horseshoe,Móng ngựa
 AppearanceName,humongous book,Quyển sách to bự
 AppearanceName,icy potion,Lọ thuốc băng giá
+AppearanceName,incandescent book,
 AppearanceName,indigo book,Quyển sách màu chàm
 AppearanceName,iridium wand,Đũa phép iridium
+AppearanceName,iron bound book,
 AppearanceName,iron ring,Nhẫn sắt
 AppearanceName,iron skull cap,Mũ trùm đầu bằng sắt
 AppearanceName,iron wand,Đũa phép bằng sắt
+AppearanceName,ivory book,
 AppearanceName,ivory ring,Nhẫn ngà voi
 AppearanceName,jackboots,Giày ống cao
+AppearanceName,jade book,
 AppearanceName,jade ring,Nhẫn cẩm thạch
+AppearanceName,jewelled book,
 AppearanceName,jewelled wand,Đũa phép gắn đá quý
 AppearanceName,jungle boots,Ủng quân đội
+AppearanceName,keening book,
 AppearanceName,key,Chìa khóa
+AppearanceName,khaki potion,
 AppearanceName,lamp,Đèn lồng
 AppearanceName,large gun,Súng lớn
 AppearanceName,large round shield,Khiên tròn lớn
+AppearanceName,leaden book,
 AppearanceName,leather apron,Tạp dề da
 AppearanceName,leather book,Quyển sách da
 AppearanceName,leather hat,Mũ da
 AppearanceName,light blue book,Quyển sách màu xanh lam nhạt
 AppearanceName,light brown book,Quyển sách màu nâu nhạt
 AppearanceName,light green book,Quyển sách màu xang lá nhạt
+AppearanceName,limestone book,
+AppearanceName,linen book,
+AppearanceName,loam book,
 AppearanceName,long barrelled gun,Súng nòng dài
 AppearanceName,long book,Quyển sách dài
 AppearanceName,long bow,Cung dài
@@ -211,13 +313,18 @@ AppearanceName,luminescent potion,Lọ thuốc phát quang
 AppearanceName,magenta book,Quyển sách màu cánh sen
 AppearanceName,magenta potion,Lọ thuốc màu cánh sen
 AppearanceName,maple wand,Đũa phép gỗ phong
+AppearanceName,marble book,
 AppearanceName,marble wand,Đũa phép cẩm thạch
 AppearanceName,marker,Bút đánh dấu
+AppearanceName,marlstone book,
 AppearanceName,medallion amulet,Bùa huy chương
 AppearanceName,metal canister,Lọ bằng kim loại
 AppearanceName,metal pineapple,Quả dứa kim loại
 AppearanceName,metal slug,Đạn sắt nhỏ
+AppearanceName,mica book,
+AppearanceName,mildewed book,
 AppearanceName,milky potion,Lọ thuốc màu trắng đục
+AppearanceName,millstone book,
 AppearanceName,mithril boots,Ủng thép
 AppearanceName,mithril ring,Nhẫn mithril
 AppearanceName,mithril slug,Đạn nhỏ mithril
@@ -225,70 +332,109 @@ AppearanceName,mithril staff,Gậy mithril
 AppearanceName,mood ring,Nhẫn tâm trạng
 AppearanceName,moonstone ring,Nhẫn đá mặt trăng
 AppearanceName,mortar gun,Súng cối
+AppearanceName,mossy book,
+AppearanceName,moth eaten book,
 AppearanceName,mottled book,Quyển sách lốm đốm màu
 AppearanceName,mud boots,Ủng đi bùn
 AppearanceName,muddy potion,Lọ thuốc vấy bùn
 AppearanceName,murky potion,Lọ thuốc đen đặc
+AppearanceName,murmuring book,
+AppearanceName,muted book,
 AppearanceName,mysterious gadget,Dụng cụ bí ẩn
+AppearanceName,notched book,
 AppearanceName,oak wand,Đũa phép gỗ sồi
+AppearanceName,obsidian book,
 AppearanceName,obsidian ring,Nhẫn hắc diện thạch
 AppearanceName,ochre book,Quyển sách màu đất son
 AppearanceName,octagonal amulet,Bùa bát giác
 AppearanceName,octagonal wand,Đũa phép bát giác
 AppearanceName,old gloves,Đôi găng cũ
+AppearanceName,olive branch book,
+AppearanceName,onyx book,
+AppearanceName,opal book,
 AppearanceName,opal ring,Nhẫn mắt mèo
+AppearanceName,opaline book,
 AppearanceName,opera cloak,Áo choàng opera
 AppearanceName,orange book,Quyển sách màu cam
 AppearanceName,orange gem,Viên ngọc màu cam
 AppearanceName,orange potion,Lọ thuốc màu cam
 AppearanceName,orange robe,Áo choàng vai màu cam
 AppearanceName,ornamental cope,Áo choàng lễ gắn trang sức
+AppearanceName,ossuary book,
 AppearanceName,oval amulet,Bùa hình trái xoan
 AppearanceName,padded gloves,Đôi găng độn bông
+AppearanceName,pale book,
 AppearanceName,papyrus book,Quyển sách giấy cói
 AppearanceName,parchment book,Quyển sách giấy da
 AppearanceName,pearl earrings,Đôi khuyên tai ngọc trai
 AppearanceName,pearl ring,Nhẫn ngọc trai
+AppearanceName,phoenix down book,
 AppearanceName,piece of cloth,Mảnh vải
+AppearanceName,pine wand,
 AppearanceName,pink book,Quyển sách màu hồng
 AppearanceName,pink potion,Lọ thuốc màu hồng
+AppearanceName,pitted book,
+AppearanceName,plague ridden book,
 AppearanceName,plaid book,Quyển sách kẻ sọc
 AppearanceName,plain book,Quyển sách thường
 AppearanceName,plain ring,Nhẫn thường
 AppearanceName,plain robe,Áo choàng vai thường
 AppearanceName,plastic slug,Đạn nhựa nhỏ
 AppearanceName,plastic stick,Que nhựa
+AppearanceName,plastic wand,
 AppearanceName,platinum wand,Đũa phép bạch kim
 AppearanceName,plumed helmet,Giáp mũ đính lông vũ
+AppearanceName,pocked book,
 AppearanceName,pole cleaver,Rìu lưỡi phay
 AppearanceName,pole sickle,Giáo lưỡi liềm
 AppearanceName,polished silver shield,Khiên bạc bóng
+AppearanceName,porphyry book,
+AppearanceName,prismatic book,
 AppearanceName,pronged polearm,Sào lưỡi răng
 AppearanceName,pruning hook,Xà mâu
+AppearanceName,psalm book,
 AppearanceName,puce potion,Lọ thuốc màu nâu sẫm
+AppearanceName,pumice book,
 AppearanceName,purple book,Quyển sách màu đỏ tía
 AppearanceName,purple-red potion,Lọ thuốc màu đỏ tím
 AppearanceName,pyramidal amulet,Bùa hình chóp
+AppearanceName,quartzite book,
+AppearanceName,quicksilver book,
+AppearanceName,radiant book,
 AppearanceName,ragged book,Quyển sách nhàu nát
 AppearanceName,rainbow book,Quyển sách sắc màu
 AppearanceName,red book,Quyển sách màu đỏ
 AppearanceName,red gem,Viên ngọc màu đỏ
 AppearanceName,red robe,Áo choàng vai màu đỏ
+AppearanceName,red stone,
 AppearanceName,red-eyed shield,Tấm khiên màu mắt đỏ
 AppearanceName,riding boots,Ủng cưỡi ngựa
 AppearanceName,riding gloves,Đôi găng cưỡi ngựa
+AppearanceName,rimed book,
+AppearanceName,riveted book,
 AppearanceName,ruby potion,Lọ thuốc màu hồng ngọc
 AppearanceName,ruby ring,Nhẫn hồng ngọc
 AppearanceName,runed arrow,Mũi tên khắc cổ ngữ
+AppearanceName,runed book,
 AppearanceName,runed bow,Cung tên khắc cổ ngữ
 AppearanceName,runed broadsword,Kiếm lưỡi rộng khắc cổ ngữ
 AppearanceName,runed dagger,Dao găm khắc cổ ngữ
+AppearanceName,runed disc,
 AppearanceName,runed short sword,Kiếm ngắn khắc cổ ngữ
 AppearanceName,runed spear,Thương khắc cổ ngữ
 AppearanceName,runed wand,Đũa phép khắc cổ ngữ
+AppearanceName,russet book,
+AppearanceName,rusted book,
 AppearanceName,rusty wand,Đũa phép bị mòn
+AppearanceName,sable book,
+AppearanceName,saddle book,
+AppearanceName,sallow book,
 AppearanceName,samurai sword,Kiếm samurai
+AppearanceName,sanguine book,
+AppearanceName,sapphire book,
 AppearanceName,sapphire ring,Nhẫn lam ngọc
+AppearanceName,scalded book,
+AppearanceName,schist book,
 AppearanceName,scoped long gun,Súng trường có ống ngắm
 AppearanceName,scroll labelled ANDOVA BEGARIN,cuộn giấy ma thuật nhãn đề ANDOVA BEGARIN
 AppearanceName,scroll labelled AZZGAZ,cuộn giấy ma thuật nhãn đề AZZGAZ
@@ -321,36 +467,56 @@ AppearanceName,scroll labelled XALICH UDED,cuộn giấy ma thuật nhãn đề 
 AppearanceName,scroll labelled XIXAXA XOXAXA XUXAXA,cuộn giấy ma thuật nhãn đề XIXAXA XOXAXA XUXAXA
 AppearanceName,scroll labelled YUM YUM,cuộn giấy ma thuật nhãn đề YUM YUM
 AppearanceName,scroll labelled ZELGO MER,cuộn giấy ma thuật nhãn đề ZELGO MER
+AppearanceName,sepia book,
+AppearanceName,sepulchral book,
 AppearanceName,shadow book,Quyển sách bóng đêm
+AppearanceName,shale book,
+AppearanceName,shimmering book,
 AppearanceName,shining book,Quyển sách sáng chói
 AppearanceName,shiny ring,Nhẫn sáng chói
 AppearanceName,short barrelled gun,Súng nòng ngắn
 AppearanceName,short samurai sword,Kiếm samurai ngắn
 AppearanceName,short wand,Đũa phép ngắn
 AppearanceName,shoulder gun,Súng trường
+AppearanceName,shrapnel book,
+AppearanceName,silk book,
+AppearanceName,silken book,
+AppearanceName,silly wand,
 AppearanceName,silver book,Quyển sách bạc
 AppearanceName,silver ring,Nhẫn bạc
 AppearanceName,silver slug,Đạn bạc nhỏ
 AppearanceName,silver wand,Đũa phép bạc
+AppearanceName,silvered book,
 AppearanceName,single-edged polearm,Sáo một lưỡi
 AppearanceName,sky blue potion,Lọ thuốc màu xanh da trời
+AppearanceName,slate book,
 AppearanceName,slippery cloak,Áo khoác trơn
 AppearanceName,small gun,Súng ngắn
+AppearanceName,small horizontal bow,
 AppearanceName,smoky potion,Lọ thuốc tỏa khói
 AppearanceName,snow boots,Bốt mùa đông
+AppearanceName,solar book,
+AppearanceName,sooty book,
+AppearanceName,soul bound book,
 AppearanceName,sparkling potion,Lọ thuốc sủi
 AppearanceName,spherical amulet,Bùa hình cầu
 AppearanceName,spiked wand,Đũa phép nhọn
 AppearanceName,spotted book,Quyển sách lốm đốm
 AppearanceName,square amulet,Bùa hình vuông
 AppearanceName,stained book,Quyển sách nhơ nhuốc
+AppearanceName,starless book,
+AppearanceName,starlit book,
+AppearanceName,static book,
 AppearanceName,steel ring,Nhẫn thép
 AppearanceName,steel wand,Đũa thép
 AppearanceName,sticky glob,Chất nhờn dính
+AppearanceName,storm wracked book,
 AppearanceName,stout mithril-coat,Áo choàng mithril màu bia đen
 AppearanceName,stout spear,Thương màu bia đen
 AppearanceName,studded samurai stick,Kiếm samurai cứng
 AppearanceName,stylish book,Quyển sách kiểu cách
+AppearanceName,sundered book,
+AppearanceName,sunlit book,
 AppearanceName,swirly potion,Lọ thuốc xoáy
 AppearanceName,tan book,Quyển sách màu nâu vàng
 AppearanceName,tattered book,Quyển sách rách nát
@@ -365,35 +531,51 @@ AppearanceName,throwing disc,Đĩa ném
 AppearanceName,throwing spear,Thương phóng
 AppearanceName,throwing star,Phi tiêu
 AppearanceName,throwing stick,Que ném
+AppearanceName,thunderous book,
 AppearanceName,tiger eye ring,Nhẫn mắt hổ
 AppearanceName,tin wand,Đũa phép bằng thiếc
 AppearanceName,tiny book,Quyển sách nhỏ xíu
+AppearanceName,topaz book,
 AppearanceName,topaz ring,Nhẫn hoàng ngọc
 AppearanceName,torn book,Quyển sách bị xé
+AppearanceName,toy bat,
+AppearanceName,toy hammer,
 AppearanceName,toy sword,Kiếm đồ chơi
 AppearanceName,triangular amulet,Bùa tam giác
 AppearanceName,turquoise book,Quyển sách màu ngọc lam
 AppearanceName,twisted ring,Nhẫn xoắn
+AppearanceName,umber book,
+AppearanceName,unbound book,
 AppearanceName,unlabelled scroll,cuộn giấy ma thuật không tên
 AppearanceName,uranium wand,Đũa uranium
+AppearanceName,veiled book,
 AppearanceName,vellum book,Quyển sách da cừu
 AppearanceName,velvet book,Quyển sách màu đỏ tươi
+AppearanceName,verdigris book,
 AppearanceName,violet book,Quyển sách màu tím
 AppearanceName,violet gem,Viên ngọc màu tím
 AppearanceName,visored helmet,Giáp mũ mặt nạ
+AppearanceName,voltaic book,
 AppearanceName,vulgar polearm,Phủ thương
 AppearanceName,walking shoes,Giày đi bộ
 AppearanceName,warped amulet,Bùa cong vênh
+AppearanceName,warped book,
+AppearanceName,waxen book,
 AppearanceName,wedding ring,Nhẫn cưới
+AppearanceName,welded book,
+AppearanceName,whispering book,
 AppearanceName,whistle,Còi
 AppearanceName,white book,Quyển sách màu trắng
 AppearanceName,white coat,Áo khoác màu trắng
 AppearanceName,white gem,Viên ngọc màu trắng
 AppearanceName,white potion,Lọ thuốc màu trắng
 AppearanceName,wide book,Quyển sách rộng
+AppearanceName,wilted book,
 AppearanceName,winged missile,Tên lửa ma thuật
 AppearanceName,wire ring,Nhẫn kim loại
+AppearanceName,withered book,
 AppearanceName,wooden ring,Nhẫn gỗ
+AppearanceName,wormwood book,
 AppearanceName,wrinkled book,Quyển sách nhăn nheo
 AppearanceName,yellow book,Quyển sách màu vàng
 AppearanceName,yellow gem,Viên ngọc màu vàng
@@ -489,62 +671,116 @@ BlockName,statue,Bức tượng
 BlockName,stone boulder,Khối đá
 BlockName,trophy,cúp
 BlockName,wooden barrel,Thùng gỗ
+BoonDescription,"A darker resurrection than the temples offer: certain to succeed, but the dead come back enraged.",
+BoonDescription,"A generous healing gift, fae-touched: your hands will not be quite steady later.",
 BoonDescription,Ask for a unicorn to join your party.,Hỏi một chú kỳ lân tham gia vào đội của bạn.
+BoonDescription,Ask the fae for a favour. What you get is entirely up to her mood.,
+BoonDescription,"Bathe in the etching vats. It burns, but you rise with a hide the acid cannot bite.",
 BoonDescription,Bless one item in your inventory or on the ground.,Ban phước 1 vật phẩm trong hành trang của bạn hoặc ở trên mặt đất.
 BoonDescription,Brew a random potion into your bottle of water.,Pha chế 1 lọ thuốc bất kì vào lọ nước của bạn.
 BoonDescription,Butcher a corpse into an easy to carry container.,Chặt một xác chết để dễ dàng vận chuyển hơn.
 BoonDescription,Call upon the undead to fight for you.,Triệu hồi những thây ma để chiến đấu cùng bạn.
+BoonDescription,Consult the observatory's charts for the full layout of this level.,
 BoonDescription,Convert one item into a random alternative of the same type.,Biến đổi 1 vật phẩm thành 1 vật phẩm khác cùng loại.
 BoonDescription,Determine the enchantment and charges of all carried items.,Đánh giá những phù phép và số lượng của tất cả vật phẩm trong hành trang.
+BoonDescription,"Drill under the captain's eye. You may be quickened, or you may be worn out.",
+BoonDescription,Drink the warrior's drink and fight in a berserker rage. It does not spare your allies.,
+BoonDescription,"Eat at the fae table. You will not go hungry, but the wine shows you things that are not there.",
 BoonDescription,"Erase the magic from a potion, scroll or book.",Xóa đi ma thuật khỏi 1 lọ thuốc hoặc quyển sách hoặc cuộn giấy ma thuật.
+BoonDescription,Fall into a trance and see through walls and floors for a time.,
 BoonDescription,Hatch an egg and become a parent.,Nở 1 quả trứng và nuôi nấng nó.
+BoonDescription,Have the efreeti bind a captive elemental to your service.,
+BoonDescription,"Have the temple armour smiths put a keener edge on one weapon, magical or not.",
+BoonDescription,Have the wizard read the true nature of everything you carry.,
+BoonDescription,"Have your destiny read from the stars, hastening your growth.",
 BoonDescription,Heal damage and recover mana for yourself and your steed if mounted.,Hồi phục sinh lực và ma pháp cho bản thân và cả chiến mã nếu đang cưỡi chúng.
 BoonDescription,Learn how to cast a random spell.,Học cách sử dụng 1 phép thuật ngẫu nhiên.
 BoonDescription,Learn the divine status of all carried items.,Biết được tính thần thánh của toàn bộ vật phẩm trong hành trang.
 BoonDescription,Learn the name of one random unknown item.,Biết được tên của 1 vật phẩm ngẫu nhiên.
 BoonDescription,Make an imitation copy of an item.,Tạo ra một bản sao giả của 1 vật phẩm.
 BoonDescription,Partially recharge a spent item.,Hồi 1 phần cho 1 vật phẩm vừa sử dụng.
+BoonDescription,Petition the vizier for a spectral cat to guard you as it once guarded the tomb.,
 BoonDescription,Place a curse on one equipped or carried item.,Niệm 1 lời nguyền lên 1 vật phẩm đã trang bị hoặc trong hành trang của bạn.
+BoonDescription,"Plunge into the quenching trough. It burns with cold, but you rise proof against it.",
 BoonDescription,Reanimate a corpse as a loyal revenant.,Tái sinh 1 xác chết và biến nó thành 1 đầy tớ trung thành.
+BoonDescription,Receive the linen wrappings used to prepare the dead for the afterlife.,
 BoonDescription,Remove all magic from an item.,Xóa bỏ hoàn toàn ma thuật khỏi 1 vật phẩm.
 BoonDescription,Remove the curse on one equipped or carried item.,Loại bỏ lời nguyền khỏi 1 vật phẩm đã trang bị hoặc trong hành trang của bạn.
 BoonDescription,Rename an item for vanity and as a small protection against cancellation.,Đổi tên 1 vật phẩm khỏi hư ảo và bảo vệ nó khỏi phép loại bỏ.
 BoonDescription,Request a fresh corpse with no questions asked.,Yêu cầu 1 cái xác còn mới. Còn chần chừ gì nữa?
 BoonDescription,Request one cast of the polymorph spell.,Yêu cầu niệm 1 phép hoán đổi hình dạng.
+BoonDescription,Requisition soldiers from the garrison to march at your side.,
 BoonDescription,Restore any lost ability and remove any negative transient conditions.,Khôi phục tất cả những kĩ năng đã mất và loại bỏ tất cả những hiệu ứng xấu tạm thời.
 BoonDescription,Return a corpse back to life.,Mang 1 xác chết trở về từ cõi âm.
+BoonDescription,Stand in the temple square and receive the captain's defensive blessing.,
+BoonDescription,"Step into the forge fire. It burns, but you rise with fire in your blood.",
 BoonDescription,Summon a powerful steed from the underworld.,Triệu hồi 1 chiến mã mạnh mẽ từ cõi âm.
 BoonDescription,Summon a tame forest beast as your ally.,Triệu hồi 1 quái vật rừng xanh làm đồng đội của bạn.
+BoonDescription,Summon an escort from the pharaoh's retinue to walk beside you.,
+BoonDescription,The princess trades you a measure of charm. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of grace. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of wit. Something else must give way for it.,
+BoonDescription,Toss a coal on the forge fire and take whatever ward it grants you.,
+BoonDescription,Train under a veteran until a weapon or armour discipline sticks.,
 BoonDescription,Upgrade an item or increase its power.,Nâng cấp hoặc cường hóa sức mạnh của 1 vật phẩm.
 BoonDescription,Use nature magic to grow the power of your ally.,Sử dụng ma thuật thiên nhiên để cường hóa sức mạnh cho đồng đội bạn.
+BoonDescription,Watch the level through the great lens and mark every creature on it.,
+BoonDescription,Whisper a question into the vault. The dead do not always tell the truth.,
 BoonDescription,Write a random scroll onto your blank paper.,Viết 1 cuộn giấy ma thuật lên cuộn giấy trống của bạn.
 BoonName,animate dead,tái sinh người chết
 BoonName,assess,đánh giá
+BoonName,banquet of the fae,
+BoonName,battle fury,
+BoonName,black rite of revival,
 BoonName,bless,ban phước
+BoonName,bound elemental,
 BoonName,brew,pha chế
+BoonName,call the escort,
 BoonName,cancel,loại bỏ
+BoonName,capricious wish,
+BoonName,chart the level,
+BoonName,clairvoyant trance,
+BoonName,commune with the dead,
 BoonName,corpse wish,thỉnh cầu 1 xác chết
+BoonName,court of the underworld,
 BoonName,divine,thần thánh
+BoonName,drill,
 BoonName,enchant,cường hóa
 BoonName,enlighten,khai sáng
 BoonName,erase,tẩy
+BoonName,fae cunning,
+BoonName,fae grace,
+BoonName,fae guile,
 BoonName,fantastical beast,quái vật dị thường
+BoonName,forced march,
+BoonName,godmother's blessing,
 BoonName,grow,phát triển
 BoonName,hatch,nở
+BoonName,identify all,
+BoonName,map the ranks,
 BoonName,nightmare steed,chiến mã ác ma
+BoonName,ordeal of embers,
 BoonName,place curse,niệm 1 lời nguyền
 BoonName,polymorph,biến đổi hình dạng
 BoonName,purify,thanh tẩy
 BoonName,raise dead,tái sinh xác sống
+BoonName,read your destiny,
 BoonName,recharge,nạp lại
 BoonName,reforge,rèn lại
 BoonName,rejuvenate,tái tạo
 BoonName,remove curse,loại bỏ lời nguyền
 BoonName,rename,đổi tên
 BoonName,replicate,tạo bản sao
+BoonName,sacred wrappings,
 BoonName,scribe,viết
+BoonName,sharpen blade,
+BoonName,shield wall,
 BoonName,teach spell,dạy ma pháp
+BoonName,temper in acid,
+BoonName,temper in flame,
+BoonName,temper in frost,
 BoonName,tinned meat,thịt đóng hộp
+BoonName,tomb guardian,
 BoonName,undead army,đội quân thây ma
 BoonName,unicorn friend,bạn kỳ lân
 CalendarText,d MMMM yyyy,d MMMM yyyy
@@ -560,7 +796,11 @@ CharacterName,Bason,Bason
 CharacterName,Belietha,Belietha
 CharacterName,Bok,Bok
 CharacterName,Bolan,Bolan
+CharacterName,Bones,
+CharacterName,Borgrim,
+CharacterName,Briar,
 CharacterName,Brouwer,Brouwer
+CharacterName,Buckshot,
 CharacterName,Cailie,Cailie
 CharacterName,Capo,Capo
 CharacterName,Carthyre,Carthyre
@@ -581,18 +821,25 @@ CharacterName,Emina,Emina
 CharacterName,Enlan,Enlan
 CharacterName,Ericendrick,Ericendrick
 CharacterName,Eybrinde,Eybrinde
+CharacterName,Fangs,
 CharacterName,Faraze,Faraze
 CharacterName,Fenlas,Fenlas
 CharacterName,Fenraymond,Fenraymond
+CharacterName,Fern,
 CharacterName,Floki,Floki
 CharacterName,Forro,Forro
 CharacterName,Franzia,Franzia
 CharacterName,Galday,Galday
 CharacterName,Gasberg,Gasberg
+CharacterName,Gearwing,
+CharacterName,Ghrenna,
+CharacterName,Giggles,
 CharacterName,Gleichman,Gleichman
 CharacterName,Gmima,Gmima
 CharacterName,Gohu,Gohu
 CharacterName,Gomack,Gomack
+CharacterName,Grakna,
+CharacterName,Grum,
 CharacterName,Grytt,Grytt
 CharacterName,Haelom,Haelom
 CharacterName,Haique,Haique
@@ -615,34 +862,41 @@ CharacterName,Kevugo,Kevugo
 CharacterName,Kierantha,Kierantha
 CharacterName,Kira,Kira
 CharacterName,Kneller,Kneller
+CharacterName,Korrath,
 CharacterName,Lagratha,Lagratha
 CharacterName,Lanetwalz,Lanetwalz
 CharacterName,Lant,Lant
 CharacterName,Lesha,Lesha
 CharacterName,Luickean,Luickean
+CharacterName,Lyric,
 CharacterName,Lzay,Lzay
 CharacterName,Malasuth,Malasuth
+CharacterName,Malgrim,
 CharacterName,Marisa,Marisa
 CharacterName,Melchai,Melchai
 CharacterName,Meloty,Meloty
 CharacterName,Miller,Miller
 CharacterName,Misteph,Misteph
 CharacterName,Nichaeltoy,Nichaeltoy
+CharacterName,Nihlus,
 CharacterName,Ninerma,Ninerma
 CharacterName,Ninhart,Ninhart
 CharacterName,Ninny,Ninny
 CharacterName,Nodin,Nodin
 CharacterName,Norbant,Norbant
+CharacterName,Nugget,
 CharacterName,Okennwood,Okennwood
 CharacterName,Ollac,Ollac
 CharacterName,Omdarro,Omdarro
 CharacterName,Orankin,Orankin
 CharacterName,Oscae,Oscae
 CharacterName,Paltrick,Paltrick
+CharacterName,Panderos,
 CharacterName,Pauwinner,Pauwinner
 CharacterName,Penevieve,Penevieve
 CharacterName,Perceval,Perceval
 CharacterName,Pinkerton,Pinkerton
+CharacterName,Pip,
 CharacterName,Plegg,Plegg
 CharacterName,Pleyson,Pleyson
 CharacterName,Pnerfa,Pnerfa
@@ -660,16 +914,26 @@ CharacterName,Rebenna,Rebenna
 CharacterName,Renorber,Renorber
 CharacterName,Rokiju,Rokiju
 CharacterName,Rupley,Rupley
+CharacterName,Rustbeard,
 CharacterName,Sarlia,Sarlia
+CharacterName,Scraps,
+CharacterName,Sentinel,
+CharacterName,Serathiel,
+CharacterName,Shadow,
 CharacterName,Shinaas,Shinaas
+CharacterName,Sissik,
+CharacterName,Skrix,
 CharacterName,Smither,Smither
+CharacterName,Sprocket,
 CharacterName,Stevere,Stevere
 CharacterName,Stewite,Stewite
 CharacterName,Sully,Sully
 CharacterName,Talon,Talon
 CharacterName,Tanyacka,Tanyacka
 CharacterName,Thakuline,Thakuline
+CharacterName,Thokk,
 CharacterName,Threepo,Threepo
+CharacterName,Tillie,
 CharacterName,Timonen,Timonen
 CharacterName,Trank,Trank
 CharacterName,Udfoot,Udfoot
@@ -677,7 +941,10 @@ CharacterName,Uffle,Uffle
 CharacterName,Ujopayne,Ujopayne
 CharacterName,Umazi,Umazi
 CharacterName,Urenval,Urenval
+CharacterName,Vaelithra,
+CharacterName,Valor,
 CharacterName,Valorn,Valorn
+CharacterName,Vashti,
 CharacterName,Vekincarc,Vekincarc
 CharacterName,Vidar,Vidar
 CharacterName,Vikethome,Vikethome
@@ -687,7 +954,9 @@ CharacterName,Wallison,Wallison
 CharacterName,Waltis,Waltis
 CharacterName,Walzen,Walzen
 CharacterName,Wendry,Wendry
+CharacterName,Wisp,
 CharacterName,Wollet,Wollet
+CharacterName,Wraith,
 CharacterName,Xamarin,Xamarin
 CharacterName,Xandries,Xandries
 CharacterName,Xank,Xank
@@ -699,6 +968,7 @@ CharacterName,Yassage,Yassage
 CharacterName,Yorque,Yorque
 CharacterName,Yral,Yral
 CharacterName,Yuvaloren,Yuvaloren
+CharacterName,Zathrik,
 CharacterName,Zean,Zean
 CharacterName,Zerbarry,Zerbarry
 CharacterName,Zimn,Zimn
@@ -709,16 +979,19 @@ ClassDescription,"Benevolent caretakers, always willing to lend a helping hand t
 ClassDescription,"Champions of the winter realms, fierce and proud. Hardy and strong, they will boldly face any challenger until they meet a glorious death.","Anh hùng của vương quốc băng giá, hung dữ và kiêu hãnh. Cứng cáp và khỏe mạnh, họ sẵn sàng đấu với bất kì đối thủ nào cho đến khi họ chết một cái chết đầy kiêu hãnh."
 ClassDescription,"Charming minstrels, making their way through the world with their songs and stories. They are jacks-of-all-trades; alongside their troubadour talents, they dabble in both martial skills and spellcraft.","Người hát rong quyến rũ, trên hành trình khám phá thế giới với những bài hát và câu chuyện của mình. Họ là những kẻ đa tài; mặc cho tài năng với việc soạn nhạc, họ yếu cả về kĩ năng võ thuật lẫn phép thuật."
 ClassDescription,"Conductors of natural energies, these uniquely attuned spell casters derive their powers from the living world. Peaceful until threatened, they are unafraid to respond with animalistic savagery.","Những kẻ chỉ huy năng lượng của thiên nhiên, những pháp sư đặc biệt này lấy sức mạnh của họ từ những sinh vật sống. Hiền lành cho đến khi bị đe dọa, họ không ngần ngại đáp trả với thứ sức mạnh quái thú man rợ."
+ClassDescription,"Contract killers trained to strike once, from the dark, and vanish before the body is found. They favour poisoned steel over honest combat and trust no blade they have not sharpened themselves.",
 ClassDescription,"Corrupt and hateful souls, who are motivated by causing carnage and spreading chaos. Subject to uncontrollable bouts of rage, they bring doom and destruction to friend and foe alike.","Linh hồn giận dữ và suy đồi, thúc đẩy bằng hỗn loạn và tàn sát. Không thể kiềm chế được sự nóng giận của mình, họ đem đến sự diệt vong cho cả bạn lẫn thù."
 ClassDescription,"Daft harlequins, always carrying a trick up their sleeves. Eclectic and eccentric; they are unassuming masters of chaos, adept in many bewildering talents.","Những kẻ điên loạn, luôn có những chiêu trò giấu kĩ dưới tay chúng. Chiết trung và kỳ dị, họ là những bậc thầy của hỗn loạn, xuất sắc trong những chiêu trò quyến rũ."
 ClassDescription,"Deft miscreants, conniving and quick with their wits. Through trial and error, they have learned that their best chance in avoiding the clutches of death is to stick to the shadows and outmanoeuvre their pursuers.","Thông minh và hèn hạ, nhanh nhẹn và đồng nhất với trí khôn của họ. Trải qua vô số lần thử nghiệm, họ biết được rằng cơ hội sống sót của họ trước guồng máy của tử thần là bám chặt lấy bóng tối và khôn ngoan hơn những kẻ theo đuổi."
 ClassDescription,"Devoted to understanding the essence of magic and the marvel of engineering, these adept craftsman crave both knowledge and resources. Whether directed by madness or genius, they are a capable adversary and a tenacious survivor.","Cống hiến cả đời để tìm hiểu nguồn gốc của ma thuật và vẻ đẹp của kĩ thuật chế tạo, những thợ chế tạo này thèm khát cả tri thức lẫn nguyên liệu. Dù là điên loạn hay là thần đồng chăng nữa, họ là những đối thủ cực kì khó lường và vô cùng bền bỉ."
 ClassDescription,Escaped criminals who have spent so much of their life incarcerated that any trace of who or what they once were has all but vanished.,Những tù nhân vượt ngục đã dành cả đời bị bắt nhốt đến nỗi mọi dấu vết họ là gì hay là ai đều đã hoàn toàn biến mất.
 ClassDescription,"Freebooting buccaneers, sailing the high seas and plundering many a merchant's vessel in their endless pursuit of riches and infamy. They are murderous cutthroats with little regard for anything but gold.","Những tên cướp biển tự do, sải buồm cưỡi gió trên vùng biển rộng lớn và cướp lấy mọi thứ của thương nhân trong hành trình theo đuổi tiền tài và danh vọng của chúng. Bọn chúng là những kẻ giết người không ghê tay và chẳng quan tâm thứ gì ngoài vàng bạc."
+ClassDescription,"Grim oath-bound hunters who court death against the mightiest foes, undead and monstrous alike. What they lack in subtlety they make up for with unrelenting rage and a body built to shrug off ruin.",
 ClassDescription,"Happy-go-lucky travellers, committed to only the most authentic experiences. Quixotic and brave, they meticulously prepare with a wide variety of paraphernalia - yet remain ill-equipped for the perils they will soon face.","Những nhà du hành vô tư, luôn muốn trải nghiệm mọi nơi một cách đích thực nhất. Viển vông và dũng cảm, họ chuẩn bị cho mình với một đống dụng cụ cá nhân - mặc dù chẳng có nghĩa gì so với những mối nguy hiểm mà họ phải đối mặt."
 ClassDescription,"Hidden agents, fleet-footed and schooled in many ancient arts of assassination. When all else fails, they are indubitably prepared to make swift escapes.","Những nhẫn giả ở ẩn, nhanh nhẹn và im lặng. Được học vô vàn những kĩ năng ám sát thời cổ xưa. Khi mọi chiêu đều thất bại, họ phải nhanh chóng trốn thoát."
 ClassDescription,"Honourable warriors, who have dedicated their lives to an ancient code. Skilled in art of dual-wielding blades, they make fast work of their enemies.","Những chiến binh anh dũng, những người sống cả cuộc đời mình theo hướng  cổ đại. Rất giỏi với việc sử dụng song thủ, họ nhanh chóng giết chết mọi kẻ thù."
 ClassDescription,"Keepers of cosmic secrets, who derive their sacred powers from the spirit realms hidden from mortal eyes. They are compelled by dark forces and are adept at bending the material world to their will.","Những kẻ gác cổng của bí mật vũ trụ, những kẻ này hút lấy sức mạnh từ thế giới linh hồn ẩn giấu khỏi mắt người thường. Họ bị trói buộc bởi sức mạnh bóng tối và có thể bẻ cong thế giới vật chất theo ý muốn."
+ClassDescription,"Keepers of old hexes and older grudges, more at home among gravestones and cauldrons than decent company. They do not hurl fire; they unmake their enemies' luck, strength and flesh by degrees.",
 ClassDescription,"Noble savages, hardened to battle by generations of survival in the unforgiving wilderness. They are not strangers to death's call; legends tell of their incredible strength and battle prowess with heavy weapons.","Quý tộc của sự man rợ, trải qua bao cuộc chiến vì sinh tồn trong thế giới khăc nghiệt mà trở nên cứng cáp. Họ đã vô số lần đứng trước cửa tử; truyền thuyết nói về sức mạnh kinh ngạc của họ và kĩ năng trên chiến trường, đặc biệt là vũ khí hạng nặng."
 ClassDescription,"Obsessed with blurring the line between life and death, these meddlers of dark forces prefer to associate with cadavers over the living. To some, the rituals are grotesque, but they see pure majesty in the manipulation of the natural order.","Ám ảnh với việc xóa nhòa đi ranh giới giữa sự sống và cái chết, những kẻ điều khiển sức mạnh bóng tối này thích làm việc với tử thi hơn là với sinh vật sống. Đối với một số chúng, lễ nghi là một việc kỳ quái, nhưng chúng cảm thấy uy nghi lẫm liệt khi đảo lộn trật tự tự nhiên."
 ClassDescription,"Pious scholars, oath-bound to their scripture. Although altruistic and good-natured, they are trained in martial arts so as to protect themselves and the canon they live by.","Những học giả sùng đạo, ràng buộc với thánh thư của họ. Mặc dù là người tốt và có lòng vị tha, họ được rèn luyện võ thuật kĩ càng để bảo vệ bản thân cũng như những người sùng đạo."
@@ -729,11 +1002,16 @@ ClassDescription,Questionably pious individuals from an ancient religious and mi
 ClassDescription,"Quintessential scientific researchers and dauntless historical investigators. Both brash and debonair, they seek out knowledge and accolades alike. They are curiously fond of whips and share a perplexing hatred towards serpents.","Những nhà khoa học tinh túy nhất và nhà khảo cổ học đầy gan dạ. Cả hai đều mạnh mẽ và vui tính, họ trên đường khám phá tri thức và danh hiệu. Họ yêu thích roi vụt đến khó hiểu, và đều ghét rắn."
 ClassDescription,"Restless desperados, driven by wanderlust and troubled by the haunting memories of those they could not protect. They are sly masters of lead and steel, hellbent on redemption and retribution.","Những kẻ liều mạng không sợ chết, thúc đẩy bởi sự thèm muốn lang thang và ám ảnh về quá khứ, về cái chết của những người mà họ không thể bảo vệ. Họ là bậc thầy về súng và đạn, nhất quán trong việc chuộc lỗi và trả thù."
 ClassDescription,"Righteous clergymen, dedicated to a life of sacrifice and spreading the word of their almighty deities. Well-versed in divine magic and the judicial delivery of violence to those deemed unworthy of salvation.","Những tu sĩ ngay thẳng, dành cả đời mình hiến tế khai sáng về sự toàn năng của các vị thần. Họ rất giỏi về phép thuật thần thánh và sẽ trừng phạt bằng bạo lực những kẻ không xứng đáng cho sự cứu rỗi linh hồn."
+ClassDescription,"Scholars who bound their fate to raw elemental force rather than the slower disciplines of wizardry. Fire and frost answer their call in equal measure, a duality most mages never dare attempt.",
+ClassDescription,"Self-taught chemists of the underworld, forever mixing, tasting and bottling the unknown. What they lack in swordsmanship they make up for with a satchel of volatile solutions and a hard-won immunity to their own mistakes.",
 ClassDescription,"Strongly built, tough and industrious workers who are more than capable in dangerous situations. Traditional practices and heavy tools are used to overcome obstacles in their pursuit of valuable gemstones.","Công nhân khỏe mạnh, cứng cáp hoàn toàn làm chủ được những tình huống nguy hiểm. Những phương pháp truyền thống và công cụ hạng nặng được dùng để phá bỏ rào cản giữa họ và những viên đá quý vô giá."
 ClassDescription,"Sworn to uphold justice, these righteous warriors are dogmatic in pursuit of their sacred work. Classical martial skills are complemented by magical powers to protect the innocent and smite the wicked.","Đã thề để bảo vệ công lý, những chiến binh ngay thẳng luôn độc đoán trong công việc linh thiêng của họ. Võ thuật cổ điển được kết hợp với sức mạnh ma thuật để bảo vệ dân lành và tiêu diệt những kẻ độc ác."
 ClassDescription,"Venerable men-at-arms clad in gleaming armour, renowned for their unyielding chivalry and conviction. They are high-born and are educated to be strategists and capable leaders on any battlefront.","Những binh sĩ đáng kính trọng, mang trên mình áo giáp sáng lóa, nổi danh với tính hiệp sĩ và niềm tin mạnh mẽ của họ. Họ mang trong mình dòng máu quý tộc và được dạy dỗ để trở thành những chiến thuật gia và lãnh đạo tài giỏi trên mọi chiến trường."
 ClassDescription,"Warrior slaves compelled to battle for the entertainment of raucous crowds, often to the death. Those that can survive this cauldron are trained into the most brutal of pit fighters.","Những nô lệ chiến binh bị buộc phải chiến đấu để mua vui cho đám đông vô cảm, thường xuyên bị đánh đến chết. Những kẻ sống sót khỏi lòng chảo chiến trường này đã rèn luyện trở thành những chiến binh hung bạo nhất."
 ClassDescription,"Wilderness sentinels who understand the true balance of the universe. With bow in hand, they have devoted their lives to protecting the forces of nature from the corrupting touch of civilisation.","Lính gác của sự hoang dã, những người đã hiểu được sự cân bằng của vũ trụ. Cầm trong tay cây cung, họ đã cống hiến cả đời mình để bảo vệ sức mạnh của thiên nhiên khỏi sự đồi bại và hư hỏng khỏi sự khai hóa."
+ClassName,apothecary//female,
+ClassName,apothecary//male,
+ClassName,apothecary//non-binary,
 ClassName,barbarian//female,man di
 ClassName,barbarian//male,man di
 ClassName,barbarian//non-binary,người man di lưỡng tính
@@ -749,6 +1027,9 @@ ClassName,convict//non-binary,tù nhân lưỡng tính
 ClassName,druid//female,phù thủy thiên nhiên
 ClassName,druid//male,phù thủy thiên nhiên
 ClassName,druid//non-binary,phù thủy thiên nhiên lưỡng tính
+ClassName,elementalist//female,
+ClassName,elementalist//male,
+ClassName,elementalist//non-binary,
 ClassName,explorer//female,thám hiểm
 ClassName,explorer//male,tham hiểm
 ClassName,explorer//non-binary,thám hiểm lưỡng tính
@@ -782,6 +1063,9 @@ ClassName,mystic//non-binary,nhà tiên tri lưỡng tính
 ClassName,necromancer//female,kẻ gọi hồn
 ClassName,necromancer//male,kẻ gọi hồn
 ClassName,necromancer//non-binary,kẻ gọi hồn lưỡng tính
+ClassName,nightblade//female,
+ClassName,nightblade//male,
+ClassName,nightblade//non-binary,
 ClassName,ninja//female,nhẫn giả
 ClassName,ninja//male,nhẫn giả
 ClassName,ninja//non-binary,nhẫn giả lưỡng tính
@@ -809,6 +1093,9 @@ ClassName,samurai//non-binary,võ sĩ lưỡng tính
 ClassName,shaman//female,thầy cúng
 ClassName,shaman//male,thầy cúng
 ClassName,shaman//non-binary,thầy cúng lưỡng tính
+ClassName,slayer//female,
+ClassName,slayer//male,
+ClassName,slayer//non-binary,
 ClassName,templar//female,hiệp sĩ Đền thánh
 ClassName,templar//male,hiệp sĩ Đền thánh
 ClassName,templar//non-binary,hiệp sĩ Đền thánh lưỡng tính
@@ -821,18 +1108,26 @@ ClassName,tourist//non-binary,du khách lưỡng tính
 ClassName,valkyrie//female,Valkyrie
 ClassName,valkyrie//male,Valkyrie
 ClassName,valkyrie//non-binary,Valkyrie lưỡng tính
+ClassName,witch//female,
+ClassName,witch//male,
+ClassName,witch//non-binary,
 ClassName,wizard//female,pháp sư
 ClassName,wizard//male,pháp sư
 ClassName,wizard//non-binary,pháp sư lưỡng tính
+CompanionName,almiraj,
+CompanionName,astral puppy,
 CompanionName,bird,chim
+CompanionName,blink puppy,
 CompanionName,cat,mèo
 CompanionName,dog,chó
 CompanionName,egg,trứng
 CompanionName,ghoul,ngạ quỷ
+CompanionName,hamster,
 CompanionName,horse,ngựa
 CompanionName,imp,tiểu quỷ
 CompanionName,monkey,khỉ
 CompanionName,rat,chuột
+CompanionName,raven,
 CounterName,afflictions,số bệnh
 CounterName,animations,số vật phẩm tái sinh
 CounterName,anoints,số lần nhúng
@@ -925,8 +1220,10 @@ DeviceName,fire trap,bẫy lửa
 DeviceName,grease trap,bẫy bôi trơn
 DeviceName,hallucination trap,bẫy hoang tưởng
 DeviceName,hole,lỗ
+DeviceName,humantrap,
 DeviceName,hunger trap,bẫy đói khát
 DeviceName,ice trap,bẫy băng
+DeviceName,ink pool,
 DeviceName,level teleporter,bẫy dịch chuyển tầng
 DeviceName,lightning trap,bẫy sấm
 DeviceName,noxious pool,hố axit
@@ -941,6 +1238,7 @@ DeviceName,sleeping gas trap,bẫy khí gây mê
 DeviceName,spear trap,bẫy giáo
 DeviceName,spiked pit,hố gai
 DeviceName,squeaky board,mảnh ván rỗng
+DeviceName,statue trap,
 DeviceName,teleporter,bẫy dịch chuyển
 DeviceName,toxic trap,bẫy độc
 DeviceName,trapdoor,cửa sập
@@ -1007,15 +1305,68 @@ EncumbranceName,stressed,bị stress
 EncumbranceName,unencumbered,thoải mái
 EngulfmentName,engulfed,bị dìm
 EngulfmentName,swallowed,bị nuốt chửng
+EntityDescription,"A blink dog pup, already able to flicker away from danger before it lands a bite.",
+EntityDescription,A bulbous fungus that bursts into a hissing cloud of acid when disturbed.,
+EntityDescription,"A cave bear whose pelt has gone grey as cinders, hardened by years sheltered in a live volcano's roots.",
+EntityDescription,"A cave spider drained of all colour by lightless generations, hunting by web-thrum alone.",
+EntityDescription,"A cobra pale as hoarfrost, coiled in the ice caves where warm-blooded prey seeks shelter.",
+EntityDescription,"A coyote with a static-charged coat, drawn down from the high plains after a lightning storm.",
+EntityDescription,"A dead tree animated by rot and old malice, its bark split open where a jaw shouldn't be.",
+EntityDescription,"A dragon steeped in high magic, said to hoard grimoires as jealously as gold.",
+EntityDescription,A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.,
+EntityDescription,A dwarf of a mountain clan so far north the forge-fires burn blue; one of its twin mattocks bites like the wind off the peak.,
+EntityDescription,A fey hound that flickers between here and elsewhere; it fights alongside anyone it trusts.,
+EntityDescription,"A giant bat with clouded, sightless eyes, navigating wholly by the shriek of its own echo.",
+EntityDescription,"A giant beetle with a carapace of blue-white chitin, breath steaming with cold in the deep dark.",
+EntityDescription,"A giant caked grey with volcanic ash, walking down from a smoking peak with a club still smoking at the tip.",
+EntityDescription,"A giant of the high glaciers, sheathed in rime; its breath alone can flash-freeze a puddle solid.",
+EntityDescription,"A gila monster whose beaded hide glows dull orange along the seams, as if lit from beneath.",
+EntityDescription,"A gnome who never left the deep tunnels, pale and stooped, at ease chewing through rock with a pickaxe.",
+EntityDescription,"A golem cast from bronze rather than raw iron; where its cousin only staggers under a lightning strike, this one drinks the current and spits it back.",
+EntityDescription,"A hound of the Astral plane, half-seen even when it stands still; it does not breathe or bleed.",
+EntityDescription,"A jackal wasted by sickness, its ribs showing through a mangy hide; its bite festers.",
+EntityDescription,A jelly black as a starless sky; things it touches for too long forget how alive they were.,
+EntityDescription,A jelly that glows faintly like a coal; fire only makes it swell larger and angrier.,
+EntityDescription,A jelly that reeks of rot; it dissolves flesh and gear alike to feed itself.,
+EntityDescription,"A jelly the colour of a bruise, faintly crackling; touching it feels like brushing a doorknob after crossing a carpet in winter.",
+EntityDescription,"A jelly the colour of glacier ice, cold to the touch and colder still if it touches back.",
+EntityDescription,"A kobold camouflaged in mottled green, more comfortable in the canopy than underground; it spits venom from a hollow reed.",
+EntityDescription,"A long worm that burrows through permafrost, its segmented hide crusted with rime.",
+EntityDescription,"A lynx with a rime-white winter coat, breath fogging even in a warm room.",
 EntityDescription,A medium-sized creature prone to great ambition. Short-lived but ubiquitous; they are not to be underestimated.,"Một loài sinh vật cỡ vừa với dã tâm lớn, tuổi thọ ngắn nhưng có ở khắp nơi; đừng đánh giá thấp chúng."
+EntityDescription,"A panther whose black coat smoulders at the edges, leaving smoking pawprints on stone.",
+EntityDescription,"A plump waterfowl, unbothered by dungeons so long as there is a puddle nearby.",
+EntityDescription,"A pudding of black, viscid tar that oozes and smoulders at once; anything it swallows comes out cindered.",
+EntityDescription,"A raven with feathers like beaten iron, riding the thunderheads and stooping with a crack of static.",
+EntityDescription,"A rodent the size of a dog, cheek pouches bulging with whatever it last found on the floor.",
+EntityDescription,"A sewer rat gone pure white and pink-eyed, blind from generations in unlit tunnels.",
+EntityDescription,"A shade gone pale and crystalline, trailing frost wherever it drifts; the cold pours off it before it ever draws near.",
+EntityDescription,A shambling corpse wrapped in weeping buboes; the sickness that killed it did not stop working when it died.,
+EntityDescription,"A shark bred to lightless ocean trenches, its eyes filmed over and useless.",
+EntityDescription,"A skeleton picked clean by something worse than time; its bones are black at the joints, and its touch draws the warmth out of the living.",
+EntityDescription,A small heap of coins that isn't quite finished counting itself.,
+EntityDescription,"A small, quick-witted dragon out of the fey courts, more prankster than predator.",
+EntityDescription,"A spitting beetle whose glands have gone volcanic, hawking gobbets of burning pitch.",
+EntityDescription,"A standing wave of brackish swamp water, thick with algae and old poison; nothing in it is fresh, and nothing about touching it is safe.",
+EntityDescription,"A troll that wandered too near a volcano and came out the other side wrong: its hide is cracked magma-rock, glowing at every seam.",
+EntityDescription,"A water moccasin gone jet black, all but invisible against a night-flooded cave pool.",
+EntityDescription,"A weathered chest, until its lid splits open into a maw ringed with teeth.",
+EntityDescription,"A young astral dog, still learning to keep all four paws on the material plane at once.",
+EntityDescription,"A young mimic, its shapeshifting still crude — usually just a box that bites back.",
 EntityDescription,"Amorphous beings who have no typical shape but often take on a translucent humanoid form. While unmistakable for anything other than a plasma-like ooze, this form enables the use of clothing and tools.","Những sinh vật vô định hình không có hình dạng điển hình nhưng thường có dạng hình người nhìn mờ nhạt. Mặc dù không thể nhầm lẫn với bất kỳ thứ gì khác ngoài các chất lỏng plasma giống như huyết tương, nhưng dạng này cho phép sử dụng quần áo và dụng cụ."
 EntityDescription,"An ancient race of towering recluses. Their terrifying size gives them immense strength, supplemented by a voracious diet of meats and minerals.","Một chủng tộc cổ xưa ở ẩn ở nơi cao chót vót. Kích thước khủng bố giúp chúng có sức mạnh rất lớn, được bổ sung với chế độ ăn toàn thịt và khoáng chất."
+EntityDescription,"An ape with a crackling, wire-taut hide, native to the thunderheads above the high peaks.",
+EntityDescription,"An elf of the sunlit dunes, skin bronzed and eyes narrowed; its arrows are fletched with fire-hardened reed and fly burning.",
+EntityDescription,"An ogre gone half-feral in the fens, its skin sallow and slick; its claws carry a rot no wound-dressing can clean.",
+EntityDescription,An orc mummy exhumed from a barrow sealed under a cinder-field; its wrappings are charred and its grip sears whatever it holds.,
+EntityDescription,"An orc that has made its home in the marshlands, its blade notched and slicked with venom drawn from swamp adders.",
 EntityDescription,"Astral beings who are a vessel for the indomitable spirit of a vanquished adventurer. Having no motivations of their own, they are glad to permit the possession; for the deceased adventurer, it is a second chance at revenge or redemption. Born from astral matter, they are slightly built, translucent and can move freely through physical obstacles.","Những thực thể thần thánh, là vỏ bọc cho những linh hồn bất khuất của những nhà thám hiểm. Chúng không có mục tiêu, luôn sẵn lòng cho mượn lấy cơ thể của mình; đối với những nhà thám hiểm đã chết, đây chính là cơ hội thứ hai để trả thù hoặc chuộc lỗi. Được tạo ra từ vật chất thiên thạch, chúng rất mỏng, trong suốt và có thể bay lượn tự do xuyên qua vật chất."
 EntityDescription,"Beautiful, otherworldly beings characterised by their signature halo and feathered wings. Strongly attuned to the struggle between good and evil, they sense the divinity within anything they hold.","Xinh đẹp, những thực thể siêu nhiên này nổi bật với đặc điểm như vầng hào quang hay cánh lông vũ. Rất hòa hợp với cuộc chiến giữa cái thiện và cái ác, họ có thể cảm nhận được tính thánh hóa của mọi vật họ chạm vào."
 EntityDescription,Beware this clockwork machine of war.,Hãy coi chừng cỗ máy của chiến tranh.
 EntityDescription,Bipedal mechanical automatons with nearly unbounded artificial intelligence. Powered by a molten core engine that requires a constant supply of raw metals and is susceptible to water damage.,"Những cỗ máy 2 chân tự động với trí tuệ nhân tạo gần như vô song. Được vận hành bởi một bộ lõi kim loại lỏng và cần nguồn cung cấp kim loại thô liên tục, chúng dễ bị tổn thương bởi sát thương từ nước."
 EntityDescription,"Fey creatures linked by powerful nature spirits to fuel their antics. They are stocky with furry lower bodies, cloven hooves of a goat and curled horns of a ram. Ribald and clever, they cheerfully lead hedonistic escapades of drinking, dancing and fighting.","Những sinh vật thần tiên, được kết nối bởi linh hồn thiên nhiên mạnh mẽ để tiếp nối những trò hề của họ. Cơ thể chắc nịch, phần dưới có lông, có móng vuốt giống loài dê và sừng xoắn ốc giống loài cừu. Dâm tục và thông minh, họ vui vẻ dẫn dắt những tù nhân của sự khoái lạc vào việc uống, nhảy múa và đánh nhau."
 EntityDescription,"Imposing and heavily built, they resemble humanoid dragons with a snout, scaly hide and functional wings.","Với vẻ ngoài oai nghiêm cường hoá bởi thân hình cứng cáp, chúng có nét tương đồng với tộc người rồng với cái mõm, da vảy và bộ cánh."
+EntityDescription,"It waits among the headstones shaped like one more grave marker, patient as the dead around it.",
 EntityDescription,"Large, omnivorous reptilians whose bestial ancestors dominated the world long before the birth of civilisation. They are fearsome predators, capable of leaping impressive distances and warding off many attacks with their thick scaly hides.","To lớn, những người bò sát ăn thịt mà tổ tiên của họ đã từng thống trị thế giới trước khi nền văn minh ra đời. Họ là những sát thủ ăn thịt đáng sợ, có thể nhảy vọt với khoảng cách rất xa và chống lại rất nhiều đòn tấn công với vảy cứng của họ."
 EntityDescription,Monstrous creatures with the head and tail of a bull and the body of a man.,Thứ sinh vật quái quỷ với cái đầu và đuôi của con bò lai với thân hình của con người.
 EntityDescription,"Perverse creatures of many aberrations but always with crimson skin and horns. Their mere presence compels others to act out their darkest, most violent desires.","Những sinh vật biến thái lầm lạc nhưng luôn có màu da đỏ thắm và mọc sừng. Sự xuất hiện của chúng khiến tất cả bộc lộ những tham vọng, trụy lạc đen tối và bạo lực nhất."
@@ -1033,7 +1384,11 @@ EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.","Những sinh vật xấu xí, thú tính với tập tính ăn thịt đồng loại; Chủng tộc hiếu chiến này được biết đến với sức mạnh phi thường và trí thông minh ngu dốt đến đần độn của chúng."
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.","Được các đặc tính một cách bất công là hèn nhát và yếu đuối, những sinh vật bò sát nhỏ bé này vượt qua những hạn chế về thể chất của chúng bằng cách sử dụng các chiến lược xấu xa và xảo quyệt."
 EntityName,abbot,trụ trì
+EntityName,abyssal shark,
 EntityName,acid blob,bãi axít
+EntityName,acid elemental,
+EntityName,acid sphere,
+EntityName,acid spore,
 EntityName,acid worm,giun axít
 EntityName,acolyte,thầy dòng
 EntityName,adamantine golem,golem adamantine
@@ -1049,8 +1404,15 @@ EntityName,adult shimmering dragon,rồng lấp lánh trưởng thành
 EntityName,adult silver dragon,rồng bạc trưởng thành
 EntityName,adult white dragon,rồng trắng trưởng thành
 EntityName,adult yellow dragon,rồng vàng trưởng thành
+EntityName,air binder,
 EntityName,air elemental,nguyên tố gió
+EntityName,air maker,
+EntityName,air seeker,
+EntityName,air sphere,
+EntityName,albino rat,
+EntityName,alchemist,
 EntityName,Aleax,Aleax
+EntityName,almiraj,
 EntityName,ancient black dragon,rồng đen cổ đại
 EntityName,ancient blue dragon,rồng xanh dương cổ đại
 EntityName,ancient deep dragon,rồng xanh đậm cổ đại
@@ -1063,6 +1425,7 @@ EntityName,ancient silver dragon,rồng bạc cổ đại
 EntityName,ancient white dragon,rồng trắng cổ đại
 EntityName,ancient yellow dragon,rồng vàng cổ đại
 EntityName,angel,thiên thần
+EntityName,angel warrior,
 EntityName,animate object,vật thể sống
 EntityName,ape,vượn
 EntityName,Aphrodite,Aphrodite
@@ -1070,17 +1433,30 @@ EntityName,apprentice,tập sự
 EntityName,arc bug,bọ điện lớn
 EntityName,arch-lich,tổng lãnh vu yêu
 EntityName,archangel,tổng lãnh thiên sứ
+EntityName,archeologist,
 EntityName,Archmage Dirachi,tổng lãnh phù thủy Dirachi
 EntityName,Archmage Flaynn,tổng lãnh phù thủy Flaynn
 EntityName,archon,quan chấp chính
 EntityName,Archpriest Avvakrum,tổng lãnh mục sư Avvakrum
+EntityName,army captain,
+EntityName,army lieutenant,
+EntityName,army sergeant,
+EntityName,army soldier,
 EntityName,artisan,nghệ nhân
+EntityName,ash elemental,
+EntityName,ash giant,
+EntityName,ashen cave bear,
+EntityName,ashen mummy,
 EntityName,Ashikaga Takauji,Ashikaga Takauji
 EntityName,Asmodeus,Asmodeus
 EntityName,asphynx,quái hóa đá bậc cao
+EntityName,assassin,
 EntityName,assassin bug,bọ sát thủ
 EntityName,Assassin Mortimer,sát thủ Mortimer
 EntityName,astral deva,astral deva
+EntityName,astral dog,
+EntityName,astral dragon,
+EntityName,astral puppy,
 EntityName,athol,athol
 EntityName,attendant,người phục vụ
 EntityName,Baalzebub,Baalzebub
@@ -1092,6 +1468,7 @@ EntityName,baby deep dragon,rồng con xanh đậm
 EntityName,baby gold dragon,rồng con vàng kim
 EntityName,baby green dragon,rồng con xanh lá
 EntityName,baby long worm,giun con dài
+EntityName,baby mimic,
 EntityName,baby orange dragon,rồng con cam
 EntityName,baby purple worm,giun con tím
 EntityName,baby red dragon,rồng con đỏ
@@ -1111,8 +1488,10 @@ EntityName,basilisk,tử xà
 EntityName,bat,dơi
 EntityName,bearded devil,quỷ có râu
 EntityName,beholder,beholder
+EntityName,berserker,
 EntityName,bile worm,giun độc khổng lồ
 EntityName,bile worm tail,đuôi giun độc khủng lồ
+EntityName,bishop,
 EntityName,black light,tia cực tím
 EntityName,black marketeer,tội phạm chợ đen
 EntityName,black mould,mốc đen
@@ -1123,26 +1502,37 @@ EntityName,black rat,chuột đen
 EntityName,black troll,troll đen
 EntityName,black unicorn,kỳ lân đen
 EntityName,black wasp,tò vò đen
+EntityName,blind cave bat,
+EntityName,blink dog,
+EntityName,blink puppy,
 EntityName,blinking eye,quỷ mắt nháy
 EntityName,blood imp,tiểu quỷ máu
 EntityName,bloodshot eye,quỷ mắt đỏ
 EntityName,bloodworm,giun máu
 EntityName,blue jelly,thạch xanh dương
 EntityName,blue light,ánh sáng xanh dương
+EntityName,bog ogre,
 EntityName,bone devil,quỷ xương
+EntityName,bone reaper,
+EntityName,brine elemental,
+EntityName,bronze golem,
 EntityName,brown mould,mốc nâu
 EntityName,brown pudding,pudding màu nâu
 EntityName,brownie,bánh ngọt
 EntityName,bugbear,ông kẹ yêu tinh
 EntityName,bull,bò mộng
+EntityName,buraq,
 EntityName,burbling blob,bãi lầm bầm
+EntityName,bushi,
 EntityName,byakhee,quỷ byakhee
+EntityName,Byakko,
 EntityName,captain,đội trưởng
 EntityName,carnivorous ape,vượn ăn thịt
 EntityName,carrion crawler,giun tê liệt
 EntityName,caterwaul,mèo gào
 EntityName,catoblepas,Catoblepas
 EntityName,cave bear,gấu hang
+EntityName,cave gnome,
 EntityName,cave spider,nhện hang
 EntityName,cave troll,troll hang
 EntityName,centipede,rết
@@ -1151,6 +1541,7 @@ EntityName,chameleon,tắc kè hoa
 EntityName,changeling,yêu tinh mạo danh
 EntityName,Charon,Charon
 EntityName,chasme,quỷ ruồi
+EntityName,cherubim,
 EntityName,chickatrice,chickatrice
 EntityName,chicken,gà
 EntityName,chief yeoman warder,thủ lĩnh kỵ binh giám mục
@@ -1170,6 +1561,7 @@ EntityName,crocodile,cá sấu
 EntityName,Croesus,Croesus
 EntityName,crystal golem,golem pha lê
 EntityName,Cthulhu,Cthulhu
+EntityName,cyan jelly,
 EntityName,cyclops,cyclops
 EntityName,dao,rồng thần
 EntityName,dark cleric,hắc linh mục
@@ -1201,7 +1593,12 @@ EntityName,dracon,dracon
 EntityName,dragon king,vua rồng
 EntityName,dretch,tiểu quỷ lợn
 EntityName,drow,tiểu quỷ hắc ám
+EntityName,drow mage,
+EntityName,drow monk,
+EntityName,drow priestess,
+EntityName,drow thief,
 EntityName,dryad,thần rừng
+EntityName,duck,
 EntityName,duergar,người lùn xám
 EntityName,dung worm,giun phân
 EntityName,dust vortex,cuộn xoáy bụi
@@ -1220,6 +1617,7 @@ EntityName,earth seeker,người khai đất
 EntityName,earth sphere,khối cầu đất
 EntityName,echo,vong hồn
 EntityName,efreeti,linh hồn ma thuật hỏa
+EntityName,elder wizard,
 EntityName,electric eel,lươn điện
 EntityName,elephant,voi
 EntityName,elf,elf
@@ -1229,16 +1627,24 @@ EntityName,elf mummy,xác ướp elf
 EntityName,elf zombie,thây ma elf
 EntityName,Elwing,Elwing
 EntityName,embalmer,người ướp xác
+EntityName,ember panther,
+EntityName,ember spitting beetle,
 EntityName,emerald golem,golem lục bảo
+EntityName,energy elemental,
 EntityName,energy vortex,cuộn xoáy năng lượng
 EntityName,erinys,nữ thần báo thù
+EntityName,eshim,
 EntityName,ettin,ettin
 EntityName,ettin mummy,xác ướp ettin
 EntityName,ettin zombie,thây ma ettin
+EntityName,explosive elemental,
+EntityName,explosive sphere,
 EntityName,exterminator,kẻ hủy diệt
+EntityName,fae dragon,
 EntityName,fairy,tinh linh
 EntityName,Famine,Nạn Đói
 EntityName,Father Dagon,Cha xứ Dagon
+EntityName,female demon,
 EntityName,fiend,quỷ dữ
 EntityName,fire ant,kiến lửa
 EntityName,fire elemental,nguyên tố hỏa
@@ -1257,16 +1663,24 @@ EntityName,fog cloud,mây sương
 EntityName,forest centaur,mộc nhân mã
 EntityName,fox,cáo
 EntityName,Frankenstein's Monster,Quái vật của Frankenstein
+EntityName,frost beetle,
 EntityName,frost binder,người đóng sách hệ băng
+EntityName,frost cobra,
+EntityName,frost dwarf,
 EntityName,frost giant,người khổng lồ hệ băng
+EntityName,frost long worm,
+EntityName,frost lynx,
 EntityName,frost maker,ma thuật sư hệ băng
 EntityName,frost seeker,người khai băng
 EntityName,frost sphere,khối cầu băng
+EntityName,frost wraith,
+EntityName,galgalim,
 EntityName,gargoyle,gargoyle
 EntityName,garter snake,rắn nịt tất
 EntityName,gas spore,bào tử gas
 EntityName,gecko,tắc kè
 EntityName,gelatinous cube,khối gelatin
+EntityName,General Breetai,
 EntityName,genetic engineer,kỹ sư di truyền học
 EntityName,Geryon,Geryon
 EntityName,ghast,quỷ ăn thịt cấp cao
@@ -1284,6 +1698,7 @@ EntityName,giant crab,cua khổng lồ
 EntityName,giant eel,lươn khổng lồ
 EntityName,giant flea,bọ chét khổng lồ
 EntityName,giant frog,ếch khổng lồ
+EntityName,giant hamster,
 EntityName,giant king,vua người khổng lồ
 EntityName,giant louse,chấy khổng lồ
 EntityName,giant mimic,quỷ giả dạng khổng lồ
@@ -1297,6 +1712,7 @@ EntityName,giant termite,mối khổng lồ
 EntityName,giant tick,bọ ngôi sao khổng lồ
 EntityName,giant wasp,tò vò khổng lồ
 EntityName,giant zombie,thây ma khổng lồ
+EntityName,Gianta Klaus,
 EntityName,gibberling,quỷ tinh tinh
 EntityName,gila monster,quái vật gila
 EntityName,Girtab,Girtab
@@ -1321,8 +1737,10 @@ EntityName,goblin king,vua yêu tinh
 EntityName,gold golem,golem vàng
 EntityName,golden naga,xà nhân hổ mang vàng
 EntityName,golden naga hatchling,xà nhân hổ mang con vàng
+EntityName,grave mimic,
 EntityName,great orc,quỷ orc to lớn
 EntityName,green elf,elf xanh lá
+EntityName,green jelly,
 EntityName,green mould,mốc xanh lá
 EntityName,green slime,slime xanh lá
 EntityName,gremlin,gremlin
@@ -1338,7 +1756,10 @@ EntityName,guide,người dẫn đường
 EntityName,Guildmaster Vaughn,Chủ guild Vaughn
 EntityName,Guru Quilion,Guru Quilion
 EntityName,gypsy,người Digan
+EntityName,hag,
 EntityName,halfling,halfing
+EntityName,halfling female caveman,
+EntityName,halfling male caveman,
 EntityName,harpy,harpy
 EntityName,hell hound,chó địa ngục
 EntityName,hell hound pup,chó địa ngục con
@@ -1363,9 +1784,11 @@ EntityName,human,người
 EntityName,human king,vua người
 EntityName,human mummy,xác ướp người
 EntityName,human zombie,thây ma người
+EntityName,huntress,
 EntityName,hydra,hydra
 EntityName,ice devil,quỷ băng
 EntityName,ice elemental,nguyên tố băng
+EntityName,ice giant,
 EntityName,ice troll,troll băng
 EntityName,ice vortex,cuộn xoáy băng
 EntityName,iguana,cự đà
@@ -1381,8 +1804,10 @@ EntityName,jackalwere,ma chó rừng
 EntityName,jaguar,báo đốm
 EntityName,jellyfish,sứa
 EntityName,jiggling blob,bãi lung lay
+EntityName,journeyman wizard,
 EntityName,juggernaut,kẻ hành quyết
 EntityName,Juiblex,Juiblex
+EntityName,jungle kobold,
 EntityName,juvenile raven,quạ con
 EntityName,Kaloi Thrym,Chúa tể bóng tối
 EntityName,kamadan,kamadan
@@ -1408,6 +1833,7 @@ EntityName,kobold warrior,chiến binh kobold
 EntityName,kobold zombie,thây ma kobold
 EntityName,komodo dragon,rồng komodo
 EntityName,kraken,kraken
+EntityName,Krull,
 EntityName,lamb,cừu non
 EntityName,Lareth,Lareth
 EntityName,large cat,mèo lớn
@@ -1418,6 +1844,7 @@ EntityName,large mimic,quỷ giả dạng lớn
 EntityName,large pile of killer coins,đống tiền giết người lớn
 EntityName,larva,ấu trùng
 EntityName,lava blob,bãi nham thạch
+EntityName,lava troll,
 EntityName,leather golem,golem da
 EntityName,lemure,quỷ lemure
 EntityName,leocrotta,leocrotta
@@ -1434,6 +1861,7 @@ EntityName,lizardman,người thằn lằn
 EntityName,lizardman berserker,người thằn lằn man di
 EntityName,lizardman chieftain,người thằn lằn thủ lĩnh
 EntityName,lizardman mage,người thằn lằn pháp sư
+EntityName,lizardman samurai,
 EntityName,lizardman shaman,người thằn lằn thầy cúng
 EntityName,lizardman warrior,người thằn lằn chiến binh
 EntityName,Lolth,Lolth
@@ -1456,18 +1884,24 @@ EntityName,master mind flayer,bậc thầy kẻ ăn não
 EntityName,mastodon,voi răng mẩu
 EntityName,Maugneshaagar,Maugneshaagar
 EntityName,medusa,quỷ medusa
+EntityName,melanistic moccasin,
 EntityName,mellified man,xác ướp mật
 EntityName,merchant,thương nhân
+EntityName,Merdude,
 EntityName,Metamorphius,Metamorphius
+EntityName,midnight jelly,
 EntityName,migo drone,migo thợ
 EntityName,migo queen,migo chúa
 EntityName,migo warrior,migo đực
+EntityName,mimic,
+EntityName,mimic coins,
 EntityName,mind flayer,kẻ ăn não
 EntityName,minotaur,nhân ngưu
 EntityName,minotaur lord,lãnh chúa nhân ngưu
 EntityName,mist wolf,sói sương
 EntityName,mithril golem,golem mithril
 EntityName,mobat,dơi hóa nhỏ
+EntityName,molten gila monster,
 EntityName,monadic deva,thiên nữ
 EntityName,mongbat,mongbat
 EntityName,monkey,khỉ
@@ -1478,6 +1912,7 @@ EntityName,mountain nymph,nymph núi
 EntityName,movanic deva,thiên nam
 EntityName,mugger,tên cướp
 EntityName,mumak,voi mumak
+EntityName,mystical dragon,
 EntityName,nabassu,nabassu
 EntityName,nalfeshnee,nalfeshnee
 EntityName,Nalzok,Nalzok
@@ -1488,9 +1923,12 @@ EntityName,newt,cá cóc
 EntityName,nickelpede,nickelpede
 EntityName,nightgaunt,quỷ đêm
 EntityName,nightmare,ác mộng
+EntityName,noble elf,
 EntityName,Norn,Norn
+EntityName,nun,
 EntityName,nupperibo,nupperibo
 EntityName,nurse,y tá
+EntityName,Nymph Princess,
 EntityName,occultist,pháp sư thần bí
 EntityName,ochre jelly,thạch màu đất son
 EntityName,ogre,quái nhân
@@ -1507,6 +1945,7 @@ EntityName,orc grunt,orc càu nhàu
 EntityName,orc king,orc vua
 EntityName,orc mummy,orc xác ướp
 EntityName,orc shaman,orc thầy cúng
+EntityName,orc thief,
 EntityName,orc warrior,orc chiến binh
 EntityName,orc zombie,orc thây ma
 EntityName,Orcus,Orcus
@@ -1514,6 +1953,7 @@ EntityName,Orion,Orion
 EntityName,owlbear,cú gấu
 EntityName,pack rat,chuột đuôi rậm
 EntityName,page,kị sĩ
+EntityName,pale cave spider,
 EntityName,panther,báo
 EntityName,pantherwere,ma báo
 EntityName,paper golem,golem giấy
@@ -1524,6 +1964,10 @@ EntityName,Pelias,Pelias
 EntityName,Pestilence,Bệnh Dịch
 EntityName,phase spider,nhện xuyên tường
 EntityName,phase worm,giun xuyên tường
+EntityName,pheral khit,
+EntityName,pheral pharaoh,
+EntityName,pheral sentinel,
+EntityName,pheral vizier,
 EntityName,pig,lợn
 EntityName,pile of killer coins,đống tiền giết người
 EntityName,piranha,cá cọp
@@ -1531,10 +1975,13 @@ EntityName,pit bull,chó pit bull
 EntityName,pit fiend,pit fiend
 EntityName,pit viper,pit viper
 EntityName,pixie,pixie
+EntityName,plague jackal,
+EntityName,plague zombie,
 EntityName,plains centaur,nhân ngưu đồng bằng
 EntityName,Planetar,Planetar
 EntityName,plasmoid,plasmoid
 EntityName,plastic golem,golem nhựa
+EntityName,poison alchemist,
 EntityName,pony,ngựa con
 EntityName,proudfoot,proudfoot
 EntityName,purple worm,giun tím
@@ -1554,6 +2001,7 @@ EntityName,rancid jelly,thạch ôi thiu
 EntityName,rat king,vua chuột
 EntityName,ratwere,ma chuột
 EntityName,recluse spider,nhện ở ẩn
+EntityName,red jelly,
 EntityName,red light,ánh sáng đỏ
 EntityName,red mould,mốc màu đỏ
 EntityName,red naga,xà nhân màu đỏ
@@ -1561,6 +2009,10 @@ EntityName,red naga hatchling,xà nhân con màu đỏ
 EntityName,rhaumbusun,rhaumbusun
 EntityName,rhumbat,rhumbat
 EntityName,robot,người máy
+EntityName,robot female,
+EntityName,robot male vampire gunslinger,
+EntityName,robot sentry,
+EntityName,robot singer,
 EntityName,rock kobold,kobold đá
 EntityName,rock mole,chuột chũi đào đá
 EntityName,rock piercer,ốc gai đá
@@ -1570,6 +2022,7 @@ EntityName,roshi,lão sư
 EntityName,rot worm,giun thối rữa
 EntityName,rothé,rothé
 EntityName,ruby golem,golem hồng ngọc
+EntityName,runicorn,
 EntityName,rust monster,quái vật gỉ
 EntityName,rutterkin,rutterkin
 EntityName,sabre-toothed cat,mèo nanh rắn
@@ -1578,10 +2031,13 @@ EntityName,sandestin,sandestin
 EntityName,sapphire golem,golem lam ngọc
 EntityName,sasquatch,chân to
 EntityName,satyr,thần dê
+EntityName,savage brute,
+EntityName,savage stalker,
 EntityName,scorpion,bọ cạp
 EntityName,Scorpius,Scorpius
 EntityName,scramper,scramper
 EntityName,seal,Sư tử biển
+EntityName,seraphim,
 EntityName,sergeant,trung sĩ
 EntityName,sewer rat,chuột cống
 EntityName,shade,bóng ma tê dại
@@ -1589,6 +2045,7 @@ EntityName,shadow,bóng tối
 EntityName,shadow ogre,quái nhân bóng tối
 EntityName,shadow wolf,sói bóng tối
 EntityName,Shaman Karnov,Thầy cúng Karnov
+EntityName,shaolin monk,
 EntityName,shark,cá mập
 EntityName,sheep,cừu
 EntityName,shifter,shifter
@@ -1599,6 +2056,7 @@ EntityName,shock seeker,người khai sấm
 EntityName,shock sphere,khối cầu sấm
 EntityName,shoggoth,shoggoth
 EntityName,shrieker,shrieker
+EntityName,silver golem,
 EntityName,Sir Lorimar,Ngài Lorimar
 EntityName,skeleton,bộ xương
 EntityName,small mimic,quỷ giả dạng nhỏ
@@ -1610,6 +2068,9 @@ EntityName,snow orc,orc tuyết
 EntityName,Solar,Solar
 EntityName,soldier,lính
 EntityName,soldier ant,kiến quân đội
+EntityName,sonic elemental,
+EntityName,sonic sphere,
+EntityName,Soul Summoner,
 EntityName,spark bug,bọ điện
 EntityName,spider queen,nhện chúa
 EntityName,spiderwere,ma nhện
@@ -1623,24 +2084,36 @@ EntityName,static blob,bãi điện
 EntityName,steam vortex,cuộn xoáy hơi nước
 EntityName,stone giant,người khổng lồ đá
 EntityName,stone golem,golem đá
+EntityName,storm ape,
+EntityName,storm coyote,
 EntityName,storm giant,người khổng lồ bão tố
+EntityName,storm raven,
 EntityName,straw golem,golem rơm
 EntityName,student,học sinh
 EntityName,succubus,succubus
+EntityName,sun elf,
 EntityName,swamp kobold,kobold đầm lầy
+EntityName,swamp orc,
+EntityName,tar pudding,
+EntityName,tempter,
+EntityName,temptress,
 EntityName,tengu,thiên cẩu
+EntityName,thief,
 EntityName,Thorin,Thorin
 EntityName,Thoth Amon,Thoth Amon
 EntityName,thug,du côn
 EntityName,tiger,hổ
 EntityName,tigerwere,ma cọp
+EntityName,tin golem,
 EntityName,titan,titan
 EntityName,titanothere,titanothere
 EntityName,topaz golem,golem hoàng ngọc
 EntityName,tortle,rùa
 EntityName,tracker,kẻ theo dõi
+EntityName,trader,
 EntityName,transmuter,người biến đổi
 EntityName,trapper,người gài bẫy
+EntityName,traveller,
 EntityName,treant,treant
 EntityName,troll,troll
 EntityName,troll mummy,xác ướp troll
@@ -1658,6 +2131,7 @@ EntityName,vampire mage,pháp sư ma cà rồng
 EntityName,Van Helsing,Van Helsing
 EntityName,Vecna,Vecna
 EntityName,violet fungus,nấm màu tím
+EntityName,violet jelly,
 EntityName,vorpal jabberwock,vorpal jabberwock
 EntityName,vrock,vrock
 EntityName,war orc,war orc
@@ -1687,6 +2161,7 @@ EntityName,weretiger,ma cọp nhân
 EntityName,werewolf,ma lang nhân
 EntityName,white unicorn,kỳ lân trắng
 EntityName,wight,bóng ma
+EntityName,wind sphere,
 EntityName,winged gargoyle,gargoyle có cánh
 EntityName,winter wolf,sói bắc cực
 EntityName,winter wolf cub,sói bắc cực con
@@ -1722,6 +2197,7 @@ EntityName,young shimmering dragon,rồng lấp lánh
 EntityName,young silver dragon,rồng bạc
 EntityName,young white dragon,rồng màu trắng
 EntityName,young yellow dragon,rồng màu vàng
+EntityName,zombietree,
 EntityName,zruty,zruty
 EquipAction,employ,đặt
 EquipAction,purse,đút vào ví
@@ -1763,9 +2239,15 @@ FeatureName,bed,giường
 FeatureName,fountain,đài phun nước
 FeatureName,grave,ngôi mộ
 FeatureName,pentagram,ngôi sao năm cánh
+FeatureName,pyramid,
 FeatureName,sarcophagus,quách
+FeatureName,sink,
 FeatureName,stall,ngăn tủ
 FeatureName,throne,ngai vàng
+FeatureName,toilet,
+FeatureName,wooden sign,
+FeatureName,wooden stool,
+FeatureName,wooden table,
 FeatureName,workbench,bàn thợ mộc
 FormatText,{ActionCount} action,{ActionCount} hành động
 FormatText,{ActionCount} actions,{ActionCount} nhiều hành động
@@ -2056,13 +2538,17 @@ GradeName,exotic,thiên phẩm
 GradeName,standard,thông thường
 GroundDescription,The cool stone surface has immaculate craftsmanship but is marked by damage and time.,Sàn đá này được làm với tay nghề tinh xảo nhưng có dấu hiệu hư hỏng theo thời gian
 GroundName,cave floor,nền đá hang động
+GroundName,cave path,
 GroundName,chasm,hang sâu
+GroundName,cloud,
+GroundName,deep water,
 GroundName,dirt,sàn đất
 GroundName,gold floor,sàn vàng
 GroundName,granite floor,sàn đá hoa cương
 GroundName,grass,cỏ
 GroundName,hive floor,sàn tổ ong
 GroundName,ice,băng
+GroundName,lattice floor,
 GroundName,lava,dung nham
 GroundName,marble floor,sàn đá cẩm thạch
 GroundName,metal floor,sàn kim loại
@@ -2070,33 +2556,51 @@ GroundName,moss,mốc
 GroundName,obsidian floor,sàn hắc diện thạch
 GroundName,sand,cát
 GroundName,sewer floor,sàn ống cống
+GroundName,shallow water,
 GroundName,snow,tuyết
 GroundName,stone floor,sàn đá
 GroundName,stone path,hành lang đá
 GroundName,water,nước
 GroundName,wooden floor,sàn gỗ
+HordeName,acid foundry,
+HordeName,air foundry,
+HordeName,albino rat,
+HordeName,angelic choir,
 HordeName,ant,bầy kiến
 HordeName,ape,bầy vượn
+HordeName,army patrol,
+HordeName,army platoon,
+HordeName,army squad,
+HordeName,ash foundry,
+HordeName,astral dog,
 HordeName,bat,bầy dơi
 HordeName,bee,bầy ong
 HordeName,beetle,bầy bọ cánh cứng
+HordeName,blink dog,
+HordeName,brine foundry,
 HordeName,cockroach,bầy gián
 HordeName,couatl,bầy tăng linh thú
 HordeName,coyote,bầy sói đồng cỏ
 HordeName,demon,bầy quỷ
 HordeName,drow,tiểu quỷ bóng tối
+HordeName,drow enclave,
 HordeName,dwarf,bầy người lùn
 HordeName,electric bug,bọ điện
 HordeName,elf,bầy elf
+HordeName,energy foundry,
+HordeName,explosive foundry,
 HordeName,flea,bầy bọ chét
 HordeName,garter snake,bầy rắn nịt tất
 HordeName,gibberling,quỷ tinh tinh
 HordeName,gnome,bầy thần lùn
 HordeName,goblin,bầy yêu tinh
+HordeName,golem workshop,
 HordeName,grimlock,quỷ grimlock
 HordeName,harpy,harpy
+HordeName,heavenly host,
 HordeName,hell hound,bầy chó địa ngục
 HordeName,jackal,bầy chó rừng
+HordeName,jelly cistern,
 HordeName,keystone,đội keystone
 HordeName,kobold,bầy kobold
 HordeName,lemure,bầy quỷ lemure
@@ -2105,14 +2609,20 @@ HordeName,louse,bầy chấy
 HordeName,mane,bầy mane
 HordeName,mangler,mangler
 HordeName,migo,bầy migo
+HordeName,mimic nest,
 HordeName,mould,bầy nấm mốc
 HordeName,ogre,bầy quái nhân
 HordeName,orc,bầy orc
+HordeName,pheral tomb,
+HordeName,plague jackal,
 HordeName,rat,bầy chuột
 HordeName,rothé,bầy rothé
 HordeName,scorpion,bọ cạp
+HordeName,sonic foundry,
 HordeName,spider,bầy nhện
 HordeName,spore,bầy bào tử
+HordeName,storm coyote,
+HordeName,tar pudding,
 HordeName,termite,bầy mối
 HordeName,tick,bầy bọ ngôi sao
 HordeName,tsetse fly,ruồi xê xê
@@ -2124,15 +2634,36 @@ HordeName,wolf,bầy sói
 HordeName,worm,sâu
 HordeName,yeoman,bầy kỵ binh
 HordeName,zombie,bầy thây ma
+ItemDescription,"A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.",
+ItemDescription,"A barbed iron hook on a long coil of rope, thrown out and hauled back in.",
+ItemDescription,"A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.",
+ItemDescription,"A branched silver candle-holder, its every arm lit at once.",
+ItemDescription,"A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.",
+ItemDescription,"A canvas roll of bandages, salves and sutures for treating wounds in the field.",
+ItemDescription,"A ceremonial double-bitted axe, its twin blades curved like a crescent moon.",
+ItemDescription,"A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.",
+ItemDescription,"A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.",
 ItemDescription,A cloth mask that completely obstructs the wearer's vision.,Mặt nạ từ vải che kín tầm nhìn của người đeo
 ItemDescription,"A collection of utensils, including empty tins and butchering tools, for packing corpses so as to condense them.","1 bộ dụng cụ bao gồm những lọ rỗng và dụng cụ giết mổ, để đóng gói xác và đông đặc chúng."
 ItemDescription,A compact hand-held firearm.,1 khẩu súng nòng ngắn nhỏ gọn
+ItemDescription,"A crudely hammered throwing disc with a jagged, uneven rim, more likely to tear than to cut cleanly.",
+ItemDescription,"A curved funerary blade inlaid with gold, once carried by a pharaonic guardian charged with keeping the dead in their tombs.",
+ItemDescription,"A curved single-edged blade mounted on a long oaken shaft, prized by the warrior monks of the far east.",
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.","1 cây kiếm lưỡi liềm thường dùng bởi kỵ binh, chúng rất hiệu quả với quái vật từ địa ngục."
 ItemDescription,A curved single-edged blade often used by cavalry.,Một thanh kiếm lưỡi liềm thường được dùng bởi các kỵ sĩ.
 ItemDescription,A curved yellow fruit and a great source of fibre.,1 loại quả có hình cong và là 1 nguồn cung cấp chất xơ tốt.
+ItemDescription,A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.,
+ItemDescription,A fine-grained stone for putting an edge back on a tired blade.,
+ItemDescription,"A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.",
+ItemDescription,A flat black stone used since antiquity to tell real gemstones from paste and glass.,
+ItemDescription,A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.,
 ItemDescription,"A flat throwing weapon made of wood, often used for hunting.","1 loại vũ khí thẳng làm từ gỗ, thường dùng để đi săn bắn."
 ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.",1 cái bánh hình tròn. Chắc chắn là rán trong chảo rồi.
+ItemDescription,"A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.",
 ItemDescription,A foreign device which creates perfect visual depictions of reality.,1 thiết bị kì lạ tạo ra những miêu tả hoàn hảo về thực tế.
+ItemDescription,"A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.",
+ItemDescription,"A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.",
+ItemDescription,"A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.",
 ItemDescription,A hand-held brass horn.,1 cái tù và làm từ đồng thau
 ItemDescription,"A hard rock, smooth and therefore aerodynamic.","1 viên đá cứng, mượt và vì thế khi bắn bay rất xa."
 ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,"1 cây gậy gỗ cứng. Trông tầm thường, nhưng cực kì mạnh nếu biết dùng chúng."
@@ -2140,10 +2671,16 @@ ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.",1 b�
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.","1 thanh kiếm dài và nặng. Trông giống với trường kiếm, nhưng được thiết kế để dùng với cả 2 tay."
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,1 cái búa tạ được thiết kế để chiến đấu cận chiến.
 ItemDescription,A heavy suit of armour made up of many strips of metal.,1 bộ giáp nặng làm từ những sợi chỉ kim loại.
+ItemDescription,"A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.",
 ItemDescription,"A horizontal, mechanically-aided bow and arrow with a shoulder stock.",1 cái cung nằm ngang với báng kề vai và 1 cơ chế máy móc đơn giản.
 ItemDescription,A key designed to open all mundane locks.,1 chiếc chìa khóa được làm để phá khóa tất cả các loại khóa tầm thường.
+ItemDescription,"A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.",
 ItemDescription,"A leather pouch set between two cords, meant for launching small projectiles.","1 miếng da được đặt giữa 2 sợi dây, dùng để bắn vật thể nhỏ."
+ItemDescription,"A length of sturdy rope with a clasp, for keeping a tame animal close at hand.",
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.","1 tấm khiên nhẹ được gắn vào cánh tay, làm từ gỗ và gia cố bằng kim loại."
+ItemDescription,"A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.",
+ItemDescription,A long cane rod strung with line and hook. Best used beside open water.,
+ItemDescription,"A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.","1 con dao dài với đầu nhọn, dùng để ném."
 ItemDescription,A long pipe meant for shooting darts through force of breath.,1 ống dài dùng để thổi phi tiêu.
 ItemDescription,A long thrusting polearm best suited to mounted combat.,1 cây thương dài dùng để chiến đấu trên ngựa.
@@ -2151,68 +2688,110 @@ ItemDescription,A long-shafted arrow with a distinctive tip.,1 mũi tên dài v�
 ItemDescription,"A long, flexible leather thong. Unexpectedly sharp.",1 sợi dây da dài và dễ uốn. Sắc bén đến bất ngờ.
 ItemDescription,"A long, flowing garment, with long sleeves and a hood.","1 bộ áo dài và phẳng, với cổ tay áo dài và mũ trùm đầu."
 ItemDescription,A mace that is spiked on its head.,1 cái chùy đính gai ở phần đầu.
+ItemDescription,"A massive adamantine maul, its head as large as a barrel stave, that shrugs off the recoil of its own swing.",
+ItemDescription,"A massive, mithril-shod maul, its head as large as a barrel stave.",
 ItemDescription,A meal made from the stomach lining of an animal.,1 món ăn làm từ dạ dày của động vật.
+ItemDescription,"A miniature crossbow of elven design, light enough to be drawn and fired one-handed without a stirrup.",
+ItemDescription,"A monstrous greatsword forged with three parallel blades fused along a single spine, each edge catching the light at a different angle.",
 ItemDescription,"A package of preserved meats, all dried and chewy.",1 gói toàn thịt sấy khô. chúng rất khô và dai.
+ItemDescription,"A pair of gauntlets ringed with jagged knuckle-spikes, made to turn a punch into a wound.",
+ItemDescription,A pair of solid iron-plated boots that guard the shin and instep at the cost of a good deal of weight.,
 ItemDescription,A pair of sturdy leather boots which extend upward until just below the knee.,1 đôi giày da dài ngay dưới đầu gối.
 ItemDescription,A pair of sturdy leather boots which extend upwards to just above the ankle.,1 đôi giày đa dài ngay trên mắt cá chân.
+ItemDescription,"A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.",
+ItemDescription,"A physician's instrument for listening to a heartbeat -- yours, or something else's.",
+ItemDescription,"A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.",
+ItemDescription,"A plain, undyed shirt of woven cloth, worn under armour or on its own.",
 ItemDescription,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.","1 thanh sắt được hàn với tay cầm gỗ cứng, dùng để đào qua những mặt cứng."
 ItemDescription,A pointed metal cylinder meant to be discharged from a firearm.,1 miếng kim loại hình trụ thường bắn ra từ súng.
+ItemDescription,A polished sheet of silvered glass. Some things recoil from their own reflection.,
 ItemDescription,A portable source of light fashioned out of copper and fuelled by oil.,1 cái đèn bằng đồng đỏ và dùng dầu để thắp sáng.
 ItemDescription,A projectile consisting of a wooden shaft with a sharp metal tip at its front and stabilising fins at its rear.,"1 vật thể với thân gỗ, đầu làm từ miếng sắt nhọn và lông định hướng ở đuôi."
+ItemDescription,"A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.",
 ItemDescription,A righteous sword forged by a revered blacksmith many years ago who set out to hone his craft and to create the ultimate blade. The noble intent of its creator lingers in this weapon to cut down the wicked and protect the innocent.,"1 thanh kiếm chính nghĩa được rèn bởi 1 người thợ rèn đại tài từ rất lâu về trước, ông ra đi nhằm tôi luyện tài năng của mình để tạo ra thanh kiếm mạnh nhất. Tấm lòng đẹp đẽ của ông thể hiện ở trong thanh kiếm: để chém kẻ ác và bảo vệ kẻ yếu."
+ItemDescription,A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.,
 ItemDescription,"A sanctimonious biscuit. A miracle to the meek, a scourge to the undead.","1 chiếc bánh đúng đắn. Là phước lành của người hiền, và là tai họa cho kẻ ác."
 ItemDescription,"A semi-rigid weapon made up of a notched wooden shaft with a drawstring attached to both ends, used to launch arrows.",1 vũ khí cứng rắn làm từ gỗ khắc và được cuốn bởi dây ở hai đầu. Dùng để bắn tên.
+ItemDescription,"A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.",
 ItemDescription,A sharp iron wedge fashioned to a sturdy handle.,1 lưỡi kim loại hàn chặt vào tay cầm chắc chắn.
 ItemDescription,"A sharp metal throwing weapon, smaller than a hand and shaped like a star.","1 vũ khí kim loại ném, bé hơn bàn tay và có hình ngôi sao."
 ItemDescription,A short and light double-edged blade.,1 thanh kiếm 2 lưỡi ngắn và nhẹ.
+ItemDescription,"A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.",
+ItemDescription,"A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.",
+ItemDescription,"A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.",
 ItemDescription,"A slimy, scaly sea creature, in its entirety. Good for a meal.",1 loài sinh vật biển có vảy và nhớt nhát. Ăn rất ngon!
 ItemDescription,A small cutting utensil made of metal with a wooden handle.,1 dụng cụ cắt gọt làm từ kim loại và tay cầm bằng gỗ.
+ItemDescription,A small glass vial holding a captive mote of light.,
+ItemDescription,A small hooked blade made for prying the lid off a sealed tin.,
 ItemDescription,A small iron tool designed for opening all sorts of locks.,1 dụng cụ bằng sắt được thiết kế để mở tất cả các loại khóa.
 ItemDescription,A small missile with a pointed tip meant for throwing.,1 vật thể với đầu nhọn để ném.
 ItemDescription,A small missile with a reservoir of liquid delivered through a hollow pointed tip.,1 vật nhỏ với thân rỗng chứa chất lỏng phun qua đầu nhọn.
+ItemDescription,"A small, chalky tablet of uncertain origin. Best swallowed quickly.",
+ItemDescription,"A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.",
+ItemDescription,"A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.",
 ItemDescription,"A soft-brimmed hat, somewhat out of fashion.","1 cái mũ vành mềm, trông rất cổ."
 ItemDescription,A sophisticated bludgeon with a heavy iron head.,1 cái chùy phức tạp với phần đầu nặng làm từ kim loại.
 ItemDescription,A spacious bag made of incredibly stretchy cotton.,1 cái túi rộng làm từ loại vải siêu đàn hồi.
 ItemDescription,A spacious cloth bag.,1 cái túi vải rộng.
+ItemDescription,"A staff of living, unworked rock. What shapes matter cannot itself be unmade.",
 ItemDescription,A stick of cured meat.,1 xiên que thịt ướp muối.
 ItemDescription,"A stick of highly explosive material, with a short fuse on one end.","1 thanh chứa đầy thuốc nổ, với 1 đầu gắn dây chì ngắn."
+ItemDescription,A stone infused with restorative magic. It crumbles a little more each time it is used.,
+ItemDescription,A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.,
+ItemDescription,"A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.",
 ItemDescription,"A straight, double-edged and often cruciform blade.","1 thanh kiếm dài hai lưỡi, thường có hình chữ thập."
+ItemDescription,"A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.",
 ItemDescription,A sturdy and solid mineral.,1 loại khoáng sản cứng và rắn.
 ItemDescription,A suit of armour made from metal rings sewn onto a foundation of leather or cloth.,1 bộ giáp làm từ những vòng sắt được khâu với nền vải hoặc da.
+ItemDescription,"A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.",
 ItemDescription,"A surviving portion of the legendary wall of Verimurus, an ancient elven city said to have lasted since time immemorial. However, not even the mightiest walls could withstand the endless onslaught of the dragons. Now the enchanted walls stand alone over the land that once held them.","1 phần sót lại của thành lũy huyền thoại Verimurus, một thành phố cổ của người tí hon và được cho rằng đã tồn tại từ thời xa xưa. Tuy vậy, không có lũy thành kiên cố nào đủ để chống lại những cuộc tấn công vô tận của loài rồng. Giờ đây, bức thành lũy ấy đứng vững vàng trên vùng đất mà chúng 1 thời tồn tại và bảo vệ."
 ItemDescription,"A sweet citrus fruit, coloured eponymously.","1 quả cam ngọt, màu sắc cũng rất giống chúng."
 ItemDescription,"A sweet custard-filled pie with a thin crust, topped with whipped cream.","1 bánh kem sữa trứng với vỏ mỏng, phết với kem tươi."
 ItemDescription,"A sweet, round fruit, of the red variety. Reportedly a great supplement to your physical health.","1 loại quả tròn, ngọt có màu đỏ. Được cho rằng có lợi cho sức khỏe."
+ItemDescription,"A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.",
 ItemDescription,"A tall, asymmetric bow.","1 cái cung dài, không đối xứng."
+ItemDescription,"A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.",
 ItemDescription,"A thick leather coat, constructed to withstand weather and wear.","1 chiếc áo khoác da dày, được thiết kế để chống chọi với thời tiết và thời gian."
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.","1 cái chùy gỗ cứng. Bề ngoài xấu, nhưng bù lại rất tốt trong khoản đánh đập."
+ItemDescription,"A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,1 cây kiếm mỏng và nhẹ. Rất thích hợp để đâm.
+ItemDescription,A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.,
 ItemDescription,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.","1 khẩu súng trường cầm tay, được kê ngang vai và thường dùng để đi săn. Sát thương rất lớn đấy."
 ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.","1 kiệt tác nghệ thuật của tộc người lùn, bị mất cắp và tái sử dụng bởi tộc orc. Được gắn trên 1 thanh dài, vũ khĩ này cực kỳ đáng nể khi cưỡi trên lưng ngựa hoặc warg. Dòng điện kích hoạt máy khoan trên nó sẽ giật chết những ai dám cả gan chặn đường con quái vật hủy diệt này."
+ItemDescription,"A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.",
 ItemDescription,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,1 công cụ nhà nông làm từ lưỡi liềm và hàn chặt trên tay cầm vòng.
 ItemDescription,An ambiguous curiosity. It seems edible.,1 vật khó hiểu. Trông có vẻ ăn được.
 ItemDescription,An article of leather clothing covering the torso that hangs around the neck and on the shoulders.,"1 vật làm từ da, che đi phần thân. Được mắc vào cổ và trên vai."
 ItemDescription,An article of waterproof cotton clothing covering the torso that hangs around the neck and on the shoulders.,"1 vật chống thấm làm từ vải, che đi phần thân. Được mắc vào cổ và trên vai."
+ItemDescription,"An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.",
 ItemDescription,An elven travel food. It is incredibly satiating.,1 thức ăn đi đường của tộc elf. Ăn cực kì no.
+ItemDescription,"An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.",
 ItemDescription,An extremely sharp little blade used for precise incisions.,1 lưỡi dao cực sắc dùng trong phẫu thuật.
 ItemDescription,An inconspicuous snack that tells deep secrets.,1 miếng bánh đầy bí ẩn. Nó chứa đầy những bí mật đen tối...
 ItemDescription,An iron projectile made up of a shaft with a sharpened square-pyramid tip.,1 vật thể bay bằng sắt làm từ thanh dài với đầu nhọn hình lăng trụ.
+ItemDescription,"An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.",
 ItemDescription,"An orange root-vegetable, commonly believed to improve eyesight.","1 loại củ màu cam, được cho rằng giúp bổ mắt."
+ItemDescription,"An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.",
 ItemDescription,"Boiled leather, moulded into a bodily shape to be donned as light armour.","Da thuộc, được đúc thành hình thân người và độn thành giáp nhẹ."
 ItemDescription,"Bold, or just tacky?","Liều lĩnh, hay lòe loẹt?"
 ItemDescription,Chain mail consists of a mesh of metal rings interlinked to form a flexible armour.,Giáp xích làm từ những tẫm nhẫn sắt nối với nhau tạo thành 1 loại áo giáp đàn hồi.
+ItemDescription,"Fate itself bends around the wearer, keeping them exactly where the blow cannot land.",
 ItemDescription,"Forged deep underground by dwarven hands, this blade was made to slay the scaled beasts who sought to steal their treasures. Throughout the long years this blade has bathed in the blood of its winged prey. Now almost forgotten, it yearns again for the taste of dragon flesh.","Được rèn tận sâu trong lòng đất dưới bàn tay của tộc người lùn. Thanh kiếm này được chế tạo để giết những con rồng luôn cướp lấy những báu vật của họ. Xuyên suốt theo năm tháng, thanh kiếm này được tắm trong bể máu của những con mồi mọc cánh. Giờ đây gần như bị lãng quên, một lần nữa nó gào lên, gào lên sự thèm khát máu rồng của nó."
 ItemDescription,"Gazing into its crimson depths you can see the concentrated life essence of countless victims swirling inside of it. The artifact was completed in the moment of the creators' death, as his soul was claimed by his creation. Now residing among the souls of his former victims, his essence as an alchemist provides the stone with ultimate transmutative powers.","Nhìn vào sắc màu đỏ thắm, bạn có thể thấy sức sống được tập trung lại của biết bao nạn nhân của nó xoáy vòng vòng trong ấy. Báu vật này được hoàn thành vào khoảnh khắc khi mà người chế tạo ra nó chết đi, linh hồn của ông ấy được hấp thụ bởi chính dây chuyền này. Linh hồn của ông giờ đây trú ngụ cùng với những nạn nhân của nó, và bản chất dược sư của ông cung cấp cho viên đá sức mạnh chuyển hóa đến tối thượng."
+ItemDescription,"Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.",
 ItemDescription,Its high-quality elvish manufacture makes for an effective close combat weapon.,Chất lượng tuyệt vời của vũ khí do tộc elf chế tạo này tỏ ra rất hiệu quả trong giao tranh tầm gần.
 ItemDescription,Leather armour with close-set studs so as to offer more protection.,Giáp da được gài thêm đinh tán để tăng sức bảo vệ.
 ItemDescription,"Like a smaller variant of the katana, often used as a side-arm.",1 thanh kiếm giống với kiếm katana nhưng nhỏ hơn. Thường dùng như 1 loại vũ khí phụ.
+ItemDescription,"Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.",
 ItemDescription,One segment of a particularly pungent and bulbous herb.,1 giống củ có vị cay riêng biệt giống với củ hành.
 ItemDescription,Standard issue protective metal headgear.,Mũ bảo vệ kim loại tiêu chuẩn.
+ItemDescription,"Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.",
 ItemDescription,"Sturdy leather garments fitted firm onto the hands, sheathing each finger individually.","1 đôi găng bằng da gắn chặt vào bàn tay, luồn qua mỗi ngón riêng biệt."
 ItemDescription,The final sword forged by a once respected blacksmith who lost himself in the depths of the dungeon. His warped soul now inhabits this blade and lusts for blood. It is said that the one who wields this sword is coerced into cutting down friend and foe alike.,"Thanh kiếm cuối cùng được rèn bởi người thợ rèn lừng danh 1 thời, người đã chết ở sâu trong hầm ngục. Tâm hồn méo mó của ông giờ đây trú ngụ ở trong thanh kiếm này, tràn đầy ham muốn chém giết. Người ta nói rằng người nào mang theo thanh kiếm này sẽ bị ép phải giết cả đồng đội lẫn kẻ thù."
 ItemDescription,The head of a ranseur consists of a spear-tip affixed with a cross hilt at its base.,Phần đỉnh của cây thương Ranseur gồm đầu giáo gắn chặt với chuôi chữ thập ở phần đầu.
 ItemDescription,The only coin that can be found and spent in the dungeon.,Loại tiền duy nhất có thể tìm và tiêu được ở trong hầm ngục.
 ItemDescription,The snipped segment of a plant known for its antilycanthropic properties.,1 phần tiêu bản của loài thực vật được biết đến với độc tính của chúng.
+ItemDescription,"The spiral horn of a unicorn, its magic bound permanently into the artifact rather than spent in a single burst.",
 ItemDescription,The wearer will occasionally fly into uncontrollable rage lashing out at both friend and foe.,Người đeo nó sẽ thường hóa giận đến phát điên. Họ sẽ đánh cả bạn lẫn thù.
 ItemDescription,This ancient artifact is a marvel to behold with exquisite craftsmanship and unbridled digging power.,Báu vật cổ này là kỳ công nghệ thuật với tay nghề tinh xảo và khả năng đào vô địch.
 ItemDescription,"This axe is specifically designed to facilitate deep, grievous wounds in combat. This large weapon is wielded in both hands.",Cái rìu này được thiết kế để gây những vết thương sâu và nặng trong giao tranh. Được cầm bằng cả hai tay.
@@ -2221,6 +2800,7 @@ ItemDescription,This convenient vial of ink can be used to replenish your marker
 ItemDescription,This crudely made blade is still an effective throwing weapon.,Lưỡi dao này tuy thô nhưng vẫn tỏ ra là thứ vũ khí ném đầy hiệu quả.
 ItemDescription,This curious artifact somehow chastens those it strikes and submits them to your will.,Báu vật kì lạ này bằng cách nào đó chế ngự và quy phục những kẻ trúng đòn theo ý muốn của bạn.
 ItemDescription,This dwarvish manufactured sword is sturdy and suited to being wielded in the offhand.,Thứ vũ khí do người lùn chế tạo này vô cùng chắc chắn và thích hợp làm vũ khí phụ.
+ItemDescription,"This dwarvish punching blade is forged thicker than most, its crossbar reinforced to survive a full-strength thrust.",
 ItemDescription,This gemstone is made from hardened tree sap.,Viên ngọc này được làm từ nhựa cây hóa thạch.
 ItemDescription,This glowing looking glass reveals glimpses of the future and corrupts your soul.,Cái gương phát sáng này cho bạn thấy lờ mờ những hình ảnh của tương lai và làm suy đồi tâm hồn của bạn.
 ItemDescription,This hammer is a four-pronged head mounted atop a long polearm stick. It bears a long spike on its reverse and an even longer spike extending from the very top. It proves effective at puncturing or smashing armour as well as dismounting riders.,Cái búa này có 4 lưỡi răng gắn trên đỉnh của thân cây sào. Nó được đính với 1 lưỡi gai dài lộn ngược và thêm 1 lưỡi nữa kéo dài trên tận phần đỉnh. Tỏ ra vô cùng hiệu quả trong việc đâm hoặc đập nát áo giáp cũng như đâm ngã kỵ binh.
@@ -2250,6 +2830,7 @@ ItemDescription,This weapon consists of a spearhead mounted on a long wooden sha
 ItemDescription,"This weapon is a curved blade attached to a pole by binding the lower two-thirds of the blade to the side of the pole, to form a sort of axe.","Món vũ khí này gồm một lưỡi dao cong gắn vào 1 thanh cầm bằng việc lắp 2/3 phần dưới của lưỡi dao vào cạnh của thanh cầm, tạo thành 1 cây rìu."
 ItemDescription,This withered hand is the last remnant of an ancient and powerful lich.,Bàn tay khô héo này là tàn dư xót lại của 1 vu yêu cổ xưa và hùng mạnh.
 ItemDescription,Tiny metal spikes thrown to the ground to impede mobility.,Những mảnh gai kim loại nhỏ bé này được ném xuống mặt đất để cản trở việc di chuyển.
+ItemDescription,"Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.",
 ItemDescription,Winged sandals made of imperishable gold which fly the wearer swiftly and silently.,Đôi dép quai hậu mọc cánh này được làm từ loại vàng siêu bền khiến người đeo nó bay một cách nhanh nhẹn và lặng lẽ.
 ItemDescription,Zapping it at a wall creates a big tunnel.,Vụt nó vào bức tường sẽ tạo nên 1 đường hầm.
 ItemName,adamantine arrow,mũi tên adamantine
@@ -2257,16 +2838,25 @@ ItemName,adamantine axe,rìu adamantine
 ItemName,adamantine bident,trượng 2 đầu adamantine
 ItemName,adamantine bow,cung adamantine
 ItemName,adamantine bullet,đạn adamantine
+ItemName,adamantine crossbow bolt,
 ItemName,adamantine dagger,dao găm adamantine
 ItemName,adamantine dart,phi tiêu adamantine
 ItemName,adamantine greataxe,rìu lớn adamantine
+ItemName,adamantine greatmace,
 ItemName,adamantine greatsword,đại kiếm adamantine
 ItemName,adamantine hatchet,rìu nhỏ adamantine
+ItemName,adamantine helm,
+ItemName,adamantine helmet,
+ItemName,adamantine katana,
+ItemName,adamantine lance,
 ItemName,adamantine long sword,trường kiếm adamantine
 ItemName,adamantine plate mail,giáp tấm adamantine
+ItemName,adamantine poleaxe,
+ItemName,adamantine quarterstaff,
 ItemName,adamantine rapier,kiếm mảnh adamantine
 ItemName,adamantine sabre,kiếm lưỡi cong adamantine
 ItemName,adamantine short sword,kiếm ngắn adamantine
+ItemName,adamantine shuriken,
 ItemName,adamantine spear,thương adamantine
 ItemName,adamantine two-handed sword,kiếm song thủ adamantine
 ItemName,agate,mã não
@@ -2300,8 +2890,10 @@ ItemName,Backpack,Balo
 ItemName,bag of holding,túi chứa đồ
 ItemName,bag of tricks,túi pha trò
 ItemName,banana,chuối
+ItemName,bandage,
 ItemName,banded mail,giáp buộc kim loại
 ItemName,bardiche,thương bardiche
+ItemName,baseball bat,
 ItemName,battle robe,áo choàng chiến đấu
 ItemName,battle staff,gậy chiến
 ItemName,battle-axe,rìu chiến
@@ -2322,68 +2914,229 @@ ItemName,blowgun,ống xì đồng
 ItemName,blue dragon scale mail,giáp vảy rồng xanh dương
 ItemName,blue dragon scales,vảy rồng xanh dương
 ItemName,blue glass bauble,trang sức thủy tinh xanh dương
+ItemName,book of acid splash,
 ItemName,book of acid stream,sách dạy tia axít
 ItemName,book of animate dead,sách dạy tái sinh người chết
 ItemName,book of animate object,sách dạy tái sinh vật vô tri
+ItemName,book of arc conduit,
+ItemName,book of arcane blight,
+ItemName,book of arcane whetstone,
+ItemName,book of arcing bolt,
+ItemName,book of artificer's exchange,
+ItemName,book of atonement,
+ItemName,book of augury,
+ItemName,book of bane,
+ItemName,book of banshee wail,
+ItemName,book of barring ward,
+ItemName,book of battle fury,
 ItemName,book of bind undead,sách dạy trói buộc người chết
+ItemName,book of binding sphere,
+ItemName,book of black ice patch,
+ItemName,book of black plague,
+ItemName,book of blade blessing,
 ItemName,book of blank paper,sách rỗng
+ItemName,book of bless,
 ItemName,book of blinking,sách dạy nhấp nháy
+ItemName,book of blurred form,
+ItemName,book of call of the pack,
+ItemName,book of calm,
+ItemName,book of caltrop swarm,
 ItemName,book of cancellation,sách dạy phép loại bỏ
+ItemName,book of causeway,
+ItemName,book of chain lightning,
+ItemName,book of changeless ward,
 ItemName,book of charm,sách dạy quyến rũ
+ItemName,book of chill grasp,
+ItemName,book of chromatic orb,
 ItemName,book of clairvoyance,sách dạy thấu thị
+ItemName,book of claybind touch,
+ItemName,book of clear sight,
+ItemName,book of clouded mind,
+ItemName,book of command,
+ItemName,book of commune,
+ItemName,book of concussive blast,
 ItemName,book of cone of cold,sách dạy nón lạnh
 ItemName,book of confusion,sách dạy phép rối loạn
+ItemName,book of conjure barricade,
+ItemName,book of conjure boulder,
+ItemName,book of conjure guardian,
+ItemName,book of conjure homunculus,
+ItemName,book of conjure mount,
+ItemName,book of conjured pit,
+ItemName,book of consecration,
+ItemName,book of contagion,
+ItemName,book of corpse explosion,
+ItemName,book of corroding ray,
 ItemName,book of create familiar,sách dạy tạo sứ ma
+ItemName,book of creeping palsy,
+ItemName,book of crimson ichor lance,
 ItemName,book of crushing sphere,sách dạy khối cầu nghiền nát
 ItemName,book of curing,sách dạy chữa lành
+ItemName,book of danger sense,
 ItemName,book of darkness,sách dạy bóng tối
+ItemName,book of daze,
+ItemName,book of death ward,
+ItemName,book of death's bargain,
+ItemName,book of deathwatch,
 ItemName,book of deflection,sách dạy phép lệch hướng
 ItemName,book of detect food,sách dạy tìm thức ăn
+ItemName,book of detect metal,
 ItemName,book of detect monsters,sách dạy tìm quái vật
 ItemName,book of detect treasure,sách dạy tìm kho báu
+ItemName,book of detect undead,
 ItemName,book of detect unseen,sách dạy tìm vô hình
 ItemName,book of dig,sách dạy đào
+ItemName,book of disarming ward,
+ItemName,book of discord,
 ItemName,book of disintegrate,sách dạy phép phân rã
+ItemName,book of dispel magic,
+ItemName,book of displacement,
+ItemName,book of divine favor,
+ItemName,book of divine intervention,
+ItemName,book of dominate mind,
 ItemName,book of drain life,sách dạy phép hút máu
+ItemName,book of earthen colossus,
+ItemName,book of elemental servant,
+ItemName,book of elemental warding,
+ItemName,book of ember lance,
+ItemName,book of enlarge,
+ItemName,book of entangling vines,
+ItemName,book of entropic siphon,
 ItemName,book of extra healing,sách dạy siêu hồi phục
+ItemName,book of false life,
 ItemName,book of fear,sách dạy phép sợ
+ItemName,book of find doors,
+ItemName,book of find traps,
 ItemName,book of finger of death,sách dạy cú chạm tử thần
 ItemName,book of fireball,sách dạy cầu lửa
 ItemName,book of flaming sphere,sách dạy khối cầu cháy
 ItemName,book of force bolt,sách dạy tia lực
+ItemName,book of foreknowledge,
+ItemName,book of freedom,
+ItemName,book of freedom of movement,
 ItemName,book of freezing sphere,sách dạy khối cầu đóng băng
+ItemName,book of frost breath,
 ItemName,book of full healing,sách dạy hồi phục hoàn toàn
+ItemName,book of gate,
+ItemName,book of gilding touch,
+ItemName,book of glacial spike,
+ItemName,book of grasping mind,
+ItemName,book of grave rot,
+ItemName,book of gravity well,
+ItemName,book of guided path,
+ItemName,book of harvest of souls,
 ItemName,book of haste,sách dạy phép tốc độ
+ItemName,book of hazard sense,
 ItemName,book of healing,sách dạy hồi phục
+ItemName,book of hex,
+ItemName,book of hexbind,
+ItemName,book of hideous laughter,
+ItemName,book of hold monster,
+ItemName,book of hold person,
+ItemName,book of holy word,
 ItemName,book of ice storm,sách dạy phép bão tuyết
 ItemName,book of identify,sách dạy phép định danh
+ItemName,book of inner calm,
 ItemName,book of invisibility,sách dạy phép tàng hình
+ItemName,book of iron will,
+ItemName,book of ironbind door,
+ItemName,book of juggernaut ray,
 ItemName,book of jumping,sách dạy phép nhảy cao
+ItemName,book of keen search,
 ItemName,book of knock,sách dạy phép xô cửa
+ItemName,book of legion of bone,
 ItemName,book of levitation,sách dạy phép lơ lửng
 ItemName,book of light,sách dạy ánh sáng
 ItemName,book of lightning bolt,sách dạy phép sấm sét
 ItemName,book of living wall,sách dạy bức tường sống
 ItemName,book of magic mapping,sách dạy phép lập bản đồ
 ItemName,book of magic missile,sách dạy tia ma thuật
+ItemName,book of meteoric cataclysm,
+ItemName,book of mind ken,
+ItemName,book of mind link,
+ItemName,book of mind spike,
+ItemName,book of mindrend,
+ItemName,book of mirror ward,
+ItemName,book of neutralize poison,
+ItemName,book of oracle's eye,
+ItemName,book of owl eyes,
+ItemName,book of petrifying touch,
 ItemName,book of phasing,sách dạy phép đi xuyên tường
+ItemName,book of planar anchor,
+ItemName,book of planar swap,
 ItemName,book of poison blast,sách dạy vụ nổ độc
 ItemName,book of polymorph,sách dạy phép biến hình
+ItemName,book of porter's reach,
+ItemName,book of prayer,
+ItemName,book of premonition,
+ItemName,book of prismatic spray,
+ItemName,book of psychic shove,
 ItemName,book of raise dead,sách dạy tái sinh xác sống
+ItemName,book of rally cry,
+ItemName,book of ray of enfeeblement,
+ItemName,book of reap,
 ItemName,book of regenerate,sách dạy tái tạo
 ItemName,book of remove curse,sách dạy loại bỏ lời nguyền
+ItemName,book of repelling ward,
+ItemName,book of repulsion,
 ItemName,book of restoration,sách dạy phép khôi phục
+ItemName,book of revelation,
+ItemName,book of sanctuary,
+ItemName,book of scalding cloud,
+ItemName,book of searing light,
+ItemName,book of sense curse,
+ItemName,book of sense the restless,
+ItemName,book of sentinel ward,
+ItemName,book of shimmer shield,
 ItemName,book of shocking sphere,sách dạy khối cầu sấm
+ItemName,book of shrink,
+ItemName,book of silence,
+ItemName,book of simulacrum,
 ItemName,book of sleep,sách dạy phép ngủ
+ItemName,book of slick detonation,
+ItemName,book of slipping free,
 ItemName,book of slow,sách dạy phép làm chậm
 ItemName,book of soaking sphere,sách dạy khối cầu nước
+ItemName,book of song of discord,
+ItemName,book of spark bolt,
+ItemName,book of spectral shroud,
+ItemName,book of spirit leech,
+ItemName,book of spirit shield,
+ItemName,book of starfall,
+ItemName,book of steadfast ward,
+ItemName,book of stone to flesh,
+ItemName,book of stoneskin,
 ItemName,book of summoning,sách dạy phép triệu hồi
+ItemName,book of sunburst smite,
+ItemName,book of sunder gear,
+ItemName,book of swoon,
 ItemName,book of telekinesis,sách dạy chuyển động từ xa
+ItemName,book of telekinetic shove,
 ItemName,book of teleport away,sách dạy dịch chuyển ra xa
+ItemName,book of thunderclap,
+ItemName,book of timed combustion,
+ItemName,book of tongue tied,
 ItemName,book of toxic spray,sách dạy phép phun độc
+ItemName,book of transmuter's mastery,
+ItemName,book of true appraisal,
 ItemName,book of turn undead,sách dạy hóa thây ma
+ItemName,book of unbinding,
+ItemName,book of undying ward,
+ItemName,book of unseen hand,
+ItemName,book of vampiric feast,
+ItemName,book of veil of shadows,
+ItemName,book of wall breach,
+ItemName,book of wall of thorns,
 ItemName,book of walling,sách dạy tạo tường
+ItemName,book of ward of return,
+ItemName,book of warning ward,
+ItemName,book of web snare,
+ItemName,book of whispers of madness,
+ItemName,book of wildfire brand,
+ItemName,book of wither,
+ItemName,book of withering ray,
 ItemName,book of wizard lock,sách dạy khóa ma thuật
+ItemName,book of world vision,
 ItemName,boomerang,boomerang
 ItemName,bow,cung
 ItemName,brass bugle,tù và đồng thau
@@ -2397,9 +3150,13 @@ ItemName,bullwhip,roi dây
 ItemName,c-ration,khẩu phần tác chiến
 ItemName,caltrops,chông
 ItemName,can of grease,thùng đựng mỡ
+ItemName,candelabrum,
 ItemName,candy bar,thanh kẹo
 ItemName,Carapace,Carapace
 ItemName,carrot,cà rốt
+ItemName,Celestial Doom,
+ItemName,Celestial Kismet,
+ItemName,Celestial Portent,
 ItemName,chain barding,giáp ngựa xích
 ItemName,chain mail,giáp xích
 ItemName,chakram,chakram
@@ -2415,6 +3172,7 @@ ItemName,cloak of deflection,áo choàng lệch hướng
 ItemName,cloak of displacement,áo choàng hoán vị
 ItemName,cloak of invisibility,áo choàng tàng hình
 ItemName,cloak of magic resistance,áo choàng kháng ma thuật
+ItemName,cloth shirt,
 ItemName,clove of garlic,củ tỏi
 ItemName,club,dùi cui
 ItemName,Colossal Excavator,Máy xúc khổng lồ
@@ -2422,18 +3180,22 @@ ItemName,cornuthaum,cornuthaum
 ItemName,costume earrings,khuyên tai thời trang
 ItemName,cram ration,thực phẩm chay
 ItemName,cream pie,bánh kem
+ItemName,credit card,
 ItemName,Creeping Sprout,Mầm leo
+ItemName,crimson cloak,
 ItemName,crossbow,nỏ
 ItemName,crossbow bolt,tên nỏ
 ItemName,crysknife,dao pha lê
 ItemName,crystal ball,khối cầu pha lê
 ItemName,crystal plate mail,giáp tấm pha lê
 ItemName,dagger,dao găm
+ItemName,darkstone,
 ItemName,dart,phi tiêu
 ItemName,Deadwood,Gỗ chết
 ItemName,Deagle,Deagle
 ItemName,deep dragon scale mail,giáp vảy rồng xanh đậm
 ItemName,deep dragon scales,vảy rồng xanh đậm
+ItemName,Demiurge,
 ItemName,dented pot,nồi lõm
 ItemName,detonation key,chìa khóa phát nổ
 ItemName,diamond,kim cương
@@ -2441,6 +3203,8 @@ ItemName,dilithium crystal,tinh thể dilithium
 ItemName,dimension key,chìa khóa không gian
 ItemName,Dire Needle,Dire Needle
 ItemName,disencumbrance boots,đôi giày tự do
+ItemName,doublet,
+ItemName,dragon horn,
 ItemName,Dragonbane,Dragonbane
 ItemName,dread staff,gậy oai nghiêm
 ItemName,Drilanze,Drilanze
@@ -2453,6 +3217,7 @@ ItemName,drum of earthquake,trống động đất
 ItemName,dunce cap,mũ ngu dốt
 ItemName,dwarvish cloak,áo choàng người lùn
 ItemName,dwarvish iron helm,mũ sắt người lùn
+ItemName,dwarvish katar,
 ItemName,dwarvish mattock,cuốc chim người lùn
 ItemName,dwarvish mithril-coat,áo mithril người lùn
 ItemName,dwarvish roundshield,khiên tròn người lùn
@@ -2465,8 +3230,10 @@ ItemName,elven arrow,mũi tên tộc elf
 ItemName,elven boots,đôi giày tộc elf
 ItemName,elven bow,cung tộc elf
 ItemName,elven broadsword,kiếm lưỡi rộng tộc elf
+ItemName,elven chakram,
 ItemName,elven cloak,áo khoác tộc elf
 ItemName,elven dagger,dao găm tộc elf
+ItemName,elven hand crossbow,
 ItemName,elven leather helm,mũ da tộc elf
 ItemName,elven mithril-coat,áo mithril tộc elf
 ItemName,elven shield,khiên tộc elf
@@ -2477,11 +3244,14 @@ ItemName,Escapist,Kẻ trốn thoát
 ItemName,eucalyptus leaf,lá bạch đàn
 ItemName,expensive camera,máy ảnh đắt tiền
 ItemName,Eye of Aethiopica,Mắt của Aethiopica
+ItemName,eyeball,
 ItemName,Eyes of Ra,Đôi mắt của Ra
+ItemName,fancy boots,
 ItemName,fauchard,mã tấu
 ItemName,fedora,mũ phớt
 ItemName,fire horn,tù và lửa
 ItemName,fish,cá
+ItemName,fishing pole,
 ItemName,flail,chùy xích
 ItemName,flash staff,gậy chói lóa
 ItemName,fleet robe,áo choàng nhanh nhẹn
@@ -2491,6 +3261,7 @@ ItemName,fly swatter,vĩ ruồi
 ItemName,food ration,lương khô
 ItemName,fortune cookie,bánh quy may mắn
 ItemName,frag grenade,lựu đạn
+ItemName,frisbee,
 ItemName,frost horn,tù và băng giá
 ItemName,fumble boots,đôi giày hậu đậu
 ItemName,garnet,ngọc hồng lựu
@@ -2501,10 +3272,26 @@ ItemName,gauntlets of phasing,găng tay xuyên tường
 ItemName,gauntlets of power,găng tay sức mạnh
 ItemName,Giantslayer,Giantslayer
 ItemName,glaive,đoản kiếm
+ItemName,gold axe,
+ItemName,gold chakram,
 ItemName,gold coin,đồng xu vàng
+ItemName,gold dagger,
+ItemName,gold double vajra,
 ItemName,gold dragon scale mail,giáp vảy rồng vàng kim
 ItemName,gold dragon scales,vảy rồng vàng kim
+ItemName,gold flail,
 ItemName,Gold Key,Chìa Khóa Vàng
+ItemName,gold khanda,
+ItemName,gold labrys,
+ItemName,gold longsword,
+ItemName,gold plate mail,
+ItemName,gold single vajra,
+ItemName,gold spade,
+ItemName,gold trident,
+ItemName,gold twohanded sword,
+ItemName,gold urumi,
+ItemName,gold whistle,
+ItemName,grappling hook,
 ItemName,great dagger,dao lớn
 ItemName,green dragon scale mail,giáp vảy rồng xanh lá
 ItemName,green dragon scales,vảy rồng xanh lá
@@ -2512,10 +3299,12 @@ ItemName,green glass bauble,trang sức thủy tinh xanh lá
 ItemName,grenade launcher,súng phóng lựu
 ItemName,Grimtooth,Grimtooth
 ItemName,guisarme,thương guisarme
+ItemName,Gungnir,
 ItemName,halberd,phủ thương
 ItemName,Harbalest,Harbalest
 ItemName,hatchet,rìu nhỏ
 ItemName,hawaiian shirt,áo hawaiian
+ItemName,healthstone,
 ItemName,heavy hammer,búa tảng
 ItemName,heavy iron ball,bi sắt nặng
 ItemName,heavy machine gun,súng máy hạng nặng
@@ -2548,6 +3337,7 @@ ItemName,kanabo,chùy kanabo
 ItemName,katana,katana
 ItemName,katar,dao nắm tay
 ItemName,kelp frond,lá tảo bẹ
+ItemName,khopesh,
 ItemName,knife,dao
 ItemName,lab coat,áo choàng trắng
 ItemName,lance,trường thương
@@ -2556,6 +3346,7 @@ ItemName,lantern,đèn lồng
 ItemName,large box,hộp lớn
 ItemName,large shield,khiên lớn
 ItemName,Lashing Tongue,Lashing Tongue
+ItemName,leash,
 ItemName,leather armour,giáp da
 ItemName,leather barding,giáp ngựa da
 ItemName,leather cloak,áo khoác da không tay
@@ -2565,10 +3356,12 @@ ItemName,leather jacket,áo khoác da
 ItemName,lembas wafer,bánh xốp lembas
 ItemName,lenses,thấu kính
 ItemName,levitation boots,đôi giày lơ lửng
+ItemName,loadstone,
 ItemName,lock pick,bộ cạy khóa
 ItemName,long sword,trường kiếm
 ItemName,low boots,đôi giày cổ thấp
 ItemName,lucern hammer,búa lucern
+ItemName,luckstone,
 ItemName,lump of royal jelly,khối thạch cao cấp
 ItemName,mace,chùy
 ItemName,magic bugle,tù và ma thuật
@@ -2588,32 +3381,48 @@ ItemName,Maulfrost,Maulfrost
 ItemName,meat ring,vòng thịt
 ItemName,meat stick,que thịt
 ItemName,meatball,viên thịt
+ItemName,medical kit,
 ItemName,melon,dưa hấu
+ItemName,mirror,
 ItemName,Mirrorbright,Mirrorbright
 ItemName,Miserus,Miserus
 ItemName,mithril arrow,mũi tên mithril
+ItemName,mithril axe,
 ItemName,mithril barding,giáp ngựa mithril
 ItemName,mithril battle-axe,rìu chiến mithril
 ItemName,mithril bullet,viên đạn mithril
 ItemName,mithril crossbow bolt,tên nỏ mithril
 ItemName,mithril dagger,dao mithril
 ItemName,mithril dart,phi tiêu mithril
+ItemName,mithril gauntlets,
+ItemName,mithril greatmace,
+ItemName,mithril greatsword,
+ItemName,mithril hatchet,
 ItemName,mithril helmet,mũ mithril
+ItemName,mithril katana,
 ItemName,mithril katar,dao nắm tay mithril
 ItemName,mithril lance,trường thương mithril
 ItemName,mithril long sword,trường kiếm mithril
 ItemName,mithril plate mail,giáp tấm mithril
+ItemName,mithril poleaxe,
+ItemName,mithril rapier,
 ItemName,mithril sabre,kiếm lưỡi cong mithril
 ItemName,mithril shield,khiên mithril
 ItemName,mithril short sword,kiếm ngắn mithril
+ItemName,mithril shuriken,
 ItemName,mithril spear,thương mithril
+ItemName,mithril trident,
 ItemName,mithril two-handed sword,kiếm song thủ mithril
 ItemName,mithril whip,roi dây mithril
+ItemName,mooshroom,
 ItemName,morning star,chùy gai morning star
+ItemName,Mournblade,
 ItemName,mummy wrapping,vải gói xác ướp
 ItemName,Muramasa,Muramasa
 ItemName,mushroom,nấm
 ItemName,mute earrings,khuyên tai câm lặng
+ItemName,naginata,
+ItemName,Nonagon Infinity,
 ItemName,nunchaku,côn nhị khúc
 ItemName,obsidian,hắc diện thạch
 ItemName,oil lamp,đèn dầu
@@ -2626,6 +3435,7 @@ ItemName,orange glass bauble,trang sức thủy tinh cam
 ItemName,orcish arrow,mũi tên tộc orc
 ItemName,orcish bow,cung tộc orc
 ItemName,orcish chain mail,giáp xích tộc orc
+ItemName,orcish chakram,
 ItemName,orcish cloak,áo khoác da tộc orc
 ItemName,orcish dagger,dao găm tộc orc
 ItemName,orcish helm,mũ tộc orc
@@ -2640,9 +3450,13 @@ ItemName,partisan,thương khoát đầu
 ItemName,pear,quả lê
 ItemName,pearl,ngọc trai
 ItemName,phantom key,chìa khóa bóng ma
+ItemName,phial,
 ItemName,Philosophers Stone,Viên Đá Philosophers
 ItemName,pick-axe,cuốc chim
+ItemName,pill,
 ItemName,pistol,súng ngắn
+ItemName,plastic bat,
+ItemName,plastic hammer,
 ItemName,plastic sword,kiếm nhựa
 ItemName,plate barding,giáp ngựa tấm
 ItemName,plate mail,giáp tấm
@@ -2679,10 +3493,13 @@ ItemName,potion of see invisible,lọ thuốc nhìn thấu vô hình
 ItemName,potion of sickness,lọ thuốc bệnh tật
 ItemName,potion of sleeping,lọ thuốc ngủ
 ItemName,potion of speed,lọ thuốc tốc độ
+ItemName,potion of sustenance,
+ItemName,potion of warning,
 ItemName,potion of water,lọ nước
 ItemName,proof earrings,khuyên tai bông
 ItemName,Prudentia,Prudentia
 ItemName,quarterstaff,gậy
+ItemName,railgun,
 ItemName,ranseur,thương ranseur
 ItemName,rapier,kiếm mảnh
 ItemName,Ravenbow,Ravenbow
@@ -2698,6 +3515,7 @@ ItemName,ring of cold resistance,nhẫn kháng lạnh
 ItemName,ring of conflict,nhẫn xung đột
 ItemName,ring of constitution,nhẫn thể chất
 ItemName,ring of dexterity,nhẫn khéo léo
+ItemName,ring of energy,
 ItemName,ring of fire resistance,nhẫn kháng lửa
 ItemName,ring of free action,nhẫn tự do
 ItemName,ring of hunger,nhẫn đói khát
@@ -2705,6 +3523,7 @@ ItemName,ring of impact,nhẫn tác động
 ItemName,ring of intelligence,nhẫn sáng suốt
 ItemName,ring of invisibility,nhẫn tàng hình
 ItemName,ring of levitation,nhẫn lơ lửng
+ItemName,ring of marksmanship,
 ItemName,ring of naught,nhẫn vô dụng
 ItemName,ring of poison resistance,nhẫn kháng độc
 ItemName,ring of polymorph,nhẫn biến hình
@@ -2728,11 +3547,24 @@ ItemName,robe,áo choàng
 ItemName,rock,viên đá
 ItemName,rocket,đạn phản lực
 ItemName,rocket launcher,súng phản lực
+ItemName,rose axe,
+ItemName,rose battleaxe,
+ItemName,rose bident,
+ItemName,rose dagger,
+ItemName,rose greatsword,
+ItemName,rose hatchet,
+ItemName,rose long sword,
+ItemName,rose rapier,
+ItemName,rose ring,
+ItemName,rose sabre,
+ItemName,rose short sword,
+ItemName,rose spear,
 ItemName,Rosenthral,Rosenthral
 ItemName,rubber hose,ống dẫn nhựa
 ItemName,ruby,hồng ngọc
 ItemName,Ruby Key,Chìa Khóa Hồng Ngọc
 ItemName,Runesword,Runesword
+ItemName,Runicorn Horn,
 ItemName,sabre,kiếm lưỡi cong
 ItemName,sack,túi
 ItemName,saddle,yên thú
@@ -2779,6 +3611,7 @@ ItemName,scythe,lưỡi hái
 ItemName,shades,kính râm
 ItemName,Shadow Key,Chìa Khóa Bóng Đêm
 ItemName,shield of reflection,khiên phản quang
+ItemName,Shillelagh,
 ItemName,shimmering dragon scale mail,giáp vảy rồng lấp lánh
 ItemName,shimmering dragon scales,vảy rồng lấp lánh
 ItemName,short sword,kiếm ngắn
@@ -2798,6 +3631,7 @@ ItemName,Silver Key,Chìa Khóa Bạc
 ItemName,silver lance,trường thương bạc
 ItemName,silver long sword,trường kiếm bạc
 ItemName,silver mace,chùy bạc
+ItemName,silver rapier,
 ItemName,silver sabre,kiếm lưỡi cong bạc
 ItemName,silver short sword,kiếm ngắn bạc
 ItemName,silver spear,thương bạc
@@ -2805,6 +3639,7 @@ ItemName,silver two-handed sword,kiếm song thủ bạc
 ItemName,skeleton key,chìa khóa xương
 ItemName,slime mould,nấm mốc slime
 ItemName,sling,dây quăng đá
+ItemName,sling staff,
 ItemName,small shield,khiên nhỏ
 ItemName,sniper rifle,súng bắn tỉa
 ItemName,spear,thương
@@ -2814,29 +3649,40 @@ ItemName,spetum,thương spetum
 ItemName,splint mail,giáp nẹp
 ItemName,sprig of wolfsbane,cành Ô đầu
 ItemName,Stamped Letter,Lá thư đóng dấu
+ItemName,steel boots,
+ItemName,stethoscope,
 ItemName,stick of dynamite,thanh thuốc nổ
 ItemName,stiletto,dao cá kiếm
 ItemName,stone club,dùi cui đá
+ItemName,Stormbringer,
+ItemName,strange object,
 ItemName,studded leather armour,giáp da độn cứng
 ItemName,submachine gun,súng tiểu liên
+ItemName,Sudarshana Chakra,
 ItemName,Sunsword,Kiếm mặt trời
 ItemName,t-shirt,áo thun
+ItemName,tabard,
 ItemName,Talaria,Talaria
 ItemName,The Hero,Anh Hùng
 ItemName,thunder staff,gậy sấm
 ItemName,tin,thiếc
+ItemName,tin opener,
 ItemName,tin whistle,còi thiếc
 ItemName,tinning kit,bộ đóng hộp
 ItemName,tooled horn,tù và chạm khắc
 ItemName,topaz,hoàng ngọc
 ItemName,torch,ngọn đuốc
 ItemName,tortilla,bánh tortilla
+ItemName,touchstone,
+ItemName,towel,
 ItemName,trident,đinh ba
 ItemName,tripe ration,thức ăn cho chó
+ItemName,triplesword,
 ItemName,tsurugi,kiếm tsurugi
 ItemName,turquoise,ngọc lam
 ItemName,two-handed sword,kiếm song thủ
 ItemName,unicorn horn,sừng kỳ lân
+ItemName,Vajra,
 ItemName,vegetable corpse,xác thực vật
 ItemName,Verimurus,Verimurus
 ItemName,violet glass bauble,trang sức thủy tinh tím
@@ -2847,6 +3693,7 @@ ItemName,wakizashi,kiếm wakizashi
 ItemName,wand of animation,đũa phép tái sinh
 ItemName,wand of cancellation,đũa phép loại bỏ
 ItemName,wand of cold,đũa phép lạnh
+ItemName,wand of confusion,
 ItemName,wand of create horde,đũa phép tạo bầy đám
 ItemName,wand of death,đũa phép của cái chết
 ItemName,wand of digging,đũa phép đào
@@ -2858,6 +3705,8 @@ ItemName,wand of fireball,đũa phép cầu lửa
 ItemName,wand of haste,đũa phép tốc độ
 ItemName,wand of healing,đũa phép hồi phục
 ItemName,wand of iceball,đũa phép cầu băng
+ItemName,wand of jumping,
+ItemName,wand of levitation,
 ItemName,wand of light,đũa phép ánh sáng
 ItemName,wand of lightning,đũa phép sấm sét
 ItemName,wand of locking,đũa phép khóa
@@ -2873,12 +3722,17 @@ ItemName,wand of sleep,đũa phép ru ngủ
 ItemName,wand of slow,đũa phép làm chậm
 ItemName,wand of striking,đũa phép tấn công
 ItemName,wand of summoning,đũa phép triệu hồi
+ItemName,wand of telekinesis,
 ItemName,wand of teleportation,đũa phép dịch chuyển
 ItemName,wand of theft,đũa phép ăn cắp
 ItemName,wand of undead turning,đũa phép hóa thây ma
 ItemName,war club,dùi cui chiến binh
 ItemName,war hammer,búa chiến binh
+ItemName,war maul,
 ItemName,wax candle,nến sáp
+ItemName,Wepwawet's Fang,
+ItemName,wheellock pistol,
+ItemName,whetstone,
 ItemName,white dragon scale mail,giáp vảy rồng trắng
 ItemName,white dragon scales,vảy rồng trắng
 ItemName,white glass bauble,trang sức thủy tinh trắng
@@ -2893,8 +3747,10 @@ ItemName,yellow dragon scale mail,giáp vảy rồng vàng
 ItemName,yellow dragon scales,vảy rồng vàng
 ItemName,yellow glass bauble,trang sức thủy tinh màu vàng
 ItemName,yellowish brown glass bauble,trang sức thủy tinh nâu vàng
+ItemName,yoyo,
 ItemName,yumi,cung Nhật
 ItemName,zircon,đá zircon
+ItemName,Zweihänder,
 ItemType,amulet,bùa phép
 ItemType,bag,ba lô
 ItemType,barding,giáp ngựa
@@ -4440,13 +5296,17 @@ SchoolName,necromancy,Chiêu hồn
 SchoolName,transmutation,Chuyển hóa
 ServiceDescription,detect traps in the surrounding area.,rò bẫy ở khu vực xung quanh.
 ServiceDescription,identify one item in your inventory.,định danh một vật phẩm trong hành trang.
+ServiceDescription,learn how to cast a random spell.,
+ServiceDescription,learn how to cast two random spells.,
 ServiceDescription,magic mapping for the surrounding area.,lập bản đồ của khu vực xung quanh.
 ServiceDescription,refresh the shop with new items for sale.,làm mới cửa hàng với vật phẩm mới để bán.
 ServiceDescription,remove a curse from one item in your inventory.,loại bỏ một lời nguyền khỏi một vật phẩm trong hành trang của bạn.
+ServiceName,advanced tuition,
 ServiceName,curse removal,loại bỏ lời nguyền
 ServiceName,identification,định danh
 ServiceName,magic mapping,lập bản đồ
 ServiceName,restock shop,làm mới
+ServiceName,spell tuition,
 ServiceName,trap detection,phát hiện bẫy
 ShopName,antique weapons outlet,cửa hàng vũ khí cổ
 ShopName,delicatessen,cửa hàng đặc sản
@@ -4462,9 +5322,14 @@ ShopName,second-hand stationery store,cửa hàng bán cuộn giấy ma thuật 
 ShopName,used armour dealership,cửa hàng bán giáp cũ
 ShrineName,craft station,bàn chế tạo
 ShrineName,dark sepulchre,đền thờ bóng tối
+ShrineName,elemental forge,
+ShrineName,fae chapel,
 ShrineName,holy shrine,điện thờ thánh
+ShrineName,martial temple,
 ShrineName,mystic coven,hội đồng phù thủy huyền bí
+ShrineName,pheral vault,
 ShrineName,sacred grove,lùm cây thiêng liêng
+ShrineName,star observatory,
 SizeName,gargantuan,khổng lồ
 SizeName,huge,lớn
 SizeName,large,to
@@ -4670,101 +5535,290 @@ SonicName,write,tiếng viết
 SpecialDescription,Aristocrats who enjoy all the privilege that comes with wealth and wonder why everyone hates them.,Những quý tộc luôn thường thức những đặc quyền dành riêng cho họ tự hỏi vì sao mọi người đều ghét họ.
 SpecialDescription,"Being unusually short and slight, they are more nimble but not as effective in combat.","Bạn thấp và nhẹ hơn so với những người khác, điều này khiến bạn nhanh nhẹn hơn nhưng kém hiệu quả trong giao tranh."
 SpecialDescription,"Being unusually tall and heavy, they move a bit slower but are more resilient.","Bạn cao và nặng hơn so với những người khác trong loài, điều này khiến bạn chậm chạp hơn nhưng vô cùng cứng cáp trong giao tranh."
+SpecialDescription,"Bound by an infernal pact to a patron whose power flows through them, whether they will it or not.",
+SpecialDescription,"Changeling blood runs through their veins, granting them an otherworldly grace, but cold iron burns them like acid.",
+SpecialDescription,"Cursed with visions of what is to come, they see danger before it arrives, but the visions are slowly undoing their mind.",
+SpecialDescription,"Escaped from a laboratory before the experiment concluded, their body still bears the unstable mark of what was done to them.",
 SpecialDescription,"Forever cursed with lycanthropy, these beings can transform themselves into monstrous wolf forms.","Mãi mãi bị nguyền rủa bởi chứng ma sói, những sinh vật này có thể biến hình thành dạng sói quái vật."
 SpecialDescription,Forsaken creature that subsists by feeding on the vital essence of the living.,Những cá thể bị lãng quên tồn tại bằng việc hút đi sinh lực của những sinh vật khác.
 SpecialDescription,Gifted with extrasensory perception to identify entities otherwise hidden from the normal senses but at the cost of a gnawing hunger.,"Tài năng thiên bẩm với khả năng quan sát siêu phàm có thể nhìn thấu những sinh vật không thể thấy bằng mắt thường, đổi lại với cơn đói không bao giờ nguôi."
+SpecialDescription,"Hardened by a lifetime of campaigns, they strike with brutal efficiency but carry old wounds that never fully healed.",
 SpecialDescription,"Highly attuned servants of elemental earth, they can conjure exploding spheres to destroy their enemies.","Những đầy tớ chung thành của nguyên tố thổ, họ có thể tạo ra những khối cầu phát nổ để tiêu diệt kẻ thù."
 SpecialDescription,"Highly attuned servants of elemental flame, they can conjure exploding spheres to destroy their enemies.","Những đầy tớ chung thành của nguyên tố hỏa, họ có thể tạo ra những khối cầu phát nổ để tiêu diệt kẻ thù."
 SpecialDescription,"Highly attuned servants of elemental frost, they can conjure exploding spheres to destroy their enemies.","Những đầy tớ chung thành của nguyên tố băng, họ có thể tạo ra những khối cầu phát nổ để tiêu diệt kẻ thù."
 SpecialDescription,"Highly attuned servants of elemental shock, they can conjure exploding spheres to destroy their enemies.","Những đầy tớ chung thành của nguyên tố điện, họ có thể tạo ra những khối cầu phát nổ để tiêu diệt kẻ thù."
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.","Những đầy tớ chung thành của nguyên tố thủy, họ có thể tạo ra những khối cầu phát nổ để tiêu diệt kẻ thù."
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,Việc dành cả đời để học khiến bạn không đoái hoài gì đến tập thể dục hay những thói quen khác.
+SpecialDescription,"Made a living prying open tombs that were meant to stay shut, and picked up a rare set of skills along the way; the dead have not forgiven them.",
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,"Những kẻ mắc hội chứng nhân vật chính luôn tưởng tượng rằng mình bất tử với 'plot armour', nhưng họ sớm muộn sẽ ăn trái đắng của thực tế thôi."
+SpecialDescription,"More at home among beasts than people, they ride and bond with animals expertly but rely on their companions more than their own blade.",
+SpecialDescription,"Newly turned by an elder vampire's bite, they crave blood but have not yet mastered the strengths of the curse.",
+SpecialDescription,"One of the few to survive a great plague, their blood now resists poison but their body was left frail and their nearby creatures keep their distance.",
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.","Với việc vị trí của bản thân luôn không ổn định, những cá thể này đã thích nghi với việc xuất hiện ở khắp mọi nơi và mọi lúc cùng thời điểm."
+SpecialDescription,"Pulled under by the sea and cursed to return, their lungs have made an uneasy peace with water while their waterlogged flesh dries out on land.",
+SpecialDescription,"Raised outside civilisation among beasts, they are quick and keen-eyed but never learned the discipline of formal combat.",
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,"Được điêu khắc từ thủy tinh sống phản chiếu năng lượng và khúc xạ ánh sáng, bạn là sự mô phỏng hoàn hảo nhưng tinh tế của đối tác tự nhiên của bạn."
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.","Dù không có thịt nhưng vẫn còn sống, con quái vật kì dị này có những lợi thế kiên cường."
 SpecialDescription,The habitually drunk make for brazen yet slightly unsteady adventurers; just don't ask them to recite the alphabet backwards.,Thói quen say xỉn tạo nên những nhà thám hiểm trơ trẽn nhưng hơi loạng choạng; chỉ cần không yêu cầu họ đọc ngược bảng chữ cái.
+SpecialDescription,"Touched by the animating art of golem-crafters, their flesh has hardened toward stone, granting resilience at the cost of grace.",
+SpecialDescription,"Trained in the one-on-one blade duel, every strike is precise, but a lifetime spent perfecting offence left little time to master defence.",
+SpecialDescription,"Trained since childhood in a monastic order, their body is a honed weapon but their vows forbid armour and forsake worldly learning.",
 SpecialDescription,"Whether innocent or guilty of their accused crimes, these individuals are desperate to escape custody.","Dù vô tội hay tội lỗi chăng nữa, những kẻ này cố gắng đến tuyệt vọng để thoát khỏi cuộc sống tù đày."
+SpecialName,ascetic,
 SpecialName,colossus,khổng lồ
+SpecialName,construct,
+SpecialName,drowned,
 SpecialName,drunkard,người say rượu
+SpecialName,duelist,
 SpecialName,earth,đất
+SpecialName,feral,
+SpecialName,fey,
 SpecialName,flame,lửa
 SpecialName,frost,băng
 SpecialName,fugitive,kẻ đào tẩu
 SpecialName,glass,kính
+SpecialName,graverobber,
 SpecialName,midget,người tí hon
 SpecialName,noble,quý tộc
+SpecialName,plagued,
+SpecialName,prophet,
 SpecialName,protagonist,nhân vật chính
 SpecialName,psychic,thuật tâm linh
 SpecialName,quantum,lượng tử
 SpecialName,scholar,học sinh
 SpecialName,shock,điện
 SpecialName,skeleton,bộ xương
+SpecialName,spawn,
+SpecialName,specimen,
+SpecialName,tamer,
 SpecialName,vampire,ma cà rồng
+SpecialName,veteran,
+SpecialName,warlock,
 SpecialName,water,nước
 SpecialName,werewolf,ma sói
 SpellDescription,Projects a ball of energy that impacts on both monsters and objects.,Phóng ra quả cầu năng lượng gây sát thương lên cả quái vật và vật thể.
+SpellName,acid splash,
 SpellName,acid stream,tia axit
 SpellName,animate dead,tái sinh người chết
 SpellName,animate object,tái sinh vật vô tri
+SpellName,arc conduit,
+SpellName,arcane blight,
+SpellName,arcane whetstone,
+SpellName,arcing bolt,
+SpellName,artificer's exchange,
+SpellName,atonement,
+SpellName,augury,
+SpellName,bane,
+SpellName,banshee wail,
+SpellName,barring ward,
+SpellName,battle fury,
 SpellName,bind undead,trói buộc người chết
+SpellName,binding sphere,
+SpellName,black ice patch,
+SpellName,black plague,
+SpellName,blade blessing,
+SpellName,bless,
 SpellName,blinking,nhấp nháy
+SpellName,blurred form,
+SpellName,call of the pack,
+SpellName,calm,
+SpellName,caltrop swarm,
 SpellName,cancellation,phép loại bỏ
+SpellName,causeway,
+SpellName,chain lightning,
+SpellName,changeless ward,
 SpellName,charm,quyến rũ
+SpellName,chill grasp,
+SpellName,chromatic orb,
 SpellName,clairvoyance,thấu thị
+SpellName,claybind touch,
+SpellName,clear sight,
+SpellName,clouded mind,
+SpellName,command,
+SpellName,commune,
+SpellName,concussive blast,
 SpellName,cone of cold,nón lạnh
 SpellName,confusion,rối loạn
+SpellName,conjure barricade,
+SpellName,conjure boulder,
+SpellName,conjure guardian,
+SpellName,conjure homunculus,
+SpellName,conjure mount,
+SpellName,conjured pit,
+SpellName,consecration,
+SpellName,contagion,
+SpellName,corpse explosion,
+SpellName,corroding ray,
 SpellName,create familiar,tạo sứ ma
+SpellName,creeping palsy,
+SpellName,crimson ichor lance,
 SpellName,crushing sphere,khối cầu nghiền nát
 SpellName,curing,chữa lành
+SpellName,danger sense,
 SpellName,darkness,bóng tối
+SpellName,daze,
+SpellName,death ward,
+SpellName,death's bargain,
+SpellName,deathwatch,
 SpellName,deflection,lệch hướng
 SpellName,detect food,tìm thức ăn
+SpellName,detect metal,
 SpellName,detect monsters,tìm quái vật
 SpellName,detect treasure,tìm kho báu
+SpellName,detect undead,
 SpellName,detect unseen,tìm vô hình
 SpellName,dig,đào
+SpellName,disarming ward,
+SpellName,discord,
 SpellName,disintegrate,phân rã
+SpellName,dispel magic,
+SpellName,displacement,
+SpellName,divine favor,
+SpellName,divine intervention,
+SpellName,dominate mind,
 SpellName,drain life,hút máu
+SpellName,earthen colossus,
+SpellName,elemental servant,
+SpellName,elemental warding,
+SpellName,ember lance,
+SpellName,enlarge,
+SpellName,entangling vines,
+SpellName,entropic siphon,
 SpellName,extra healing,siêu hồi phục
+SpellName,false life,
 SpellName,fear,sợ hãi
+SpellName,find doors,
+SpellName,find traps,
 SpellName,finger of death,cú chạm tử thần
 SpellName,fireball,cầu lửa
 SpellName,flaming sphere,cầu cháy
 SpellName,force bolt,tia lực
+SpellName,foreknowledge,
+SpellName,freedom,
+SpellName,freedom of movement,
 SpellName,freezing sphere,cầu đóng băng
+SpellName,frost breath,
 SpellName,full healing,hồi phục hoàn toàn
+SpellName,gate,
+SpellName,gilding touch,
+SpellName,glacial spike,
+SpellName,grasping mind,
+SpellName,grave rot,
+SpellName,gravity well,
+SpellName,guided path,
+SpellName,harvest of souls,
 SpellName,haste,tốc độ
+SpellName,hazard sense,
 SpellName,healing,hồi phục
+SpellName,hex,
+SpellName,hexbind,
+SpellName,hideous laughter,
+SpellName,hold monster,
+SpellName,hold person,
+SpellName,holy word,
 SpellName,ice storm,bão tuyết
 SpellName,identify,định danh
+SpellName,inner calm,
 SpellName,invisibility,tàng hình
+SpellName,iron will,
+SpellName,ironbind door,
+SpellName,juggernaut ray,
 SpellName,jumping,nhảy
+SpellName,keen search,
 SpellName,knock,xô cửa
+SpellName,legion of bone,
 SpellName,levitation,lơ lửng
 SpellName,light,ánh sáng
 SpellName,lightning bolt,tia sấm sét
 SpellName,living wall,bức tường sống
 SpellName,magic mapping,lập bản đồ
 SpellName,magic missile,tia ma thuật
+SpellName,meteoric cataclysm,
+SpellName,mind ken,
+SpellName,mind link,
+SpellName,mind spike,
+SpellName,mindrend,
+SpellName,mirror ward,
+SpellName,neutralize poison,
+SpellName,oracle's eye,
+SpellName,owl eyes,
+SpellName,petrifying touch,
 SpellName,phasing,xuyên tường
+SpellName,planar anchor,
+SpellName,planar swap,
 SpellName,poison blast,vụ nổ độc
 SpellName,polymorph,biến hình
+SpellName,porter's reach,
+SpellName,prayer,
+SpellName,premonition,
+SpellName,prismatic spray,
+SpellName,psychic shove,
 SpellName,raise dead,tái sinh xác sống
+SpellName,rally cry,
+SpellName,ray of enfeeblement,
+SpellName,reap,
 SpellName,regenerate,tái tạo
 SpellName,remove curse,loại bỏ lời nguyền
+SpellName,repelling ward,
+SpellName,repulsion,
 SpellName,restoration,khôi phục
+SpellName,revelation,
+SpellName,sanctuary,
+SpellName,scalding cloud,
+SpellName,searing light,
+SpellName,sense curse,
+SpellName,sense the restless,
+SpellName,sentinel ward,
+SpellName,shimmer shield,
 SpellName,shocking sphere,cầu sấm
+SpellName,shrink,
+SpellName,silence,
+SpellName,simulacrum,
 SpellName,sleep,ru ngủ
+SpellName,slick detonation,
+SpellName,slipping free,
 SpellName,slow,làm chậm
 SpellName,soaking sphere,khối cầu nước
+SpellName,song of discord,
+SpellName,spark bolt,
+SpellName,spectral shroud,
+SpellName,spirit leech,
+SpellName,spirit shield,
+SpellName,starfall,
+SpellName,steadfast ward,
+SpellName,stone to flesh,
+SpellName,stoneskin,
 SpellName,summoning,triệu hồi
+SpellName,sunburst smite,
+SpellName,sunder gear,
+SpellName,swoon,
 SpellName,telekinesis,chuyển động từ xa
+SpellName,telekinetic shove,
 SpellName,teleport away,dịch chuyển ra xa
+SpellName,thunderclap,
+SpellName,timed combustion,
+SpellName,tongue tied,
 SpellName,toxic spray,phun độc
+SpellName,transmuter's mastery,
+SpellName,true appraisal,
 SpellName,turn undead,hóa thây ma
+SpellName,unbinding,
+SpellName,undying ward,
+SpellName,unseen hand,
+SpellName,vampiric feast,
+SpellName,veil of shadows,
+SpellName,wall breach,
+SpellName,wall of thorns,
 SpellName,walling,tạo tường
+SpellName,ward of return,
+SpellName,warning ward,
+SpellName,web snare,
+SpellName,whispers of madness,
+SpellName,wildfire brand,
+SpellName,wither,
+SpellName,withering ray,
 SpellName,wizard lock,khóa ma thuật
+SpellName,world vision,
 StandingName,damned,ác nhân
 StandingName,doomed,quái nhân
 StandingName,doubtful,ngờ đạo
@@ -4815,19 +5869,31 @@ VolatileName,blaze,cháy
 VolatileName,blood,máu
 VolatileName,electricity,phóng điện
 VolatileName,freeze,đóng băng
+VolatileName,oil,
 VolatileName,steam,bay hơi
 WallStructureName,illusionary,ảo ảnh
 WallStructureName,permanent,thật vĩnh viễn
 WallStructureName,solid,cứng
+ZooName,angelic sanctuary,
 ZooName,ant hole,tổ kiến
+ZooName,astral kennel,
 ZooName,barracks,doanh trại
 ZooName,bee hive,tổ ong
 ZooName,cocknest,tổ gà
 ZooName,college of wizardry,đại học phù thủy
 ZooName,dragon nest,hang rồng
+ZooName,dragon rookery,
+ZooName,drow stronghold,
+ZooName,elemental foundry,
+ZooName,golem forge,
 ZooName,graveyard,nghĩa địa
 ZooName,gremlin pit,hố gremlin
+ZooName,jelly vat,
 ZooName,leprechaun hall,sảnh leprechaun
+ZooName,military camp,
+ZooName,mimic den,
+ZooName,monster greenhouse,
+ZooName,pheral crypt,
 ZooName,salty pool,hồ nước mặn
 ZooName,science lab,phòng thí nghiệm
 ZooName,slumber party,tiệc ngủ

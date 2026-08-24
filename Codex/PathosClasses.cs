@@ -194,6 +194,8 @@ namespace Pathos
           Skills.light_blade, Skills.medium_blade,
           Skills.crossbow, Skills.whip
           );
+        C.Startup.AddGrimoire(Dice.One, Spells.calm);
+        C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
         C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
         C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus1, Items.rapier);
         C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus1, Items.crossbow);
@@ -231,6 +233,10 @@ namespace Pathos
         C.AddAvatar(Races.demon, Genders.male, Glyphs.demon_male_caveman);
         C.AddAvatar(Races.demon, Genders.female, Glyphs.demon_female_caveman);
         C.AddAvatar(Races.robot, Genders.male, Glyphs.robot_male_caveman);
+        // the halfling caveman avatars are drawn and shipped in every tileset but were never
+        // wired to the class, so the combination was unplayable
+        C.AddAvatar(Races.halfling, Genders.male, Glyphs.halfling_male_caveman);
+        C.AddAvatar(Races.halfling, Genders.female, Glyphs.halfling_female_caveman);
         C.AddFeat(1, Properties.cannibalism);
         C.AddFeat(8, Properties.quickness);
         C.AddFeat(14, Properties.warning);
@@ -623,6 +629,8 @@ namespace Pathos
           Skills.clerical, Skills.conjuration,
           Skills.light_armour,
           Skills.spear, Skills.unarmed_combat);
+        C.Startup.AddGrimoire(Dice.One, Spells.sanctuary);
+        C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
         C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
         C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus2, Items.leather_gloves);
         C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus1, Items.robe);
@@ -677,6 +685,7 @@ namespace Pathos
           Skills.light_blade,
           Skills.dart, Skills.sling, Skills.staff);
         C.Startup.AddGrimoire(Dice.One, Spells.identify);
+        C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
         C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
         C.Startup.Loot.AddKit(Chance.Always, Sanctities.Blessed, Modifier.Plus1, Items.stiletto);
         C.Startup.Loot.AddKit(Chance.Always, Sanctities.Blessed, Modifier.Plus1, Items.stiletto);
@@ -857,6 +866,8 @@ namespace Pathos
           Skills.clerical, Skills.conjuration, Skills.divination, Skills.necromancy,
           Skills.light_armour, Skills.medium_armour,
           Skills.club, Skills.mace, Skills.flail, Skills.hammer, Skills.staff);
+        C.Startup.AddGrimoire(Dice.One, Spells.bless);
+        C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
         C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
         C.Startup.Loot.AddKit(Chance.Always, Sanctities.Blessed, Modifier.Plus1, Items.mace);
         C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus0, Items.robe);
@@ -1147,6 +1158,7 @@ namespace Pathos
           Skills.axe, Skills.club, Skills.dart, Skills.sling, Skills.staff);
         C.Startup.AddGrimoire(Dice.One, Spells.magic_missile);
         C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
+        C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
         C.Startup.Loot.AddKit(Chance.Always, Sanctities.Blessed, Modifier.Plus1, [Items.dread_staff, Items.flash_staff, Items.thunder_staff, Items.battle_staff]);
         C.Startup.Loot.AddKit(Chance.Always, Sanctities.Blessed, Modifier.Plus1, Items.blowgun);
         C.Startup.Loot.AddKit(Chance.Always, 1.d10() + 11, Modifier.Plus1, Items.dart); // 12-21
@@ -1189,6 +1201,7 @@ namespace Pathos
           Skills.light_blade,
           Skills.disc, Skills.club, Skills.polearm, Skills.staff);
         C.Startup.AddGrimoire(Dice.One, Spells.summoning);
+        C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
         C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
         C.Startup.Loot.AddKit(Chance.Always, Sanctities.Blessed, Modifier.Plus2, Items.scythe);
         C.Startup.Loot.AddKit(Chance.Always, Sanctities.Blessed, Modifier.Plus1, Items.sickle);
@@ -1373,6 +1386,7 @@ namespace Pathos
           Skills.club, Skills.dart, Skills.sling, Skills.staff);
         C.Startup.AddGrimoire(Dice.One, Spells.force_bolt);
         C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
+        C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
         C.Startup.Loot.AddKit(Chance.Always, Sanctities.Blessed, Modifier.Plus1, Items.quarterstaff);
         C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus0, Items.cloak_of_magic_resistance);
         C.Startup.Loot.AddKit(Chance.Always, DesirableItemArray(C, Stocks.wand));
@@ -1416,6 +1430,7 @@ namespace Pathos
           Skills.whip, Skills.mace, Skills.flail, Skills.staff);
         C.Startup.AddGrimoire(Dice.One, Spells.animate_dead);
         C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
+        C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
         C.Startup.Loot.AddKit(Chance.Always, Sanctities.Blessed, Modifier.Plus1, Items.athame);
         C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus1, Items.robe);
         C.Startup.Loot.AddKit(Chance.Always, DesirableItemArray(C, Stocks.wand));
@@ -1426,9 +1441,174 @@ namespace Pathos
         C.Startup.Loot.AddKit(Chance.OneIn10, Items.magic_figurine);
         C.Startup.Loot.AddKit(Chance.Always, 1.d100() + 101, Items.gold_coin);
       });
+      // >>> GENERATED CLASSES >>>
+      apothecary = AddClass(C =>
+      {
+        C.Name = "apothecary";
+        C.Description = "Self-taught chemists of the underworld, forever mixing, tasting and bottling the unknown. What they lack in swordsmanship they make up for with a satchel of volatile solutions and a hard-won immunity to their own mistakes.";
+        C.Backpack = Items.Backpack;
+        C.LifeAdvancement.Set(10, 1.d6()); // calibrated against wizard (10, 1d6): fragile, INT-focused
+        C.ManaAdvancement.Set(4, 1.d2());
+        C.SetDistribution(Attributes.intelligence, Attributes.constitution, Attributes.dexterity, Attributes.wisdom, Attributes.charisma, Attributes.strength);
+        C.AddAvatar(Genders.male, Glyphs.male_alchemist);
+        C.AddAvatar(Genders.female, Glyphs.female_alchemist);
+        C.AddFeat(2, Elements.poison);
+        C.AddFeat(9, Properties.sustain_ability);
+        C.AddFeat(16, Elements.acid);
+        C.Startup.SetSkill(Qualifications.proficient,
+          Skills.bartering, Skills.crafting, Skills.literacy,
+          Skills.abjuration, Skills.transmutation,
+          Skills.light_armour,
+          Skills.light_blade, Skills.dart, Skills.sling);
+        C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
+        C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus0, Items.alchemy_smock);
+        C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus1, Items.dagger);
+        C.Startup.Loot.AddKit(Chance.Always, Dice.Fixed(3), Items.potion_of_healing);
+        C.Startup.Loot.AddKit(Chance.Always, Items.potion_of_extra_healing);
+        C.Startup.Loot.AddKit(Chance.Always, Items.potion_of_gain_energy);
+        C.Startup.Loot.AddKit(Chance.Always, Items.potion_of_object_detection);
+        C.Startup.Loot.AddKit(Chance.Always, Items.scroll_of_identify);
+        C.Startup.Loot.AddKit(Chance.Always, Items.sack);
+        C.Startup.Loot.AddKit(Chance.Always, Dice.Fixed(2), Items.food_ration);
+        C.Startup.Loot.AddKit(Chance.Always, 1.d100() + 50, Items.gold_coin);
+        C.Startup.Loot.AddKit(Dice.Fixed(3), Chance.Always, DesirableItemArray(C, Stocks.potion));
+      });
+
+      nightblade = AddClass(C =>
+      {
+        C.Name = "nightblade";
+        C.Description = "Contract killers trained to strike once, from the dark, and vanish before the body is found. They favour poisoned steel over honest combat and trust no blade they have not sharpened themselves.";
+        C.Backpack = Items.Backpack;
+        C.LifeAdvancement.Set(9, 1.d6()); // calibrated against rogue (10, 1d7): frailer glass-cannon striker
+        C.ManaAdvancement.Set(1, Dice.One);
+        C.SetDistribution(Attributes.dexterity, Attributes.strength, Attributes.constitution, Attributes.intelligence, Attributes.charisma, Attributes.wisdom);
+        C.AddAvatar(Genders.male, Glyphs.assassin);
+        C.AddAvatar(Genders.female, Glyphs.temptress);
+        C.AddFeat(1, Properties.stealth);
+        C.AddFeat(7, Elements.poison);
+        C.AddFeat(13, Properties.searching);
+        C.Startup.SetSkill(Qualifications.proficient,
+          Skills.dual_wielding, Skills.literacy, Skills.locks, Skills.swimming, Skills.traps, Skills.locks,
+          Skills.light_armour,
+          Skills.light_blade, Skills.medium_blade,
+          Skills.dart, Skills.sling, Skills.crossbow, Skills.unarmed_combat);
+        C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus1, Items.leather_armour);
+        C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus2, Items.dagger);
+        C.Startup.Loot.AddKit(Chance.Always, Dice.Fixed(6), Modifier.Plus1, Items.dagger);
+        C.Startup.Loot.AddKit(Chance.Always, Items.potion_of_sickness);
+        C.Startup.Loot.AddKit(Chance.Always, 1.d5(), Items.lock_pick);
+        C.Startup.Loot.AddKit(Chance.Always, Items.sack);
+        C.Startup.Loot.AddKit(Chance.Always, 1.d100() + 100, Items.gold_coin);
+        C.Startup.Loot.AddKit(Chance.OneIn5, Items.blindfold);
+      });
+
+      elementalist = AddClass(C =>
+      {
+        C.Name = "elementalist";
+        C.Description = "Scholars who bound their fate to raw elemental force rather than the slower disciplines of wizardry. Fire and frost answer their call in equal measure, a duality most mages never dare attempt.";
+        C.Backpack = Items.Backpack;
+        C.LifeAdvancement.Set(9, 1.d6()); // calibrated against wizard (10, 1d6): slightly frailer pure blaster
+        C.ManaAdvancement.Set(6, 1.d2());
+        C.SetDistribution(Attributes.intelligence, Attributes.dexterity, Attributes.constitution, Attributes.wisdom, Attributes.charisma, Attributes.strength);
+        C.AddAvatar(Genders.male, Glyphs.flame_maker);
+        C.AddAvatar(Genders.female, Glyphs.frost_maker);
+        C.AddAvatar(Races.dwarf, Genders.male, Glyphs.earth_maker);
+        C.AddAvatar(Races.elf, Genders.female, Glyphs.water_maker);
+        C.AddFeat(4, Elements.fire);
+        C.AddFeat(9, Elements.cold);
+        C.AddFeat(15, Elements.shock);
+        C.Startup.SetSkill(Qualifications.proficient,
+          Skills.bartering, Skills.crafting, Skills.literacy,
+          Skills.evocation, Skills.transmutation,
+          Skills.light_armour,
+          Skills.light_blade, Skills.dart, Skills.sling, Skills.staff);
+        C.Startup.AddGrimoire(Dice.One, Spells.ember_lance);
+        C.Startup.AddGrimoire(Dice.One, Spells.frost_breath);
+        C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
+        C.Startup.Loot.AddKit(Chance.Always, Sanctities.Blessed, Modifier.Plus1, Items.quarterstaff);
+        C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus0, Items.robe);
+        C.Startup.Loot.AddKit(Chance.Always, Items.oil_lamp);
+        C.Startup.Loot.AddKit(Dice.Fixed(3), Chance.Always, DesirableItemArray(C, Stocks.potion));
+        C.Startup.Loot.AddKit(Dice.Fixed(2), Chance.Always, DesirableItemArray(C, Stocks.scroll));
+        C.Startup.Loot.AddKit(Chance.OneIn5, Items.magic_marker);
+      });
+
+      witch = AddClass(C =>
+      {
+        C.Name = "witch";
+        C.Description = "Keepers of old hexes and older grudges, more at home among gravestones and cauldrons than decent company. They do not hurl fire; they unmake their enemies' luck, strength and flesh by degrees.";
+        C.Backpack = Items.Backpack;
+        C.LifeAdvancement.Set(9, 1.d6()); // calibrated against wizard (10, 1d6): frail hex-caster
+        C.ManaAdvancement.Set(6, 1.d2());
+        C.SetDistribution(Attributes.wisdom, Attributes.intelligence, Attributes.constitution, Attributes.charisma, Attributes.dexterity, Attributes.strength);
+        C.AddAvatar(Genders.male, Glyphs.elder_wizard);
+        C.AddAvatar(Genders.female, Glyphs.hag);
+        C.AddFeat(2, Elements.poison);
+        C.AddFeat(8, Properties.warning);
+        C.AddFeat(14, Elements.drain);
+        C.Startup.SetSkill(Qualifications.proficient,
+          Skills.bartering, Skills.crafting, Skills.literacy,
+          Skills.divination, Skills.enchantment, Skills.necromancy,
+          Skills.light_armour,
+          Skills.light_blade, Skills.club, Skills.dart, Skills.sling, Skills.staff);
+        C.Startup.AddGrimoire(Dice.One, Spells.hex);
+        C.Startup.AddGrimoire(Dice.One, Spells.hexbind);
+        C.Startup.AddGrimoire(Dice.One, DesireableSpellArray(C));
+        C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus1, Items.quarterstaff);
+        C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus0, Items.robe);
+        C.Startup.Loot.AddKit(Chance.Always, Items.potion_of_sickness);
+        C.Startup.Loot.AddKit(Chance.Always, Dice.Fixed(3), Items.potion_of_confusion);
+        C.Startup.Loot.AddKit(Chance.Always, Items.potion_of_blindness);
+        C.Startup.Loot.AddKit(Chance.Always, Dice.Fixed(2), Items.food_ration);
+        C.Startup.Loot.AddKit(Chance.Always, 1.d100() + 50, Items.gold_coin);
+        C.Startup.Loot.AddKit(Dice.Fixed(2), Chance.Always, DesirableItemArray(C, Stocks.scroll));
+        C.Startup.Loot.AddKit(Chance.OneIn5, Items.blindfold);
+      });
+
+      slayer = AddClass(C =>
+      {
+        C.Name = "slayer";
+        C.Description = "Grim oath-bound hunters who court death against the mightiest foes, undead and monstrous alike. What they lack in subtlety they make up for with unrelenting rage and a body built to shrug off ruin.";
+        C.Backpack = Items.Backpack;
+        C.LifeAdvancement.Set(13, 1.d9()); // calibrated against barbarian (14, 1d10): near as tough, less bulky
+        C.ManaAdvancement.Set(1, Dice.Fixed(1));
+        C.SetDistribution(Attributes.strength, Attributes.constitution, Attributes.dexterity, Attributes.wisdom, Attributes.charisma, Attributes.intelligence);
+        C.AddAvatar(Genders.male, Glyphs.berserker);
+        C.AddAvatar(Genders.female, Glyphs.huntress);
+        C.AddAvatar(Races.elf, Genders.male, Glyphs.drow_mage);
+        C.AddAvatar(Races.elf, Genders.male, Glyphs.drow_thief);
+        C.AddAvatar(Races.orc, Genders.male, Glyphs.orc_thief);
+        C.AddAvatar(Races.elf, Genders.female, Glyphs.drow_priestess);
+        C.AddAvatar(Races.demon, Genders.female, Glyphs.female_demon);
+        C.AddAvatar(Races.lizardman, Genders.male, Glyphs.lizardman_samurai);
+        C.AddAvatar(Races.elf, Genders.male, Glyphs.drow_monk);
+        C.AddFeat(3, Properties.rage);
+        C.AddFeat(9, Properties.vitality);
+        C.AddFeat(15, Elements.necrotic);
+        C.Startup.SetSkill(Qualifications.proficient,
+          Skills.bartering, Skills.literacy, Skills.riding, Skills.swimming,
+          Skills.light_armour, Skills.medium_armour, Skills.heavy_armour,
+          Skills.light_blade, Skills.medium_blade, Skills.heavy_blade,
+          Skills.axe, Skills.hammer, Skills.polearm, Skills.spear);
+        C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus2, Items.war_hammer);
+        C.Startup.Loot.AddKit(Chance.Always, Modifier.Plus1, Items.ring_mail);
+        C.Startup.Loot.AddKit(Chance.Always, Dice.Fixed(3), Items.food_ration);
+        C.Startup.Loot.AddKit(Chance.Always, Dice.Fixed(2), Items.potion_of_healing);
+        C.Startup.Loot.AddKit(Chance.Always, Items.sack);
+        C.Startup.Loot.AddKit(Chance.Always, 1.d50() + 50, Items.gold_coin);
+        C.Startup.Loot.AddKit(Chance.OneIn6, Items.oil_lamp);
+      });
+      // <<< GENERATED CLASSES <<<
     }
 #endif
 
+    // >>> GENERATED CLASSES-FIELDS >>>
+    public readonly Class apothecary;
+    public readonly Class nightblade;
+    public readonly Class elementalist;
+    public readonly Class witch;
+    public readonly Class slayer;
+    // <<< GENERATED CLASSES-FIELDS <<<
     public readonly Class barbarian;
     public readonly Class bard;
     public readonly Class caveman;

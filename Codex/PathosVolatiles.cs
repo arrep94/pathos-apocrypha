@@ -120,7 +120,6 @@ namespace Pathos
 
         S.AddReaction(Chance.Always, Elements.fire, T => T.ExtinguishVolatile(freeze));
       });
-      /*
       oil = AddVolatile("oil", Glyphs.oil, new[] { Glyphs.oil } , Sonics.water_splash, S =>
       {
         // active apply.
@@ -131,7 +130,6 @@ namespace Pathos
 
         S.AddReaction(Chance.Always, Elements.fire, T => T.CreateVolatile(blaze, 4.d60()));
       });
-      */
       // TODO: 'puddle' of water?
 
       steam = AddVolatile("steam", Glyphs.steam, null, Sonics.gas, S =>
@@ -151,7 +149,7 @@ namespace Pathos
     public readonly Volatile blood;
     public readonly Volatile electricity;
     public readonly Volatile freeze;
-    //public readonly Volatile oil;
+    public readonly Volatile oil;
     public readonly Volatile steam;
   }
 }

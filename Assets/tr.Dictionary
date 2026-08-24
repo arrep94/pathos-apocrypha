@@ -1,4 +1,5 @@
 ﻿AfflictionDescription,Deadly venom courses through your veins.,Ölümcül bir zehir damarlarında dolaşıyor.
+AfflictionDescription,Groteseque changes are happening to your body.,
 AfflictionDescription,Something deeply unsettling is happening... down there.,Aşağıda... çok rahatsız edici şeyler oluyor.
 AfflictionDescription,There is a gnawing sensation from deep inside your stomach.,Midenin derinleri kemiriliyormuş gibi hissediyorsun.
 AfflictionDescription,This viral disease causes inflammation of the brain and is spread by infected animals.,Hayvanlardan bulaşan bu hastalık beyinde iltihaplanmaya neden oluyor.
@@ -6,6 +7,7 @@ AfflictionDescription,You feel unclean and everything itches.,Kirli hissediyorsu
 AfflictionDescription,You have a dreadful case of stomach acid.,Berbat bir mide asiti vakan var.
 AfflictionDescription,Your skin is sickly green and something is very wrong inside your stomach.,Cildin hastalıklı bir yeşil renkte ve karnında yolunda gitmeyen şeyler oluyor.
 AfflictionName,crabs,yengeçli
+AfflictionName,mutation,
 AfflictionName,nits,bitli
 AfflictionName,poisoning,zehirlenme
 AfflictionName,rabies,kuduz
@@ -43,76 +45,136 @@ AppearanceDescription,A short but sturdy looking coat of mithril armour.,Kısa a
 AppearanceDescription,A slender and delicate looking coat of mithril armour.,Dar ve zarif gözüken mitril bir zırh.
 AppearanceDescription,A slender and glossy looking coat of mithril armour.,Dar ve cilalı gözüken mitril bir zırh.
 AppearanceDescription,This classic wizard accessory is a pointed hat decorated with moons and stars.,Ay ve yıldızlarla dekore edilmiş klasik bir büyücü şapkası.
+AppearanceName,acrid book,
 AppearanceName,adamantine slug,
 AppearanceName,adamantine staff,
 AppearanceName,agate ring,akik yüzük
+AppearanceName,alabaster book,
 AppearanceName,aluminium wand,alüminyum asa
+AppearanceName,amber book,
+AppearanceName,ancient book,
 AppearanceName,angled poleaxe,kargılı balta
+AppearanceName,antique book,
+AppearanceName,arcane book,
+AppearanceName,arcing book,
+AppearanceName,argent book,
+AppearanceName,ashen book,
 AppearanceName,backwards book,
 AppearanceName,bag,çanta
 AppearanceName,balsa wand,balza asa
 AppearanceName,bamboo arrow,bambu oku
 AppearanceName,bamboo wand,bambu asa
+AppearanceName,banded book,
+AppearanceName,barbed ring,
+AppearanceName,basalt book,
+AppearanceName,battered book,
+AppearanceName,beaded book,
 AppearanceName,beaked polearm,sivri kargı
 AppearanceName,bell,bronz çan
 AppearanceName,big book,büyük kitap
+AppearanceName,bilious book,
+AppearanceName,birch book,
 AppearanceName,black book,siyah kitap
+AppearanceName,black bound book,
 AppearanceName,black gem,siyah mücevher
 AppearanceName,black gloves,siyah eldiven
 AppearanceName,black onyx ring,siyah oniks yüzük
 AppearanceName,black potion,siyah iksir
+AppearanceName,black stone,
 AppearanceName,black wand,siyah asa
+AppearanceName,blackened book,
+AppearanceName,bloodstained book,
 AppearanceName,bloody potion,kanlı iksir
 AppearanceName,blue and green shield,mavi ve yeşil renkli kalkan
 AppearanceName,blue gem,mavi mücevher
 AppearanceName,blue robe,mavi cüppe
+AppearanceName,bone book,
+AppearanceName,bone bound book,
 AppearanceName,bone earrings,kemik küpe
 AppearanceName,bone staff,kemik değnek
+AppearanceName,bone white book,
+AppearanceName,boulder bound book,
+AppearanceName,bramble book,
+AppearanceName,brass book,
+AppearanceName,brass bound book,
+AppearanceName,brass clasped book,
 AppearanceName,brass ring,pirinç yüzük
 AppearanceName,brass wand,pirinç asa
 AppearanceName,brilliant blue potion,parlak mavi iksir
+AppearanceName,brittle book,
+AppearanceName,broad katar,
 AppearanceName,broad pick,geniş kazma
 AppearanceName,broad short sword,geniş kısa kılıç
 AppearanceName,bronze book,bronz kitap
 AppearanceName,bronze ring,bronz yüzük
 AppearanceName,bronze wand,bronz asa
+AppearanceName,bronzed book,
 AppearanceName,brown potion,kahverengi iksir
 AppearanceName,bubbly potion,köpüklü iksir
+AppearanceName,buckled book,
 AppearanceName,bugle,borazan
+AppearanceName,burnished book,
 AppearanceName,candle,mum
 AppearanceName,canvas book,kalın kapaklı kitap
+AppearanceName,celestial book,
 AppearanceName,ceramic wand,seramik asa
+AppearanceName,chained book,
+AppearanceName,chalkstone book,
+AppearanceName,charcoal book,
+AppearanceName,charnel book,
+AppearanceName,charred book,
+AppearanceName,cinder book,
+AppearanceName,cindered book,
 AppearanceName,circular amulet,yuvarlak tılsım
+AppearanceName,clasped book,
+AppearanceName,clay bound book,
 AppearanceName,clay ring,kil yüzük
 AppearanceName,clear potion,saydam iksir
+AppearanceName,clockwork gun,
 AppearanceName,cloth book,kumaş kitap
 AppearanceName,cloudy potion,bulanık iksir
 AppearanceName,coarse mantelet,kaba manto
+AppearanceName,cobalt book,
+AppearanceName,cobblestone book,
+AppearanceName,coiled gun,
 AppearanceName,colourful book,renkli kitap
 AppearanceName,combat boots,savaş botları
 AppearanceName,compact gun,kompakt tabanca
+AppearanceName,compass bound book,
 AppearanceName,concave amulet,içbükey tılsım
 AppearanceName,conical hat,konik şapka
+AppearanceName,consecrated book,
 AppearanceName,convex amulet,dışbükey tılsım
 AppearanceName,copper book,bakır kitap
 AppearanceName,copper ring,bakır yüzük
 AppearanceName,copper wand,bakır asa
+AppearanceName,coral book,
 AppearanceName,coral ring,mercan yüzük
+AppearanceName,corded book,
+AppearanceName,cracked book,
+AppearanceName,cratered book,
 AppearanceName,crested helmet,sorguçlu miğfer
+AppearanceName,crimson book,
 AppearanceName,crude arrow,ilkel ok
 AppearanceName,crude bow,ilkel yay
 AppearanceName,crude chain mail,ilkel örme zincir zırh
 AppearanceName,crude dagger,ilkel hançer
+AppearanceName,crude disc,
 AppearanceName,crude ring mail,ilkel halkalı zırh
 AppearanceName,crude short sword,ilkel kısa kılıç
 AppearanceName,crude spear,ilkel mızrak
+AppearanceName,crumbling book,
+AppearanceName,crystal book,
 AppearanceName,crystal staff,kristal değnek
 AppearanceName,crystal wand,kristal asa
+AppearanceName,crystalline book,
 AppearanceName,curved polearm,kavisli kargı
 AppearanceName,curved sword,çarpık kılıç
 AppearanceName,curved wand,çarpık asa
+AppearanceName,cut glass book,
 AppearanceName,cyan book,camgöbeği kitap
 AppearanceName,cyan potion,camgöbeği iksir
+AppearanceName,damascened book,
 AppearanceName,dark blue book,lacivert kitap
 AppearanceName,dark brown book,koyu kahverengi kitap
 AppearanceName,dark green book,koyu yeşil kitap
@@ -122,27 +184,43 @@ AppearanceName,deep book,derin kitap
 AppearanceName,diamond ring,elmas yüzük
 AppearanceName,dirty rag,pis paçavra
 AppearanceName,dog eared book,köpek kulaklı kitap
+AppearanceName,dolomite book,
 AppearanceName,double-headed axe,çift taraflı balta
+AppearanceName,dove grey book,
+AppearanceName,dress boots,
 AppearanceName,drum,davul
 AppearanceName,dull book,sıkıcı kitap
+AppearanceName,dusk blue book,
 AppearanceName,dusty book,tozlu kitap
 AppearanceName,ebony wand,abanoz asa
+AppearanceName,eelskin book,
 AppearanceName,effervescent potion,köpüren iksir
+AppearanceName,ember book,
 AppearanceName,emerald potion,zümrüt yeşili iksir
 AppearanceName,emerald ring,zümrüt yeşili yüzük
 AppearanceName,engagement ring,nişan yüzüğü
+AppearanceName,etched book,
 AppearanceName,etched helmet,çentikli miğfer
+AppearanceName,eternity ring,
 AppearanceName,exotic two-pointed polearm,
 AppearanceName,faded book,soluk kitap
 AppearanceName,faded pall,soluk pardesü
+AppearanceName,feldspar book,
 AppearanceName,fencing gloves,eskrim eldiveni
 AppearanceName,figurine,figür
 AppearanceName,fine mithril-coat,kaliteli mitril palto
 AppearanceName,fizzy potion,gazlı iksir
+AppearanceName,flint book,
 AppearanceName,flute,flüt
 AppearanceName,forked polearm,çatallı kargı
+AppearanceName,forked wand,
+AppearanceName,frostbitten book,
+AppearanceName,frosted book,
 AppearanceName,fur boots,kürk çizme
 AppearanceName,fuzzy book,tüylü kitap
+AppearanceName,gale book,
+AppearanceName,gilded book,
+AppearanceName,glass bound book,
 AppearanceName,glass orb,cam küre
 AppearanceName,glass ring,can yüzük
 AppearanceName,glass wand,cam asa
@@ -153,13 +231,21 @@ AppearanceName,glossy arrow,siyah rünlü ok
 AppearanceName,glossy bow,siyah rünlü yay
 AppearanceName,glossy dagger,siyah rünlü hançer
 AppearanceName,glossy mithril-coat,cilalı mitril palto
+AppearanceName,glossy potion,
 AppearanceName,glossy short sword,siyah rünlü kısa kılıç
+AppearanceName,gloved book,
+AppearanceName,gneiss book,
 AppearanceName,gold book,altın kitap
 AppearanceName,gold earrings,altın küpe
 AppearanceName,gold ring,altın yüzük
 AppearanceName,gold wand,altın asa
 AppearanceName,golden potion,altınımsı iksir
+AppearanceName,gossamer book,
+AppearanceName,granite book,
 AppearanceName,granite ring,granit yüzük
+AppearanceName,graphite book,
+AppearanceName,grave bound book,
+AppearanceName,gravel book,
 AppearanceName,green gem,yeşil mücevher
 AppearanceName,green robe,yeşil cüppe
 AppearanceName,grey book,gri kitap
@@ -168,38 +254,54 @@ AppearanceName,hard hat,sert şapka
 AppearanceName,hard shoes,sert ayakkabı
 AppearanceName,hardcover book,sert kapaklı kitap
 AppearanceName,harp,arp
+AppearanceName,hazel book,
 AppearanceName,heavy barrelled gun,ağır namlulu tabanca
 AppearanceName,heavy gun,ağır silah
 AppearanceName,hexagonal amulet,altıgen tılsım
 AppearanceName,hexagonal wand,altıgen asa
+AppearanceName,hide bound book,
 AppearanceName,hiking boots,tırmanış çizmeleri
 AppearanceName,hilted polearm,saplı kargı
+AppearanceName,hoarfrost book,
+AppearanceName,hollow book,
 AppearanceName,hooded cloak,kapşonlu pelerin
 AppearanceName,hooked polearm,kancalı kargı
+AppearanceName,hooked sword,
 AppearanceName,horn,boynuz
 AppearanceName,horseshoe,nal
 AppearanceName,humongous book,
 AppearanceName,icy potion,buzlu iksir
+AppearanceName,incandescent book,
 AppearanceName,indigo book,çivit mavisi kitap
 AppearanceName,iridium wand,iridyum asa
+AppearanceName,iron bound book,
 AppearanceName,iron ring,demir yüzük
 AppearanceName,iron skull cap,demir başlık
 AppearanceName,iron wand,demir asa
+AppearanceName,ivory book,
 AppearanceName,ivory ring,fildişi yüzük
 AppearanceName,jackboots,botfort
+AppearanceName,jade book,
 AppearanceName,jade ring,yeşimtaşı yüzük
+AppearanceName,jewelled book,
 AppearanceName,jewelled wand,mücevherli asa
 AppearanceName,jungle boots,orman çizmeleri
+AppearanceName,keening book,
 AppearanceName,key,anahtar
+AppearanceName,khaki potion,
 AppearanceName,lamp,lamba
 AppearanceName,large gun,büyük silah
 AppearanceName,large round shield,büyük yuvarlak kalkan
+AppearanceName,leaden book,
 AppearanceName,leather apron,deri önlük
 AppearanceName,leather book,deri kitap
 AppearanceName,leather hat,deri şapka
 AppearanceName,light blue book,açık mavi kitap
 AppearanceName,light brown book,açık kahverengi kitap
 AppearanceName,light green book,açık yeşil kitap
+AppearanceName,limestone book,
+AppearanceName,linen book,
+AppearanceName,loam book,
 AppearanceName,long barrelled gun,uzun namlulu silah
 AppearanceName,long book,uzun kitap
 AppearanceName,long bow,uzun yay
@@ -211,13 +313,18 @@ AppearanceName,luminescent potion,ışıldayan iksir
 AppearanceName,magenta book,eflatun kitap
 AppearanceName,magenta potion,eflatun iksir
 AppearanceName,maple wand,akçaağaç asası
+AppearanceName,marble book,
 AppearanceName,marble wand,mermer asa
 AppearanceName,marker,işaretleyici
+AppearanceName,marlstone book,
 AppearanceName,medallion amulet,madalyon tılsım
 AppearanceName,metal canister,teneke kutu
 AppearanceName,metal pineapple,metal ananas
 AppearanceName,metal slug,metal sümüklüböcek
+AppearanceName,mica book,
+AppearanceName,mildewed book,
 AppearanceName,milky potion,sütlü iksir
+AppearanceName,millstone book,
 AppearanceName,mithril boots,çelik ayakkabı
 AppearanceName,mithril ring,
 AppearanceName,mithril slug,mithril mermi
@@ -225,70 +332,109 @@ AppearanceName,mithril staff,mithril asa
 AppearanceName,mood ring,ruh hali yüzüğü
 AppearanceName,moonstone ring,aytaşı yüzük
 AppearanceName,mortar gun,havan topu
+AppearanceName,mossy book,
+AppearanceName,moth eaten book,
 AppearanceName,mottled book,alacalı kitap
 AppearanceName,mud boots,çamur botları
 AppearanceName,muddy potion,çamurlu iksir
 AppearanceName,murky potion,bulanık iksir
+AppearanceName,murmuring book,
+AppearanceName,muted book,
 AppearanceName,mysterious gadget,gizemli aygıt
+AppearanceName,notched book,
 AppearanceName,oak wand,meşe asa
+AppearanceName,obsidian book,
 AppearanceName,obsidian ring,obsidyen yüzük
 AppearanceName,ochre book,okra kitap
 AppearanceName,octagonal amulet,sekizgen tılsım
 AppearanceName,octagonal wand,sekizgen asa
 AppearanceName,old gloves,eski eldiven
+AppearanceName,olive branch book,
+AppearanceName,onyx book,
+AppearanceName,opal book,
 AppearanceName,opal ring,opal yüzük
+AppearanceName,opaline book,
 AppearanceName,opera cloak,opera pelerini
 AppearanceName,orange book,turuncu kitap
 AppearanceName,orange gem,turunu mücevher
 AppearanceName,orange potion,turuncu iksir
 AppearanceName,orange robe,turuncu cüppe
 AppearanceName,ornamental cope,süslü örtü
+AppearanceName,ossuary book,
 AppearanceName,oval amulet,oval tılsım
 AppearanceName,padded gloves,doldurulmuş eldiven
+AppearanceName,pale book,
 AppearanceName,papyrus book,papirüs kitap
 AppearanceName,parchment book,parşömen kitap
 AppearanceName,pearl earrings,inci küpe
 AppearanceName,pearl ring,inci yüzük
+AppearanceName,phoenix down book,
 AppearanceName,piece of cloth,kumaş parçası
+AppearanceName,pine wand,
 AppearanceName,pink book,pembe kitap
 AppearanceName,pink potion,pembe iksir
+AppearanceName,pitted book,
+AppearanceName,plague ridden book,
 AppearanceName,plaid book,ekoseli kitap
 AppearanceName,plain book,sade kitap
 AppearanceName,plain ring,sade yüzük
 AppearanceName,plain robe,sade cüppe
 AppearanceName,plastic slug,plastik mermi
 AppearanceName,plastic stick,plastik çubuk
+AppearanceName,plastic wand,
 AppearanceName,platinum wand,platin asa
 AppearanceName,plumed helmet,tüylü miğfer
+AppearanceName,pocked book,
 AppearanceName,pole cleaver,sırıklı satır
 AppearanceName,pole sickle,sırıklı orak
 AppearanceName,polished silver shield,cilalı gümüş kalkan
+AppearanceName,porphyry book,
+AppearanceName,prismatic book,
 AppearanceName,pronged polearm,ayrımlı uzun saplı silah
 AppearanceName,pruning hook,orak
+AppearanceName,psalm book,
 AppearanceName,puce potion,koyu mor iksir
+AppearanceName,pumice book,
 AppearanceName,purple book,mor kitap
 AppearanceName,purple-red potion,gül kurusu renkli iksir
 AppearanceName,pyramidal amulet,piramit tılsım
+AppearanceName,quartzite book,
+AppearanceName,quicksilver book,
+AppearanceName,radiant book,
 AppearanceName,ragged book,yırtık kitap
 AppearanceName,rainbow book,gökkuşağı renkli kitap
 AppearanceName,red book,kırmızı kitap
 AppearanceName,red gem,kırmızı mücevher
 AppearanceName,red robe,kırmızı cüppe
+AppearanceName,red stone,
 AppearanceName,red-eyed shield,kırmızı gözlü kalkan
 AppearanceName,riding boots,binici botu
 AppearanceName,riding gloves,binici eldiveni
+AppearanceName,rimed book,
+AppearanceName,riveted book,
 AppearanceName,ruby potion,yakut iksir
 AppearanceName,ruby ring,yakut yüzük
 AppearanceName,runed arrow,rünlü ok
+AppearanceName,runed book,
 AppearanceName,runed bow,rünlü yay
 AppearanceName,runed broadsword,rünlü geniş kılıç
 AppearanceName,runed dagger,rünlü hançer
+AppearanceName,runed disc,
 AppearanceName,runed short sword,rünlü kısa kılıç
 AppearanceName,runed spear,rünlü mızrak
 AppearanceName,runed wand,rünlü asa
+AppearanceName,russet book,
+AppearanceName,rusted book,
 AppearanceName,rusty wand,paslı asa
+AppearanceName,sable book,
+AppearanceName,saddle book,
+AppearanceName,sallow book,
 AppearanceName,samurai sword,samuray kılıcı
+AppearanceName,sanguine book,
+AppearanceName,sapphire book,
 AppearanceName,sapphire ring,safir yüzük
+AppearanceName,scalded book,
+AppearanceName,schist book,
 AppearanceName,scoped long gun,dürbünlü uzun tabanca
 AppearanceName,scroll labelled ANDOVA BEGARIN,ANDOVA BEGARIN etiketli parşömen
 AppearanceName,scroll labelled AZZGAZ,AZZGAZ etiketli parşömen
@@ -321,36 +467,56 @@ AppearanceName,scroll labelled XALICH UDED,XALICH UDED etiketli parşömen
 AppearanceName,scroll labelled XIXAXA XOXAXA XUXAXA,XIXAXA XOXAXA XUXAXA etiketli parşömen
 AppearanceName,scroll labelled YUM YUM,YUM YUM etiketli parşömen
 AppearanceName,scroll labelled ZELGO MER,ZELGO MER etiketli parşömen
+AppearanceName,sepia book,
+AppearanceName,sepulchral book,
 AppearanceName,shadow book,gölge kitabı
+AppearanceName,shale book,
+AppearanceName,shimmering book,
 AppearanceName,shining book,parlayan kitap
 AppearanceName,shiny ring,parlayan yüzük
 AppearanceName,short barrelled gun,kısa namlulu tabanca
 AppearanceName,short samurai sword,kısa samuray kılıcı
 AppearanceName,short wand,kısa asa
 AppearanceName,shoulder gun,omuz tabancası
+AppearanceName,shrapnel book,
+AppearanceName,silk book,
+AppearanceName,silken book,
+AppearanceName,silly wand,
 AppearanceName,silver book,gümüş kitap
 AppearanceName,silver ring,gümüş yüzük
 AppearanceName,silver slug,gümüş mermi
 AppearanceName,silver wand,gümüş asa
+AppearanceName,silvered book,
 AppearanceName,single-edged polearm,tek taraflı uzun sırıklı silah
 AppearanceName,sky blue potion,gökmavisi iksir
+AppearanceName,slate book,
 AppearanceName,slippery cloak,kaygan pelerin
 AppearanceName,small gun,küçük tabanca
+AppearanceName,small horizontal bow,
 AppearanceName,smoky potion,dumanlı iksir
 AppearanceName,snow boots,kar botu
+AppearanceName,solar book,
+AppearanceName,sooty book,
+AppearanceName,soul bound book,
 AppearanceName,sparkling potion,balonncuklu iksir
 AppearanceName,spherical amulet,küre tılsım
 AppearanceName,spiked wand,dikenli asa
 AppearanceName,spotted book,benekli kitap
 AppearanceName,square amulet,kare tılsım
 AppearanceName,stained book,lekeli kitap
+AppearanceName,starless book,
+AppearanceName,starlit book,
+AppearanceName,static book,
 AppearanceName,steel ring,çelik yüzük
 AppearanceName,steel wand,çelik asa
 AppearanceName,sticky glob,yapışkan damla
+AppearanceName,storm wracked book,
 AppearanceName,stout mithril-coat,sağlam mitril ceket
 AppearanceName,stout spear,sağlam mızrak
 AppearanceName,studded samurai stick,
 AppearanceName,stylish book,şık kitap
+AppearanceName,sundered book,
+AppearanceName,sunlit book,
 AppearanceName,swirly potion,girdaplı iksir
 AppearanceName,tan book,güneşte yanmış kitap
 AppearanceName,tattered book,paramparça kitap
@@ -365,35 +531,51 @@ AppearanceName,throwing disc,
 AppearanceName,throwing spear,fırlatma mızrağı
 AppearanceName,throwing star,ninja yıldızı
 AppearanceName,throwing stick,fırlatma çubuğu
+AppearanceName,thunderous book,
 AppearanceName,tiger eye ring,kaplangözü yüzük
 AppearanceName,tin wand,teneke asa
 AppearanceName,tiny book,
+AppearanceName,topaz book,
 AppearanceName,topaz ring,topaz yüzük
 AppearanceName,torn book,yırtılmış kitap
+AppearanceName,toy bat,
+AppearanceName,toy hammer,
 AppearanceName,toy sword,
 AppearanceName,triangular amulet,üçgen tılsım
 AppearanceName,turquoise book,turkuaz kitap
 AppearanceName,twisted ring,bükülmüş yüzük
+AppearanceName,umber book,
+AppearanceName,unbound book,
 AppearanceName,unlabelled scroll,boş parşömen
 AppearanceName,uranium wand,uranyum asa
+AppearanceName,veiled book,
 AppearanceName,vellum book,tirşe kağıttan kitap
 AppearanceName,velvet book,kadife kitap
+AppearanceName,verdigris book,
 AppearanceName,violet book,menekşe rengi kitap
 AppearanceName,violet gem,menekşe rengi mücevher
 AppearanceName,visored helmet,siperli miğfer
+AppearanceName,voltaic book,
 AppearanceName,vulgar polearm,uzun saplı kaba silah
 AppearanceName,walking shoes,yürüyüş ayakkabısı
 AppearanceName,warped amulet,eğri tılsım
+AppearanceName,warped book,
+AppearanceName,waxen book,
 AppearanceName,wedding ring,düğün yüzüğü
+AppearanceName,welded book,
+AppearanceName,whispering book,
 AppearanceName,whistle,düdük
 AppearanceName,white book,beyaz kitap
 AppearanceName,white coat,beyaz palto
 AppearanceName,white gem,beyaz mücevher
 AppearanceName,white potion,beyaz iksir
 AppearanceName,wide book,geniş kitap
+AppearanceName,wilted book,
 AppearanceName,winged missile,kanatlı mermi
 AppearanceName,wire ring,tel yüzük
+AppearanceName,withered book,
 AppearanceName,wooden ring,tahta yüzük
+AppearanceName,wormwood book,
 AppearanceName,wrinkled book,kırışık yüzük
 AppearanceName,yellow book,sarı kitap
 AppearanceName,yellow gem,sarı mücevher
@@ -489,62 +671,116 @@ BlockName,statue,heykel
 BlockName,stone boulder,taş kaya
 BlockName,trophy,
 BlockName,wooden barrel,tahta varil
+BoonDescription,"A darker resurrection than the temples offer: certain to succeed, but the dead come back enraged.",
+BoonDescription,"A generous healing gift, fae-touched: your hands will not be quite steady later.",
 BoonDescription,Ask for a unicorn to join your party.,Tek boynuzlu bir atı grubuna davet et.
+BoonDescription,Ask the fae for a favour. What you get is entirely up to her mood.,
+BoonDescription,"Bathe in the etching vats. It burns, but you rise with a hide the acid cannot bite.",
 BoonDescription,Bless one item in your inventory or on the ground.,Envanterindeki veya yerdeki bir eşyayı kutsa.
 BoonDescription,Brew a random potion into your bottle of water.,Şişe suyunu rastgele bir iksire dönüştür.
 BoonDescription,Butcher a corpse into an easy to carry container.,Bir ceseti kolayca taşınabilir bir koneynırın içine parçala.
 BoonDescription,Call upon the undead to fight for you.,Senin adına savaşmaları için hortlakları çağır.
+BoonDescription,Consult the observatory's charts for the full layout of this level.,
 BoonDescription,Convert one item into a random alternative of the same type.,Bir eşyayı aynı türden başka bir eşyaya dönüştür.
 BoonDescription,Determine the enchantment and charges of all carried items.,Taşınan bütün eşyaların efsunlarını ve yük miktarlarını belirle.
+BoonDescription,"Drill under the captain's eye. You may be quickened, or you may be worn out.",
+BoonDescription,Drink the warrior's drink and fight in a berserker rage. It does not spare your allies.,
+BoonDescription,"Eat at the fae table. You will not go hungry, but the wine shows you things that are not there.",
 BoonDescription,"Erase the magic from a potion, scroll or book.","Bir iksirden, kitaptan veya parşömenden sihiri sil."
+BoonDescription,Fall into a trance and see through walls and floors for a time.,
 BoonDescription,Hatch an egg and become a parent.,Yumurta kırarak bir ebeveyn ol.
+BoonDescription,Have the efreeti bind a captive elemental to your service.,
+BoonDescription,"Have the temple armour smiths put a keener edge on one weapon, magical or not.",
+BoonDescription,Have the wizard read the true nature of everything you carry.,
+BoonDescription,"Have your destiny read from the stars, hastening your growth.",
 BoonDescription,Heal damage and recover mana for yourself and your steed if mounted.,Kendinin ve varsa bineğinin canını ve manasını iyileştir.
 BoonDescription,Learn how to cast a random spell.,Rastgele bir büyü öğren.
 BoonDescription,Learn the divine status of all carried items.,Taşıdığın bütün eşyaların ilahi özelliklerini öğren.
 BoonDescription,Learn the name of one random unknown item.,Bilinmeyen rastgele bir eşyanın adını öğren.
 BoonDescription,Make an imitation copy of an item.,Bir eşyanın taklit kopyasını yarat.
 BoonDescription,Partially recharge a spent item.,Tükenmiş bir eşyayı kısmen doldur.
+BoonDescription,Petition the vizier for a spectral cat to guard you as it once guarded the tomb.,
 BoonDescription,Place a curse on one equipped or carried item.,Taşıdığın veya kuşanmış olduğun bir eşyayı lanetle.
+BoonDescription,"Plunge into the quenching trough. It burns with cold, but you rise proof against it.",
 BoonDescription,Reanimate a corpse as a loyal revenant.,Bir cesedi sadık bir hortlak olarak canlandır.
+BoonDescription,Receive the linen wrappings used to prepare the dead for the afterlife.,
 BoonDescription,Remove all magic from an item.,Bir eşyanın üstündeki bütün büyüleri kaldır.
 BoonDescription,Remove the curse on one equipped or carried item.,Taşıdığın veya kuşandığın bir eşyanın lanetini kaldır.
 BoonDescription,Rename an item for vanity and as a small protection against cancellation.,Bir eşyayı gösteriş için ve efsun çözülmesine karşı az miktarda koruma olarak yeniden adlandır.
 BoonDescription,Request a fresh corpse with no questions asked.,Sorgusuz sualsiz taze bir ceset talep et.
 BoonDescription,Request one cast of the polymorph spell.,Bir kere şekil değiştirmeyi talep et.
+BoonDescription,Requisition soldiers from the garrison to march at your side.,
 BoonDescription,Restore any lost ability and remove any negative transient conditions.,Kaybettiğin herhangi bir kabiliyeti geri kazan ve geçici olumsuz etkileri kaldır.
 BoonDescription,Return a corpse back to life.,Bir cesedi tekrar canlandır.
+BoonDescription,Stand in the temple square and receive the captain's defensive blessing.,
+BoonDescription,"Step into the forge fire. It burns, but you rise with fire in your blood.",
 BoonDescription,Summon a powerful steed from the underworld.,Yeraltı diyarından güçlü bir küheylan çağır.
 BoonDescription,Summon a tame forest beast as your ally.,Ehlileşmiş bir orman yaratığını dost olarak çağır.
+BoonDescription,Summon an escort from the pharaoh's retinue to walk beside you.,
+BoonDescription,The princess trades you a measure of charm. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of grace. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of wit. Something else must give way for it.,
+BoonDescription,Toss a coal on the forge fire and take whatever ward it grants you.,
+BoonDescription,Train under a veteran until a weapon or armour discipline sticks.,
 BoonDescription,Upgrade an item or increase its power.,Bir eşyayı gücünü arttırmak üzere geliştir.
 BoonDescription,Use nature magic to grow the power of your ally.,Doğa gücüyle bir dostunun kudretini büyüt.
+BoonDescription,Watch the level through the great lens and mark every creature on it.,
+BoonDescription,Whisper a question into the vault. The dead do not always tell the truth.,
 BoonDescription,Write a random scroll onto your blank paper.,Boş parşömenine rastgele bir büyü yaz.
 BoonName,animate dead,ölü canlandırma
 BoonName,assess,değer biç
+BoonName,banquet of the fae,
+BoonName,battle fury,
+BoonName,black rite of revival,
 BoonName,bless,kutsa
+BoonName,bound elemental,
 BoonName,brew,iksir yap
+BoonName,call the escort,
 BoonName,cancel,iptal et
+BoonName,capricious wish,
+BoonName,chart the level,
+BoonName,clairvoyant trance,
+BoonName,commune with the dead,
 BoonName,corpse wish,ceset dileği
+BoonName,court of the underworld,
 BoonName,divine,ilahileştir
+BoonName,drill,
 BoonName,enchant,efsunla
 BoonName,enlighten,aydınlat
 BoonName,erase,sil
+BoonName,fae cunning,
+BoonName,fae grace,
+BoonName,fae guile,
 BoonName,fantastical beast,fantastik yaratık
+BoonName,forced march,
+BoonName,godmother's blessing,
 BoonName,grow,büyüt
 BoonName,hatch,kır
+BoonName,identify all,
+BoonName,map the ranks,
 BoonName,nightmare steed,kabus küheylanı
+BoonName,ordeal of embers,
 BoonName,place curse,lanetle
 BoonName,polymorph,şekil değiştir
 BoonName,purify,saflaştır
 BoonName,raise dead,ölüyü kaldır
+BoonName,read your destiny,
 BoonName,recharge,tekrar doldur
 BoonName,reforge,yeniden şekillendir
 BoonName,rejuvenate,gençleştir
 BoonName,remove curse,lanet kaldır
 BoonName,rename,yeniden adlandır
 BoonName,replicate,kopyala
+BoonName,sacred wrappings,
 BoonName,scribe,yaz
+BoonName,sharpen blade,
+BoonName,shield wall,
 BoonName,teach spell,büyü öğret
+BoonName,temper in acid,
+BoonName,temper in flame,
+BoonName,temper in frost,
 BoonName,tinned meat,konserve et
+BoonName,tomb guardian,
 BoonName,undead army,hortlak ordusu
 BoonName,unicorn friend,dost tek boynuzlu at
 CalendarText,d MMMM yyyy,d MMMM yyyy
@@ -560,7 +796,11 @@ CharacterName,Bason,Bason
 CharacterName,Belietha,Belietha
 CharacterName,Bok,Bok
 CharacterName,Bolan,Bolan
+CharacterName,Bones,
+CharacterName,Borgrim,
+CharacterName,Briar,
 CharacterName,Brouwer,Brouwer
+CharacterName,Buckshot,
 CharacterName,Cailie,Cailie
 CharacterName,Capo,Capo
 CharacterName,Carthyre,Carthyre
@@ -581,18 +821,25 @@ CharacterName,Emina,Emina
 CharacterName,Enlan,Enlan
 CharacterName,Ericendrick,Ericendrick
 CharacterName,Eybrinde,Eybrinde
+CharacterName,Fangs,
 CharacterName,Faraze,Faraze
 CharacterName,Fenlas,Fenlas
 CharacterName,Fenraymond,Fenraymond
+CharacterName,Fern,
 CharacterName,Floki,Floki
 CharacterName,Forro,Forro
 CharacterName,Franzia,Franzia
 CharacterName,Galday,Galday
 CharacterName,Gasberg,Gasberg
+CharacterName,Gearwing,
+CharacterName,Ghrenna,
+CharacterName,Giggles,
 CharacterName,Gleichman,Gleichman
 CharacterName,Gmima,Gmima
 CharacterName,Gohu,Gohu
 CharacterName,Gomack,Gomack
+CharacterName,Grakna,
+CharacterName,Grum,
 CharacterName,Grytt,Grytt
 CharacterName,Haelom,Haelom
 CharacterName,Haique,Haique
@@ -615,34 +862,41 @@ CharacterName,Kevugo,Kevugo
 CharacterName,Kierantha,Kierantha
 CharacterName,Kira,Kira
 CharacterName,Kneller,Kneller
+CharacterName,Korrath,
 CharacterName,Lagratha,Lagratha
 CharacterName,Lanetwalz,Lanetwalz
 CharacterName,Lant,Lant
 CharacterName,Lesha,Lesha
 CharacterName,Luickean,Luickean
+CharacterName,Lyric,
 CharacterName,Lzay,Lzay
 CharacterName,Malasuth,Malasuth
+CharacterName,Malgrim,
 CharacterName,Marisa,Marisa
 CharacterName,Melchai,Melchai
 CharacterName,Meloty,Meloty
 CharacterName,Miller,Miller
 CharacterName,Misteph,Misteph
 CharacterName,Nichaeltoy,Nichaeltoy
+CharacterName,Nihlus,
 CharacterName,Ninerma,Ninerma
 CharacterName,Ninhart,Ninhart
 CharacterName,Ninny,Ninny
 CharacterName,Nodin,Nodin
 CharacterName,Norbant,Norbant
+CharacterName,Nugget,
 CharacterName,Okennwood,Okennwood
 CharacterName,Ollac,Ollac
 CharacterName,Omdarro,Omdarro
 CharacterName,Orankin,Orankin
 CharacterName,Oscae,Oscae
 CharacterName,Paltrick,Paltrick
+CharacterName,Panderos,
 CharacterName,Pauwinner,Pauwinner
 CharacterName,Penevieve,Penevieve
 CharacterName,Perceval,Perceval
 CharacterName,Pinkerton,Pinkerton
+CharacterName,Pip,
 CharacterName,Plegg,Plegg
 CharacterName,Pleyson,Pleyson
 CharacterName,Pnerfa,Pnerfa
@@ -660,16 +914,26 @@ CharacterName,Rebenna,Rebenna
 CharacterName,Renorber,Renorber
 CharacterName,Rokiju,Rokiju
 CharacterName,Rupley,Rupley
+CharacterName,Rustbeard,
 CharacterName,Sarlia,Sarlia
+CharacterName,Scraps,
+CharacterName,Sentinel,
+CharacterName,Serathiel,
+CharacterName,Shadow,
 CharacterName,Shinaas,Shinaas
+CharacterName,Sissik,
+CharacterName,Skrix,
 CharacterName,Smither,Smither
+CharacterName,Sprocket,
 CharacterName,Stevere,Stevere
 CharacterName,Stewite,Stewite
 CharacterName,Sully,Sully
 CharacterName,Talon,Talon
 CharacterName,Tanyacka,Tanyacka
 CharacterName,Thakuline,Thakuline
+CharacterName,Thokk,
 CharacterName,Threepo,Threepo
+CharacterName,Tillie,
 CharacterName,Timonen,Timonen
 CharacterName,Trank,Trank
 CharacterName,Udfoot,Udfoot
@@ -677,7 +941,10 @@ CharacterName,Uffle,Uffle
 CharacterName,Ujopayne,Ujopayne
 CharacterName,Umazi,Umazi
 CharacterName,Urenval,Urenval
+CharacterName,Vaelithra,
+CharacterName,Valor,
 CharacterName,Valorn,Valorn
+CharacterName,Vashti,
 CharacterName,Vekincarc,Vekincarc
 CharacterName,Vidar,Vidar
 CharacterName,Vikethome,Vikethome
@@ -687,7 +954,9 @@ CharacterName,Wallison,Wallison
 CharacterName,Waltis,Waltis
 CharacterName,Walzen,Walzen
 CharacterName,Wendry,Wendry
+CharacterName,Wisp,
 CharacterName,Wollet,Wollet
+CharacterName,Wraith,
 CharacterName,Xamarin,Xamarin
 CharacterName,Xandries,Xandries
 CharacterName,Xank,Xank
@@ -699,6 +968,7 @@ CharacterName,Yassage,Yassage
 CharacterName,Yorque,Yorque
 CharacterName,Yral,Yral
 CharacterName,Yuvaloren,Yuvaloren
+CharacterName,Zathrik,
 CharacterName,Zean,Zean
 CharacterName,Zerbarry,Zerbarry
 CharacterName,Zimn,Zimn
@@ -709,16 +979,19 @@ ClassDescription,"Benevolent caretakers, always willing to lend a helping hand t
 ClassDescription,"Champions of the winter realms, fierce and proud. Hardy and strong, they will boldly face any challenger until they meet a glorious death.",Kışın hakim olduğu diyarların vahşi ve gururlu şampiyonlarıdırlar. Bu güçlü dayanıklı ve kuvvetli savaşçılar kendilerine meydan okuyan herhangi biriyle görkemli bir ölüme kavuşana kadar cesurca yüzleşirler.
 ClassDescription,"Charming minstrels, making their way through the world with their songs and stories. They are jacks-of-all-trades; alongside their troubadour talents, they dabble in both martial skills and spellcraft.","Şarkıları ve hikayeleriyle dünyayı dolaşan ozanlardırlar. Ellerinden her iş gelir, aşıklık becerilerinin yanısıra, savaş ve büyü zanaatiyle de haşır neşirlerdir."
 ClassDescription,"Conductors of natural energies, these uniquely attuned spell casters derive their powers from the living world. Peaceful until threatened, they are unafraid to respond with animalistic savagery.","Bu doğal enerji sufileri, benzersiz şekilde uyumlanmış büyücüler, güçlerini yaşayan dünyadan alırlar. Tehdit edilene kadar barışçıl olup hayvani bir vahşilikle cevap vermekten çekinmezler."
+ClassDescription,"Contract killers trained to strike once, from the dark, and vanish before the body is found. They favour poisoned steel over honest combat and trust no blade they have not sharpened themselves.",
 ClassDescription,"Corrupt and hateful souls, who are motivated by causing carnage and spreading chaos. Subject to uncontrollable bouts of rage, they bring doom and destruction to friend and foe alike.",Bu yoz ve nefret dolu ruh sadece katliam ve kaos ile motive olur. Kontrol edilemeyen öfke nöbetlerine maruz kaldıklarında arkadaşlarına ve düşmanlarına kıyamet ve yıkım getirirler.
 ClassDescription,"Daft harlequins, always carrying a trick up their sleeves. Eclectic and eccentric; they are unassuming masters of chaos, adept in many bewildering talents.",Sürekli bir numara saklayan kaçık soytarılardır. Çok farklı zevklere ve fikirlere sahip bu eksantrik kişiler kaosun mütevazi efendileri ve daha nice şaşırtıcı yeteneğin ustalarıdır.
 ClassDescription,"Deft miscreants, conniving and quick with their wits. Through trial and error, they have learned that their best chance in avoiding the clutches of death is to stick to the shadows and outmanoeuvre their pursuers.","Bu marifetli kötü kimseler, işbirlikçi ve karar vermede hızlıdırlar.  Deneme yanılma yoluyla, ölümün pençesinden kaçınmak için en iyi şanslarının gölgelere bağlı kalmak ve takipçilerine karşı üstünlük sağlamak olduğunu öğrendiler."
 ClassDescription,"Devoted to understanding the essence of magic and the marvel of engineering, these adept craftsman crave both knowledge and resources. Whether directed by madness or genius, they are a capable adversary and a tenacious survivor.","Büyünün özünü ve mühendisliğin olağanüstülüğünü anlamaya adanmış bu kimseler usta zanaatkarlar, hem bilgiye hem de kaynağın müptelalarıdır. İster delilik ister dahilik güdümlü olsunlar, becerikli hasımlar ve azimli hayatta kalma ustalarıdırlar."
 ClassDescription,Escaped criminals who have spent so much of their life incarcerated that any trace of who or what they once were has all but vanished.,Hayatlarının çoğunun içerde geçirmiş bu firari suçlular bir zamanlar kim veya ne olduklarına dair tüm izleri silinmiş kimselerdir.
 ClassDescription,"Freebooting buccaneers, sailing the high seas and plundering many a merchant's vessel in their endless pursuit of riches and infamy. They are murderous cutthroats with little regard for anything but gold.","Bu yağmacı korsanlar, açık denizlere yelken açıp tüccar gemilerini yağmalayıp zenginlik ve kötü nam peşinde koşarlar. Bu kimseler, altın dışında hiçbir şeye pek önem vermeyen acımasız katillerdir."
+ClassDescription,"Grim oath-bound hunters who court death against the mightiest foes, undead and monstrous alike. What they lack in subtlety they make up for with unrelenting rage and a body built to shrug off ruin.",
 ClassDescription,"Happy-go-lucky travellers, committed to only the most authentic experiences. Quixotic and brave, they meticulously prepare with a wide variety of paraphernalia - yet remain ill-equipped for the perils they will soon face.",Bu kaygısız gezginler sadece en özgün deneyimlere açıklardır. Donkişotvari ve cesur kimseler olup titizlikle çok çeşitli gereçlerle hazırlık yapmalarına rağmen yakında karşılaşacakları tehlikeler için kötü donanımlı kalırlar.
 ClassDescription,"Hidden agents, fleet-footed and schooled in many ancient arts of assassination. When all else fails, they are indubitably prepared to make swift escapes.","Bu gizli ajanlar, süratli ve birçok antik suikast sanatında eğitimlidir. Bütün planlar suya düştüğünde hiç tereddüt etmeden kaçmak için hazırlıklıdırlar."
 ClassDescription,"Honourable warriors, who have dedicated their lives to an ancient code. Skilled in art of dual-wielding blades, they make fast work of their enemies.",Bu onurlu savaşçılar hayatlarını antik bir kurala adamış kimselerdir. Her iki elle kılıç kullanmada maharetli bu kimseler düşmanlarının işini hızlıca bitirirler.
 ClassDescription,"Keepers of cosmic secrets, who derive their sacred powers from the spirit realms hidden from mortal eyes. They are compelled by dark forces and are adept at bending the material world to their will.",Bu kozmik sırların sırdaşları kutsal güçlerini fani gözlerden uzak ruhlar dünyasından alırlar. Karanlık güçler tarafından esir alınmışlardır ve bu cismani dünyayı kendi arzularınca şekillendirmede ustadırlar.
+ClassDescription,"Keepers of old hexes and older grudges, more at home among gravestones and cauldrons than decent company. They do not hurl fire; they unmake their enemies' luck, strength and flesh by degrees.",
 ClassDescription,"Noble savages, hardened to battle by generations of survival in the unforgiving wilderness. They are not strangers to death's call; legends tell of their incredible strength and battle prowess with heavy weapons.",Bu asil vahşiler nesiller boyunca merhametsiz el değmemiş doğada hayatta kalma mücadelesi vererek kuvvetlenmişlerdir. Ölüm çağrısına yabancı değillerdir; efsaneler inanılmaz güçlerini ve ağır silahlarla savaşma yeteneklerini anlatır.
 ClassDescription,"Obsessed with blurring the line between life and death, these meddlers of dark forces prefer to associate with cadavers over the living. To some, the rituals are grotesque, but they see pure majesty in the manipulation of the natural order.","Yaşam ile ölüm arasındaki ince çizgiye takıntılı bu işgüzarlar, yaşanlardan çok kadavralarla ilgilenmekteditler. Bazılarına göre, ritüelleri garip görünse de, onlar doğal düzenin heybetli manipulatörleri."
 ClassDescription,"Pious scholars, oath-bound to their scripture. Although altruistic and good-natured, they are trained in martial arts so as to protect themselves and the canon they live by.","Bu dindar akademisyenler mukaddes kitapları üzerine ant içmişlerdir. Fedakar ve iyi huylu olmalarına rağmen, kendilerini ve yaşadıkları kanunları korumak için dövüş sanatlarında eğitimlidirler."
@@ -729,11 +1002,16 @@ ClassDescription,Questionably pious individuals from an ancient religious and mi
 ClassDescription,"Quintessential scientific researchers and dauntless historical investigators. Both brash and debonair, they seek out knowledge and accolades alike. They are curiously fond of whips and share a perplexing hatred towards serpents.",Bilimsel ve tarihi alanda mükemmel ve korkusuz araştırmacılardır. Hem küstah hem de nazik olan bu kimseler hem bilginin hem de alacakları övgülerin peşinden koşarlar. Büyük bir merakla kamçılara düşkünlerdir ve yılanlara karşı şaşırtıcı bir nefret beslerler.
 ClassDescription,"Restless desperados, driven by wanderlust and troubled by the haunting memories of those they could not protect. They are sly masters of lead and steel, hellbent on redemption and retribution.",Tez canlı ve her şeyi göze almış bu kişiler yolculuk tutkusu güdülü ve koruyamadıklarının akıldan çıkmayan anılarından muzdariplerdir. Kurşunun ve çeliğin sinsi ustaları olup intikam ve kefaret konularında pek isteklidirler.
 ClassDescription,"Righteous clergymen, dedicated to a life of sacrifice and spreading the word of their almighty deities. Well-versed in divine magic and the judicial delivery of violence to those deemed unworthy of salvation.",Bu dürüst papazlar hayatlarını özverili olmaya ve ulu tanrılarının sözlerini yaymaya adamışlardır. İlahi sihirde ve selamete ermeye layık olmadığını düşündüklerine mahkemenin şiddetini uygulamada gayet ustadırlar.
+ClassDescription,"Scholars who bound their fate to raw elemental force rather than the slower disciplines of wizardry. Fire and frost answer their call in equal measure, a duality most mages never dare attempt.",
+ClassDescription,"Self-taught chemists of the underworld, forever mixing, tasting and bottling the unknown. What they lack in swordsmanship they make up for with a satchel of volatile solutions and a hard-won immunity to their own mistakes.",
 ClassDescription,"Strongly built, tough and industrious workers who are more than capable in dangerous situations. Traditional practices and heavy tools are used to overcome obstacles in their pursuit of valuable gemstones.",Bu güçlü ve yapılı çalışkan işçi zorlu durumlarla başa çıkmasını gayet iyi biliyor. Kıymetli taşların peşinde koşuştururken önüne çıkan engelleri geleneksel yöntemlerle ve ağır teçhizatla atlatmakta.
 ClassDescription,"Sworn to uphold justice, these righteous warriors are dogmatic in pursuit of their sacred work. Classical martial skills are complemented by magical powers to protect the innocent and smite the wicked.","Adaleti korumaya yeminli bu dürüst savaşçılar, kutsal işlerini gerçekleştirme konusunda dogmatiklerdir. Masumları korumak ve kötüleri cezalandırmak için klasik dövüş becerilerini büyülü güçlerle tamamlamışlardır."
 ClassDescription,"Venerable men-at-arms clad in gleaming armour, renowned for their unyielding chivalry and conviction. They are high-born and are educated to be strategists and capable leaders on any battlefront.","Bu kişiler pırıl pırıl zırhlar kuşanmış, boyun eğmez şövalyelikleri ve inançlarıyla tanınan saygıdeğer askerlerdir. Soylu ailelerden gelmiş olup her türlü cephede stratejistlik ve liderlik yapabilmek üzere yetiştirilirmişlerdir."
 ClassDescription,"Warrior slaves compelled to battle for the entertainment of raucous crowds, often to the death. Those that can survive this cauldron are trained into the most brutal of pit fighters.",Bu savaşçı köleler çoğu zaman gürültülü kalabalıkların eğlencesi için ölümüne dövüştürülürler. Bu karmaşadan sağ çıkabilenler en acımasız çukur savaşlarında savaşmak üzere eğitilirler.
 ClassDescription,"Wilderness sentinels who understand the true balance of the universe. With bow in hand, they have devoted their lives to protecting the forces of nature from the corrupting touch of civilisation.","Evrenin gerçek dengesini anlayan vahşi doğa nöbetçileridirler. Elde yay, hayatlarını doğayı medeniyetin yozlaşmış dokunuşundan korumaya adamışlardır."
+ClassName,apothecary//female,
+ClassName,apothecary//male,
+ClassName,apothecary//non-binary,
 ClassName,barbarian//female,barbar
 ClassName,barbarian//male,barbar
 ClassName,barbarian//non-binary,barbar
@@ -749,6 +1027,9 @@ ClassName,convict//non-binary,firari
 ClassName,druid//female,druid
 ClassName,druid//male,druid
 ClassName,druid//non-binary,druid
+ClassName,elementalist//female,
+ClassName,elementalist//male,
+ClassName,elementalist//non-binary,
 ClassName,explorer//female,kaşif
 ClassName,explorer//male,kaşif
 ClassName,explorer//non-binary,kaşif
@@ -782,6 +1063,9 @@ ClassName,mystic//non-binary,mistik
 ClassName,necromancer//female,ölü cağıran
 ClassName,necromancer//male,ölü çağıran
 ClassName,necromancer//non-binary,ölü çağıran
+ClassName,nightblade//female,
+ClassName,nightblade//male,
+ClassName,nightblade//non-binary,
 ClassName,ninja//female,ninja
 ClassName,ninja//male,ninja
 ClassName,ninja//non-binary,ninja
@@ -809,6 +1093,9 @@ ClassName,samurai//non-binary,samuray
 ClassName,shaman//female,şaman
 ClassName,shaman//male,şaman
 ClassName,shaman//non-binary,şaman
+ClassName,slayer//female,
+ClassName,slayer//male,
+ClassName,slayer//non-binary,
 ClassName,templar//female,tapınak şovalyesi
 ClassName,templar//male,tapınak şovalyesi
 ClassName,templar//non-binary,tapınak şovalyesi
@@ -821,18 +1108,26 @@ ClassName,tourist//non-binary,turist
 ClassName,valkyrie//female,valkür
 ClassName,valkyrie//male,valkür
 ClassName,valkyrie//non-binary,valkür
+ClassName,witch//female,
+ClassName,witch//male,
+ClassName,witch//non-binary,
 ClassName,wizard//female,büyücü
 ClassName,wizard//male,büyücü
 ClassName,wizard//non-binary,büyücü
+CompanionName,almiraj,
+CompanionName,astral puppy,
 CompanionName,bird,kuş
+CompanionName,blink puppy,
 CompanionName,cat,kedi
 CompanionName,dog,köpek
 CompanionName,egg,yumurta
 CompanionName,ghoul,gulyabani
+CompanionName,hamster,
 CompanionName,horse,at
 CompanionName,imp,cin
 CompanionName,monkey,maymun
 CompanionName,rat,sıçan
+CompanionName,raven,
 CounterName,afflictions,ızdırap
 CounterName,animations,hareketlenir
 CounterName,anoints,yağlanır
@@ -925,8 +1220,10 @@ DeviceName,fire trap,ateş tuzağı
 DeviceName,grease trap,
 DeviceName,hallucination trap,varsanı tuzağı
 DeviceName,hole,delik
+DeviceName,humantrap,
 DeviceName,hunger trap,açlık tuzağı
 DeviceName,ice trap,buz tuzağı
+DeviceName,ink pool,
 DeviceName,level teleporter,seviye ışınlayıcısı
 DeviceName,lightning trap,şimşek tuzağı
 DeviceName,noxious pool,tehlikeli havuz
@@ -941,6 +1238,7 @@ DeviceName,sleeping gas trap,uyku gazı tuzağı
 DeviceName,spear trap,mızrak tuzağı
 DeviceName,spiked pit,dikenli tuzak
 DeviceName,squeaky board,gıcırdayan tahta
+DeviceName,statue trap,
 DeviceName,teleporter,ışınlayıcı
 DeviceName,toxic trap,zehirli tuzak
 DeviceName,trapdoor,kapak tuzak
@@ -1007,15 +1305,68 @@ EncumbranceName,stressed,aşırı yüklü
 EncumbranceName,unencumbered,tüy gibi yük
 EngulfmentName,engulfed,yutulmuş
 EngulfmentName,swallowed,yutuldu
+EntityDescription,"A blink dog pup, already able to flicker away from danger before it lands a bite.",
+EntityDescription,A bulbous fungus that bursts into a hissing cloud of acid when disturbed.,
+EntityDescription,"A cave bear whose pelt has gone grey as cinders, hardened by years sheltered in a live volcano's roots.",
+EntityDescription,"A cave spider drained of all colour by lightless generations, hunting by web-thrum alone.",
+EntityDescription,"A cobra pale as hoarfrost, coiled in the ice caves where warm-blooded prey seeks shelter.",
+EntityDescription,"A coyote with a static-charged coat, drawn down from the high plains after a lightning storm.",
+EntityDescription,"A dead tree animated by rot and old malice, its bark split open where a jaw shouldn't be.",
+EntityDescription,"A dragon steeped in high magic, said to hoard grimoires as jealously as gold.",
+EntityDescription,A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.,
+EntityDescription,A dwarf of a mountain clan so far north the forge-fires burn blue; one of its twin mattocks bites like the wind off the peak.,
+EntityDescription,A fey hound that flickers between here and elsewhere; it fights alongside anyone it trusts.,
+EntityDescription,"A giant bat with clouded, sightless eyes, navigating wholly by the shriek of its own echo.",
+EntityDescription,"A giant beetle with a carapace of blue-white chitin, breath steaming with cold in the deep dark.",
+EntityDescription,"A giant caked grey with volcanic ash, walking down from a smoking peak with a club still smoking at the tip.",
+EntityDescription,"A giant of the high glaciers, sheathed in rime; its breath alone can flash-freeze a puddle solid.",
+EntityDescription,"A gila monster whose beaded hide glows dull orange along the seams, as if lit from beneath.",
+EntityDescription,"A gnome who never left the deep tunnels, pale and stooped, at ease chewing through rock with a pickaxe.",
+EntityDescription,"A golem cast from bronze rather than raw iron; where its cousin only staggers under a lightning strike, this one drinks the current and spits it back.",
+EntityDescription,"A hound of the Astral plane, half-seen even when it stands still; it does not breathe or bleed.",
+EntityDescription,"A jackal wasted by sickness, its ribs showing through a mangy hide; its bite festers.",
+EntityDescription,A jelly black as a starless sky; things it touches for too long forget how alive they were.,
+EntityDescription,A jelly that glows faintly like a coal; fire only makes it swell larger and angrier.,
+EntityDescription,A jelly that reeks of rot; it dissolves flesh and gear alike to feed itself.,
+EntityDescription,"A jelly the colour of a bruise, faintly crackling; touching it feels like brushing a doorknob after crossing a carpet in winter.",
+EntityDescription,"A jelly the colour of glacier ice, cold to the touch and colder still if it touches back.",
+EntityDescription,"A kobold camouflaged in mottled green, more comfortable in the canopy than underground; it spits venom from a hollow reed.",
+EntityDescription,"A long worm that burrows through permafrost, its segmented hide crusted with rime.",
+EntityDescription,"A lynx with a rime-white winter coat, breath fogging even in a warm room.",
 EntityDescription,A medium-sized creature prone to great ambition. Short-lived but ubiquitous; they are not to be underestimated.,
+EntityDescription,"A panther whose black coat smoulders at the edges, leaving smoking pawprints on stone.",
+EntityDescription,"A plump waterfowl, unbothered by dungeons so long as there is a puddle nearby.",
+EntityDescription,"A pudding of black, viscid tar that oozes and smoulders at once; anything it swallows comes out cindered.",
+EntityDescription,"A raven with feathers like beaten iron, riding the thunderheads and stooping with a crack of static.",
+EntityDescription,"A rodent the size of a dog, cheek pouches bulging with whatever it last found on the floor.",
+EntityDescription,"A sewer rat gone pure white and pink-eyed, blind from generations in unlit tunnels.",
+EntityDescription,"A shade gone pale and crystalline, trailing frost wherever it drifts; the cold pours off it before it ever draws near.",
+EntityDescription,A shambling corpse wrapped in weeping buboes; the sickness that killed it did not stop working when it died.,
+EntityDescription,"A shark bred to lightless ocean trenches, its eyes filmed over and useless.",
+EntityDescription,"A skeleton picked clean by something worse than time; its bones are black at the joints, and its touch draws the warmth out of the living.",
+EntityDescription,A small heap of coins that isn't quite finished counting itself.,
+EntityDescription,"A small, quick-witted dragon out of the fey courts, more prankster than predator.",
+EntityDescription,"A spitting beetle whose glands have gone volcanic, hawking gobbets of burning pitch.",
+EntityDescription,"A standing wave of brackish swamp water, thick with algae and old poison; nothing in it is fresh, and nothing about touching it is safe.",
+EntityDescription,"A troll that wandered too near a volcano and came out the other side wrong: its hide is cracked magma-rock, glowing at every seam.",
+EntityDescription,"A water moccasin gone jet black, all but invisible against a night-flooded cave pool.",
+EntityDescription,"A weathered chest, until its lid splits open into a maw ringed with teeth.",
+EntityDescription,"A young astral dog, still learning to keep all four paws on the material plane at once.",
+EntityDescription,"A young mimic, its shapeshifting still crude — usually just a box that bites back.",
 EntityDescription,"Amorphous beings who have no typical shape but often take on a translucent humanoid form. While unmistakable for anything other than a plasma-like ooze, this form enables the use of clothing and tools.",
 EntityDescription,"An ancient race of towering recluses. Their terrifying size gives them immense strength, supplemented by a voracious diet of meats and minerals.",
+EntityDescription,"An ape with a crackling, wire-taut hide, native to the thunderheads above the high peaks.",
+EntityDescription,"An elf of the sunlit dunes, skin bronzed and eyes narrowed; its arrows are fletched with fire-hardened reed and fly burning.",
+EntityDescription,"An ogre gone half-feral in the fens, its skin sallow and slick; its claws carry a rot no wound-dressing can clean.",
+EntityDescription,An orc mummy exhumed from a barrow sealed under a cinder-field; its wrappings are charred and its grip sears whatever it holds.,
+EntityDescription,"An orc that has made its home in the marshlands, its blade notched and slicked with venom drawn from swamp adders.",
 EntityDescription,"Astral beings who are a vessel for the indomitable spirit of a vanquished adventurer. Having no motivations of their own, they are glad to permit the possession; for the deceased adventurer, it is a second chance at revenge or redemption. Born from astral matter, they are slightly built, translucent and can move freely through physical obstacles.",
 EntityDescription,"Beautiful, otherworldly beings characterised by their signature halo and feathered wings. Strongly attuned to the struggle between good and evil, they sense the divinity within anything they hold.",
 EntityDescription,Beware this clockwork machine of war.,
 EntityDescription,Bipedal mechanical automatons with nearly unbounded artificial intelligence. Powered by a molten core engine that requires a constant supply of raw metals and is susceptible to water damage.,
 EntityDescription,"Fey creatures linked by powerful nature spirits to fuel their antics. They are stocky with furry lower bodies, cloven hooves of a goat and curled horns of a ram. Ribald and clever, they cheerfully lead hedonistic escapades of drinking, dancing and fighting.",
 EntityDescription,"Imposing and heavily built, they resemble humanoid dragons with a snout, scaly hide and functional wings.",
+EntityDescription,"It waits among the headstones shaped like one more grave marker, patient as the dead around it.",
 EntityDescription,"Large, omnivorous reptilians whose bestial ancestors dominated the world long before the birth of civilisation. They are fearsome predators, capable of leaping impressive distances and warding off many attacks with their thick scaly hides.",
 EntityDescription,Monstrous creatures with the head and tail of a bull and the body of a man.,
 EntityDescription,"Perverse creatures of many aberrations but always with crimson skin and horns. Their mere presence compels others to act out their darkest, most violent desires.",
@@ -1033,7 +1384,11 @@ EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.",
 EntityName,abbot,başrahip
+EntityName,abyssal shark,
 EntityName,acid blob,asit birikintisi
+EntityName,acid elemental,
+EntityName,acid sphere,
+EntityName,acid spore,
 EntityName,acid worm,asit solucan
 EntityName,acolyte,rahip yardımcısı
 EntityName,adamantine golem,
@@ -1049,8 +1404,15 @@ EntityName,adult shimmering dragon,yetişkin parlayan ejderha
 EntityName,adult silver dragon,yetişkin gümüş ejderha
 EntityName,adult white dragon,yetişkin beyaz ejderha
 EntityName,adult yellow dragon,yetişkin sarı ejderha
+EntityName,air binder,
 EntityName,air elemental,hava elementseli
+EntityName,air maker,
+EntityName,air seeker,
+EntityName,air sphere,
+EntityName,albino rat,
+EntityName,alchemist,
 EntityName,Aleax,Aleax
+EntityName,almiraj,
 EntityName,ancient black dragon,antik siyah ejderha
 EntityName,ancient blue dragon,antik mavi ejderha
 EntityName,ancient deep dragon,antik koyu ejderha
@@ -1063,6 +1425,7 @@ EntityName,ancient silver dragon,antik gümüş ejderha
 EntityName,ancient white dragon,antik beyaz ejderha
 EntityName,ancient yellow dragon,antik sarı ejderha
 EntityName,angel,melek
+EntityName,angel warrior,
 EntityName,animate object,objeyi hareketlendir
 EntityName,ape,orangutan
 EntityName,Aphrodite,Afrodit
@@ -1070,17 +1433,30 @@ EntityName,apprentice,çırak
 EntityName,arc bug,elektrik böceği
 EntityName,arch-lich,Baş Liş
 EntityName,archangel,başmelek
+EntityName,archeologist,
 EntityName,Archmage Dirachi,Yüce Buz Büyücüsü
 EntityName,Archmage Flaynn,Yüce Ateş Büyücüsü
 EntityName,archon,baş yargıç
 EntityName,Archpriest Avvakrum,Başrahip
+EntityName,army captain,
+EntityName,army lieutenant,
+EntityName,army sergeant,
+EntityName,army soldier,
 EntityName,artisan,esnaf
+EntityName,ash elemental,
+EntityName,ash giant,
+EntityName,ashen cave bear,
+EntityName,ashen mummy,
 EntityName,Ashikaga Takauji,Ashikaga Takauji
 EntityName,Asmodeus,Asmodeus
 EntityName,asphynx,asphynx
+EntityName,assassin,
 EntityName,assassin bug,suikast böceği
 EntityName,Assassin Mortimer,Usta Suikastçi
 EntityName,astral deva,uzaycıl tanrı
+EntityName,astral dog,
+EntityName,astral dragon,
+EntityName,astral puppy,
 EntityName,athol,athol
 EntityName,attendant,katılımcı
 EntityName,Baalzebub,Baalzebub
@@ -1092,6 +1468,7 @@ EntityName,baby deep dragon,bebek derin ejderha
 EntityName,baby gold dragon,
 EntityName,baby green dragon,bebek yeşil ejderha
 EntityName,baby long worm,bebek uzun solucan
+EntityName,baby mimic,
 EntityName,baby orange dragon,uzun turuncu ejderha
 EntityName,baby purple worm,bebek mor solucan
 EntityName,baby red dragon,bebek kırmızı ejderha
@@ -1111,8 +1488,10 @@ EntityName,basilisk,basilisk
 EntityName,bat,yarasa
 EntityName,bearded devil,sakallı iblis
 EntityName,beholder,seyirci
+EntityName,berserker,
 EntityName,bile worm,safra solucanı
 EntityName,bile worm tail,safra solucanı kuyruğu
+EntityName,bishop,
 EntityName,black light,siyah ışık hüzmesi
 EntityName,black marketeer,siyah pazarlamacı
 EntityName,black mould,siyah küf
@@ -1123,26 +1502,37 @@ EntityName,black rat,siyah fare
 EntityName,black troll,siyah troll
 EntityName,black unicorn,siyah tek boynuzlu at
 EntityName,black wasp,siyah eşek arısı
+EntityName,blind cave bat,
+EntityName,blink dog,
+EntityName,blink puppy,
 EntityName,blinking eye,kırpınan göz
 EntityName,blood imp,kanlı cin
 EntityName,bloodshot eye,kanlı göz
 EntityName,bloodworm,kan solucanı
 EntityName,blue jelly,mavi jöle
 EntityName,blue light,
+EntityName,bog ogre,
 EntityName,bone devil,kemik şeytan
+EntityName,bone reaper,
+EntityName,brine elemental,
+EntityName,bronze golem,
 EntityName,brown mould,kahverengi küf
 EntityName,brown pudding,kahverengi puding
 EntityName,brownie,browni
 EntityName,bugbear,savaşçı ayı
 EntityName,bull,boğa
+EntityName,buraq,
 EntityName,burbling blob,köpüklü birikinti
+EntityName,bushi,
 EntityName,byakhee,byakhee
+EntityName,Byakko,
 EntityName,captain,kaptan
 EntityName,carnivorous ape,etobur orangutan
 EntityName,carrion crawler,leş yiyen
 EntityName,caterwaul,çığlıkçı kedi
 EntityName,catoblepas,catoblepas
 EntityName,cave bear,
+EntityName,cave gnome,
 EntityName,cave spider,mağara örümceği
 EntityName,cave troll,mağara trolü
 EntityName,centipede,kırkayak
@@ -1151,6 +1541,7 @@ EntityName,chameleon,bukalemun
 EntityName,changeling,dönüşken
 EntityName,Charon,Charon
 EntityName,chasme,chasme
+EntityName,cherubim,
 EntityName,chickatrice,chickatrice
 EntityName,chicken,tavuk
 EntityName,chief yeoman warder,büyücü başçiftçi
@@ -1170,6 +1561,7 @@ EntityName,crocodile,timsah
 EntityName,Croesus,Croesus
 EntityName,crystal golem,kristal golem
 EntityName,Cthulhu,Cthulhu
+EntityName,cyan jelly,
 EntityName,cyclops,tepegöz
 EntityName,dao,dao
 EntityName,dark cleric,karanlık rahip
@@ -1201,7 +1593,12 @@ EntityName,dracon,
 EntityName,dragon king,ejderha kral
 EntityName,dretch,direç
 EntityName,drow,kara elf
+EntityName,drow mage,
+EntityName,drow monk,
+EntityName,drow priestess,
+EntityName,drow thief,
 EntityName,dryad,orman perisi
+EntityName,duck,
 EntityName,duergar,duergar
 EntityName,dung worm,toprak solucanı
 EntityName,dust vortex,toz fırtınası
@@ -1220,6 +1617,7 @@ EntityName,earth seeker,
 EntityName,earth sphere,
 EntityName,echo,ruh
 EntityName,efreeti,efreeti
+EntityName,elder wizard,
 EntityName,electric eel,yılan balığı
 EntityName,elephant,Fil
 EntityName,elf,elf
@@ -1229,16 +1627,24 @@ EntityName,elf mummy,elf mumya
 EntityName,elf zombie,elf zombi
 EntityName,Elwing,Elwing
 EntityName,embalmer,mumyalayıcı
+EntityName,ember panther,
+EntityName,ember spitting beetle,
 EntityName,emerald golem,
+EntityName,energy elemental,
 EntityName,energy vortex,enerji fırtınası
 EntityName,erinys,erinye
+EntityName,eshim,
 EntityName,ettin,ettin
 EntityName,ettin mummy,mumya ettin
 EntityName,ettin zombie,zombi ettin
+EntityName,explosive elemental,
+EntityName,explosive sphere,
 EntityName,exterminator,yok edici
+EntityName,fae dragon,
 EntityName,fairy,peri
 EntityName,Famine,Kıtlık
 EntityName,Father Dagon,Yüce Dagon
+EntityName,female demon,
 EntityName,fiend,iblis
 EntityName,fire ant,ateş karıncası
 EntityName,fire elemental,ateş elementseli
@@ -1257,16 +1663,24 @@ EntityName,fog cloud,sis bulutu
 EntityName,forest centaur,orman sentoru
 EntityName,fox,tilki
 EntityName,Frankenstein's Monster,Frankenstein'ın Canavarı
+EntityName,frost beetle,
 EntityName,frost binder,dondurucu
+EntityName,frost cobra,
+EntityName,frost dwarf,
 EntityName,frost giant,buz devi
+EntityName,frost long worm,
+EntityName,frost lynx,
 EntityName,frost maker,buz büyücüsü
 EntityName,frost seeker,
 EntityName,frost sphere,donduran küre
+EntityName,frost wraith,
+EntityName,galgalim,
 EntityName,gargoyle,gargoy
 EntityName,garter snake,jartiyerli yılan
 EntityName,gas spore,gaz mantarı
 EntityName,gecko,geko
 EntityName,gelatinous cube,jelatin küp
+EntityName,General Breetai,
 EntityName,genetic engineer,genetik mühendis
 EntityName,Geryon,Geryon
 EntityName,ghast,gast
@@ -1284,6 +1698,7 @@ EntityName,giant crab,dev yengeç
 EntityName,giant eel,dev deniz yılanı
 EntityName,giant flea,dev pire
 EntityName,giant frog,kurbağa
+EntityName,giant hamster,
 EntityName,giant king,dev kral
 EntityName,giant louse,dev bit
 EntityName,giant mimic,dev mimik
@@ -1297,6 +1712,7 @@ EntityName,giant termite,termit
 EntityName,giant tick,dev kene
 EntityName,giant wasp,dev eşek arısı
 EntityName,giant zombie,dev zombi
+EntityName,Gianta Klaus,
 EntityName,gibberling,gibberling
 EntityName,gila monster,gila canavarı
 EntityName,Girtab,Girtab
@@ -1321,8 +1737,10 @@ EntityName,goblin king,mağara cini kralı
 EntityName,gold golem,altın golem
 EntityName,golden naga,altın naga
 EntityName,golden naga hatchling,altın naga yavrusu
+EntityName,grave mimic,
 EntityName,great orc,büyük ork
 EntityName,green elf,yeşil elf
+EntityName,green jelly,
 EntityName,green mould,yeşil küf
 EntityName,green slime,yeşil çamur
 EntityName,gremlin,gremlin
@@ -1338,7 +1756,10 @@ EntityName,guide,rehber
 EntityName,Guildmaster Vaughn,Hırsızlar Ustası
 EntityName,Guru Quilion,Büyük Usta
 EntityName,gypsy,çingene
+EntityName,hag,
 EntityName,halfling,güdük
+EntityName,halfling female caveman,
+EntityName,halfling male caveman,
 EntityName,harpy,harpi
 EntityName,hell hound,cehennem köpeği
 EntityName,hell hound pup,cehennem eniği
@@ -1363,9 +1784,11 @@ EntityName,human,insan
 EntityName,human king,insan kral
 EntityName,human mummy,insan mumya
 EntityName,human zombie,insan zombi
+EntityName,huntress,
 EntityName,hydra,hidra
 EntityName,ice devil,buz şeytanı
 EntityName,ice elemental,buz elementali
+EntityName,ice giant,
 EntityName,ice troll,buz trollü
 EntityName,ice vortex,buz fırtınası
 EntityName,iguana,iguana
@@ -1381,8 +1804,10 @@ EntityName,jackalwere,çakalımsı
 EntityName,jaguar,jaguar
 EntityName,jellyfish,denizanası
 EntityName,jiggling blob,sallanan birikinti
+EntityName,journeyman wizard,
 EntityName,juggernaut,durdurulamayan
 EntityName,Juiblex,Juiblex
+EntityName,jungle kobold,
 EntityName,juvenile raven,genç kuzgun
 EntityName,Kaloi Thrym,Karanlık Lord
 EntityName,kamadan,kamadan
@@ -1408,6 +1833,7 @@ EntityName,kobold warrior,kobold savaşçı
 EntityName,kobold zombie,kobold zombi
 EntityName,komodo dragon,komodo ejderhası
 EntityName,kraken,kraken
+EntityName,Krull,
 EntityName,lamb,kuzu
 EntityName,Lareth,Lareth
 EntityName,large cat,büyük kedi
@@ -1418,6 +1844,7 @@ EntityName,large mimic,büyük mimik
 EntityName,large pile of killer coins,büyük katil sikke yığını
 EntityName,larva,larva
 EntityName,lava blob,magma birikintisi
+EntityName,lava troll,
 EntityName,leather golem,deri golem
 EntityName,lemure,lemur
 EntityName,leocrotta,leocrotta
@@ -1434,6 +1861,7 @@ EntityName,lizardman,kertenkele adam
 EntityName,lizardman berserker,vahşi kertenkele adam
 EntityName,lizardman chieftain,başbuğ kertenkele adam
 EntityName,lizardman mage,büyücü kertenkele adam
+EntityName,lizardman samurai,
 EntityName,lizardman shaman,şaman kertenkele adam
 EntityName,lizardman warrior,savaşçı kertenkele adam
 EntityName,Lolth,Lolth
@@ -1456,18 +1884,24 @@ EntityName,master mind flayer,usta zihin hırsızı
 EntityName,mastodon,mastodon
 EntityName,Maugneshaagar,Maugneshaagar
 EntityName,medusa,medusa
+EntityName,melanistic moccasin,
 EntityName,mellified man,
 EntityName,merchant,tüccar
+EntityName,Merdude,
 EntityName,Metamorphius,Usta Şekil Değiştiren
+EntityName,midnight jelly,
 EntityName,migo drone,migo bekçi
 EntityName,migo queen,migo kraliçe
 EntityName,migo warrior,migo savaşçı
+EntityName,mimic,
+EntityName,mimic coins,
 EntityName,mind flayer,zihin hırsızı
 EntityName,minotaur,minator
 EntityName,minotaur lord,
 EntityName,mist wolf,sis kurtu
 EntityName,mithril golem,mitril golem
 EntityName,mobat,mobat
+EntityName,molten gila monster,
 EntityName,monadic deva,yalnız deva
 EntityName,mongbat,mongbat
 EntityName,monkey,maymun
@@ -1478,6 +1912,7 @@ EntityName,mountain nymph,dağ perisi
 EntityName,movanic deva,ruhsal deva
 EntityName,mugger,soyguncu
 EntityName,mumak,mumak
+EntityName,mystical dragon,
 EntityName,nabassu,nabassu
 EntityName,nalfeshnee,nalfeshnee
 EntityName,Nalzok,Nalzok
@@ -1488,9 +1923,12 @@ EntityName,newt,semender
 EntityName,nickelpede,Yüzayak
 EntityName,nightgaunt,nightgaunt
 EntityName,nightmare,kabus
+EntityName,noble elf,
 EntityName,Norn,Norn
+EntityName,nun,
 EntityName,nupperibo,nupperibo
 EntityName,nurse,hemşire
+EntityName,Nymph Princess,
 EntityName,occultist,hayat büyücüsü
 EntityName,ochre jelly,toprak jöle
 EntityName,ogre,ogre
@@ -1507,6 +1945,7 @@ EntityName,orc grunt,homurdanan ork
 EntityName,orc king,kral ork
 EntityName,orc mummy,mumya ork
 EntityName,orc shaman,şaman ork
+EntityName,orc thief,
 EntityName,orc warrior,savaşçı ork
 EntityName,orc zombie,zombi ork
 EntityName,Orcus,Orcus
@@ -1514,6 +1953,7 @@ EntityName,Orion,Oryon
 EntityName,owlbear,Bayıkuş
 EntityName,pack rat,ev faresi
 EntityName,page,sayfa
+EntityName,pale cave spider,
 EntityName,panther,panter
 EntityName,pantherwere,panterimsi
 EntityName,paper golem,kağıt golem
@@ -1524,6 +1964,10 @@ EntityName,Pelias,Pelias
 EntityName,Pestilence,Hastalık
 EntityName,phase spider,yersiz örümcek
 EntityName,phase worm,yersiz solucan
+EntityName,pheral khit,
+EntityName,pheral pharaoh,
+EntityName,pheral sentinel,
+EntityName,pheral vizier,
 EntityName,pig,domuz
 EntityName,pile of killer coins,katil sikke yığını
 EntityName,piranha,pirana
@@ -1531,10 +1975,13 @@ EntityName,pit bull,pitbull
 EntityName,pit fiend,çukur iblisi
 EntityName,pit viper,çukur engereği
 EntityName,pixie,peri
+EntityName,plague jackal,
+EntityName,plague zombie,
 EntityName,plains centaur,vadi sentoru
 EntityName,Planetar,Gezegencil
 EntityName,plasmoid,
 EntityName,plastic golem,plastik golem
+EntityName,poison alchemist,
 EntityName,pony,midilli
 EntityName,proudfoot,sağlambasan
 EntityName,purple worm,mor solucan
@@ -1554,6 +2001,7 @@ EntityName,rancid jelly,kokan jöle
 EntityName,rat king,fare kral
 EntityName,ratwere,faremsi
 EntityName,recluse spider,kahverengi yalnız örümcek
+EntityName,red jelly,
 EntityName,red light,
 EntityName,red mould,kırmızı küf
 EntityName,red naga,kırmızı naga
@@ -1561,6 +2009,10 @@ EntityName,red naga hatchling,kırmızı naga yavrusu
 EntityName,rhaumbusun,rhaumbusun
 EntityName,rhumbat,rhumbat
 EntityName,robot,
+EntityName,robot female,
+EntityName,robot male vampire gunslinger,
+EntityName,robot sentry,
+EntityName,robot singer,
 EntityName,rock kobold,kaya kobold
 EntityName,rock mole,taş kunduzu
 EntityName,rock piercer,kaya delen
@@ -1570,6 +2022,7 @@ EntityName,roshi,roshi
 EntityName,rot worm,çürük solucanı
 EntityName,rothé,rothé
 EntityName,ruby golem,yakut golem
+EntityName,runicorn,
 EntityName,rust monster,pas canavarı
 EntityName,rutterkin,kavgacıl
 EntityName,sabre-toothed cat,kılıç dişli kedi
@@ -1578,10 +2031,13 @@ EntityName,sandestin,sandestin
 EntityName,sapphire golem,gökyakut golem
 EntityName,sasquatch,kocaayak
 EntityName,satyr,satir
+EntityName,savage brute,
+EntityName,savage stalker,
 EntityName,scorpion,akrep
 EntityName,Scorpius,Scorpius
 EntityName,scramper,çizikçi
 EntityName,seal,
+EntityName,seraphim,
 EntityName,sergeant,çavuş
 EntityName,sewer rat,lağım faresi
 EntityName,shade,gölgelik
@@ -1589,6 +2045,7 @@ EntityName,shadow,gölge
 EntityName,shadow ogre,gölge ogresi
 EntityName,shadow wolf,gölge kurt
 EntityName,Shaman Karnov,Şaman Karnov
+EntityName,shaolin monk,
 EntityName,shark,köpek balığı
 EntityName,sheep,kuzu
 EntityName,shifter,dönüşen
@@ -1599,6 +2056,7 @@ EntityName,shock seeker,
 EntityName,shock sphere,şoklayıcı küre
 EntityName,shoggoth,shoggoth
 EntityName,shrieker,çığıran
+EntityName,silver golem,
 EntityName,Sir Lorimar,Sör Lorimar
 EntityName,skeleton,iskelet
 EntityName,small mimic,küçük mimik
@@ -1610,6 +2068,9 @@ EntityName,snow orc,kar orku
 EntityName,Solar,Yıldızcıl
 EntityName,soldier,asker
 EntityName,soldier ant,asker karınca
+EntityName,sonic elemental,
+EntityName,sonic sphere,
+EntityName,Soul Summoner,
 EntityName,spark bug,kıvılcım böceği
 EntityName,spider queen,örümcek kraliçe
 EntityName,spiderwere,örümceğimsi
@@ -1623,24 +2084,36 @@ EntityName,static blob,hareketsiz birikinti
 EntityName,steam vortex,buhar fırtınası
 EntityName,stone giant,taş dev
 EntityName,stone golem,taş golem
+EntityName,storm ape,
+EntityName,storm coyote,
 EntityName,storm giant,fırtına dev
+EntityName,storm raven,
 EntityName,straw golem,hasır golem
 EntityName,student,öğrenci
 EntityName,succubus,succubus
+EntityName,sun elf,
 EntityName,swamp kobold,bataklık kobold
+EntityName,swamp orc,
+EntityName,tar pudding,
+EntityName,tempter,
+EntityName,temptress,
 EntityName,tengu,tengu
+EntityName,thief,
 EntityName,Thorin,Thorin
 EntityName,Thoth Amon,Thoth Amon
 EntityName,thug,haydut
 EntityName,tiger,kaplan
 EntityName,tigerwere,kaplanımsı
+EntityName,tin golem,
 EntityName,titan,titan
 EntityName,titanothere,titanothere
 EntityName,topaz golem,
 EntityName,tortle,
 EntityName,tracker,avcı
+EntityName,trader,
 EntityName,transmuter,dönüştürücü
 EntityName,trapper,tuzakçı
+EntityName,traveller,
 EntityName,treant,
 EntityName,troll,troll
 EntityName,troll mummy,troll mumya
@@ -1658,6 +2131,7 @@ EntityName,vampire mage,vampir büyücü
 EntityName,Van Helsing,Van Helsing
 EntityName,Vecna,Vecna
 EntityName,violet fungus,mor mantar
+EntityName,violet jelly,
 EntityName,vorpal jabberwock,ölümcül jabberwock
 EntityName,vrock,vrock
 EntityName,war orc,savaş orku
@@ -1687,6 +2161,7 @@ EntityName,weretiger,kaplanadam
 EntityName,werewolf,kurtadam
 EntityName,white unicorn,beyaz tek boynuzlu at
 EntityName,wight,insancıl
+EntityName,wind sphere,
 EntityName,winged gargoyle,kanatlı gargoy
 EntityName,winter wolf,kış kurtu
 EntityName,winter wolf cub,kış kurdu yavrusu
@@ -1722,6 +2197,7 @@ EntityName,young shimmering dragon,genç parlayan ejderha
 EntityName,young silver dragon,genç gümüş ejderha
 EntityName,young white dragon,genç beyaz ejderha
 EntityName,young yellow dragon,genç sarı ejderha
+EntityName,zombietree,
 EntityName,zruty,zruty
 EquipAction,employ,yerleştir
 EquipAction,purse,keseye koy
@@ -1763,9 +2239,15 @@ FeatureName,bed,yatak
 FeatureName,fountain,çeşme
 FeatureName,grave,mezar
 FeatureName,pentagram,pentagram
+FeatureName,pyramid,
 FeatureName,sarcophagus,lahit
+FeatureName,sink,
 FeatureName,stall,ahır
 FeatureName,throne,taht
+FeatureName,toilet,
+FeatureName,wooden sign,
+FeatureName,wooden stool,
+FeatureName,wooden table,
 FeatureName,workbench,çalışma masası
 FormatText,{ActionCount} action,{ActionCount} eylem
 FormatText,{ActionCount} actions,{ActionCount} eylem
@@ -2056,13 +2538,17 @@ GradeName,exotic,
 GradeName,standard,
 GroundDescription,The cool stone surface has immaculate craftsmanship but is marked by damage and time.,Soğuk taş yüzeyi usta eller tarafından kazılmış ama zamanla hasar görmüş.
 GroundName,cave floor,
+GroundName,cave path,
 GroundName,chasm,
+GroundName,cloud,
+GroundName,deep water,
 GroundName,dirt,toprak zemin
 GroundName,gold floor,
 GroundName,granite floor,
 GroundName,grass,
 GroundName,hive floor,kovan zemin
 GroundName,ice,buz
+GroundName,lattice floor,
 GroundName,lava,lava
 GroundName,marble floor,mermer zemin
 GroundName,metal floor,
@@ -2070,33 +2556,51 @@ GroundName,moss,
 GroundName,obsidian floor,obsidyen zemin
 GroundName,sand,
 GroundName,sewer floor,
+GroundName,shallow water,
 GroundName,snow,
 GroundName,stone floor,taş zemin
 GroundName,stone path,taş koridor
 GroundName,water,su
 GroundName,wooden floor,
+HordeName,acid foundry,
+HordeName,air foundry,
+HordeName,albino rat,
+HordeName,angelic choir,
 HordeName,ant,karınca
 HordeName,ape,goril
+HordeName,army patrol,
+HordeName,army platoon,
+HordeName,army squad,
+HordeName,ash foundry,
+HordeName,astral dog,
 HordeName,bat,yarasa
 HordeName,bee,arı
 HordeName,beetle,
+HordeName,blink dog,
+HordeName,brine foundry,
 HordeName,cockroach,hamam böceği
 HordeName,couatl,couatl
 HordeName,coyote,tilki
 HordeName,demon,iblis
 HordeName,drow,kara elf
+HordeName,drow enclave,
 HordeName,dwarf,bodur
 HordeName,electric bug,
 HordeName,elf,elf
+HordeName,energy foundry,
+HordeName,explosive foundry,
 HordeName,flea,pire
 HordeName,garter snake,jartiyerli yılan
 HordeName,gibberling,gibberling
 HordeName,gnome,cüce
 HordeName,goblin,mağara cini
+HordeName,golem workshop,
 HordeName,grimlock,grimlock
 HordeName,harpy,harpi
+HordeName,heavenly host,
 HordeName,hell hound,cehennem köpeği
 HordeName,jackal,çakal
+HordeName,jelly cistern,
 HordeName,keystone,
 HordeName,kobold,kobold
 HordeName,lemure,lemur
@@ -2105,14 +2609,20 @@ HordeName,louse,bit
 HordeName,mane,mane
 HordeName,mangler,mengeneci
 HordeName,migo,migo
+HordeName,mimic nest,
 HordeName,mould,küf
 HordeName,ogre,ogre
 HordeName,orc,ork
+HordeName,pheral tomb,
+HordeName,plague jackal,
 HordeName,rat,fare
 HordeName,rothé,rothé
 HordeName,scorpion,akrep
+HordeName,sonic foundry,
 HordeName,spider,örümcek
 HordeName,spore,mantar
+HordeName,storm coyote,
+HordeName,tar pudding,
 HordeName,termite,
 HordeName,tick,kene
 HordeName,tsetse fly,çeçe sineği
@@ -2124,15 +2634,36 @@ HordeName,wolf,kurt
 HordeName,worm,solucan
 HordeName,yeoman,çiftçi
 HordeName,zombie,zombi
+ItemDescription,"A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.",
+ItemDescription,"A barbed iron hook on a long coil of rope, thrown out and hauled back in.",
+ItemDescription,"A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.",
+ItemDescription,"A branched silver candle-holder, its every arm lit at once.",
+ItemDescription,"A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.",
+ItemDescription,"A canvas roll of bandages, salves and sutures for treating wounds in the field.",
+ItemDescription,"A ceremonial double-bitted axe, its twin blades curved like a crescent moon.",
+ItemDescription,"A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.",
+ItemDescription,"A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.",
 ItemDescription,A cloth mask that completely obstructs the wearer's vision.,
 ItemDescription,"A collection of utensils, including empty tins and butchering tools, for packing corpses so as to condense them.",
 ItemDescription,A compact hand-held firearm.,
+ItemDescription,"A crudely hammered throwing disc with a jagged, uneven rim, more likely to tear than to cut cleanly.",
+ItemDescription,"A curved funerary blade inlaid with gold, once carried by a pharaonic guardian charged with keeping the dead in their tombs.",
+ItemDescription,"A curved single-edged blade mounted on a long oaken shaft, prized by the warrior monks of the far east.",
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.",
 ItemDescription,A curved single-edged blade often used by cavalry.,
 ItemDescription,A curved yellow fruit and a great source of fibre.,
+ItemDescription,A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.,
+ItemDescription,A fine-grained stone for putting an edge back on a tired blade.,
+ItemDescription,"A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.",
+ItemDescription,A flat black stone used since antiquity to tell real gemstones from paste and glass.,
+ItemDescription,A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.,
 ItemDescription,"A flat throwing weapon made of wood, often used for hunting.",
 ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.",
+ItemDescription,"A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.",
 ItemDescription,A foreign device which creates perfect visual depictions of reality.,
+ItemDescription,"A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.",
+ItemDescription,"A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.",
+ItemDescription,"A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.",
 ItemDescription,A hand-held brass horn.,
 ItemDescription,"A hard rock, smooth and therefore aerodynamic.",
 ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,
@@ -2140,10 +2671,16 @@ ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.",
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.",
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,Özellikle yakın dövüş için tasarlanmış ağır demir bir çekiç.
 ItemDescription,A heavy suit of armour made up of many strips of metal.,
+ItemDescription,"A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.",
 ItemDescription,"A horizontal, mechanically-aided bow and arrow with a shoulder stock.",
 ItemDescription,A key designed to open all mundane locks.,
+ItemDescription,"A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.",
 ItemDescription,"A leather pouch set between two cords, meant for launching small projectiles.",
+ItemDescription,"A length of sturdy rope with a clasp, for keeping a tame animal close at hand.",
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.",
+ItemDescription,"A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.",
+ItemDescription,A long cane rod strung with line and hook. Best used beside open water.,
+ItemDescription,"A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.",Fırlatılabilir olması için ağırlaştırılmış uzun demir bir bıçak.
 ItemDescription,A long pipe meant for shooting darts through force of breath.,
 ItemDescription,A long thrusting polearm best suited to mounted combat.,Binek üstünde kullanılması için tasarlanmış mızrağımsı uzun sırık.
@@ -2151,68 +2688,110 @@ ItemDescription,A long-shafted arrow with a distinctive tip.,
 ItemDescription,"A long, flexible leather thong. Unexpectedly sharp.",
 ItemDescription,"A long, flowing garment, with long sleeves and a hood.",
 ItemDescription,A mace that is spiked on its head.,
+ItemDescription,"A massive adamantine maul, its head as large as a barrel stave, that shrugs off the recoil of its own swing.",
+ItemDescription,"A massive, mithril-shod maul, its head as large as a barrel stave.",
 ItemDescription,A meal made from the stomach lining of an animal.,
+ItemDescription,"A miniature crossbow of elven design, light enough to be drawn and fired one-handed without a stirrup.",
+ItemDescription,"A monstrous greatsword forged with three parallel blades fused along a single spine, each edge catching the light at a different angle.",
 ItemDescription,"A package of preserved meats, all dried and chewy.",
+ItemDescription,"A pair of gauntlets ringed with jagged knuckle-spikes, made to turn a punch into a wound.",
+ItemDescription,A pair of solid iron-plated boots that guard the shin and instep at the cost of a good deal of weight.,
 ItemDescription,A pair of sturdy leather boots which extend upward until just below the knee.,
 ItemDescription,A pair of sturdy leather boots which extend upwards to just above the ankle.,
+ItemDescription,"A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.",
+ItemDescription,"A physician's instrument for listening to a heartbeat -- yours, or something else's.",
+ItemDescription,"A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.",
+ItemDescription,"A plain, undyed shirt of woven cloth, worn under armour or on its own.",
 ItemDescription,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.",
 ItemDescription,A pointed metal cylinder meant to be discharged from a firearm.,
+ItemDescription,A polished sheet of silvered glass. Some things recoil from their own reflection.,
 ItemDescription,A portable source of light fashioned out of copper and fuelled by oil.,
 ItemDescription,A projectile consisting of a wooden shaft with a sharp metal tip at its front and stabilising fins at its rear.,
+ItemDescription,"A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.",
 ItemDescription,A righteous sword forged by a revered blacksmith many years ago who set out to hone his craft and to create the ultimate blade. The noble intent of its creator lingers in this weapon to cut down the wicked and protect the innocent.,
+ItemDescription,A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.,
 ItemDescription,"A sanctimonious biscuit. A miracle to the meek, a scourge to the undead.",
 ItemDescription,"A semi-rigid weapon made up of a notched wooden shaft with a drawstring attached to both ends, used to launch arrows.",
+ItemDescription,"A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.",
 ItemDescription,A sharp iron wedge fashioned to a sturdy handle.,
 ItemDescription,"A sharp metal throwing weapon, smaller than a hand and shaped like a star.",
 ItemDescription,A short and light double-edged blade.,
+ItemDescription,"A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.",
+ItemDescription,"A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.",
+ItemDescription,"A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.",
 ItemDescription,"A slimy, scaly sea creature, in its entirety. Good for a meal.",
 ItemDescription,A small cutting utensil made of metal with a wooden handle.,
+ItemDescription,A small glass vial holding a captive mote of light.,
+ItemDescription,A small hooked blade made for prying the lid off a sealed tin.,
 ItemDescription,A small iron tool designed for opening all sorts of locks.,
 ItemDescription,A small missile with a pointed tip meant for throwing.,
 ItemDescription,A small missile with a reservoir of liquid delivered through a hollow pointed tip.,
+ItemDescription,"A small, chalky tablet of uncertain origin. Best swallowed quickly.",
+ItemDescription,"A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.",
+ItemDescription,"A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.",
 ItemDescription,"A soft-brimmed hat, somewhat out of fashion.",
 ItemDescription,A sophisticated bludgeon with a heavy iron head.,
 ItemDescription,A spacious bag made of incredibly stretchy cotton.,
 ItemDescription,A spacious cloth bag.,
+ItemDescription,"A staff of living, unworked rock. What shapes matter cannot itself be unmade.",
 ItemDescription,A stick of cured meat.,
 ItemDescription,"A stick of highly explosive material, with a short fuse on one end.",
+ItemDescription,A stone infused with restorative magic. It crumbles a little more each time it is used.,
+ItemDescription,A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.,
+ItemDescription,"A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.",
 ItemDescription,"A straight, double-edged and often cruciform blade.",
+ItemDescription,"A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.",
 ItemDescription,A sturdy and solid mineral.,
 ItemDescription,A suit of armour made from metal rings sewn onto a foundation of leather or cloth.,halkalı zırhlar deri veya kumaştan bir taban üzerine bireysel halkaların takılmasıyla oluşur
+ItemDescription,"A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.",
 ItemDescription,"A surviving portion of the legendary wall of Verimurus, an ancient elven city said to have lasted since time immemorial. However, not even the mightiest walls could withstand the endless onslaught of the dragons. Now the enchanted walls stand alone over the land that once held them.",
 ItemDescription,"A sweet citrus fruit, coloured eponymously.",
 ItemDescription,"A sweet custard-filled pie with a thin crust, topped with whipped cream.",
 ItemDescription,"A sweet, round fruit, of the red variety. Reportedly a great supplement to your physical health.",
+ItemDescription,"A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.",
 ItemDescription,"A tall, asymmetric bow.",
+ItemDescription,"A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.",
 ItemDescription,"A thick leather coat, constructed to withstand weather and wear.",
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.",
+ItemDescription,"A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,
+ItemDescription,A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.,
 ItemDescription,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.",
 ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.",
+ItemDescription,"A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.",
 ItemDescription,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,
 ItemDescription,An ambiguous curiosity. It seems edible.,
 ItemDescription,An article of leather clothing covering the torso that hangs around the neck and on the shoulders.,
 ItemDescription,An article of waterproof cotton clothing covering the torso that hangs around the neck and on the shoulders.,
+ItemDescription,"An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.",
 ItemDescription,An elven travel food. It is incredibly satiating.,
+ItemDescription,"An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.",
 ItemDescription,An extremely sharp little blade used for precise incisions.,
 ItemDescription,An inconspicuous snack that tells deep secrets.,
 ItemDescription,An iron projectile made up of a shaft with a sharpened square-pyramid tip.,
+ItemDescription,"An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.",
 ItemDescription,"An orange root-vegetable, commonly believed to improve eyesight.",
+ItemDescription,"An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.",
 ItemDescription,"Boiled leather, moulded into a bodily shape to be donned as light armour.",
 ItemDescription,"Bold, or just tacky?",
 ItemDescription,Chain mail consists of a mesh of metal rings interlinked to form a flexible armour.,Örme zincir zırh birbirine geçirilmiş halkalardan oluşan esnek bir zırhtır.
+ItemDescription,"Fate itself bends around the wearer, keeping them exactly where the blow cannot land.",
 ItemDescription,"Forged deep underground by dwarven hands, this blade was made to slay the scaled beasts who sought to steal their treasures. Throughout the long years this blade has bathed in the blood of its winged prey. Now almost forgotten, it yearns again for the taste of dragon flesh.",
 ItemDescription,"Gazing into its crimson depths you can see the concentrated life essence of countless victims swirling inside of it. The artifact was completed in the moment of the creators' death, as his soul was claimed by his creation. Now residing among the souls of his former victims, his essence as an alchemist provides the stone with ultimate transmutative powers.",
+ItemDescription,"Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.",
 ItemDescription,Its high-quality elvish manufacture makes for an effective close combat weapon.,Yüksek kalite elf yapımı olması ona yakın dövüş için etkili kılıyor.
 ItemDescription,Leather armour with close-set studs so as to offer more protection.,
 ItemDescription,"Like a smaller variant of the katana, often used as a side-arm.",
+ItemDescription,"Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.",
 ItemDescription,One segment of a particularly pungent and bulbous herb.,
 ItemDescription,Standard issue protective metal headgear.,
+ItemDescription,"Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.",
 ItemDescription,"Sturdy leather garments fitted firm onto the hands, sheathing each finger individually.",
 ItemDescription,The final sword forged by a once respected blacksmith who lost himself in the depths of the dungeon. His warped soul now inhabits this blade and lusts for blood. It is said that the one who wields this sword is coerced into cutting down friend and foe alike.,
 ItemDescription,The head of a ranseur consists of a spear-tip affixed with a cross hilt at its base.,Ransür mızraklarının başlarında ucuna çapraz kalan korumalar olur.
 ItemDescription,The only coin that can be found and spent in the dungeon.,Zindanda bulabileceğin ve kullanabileceğin tek sikke.
 ItemDescription,The snipped segment of a plant known for its antilycanthropic properties.,
+ItemDescription,"The spiral horn of a unicorn, its magic bound permanently into the artifact rather than spent in a single burst.",
 ItemDescription,The wearer will occasionally fly into uncontrollable rage lashing out at both friend and foe.,Kuşanan arada sırada kontrol edilemez bir öfkeye kapılıp dostu düşmandan ayırt edemeyecek.
 ItemDescription,This ancient artifact is a marvel to behold with exquisite craftsmanship and unbridled digging power.,Bu gözleri hayrete düşüren antik eser ustalıkla yapılmış ve dizginlenemez kazma gücüne sahip.
 ItemDescription,"This axe is specifically designed to facilitate deep, grievous wounds in combat. This large weapon is wielded in both hands.",Derin yaralar açmak için tasarlanmış bu balta iki elle kullanılır.
@@ -2221,6 +2800,7 @@ ItemDescription,This convenient vial of ink can be used to replenish your marker
 ItemDescription,This crudely made blade is still an effective throwing weapon.,Kabaca yapılmış olmasına rağmen bu bıçak etkili bir fırlatma silahı.
 ItemDescription,This curious artifact somehow chastens those it strikes and submits them to your will.,Bu eserden darbe alanlar ehlileşir ve sana itaat ederler.
 ItemDescription,This dwarvish manufactured sword is sturdy and suited to being wielded in the offhand.,Bodurlar tarafından yapılmış bu kılıç sağlam ve ikinci elle kullanmaya uygun.
+ItemDescription,"This dwarvish punching blade is forged thicker than most, its crossbar reinforced to survive a full-strength thrust.",
 ItemDescription,This gemstone is made from hardened tree sap.,Bu mücevher sertleşmiş ağaç özütünden yapıldı.
 ItemDescription,This glowing looking glass reveals glimpses of the future and corrupts your soul.,Bu parlayan cam geleceği gösterir ve ruhunu çürütür.
 ItemDescription,This hammer is a four-pronged head mounted atop a long polearm stick. It bears a long spike on its reverse and an even longer spike extending from the very top. It proves effective at puncturing or smashing armour as well as dismounting riders.,Uzun sopalı dört köşeli bu çekicin arkasında uzun ve üstünde daha uzun bir diken var. Zırhları ezmekte veya delmekte ve binicileri indirmekte etkili bir silah.
@@ -2250,6 +2830,7 @@ ItemDescription,This weapon consists of a spearhead mounted on a long wooden sha
 ItemDescription,"This weapon is a curved blade attached to a pole by binding the lower two-thirds of the blade to the side of the pole, to form a sort of axe.",Eğri bir kılcın içte ikisinin uzun bir sırığa bağlanmasıyla balta gibi bir silah olmuştur.
 ItemDescription,This withered hand is the last remnant of an ancient and powerful lich.,
 ItemDescription,Tiny metal spikes thrown to the ground to impede mobility.,
+ItemDescription,"Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.",
 ItemDescription,Winged sandals made of imperishable gold which fly the wearer swiftly and silently.,
 ItemDescription,Zapping it at a wall creates a big tunnel.,Bir duvara karşı kullanmak büyük bir tünel açar.
 ItemName,adamantine arrow,
@@ -2257,16 +2838,25 @@ ItemName,adamantine axe,
 ItemName,adamantine bident,
 ItemName,adamantine bow,
 ItemName,adamantine bullet,
+ItemName,adamantine crossbow bolt,
 ItemName,adamantine dagger,
 ItemName,adamantine dart,
 ItemName,adamantine greataxe,
+ItemName,adamantine greatmace,
 ItemName,adamantine greatsword,
 ItemName,adamantine hatchet,
+ItemName,adamantine helm,
+ItemName,adamantine helmet,
+ItemName,adamantine katana,
+ItemName,adamantine lance,
 ItemName,adamantine long sword,
 ItemName,adamantine plate mail,
+ItemName,adamantine poleaxe,
+ItemName,adamantine quarterstaff,
 ItemName,adamantine rapier,
 ItemName,adamantine sabre,
 ItemName,adamantine short sword,
+ItemName,adamantine shuriken,
 ItemName,adamantine spear,
 ItemName,adamantine two-handed sword,
 ItemName,agate,akik
@@ -2300,8 +2890,10 @@ ItemName,Backpack,çanta
 ItemName,bag of holding,taşıma çantası
 ItemName,bag of tricks,numara çantası
 ItemName,banana,muz
+ItemName,bandage,
 ItemName,banded mail,bağlı zırh
 ItemName,bardiche,bardiche
+ItemName,baseball bat,
 ItemName,battle robe,
 ItemName,battle staff,
 ItemName,battle-axe,savaş baltası
@@ -2322,68 +2914,229 @@ ItemName,blowgun,
 ItemName,blue dragon scale mail,mavi ejderha pul zırhı
 ItemName,blue dragon scales,mavi ejderha pulları
 ItemName,blue glass bauble,mavi cam
+ItemName,book of acid splash,
 ItemName,book of acid stream,asit akıntısı kitabı
 ItemName,book of animate dead,
 ItemName,book of animate object,
+ItemName,book of arc conduit,
+ItemName,book of arcane blight,
+ItemName,book of arcane whetstone,
+ItemName,book of arcing bolt,
+ItemName,book of artificer's exchange,
+ItemName,book of atonement,
+ItemName,book of augury,
+ItemName,book of bane,
+ItemName,book of banshee wail,
+ItemName,book of barring ward,
+ItemName,book of battle fury,
 ItemName,book of bind undead,yürüyen ölü tasmalama kitabı
+ItemName,book of binding sphere,
+ItemName,book of black ice patch,
+ItemName,book of black plague,
+ItemName,book of blade blessing,
 ItemName,book of blank paper,boş kağıttan kitap
+ItemName,book of bless,
 ItemName,book of blinking,
+ItemName,book of blurred form,
+ItemName,book of call of the pack,
+ItemName,book of calm,
+ItemName,book of caltrop swarm,
 ItemName,book of cancellation,iptalleme kitabı
+ItemName,book of causeway,
+ItemName,book of chain lightning,
+ItemName,book of changeless ward,
 ItemName,book of charm,cezbetme kitabı
+ItemName,book of chill grasp,
+ItemName,book of chromatic orb,
 ItemName,book of clairvoyance,basiret kitabı
+ItemName,book of claybind touch,
+ItemName,book of clear sight,
+ItemName,book of clouded mind,
+ItemName,book of command,
+ItemName,book of commune,
+ItemName,book of concussive blast,
 ItemName,book of cone of cold,buz konisi kitabı
 ItemName,book of confusion,kafa karışıklığı kitabı
+ItemName,book of conjure barricade,
+ItemName,book of conjure boulder,
+ItemName,book of conjure guardian,
+ItemName,book of conjure homunculus,
+ItemName,book of conjure mount,
+ItemName,book of conjured pit,
+ItemName,book of consecration,
+ItemName,book of contagion,
+ItemName,book of corpse explosion,
+ItemName,book of corroding ray,
 ItemName,book of create familiar,koruyucu ruh çağırma kitabı
+ItemName,book of creeping palsy,
+ItemName,book of crimson ichor lance,
 ItemName,book of crushing sphere,
 ItemName,book of curing,şifa kitabı
+ItemName,book of danger sense,
 ItemName,book of darkness,karanlık kitabı
+ItemName,book of daze,
+ItemName,book of death ward,
+ItemName,book of death's bargain,
+ItemName,book of deathwatch,
 ItemName,book of deflection,koruma kitabı
 ItemName,book of detect food,yiyecek bulma kitabı
+ItemName,book of detect metal,
 ItemName,book of detect monsters,canavarları saptama kitabı
 ItemName,book of detect treasure,hazine saptama kitabı
+ItemName,book of detect undead,
 ItemName,book of detect unseen,görülmeyeni saptama kitabı
 ItemName,book of dig,kazma kitabı
+ItemName,book of disarming ward,
+ItemName,book of discord,
 ItemName,book of disintegrate,ufalama kitabı
+ItemName,book of dispel magic,
+ItemName,book of displacement,
+ItemName,book of divine favor,
+ItemName,book of divine intervention,
+ItemName,book of dominate mind,
 ItemName,book of drain life,can emme kitabı
+ItemName,book of earthen colossus,
+ItemName,book of elemental servant,
+ItemName,book of elemental warding,
+ItemName,book of ember lance,
+ItemName,book of enlarge,
+ItemName,book of entangling vines,
+ItemName,book of entropic siphon,
 ItemName,book of extra healing,fazladan iyileştirme kitabı
+ItemName,book of false life,
 ItemName,book of fear,korku kitabı
+ItemName,book of find doors,
+ItemName,book of find traps,
 ItemName,book of finger of death,ölümcül parmak kitabı
 ItemName,book of fireball,ateş topu kitabı
 ItemName,book of flaming sphere,ateş küresi kitabı
 ItemName,book of force bolt,güç ışını kitabı
+ItemName,book of foreknowledge,
+ItemName,book of freedom,
+ItemName,book of freedom of movement,
 ItemName,book of freezing sphere,donduran küre kitabı
+ItemName,book of frost breath,
 ItemName,book of full healing,
+ItemName,book of gate,
+ItemName,book of gilding touch,
+ItemName,book of glacial spike,
+ItemName,book of grasping mind,
+ItemName,book of grave rot,
+ItemName,book of gravity well,
+ItemName,book of guided path,
+ItemName,book of harvest of souls,
 ItemName,book of haste,çabukluk kitabı
+ItemName,book of hazard sense,
 ItemName,book of healing,iyileştirme kitabı
+ItemName,book of hex,
+ItemName,book of hexbind,
+ItemName,book of hideous laughter,
+ItemName,book of hold monster,
+ItemName,book of hold person,
+ItemName,book of holy word,
 ItemName,book of ice storm,buz fırtınası kitabı
 ItemName,book of identify,tanımlama kitabı
+ItemName,book of inner calm,
 ItemName,book of invisibility,görünmezlik kitabı
+ItemName,book of iron will,
+ItemName,book of ironbind door,
+ItemName,book of juggernaut ray,
 ItemName,book of jumping,sıçrama kitabı
+ItemName,book of keen search,
 ItemName,book of knock,tıklama kitabı
+ItemName,book of legion of bone,
 ItemName,book of levitation,havaya yükselme kitabı
 ItemName,book of light,ışık kitabı
 ItemName,book of lightning bolt,şimşek kitabı
 ItemName,book of living wall,yaşayan duvar kitabı
 ItemName,book of magic mapping,büyülü haritalama kitabı
 ItemName,book of magic missile,büyü ışını kitabı
+ItemName,book of meteoric cataclysm,
+ItemName,book of mind ken,
+ItemName,book of mind link,
+ItemName,book of mind spike,
+ItemName,book of mindrend,
+ItemName,book of mirror ward,
+ItemName,book of neutralize poison,
+ItemName,book of oracle's eye,
+ItemName,book of owl eyes,
+ItemName,book of petrifying touch,
 ItemName,book of phasing,
+ItemName,book of planar anchor,
+ItemName,book of planar swap,
 ItemName,book of poison blast,zehir patlaması kitabı
 ItemName,book of polymorph,şekil değiştirme kitabı
+ItemName,book of porter's reach,
+ItemName,book of prayer,
+ItemName,book of premonition,
+ItemName,book of prismatic spray,
+ItemName,book of psychic shove,
 ItemName,book of raise dead,ölüyü canlandırma kitabı
+ItemName,book of rally cry,
+ItemName,book of ray of enfeeblement,
+ItemName,book of reap,
 ItemName,book of regenerate,
 ItemName,book of remove curse,lanet kaldırma kitabı
+ItemName,book of repelling ward,
+ItemName,book of repulsion,
 ItemName,book of restoration,kabiliyeti geri kazanma kitabı
+ItemName,book of revelation,
+ItemName,book of sanctuary,
+ItemName,book of scalding cloud,
+ItemName,book of searing light,
+ItemName,book of sense curse,
+ItemName,book of sense the restless,
+ItemName,book of sentinel ward,
+ItemName,book of shimmer shield,
 ItemName,book of shocking sphere,
+ItemName,book of shrink,
+ItemName,book of silence,
+ItemName,book of simulacrum,
 ItemName,book of sleep,uyku kitabı
+ItemName,book of slick detonation,
+ItemName,book of slipping free,
 ItemName,book of slow,yavaşlama kitabı
 ItemName,book of soaking sphere,
+ItemName,book of song of discord,
+ItemName,book of spark bolt,
+ItemName,book of spectral shroud,
+ItemName,book of spirit leech,
+ItemName,book of spirit shield,
+ItemName,book of starfall,
+ItemName,book of steadfast ward,
+ItemName,book of stone to flesh,
+ItemName,book of stoneskin,
 ItemName,book of summoning,çağırma kitabı
+ItemName,book of sunburst smite,
+ItemName,book of sunder gear,
+ItemName,book of swoon,
 ItemName,book of telekinesis,
+ItemName,book of telekinetic shove,
 ItemName,book of teleport away,ıraklara ışınlama kitabı
+ItemName,book of thunderclap,
+ItemName,book of timed combustion,
+ItemName,book of tongue tied,
 ItemName,book of toxic spray,zehir püskürtme kitabı
+ItemName,book of transmuter's mastery,
+ItemName,book of true appraisal,
 ItemName,book of turn undead,yürüyen ölü kitabı
+ItemName,book of unbinding,
+ItemName,book of undying ward,
+ItemName,book of unseen hand,
+ItemName,book of vampiric feast,
+ItemName,book of veil of shadows,
+ItemName,book of wall breach,
+ItemName,book of wall of thorns,
 ItemName,book of walling,
+ItemName,book of ward of return,
+ItemName,book of warning ward,
+ItemName,book of web snare,
+ItemName,book of whispers of madness,
+ItemName,book of wildfire brand,
+ItemName,book of wither,
+ItemName,book of withering ray,
 ItemName,book of wizard lock,büyü kilidi kitabı
+ItemName,book of world vision,
 ItemName,boomerang,bumerang
 ItemName,bow,yay
 ItemName,brass bugle,
@@ -2397,9 +3150,13 @@ ItemName,bullwhip,kırbaç
 ItemName,c-ration,c-kumanya
 ItemName,caltrops,boğadikeni
 ItemName,can of grease,
+ItemName,candelabrum,
 ItemName,candy bar,şeker kutusu
 ItemName,Carapace,Kabuk
 ItemName,carrot,havuç
+ItemName,Celestial Doom,
+ItemName,Celestial Kismet,
+ItemName,Celestial Portent,
 ItemName,chain barding,zincir zırh takımı
 ItemName,chain mail,örme zincir zırh
 ItemName,chakram,
@@ -2415,6 +3172,7 @@ ItemName,cloak of deflection,korunma pelerini
 ItemName,cloak of displacement,yersizlik pelerini
 ItemName,cloak of invisibility,görünmezlik pelerini
 ItemName,cloak of magic resistance,büyü direnci pelerini
+ItemName,cloth shirt,
 ItemName,clove of garlic,bir diş sarımsak
 ItemName,club,lobut
 ItemName,Colossal Excavator,Devasa Kazıcı
@@ -2422,18 +3180,22 @@ ItemName,cornuthaum,cornuthaum
 ItemName,costume earrings,
 ItemName,cram ration,atıştırma kumanyası
 ItemName,cream pie,kremalı turta
+ItemName,credit card,
 ItemName,Creeping Sprout,
+ItemName,crimson cloak,
 ItemName,crossbow,arbalet
 ItemName,crossbow bolt,Arbalet oku
 ItemName,crysknife,arrakis dişinden bıçak
 ItemName,crystal ball,kristal top
 ItemName,crystal plate mail,kristal plaka zırh
 ItemName,dagger,hançer
+ItemName,darkstone,
 ItemName,dart,dart
 ItemName,Deadwood,
 ItemName,Deagle,
 ItemName,deep dragon scale mail,derin ejderha pul zırhı
 ItemName,deep dragon scales,derin ejderha pulları
+ItemName,Demiurge,
 ItemName,dented pot,çökük tencere
 ItemName,detonation key,
 ItemName,diamond,elmas
@@ -2441,6 +3203,8 @@ ItemName,dilithium crystal,dilityum kristali
 ItemName,dimension key,
 ItemName,Dire Needle,
 ItemName,disencumbrance boots,
+ItemName,doublet,
+ItemName,dragon horn,
 ItemName,Dragonbane,Ejderboğan
 ItemName,dread staff,dehşet değneği
 ItemName,Drilanze,
@@ -2453,6 +3217,7 @@ ItemName,drum of earthquake,deprem davulu
 ItemName,dunce cap,aptal kepi
 ItemName,dwarvish cloak,bodur pelerini
 ItemName,dwarvish iron helm,bodur demir kaskı
+ItemName,dwarvish katar,
 ItemName,dwarvish mattock,bodur kazması
 ItemName,dwarvish mithril-coat,mitril bodur ceketi
 ItemName,dwarvish roundshield,bodur yuvarlak kalkan
@@ -2465,8 +3230,10 @@ ItemName,elven arrow,elf oku
 ItemName,elven boots,elf botu
 ItemName,elven bow,elf yayı
 ItemName,elven broadsword,elf geniş kılıcı
+ItemName,elven chakram,
 ItemName,elven cloak,elf pelerini
 ItemName,elven dagger,elf hançeri
+ItemName,elven hand crossbow,
 ItemName,elven leather helm,deri elf kaskı
 ItemName,elven mithril-coat,elf mitril ceketi
 ItemName,elven shield,elf kalkanı
@@ -2477,11 +3244,14 @@ ItemName,Escapist,
 ItemName,eucalyptus leaf,okaliptüs yaprağı
 ItemName,expensive camera,pahalı kamera
 ItemName,Eye of Aethiopica,Aethiopicanın gözü
+ItemName,eyeball,
 ItemName,Eyes of Ra,Ra'nın gözleri
+ItemName,fancy boots,
 ItemName,fauchard,fauchard
 ItemName,fedora,fötr şapka
 ItemName,fire horn,ateş boynuzu
 ItemName,fish,balık
+ItemName,fishing pole,
 ItemName,flail,harman döveni
 ItemName,flash staff,
 ItemName,fleet robe,
@@ -2491,6 +3261,7 @@ ItemName,fly swatter,sineklik
 ItemName,food ration,yemek öğünü
 ItemName,fortune cookie,fal kurabiyesi
 ItemName,frag grenade,el bombası
+ItemName,frisbee,
 ItemName,frost horn,buz boynuzu
 ItemName,fumble boots,sakarlık botu
 ItemName,garnet,grena
@@ -2501,10 +3272,26 @@ ItemName,gauntlets of phasing,
 ItemName,gauntlets of power,güç eldiveni
 ItemName,Giantslayer,Devboğan
 ItemName,glaive,kılıç
+ItemName,gold axe,
+ItemName,gold chakram,
 ItemName,gold coin,altın sikke
+ItemName,gold dagger,
+ItemName,gold double vajra,
 ItemName,gold dragon scale mail,
 ItemName,gold dragon scales,
+ItemName,gold flail,
 ItemName,Gold Key,altın anahtar
+ItemName,gold khanda,
+ItemName,gold labrys,
+ItemName,gold longsword,
+ItemName,gold plate mail,
+ItemName,gold single vajra,
+ItemName,gold spade,
+ItemName,gold trident,
+ItemName,gold twohanded sword,
+ItemName,gold urumi,
+ItemName,gold whistle,
+ItemName,grappling hook,
 ItemName,great dagger,büyük hançer
 ItemName,green dragon scale mail,yeşil ejderha pul zırhı
 ItemName,green dragon scales,yeşil ejderha pulları
@@ -2512,10 +3299,12 @@ ItemName,green glass bauble,yeşil cam
 ItemName,grenade launcher,bomba atar
 ItemName,Grimtooth,Grimtooth
 ItemName,guisarme,guisarme
+ItemName,Gungnir,
 ItemName,halberd,teber
 ItemName,Harbalest,
 ItemName,hatchet,
 ItemName,hawaiian shirt,Hawaii gömleği
+ItemName,healthstone,
 ItemName,heavy hammer,ağır çekiç
 ItemName,heavy iron ball,ağır demir top
 ItemName,heavy machine gun,ağır otomatik tabanca
@@ -2548,6 +3337,7 @@ ItemName,kanabo,
 ItemName,katana,katana
 ItemName,katar,
 ItemName,kelp frond,yosun yaprağı
+ItemName,khopesh,
 ItemName,knife,bıçak
 ItemName,lab coat,laboratuvar önlüğü
 ItemName,lance,süvari mızrağı
@@ -2556,6 +3346,7 @@ ItemName,lantern,fener lamba
 ItemName,large box,büyük kutu
 ItemName,large shield,büyük kalkan
 ItemName,Lashing Tongue,Kırbaşlayan Dil
+ItemName,leash,
 ItemName,leather armour,deri zırh
 ItemName,leather barding,deri zırh takımı
 ItemName,leather cloak,deri pelerin
@@ -2565,10 +3356,12 @@ ItemName,leather jacket,deri ceket
 ItemName,lembas wafer,lembas ekmeği
 ItemName,lenses,lens
 ItemName,levitation boots,yerden yükselme botu
+ItemName,loadstone,
 ItemName,lock pick,maymuncuk
 ItemName,long sword,uzun kılıç
 ItemName,low boots,alçak ayakkabılar
 ItemName,lucern hammer,lucerne çekici
+ItemName,luckstone,
 ItemName,lump of royal jelly,bir parça asil jöle
 ItemName,mace,gürz
 ItemName,magic bugle,
@@ -2588,32 +3381,48 @@ ItemName,Maulfrost,
 ItemName,meat ring,etten yüzük
 ItemName,meat stick,etten çubuk
 ItemName,meatball,köfte
+ItemName,medical kit,
 ItemName,melon,kavun
+ItemName,mirror,
 ItemName,Mirrorbright,Aynaparlağı
 ItemName,Miserus,
 ItemName,mithril arrow,
+ItemName,mithril axe,
 ItemName,mithril barding,
 ItemName,mithril battle-axe,
 ItemName,mithril bullet,
 ItemName,mithril crossbow bolt,
 ItemName,mithril dagger,
 ItemName,mithril dart,
+ItemName,mithril gauntlets,
+ItemName,mithril greatmace,
+ItemName,mithril greatsword,
+ItemName,mithril hatchet,
 ItemName,mithril helmet,
+ItemName,mithril katana,
 ItemName,mithril katar,
 ItemName,mithril lance,
 ItemName,mithril long sword,
 ItemName,mithril plate mail,
+ItemName,mithril poleaxe,
+ItemName,mithril rapier,
 ItemName,mithril sabre,
 ItemName,mithril shield,
 ItemName,mithril short sword,
+ItemName,mithril shuriken,
 ItemName,mithril spear,
+ItemName,mithril trident,
 ItemName,mithril two-handed sword,
 ItemName,mithril whip,
+ItemName,mooshroom,
 ItemName,morning star,dikenli gürz
+ItemName,Mournblade,
 ItemName,mummy wrapping,mumya sargısı
 ItemName,Muramasa,
 ItemName,mushroom,mantar
 ItemName,mute earrings,
+ItemName,naginata,
+ItemName,Nonagon Infinity,
 ItemName,nunchaku,
 ItemName,obsidian,obsidyen
 ItemName,oil lamp,kandil
@@ -2626,6 +3435,7 @@ ItemName,orange glass bauble,turunu cam
 ItemName,orcish arrow,ork oku
 ItemName,orcish bow,ork yayı
 ItemName,orcish chain mail,örme zincir ork zırhı
+ItemName,orcish chakram,
 ItemName,orcish cloak,ork pelerini
 ItemName,orcish dagger,ork hançeri
 ItemName,orcish helm,ork miğferi
@@ -2640,9 +3450,13 @@ ItemName,partisan,partizan
 ItemName,pear,armut
 ItemName,pearl,
 ItemName,phantom key,
+ItemName,phial,
 ItemName,Philosophers Stone,
 ItemName,pick-axe,kazma
+ItemName,pill,
 ItemName,pistol,tabanca
+ItemName,plastic bat,
+ItemName,plastic hammer,
 ItemName,plastic sword,
 ItemName,plate barding,plaka zırh takımı
 ItemName,plate mail,plaka zırh
@@ -2679,10 +3493,13 @@ ItemName,potion of see invisible,görünmezliği aşan görüş iksiri
 ItemName,potion of sickness,hastalık iksiri
 ItemName,potion of sleeping,uyku iksiri
 ItemName,potion of speed,hız iksiri
+ItemName,potion of sustenance,
+ItemName,potion of warning,
 ItemName,potion of water,su iksiri
 ItemName,proof earrings,
 ItemName,Prudentia,bilgelik
 ItemName,quarterstaff,çeyrek sopa
+ItemName,railgun,
 ItemName,ranseur,ransür mızrağı
 ItemName,rapier,meç kılıcı
 ItemName,Ravenbow,
@@ -2698,6 +3515,7 @@ ItemName,ring of cold resistance,soğuğa dayanıklık yüzüğü
 ItemName,ring of conflict,karmaşa yüzüğü
 ItemName,ring of constitution,bünye yüzüğü
 ItemName,ring of dexterity,maharet yüzüğü
+ItemName,ring of energy,
 ItemName,ring of fire resistance,aleve dayanıklık yüzüğü
 ItemName,ring of free action,serbest hareket yüzüğü
 ItemName,ring of hunger,açlık yüzüğü
@@ -2705,6 +3523,7 @@ ItemName,ring of impact,darbe yüzüğü
 ItemName,ring of intelligence,zeka yüzüğü
 ItemName,ring of invisibility,görünmezlik yüzüğü
 ItemName,ring of levitation,yerden yükselme yüzüğü
+ItemName,ring of marksmanship,
 ItemName,ring of naught,boş yüzük
 ItemName,ring of poison resistance,zehir dayanıklığı yüzüğü
 ItemName,ring of polymorph,şekil değiştirme yüzüğü
@@ -2728,11 +3547,24 @@ ItemName,robe,kaftan
 ItemName,rock,taş
 ItemName,rocket,roket
 ItemName,rocket launcher,roket atar
+ItemName,rose axe,
+ItemName,rose battleaxe,
+ItemName,rose bident,
+ItemName,rose dagger,
+ItemName,rose greatsword,
+ItemName,rose hatchet,
+ItemName,rose long sword,
+ItemName,rose rapier,
+ItemName,rose ring,
+ItemName,rose sabre,
+ItemName,rose short sword,
+ItemName,rose spear,
 ItemName,Rosenthral,
 ItemName,rubber hose,
 ItemName,ruby,yakut
 ItemName,Ruby Key,yakut yüzük
 ItemName,Runesword,rünlü kılıç
+ItemName,Runicorn Horn,
 ItemName,sabre,
 ItemName,sack,torba
 ItemName,saddle,eyer
@@ -2779,6 +3611,7 @@ ItemName,scythe,
 ItemName,shades,güneş gözlüğü
 ItemName,Shadow Key,gölge anahtarı
 ItemName,shield of reflection,yansıtma kalkanı
+ItemName,Shillelagh,
 ItemName,shimmering dragon scale mail,parlayan ejderha pulundan zırh
 ItemName,shimmering dragon scales,parlayan ejderha pulları
 ItemName,short sword,kısa kılıç
@@ -2798,6 +3631,7 @@ ItemName,Silver Key,gümüş anahtar
 ItemName,silver lance,
 ItemName,silver long sword,gümüş uzun kılıç
 ItemName,silver mace,gümüş gürz
+ItemName,silver rapier,
 ItemName,silver sabre,gümüş süvarı kılıcı
 ItemName,silver short sword,gümüş kısa kılıç
 ItemName,silver spear,gümüş mızrak
@@ -2805,6 +3639,7 @@ ItemName,silver two-handed sword,
 ItemName,skeleton key,iskelet anahtar
 ItemName,slime mould,çamur kalıbı
 ItemName,sling,sapan
+ItemName,sling staff,
 ItemName,small shield,küçük kalkan
 ItemName,sniper rifle,dürbüncü tüfeği
 ItemName,spear,mızrak
@@ -2814,29 +3649,40 @@ ItemName,spetum,spetum
 ItemName,splint mail,plakalardan zırh
 ItemName,sprig of wolfsbane,Kurtboğan filizi
 ItemName,Stamped Letter,pullu mektup
+ItemName,steel boots,
+ItemName,stethoscope,
 ItemName,stick of dynamite,çubuk dinamit
 ItemName,stiletto,stiletto bıçak
 ItemName,stone club,
+ItemName,Stormbringer,
+ItemName,strange object,
 ItemName,studded leather armour,çivili deri zırh
 ItemName,submachine gun,hafif makineli tabanca
+ItemName,Sudarshana Chakra,
 ItemName,Sunsword,Güneş kılıç
 ItemName,t-shirt,tişört
+ItemName,tabard,
 ItemName,Talaria,
 ItemName,The Hero,Kahraman
 ItemName,thunder staff,fırtına kılıcı
 ItemName,tin,teneke
+ItemName,tin opener,
 ItemName,tin whistle,teneke düdük
 ItemName,tinning kit,kalaylama takımı
 ItemName,tooled horn,sarılı boynuz
 ItemName,topaz,topaz
 ItemName,torch,meşale
 ItemName,tortilla,tortilla
+ItemName,touchstone,
+ItemName,towel,
 ItemName,trident,trident
 ItemName,tripe ration,yetersiz kumanya
+ItemName,triplesword,
 ItemName,tsurugi,tsurugi
 ItemName,turquoise,turkuaz
 ItemName,two-handed sword,çift ellik kılıç
 ItemName,unicorn horn,tek boynuzlu at boynuzu
+ItemName,Vajra,
 ItemName,vegetable corpse,
 ItemName,Verimurus,
 ItemName,violet glass bauble,menekşe renkli cam
@@ -2847,6 +3693,7 @@ ItemName,wakizashi,vakizaşi
 ItemName,wand of animation,
 ItemName,wand of cancellation,iptalleme asası
 ItemName,wand of cold,soğuk asası
+ItemName,wand of confusion,
 ItemName,wand of create horde,ordu yaratma asası
 ItemName,wand of death,ölüm asası
 ItemName,wand of digging,kazma asası
@@ -2858,6 +3705,8 @@ ItemName,wand of fireball,ateş topu asası
 ItemName,wand of haste,çabukluk asası
 ItemName,wand of healing,iyileştirme asası
 ItemName,wand of iceball,buztopu asası
+ItemName,wand of jumping,
+ItemName,wand of levitation,
 ItemName,wand of light,ışık asası
 ItemName,wand of lightning,şimşek asası
 ItemName,wand of locking,kilitleme asası
@@ -2873,12 +3722,17 @@ ItemName,wand of sleep,uyku asası
 ItemName,wand of slow,yavaşlama asası
 ItemName,wand of striking,darbe asası
 ItemName,wand of summoning,çağırma asası
+ItemName,wand of telekinesis,
 ItemName,wand of teleportation,ışınlanma asası
 ItemName,wand of theft,
 ItemName,wand of undead turning,yürüyen ölü asası
 ItemName,war club,
 ItemName,war hammer,savaş çekici
+ItemName,war maul,
 ItemName,wax candle,balmumu mum
+ItemName,Wepwawet's Fang,
+ItemName,wheellock pistol,
+ItemName,whetstone,
 ItemName,white dragon scale mail,beyaz ejderha pulundan zırh
 ItemName,white dragon scales,beyaz ejderha pulları
 ItemName,white glass bauble,beyaz cam
@@ -2893,8 +3747,10 @@ ItemName,yellow dragon scale mail,sarı ejderha pulundan zırh
 ItemName,yellow dragon scales,sarı ejderha pulu
 ItemName,yellow glass bauble,sarı cam
 ItemName,yellowish brown glass bauble,sarı-kahverengi cam
+ItemName,yoyo,
 ItemName,yumi,yumi
 ItemName,zircon,
+ItemName,Zweihänder,
 ItemType,amulet,tılsım
 ItemType,bag,çanta
 ItemType,barding,zırh takımı
@@ -4440,13 +5296,17 @@ SchoolName,necromancy,hayat büyüsü
 SchoolName,transmutation,dönüştürme
 ServiceDescription,detect traps in the surrounding area.,Etrafındaki tuzakları sapta.
 ServiceDescription,identify one item in your inventory.,Envanterindeki bir eşyayı tanımla.
+ServiceDescription,learn how to cast a random spell.,
+ServiceDescription,learn how to cast two random spells.,
 ServiceDescription,magic mapping for the surrounding area.,Etrafındaki alanı büyü ile haritala.
 ServiceDescription,refresh the shop with new items for sale.,Dükkanı yeniden stokla.
 ServiceDescription,remove a curse from one item in your inventory.,Envanterindeki bir eşyanın lanetini kaldır.
+ServiceName,advanced tuition,
 ServiceName,curse removal,lenet kaldırma
 ServiceName,identification,tanımlama
 ServiceName,magic mapping,büyü haritalaması
 ServiceName,restock shop,dükkanı yenile
+ServiceName,spell tuition,
 ServiceName,trap detection,tuzak saptama
 ShopName,antique weapons outlet,antika silah dükkanı
 ShopName,delicatessen,şarküteri
@@ -4462,9 +5322,14 @@ ShopName,second-hand stationery store,ikinci el kırtasiye
 ShopName,used armour dealership,ikinci el zırh dükkanı
 ShrineName,craft station,
 ShrineName,dark sepulchre,karanlık gömüt
+ShrineName,elemental forge,
+ShrineName,fae chapel,
 ShrineName,holy shrine,kutsal tapınak
+ShrineName,martial temple,
 ShrineName,mystic coven,gizemli cadılar meclisi
+ShrineName,pheral vault,
 ShrineName,sacred grove,kutsal koru
+ShrineName,star observatory,
 SizeName,gargantuan,devasa
 SizeName,huge,büyük
 SizeName,large,iri
@@ -4670,101 +5535,290 @@ SonicName,write,yaz
 SpecialDescription,Aristocrats who enjoy all the privilege that comes with wealth and wonder why everyone hates them.,
 SpecialDescription,"Being unusually short and slight, they are more nimble but not as effective in combat.",
 SpecialDescription,"Being unusually tall and heavy, they move a bit slower but are more resilient.",
+SpecialDescription,"Bound by an infernal pact to a patron whose power flows through them, whether they will it or not.",
+SpecialDescription,"Changeling blood runs through their veins, granting them an otherworldly grace, but cold iron burns them like acid.",
+SpecialDescription,"Cursed with visions of what is to come, they see danger before it arrives, but the visions are slowly undoing their mind.",
+SpecialDescription,"Escaped from a laboratory before the experiment concluded, their body still bears the unstable mark of what was done to them.",
 SpecialDescription,"Forever cursed with lycanthropy, these beings can transform themselves into monstrous wolf forms.",
 SpecialDescription,Forsaken creature that subsists by feeding on the vital essence of the living.,
 SpecialDescription,Gifted with extrasensory perception to identify entities otherwise hidden from the normal senses but at the cost of a gnawing hunger.,
+SpecialDescription,"Hardened by a lifetime of campaigns, they strike with brutal efficiency but carry old wounds that never fully healed.",
 SpecialDescription,"Highly attuned servants of elemental earth, they can conjure exploding spheres to destroy their enemies.",
 SpecialDescription,"Highly attuned servants of elemental flame, they can conjure exploding spheres to destroy their enemies.",
 SpecialDescription,"Highly attuned servants of elemental frost, they can conjure exploding spheres to destroy their enemies.",
 SpecialDescription,"Highly attuned servants of elemental shock, they can conjure exploding spheres to destroy their enemies.",
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.",
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,
+SpecialDescription,"Made a living prying open tombs that were meant to stay shut, and picked up a rare set of skills along the way; the dead have not forgiven them.",
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,
+SpecialDescription,"More at home among beasts than people, they ride and bond with animals expertly but rely on their companions more than their own blade.",
+SpecialDescription,"Newly turned by an elder vampire's bite, they crave blood but have not yet mastered the strengths of the curse.",
+SpecialDescription,"One of the few to survive a great plague, their blood now resists poison but their body was left frail and their nearby creatures keep their distance.",
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.",
+SpecialDescription,"Pulled under by the sea and cursed to return, their lungs have made an uneasy peace with water while their waterlogged flesh dries out on land.",
+SpecialDescription,"Raised outside civilisation among beasts, they are quick and keen-eyed but never learned the discipline of formal combat.",
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.",
 SpecialDescription,The habitually drunk make for brazen yet slightly unsteady adventurers; just don't ask them to recite the alphabet backwards.,
+SpecialDescription,"Touched by the animating art of golem-crafters, their flesh has hardened toward stone, granting resilience at the cost of grace.",
+SpecialDescription,"Trained in the one-on-one blade duel, every strike is precise, but a lifetime spent perfecting offence left little time to master defence.",
+SpecialDescription,"Trained since childhood in a monastic order, their body is a honed weapon but their vows forbid armour and forsake worldly learning.",
 SpecialDescription,"Whether innocent or guilty of their accused crimes, these individuals are desperate to escape custody.",
+SpecialName,ascetic,
 SpecialName,colossus,
+SpecialName,construct,
+SpecialName,drowned,
 SpecialName,drunkard,
+SpecialName,duelist,
 SpecialName,earth,
+SpecialName,feral,
+SpecialName,fey,
 SpecialName,flame,
 SpecialName,frost,
 SpecialName,fugitive,
 SpecialName,glass,
+SpecialName,graverobber,
 SpecialName,midget,
 SpecialName,noble,
+SpecialName,plagued,
+SpecialName,prophet,
 SpecialName,protagonist,
 SpecialName,psychic,
 SpecialName,quantum,
 SpecialName,scholar,
 SpecialName,shock,
 SpecialName,skeleton,
+SpecialName,spawn,
+SpecialName,specimen,
+SpecialName,tamer,
 SpecialName,vampire,
+SpecialName,veteran,
+SpecialName,warlock,
 SpecialName,water,
 SpecialName,werewolf,
 SpellDescription,Projects a ball of energy that impacts on both monsters and objects.,Hem canavarlara hem de nesnelere çarpan bir enerji topu oluşturur.
+SpellName,acid splash,
 SpellName,acid stream,asit akıntısı
 SpellName,animate dead,
 SpellName,animate object,
+SpellName,arc conduit,
+SpellName,arcane blight,
+SpellName,arcane whetstone,
+SpellName,arcing bolt,
+SpellName,artificer's exchange,
+SpellName,atonement,
+SpellName,augury,
+SpellName,bane,
+SpellName,banshee wail,
+SpellName,barring ward,
+SpellName,battle fury,
 SpellName,bind undead,yürüyen ölü tasmalama kitabı
+SpellName,binding sphere,
+SpellName,black ice patch,
+SpellName,black plague,
+SpellName,blade blessing,
+SpellName,bless,
 SpellName,blinking,
+SpellName,blurred form,
+SpellName,call of the pack,
+SpellName,calm,
+SpellName,caltrop swarm,
 SpellName,cancellation,iptalleme
+SpellName,causeway,
+SpellName,chain lightning,
+SpellName,changeless ward,
 SpellName,charm,cezbetme
+SpellName,chill grasp,
+SpellName,chromatic orb,
 SpellName,clairvoyance,basiret
+SpellName,claybind touch,
+SpellName,clear sight,
+SpellName,clouded mind,
+SpellName,command,
+SpellName,commune,
+SpellName,concussive blast,
 SpellName,cone of cold,buz konisi
 SpellName,confusion,kafa karışıklığı
+SpellName,conjure barricade,
+SpellName,conjure boulder,
+SpellName,conjure guardian,
+SpellName,conjure homunculus,
+SpellName,conjure mount,
+SpellName,conjured pit,
+SpellName,consecration,
+SpellName,contagion,
+SpellName,corpse explosion,
+SpellName,corroding ray,
 SpellName,create familiar,koruyucu ruh yarat
+SpellName,creeping palsy,
+SpellName,crimson ichor lance,
 SpellName,crushing sphere,
 SpellName,curing,şifa
+SpellName,danger sense,
 SpellName,darkness,karanlık
+SpellName,daze,
+SpellName,death ward,
+SpellName,death's bargain,
+SpellName,deathwatch,
 SpellName,deflection,korunma
 SpellName,detect food,yemek sapta
+SpellName,detect metal,
 SpellName,detect monsters,canavar sapta
 SpellName,detect treasure,hazine sapta
+SpellName,detect undead,
 SpellName,detect unseen,görülmeyeni sapta
 SpellName,dig,kaz
+SpellName,disarming ward,
+SpellName,discord,
 SpellName,disintegrate,ufala
+SpellName,dispel magic,
+SpellName,displacement,
+SpellName,divine favor,
+SpellName,divine intervention,
+SpellName,dominate mind,
 SpellName,drain life,can em
+SpellName,earthen colossus,
+SpellName,elemental servant,
+SpellName,elemental warding,
+SpellName,ember lance,
+SpellName,enlarge,
+SpellName,entangling vines,
+SpellName,entropic siphon,
 SpellName,extra healing,fazladan iyileştirme
+SpellName,false life,
 SpellName,fear,korkut
+SpellName,find doors,
+SpellName,find traps,
 SpellName,finger of death,ölümcül parmak
 SpellName,fireball,ateş topu
 SpellName,flaming sphere,ateş küresi
 SpellName,force bolt,güç ışını
+SpellName,foreknowledge,
+SpellName,freedom,
+SpellName,freedom of movement,
 SpellName,freezing sphere,donma küresi
+SpellName,frost breath,
 SpellName,full healing,
+SpellName,gate,
+SpellName,gilding touch,
+SpellName,glacial spike,
+SpellName,grasping mind,
+SpellName,grave rot,
+SpellName,gravity well,
+SpellName,guided path,
+SpellName,harvest of souls,
 SpellName,haste,çabuklaştır
+SpellName,hazard sense,
 SpellName,healing,iyileştir
+SpellName,hex,
+SpellName,hexbind,
+SpellName,hideous laughter,
+SpellName,hold monster,
+SpellName,hold person,
+SpellName,holy word,
 SpellName,ice storm,buz fırtınası
 SpellName,identify,tanımla
+SpellName,inner calm,
 SpellName,invisibility,görünmezlik
+SpellName,iron will,
+SpellName,ironbind door,
+SpellName,juggernaut ray,
 SpellName,jumping,sıçrama
+SpellName,keen search,
 SpellName,knock,tıkla
+SpellName,legion of bone,
 SpellName,levitation,yerden yükselme
 SpellName,light,ışık
 SpellName,lightning bolt,ışık ışını
 SpellName,living wall,canlı duvar
 SpellName,magic mapping,büyülü haritalama
 SpellName,magic missile,büyü ışını
+SpellName,meteoric cataclysm,
+SpellName,mind ken,
+SpellName,mind link,
+SpellName,mind spike,
+SpellName,mindrend,
+SpellName,mirror ward,
+SpellName,neutralize poison,
+SpellName,oracle's eye,
+SpellName,owl eyes,
+SpellName,petrifying touch,
 SpellName,phasing,
+SpellName,planar anchor,
+SpellName,planar swap,
 SpellName,poison blast,zehir patlaması
 SpellName,polymorph,şekil değiştir
+SpellName,porter's reach,
+SpellName,prayer,
+SpellName,premonition,
+SpellName,prismatic spray,
+SpellName,psychic shove,
 SpellName,raise dead,ölüyü canlandırma
+SpellName,rally cry,
+SpellName,ray of enfeeblement,
+SpellName,reap,
 SpellName,regenerate,
 SpellName,remove curse,lanet kaldırma
+SpellName,repelling ward,
+SpellName,repulsion,
 SpellName,restoration,kabiliyeti geri kazanma
+SpellName,revelation,
+SpellName,sanctuary,
+SpellName,scalding cloud,
+SpellName,searing light,
+SpellName,sense curse,
+SpellName,sense the restless,
+SpellName,sentinel ward,
+SpellName,shimmer shield,
 SpellName,shocking sphere,
+SpellName,shrink,
+SpellName,silence,
+SpellName,simulacrum,
 SpellName,sleep,uyku
+SpellName,slick detonation,
+SpellName,slipping free,
 SpellName,slow,yavaşlama
 SpellName,soaking sphere,
+SpellName,song of discord,
+SpellName,spark bolt,
+SpellName,spectral shroud,
+SpellName,spirit leech,
+SpellName,spirit shield,
+SpellName,starfall,
+SpellName,steadfast ward,
+SpellName,stone to flesh,
+SpellName,stoneskin,
 SpellName,summoning,çağırma
+SpellName,sunburst smite,
+SpellName,sunder gear,
+SpellName,swoon,
 SpellName,telekinesis,
+SpellName,telekinetic shove,
 SpellName,teleport away,ıraklara ışınlama
+SpellName,thunderclap,
+SpellName,timed combustion,
+SpellName,tongue tied,
 SpellName,toxic spray,zehir püskürtme
+SpellName,transmuter's mastery,
+SpellName,true appraisal,
 SpellName,turn undead,zombileştirme
+SpellName,unbinding,
+SpellName,undying ward,
+SpellName,unseen hand,
+SpellName,vampiric feast,
+SpellName,veil of shadows,
+SpellName,wall breach,
+SpellName,wall of thorns,
 SpellName,walling,duvar yaratma
+SpellName,ward of return,
+SpellName,warning ward,
+SpellName,web snare,
+SpellName,whispers of madness,
+SpellName,wildfire brand,
+SpellName,wither,
+SpellName,withering ray,
 SpellName,wizard lock,büyü kilidi
+SpellName,world vision,
 StandingName,damned,lanetli
 StandingName,doomed,cehennemlik
 StandingName,doubtful,şüpheli
@@ -4815,19 +5869,31 @@ VolatileName,blaze,
 VolatileName,blood,
 VolatileName,electricity,
 VolatileName,freeze,
+VolatileName,oil,
 VolatileName,steam,
 WallStructureName,illusionary,
 WallStructureName,permanent,
 WallStructureName,solid,
+ZooName,angelic sanctuary,
 ZooName,ant hole,karınca deliği
+ZooName,astral kennel,
 ZooName,barracks,kışla
 ZooName,bee hive,arı kovanı
 ZooName,cocknest,horoz kümesi
 ZooName,college of wizardry,büyücülük okulu
 ZooName,dragon nest,ejder yuvası
+ZooName,dragon rookery,
+ZooName,drow stronghold,
+ZooName,elemental foundry,
+ZooName,golem forge,
 ZooName,graveyard,mezarlık
 ZooName,gremlin pit,gremlin çukuru
+ZooName,jelly vat,
 ZooName,leprechaun hall,İrlanda Cücesi salonu
+ZooName,military camp,
+ZooName,mimic den,
+ZooName,monster greenhouse,
+ZooName,pheral crypt,
 ZooName,salty pool,tuzlu havuz
 ZooName,science lab,laboratuvar
 ZooName,slumber party,pijama partisi

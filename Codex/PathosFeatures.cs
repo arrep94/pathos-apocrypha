@@ -485,9 +485,102 @@ namespace Pathos
           //A.ConvertFixture(F, Devices.entropy_trap); // NOTE: this will convert any nearby fixtures as well.
         });
       });
+      // >>> GENERATED FEATURES >>>
+      sink = AddFeature("sink", Materials.stone, Chance.OneIn80, Glyphs.sink, Glyphs.sink, F =>
+      {
+        F.Sonic = Sonics.water_splash;
+        F.Mountable = true;
+        F.Weight = Weight.FromUnits(100000);
+
+        F.DestroyApply.HarmEntity(Elements.water, Dice.Zero);
+        F.DestroyApply.BreakFeature(sink);
+
+        var DrinkUse = F.AddUse(Codex.Motions.drink, null, Delay.FromTurns(20), Sonics.water_splash, Audibility: 2);
+        DrinkUse.Apply.WhenProbability(Table =>
+        {
+          Table.Add(80, A => { });
+          Table.Add(10, A => A.CreateItem(Dice.One, Stocks.gem));
+          Table.Add(5, A => A.HarmEntity(Elements.acid, 1.d6()));
+          Table.Add(5, A => A.ApplyTransient(Properties.sickness, 10.d10() + 10));
+        });
+      });
+
+      toilet = AddFeature("toilet", Materials.stone, Chance.OneIn120, Glyphs.toilet, Glyphs.toilet, F =>
+      {
+        F.Sonic = Sonics.water_splash;
+        F.Mountable = true;
+        F.Weight = Weight.FromUnits(80000);
+
+        F.DestroyApply.BreakFeature(toilet);
+      });
+
+      wooden_table = AddFeature("wooden table", Materials.wood, Chance.OneIn80, Glyphs.wooden_table, Glyphs.wooden_table, F =>
+      {
+        F.Sonic = Sonics.scrape;
+        F.Mountable = true;
+        F.Weight = Weight.FromUnits(30000);
+
+        F.DestroyApply.BreakFeature(wooden_table);
+      });
+
+      wooden_stool = AddFeature("wooden stool", Materials.wood, Chance.OneIn80, Glyphs.wooden_stool, Glyphs.wooden_stool, F =>
+      {
+        F.Sonic = Sonics.scrape;
+        F.Mountable = true;
+        F.Weight = Weight.FromUnits(8000);
+
+        F.DestroyApply.BreakFeature(wooden_stool);
+      });
+
+      wooden_sign = AddFeature("wooden sign", Materials.wood, Chance.OneIn120, Glyphs.wooden_sign, Glyphs.wooden_sign, F =>
+      {
+        F.Sonic = Sonics.scrape;
+        F.Mountable = true;
+        F.Weight = Weight.FromUnits(5000);
+
+        F.DestroyApply.BreakFeature(wooden_sign);
+      });
+
+      pyramid = AddFeature("pyramid", Materials.stone, Chance.OneIn120, Glyphs.pyramid, Glyphs.pyramid, F =>
+      {
+        F.Sonic = Sonics.scrape;
+        F.Mountable = true;
+        F.Weight = Weight.FromUnits(500000);
+
+        F.DestroyApply.BreakFeature(pyramid);
+        F.DestroyApply.DecreaseKarma(Dice.Fixed(50));
+
+        var OpenUse = F.AddUse(Codex.Motions.open, null, Delay.FromTurns(20), Sonics.scrape, Audibility: 10);
+        OpenUse.Apply.BreakFeature(pyramid);
+        OpenUse.Apply.WhenProbability(Table =>
+        {
+          Table.Add(30, A => A.CreateEntity(Dice.One, Kinds.mummy));
+          Table.Add(20, A => A.CreateItem(Dice.One, QuantityDice: null, [Items.animal_corpse, Items.vegetable_corpse]));
+          Table.Add(15, A => A.CreateItem(Dice.One, 10.d100(), Items.gold_coin));
+          Table.Add(10, A => A.CreateItem(2.d3() + 1, [Stocks.ring, Stocks.amulet, Stocks.gem, Stocks.wand, Stocks.scroll, Stocks.potion, Stocks.book]));
+          Table.Add(5, A => A.PlaceCurse(1.d4() + 1, Sanctities.Cursed));
+          Table.Add(5, A => A.ApplyTransient(Properties.hunger, 10.d100() + 100));
+          Table.Add(5, A => A.ApplyTransient(Properties.sickness, 10.d100() + 100));
+          Table.Add(5, A => A.PunishEntity(Codex.Punishments.malignant_aura));
+          Table.Add(1, A => A.CreateEntity(Dice.One, Kinds.vampire));
+          Table.Add(1, A => A.CreateEntity(Dice.Fixed(8), Kinds.mummy));
+          Table.Add(1, A => A.CreateEntity(Dice.One, Entities.stone_golem));
+          Table.Add(1, A => A.CreateEntity(Dice.One, Entities.skeleton));
+          Table.Add(1, A => A.CreateEntity(Dice.One, Entities.mellified_man));
+        });
+      });
+      // <<< GENERATED FEATURES <<<
     }
 #endif
 
+    // >>> GENERATED FEATURES-FIELDS >>>
+    public readonly Feature sink;
+    public readonly Feature toilet;
+    public readonly Feature wooden_table;
+    public readonly Feature wooden_stool;
+    public readonly Feature wooden_sign;
+    public readonly Feature pyramid;
+    // <<< GENERATED FEATURES-FIELDS <<<
     public readonly Feature altar;
     public readonly Feature bed;
     public readonly Feature fountain;

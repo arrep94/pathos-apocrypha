@@ -1,4 +1,5 @@
 ﻿AfflictionDescription,Deadly venom courses through your veins.,มีพิษร้ายแรงไหลเวียนอยู่ในร่างกายของคุณ
+AfflictionDescription,Groteseque changes are happening to your body.,
 AfflictionDescription,Something deeply unsettling is happening... down there.,รู้สึกถึงบางอย่างแปลกๆ... ข้างล่างนั่น
 AfflictionDescription,There is a gnawing sensation from deep inside your stomach.,รู้สึกเหมือนมีบางอย่างกำลังแทะอยู่ในกระเพาะอาหารของคุณ
 AfflictionDescription,This viral disease causes inflammation of the brain and is spread by infected animals.,โรคที่เกิดจากไวรัสทำให้สมองอักเสบที่แพร่โดยสัตว์ที่ติดเชื้อ
@@ -6,6 +7,7 @@ AfflictionDescription,You feel unclean and everything itches.,คุณรู้
 AfflictionDescription,You have a dreadful case of stomach acid.,คุณมีกรดในกระเพาะอาหารขั้นร้ายแรง
 AfflictionDescription,Your skin is sickly green and something is very wrong inside your stomach.,ผิวของคุณซีดเขียวและมีบางอย่างแปลกๆ ในกระเพาะอาหารของคุณ
 AfflictionName,crabs,โลน
+AfflictionName,mutation,
 AfflictionName,nits,ไข่เหา
 AfflictionName,poisoning,ติดพิษ
 AfflictionName,rabies,พิษสุนัขบ้า
@@ -43,76 +45,136 @@ AppearanceDescription,A short but sturdy looking coat of mithril armour.,เส�
 AppearanceDescription,A slender and delicate looking coat of mithril armour.,เสื้อเกราะมิธริลที่ดูประณีตและเพรียวบาง
 AppearanceDescription,A slender and glossy looking coat of mithril armour.,เสื้อเกราะมิธริลที่ดูแวววาวและเพรียวบาง
 AppearanceDescription,This classic wizard accessory is a pointed hat decorated with moons and stars.,เครื่องประดับพ่อมดสุดคลาสสิกนี้คือหมวกทรงแหลมที่ประดับด้วยพระจันทร์และดวงดาว
+AppearanceName,acrid book,
 AppearanceName,adamantine slug,
 AppearanceName,adamantine staff,
 AppearanceName,agate ring,แหวนหินโมรา
+AppearanceName,alabaster book,
 AppearanceName,aluminium wand,คทาอลูมิเนียม
+AppearanceName,amber book,
+AppearanceName,ancient book,
 AppearanceName,angled poleaxe,ขวาน
+AppearanceName,antique book,
+AppearanceName,arcane book,
+AppearanceName,arcing book,
+AppearanceName,argent book,
+AppearanceName,ashen book,
 AppearanceName,backwards book,หลังสือกลับด้าน
 AppearanceName,bag,กระเป๋า
 AppearanceName,balsa wand,คทาบัลซ่า
 AppearanceName,bamboo arrow,ลูกธนูไผ่
 AppearanceName,bamboo wand,คทาไผ่
+AppearanceName,banded book,
+AppearanceName,barbed ring,
+AppearanceName,basalt book,
+AppearanceName,battered book,
+AppearanceName,beaded book,
 AppearanceName,beaked polearm,หอกปลายแหลม
 AppearanceName,bell,กระดิ่ง
 AppearanceName,big book,หนังสือเล่มใหญ่
+AppearanceName,bilious book,
+AppearanceName,birch book,
 AppearanceName,black book,หนังสือสีดำ
+AppearanceName,black bound book,
 AppearanceName,black gem,อัญมณีสีดำ
 AppearanceName,black gloves,ถุงมือสีดำ
 AppearanceName,black onyx ring,แหวนหินโมราสีดำ
 AppearanceName,black potion,โพชั่นสีดำ
+AppearanceName,black stone,
 AppearanceName,black wand,คทาสีดำ
+AppearanceName,blackened book,
+AppearanceName,bloodstained book,
 AppearanceName,bloody potion,โพชั่นสีแดงกล่ำ
 AppearanceName,blue and green shield,โล่สีน้ำเงินเขียว
 AppearanceName,blue gem,อัญมณีสีฟ้า
 AppearanceName,blue robe,ผ้าคลุมสีฟ้า
+AppearanceName,bone book,
+AppearanceName,bone bound book,
 AppearanceName,bone earrings,ต่างหูกระดูก
 AppearanceName,bone staff,ไม้เท้ากระดูก
+AppearanceName,bone white book,
+AppearanceName,boulder bound book,
+AppearanceName,bramble book,
+AppearanceName,brass book,
+AppearanceName,brass bound book,
+AppearanceName,brass clasped book,
 AppearanceName,brass ring,แหวนทองเหลือง
 AppearanceName,brass wand,คทาทองเหลือง
 AppearanceName,brilliant blue potion,โพชั่นสีฟ้าสดใส
+AppearanceName,brittle book,
+AppearanceName,broad katar,
 AppearanceName,broad pick,ที่ขุดใหญ่
 AppearanceName,broad short sword,ดาบใหญ่สั้น
 AppearanceName,bronze book,หนังสือสัมฤทธิ์
 AppearanceName,bronze ring,แหวนสัมฤทธิ์
 AppearanceName,bronze wand,คทาสัมฤทธิ์
+AppearanceName,bronzed book,
 AppearanceName,brown potion,โพชั่นสีน้ำตาล
 AppearanceName,bubbly potion,โพชั่นที่มีฟอง
+AppearanceName,buckled book,
 AppearanceName,bugle,แตร
+AppearanceName,burnished book,
 AppearanceName,candle,เทียนไข
 AppearanceName,canvas book,หนังสือผ้าใบ
+AppearanceName,celestial book,
 AppearanceName,ceramic wand,คทาเซรามิค
+AppearanceName,chained book,
+AppearanceName,chalkstone book,
+AppearanceName,charcoal book,
+AppearanceName,charnel book,
+AppearanceName,charred book,
+AppearanceName,cinder book,
+AppearanceName,cindered book,
 AppearanceName,circular amulet,เครื่องรางวงแหวน
+AppearanceName,clasped book,
+AppearanceName,clay bound book,
 AppearanceName,clay ring,แหวนดินเหนียว
 AppearanceName,clear potion,โพชั่นใส
+AppearanceName,clockwork gun,
 AppearanceName,cloth book,หนังสือผ้า
 AppearanceName,cloudy potion,โพชั่นขุ่นๆ
 AppearanceName,coarse mantelet,หิ้งสั้น
+AppearanceName,cobalt book,
+AppearanceName,cobblestone book,
+AppearanceName,coiled gun,
 AppearanceName,colourful book,หนังสือที่มีสีสัน
 AppearanceName,combat boots,รองเท้าบู๊ตทหาร
 AppearanceName,compact gun,ปืน
+AppearanceName,compass bound book,
 AppearanceName,concave amulet,เครื่องรางเว้า
 AppearanceName,conical hat,หมวกทรงกรวย
+AppearanceName,consecrated book,
 AppearanceName,convex amulet,เครื่องรางนูน
 AppearanceName,copper book,หนังสือสีทองแดง
 AppearanceName,copper ring,แหวนทองแดง
 AppearanceName,copper wand,คทาทองแดง
+AppearanceName,coral book,
 AppearanceName,coral ring,แหวนหินปะการัง
+AppearanceName,corded book,
+AppearanceName,cracked book,
+AppearanceName,cratered book,
 AppearanceName,crested helmet,หมวกเกราะมีหงอน
+AppearanceName,crimson book,
 AppearanceName,crude arrow,ลูกธนูแบบเดิม
 AppearanceName,crude bow,ธนูแบบเดิม
 AppearanceName,crude chain mail,เกราะวงร้อยแบบเดิม
 AppearanceName,crude dagger,มีดสั้นแบบเดิม
+AppearanceName,crude disc,
 AppearanceName,crude ring mail,ชุดเกราะแบบเดิม
 AppearanceName,crude short sword,ดาบสั้นแบบเดิม
 AppearanceName,crude spear,หอกแบบเดิม
+AppearanceName,crumbling book,
+AppearanceName,crystal book,
 AppearanceName,crystal staff,ไม้เท้าผลึก
 AppearanceName,crystal wand,คทาผลึก
+AppearanceName,crystalline book,
 AppearanceName,curved polearm,หอกปลายดาบโค้ง
 AppearanceName,curved sword,ดาบโค้ง
 AppearanceName,curved wand,คทาโค้งงอ
+AppearanceName,cut glass book,
 AppearanceName,cyan book,หนังสือสีน้ำเงินเขียว
 AppearanceName,cyan potion,โพชั่นสีน้ำเงินเขียว
+AppearanceName,damascened book,
 AppearanceName,dark blue book,หนังสือสีฟ้าเข้ม
 AppearanceName,dark brown book,หนังสือสีน้ำตาลเข้ม
 AppearanceName,dark green book,หนังสือสีเขียวเข้ม
@@ -122,27 +184,43 @@ AppearanceName,deep book,หนังสือลึกลับ
 AppearanceName,diamond ring,แหวนเพชร
 AppearanceName,dirty rag,ผ้าสกปรก
 AppearanceName,dog eared book,หนังสือมีหูสุนัข
+AppearanceName,dolomite book,
 AppearanceName,double-headed axe,ขวานสองคม
+AppearanceName,dove grey book,
+AppearanceName,dress boots,
 AppearanceName,drum,กลอง
 AppearanceName,dull book,หนัวสือทึบ
+AppearanceName,dusk blue book,
 AppearanceName,dusty book,หนังสือผุ่นเกาะ
 AppearanceName,ebony wand,ทคาไม้มะเกลือ
+AppearanceName,eelskin book,
 AppearanceName,effervescent potion,โพชั่นพลุ่งเป็นฟอง
+AppearanceName,ember book,
 AppearanceName,emerald potion,โพชั่นสีเขียวมรกต
 AppearanceName,emerald ring,แหวนมรกต
 AppearanceName,engagement ring,แหวนหมั้น
+AppearanceName,etched book,
 AppearanceName,etched helmet,หมวกเกราะถูกสลัก
+AppearanceName,eternity ring,
 AppearanceName,exotic two-pointed polearm,
 AppearanceName,faded book,หนังสือสีซีด
 AppearanceName,faded pall,ผ้าห่อศพสีซีด
+AppearanceName,feldspar book,
 AppearanceName,fencing gloves,ถุงมือฟันดาบ
 AppearanceName,figurine,รูปแกะสลักเล็กๆ
 AppearanceName,fine mithril-coat,ผ้าคลุมมิธริลดูดี
 AppearanceName,fizzy potion,โพชั่นซ่าๆ
+AppearanceName,flint book,
 AppearanceName,flute,ขลุ่ย
 AppearanceName,forked polearm,หอกปลายแฉก
+AppearanceName,forked wand,
+AppearanceName,frostbitten book,
+AppearanceName,frosted book,
 AppearanceName,fur boots,หนังสือขนสัตว์
 AppearanceName,fuzzy book,หนังสือมีขน
+AppearanceName,gale book,
+AppearanceName,gilded book,
+AppearanceName,glass bound book,
 AppearanceName,glass orb,ลูกแก้ว
 AppearanceName,glass ring,แหวนแก้ว
 AppearanceName,glass wand,คทาแก้ว
@@ -153,13 +231,21 @@ AppearanceName,glossy arrow,ลูกธนูสลักอักษรสี�
 AppearanceName,glossy bow,ธนูสลักอักษรสีดำ
 AppearanceName,glossy dagger,มีดสั้นสลักอักษรสีดำ
 AppearanceName,glossy mithril-coat,ผ้าคลุมมิธริลดูแวววับ
+AppearanceName,glossy potion,
 AppearanceName,glossy short sword,ดาบสั้นสลักอักษรสีดำ
+AppearanceName,gloved book,
+AppearanceName,gneiss book,
 AppearanceName,gold book,หนังสือทอง
 AppearanceName,gold earrings,ต่างหูทอง
 AppearanceName,gold ring,แหวนทอง
 AppearanceName,gold wand,คทาทอง
 AppearanceName,golden potion,โพชั่นสีทอง
+AppearanceName,gossamer book,
+AppearanceName,granite book,
 AppearanceName,granite ring,แหวนอัคนี
+AppearanceName,graphite book,
+AppearanceName,grave bound book,
+AppearanceName,gravel book,
 AppearanceName,green gem,อัญมนีสีเขียว
 AppearanceName,green robe,ผ้าคลุมสีเขียว
 AppearanceName,grey book,หนังสือสีเทา
@@ -168,38 +254,54 @@ AppearanceName,hard hat,หมวกแข็ง
 AppearanceName,hard shoes,รองเท้าแข็ง
 AppearanceName,hardcover book,หนังสือปกแข็ง
 AppearanceName,harp,พิณ
+AppearanceName,hazel book,
 AppearanceName,heavy barrelled gun,ปืนปลายหนัก
 AppearanceName,heavy gun,ปืนหนัก
 AppearanceName,hexagonal amulet,เครื่องรางหกเหลี่ยม
 AppearanceName,hexagonal wand,คทาหกเหลี่ยม
+AppearanceName,hide bound book,
 AppearanceName,hiking boots,รองเท้าปืนเขา
 AppearanceName,hilted polearm,ด้ามจับของหอก
+AppearanceName,hoarfrost book,
+AppearanceName,hollow book,
 AppearanceName,hooded cloak,ผ้าคลุมมีฮูด
 AppearanceName,hooked polearm,หอกปลายตะขอ
+AppearanceName,hooked sword,
 AppearanceName,horn,เขา
 AppearanceName,horseshoe,เกือกม้า
 AppearanceName,humongous book,หนังสือยักข์
 AppearanceName,icy potion,โพชั่นน้ำแข็ง
+AppearanceName,incandescent book,
 AppearanceName,indigo book,หนังสือสีคราม
 AppearanceName,iridium wand,คทาอิริเดียม
+AppearanceName,iron bound book,
 AppearanceName,iron ring,แหวนเหล็ก
 AppearanceName,iron skull cap,หมวกกระโหลกเหล็ก
 AppearanceName,iron wand,คทาเหล็ก
+AppearanceName,ivory book,
 AppearanceName,ivory ring,แหวนงา
 AppearanceName,jackboots,รองเท้าบู๊ต
+AppearanceName,jade book,
 AppearanceName,jade ring,แหวนหยก
+AppearanceName,jewelled book,
 AppearanceName,jewelled wand,คทาฝังอัญมณี
 AppearanceName,jungle boots,รองเท้าเดินป่า
+AppearanceName,keening book,
 AppearanceName,key,กุญแจ
+AppearanceName,khaki potion,
 AppearanceName,lamp,ตะเกียง
 AppearanceName,large gun,ปืนกระบอกใหญ่
 AppearanceName,large round shield,โล่กรมใหญ่
+AppearanceName,leaden book,
 AppearanceName,leather apron,ผ้ากันเปื้อนหนัง
 AppearanceName,leather book,หนังสือหนัง
 AppearanceName,leather hat,หมวกหนัง
 AppearanceName,light blue book,หนังสือสีฟ้าอ่อน
 AppearanceName,light brown book,หนังสือสีน้ำตาลอ่อน
 AppearanceName,light green book,หนังสือสีเขียวอ่อน
+AppearanceName,limestone book,
+AppearanceName,linen book,
+AppearanceName,loam book,
 AppearanceName,long barrelled gun,ปืนลำกล้องยาว
 AppearanceName,long book,หนังสือยาว
 AppearanceName,long bow,ธนูยาว
@@ -211,13 +313,18 @@ AppearanceName,luminescent potion,โพชั่นเรืองแสง
 AppearanceName,magenta book,หนังสือสีม่วงแดง
 AppearanceName,magenta potion,โพชั่นสีม่วงแดงเข้ม
 AppearanceName,maple wand,คทาเมเปิ้ล
+AppearanceName,marble book,
 AppearanceName,marble wand,คทาหินอ่อน
 AppearanceName,marker,ที่ทำเครื่องหมาย
+AppearanceName,marlstone book,
 AppearanceName,medallion amulet,เครื่องรางเหรียญ
 AppearanceName,metal canister,กระป๋องโลหะ
 AppearanceName,metal pineapple,สับปะรดโลหะ
 AppearanceName,metal slug,ทากเหล็ก
+AppearanceName,mica book,
+AppearanceName,mildewed book,
 AppearanceName,milky potion,โพชั่นนม
+AppearanceName,millstone book,
 AppearanceName,mithril boots,รองเท้าเหล็กกล้า
 AppearanceName,mithril ring,แหวนมิธริล
 AppearanceName,mithril slug,ตัวทากมิธริล
@@ -225,70 +332,109 @@ AppearanceName,mithril staff,ไม้เท้ามิธริล
 AppearanceName,mood ring,แหวนมาลา
 AppearanceName,moonstone ring,แหวนจันทรกานต์
 AppearanceName,mortar gun,ปืนครก
+AppearanceName,mossy book,
+AppearanceName,moth eaten book,
 AppearanceName,mottled book,หนังสือกระดำกระด่าง
 AppearanceName,mud boots,รองเท้าบู๊ตเดินโคลน
 AppearanceName,muddy potion,โพชั่นเปื้อนเปรอะ
 AppearanceName,murky potion,โพชั่นขุ่นมัว
+AppearanceName,murmuring book,
+AppearanceName,muted book,
 AppearanceName,mysterious gadget,สิ่งประดิษฐ์ลึกลับ
+AppearanceName,notched book,
 AppearanceName,oak wand,คทาไม้โอ๊ค
+AppearanceName,obsidian book,
 AppearanceName,obsidian ring,แหวนออบซิเดียน
 AppearanceName,ochre book,หนังสือสีเหลืองน้ำตาล
 AppearanceName,octagonal amulet,เครื่องรางแปดเหลี่ยม
 AppearanceName,octagonal wand,คทาแปดเหลี่ยม
 AppearanceName,old gloves,ถุงมือเก่าๆ
+AppearanceName,olive branch book,
+AppearanceName,onyx book,
+AppearanceName,opal book,
 AppearanceName,opal ring,แหวนโอปอล
+AppearanceName,opaline book,
 AppearanceName,opera cloak,ผ้าคลุมละครเพลง
 AppearanceName,orange book,หนังสือสีส้ม
 AppearanceName,orange gem,อัญมณีสีส้ม
 AppearanceName,orange potion,โพชั่นสีส้ม
 AppearanceName,orange robe,ผ้าคุลมสีส้ม
 AppearanceName,ornamental cope,ผ้าคลุมประดับสวยงาม
+AppearanceName,ossuary book,
 AppearanceName,oval amulet,เครื่องรางรูปกลมรี
 AppearanceName,padded gloves,ถุงมือกันกระแทก
+AppearanceName,pale book,
 AppearanceName,papyrus book,หนังสือโบราณ
 AppearanceName,parchment book,หนังสือกระดาษหนัง
 AppearanceName,pearl earrings,ต่างหูไข่มุก
 AppearanceName,pearl ring,แหวนไข่มุก
+AppearanceName,phoenix down book,
 AppearanceName,piece of cloth,เศษผ้า
+AppearanceName,pine wand,
 AppearanceName,pink book,หนังสือสีชมพู
 AppearanceName,pink potion,โพชั่นสีชมพู
+AppearanceName,pitted book,
+AppearanceName,plague ridden book,
 AppearanceName,plaid book,หนังสือลายสก๊อต
 AppearanceName,plain book,หนังสือลายเรียบๆ
 AppearanceName,plain ring,แหวนลายเรียบๆ
 AppearanceName,plain robe,ผ้าคลุมเรียบๆ
 AppearanceName,plastic slug,ทากพลาสติค
 AppearanceName,plastic stick,แท่งพลาสติค
+AppearanceName,plastic wand,
 AppearanceName,platinum wand,คทาทองขาว
 AppearanceName,plumed helmet,หมวกประดับขนนก
+AppearanceName,pocked book,
 AppearanceName,pole cleaver,
 AppearanceName,pole sickle,
 AppearanceName,polished silver shield,โล่เงินขัดเงา
+AppearanceName,porphyry book,
+AppearanceName,prismatic book,
 AppearanceName,pronged polearm,หอกเป็นง่าม
 AppearanceName,pruning hook,
+AppearanceName,psalm book,
 AppearanceName,puce potion,โพชั่นสีม่วงอมน้ำตาล
+AppearanceName,pumice book,
 AppearanceName,purple book,หนังสือสีแดงเข้ม
 AppearanceName,purple-red potion,โพชั่นสีม่วงแดง
 AppearanceName,pyramidal amulet,เครื่องรางทรงพีระมิด
+AppearanceName,quartzite book,
+AppearanceName,quicksilver book,
+AppearanceName,radiant book,
 AppearanceName,ragged book,หนังสือเศษผ้า
 AppearanceName,rainbow book,หนังสือสีรุ้ง
 AppearanceName,red book,หนังสือสีแดง
 AppearanceName,red gem,อัยมณีสีแดง
 AppearanceName,red robe,ผ้าคลุมสีแดง
+AppearanceName,red stone,
 AppearanceName,red-eyed shield,โล่ดวงตาสีแดง
 AppearanceName,riding boots,รองเท้าขับรถ
 AppearanceName,riding gloves,ถุงมือขับรถ
+AppearanceName,rimed book,
+AppearanceName,riveted book,
 AppearanceName,ruby potion,โพชั่นสีทับทิม
 AppearanceName,ruby ring,แหวนทับทิม
 AppearanceName,runed arrow,ลูกธนูถูกเขียนสลัก
+AppearanceName,runed book,
 AppearanceName,runed bow,ธนูถูกเขียนสลัก
 AppearanceName,runed broadsword,ดาบใหญ่ถูกเขียนสลัก
 AppearanceName,runed dagger,มีดสั้นถูกเขียนสลัก
+AppearanceName,runed disc,
 AppearanceName,runed short sword,ดาบสั้นถูกเขียนสลัก
 AppearanceName,runed spear,หอกถูกเขียนสลัก
 AppearanceName,runed wand,คทาถูกเขียนสลัก
+AppearanceName,russet book,
+AppearanceName,rusted book,
 AppearanceName,rusty wand,คทาขึ้นสนิม
+AppearanceName,sable book,
+AppearanceName,saddle book,
+AppearanceName,sallow book,
 AppearanceName,samurai sword,ดาบซามูไร
+AppearanceName,sanguine book,
+AppearanceName,sapphire book,
 AppearanceName,sapphire ring,แหวนไพลิน
+AppearanceName,scalded book,
+AppearanceName,schist book,
 AppearanceName,scoped long gun,ปืนยาวติดกล้องส่อง
 AppearanceName,scroll labelled ANDOVA BEGARIN,คัมภีร์ที่ถูกเขียนไว้ว่า ANDOVA BEGARIN
 AppearanceName,scroll labelled AZZGAZ,คัมภีร์ที่ถูกเขียนไว้ว่า AZZGAZ
@@ -321,36 +467,56 @@ AppearanceName,scroll labelled XALICH UDED,คัมภีร์ที่ถู�
 AppearanceName,scroll labelled XIXAXA XOXAXA XUXAXA,คัมภีร์ที่ถูกเขียนไว้ว่า XIXAXA XOXAXA XUXAXA
 AppearanceName,scroll labelled YUM YUM,คัมภีร์ที่ถูกเขียนไว้ว่า YUM YUM
 AppearanceName,scroll labelled ZELGO MER,คัมภีร์ที่ถูกเขียนไว้ว่า ZELGO MER
+AppearanceName,sepia book,
+AppearanceName,sepulchral book,
 AppearanceName,shadow book,หนังสือเงา
+AppearanceName,shale book,
+AppearanceName,shimmering book,
 AppearanceName,shining book,หนังสือเรืองแสง
 AppearanceName,shiny ring,แหวนระยิบระยับ
 AppearanceName,short barrelled gun,ปืนลำกล้องสั้น
 AppearanceName,short samurai sword,ดาบซามูไรสั้น
 AppearanceName,short wand,คทาสั้น
 AppearanceName,shoulder gun,ปืนประทับไหล่
+AppearanceName,shrapnel book,
+AppearanceName,silk book,
+AppearanceName,silken book,
+AppearanceName,silly wand,
 AppearanceName,silver book,หนังสือเงิน
 AppearanceName,silver ring,แหวนเงิน
 AppearanceName,silver slug,ทากเงิน
 AppearanceName,silver wand,คทาเงิน
+AppearanceName,silvered book,
 AppearanceName,single-edged polearm,หอกปลายดาบคมเดียว
 AppearanceName,sky blue potion,โพชั่นสีฟ้าคราม
+AppearanceName,slate book,
 AppearanceName,slippery cloak,ผ้าคลุมลื่นๆ
 AppearanceName,small gun,ปืนเล็ก
+AppearanceName,small horizontal bow,
 AppearanceName,smoky potion,โพชั่นเป็นควัน
 AppearanceName,snow boots,รองเท้าเดินหิมะ
+AppearanceName,solar book,
+AppearanceName,sooty book,
+AppearanceName,soul bound book,
 AppearanceName,sparkling potion,โพชั่นระยิบระยับ
 AppearanceName,spherical amulet,เครื่องรางทรงกลม
 AppearanceName,spiked wand,คทามีหนาม
 AppearanceName,spotted book,หนังสือลายจุด
 AppearanceName,square amulet,เครื่องรางสี่เหลี่ยม
 AppearanceName,stained book,หนังสือสกปรก
+AppearanceName,starless book,
+AppearanceName,starlit book,
+AppearanceName,static book,
 AppearanceName,steel ring,แหวนเหล็กกล้า
 AppearanceName,steel wand,คทาเหล็กกล้า
 AppearanceName,sticky glob,ก้อนเหนียวๆ
+AppearanceName,storm wracked book,
 AppearanceName,stout mithril-coat,ผ้าคลุมมิธริลดูทนทาน
 AppearanceName,stout spear,หอกที่ดูทนทาน
 AppearanceName,studded samurai stick,
 AppearanceName,stylish book,หนังสือดูมีสไตล์
+AppearanceName,sundered book,
+AppearanceName,sunlit book,
 AppearanceName,swirly potion,โพชั่นน้ำวน
 AppearanceName,tan book,หนังสือสีดำแดง
 AppearanceName,tattered book,หนังสือขาดรุ่งริ่ง
@@ -365,35 +531,51 @@ AppearanceName,throwing disc,แผ่นขว้าง
 AppearanceName,throwing spear,หอกขว้าง
 AppearanceName,throwing star,ดาวกระจายขว้าง
 AppearanceName,throwing stick,ไม้ขว้าง
+AppearanceName,thunderous book,
 AppearanceName,tiger eye ring,แหวนตาเสือ
 AppearanceName,tin wand,คทาดีบุก
 AppearanceName,tiny book,หนังสือเล็กๆ
+AppearanceName,topaz book,
 AppearanceName,topaz ring,แหวนบุศราคัม
 AppearanceName,torn book,หนังสือขาดๆ
+AppearanceName,toy bat,
+AppearanceName,toy hammer,
 AppearanceName,toy sword,
 AppearanceName,triangular amulet,เครื่องรางทรงสามเหลี่ยม
 AppearanceName,turquoise book,หนังสือพลอย
 AppearanceName,twisted ring,แหวนบิดเบี้ยว
+AppearanceName,umber book,
+AppearanceName,unbound book,
 AppearanceName,unlabelled scroll,คัมภีร์เปล่าๆ
 AppearanceName,uranium wand,คทายูเรเนียม
+AppearanceName,veiled book,
 AppearanceName,vellum book,หนังสือหนังลูกวัว
 AppearanceName,velvet book,หนังสือกำมะหยี่
+AppearanceName,verdigris book,
 AppearanceName,violet book,หนังสือสีม่วง
 AppearanceName,violet gem,อัญมณีสีม่วง
 AppearanceName,visored helmet,หมวกมีที่กะบังหน้า
+AppearanceName,voltaic book,
 AppearanceName,vulgar polearm,
 AppearanceName,walking shoes,รองเท้าใส่เล่น
 AppearanceName,warped amulet,เครื่องรางผิดรูปร่าง
+AppearanceName,warped book,
+AppearanceName,waxen book,
 AppearanceName,wedding ring,แหวนแต่งงาน
+AppearanceName,welded book,
+AppearanceName,whispering book,
 AppearanceName,whistle,นกหวีด
 AppearanceName,white book,หนังสือสีขาว
 AppearanceName,white coat,ผ้าคลุมสีขาว
 AppearanceName,white gem,อัญมณีสีขาว
 AppearanceName,white potion,โพชั่นสีขาว
 AppearanceName,wide book,หนังสือกว้าง
+AppearanceName,wilted book,
 AppearanceName,winged missile,
 AppearanceName,wire ring,แหวนลวด
+AppearanceName,withered book,
 AppearanceName,wooden ring,แหวนไม้
+AppearanceName,wormwood book,
 AppearanceName,wrinkled book,หนังสือมีรอยย่น
 AppearanceName,yellow book,หนังสือสีเหลือง
 AppearanceName,yellow gem,อัญมณีสีเหลือง
@@ -489,62 +671,116 @@ BlockName,statue,รูปปั้น
 BlockName,stone boulder,หินก้อนเบ้อเริ่ม
 BlockName,trophy,
 BlockName,wooden barrel,ถังไม้
+BoonDescription,"A darker resurrection than the temples offer: certain to succeed, but the dead come back enraged.",
+BoonDescription,"A generous healing gift, fae-touched: your hands will not be quite steady later.",
 BoonDescription,Ask for a unicorn to join your party.,ขอให้ยูนิคอร์นเข้าร่วมปาร์ตี้
+BoonDescription,Ask the fae for a favour. What you get is entirely up to her mood.,
+BoonDescription,"Bathe in the etching vats. It burns, but you rise with a hide the acid cannot bite.",
 BoonDescription,Bless one item in your inventory or on the ground.,
 BoonDescription,Brew a random potion into your bottle of water.,
 BoonDescription,Butcher a corpse into an easy to carry container.,
 BoonDescription,Call upon the undead to fight for you.,
+BoonDescription,Consult the observatory's charts for the full layout of this level.,
 BoonDescription,Convert one item into a random alternative of the same type.,
 BoonDescription,Determine the enchantment and charges of all carried items.,
+BoonDescription,"Drill under the captain's eye. You may be quickened, or you may be worn out.",
+BoonDescription,Drink the warrior's drink and fight in a berserker rage. It does not spare your allies.,
+BoonDescription,"Eat at the fae table. You will not go hungry, but the wine shows you things that are not there.",
 BoonDescription,"Erase the magic from a potion, scroll or book.",
+BoonDescription,Fall into a trance and see through walls and floors for a time.,
 BoonDescription,Hatch an egg and become a parent.,
+BoonDescription,Have the efreeti bind a captive elemental to your service.,
+BoonDescription,"Have the temple armour smiths put a keener edge on one weapon, magical or not.",
+BoonDescription,Have the wizard read the true nature of everything you carry.,
+BoonDescription,"Have your destiny read from the stars, hastening your growth.",
 BoonDescription,Heal damage and recover mana for yourself and your steed if mounted.,
 BoonDescription,Learn how to cast a random spell.,
 BoonDescription,Learn the divine status of all carried items.,
 BoonDescription,Learn the name of one random unknown item.,
 BoonDescription,Make an imitation copy of an item.,
 BoonDescription,Partially recharge a spent item.,
+BoonDescription,Petition the vizier for a spectral cat to guard you as it once guarded the tomb.,
 BoonDescription,Place a curse on one equipped or carried item.,
+BoonDescription,"Plunge into the quenching trough. It burns with cold, but you rise proof against it.",
 BoonDescription,Reanimate a corpse as a loyal revenant.,คืนชีพศพขึ้นมาเป็นทาสรับใช้
+BoonDescription,Receive the linen wrappings used to prepare the dead for the afterlife.,
 BoonDescription,Remove all magic from an item.,
 BoonDescription,Remove the curse on one equipped or carried item.,
 BoonDescription,Rename an item for vanity and as a small protection against cancellation.,
 BoonDescription,Request a fresh corpse with no questions asked.,
 BoonDescription,Request one cast of the polymorph spell.,
+BoonDescription,Requisition soldiers from the garrison to march at your side.,
 BoonDescription,Restore any lost ability and remove any negative transient conditions.,
 BoonDescription,Return a corpse back to life.,
+BoonDescription,Stand in the temple square and receive the captain's defensive blessing.,
+BoonDescription,"Step into the forge fire. It burns, but you rise with fire in your blood.",
 BoonDescription,Summon a powerful steed from the underworld.,
 BoonDescription,Summon a tame forest beast as your ally.,
+BoonDescription,Summon an escort from the pharaoh's retinue to walk beside you.,
+BoonDescription,The princess trades you a measure of charm. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of grace. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of wit. Something else must give way for it.,
+BoonDescription,Toss a coal on the forge fire and take whatever ward it grants you.,
+BoonDescription,Train under a veteran until a weapon or armour discipline sticks.,
 BoonDescription,Upgrade an item or increase its power.,
 BoonDescription,Use nature magic to grow the power of your ally.,
+BoonDescription,Watch the level through the great lens and mark every creature on it.,
+BoonDescription,Whisper a question into the vault. The dead do not always tell the truth.,
 BoonDescription,Write a random scroll onto your blank paper.,
 BoonName,animate dead,คืนชีพสิ่งไม่มีชีวิต
 BoonName,assess,
+BoonName,banquet of the fae,
+BoonName,battle fury,
+BoonName,black rite of revival,
 BoonName,bless,
+BoonName,bound elemental,
 BoonName,brew,
+BoonName,call the escort,
 BoonName,cancel,
+BoonName,capricious wish,
+BoonName,chart the level,
+BoonName,clairvoyant trance,
+BoonName,commune with the dead,
 BoonName,corpse wish,
+BoonName,court of the underworld,
 BoonName,divine,ทำนาย
+BoonName,drill,
 BoonName,enchant,ลงอาคม
 BoonName,enlighten,
 BoonName,erase,ลบ
+BoonName,fae cunning,
+BoonName,fae grace,
+BoonName,fae guile,
 BoonName,fantastical beast,
+BoonName,forced march,
+BoonName,godmother's blessing,
 BoonName,grow,โตขึ้น
 BoonName,hatch,ฟักไข่
+BoonName,identify all,
+BoonName,map the ranks,
 BoonName,nightmare steed,
+BoonName,ordeal of embers,
 BoonName,place curse,ลงคำสาป
 BoonName,polymorph,กลายร่าง
 BoonName,purify,
 BoonName,raise dead,ปรุกชีพ
+BoonName,read your destiny,
 BoonName,recharge,
 BoonName,reforge,
 BoonName,rejuvenate,
 BoonName,remove curse,ล้างคำสาป
 BoonName,rename,เปลี่ยนชื่อ
 BoonName,replicate,
+BoonName,sacred wrappings,
 BoonName,scribe,
+BoonName,sharpen blade,
+BoonName,shield wall,
 BoonName,teach spell,สอนเวท
+BoonName,temper in acid,
+BoonName,temper in flame,
+BoonName,temper in frost,
 BoonName,tinned meat,
+BoonName,tomb guardian,
 BoonName,undead army,กองทัพอันเด๊ด
 BoonName,unicorn friend,เป็นเพื่อนกับยูนิคอร์น
 CalendarText,d MMMM yyyy,dd/MM/yyyy
@@ -560,7 +796,11 @@ CharacterName,Bason,บาซอน
 CharacterName,Belietha,เบลิเอธา
 CharacterName,Bok,บ๊อค
 CharacterName,Bolan,โบลัน
+CharacterName,Bones,
+CharacterName,Borgrim,
+CharacterName,Briar,
 CharacterName,Brouwer,บราวเวอร์
+CharacterName,Buckshot,
 CharacterName,Cailie,เคลี่
 CharacterName,Capo,คาโป
 CharacterName,Carthyre,คาร์ไทร์
@@ -581,18 +821,25 @@ CharacterName,Emina,เอมิน่า
 CharacterName,Enlan,เอนลาน
 CharacterName,Ericendrick,เอริคเอนดริค
 CharacterName,Eybrinde,เอย์บรินเด้
+CharacterName,Fangs,
 CharacterName,Faraze,ฟาเรค
 CharacterName,Fenlas,เฟนลาส
 CharacterName,Fenraymond,เฟนเรย์มอนด์
+CharacterName,Fern,
 CharacterName,Floki,โฟลกิ
 CharacterName,Forro,ฟอร์โร
 CharacterName,Franzia,ฟรานเซีย
 CharacterName,Galday,กัลเดย์
 CharacterName,Gasberg,แกสเบิร์ก
+CharacterName,Gearwing,
+CharacterName,Ghrenna,
+CharacterName,Giggles,
 CharacterName,Gleichman,กลีชแมน
 CharacterName,Gmima,กมิมา
 CharacterName,Gohu,โก
 CharacterName,Gomack,โกแมค
+CharacterName,Grakna,
+CharacterName,Grum,
 CharacterName,Grytt,กรีตต์
 CharacterName,Haelom,เฮลอม
 CharacterName,Haique,ไฮคิว
@@ -615,34 +862,41 @@ CharacterName,Kevugo,เควูโก้
 CharacterName,Kierantha,เคียรันทา
 CharacterName,Kira,คิระ
 CharacterName,Kneller,เนลเลอร์
+CharacterName,Korrath,
 CharacterName,Lagratha,ลากราธา
 CharacterName,Lanetwalz,ลาเน็ตวาลซ์
 CharacterName,Lant,แลนท์
 CharacterName,Lesha,เลชา
 CharacterName,Luickean,ลูเคียน
+CharacterName,Lyric,
 CharacterName,Lzay,ลูเซ
 CharacterName,Malasuth,มาลาสุทธิ์
+CharacterName,Malgrim,
 CharacterName,Marisa,มาริสา
 CharacterName,Melchai,เมลไช
 CharacterName,Meloty,เมโลตี
 CharacterName,Miller,มิลเลอร์
 CharacterName,Misteph,มิสเสต็ป
 CharacterName,Nichaeltoy,ไนเคิลทอย
+CharacterName,Nihlus,
 CharacterName,Ninerma,ไนเนอร์มา
 CharacterName,Ninhart,นินฮาร์ท
 CharacterName,Ninny,นินนี่
 CharacterName,Nodin,โนดิน
 CharacterName,Norbant,นอร์บันท์
+CharacterName,Nugget,
 CharacterName,Okennwood,โอเคนน์วูด
 CharacterName,Ollac,โอแลค
 CharacterName,Omdarro,ออมดาร์โร
 CharacterName,Orankin,ออแรนคิน
 CharacterName,Oscae,ออสกี้
 CharacterName,Paltrick,พัลทริก
+CharacterName,Panderos,
 CharacterName,Pauwinner,เพาวินเนอร์
 CharacterName,Penevieve,เพเนวีฟ
 CharacterName,Perceval,เพอร์ซีวอล
 CharacterName,Pinkerton,พินเคอร์ตัน
+CharacterName,Pip,
 CharacterName,Plegg,เพล็ก
 CharacterName,Pleyson,เพลย์สัน
 CharacterName,Pnerfa,เนอร์ฟา
@@ -660,16 +914,26 @@ CharacterName,Rebenna,รีเบนน่า
 CharacterName,Renorber,รีนอร์เบอร์
 CharacterName,Rokiju,โรคิจู
 CharacterName,Rupley,รูลี่ย์
+CharacterName,Rustbeard,
 CharacterName,Sarlia,ซาร์เลีย
+CharacterName,Scraps,
+CharacterName,Sentinel,
+CharacterName,Serathiel,
+CharacterName,Shadow,
 CharacterName,Shinaas,ชินาส
+CharacterName,Sissik,
+CharacterName,Skrix,
 CharacterName,Smither,สมิธเทอร์
+CharacterName,Sprocket,
 CharacterName,Stevere,สตีเวเร่
 CharacterName,Stewite,สตีไวท์
 CharacterName,Sully,ซัลลี่
 CharacterName,Talon,ทาล่อน
 CharacterName,Tanyacka,ธัญญ่า
 CharacterName,Thakuline,ทาคูลีน
+CharacterName,Thokk,
 CharacterName,Threepo,ทรีโพ
+CharacterName,Tillie,
 CharacterName,Timonen,ทิโมเนน
 CharacterName,Trank,ทรังค์
 CharacterName,Udfoot,อุดฟุต
@@ -677,7 +941,10 @@ CharacterName,Uffle,อัฟเฟิล
 CharacterName,Ujopayne,อูโจเพย์น
 CharacterName,Umazi,อุมาซี่
 CharacterName,Urenval,ยูเรนวาล
+CharacterName,Vaelithra,
+CharacterName,Valor,
 CharacterName,Valorn,วาลอร
+CharacterName,Vashti,
 CharacterName,Vekincarc,เวคินคาร์
 CharacterName,Vidar,วิดาร์
 CharacterName,Vikethome,วิเกตโฮม
@@ -687,7 +954,9 @@ CharacterName,Wallison,วอลลิสัน
 CharacterName,Waltis,วอลติส
 CharacterName,Walzen,วอลเซน
 CharacterName,Wendry,เวนดรี
+CharacterName,Wisp,
 CharacterName,Wollet,วอเล็ต
+CharacterName,Wraith,
 CharacterName,Xamarin,ซามาริน
 CharacterName,Xandries,แซนดรีส
 CharacterName,Xank,แซงค์
@@ -699,6 +968,7 @@ CharacterName,Yassage,ยาสเซจ
 CharacterName,Yorque,ยอร์ค
 CharacterName,Yral,วายรอล
 CharacterName,Yuvaloren,ยูวาโลเรน
+CharacterName,Zathrik,
 CharacterName,Zean,ซาน
 CharacterName,Zerbarry,เซอร์แบรี่
 CharacterName,Zimn,ซิมน์
@@ -709,16 +979,19 @@ ClassDescription,"Benevolent caretakers, always willing to lend a helping hand t
 ClassDescription,"Champions of the winter realms, fierce and proud. Hardy and strong, they will boldly face any challenger until they meet a glorious death.",
 ClassDescription,"Charming minstrels, making their way through the world with their songs and stories. They are jacks-of-all-trades; alongside their troubadour talents, they dabble in both martial skills and spellcraft.",
 ClassDescription,"Conductors of natural energies, these uniquely attuned spell casters derive their powers from the living world. Peaceful until threatened, they are unafraid to respond with animalistic savagery.",
+ClassDescription,"Contract killers trained to strike once, from the dark, and vanish before the body is found. They favour poisoned steel over honest combat and trust no blade they have not sharpened themselves.",
 ClassDescription,"Corrupt and hateful souls, who are motivated by causing carnage and spreading chaos. Subject to uncontrollable bouts of rage, they bring doom and destruction to friend and foe alike.",
 ClassDescription,"Daft harlequins, always carrying a trick up their sleeves. Eclectic and eccentric; they are unassuming masters of chaos, adept in many bewildering talents.",
 ClassDescription,"Deft miscreants, conniving and quick with their wits. Through trial and error, they have learned that their best chance in avoiding the clutches of death is to stick to the shadows and outmanoeuvre their pursuers.",
 ClassDescription,"Devoted to understanding the essence of magic and the marvel of engineering, these adept craftsman crave both knowledge and resources. Whether directed by madness or genius, they are a capable adversary and a tenacious survivor.",
 ClassDescription,Escaped criminals who have spent so much of their life incarcerated that any trace of who or what they once were has all but vanished.,
 ClassDescription,"Freebooting buccaneers, sailing the high seas and plundering many a merchant's vessel in their endless pursuit of riches and infamy. They are murderous cutthroats with little regard for anything but gold.",
+ClassDescription,"Grim oath-bound hunters who court death against the mightiest foes, undead and monstrous alike. What they lack in subtlety they make up for with unrelenting rage and a body built to shrug off ruin.",
 ClassDescription,"Happy-go-lucky travellers, committed to only the most authentic experiences. Quixotic and brave, they meticulously prepare with a wide variety of paraphernalia - yet remain ill-equipped for the perils they will soon face.",
 ClassDescription,"Hidden agents, fleet-footed and schooled in many ancient arts of assassination. When all else fails, they are indubitably prepared to make swift escapes.",
 ClassDescription,"Honourable warriors, who have dedicated their lives to an ancient code. Skilled in art of dual-wielding blades, they make fast work of their enemies.",
 ClassDescription,"Keepers of cosmic secrets, who derive their sacred powers from the spirit realms hidden from mortal eyes. They are compelled by dark forces and are adept at bending the material world to their will.",
+ClassDescription,"Keepers of old hexes and older grudges, more at home among gravestones and cauldrons than decent company. They do not hurl fire; they unmake their enemies' luck, strength and flesh by degrees.",
 ClassDescription,"Noble savages, hardened to battle by generations of survival in the unforgiving wilderness. They are not strangers to death's call; legends tell of their incredible strength and battle prowess with heavy weapons.",
 ClassDescription,"Obsessed with blurring the line between life and death, these meddlers of dark forces prefer to associate with cadavers over the living. To some, the rituals are grotesque, but they see pure majesty in the manipulation of the natural order.",
 ClassDescription,"Pious scholars, oath-bound to their scripture. Although altruistic and good-natured, they are trained in martial arts so as to protect themselves and the canon they live by.",
@@ -729,11 +1002,16 @@ ClassDescription,Questionably pious individuals from an ancient religious and mi
 ClassDescription,"Quintessential scientific researchers and dauntless historical investigators. Both brash and debonair, they seek out knowledge and accolades alike. They are curiously fond of whips and share a perplexing hatred towards serpents.",
 ClassDescription,"Restless desperados, driven by wanderlust and troubled by the haunting memories of those they could not protect. They are sly masters of lead and steel, hellbent on redemption and retribution.",
 ClassDescription,"Righteous clergymen, dedicated to a life of sacrifice and spreading the word of their almighty deities. Well-versed in divine magic and the judicial delivery of violence to those deemed unworthy of salvation.",
+ClassDescription,"Scholars who bound their fate to raw elemental force rather than the slower disciplines of wizardry. Fire and frost answer their call in equal measure, a duality most mages never dare attempt.",
+ClassDescription,"Self-taught chemists of the underworld, forever mixing, tasting and bottling the unknown. What they lack in swordsmanship they make up for with a satchel of volatile solutions and a hard-won immunity to their own mistakes.",
 ClassDescription,"Strongly built, tough and industrious workers who are more than capable in dangerous situations. Traditional practices and heavy tools are used to overcome obstacles in their pursuit of valuable gemstones.",
 ClassDescription,"Sworn to uphold justice, these righteous warriors are dogmatic in pursuit of their sacred work. Classical martial skills are complemented by magical powers to protect the innocent and smite the wicked.",
 ClassDescription,"Venerable men-at-arms clad in gleaming armour, renowned for their unyielding chivalry and conviction. They are high-born and are educated to be strategists and capable leaders on any battlefront.",
 ClassDescription,"Warrior slaves compelled to battle for the entertainment of raucous crowds, often to the death. Those that can survive this cauldron are trained into the most brutal of pit fighters.",
 ClassDescription,"Wilderness sentinels who understand the true balance of the universe. With bow in hand, they have devoted their lives to protecting the forces of nature from the corrupting touch of civilisation.",
+ClassName,apothecary//female,
+ClassName,apothecary//male,
+ClassName,apothecary//non-binary,
 ClassName,barbarian//female,คนเถื่อน
 ClassName,barbarian//male,คนเถื่อน
 ClassName,barbarian//non-binary,คนเถื่อน
@@ -749,6 +1027,9 @@ ClassName,convict//non-binary,นักโทษ
 ClassName,druid//female,ดรูอิด
 ClassName,druid//male,ดรูอิด
 ClassName,druid//non-binary,ดรูอิด
+ClassName,elementalist//female,
+ClassName,elementalist//male,
+ClassName,elementalist//non-binary,
 ClassName,explorer//female,นักสำรวจ
 ClassName,explorer//male,นักสำรวจ
 ClassName,explorer//non-binary,นักสำรวจ
@@ -782,6 +1063,9 @@ ClassName,mystic//non-binary,ผู้ลึกลับ
 ClassName,necromancer//female,เนโครแมนเซอร์
 ClassName,necromancer//male,เนโครแมนเซอร์
 ClassName,necromancer//non-binary,เนโครแมนเซอร์
+ClassName,nightblade//female,
+ClassName,nightblade//male,
+ClassName,nightblade//non-binary,
 ClassName,ninja//female,นินจา
 ClassName,ninja//male,นินจา
 ClassName,ninja//non-binary,นินจา
@@ -809,6 +1093,9 @@ ClassName,samurai//non-binary,ซามูไร
 ClassName,shaman//female,หมอผี
 ClassName,shaman//male,หมอผี
 ClassName,shaman//non-binary,หมอผี
+ClassName,slayer//female,
+ClassName,slayer//male,
+ClassName,slayer//non-binary,
 ClassName,templar//female,นักรบแห่งศาสนา
 ClassName,templar//male,นักรบแห่งศาสนา
 ClassName,templar//non-binary,นักรบแห่งศาสนา
@@ -821,18 +1108,26 @@ ClassName,tourist//non-binary,นักท่องเที่ยว
 ClassName,valkyrie//female,วาลคิรี
 ClassName,valkyrie//male,วาลคิรี
 ClassName,valkyrie//non-binary,วาลคิรี
+ClassName,witch//female,
+ClassName,witch//male,
+ClassName,witch//non-binary,
 ClassName,wizard//female,พ่อมด
 ClassName,wizard//male,พ่อมด
 ClassName,wizard//non-binary,พ่อมด
+CompanionName,almiraj,
+CompanionName,astral puppy,
 CompanionName,bird,นก
+CompanionName,blink puppy,
 CompanionName,cat,แมว
 CompanionName,dog,สุนัข
 CompanionName,egg,ไข่
 CompanionName,ghoul,ปอบ
+CompanionName,hamster,
 CompanionName,horse,ม้า
 CompanionName,imp,ปีศาจน้อย
 CompanionName,monkey,ลิง
 CompanionName,rat,หนู
+CompanionName,raven,
 CounterName,afflictions,ความทุกข์
 CounterName,animations,
 CounterName,anoints,
@@ -925,8 +1220,10 @@ DeviceName,fire trap,กับดักไฟ
 DeviceName,grease trap,กับดักจารบี
 DeviceName,hallucination trap,กับดักประสาทหลอน
 DeviceName,hole,รู
+DeviceName,humantrap,
 DeviceName,hunger trap,กับดักหิวโหย
 DeviceName,ice trap,กับดักน้ำแข็ง
+DeviceName,ink pool,
 DeviceName,level teleporter,เครื่องย้ายชั้น
 DeviceName,lightning trap,กับดักสายฟ้า
 DeviceName,noxious pool,อ่างพิษ
@@ -941,6 +1238,7 @@ DeviceName,sleeping gas trap,กับดักแก๊สยาสลบ
 DeviceName,spear trap,กับดักหอก
 DeviceName,spiked pit,หลุมพรางเหล็กแหลม
 DeviceName,squeaky board,ไม้กระดานมีเสียงเอี๊ยดๆ
+DeviceName,statue trap,
 DeviceName,teleporter,เคลื่อนย้ายมวลสาร
 DeviceName,toxic trap,กับดักพิษ
 DeviceName,trapdoor,ประตูกับดัก
@@ -1007,15 +1305,68 @@ EncumbranceName,stressed,กดดัน
 EncumbranceName,unencumbered,ไม่มีภาระ
 EngulfmentName,engulfed,กลืนแล้ว
 EngulfmentName,swallowed,กลืนแล้ว
+EntityDescription,"A blink dog pup, already able to flicker away from danger before it lands a bite.",
+EntityDescription,A bulbous fungus that bursts into a hissing cloud of acid when disturbed.,
+EntityDescription,"A cave bear whose pelt has gone grey as cinders, hardened by years sheltered in a live volcano's roots.",
+EntityDescription,"A cave spider drained of all colour by lightless generations, hunting by web-thrum alone.",
+EntityDescription,"A cobra pale as hoarfrost, coiled in the ice caves where warm-blooded prey seeks shelter.",
+EntityDescription,"A coyote with a static-charged coat, drawn down from the high plains after a lightning storm.",
+EntityDescription,"A dead tree animated by rot and old malice, its bark split open where a jaw shouldn't be.",
+EntityDescription,"A dragon steeped in high magic, said to hoard grimoires as jealously as gold.",
+EntityDescription,A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.,
+EntityDescription,A dwarf of a mountain clan so far north the forge-fires burn blue; one of its twin mattocks bites like the wind off the peak.,
+EntityDescription,A fey hound that flickers between here and elsewhere; it fights alongside anyone it trusts.,
+EntityDescription,"A giant bat with clouded, sightless eyes, navigating wholly by the shriek of its own echo.",
+EntityDescription,"A giant beetle with a carapace of blue-white chitin, breath steaming with cold in the deep dark.",
+EntityDescription,"A giant caked grey with volcanic ash, walking down from a smoking peak with a club still smoking at the tip.",
+EntityDescription,"A giant of the high glaciers, sheathed in rime; its breath alone can flash-freeze a puddle solid.",
+EntityDescription,"A gila monster whose beaded hide glows dull orange along the seams, as if lit from beneath.",
+EntityDescription,"A gnome who never left the deep tunnels, pale and stooped, at ease chewing through rock with a pickaxe.",
+EntityDescription,"A golem cast from bronze rather than raw iron; where its cousin only staggers under a lightning strike, this one drinks the current and spits it back.",
+EntityDescription,"A hound of the Astral plane, half-seen even when it stands still; it does not breathe or bleed.",
+EntityDescription,"A jackal wasted by sickness, its ribs showing through a mangy hide; its bite festers.",
+EntityDescription,A jelly black as a starless sky; things it touches for too long forget how alive they were.,
+EntityDescription,A jelly that glows faintly like a coal; fire only makes it swell larger and angrier.,
+EntityDescription,A jelly that reeks of rot; it dissolves flesh and gear alike to feed itself.,
+EntityDescription,"A jelly the colour of a bruise, faintly crackling; touching it feels like brushing a doorknob after crossing a carpet in winter.",
+EntityDescription,"A jelly the colour of glacier ice, cold to the touch and colder still if it touches back.",
+EntityDescription,"A kobold camouflaged in mottled green, more comfortable in the canopy than underground; it spits venom from a hollow reed.",
+EntityDescription,"A long worm that burrows through permafrost, its segmented hide crusted with rime.",
+EntityDescription,"A lynx with a rime-white winter coat, breath fogging even in a warm room.",
 EntityDescription,A medium-sized creature prone to great ambition. Short-lived but ubiquitous; they are not to be underestimated.,
+EntityDescription,"A panther whose black coat smoulders at the edges, leaving smoking pawprints on stone.",
+EntityDescription,"A plump waterfowl, unbothered by dungeons so long as there is a puddle nearby.",
+EntityDescription,"A pudding of black, viscid tar that oozes and smoulders at once; anything it swallows comes out cindered.",
+EntityDescription,"A raven with feathers like beaten iron, riding the thunderheads and stooping with a crack of static.",
+EntityDescription,"A rodent the size of a dog, cheek pouches bulging with whatever it last found on the floor.",
+EntityDescription,"A sewer rat gone pure white and pink-eyed, blind from generations in unlit tunnels.",
+EntityDescription,"A shade gone pale and crystalline, trailing frost wherever it drifts; the cold pours off it before it ever draws near.",
+EntityDescription,A shambling corpse wrapped in weeping buboes; the sickness that killed it did not stop working when it died.,
+EntityDescription,"A shark bred to lightless ocean trenches, its eyes filmed over and useless.",
+EntityDescription,"A skeleton picked clean by something worse than time; its bones are black at the joints, and its touch draws the warmth out of the living.",
+EntityDescription,A small heap of coins that isn't quite finished counting itself.,
+EntityDescription,"A small, quick-witted dragon out of the fey courts, more prankster than predator.",
+EntityDescription,"A spitting beetle whose glands have gone volcanic, hawking gobbets of burning pitch.",
+EntityDescription,"A standing wave of brackish swamp water, thick with algae and old poison; nothing in it is fresh, and nothing about touching it is safe.",
+EntityDescription,"A troll that wandered too near a volcano and came out the other side wrong: its hide is cracked magma-rock, glowing at every seam.",
+EntityDescription,"A water moccasin gone jet black, all but invisible against a night-flooded cave pool.",
+EntityDescription,"A weathered chest, until its lid splits open into a maw ringed with teeth.",
+EntityDescription,"A young astral dog, still learning to keep all four paws on the material plane at once.",
+EntityDescription,"A young mimic, its shapeshifting still crude — usually just a box that bites back.",
 EntityDescription,"Amorphous beings who have no typical shape but often take on a translucent humanoid form. While unmistakable for anything other than a plasma-like ooze, this form enables the use of clothing and tools.",
 EntityDescription,"An ancient race of towering recluses. Their terrifying size gives them immense strength, supplemented by a voracious diet of meats and minerals.",
+EntityDescription,"An ape with a crackling, wire-taut hide, native to the thunderheads above the high peaks.",
+EntityDescription,"An elf of the sunlit dunes, skin bronzed and eyes narrowed; its arrows are fletched with fire-hardened reed and fly burning.",
+EntityDescription,"An ogre gone half-feral in the fens, its skin sallow and slick; its claws carry a rot no wound-dressing can clean.",
+EntityDescription,An orc mummy exhumed from a barrow sealed under a cinder-field; its wrappings are charred and its grip sears whatever it holds.,
+EntityDescription,"An orc that has made its home in the marshlands, its blade notched and slicked with venom drawn from swamp adders.",
 EntityDescription,"Astral beings who are a vessel for the indomitable spirit of a vanquished adventurer. Having no motivations of their own, they are glad to permit the possession; for the deceased adventurer, it is a second chance at revenge or redemption. Born from astral matter, they are slightly built, translucent and can move freely through physical obstacles.",
 EntityDescription,"Beautiful, otherworldly beings characterised by their signature halo and feathered wings. Strongly attuned to the struggle between good and evil, they sense the divinity within anything they hold.",
 EntityDescription,Beware this clockwork machine of war.,
 EntityDescription,Bipedal mechanical automatons with nearly unbounded artificial intelligence. Powered by a molten core engine that requires a constant supply of raw metals and is susceptible to water damage.,
 EntityDescription,"Fey creatures linked by powerful nature spirits to fuel their antics. They are stocky with furry lower bodies, cloven hooves of a goat and curled horns of a ram. Ribald and clever, they cheerfully lead hedonistic escapades of drinking, dancing and fighting.",
 EntityDescription,"Imposing and heavily built, they resemble humanoid dragons with a snout, scaly hide and functional wings.",
+EntityDescription,"It waits among the headstones shaped like one more grave marker, patient as the dead around it.",
 EntityDescription,"Large, omnivorous reptilians whose bestial ancestors dominated the world long before the birth of civilisation. They are fearsome predators, capable of leaping impressive distances and warding off many attacks with their thick scaly hides.",
 EntityDescription,Monstrous creatures with the head and tail of a bull and the body of a man.,
 EntityDescription,"Perverse creatures of many aberrations but always with crimson skin and horns. Their mere presence compels others to act out their darkest, most violent desires.",
@@ -1033,7 +1384,11 @@ EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.",
 EntityName,abbot,อธิการ
+EntityName,abyssal shark,
 EntityName,acid blob,ก้อนกรด
+EntityName,acid elemental,
+EntityName,acid sphere,
+EntityName,acid spore,
 EntityName,acid worm,หนอนกรด
 EntityName,acolyte,สาวก
 EntityName,adamantine golem,
@@ -1049,8 +1404,15 @@ EntityName,adult shimmering dragon,มังกรหลากสี
 EntityName,adult silver dragon,มังกรเงิน
 EntityName,adult white dragon,มังกรขาว
 EntityName,adult yellow dragon,มังกรเหลือง
+EntityName,air binder,
 EntityName,air elemental,ธาตุลม
+EntityName,air maker,
+EntityName,air seeker,
+EntityName,air sphere,
+EntityName,albino rat,
+EntityName,alchemist,
 EntityName,Aleax,อเล็กซ์
+EntityName,almiraj,
 EntityName,ancient black dragon,มังกรดำโบราณ
 EntityName,ancient blue dragon,มังกรฟ้าโบราณ
 EntityName,ancient deep dragon,มังกรลึกลับโบราณ
@@ -1063,6 +1425,7 @@ EntityName,ancient silver dragon,มังกรเงินโบราณ
 EntityName,ancient white dragon,มังกรขาวโบราณ
 EntityName,ancient yellow dragon,มังกรเหลืองโบราณ
 EntityName,angel,ทูตสวรรค์
+EntityName,angel warrior,
 EntityName,animate object,วัตถุมีชีวิต
 EntityName,ape,วานร
 EntityName,Aphrodite,อาโฟรไดตี้
@@ -1070,17 +1433,30 @@ EntityName,apprentice,ลูกศิษย์
 EntityName,arc bug,
 EntityName,arch-lich,ลิชชั้นสูง
 EntityName,archangel,ทูตสวรรค์ชั้นสูง
+EntityName,archeologist,
 EntityName,Archmage Dirachi,จอมเวทน้ำแข็งชั้นสูง
 EntityName,Archmage Flaynn,จอมเวทเพลิงชั้นสูง
 EntityName,archon,อาร์คอน
 EntityName,Archpriest Avvakrum,
+EntityName,army captain,
+EntityName,army lieutenant,
+EntityName,army sergeant,
+EntityName,army soldier,
 EntityName,artisan,
+EntityName,ash elemental,
+EntityName,ash giant,
+EntityName,ashen cave bear,
+EntityName,ashen mummy,
 EntityName,Ashikaga Takauji,
 EntityName,Asmodeus,
 EntityName,asphynx,
+EntityName,assassin,
 EntityName,assassin bug,
 EntityName,Assassin Mortimer,จ้าวนักลอบสังหาร
 EntityName,astral deva,
+EntityName,astral dog,
+EntityName,astral dragon,
+EntityName,astral puppy,
 EntityName,athol,
 EntityName,attendant,
 EntityName,Baalzebub,
@@ -1092,6 +1468,7 @@ EntityName,baby deep dragon,ลูกมังกรลึกลับ
 EntityName,baby gold dragon,
 EntityName,baby green dragon,ลูกมังกรเขียว
 EntityName,baby long worm,ลูกหนอนตัวยาว
+EntityName,baby mimic,
 EntityName,baby orange dragon,ลูกมังกรส้ม
 EntityName,baby purple worm,ลูกหนอนม่วง
 EntityName,baby red dragon,ลูกมังกรแดง
@@ -1111,8 +1488,10 @@ EntityName,basilisk,
 EntityName,bat,ค้างคาว
 EntityName,bearded devil,
 EntityName,beholder,
+EntityName,berserker,
 EntityName,bile worm,
 EntityName,bile worm tail,
+EntityName,bishop,
 EntityName,black light,แสงสีดำ
 EntityName,black marketeer,
 EntityName,black mould,เชื้อราสีดำ
@@ -1123,26 +1502,37 @@ EntityName,black rat,หนูสีดำ
 EntityName,black troll,โทรลดำ
 EntityName,black unicorn,ยูนิคอร์นดำ
 EntityName,black wasp,
+EntityName,blind cave bat,
+EntityName,blink dog,
+EntityName,blink puppy,
 EntityName,blinking eye,ดวงตากระพริบ
 EntityName,blood imp,
 EntityName,bloodshot eye,
 EntityName,bloodworm,
 EntityName,blue jelly,
 EntityName,blue light,
+EntityName,bog ogre,
 EntityName,bone devil,ปีศาจกระดูก
+EntityName,bone reaper,
+EntityName,brine elemental,
+EntityName,bronze golem,
 EntityName,brown mould,เชื้อราสีน้ำตาล
 EntityName,brown pudding,
 EntityName,brownie,
 EntityName,bugbear,
 EntityName,bull,
+EntityName,buraq,
 EntityName,burbling blob,
+EntityName,bushi,
 EntityName,byakhee,
+EntityName,Byakko,
 EntityName,captain,กัปตัน
 EntityName,carnivorous ape,วานรกินเนื้อ
 EntityName,carrion crawler,
 EntityName,caterwaul,
 EntityName,catoblepas,
 EntityName,cave bear,
+EntityName,cave gnome,
 EntityName,cave spider,แมงมุมถ้ำ
 EntityName,cave troll,
 EntityName,centipede,
@@ -1151,6 +1541,7 @@ EntityName,chameleon,
 EntityName,changeling,เชนจลิง
 EntityName,Charon,
 EntityName,chasme,
+EntityName,cherubim,
 EntityName,chickatrice,
 EntityName,chicken,ไก่
 EntityName,chief yeoman warder,
@@ -1170,6 +1561,7 @@ EntityName,crocodile,จรเข้
 EntityName,Croesus,
 EntityName,crystal golem,โกเล็มผลึก
 EntityName,Cthulhu,
+EntityName,cyan jelly,
 EntityName,cyclops,
 EntityName,dao,
 EntityName,dark cleric,
@@ -1201,7 +1593,12 @@ EntityName,dracon,
 EntityName,dragon king,ราชามังกร
 EntityName,dretch,
 EntityName,drow,
+EntityName,drow mage,
+EntityName,drow monk,
+EntityName,drow priestess,
+EntityName,drow thief,
 EntityName,dryad,
+EntityName,duck,
 EntityName,duergar,
 EntityName,dung worm,
 EntityName,dust vortex,
@@ -1220,6 +1617,7 @@ EntityName,earth seeker,
 EntityName,earth sphere,
 EntityName,echo,
 EntityName,efreeti,
+EntityName,elder wizard,
 EntityName,electric eel,ปลาไหลไฟฟ้า
 EntityName,elephant,ช่าง
 EntityName,elf,เอลฟ์
@@ -1229,16 +1627,24 @@ EntityName,elf mummy,มัมมี่เอลฟ์
 EntityName,elf zombie,ผีดิบเอลฟ์
 EntityName,Elwing,
 EntityName,embalmer,
+EntityName,ember panther,
+EntityName,ember spitting beetle,
 EntityName,emerald golem,
+EntityName,energy elemental,
 EntityName,energy vortex,
 EntityName,erinys,
+EntityName,eshim,
 EntityName,ettin,
 EntityName,ettin mummy,
 EntityName,ettin zombie,
+EntityName,explosive elemental,
+EntityName,explosive sphere,
 EntityName,exterminator,
+EntityName,fae dragon,
 EntityName,fairy,ภูติ
 EntityName,Famine,
 EntityName,Father Dagon,บิดามังกร
+EntityName,female demon,
 EntityName,fiend,
 EntityName,fire ant,มดไฟ
 EntityName,fire elemental,ธาตุไฟ
@@ -1257,16 +1663,24 @@ EntityName,fog cloud,
 EntityName,forest centaur,
 EntityName,fox,จิ้งจอก
 EntityName,Frankenstein's Monster,
+EntityName,frost beetle,
 EntityName,frost binder,
+EntityName,frost cobra,
+EntityName,frost dwarf,
 EntityName,frost giant,
+EntityName,frost long worm,
+EntityName,frost lynx,
 EntityName,frost maker,จอมเวทน้ำแข็ง
 EntityName,frost seeker,
 EntityName,frost sphere,
+EntityName,frost wraith,
+EntityName,galgalim,
 EntityName,gargoyle,
 EntityName,garter snake,
 EntityName,gas spore,
 EntityName,gecko,
 EntityName,gelatinous cube,
+EntityName,General Breetai,
 EntityName,genetic engineer,
 EntityName,Geryon,
 EntityName,ghast,
@@ -1284,6 +1698,7 @@ EntityName,giant crab,ปูยักษ์
 EntityName,giant eel,ปลาไหลยักษ์
 EntityName,giant flea,
 EntityName,giant frog,
+EntityName,giant hamster,
 EntityName,giant king,ราชายักษ์ใหญ่
 EntityName,giant louse,
 EntityName,giant mimic,ตัวเลียนแบบยักษ์
@@ -1297,6 +1712,7 @@ EntityName,giant termite,
 EntityName,giant tick,
 EntityName,giant wasp,
 EntityName,giant zombie,ผีดิบยักษ์
+EntityName,Gianta Klaus,
 EntityName,gibberling,
 EntityName,gila monster,
 EntityName,Girtab,
@@ -1321,8 +1737,10 @@ EntityName,goblin king,ราชาก๊อบลิน
 EntityName,gold golem,โกเล็มทองคำ
 EntityName,golden naga,
 EntityName,golden naga hatchling,
+EntityName,grave mimic,
 EntityName,great orc,สุดยอดออร์ค
 EntityName,green elf,เอลฟ์เขียว
+EntityName,green jelly,
 EntityName,green mould,เชื้อราสีเขียว
 EntityName,green slime,สไลม์สีเขียว
 EntityName,gremlin,
@@ -1338,7 +1756,10 @@ EntityName,guide,
 EntityName,Guildmaster Vaughn,จ้าวแห่งหัวขโมย
 EntityName,Guru Quilion,
 EntityName,gypsy,
+EntityName,hag,
 EntityName,halfling,
+EntityName,halfling female caveman,
+EntityName,halfling male caveman,
 EntityName,harpy,ฮาร์ปี้
 EntityName,hell hound,สุนัขนรก
 EntityName,hell hound pup,ลูกสุนัขนรก
@@ -1363,9 +1784,11 @@ EntityName,human,มนุษย์
 EntityName,human king,ราชามนุษย์
 EntityName,human mummy,มนุษย์มัมมี่
 EntityName,human zombie,ผีดิบ
+EntityName,huntress,
 EntityName,hydra,ไฮดร้า
 EntityName,ice devil,ปีศาจน้ำแข็ง
 EntityName,ice elemental,ธาตุน้ำแข็ง
+EntityName,ice giant,
 EntityName,ice troll,โทรลน้ำแข็ง
 EntityName,ice vortex,
 EntityName,iguana,
@@ -1381,8 +1804,10 @@ EntityName,jackalwere,
 EntityName,jaguar,
 EntityName,jellyfish,
 EntityName,jiggling blob,
+EntityName,journeyman wizard,
 EntityName,juggernaut,
 EntityName,Juiblex,
+EntityName,jungle kobold,
 EntityName,juvenile raven,
 EntityName,Kaloi Thrym,ดาร์คลอร์ด
 EntityName,kamadan,
@@ -1408,6 +1833,7 @@ EntityName,kobold warrior,
 EntityName,kobold zombie,
 EntityName,komodo dragon,มังกรโคโมโด
 EntityName,kraken,คราเค็น
+EntityName,Krull,
 EntityName,lamb,ลูกแกะ
 EntityName,Lareth,
 EntityName,large cat,แมวตัวใหญ่
@@ -1418,6 +1844,7 @@ EntityName,large mimic,ตัวเลียนแบบตัวใหญ่
 EntityName,large pile of killer coins,
 EntityName,larva,ดักแด้
 EntityName,lava blob,
+EntityName,lava troll,
 EntityName,leather golem,โกเล็มหนัง
 EntityName,lemure,ผีตายโหง
 EntityName,leocrotta,
@@ -1434,6 +1861,7 @@ EntityName,lizardman,มนุษย์กิ้งก่า
 EntityName,lizardman berserker,มนุษย์กิ้งก่าคลั่ง
 EntityName,lizardman chieftain,
 EntityName,lizardman mage,จอมเวทมนุษย์กิ้งก่า
+EntityName,lizardman samurai,
 EntityName,lizardman shaman,หมอผีมนุษย์กิ้งก่า
 EntityName,lizardman warrior,นักรบมนุษย์กิ้งก่า
 EntityName,Lolth,
@@ -1456,18 +1884,24 @@ EntityName,master mind flayer,
 EntityName,mastodon,
 EntityName,Maugneshaagar,
 EntityName,medusa,เมดูซ่า
+EntityName,melanistic moccasin,
 EntityName,mellified man,
 EntityName,merchant,พ่อค้า
+EntityName,Merdude,
 EntityName,Metamorphius,
+EntityName,midnight jelly,
 EntityName,migo drone,
 EntityName,migo queen,
 EntityName,migo warrior,
+EntityName,mimic,
+EntityName,mimic coins,
 EntityName,mind flayer,
 EntityName,minotaur,มิโนทอร์
 EntityName,minotaur lord,
 EntityName,mist wolf,
 EntityName,mithril golem,โกเล็มมิธริล
 EntityName,mobat,
+EntityName,molten gila monster,
 EntityName,monadic deva,
 EntityName,mongbat,
 EntityName,monkey,ลิง
@@ -1478,6 +1912,7 @@ EntityName,mountain nymph,
 EntityName,movanic deva,
 EntityName,mugger,ผู้ร้าย
 EntityName,mumak,
+EntityName,mystical dragon,
 EntityName,nabassu,
 EntityName,nalfeshnee,
 EntityName,Nalzok,
@@ -1488,9 +1923,12 @@ EntityName,newt,จิ้งจก
 EntityName,nickelpede,
 EntityName,nightgaunt,
 EntityName,nightmare,ฝันร้าย
+EntityName,noble elf,
 EntityName,Norn,
+EntityName,nun,
 EntityName,nupperibo,
 EntityName,nurse,นางพยาบาล
+EntityName,Nymph Princess,
 EntityName,occultist,หมอผี
 EntityName,ochre jelly,
 EntityName,ogre,ยักษ์
@@ -1507,6 +1945,7 @@ EntityName,orc grunt,ทหารออร์ค
 EntityName,orc king,ราชาออร์ค
 EntityName,orc mummy,มัมมี่ออร์ค
 EntityName,orc shaman,หมอผีออร์ค
+EntityName,orc thief,
 EntityName,orc warrior,นักรบออร์ค
 EntityName,orc zombie,ผีดิบออร์ค
 EntityName,Orcus,
@@ -1514,6 +1953,7 @@ EntityName,Orion,
 EntityName,owlbear,
 EntityName,pack rat,
 EntityName,page,
+EntityName,pale cave spider,
 EntityName,panther,เสือดำ
 EntityName,pantherwere,เสือดำมนุษย์
 EntityName,paper golem,โกเล็มกระดาษ
@@ -1524,6 +1964,10 @@ EntityName,Pelias,
 EntityName,Pestilence,
 EntityName,phase spider,
 EntityName,phase worm,
+EntityName,pheral khit,
+EntityName,pheral pharaoh,
+EntityName,pheral sentinel,
+EntityName,pheral vizier,
 EntityName,pig,หมู
 EntityName,pile of killer coins,
 EntityName,piranha,
@@ -1531,10 +1975,13 @@ EntityName,pit bull,
 EntityName,pit fiend,
 EntityName,pit viper,
 EntityName,pixie,
+EntityName,plague jackal,
+EntityName,plague zombie,
 EntityName,plains centaur,
 EntityName,Planetar,
 EntityName,plasmoid,
 EntityName,plastic golem,โกเล็มพลาสติก
+EntityName,poison alchemist,
 EntityName,pony,
 EntityName,proudfoot,
 EntityName,purple worm,หนอนม่วง
@@ -1554,6 +2001,7 @@ EntityName,rancid jelly,
 EntityName,rat king,ราชาหนู
 EntityName,ratwere,
 EntityName,recluse spider,
+EntityName,red jelly,
 EntityName,red light,
 EntityName,red mould,เชื้อราสีแดง
 EntityName,red naga,
@@ -1561,6 +2009,10 @@ EntityName,red naga hatchling,
 EntityName,rhaumbusun,
 EntityName,rhumbat,
 EntityName,robot,
+EntityName,robot female,
+EntityName,robot male vampire gunslinger,
+EntityName,robot sentry,
+EntityName,robot singer,
 EntityName,rock kobold,
 EntityName,rock mole,
 EntityName,rock piercer,
@@ -1570,6 +2022,7 @@ EntityName,roshi,
 EntityName,rot worm,
 EntityName,rothé,
 EntityName,ruby golem,โกเล็มทับทิม
+EntityName,runicorn,
 EntityName,rust monster,
 EntityName,rutterkin,
 EntityName,sabre-toothed cat,
@@ -1578,10 +2031,13 @@ EntityName,sandestin,
 EntityName,sapphire golem,โกเล็มไพลิน
 EntityName,sasquatch,
 EntityName,satyr,
+EntityName,savage brute,
+EntityName,savage stalker,
 EntityName,scorpion,แมงป่อง
 EntityName,Scorpius,
 EntityName,scramper,
 EntityName,seal,
+EntityName,seraphim,
 EntityName,sergeant,
 EntityName,sewer rat,
 EntityName,shade,
@@ -1589,6 +2045,7 @@ EntityName,shadow,เงา
 EntityName,shadow ogre,
 EntityName,shadow wolf,หมาป่าเงา
 EntityName,Shaman Karnov,
+EntityName,shaolin monk,
 EntityName,shark,ฉลาม
 EntityName,sheep,แกะ
 EntityName,shifter,
@@ -1599,6 +2056,7 @@ EntityName,shock seeker,
 EntityName,shock sphere,
 EntityName,shoggoth,
 EntityName,shrieker,
+EntityName,silver golem,
 EntityName,Sir Lorimar,
 EntityName,skeleton,โครงกระดูก
 EntityName,small mimic,ตัวเลียนแบบตัวน้อย
@@ -1610,6 +2068,9 @@ EntityName,snow orc,ออร์คหิมะ
 EntityName,Solar,
 EntityName,soldier,มหาร
 EntityName,soldier ant,มดทหาร
+EntityName,sonic elemental,
+EntityName,sonic sphere,
+EntityName,Soul Summoner,
 EntityName,spark bug,
 EntityName,spider queen,นางพญาแมงมุม
 EntityName,spiderwere,
@@ -1623,24 +2084,36 @@ EntityName,static blob,
 EntityName,steam vortex,
 EntityName,stone giant,ยักษ์หิน
 EntityName,stone golem,โกเล็มหิน
+EntityName,storm ape,
+EntityName,storm coyote,
 EntityName,storm giant,ยักษ์มรสุม
+EntityName,storm raven,
 EntityName,straw golem,โกเล็มฟาง
 EntityName,student,นักเรียน
 EntityName,succubus,ซัคคิวบัส
+EntityName,sun elf,
 EntityName,swamp kobold,
+EntityName,swamp orc,
+EntityName,tar pudding,
+EntityName,tempter,
+EntityName,temptress,
 EntityName,tengu,
+EntityName,thief,
 EntityName,Thorin,
 EntityName,Thoth Amon,
 EntityName,thug,นักเลง
 EntityName,tiger,เสือ
 EntityName,tigerwere,
+EntityName,tin golem,
 EntityName,titan,ไททัน
 EntityName,titanothere,
 EntityName,topaz golem,
 EntityName,tortle,
 EntityName,tracker,นักล่า
+EntityName,trader,
 EntityName,transmuter,
 EntityName,trapper,นักวางกับดัก
+EntityName,traveller,
 EntityName,treant,
 EntityName,troll,โทรล
 EntityName,troll mummy,มัมมี่โทรล
@@ -1658,6 +2131,7 @@ EntityName,vampire mage,แวมไพร์จอมเวท
 EntityName,Van Helsing,
 EntityName,Vecna,
 EntityName,violet fungus,
+EntityName,violet jelly,
 EntityName,vorpal jabberwock,
 EntityName,vrock,
 EntityName,war orc,ออร์คสงคราม
@@ -1687,6 +2161,7 @@ EntityName,weretiger,มนุษย์เสือ
 EntityName,werewolf,มนุษย์หมาป่า
 EntityName,white unicorn,ยูนิคอร์นขาว
 EntityName,wight,
+EntityName,wind sphere,
 EntityName,winged gargoyle,
 EntityName,winter wolf,หมาป่าเหมันต์
 EntityName,winter wolf cub,ลูกหมาป่าเหมันต์
@@ -1722,6 +2197,7 @@ EntityName,young shimmering dragon,
 EntityName,young silver dragon,
 EntityName,young white dragon,
 EntityName,young yellow dragon,
+EntityName,zombietree,
 EntityName,zruty,
 EquipAction,employ,ใช้
 EquipAction,purse,เงิน
@@ -1763,9 +2239,15 @@ FeatureName,bed,เตียงนอน
 FeatureName,fountain,น้ำพุ
 FeatureName,grave,สุสาน
 FeatureName,pentagram,ดาวห้าแฉก
+FeatureName,pyramid,
 FeatureName,sarcophagus,โลงศพหิน
+FeatureName,sink,
 FeatureName,stall,แผงลอย
 FeatureName,throne,บัลลังก์
+FeatureName,toilet,
+FeatureName,wooden sign,
+FeatureName,wooden stool,
+FeatureName,wooden table,
 FeatureName,workbench,โตะงานช่าง
 FormatText,{ActionCount} action,{ActionCount} การกระทำ
 FormatText,{ActionCount} actions,{ActionCount} การกระทำ
@@ -2056,13 +2538,17 @@ GradeName,exotic,
 GradeName,standard,
 GroundDescription,The cool stone surface has immaculate craftsmanship but is marked by damage and time.,
 GroundName,cave floor,
+GroundName,cave path,
 GroundName,chasm,รอยแยก
+GroundName,cloud,
+GroundName,deep water,
 GroundName,dirt,พื้นดิน
 GroundName,gold floor,
 GroundName,granite floor,
 GroundName,grass,หญ้า
 GroundName,hive floor,ฟื้นรวงผึ้ง
 GroundName,ice,น้ำแข็ง
+GroundName,lattice floor,
 GroundName,lava,ลาวา
 GroundName,marble floor,ฟื้นหินอ่อน
 GroundName,metal floor,พื้นเหล็ก
@@ -2070,33 +2556,51 @@ GroundName,moss,ตะไคร่
 GroundName,obsidian floor,พื้นอ๊อบซีเดี้ยน
 GroundName,sand,ทราย
 GroundName,sewer floor,
+GroundName,shallow water,
 GroundName,snow,
 GroundName,stone floor,พื้นหิน
 GroundName,stone path,ระเบียงหิน
 GroundName,water,น้ำ
 GroundName,wooden floor,พื้นไม้
+HordeName,acid foundry,
+HordeName,air foundry,
+HordeName,albino rat,
+HordeName,angelic choir,
 HordeName,ant,มด
 HordeName,ape,วานร
+HordeName,army patrol,
+HordeName,army platoon,
+HordeName,army squad,
+HordeName,ash foundry,
+HordeName,astral dog,
 HordeName,bat,ค้างคาว
 HordeName,bee,ผึ้ง
 HordeName,beetle,
+HordeName,blink dog,
+HordeName,brine foundry,
 HordeName,cockroach,แมลงสาบ
 HordeName,couatl,งูมีปีก
 HordeName,coyote,โคโยตี้
 HordeName,demon,ปีศาจ
 HordeName,drow,ดาร์คเอลฟ์
+HordeName,drow enclave,
 HordeName,dwarf,คนแคระ
 HordeName,electric bug,
 HordeName,elf,เอลฟ์
+HordeName,energy foundry,
+HordeName,explosive foundry,
 HordeName,flea,หมัด
 HordeName,garter snake,งูเล็ก
 HordeName,gibberling,
 HordeName,gnome,มนุษย์แคระ
 HordeName,goblin,ก๊อบลิน
+HordeName,golem workshop,
 HordeName,grimlock,
 HordeName,harpy,ฮาร์ปี้
+HordeName,heavenly host,
 HordeName,hell hound,หมานรก
 HordeName,jackal,หมาไน
+HordeName,jelly cistern,
 HordeName,keystone,คีย์สโตน
 HordeName,kobold,โคโบลด์
 HordeName,lemure,วิญญาณร้าย
@@ -2105,14 +2609,20 @@ HordeName,louse,เหา
 HordeName,mane,วิญญาณ
 HordeName,mangler,
 HordeName,migo,
+HordeName,mimic nest,
 HordeName,mould,เชื้อรา
 HordeName,ogre,ยักษ์
 HordeName,orc,ออร์ค
+HordeName,pheral tomb,
+HordeName,plague jackal,
 HordeName,rat,หนู
 HordeName,rothé,
 HordeName,scorpion,แมงป่อง
+HordeName,sonic foundry,
 HordeName,spider,แมงมุม
 HordeName,spore,สปอร์
+HordeName,storm coyote,
+HordeName,tar pudding,
 HordeName,termite,ปลวก
 HordeName,tick,เห็บ
 HordeName,tsetse fly,
@@ -2124,15 +2634,36 @@ HordeName,wolf,หมาป่า
 HordeName,worm,หนอน
 HordeName,yeoman,เสรีชน
 HordeName,zombie,ซอมบี้
+ItemDescription,"A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.",
+ItemDescription,"A barbed iron hook on a long coil of rope, thrown out and hauled back in.",
+ItemDescription,"A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.",
+ItemDescription,"A branched silver candle-holder, its every arm lit at once.",
+ItemDescription,"A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.",
+ItemDescription,"A canvas roll of bandages, salves and sutures for treating wounds in the field.",
+ItemDescription,"A ceremonial double-bitted axe, its twin blades curved like a crescent moon.",
+ItemDescription,"A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.",
+ItemDescription,"A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.",
 ItemDescription,A cloth mask that completely obstructs the wearer's vision.,
 ItemDescription,"A collection of utensils, including empty tins and butchering tools, for packing corpses so as to condense them.",
 ItemDescription,A compact hand-held firearm.,
+ItemDescription,"A crudely hammered throwing disc with a jagged, uneven rim, more likely to tear than to cut cleanly.",
+ItemDescription,"A curved funerary blade inlaid with gold, once carried by a pharaonic guardian charged with keeping the dead in their tombs.",
+ItemDescription,"A curved single-edged blade mounted on a long oaken shaft, prized by the warrior monks of the far east.",
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.",
 ItemDescription,A curved single-edged blade often used by cavalry.,
 ItemDescription,A curved yellow fruit and a great source of fibre.,
+ItemDescription,A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.,
+ItemDescription,A fine-grained stone for putting an edge back on a tired blade.,
+ItemDescription,"A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.",
+ItemDescription,A flat black stone used since antiquity to tell real gemstones from paste and glass.,
+ItemDescription,A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.,
 ItemDescription,"A flat throwing weapon made of wood, often used for hunting.",
 ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.",
+ItemDescription,"A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.",
 ItemDescription,A foreign device which creates perfect visual depictions of reality.,
+ItemDescription,"A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.",
+ItemDescription,"A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.",
+ItemDescription,"A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.",
 ItemDescription,A hand-held brass horn.,
 ItemDescription,"A hard rock, smooth and therefore aerodynamic.",
 ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,
@@ -2140,10 +2671,16 @@ ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.",
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.",
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,
 ItemDescription,A heavy suit of armour made up of many strips of metal.,
+ItemDescription,"A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.",
 ItemDescription,"A horizontal, mechanically-aided bow and arrow with a shoulder stock.",
 ItemDescription,A key designed to open all mundane locks.,
+ItemDescription,"A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.",
 ItemDescription,"A leather pouch set between two cords, meant for launching small projectiles.",
+ItemDescription,"A length of sturdy rope with a clasp, for keeping a tame animal close at hand.",
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.",
+ItemDescription,"A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.",
+ItemDescription,A long cane rod strung with line and hook. Best used beside open water.,
+ItemDescription,"A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.",
 ItemDescription,A long pipe meant for shooting darts through force of breath.,
 ItemDescription,A long thrusting polearm best suited to mounted combat.,
@@ -2151,68 +2688,110 @@ ItemDescription,A long-shafted arrow with a distinctive tip.,
 ItemDescription,"A long, flexible leather thong. Unexpectedly sharp.",
 ItemDescription,"A long, flowing garment, with long sleeves and a hood.",
 ItemDescription,A mace that is spiked on its head.,
+ItemDescription,"A massive adamantine maul, its head as large as a barrel stave, that shrugs off the recoil of its own swing.",
+ItemDescription,"A massive, mithril-shod maul, its head as large as a barrel stave.",
 ItemDescription,A meal made from the stomach lining of an animal.,
+ItemDescription,"A miniature crossbow of elven design, light enough to be drawn and fired one-handed without a stirrup.",
+ItemDescription,"A monstrous greatsword forged with three parallel blades fused along a single spine, each edge catching the light at a different angle.",
 ItemDescription,"A package of preserved meats, all dried and chewy.",
+ItemDescription,"A pair of gauntlets ringed with jagged knuckle-spikes, made to turn a punch into a wound.",
+ItemDescription,A pair of solid iron-plated boots that guard the shin and instep at the cost of a good deal of weight.,
 ItemDescription,A pair of sturdy leather boots which extend upward until just below the knee.,
 ItemDescription,A pair of sturdy leather boots which extend upwards to just above the ankle.,
+ItemDescription,"A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.",
+ItemDescription,"A physician's instrument for listening to a heartbeat -- yours, or something else's.",
+ItemDescription,"A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.",
+ItemDescription,"A plain, undyed shirt of woven cloth, worn under armour or on its own.",
 ItemDescription,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.",
 ItemDescription,A pointed metal cylinder meant to be discharged from a firearm.,
+ItemDescription,A polished sheet of silvered glass. Some things recoil from their own reflection.,
 ItemDescription,A portable source of light fashioned out of copper and fuelled by oil.,
 ItemDescription,A projectile consisting of a wooden shaft with a sharp metal tip at its front and stabilising fins at its rear.,
+ItemDescription,"A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.",
 ItemDescription,A righteous sword forged by a revered blacksmith many years ago who set out to hone his craft and to create the ultimate blade. The noble intent of its creator lingers in this weapon to cut down the wicked and protect the innocent.,
+ItemDescription,A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.,
 ItemDescription,"A sanctimonious biscuit. A miracle to the meek, a scourge to the undead.",
 ItemDescription,"A semi-rigid weapon made up of a notched wooden shaft with a drawstring attached to both ends, used to launch arrows.",
+ItemDescription,"A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.",
 ItemDescription,A sharp iron wedge fashioned to a sturdy handle.,
 ItemDescription,"A sharp metal throwing weapon, smaller than a hand and shaped like a star.",
 ItemDescription,A short and light double-edged blade.,
+ItemDescription,"A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.",
+ItemDescription,"A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.",
+ItemDescription,"A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.",
 ItemDescription,"A slimy, scaly sea creature, in its entirety. Good for a meal.",
 ItemDescription,A small cutting utensil made of metal with a wooden handle.,
+ItemDescription,A small glass vial holding a captive mote of light.,
+ItemDescription,A small hooked blade made for prying the lid off a sealed tin.,
 ItemDescription,A small iron tool designed for opening all sorts of locks.,
 ItemDescription,A small missile with a pointed tip meant for throwing.,
 ItemDescription,A small missile with a reservoir of liquid delivered through a hollow pointed tip.,
+ItemDescription,"A small, chalky tablet of uncertain origin. Best swallowed quickly.",
+ItemDescription,"A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.",
+ItemDescription,"A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.",
 ItemDescription,"A soft-brimmed hat, somewhat out of fashion.",
 ItemDescription,A sophisticated bludgeon with a heavy iron head.,
 ItemDescription,A spacious bag made of incredibly stretchy cotton.,
 ItemDescription,A spacious cloth bag.,
+ItemDescription,"A staff of living, unworked rock. What shapes matter cannot itself be unmade.",
 ItemDescription,A stick of cured meat.,
 ItemDescription,"A stick of highly explosive material, with a short fuse on one end.",
+ItemDescription,A stone infused with restorative magic. It crumbles a little more each time it is used.,
+ItemDescription,A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.,
+ItemDescription,"A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.",
 ItemDescription,"A straight, double-edged and often cruciform blade.",
+ItemDescription,"A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.",
 ItemDescription,A sturdy and solid mineral.,
 ItemDescription,A suit of armour made from metal rings sewn onto a foundation of leather or cloth.,
+ItemDescription,"A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.",
 ItemDescription,"A surviving portion of the legendary wall of Verimurus, an ancient elven city said to have lasted since time immemorial. However, not even the mightiest walls could withstand the endless onslaught of the dragons. Now the enchanted walls stand alone over the land that once held them.",
 ItemDescription,"A sweet citrus fruit, coloured eponymously.",
 ItemDescription,"A sweet custard-filled pie with a thin crust, topped with whipped cream.",
 ItemDescription,"A sweet, round fruit, of the red variety. Reportedly a great supplement to your physical health.",
+ItemDescription,"A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.",
 ItemDescription,"A tall, asymmetric bow.",
+ItemDescription,"A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.",
 ItemDescription,"A thick leather coat, constructed to withstand weather and wear.",
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.",
+ItemDescription,"A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,
+ItemDescription,A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.,
 ItemDescription,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.",
 ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.",
+ItemDescription,"A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.",
 ItemDescription,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,
 ItemDescription,An ambiguous curiosity. It seems edible.,
 ItemDescription,An article of leather clothing covering the torso that hangs around the neck and on the shoulders.,
 ItemDescription,An article of waterproof cotton clothing covering the torso that hangs around the neck and on the shoulders.,
+ItemDescription,"An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.",
 ItemDescription,An elven travel food. It is incredibly satiating.,
+ItemDescription,"An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.",
 ItemDescription,An extremely sharp little blade used for precise incisions.,
 ItemDescription,An inconspicuous snack that tells deep secrets.,
 ItemDescription,An iron projectile made up of a shaft with a sharpened square-pyramid tip.,
+ItemDescription,"An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.",
 ItemDescription,"An orange root-vegetable, commonly believed to improve eyesight.",
+ItemDescription,"An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.",
 ItemDescription,"Boiled leather, moulded into a bodily shape to be donned as light armour.",
 ItemDescription,"Bold, or just tacky?",
 ItemDescription,Chain mail consists of a mesh of metal rings interlinked to form a flexible armour.,
+ItemDescription,"Fate itself bends around the wearer, keeping them exactly where the blow cannot land.",
 ItemDescription,"Forged deep underground by dwarven hands, this blade was made to slay the scaled beasts who sought to steal their treasures. Throughout the long years this blade has bathed in the blood of its winged prey. Now almost forgotten, it yearns again for the taste of dragon flesh.",
 ItemDescription,"Gazing into its crimson depths you can see the concentrated life essence of countless victims swirling inside of it. The artifact was completed in the moment of the creators' death, as his soul was claimed by his creation. Now residing among the souls of his former victims, his essence as an alchemist provides the stone with ultimate transmutative powers.",
+ItemDescription,"Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.",
 ItemDescription,Its high-quality elvish manufacture makes for an effective close combat weapon.,
 ItemDescription,Leather armour with close-set studs so as to offer more protection.,
 ItemDescription,"Like a smaller variant of the katana, often used as a side-arm.",
+ItemDescription,"Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.",
 ItemDescription,One segment of a particularly pungent and bulbous herb.,
 ItemDescription,Standard issue protective metal headgear.,
+ItemDescription,"Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.",
 ItemDescription,"Sturdy leather garments fitted firm onto the hands, sheathing each finger individually.",
 ItemDescription,The final sword forged by a once respected blacksmith who lost himself in the depths of the dungeon. His warped soul now inhabits this blade and lusts for blood. It is said that the one who wields this sword is coerced into cutting down friend and foe alike.,
 ItemDescription,The head of a ranseur consists of a spear-tip affixed with a cross hilt at its base.,
 ItemDescription,The only coin that can be found and spent in the dungeon.,
 ItemDescription,The snipped segment of a plant known for its antilycanthropic properties.,
+ItemDescription,"The spiral horn of a unicorn, its magic bound permanently into the artifact rather than spent in a single burst.",
 ItemDescription,The wearer will occasionally fly into uncontrollable rage lashing out at both friend and foe.,
 ItemDescription,This ancient artifact is a marvel to behold with exquisite craftsmanship and unbridled digging power.,
 ItemDescription,"This axe is specifically designed to facilitate deep, grievous wounds in combat. This large weapon is wielded in both hands.",
@@ -2221,6 +2800,7 @@ ItemDescription,This convenient vial of ink can be used to replenish your marker
 ItemDescription,This crudely made blade is still an effective throwing weapon.,
 ItemDescription,This curious artifact somehow chastens those it strikes and submits them to your will.,
 ItemDescription,This dwarvish manufactured sword is sturdy and suited to being wielded in the offhand.,
+ItemDescription,"This dwarvish punching blade is forged thicker than most, its crossbar reinforced to survive a full-strength thrust.",
 ItemDescription,This gemstone is made from hardened tree sap.,
 ItemDescription,This glowing looking glass reveals glimpses of the future and corrupts your soul.,
 ItemDescription,This hammer is a four-pronged head mounted atop a long polearm stick. It bears a long spike on its reverse and an even longer spike extending from the very top. It proves effective at puncturing or smashing armour as well as dismounting riders.,
@@ -2250,6 +2830,7 @@ ItemDescription,This weapon consists of a spearhead mounted on a long wooden sha
 ItemDescription,"This weapon is a curved blade attached to a pole by binding the lower two-thirds of the blade to the side of the pole, to form a sort of axe.",
 ItemDescription,This withered hand is the last remnant of an ancient and powerful lich.,
 ItemDescription,Tiny metal spikes thrown to the ground to impede mobility.,
+ItemDescription,"Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.",
 ItemDescription,Winged sandals made of imperishable gold which fly the wearer swiftly and silently.,
 ItemDescription,Zapping it at a wall creates a big tunnel.,
 ItemName,adamantine arrow,
@@ -2257,16 +2838,25 @@ ItemName,adamantine axe,
 ItemName,adamantine bident,
 ItemName,adamantine bow,
 ItemName,adamantine bullet,
+ItemName,adamantine crossbow bolt,
 ItemName,adamantine dagger,
 ItemName,adamantine dart,
 ItemName,adamantine greataxe,
+ItemName,adamantine greatmace,
 ItemName,adamantine greatsword,
 ItemName,adamantine hatchet,
+ItemName,adamantine helm,
+ItemName,adamantine helmet,
+ItemName,adamantine katana,
+ItemName,adamantine lance,
 ItemName,adamantine long sword,
 ItemName,adamantine plate mail,
+ItemName,adamantine poleaxe,
+ItemName,adamantine quarterstaff,
 ItemName,adamantine rapier,
 ItemName,adamantine sabre,
 ItemName,adamantine short sword,
+ItemName,adamantine shuriken,
 ItemName,adamantine spear,
 ItemName,adamantine two-handed sword,
 ItemName,agate,หินโมรา
@@ -2300,8 +2890,10 @@ ItemName,Backpack,กระเป๋าสะพายหลัง
 ItemName,bag of holding,ถุงแห่งการครอบครอง
 ItemName,bag of tricks,ถุงแห่งกลลับ
 ItemName,banana,กล้วย
+ItemName,bandage,
 ItemName,banded mail,เกราะรัด
 ItemName,bardiche,ขวานด้ามยาว
+ItemName,baseball bat,
 ItemName,battle robe,ผ้าคลุมออกรบ
 ItemName,battle staff,
 ItemName,battle-axe,ขวานรบ
@@ -2322,68 +2914,229 @@ ItemName,blowgun,หลอดเป่าแล่
 ItemName,blue dragon scale mail,เกราะเกล็ดมังกรฟ้า
 ItemName,blue dragon scales,เกล็ดมังกรฟ้า
 ItemName,blue glass bauble,เครื่องประดับแก้วสีน้ำเงิน
+ItemName,book of acid splash,
 ItemName,book of acid stream,หนังสือแห่งไอกรด
 ItemName,book of animate dead,หนังสือแห่งการคืนชีพสิ่งไม่มีชีวิต
 ItemName,book of animate object,หนังสือแห่งการควบคุมวัตถุ
+ItemName,book of arc conduit,
+ItemName,book of arcane blight,
+ItemName,book of arcane whetstone,
+ItemName,book of arcing bolt,
+ItemName,book of artificer's exchange,
+ItemName,book of atonement,
+ItemName,book of augury,
+ItemName,book of bane,
+ItemName,book of banshee wail,
+ItemName,book of barring ward,
+ItemName,book of battle fury,
 ItemName,book of bind undead,
+ItemName,book of binding sphere,
+ItemName,book of black ice patch,
+ItemName,book of black plague,
+ItemName,book of blade blessing,
 ItemName,book of blank paper,หนังสือกระดาษเปล่า
+ItemName,book of bless,
 ItemName,book of blinking,หนังสือแห่งการเคลื่อนที่พริบตา
+ItemName,book of blurred form,
+ItemName,book of call of the pack,
+ItemName,book of calm,
+ItemName,book of caltrop swarm,
 ItemName,book of cancellation,หนังสือแห่งการยกเลิก
+ItemName,book of causeway,
+ItemName,book of chain lightning,
+ItemName,book of changeless ward,
 ItemName,book of charm,หนังสือแห่งความลุ่มหลง
+ItemName,book of chill grasp,
+ItemName,book of chromatic orb,
 ItemName,book of clairvoyance,หนังสือแห่งตาทิพย์
+ItemName,book of claybind touch,
+ItemName,book of clear sight,
+ItemName,book of clouded mind,
+ItemName,book of command,
+ItemName,book of commune,
+ItemName,book of concussive blast,
 ItemName,book of cone of cold,หนังสือแห่งคลื่นความเย็น
 ItemName,book of confusion,หนังสือแห่งความสับสน
+ItemName,book of conjure barricade,
+ItemName,book of conjure boulder,
+ItemName,book of conjure guardian,
+ItemName,book of conjure homunculus,
+ItemName,book of conjure mount,
+ItemName,book of conjured pit,
+ItemName,book of consecration,
+ItemName,book of contagion,
+ItemName,book of corpse explosion,
+ItemName,book of corroding ray,
 ItemName,book of create familiar,หนังสือแห่งการเสกสัตว์เลี้ยง
+ItemName,book of creeping palsy,
+ItemName,book of crimson ichor lance,
 ItemName,book of crushing sphere,หนังสือแห่งก้อนพลังแรงบด
 ItemName,book of curing,หนังสือแห่งการรักษา
+ItemName,book of danger sense,
 ItemName,book of darkness,หนังสือแห่งความมืด
+ItemName,book of daze,
+ItemName,book of death ward,
+ItemName,book of death's bargain,
+ItemName,book of deathwatch,
 ItemName,book of deflection,หนังสือแห่งการตรวจสอบ
 ItemName,book of detect food,หนังสือแห่งการตรวจหาอาหาร
+ItemName,book of detect metal,
 ItemName,book of detect monsters,หนังสือแห่งการตรวจหามอนสเตอร์
 ItemName,book of detect treasure,หนังแห่งการตรวจหาสมบัติ
+ItemName,book of detect undead,
 ItemName,book of detect unseen,หนังสือแห่งการตรวจหาสิ่งที่มองไม่เห็น
 ItemName,book of dig,หนังสือแห่งการขุด
+ItemName,book of disarming ward,
+ItemName,book of discord,
 ItemName,book of disintegrate,หนังสือแห่งการย่อยสลาย
+ItemName,book of dispel magic,
+ItemName,book of displacement,
+ItemName,book of divine favor,
+ItemName,book of divine intervention,
+ItemName,book of dominate mind,
 ItemName,book of drain life,หนังสือแห่งการสูบชีวิต
+ItemName,book of earthen colossus,
+ItemName,book of elemental servant,
+ItemName,book of elemental warding,
+ItemName,book of ember lance,
+ItemName,book of enlarge,
+ItemName,book of entangling vines,
+ItemName,book of entropic siphon,
 ItemName,book of extra healing,หนังสือแห่งการฟื้นฟูพิเศษ
+ItemName,book of false life,
 ItemName,book of fear,หนังสือแห่งความกลัว
+ItemName,book of find doors,
+ItemName,book of find traps,
 ItemName,book of finger of death,หนังสือแห่งนิ้วแห่งความตาย
 ItemName,book of fireball,หนังสือแห่งลูกบอลเพลิง
 ItemName,book of flaming sphere,หนังสือแห่งก้อนเพลิง
 ItemName,book of force bolt,
+ItemName,book of foreknowledge,
+ItemName,book of freedom,
+ItemName,book of freedom of movement,
 ItemName,book of freezing sphere,หนังสือแห่งก้อนความเย็น
+ItemName,book of frost breath,
 ItemName,book of full healing,หนังสือแห่งการฟื้นฟูเต็ม
+ItemName,book of gate,
+ItemName,book of gilding touch,
+ItemName,book of glacial spike,
+ItemName,book of grasping mind,
+ItemName,book of grave rot,
+ItemName,book of gravity well,
+ItemName,book of guided path,
+ItemName,book of harvest of souls,
 ItemName,book of haste,หนังสือแห่งความรวดเร็ว
+ItemName,book of hazard sense,
 ItemName,book of healing,หนังสือแห่งการฟื้นฟู
+ItemName,book of hex,
+ItemName,book of hexbind,
+ItemName,book of hideous laughter,
+ItemName,book of hold monster,
+ItemName,book of hold person,
+ItemName,book of holy word,
 ItemName,book of ice storm,หนังสือแห่งพายุน้ำแข็ง
 ItemName,book of identify,หนังสือแห่งการระบุ
+ItemName,book of inner calm,
 ItemName,book of invisibility,หนังสือแห่งการล่องหน
+ItemName,book of iron will,
+ItemName,book of ironbind door,
+ItemName,book of juggernaut ray,
 ItemName,book of jumping,หนังสือแห่งการกระโดด
+ItemName,book of keen search,
 ItemName,book of knock,หนังสือแห่งการเคาะ
+ItemName,book of legion of bone,
 ItemName,book of levitation,หนังสือแห่งการลอย
 ItemName,book of light,หนังสือแห่งแสงสว่าง
 ItemName,book of lightning bolt,หนังสือแห่งสายฟ้า
 ItemName,book of living wall,หนังสือแห่งกำแพงมีชีวิต
 ItemName,book of magic mapping,หนังสือแห่งเวททำแผนที่
 ItemName,book of magic missile,หนังสือแห่งลูกศรเวทมนตร์
+ItemName,book of meteoric cataclysm,
+ItemName,book of mind ken,
+ItemName,book of mind link,
+ItemName,book of mind spike,
+ItemName,book of mindrend,
+ItemName,book of mirror ward,
+ItemName,book of neutralize poison,
+ItemName,book of oracle's eye,
+ItemName,book of owl eyes,
+ItemName,book of petrifying touch,
 ItemName,book of phasing,หนังสือแห่งการทะลุ
+ItemName,book of planar anchor,
+ItemName,book of planar swap,
 ItemName,book of poison blast,หนังสือแห่งระเบิดพิษ
 ItemName,book of polymorph,หนังสือแห่งการกลายร่าง
+ItemName,book of porter's reach,
+ItemName,book of prayer,
+ItemName,book of premonition,
+ItemName,book of prismatic spray,
+ItemName,book of psychic shove,
 ItemName,book of raise dead,หนังสือแห่งการคืนชีพคนตาย
+ItemName,book of rally cry,
+ItemName,book of ray of enfeeblement,
+ItemName,book of reap,
 ItemName,book of regenerate,หนังสือแห่งการฟื้นฟูพลังชีวิต
 ItemName,book of remove curse,หนังสือแห่งการถอนคำสาป
+ItemName,book of repelling ward,
+ItemName,book of repulsion,
 ItemName,book of restoration,หนังสือแห่งการฟื้นฟูความสามารถ
+ItemName,book of revelation,
+ItemName,book of sanctuary,
+ItemName,book of scalding cloud,
+ItemName,book of searing light,
+ItemName,book of sense curse,
+ItemName,book of sense the restless,
+ItemName,book of sentinel ward,
+ItemName,book of shimmer shield,
 ItemName,book of shocking sphere,หนังสือแห่งก้อนไฟฟ้า
+ItemName,book of shrink,
+ItemName,book of silence,
+ItemName,book of simulacrum,
 ItemName,book of sleep,หนังสือแห่งการนอนหลับ
+ItemName,book of slick detonation,
+ItemName,book of slipping free,
 ItemName,book of slow,หนังสือแห่งความเชื่องช้า
 ItemName,book of soaking sphere,
+ItemName,book of song of discord,
+ItemName,book of spark bolt,
+ItemName,book of spectral shroud,
+ItemName,book of spirit leech,
+ItemName,book of spirit shield,
+ItemName,book of starfall,
+ItemName,book of steadfast ward,
+ItemName,book of stone to flesh,
+ItemName,book of stoneskin,
 ItemName,book of summoning,หนังสือแห่งการอัญเชิญ
+ItemName,book of sunburst smite,
+ItemName,book of sunder gear,
+ItemName,book of swoon,
 ItemName,book of telekinesis,หนังสือแห่งพลังโทรจิต
+ItemName,book of telekinetic shove,
 ItemName,book of teleport away,หนังสือแห่งการเทเลพอร์ตไป
+ItemName,book of thunderclap,
+ItemName,book of timed combustion,
+ItemName,book of tongue tied,
 ItemName,book of toxic spray,หนังสือแห่งการฉีดพิษ
+ItemName,book of transmuter's mastery,
+ItemName,book of true appraisal,
 ItemName,book of turn undead,
+ItemName,book of unbinding,
+ItemName,book of undying ward,
+ItemName,book of unseen hand,
+ItemName,book of vampiric feast,
+ItemName,book of veil of shadows,
+ItemName,book of wall breach,
+ItemName,book of wall of thorns,
 ItemName,book of walling,หนังสือแห่งการสร้างกำแพง
+ItemName,book of ward of return,
+ItemName,book of warning ward,
+ItemName,book of web snare,
+ItemName,book of whispers of madness,
+ItemName,book of wildfire brand,
+ItemName,book of wither,
+ItemName,book of withering ray,
 ItemName,book of wizard lock,หนังสือแห่งการล็อคเวทมนตร์
+ItemName,book of world vision,
 ItemName,boomerang,บูมเมอแรง
 ItemName,bow,ธนู
 ItemName,brass bugle,แตรเดี่ยวทองเหลือง
@@ -2397,9 +3150,13 @@ ItemName,bullwhip,
 ItemName,c-ration,เสบียงC
 ItemName,caltrops,ขวาก
 ItemName,can of grease,
+ItemName,candelabrum,
 ItemName,candy bar,ขนมแท่ง
 ItemName,Carapace,
 ItemName,carrot,แครอท
+ItemName,Celestial Doom,
+ItemName,Celestial Kismet,
+ItemName,Celestial Portent,
 ItemName,chain barding,
 ItemName,chain mail,เกราะวงร้อย
 ItemName,chakram,
@@ -2415,6 +3172,7 @@ ItemName,cloak of deflection,ผ้าคลุมแห่งการสะท
 ItemName,cloak of displacement,
 ItemName,cloak of invisibility,ผ้าคลุมแห่งการล่องหน
 ItemName,cloak of magic resistance,ผ้าคลุมแห่งการต้านทานเวท
+ItemName,cloth shirt,
 ItemName,clove of garlic,
 ItemName,club,กระบอง
 ItemName,Colossal Excavator,
@@ -2422,18 +3180,22 @@ ItemName,cornuthaum,
 ItemName,costume earrings,
 ItemName,cram ration,
 ItemName,cream pie,
+ItemName,credit card,
 ItemName,Creeping Sprout,
+ItemName,crimson cloak,
 ItemName,crossbow,หน้าไม้
 ItemName,crossbow bolt,ลูกหน้าไม้
 ItemName,crysknife,
 ItemName,crystal ball,ลูกบอลผลึก
 ItemName,crystal plate mail,
 ItemName,dagger,มีดสั้น
+ItemName,darkstone,
 ItemName,dart,ลูกดอก
 ItemName,Deadwood,
 ItemName,Deagle,
 ItemName,deep dragon scale mail,เกราะเกล็ดมังกรลึกลับ
 ItemName,deep dragon scales,เกล็ดมังกรลึกลับ
+ItemName,Demiurge,
 ItemName,dented pot,
 ItemName,detonation key,
 ItemName,diamond,เพชร
@@ -2441,6 +3203,8 @@ ItemName,dilithium crystal,
 ItemName,dimension key,
 ItemName,Dire Needle,
 ItemName,disencumbrance boots,
+ItemName,doublet,
+ItemName,dragon horn,
 ItemName,Dragonbane,ดราก้อนเบน
 ItemName,dread staff,
 ItemName,Drilanze,
@@ -2453,6 +3217,7 @@ ItemName,drum of earthquake,
 ItemName,dunce cap,
 ItemName,dwarvish cloak,
 ItemName,dwarvish iron helm,
+ItemName,dwarvish katar,
 ItemName,dwarvish mattock,
 ItemName,dwarvish mithril-coat,ผ้าคลุมมิธริลคนแคระ
 ItemName,dwarvish roundshield,
@@ -2465,8 +3230,10 @@ ItemName,elven arrow,ลูกธนูเอลฟ์
 ItemName,elven boots,รองเท้าเอลฟ์
 ItemName,elven bow,ธนูเอลฟ์
 ItemName,elven broadsword,ดาบใหญ่เอลฟ์
+ItemName,elven chakram,
 ItemName,elven cloak,ผ้าคลุมเอลฟ์
 ItemName,elven dagger,มีดสั้นเอลฟ์
+ItemName,elven hand crossbow,
 ItemName,elven leather helm,หมวกหนังเอลฟ์
 ItemName,elven mithril-coat,ผ้าคลุมมิธริลเอลฟ์
 ItemName,elven shield,โล่เอลฟ์
@@ -2477,11 +3244,14 @@ ItemName,Escapist,
 ItemName,eucalyptus leaf,
 ItemName,expensive camera,
 ItemName,Eye of Aethiopica,
+ItemName,eyeball,
 ItemName,Eyes of Ra,ดวงตาแห่งรา
+ItemName,fancy boots,
 ItemName,fauchard,
 ItemName,fedora,
 ItemName,fire horn,เขาเพลิง
 ItemName,fish,ปลา
+ItemName,fishing pole,
 ItemName,flail,
 ItemName,flash staff,
 ItemName,fleet robe,
@@ -2491,6 +3261,7 @@ ItemName,fly swatter,
 ItemName,food ration,เสบียง
 ItemName,fortune cookie,
 ItemName,frag grenade,
+ItemName,frisbee,
 ItemName,frost horn,
 ItemName,fumble boots,
 ItemName,garnet,
@@ -2501,10 +3272,26 @@ ItemName,gauntlets of phasing,
 ItemName,gauntlets of power,
 ItemName,Giantslayer,
 ItemName,glaive,
+ItemName,gold axe,
+ItemName,gold chakram,
 ItemName,gold coin,เหรียญทอง
+ItemName,gold dagger,
+ItemName,gold double vajra,
 ItemName,gold dragon scale mail,เกราะเกล็ดมังกรทอง
 ItemName,gold dragon scales,เกล็ดมังกรทอง
+ItemName,gold flail,
 ItemName,Gold Key,กุญแจทอง
+ItemName,gold khanda,
+ItemName,gold labrys,
+ItemName,gold longsword,
+ItemName,gold plate mail,
+ItemName,gold single vajra,
+ItemName,gold spade,
+ItemName,gold trident,
+ItemName,gold twohanded sword,
+ItemName,gold urumi,
+ItemName,gold whistle,
+ItemName,grappling hook,
 ItemName,great dagger,สุดยอดมีดสั้น
 ItemName,green dragon scale mail,เกราะเกล็ดมังกรเขียว
 ItemName,green dragon scales,เกล็ดมังกรเขียว
@@ -2512,10 +3299,12 @@ ItemName,green glass bauble,เครื่องประดับแก้ว�
 ItemName,grenade launcher,เครื่องยิงระเบิด
 ItemName,Grimtooth,
 ItemName,guisarme,
+ItemName,Gungnir,
 ItemName,halberd,
 ItemName,Harbalest,
 ItemName,hatchet,
 ItemName,hawaiian shirt,
+ItemName,healthstone,
 ItemName,heavy hammer,
 ItemName,heavy iron ball,
 ItemName,heavy machine gun,ปืนกลหนัก
@@ -2548,6 +3337,7 @@ ItemName,kanabo,
 ItemName,katana,คาตานะ
 ItemName,katar,
 ItemName,kelp frond,
+ItemName,khopesh,
 ItemName,knife,มีด
 ItemName,lab coat,เสื้อกาวน์
 ItemName,lance,หอกยาว
@@ -2556,6 +3346,7 @@ ItemName,lantern,ตะเกียง
 ItemName,large box,กล่องใหญ่
 ItemName,large shield,โล่ใหญ่
 ItemName,Lashing Tongue,
+ItemName,leash,
 ItemName,leather armour,เกราะหนัง
 ItemName,leather barding,
 ItemName,leather cloak,
@@ -2565,10 +3356,12 @@ ItemName,leather jacket,
 ItemName,lembas wafer,
 ItemName,lenses,เลนส์
 ItemName,levitation boots,รองเท้าลอยได้
+ItemName,loadstone,
 ItemName,lock pick,ที่สะเดาะ
 ItemName,long sword,ดาบยาว
 ItemName,low boots,
 ItemName,lucern hammer,
+ItemName,luckstone,
 ItemName,lump of royal jelly,
 ItemName,mace,ขวานหนาม
 ItemName,magic bugle,แตรเวทมนตร์
@@ -2588,32 +3381,48 @@ ItemName,Maulfrost,
 ItemName,meat ring,แหวนเนื้อ
 ItemName,meat stick,เนื้อแท่ง
 ItemName,meatball,ลูกชิ้น
+ItemName,medical kit,
 ItemName,melon,เมล่อน
+ItemName,mirror,
 ItemName,Mirrorbright,
 ItemName,Miserus,
 ItemName,mithril arrow,ลูกธนูมิธริล
+ItemName,mithril axe,
 ItemName,mithril barding,
 ItemName,mithril battle-axe,ขวานมิธริล
 ItemName,mithril bullet,กระสุนมิธริล
 ItemName,mithril crossbow bolt,ลูกหน้าไม้มิธริล
 ItemName,mithril dagger,มีดมิธริล
 ItemName,mithril dart,ลูกดอกมิธริล
+ItemName,mithril gauntlets,
+ItemName,mithril greatmace,
+ItemName,mithril greatsword,
+ItemName,mithril hatchet,
 ItemName,mithril helmet,หมวกเกราะมิธริล
+ItemName,mithril katana,
 ItemName,mithril katar,
 ItemName,mithril lance,หอกมิธริลยาว
 ItemName,mithril long sword,ดาบยาวมิธริล
 ItemName,mithril plate mail,เกราะมิธริล
+ItemName,mithril poleaxe,
+ItemName,mithril rapier,
 ItemName,mithril sabre,ดาบมิธริล
 ItemName,mithril shield,โล่มิธริล
 ItemName,mithril short sword,ดาบมิธริลสั้น
+ItemName,mithril shuriken,
 ItemName,mithril spear,หอกมิธริล
+ItemName,mithril trident,
 ItemName,mithril two-handed sword,ดาบมิธริลถือสองมือ
 ItemName,mithril whip,แส้มิธริล
+ItemName,mooshroom,
 ItemName,morning star,
+ItemName,Mournblade,
 ItemName,mummy wrapping,
 ItemName,Muramasa,มุรามาสะ
 ItemName,mushroom,เห็ด
 ItemName,mute earrings,
+ItemName,naginata,
+ItemName,Nonagon Infinity,
 ItemName,nunchaku,
 ItemName,obsidian,ออบซิเดียน
 ItemName,oil lamp,ตะเกียงใช้น้ำมัน
@@ -2626,6 +3435,7 @@ ItemName,orange glass bauble,เครื่องประดับแก้ว
 ItemName,orcish arrow,ลูกธนูออร์ค
 ItemName,orcish bow,ธนูออร์ค
 ItemName,orcish chain mail,เสื้อเกราะวงร้อยออร์ค
+ItemName,orcish chakram,
 ItemName,orcish cloak,ผ้าคลุมออร์ค
 ItemName,orcish dagger,มีดออร์ค
 ItemName,orcish helm,หมวกเกราะออร์ค
@@ -2640,9 +3450,13 @@ ItemName,partisan,
 ItemName,pear,ลูกแพร์
 ItemName,pearl,
 ItemName,phantom key,กุญแจผี
+ItemName,phial,
 ItemName,Philosophers Stone,
 ItemName,pick-axe,ที่ขุดเหมือง
+ItemName,pill,
 ItemName,pistol,ปืนพก
+ItemName,plastic bat,
+ItemName,plastic hammer,
 ItemName,plastic sword,
 ItemName,plate barding,
 ItemName,plate mail,
@@ -2679,10 +3493,13 @@ ItemName,potion of see invisible,โพชั่นเห็นล่องห�
 ItemName,potion of sickness,โพชั่นโรคร้าย
 ItemName,potion of sleeping,โพชั่นหลับไหล
 ItemName,potion of speed,โพชั่นความเร็ว
+ItemName,potion of sustenance,
+ItemName,potion of warning,
 ItemName,potion of water,ขวดน้ำ
 ItemName,proof earrings,
 ItemName,Prudentia,
 ItemName,quarterstaff,ไม้เท้ายาว
+ItemName,railgun,
 ItemName,ranseur,
 ItemName,rapier,กระบี่
 ItemName,Ravenbow,
@@ -2698,6 +3515,7 @@ ItemName,ring of cold resistance,แหวนต้านทานความ�
 ItemName,ring of conflict,แหวนแห่งความขัดแย้ง
 ItemName,ring of constitution,แหวนแห่งกำลังกาย
 ItemName,ring of dexterity,แหวนแห่งความคล่องแคล่ว
+ItemName,ring of energy,
 ItemName,ring of fire resistance,แหวนแห่งการต้านทานไฟ
 ItemName,ring of free action,แหวนแห่งความอิสระ
 ItemName,ring of hunger,แหวนแห่งความหิวโหย
@@ -2705,6 +3523,7 @@ ItemName,ring of impact,แหวนแห่งแรงกระแทก
 ItemName,ring of intelligence,แหวนแห่งสติปัญญา
 ItemName,ring of invisibility,แหวนแห่งการล่องหน
 ItemName,ring of levitation,แหวนแห่งการล่องลอย
+ItemName,ring of marksmanship,
 ItemName,ring of naught,แหวนเปล่าๆ
 ItemName,ring of poison resistance,แหวนแห่งการต้านทานพิษ
 ItemName,ring of polymorph,แหวนแห่งการกลายร่าง
@@ -2728,11 +3547,24 @@ ItemName,robe,
 ItemName,rock,ก้อนหิน
 ItemName,rocket,จรวด
 ItemName,rocket launcher,ปืนยิงจรวด
+ItemName,rose axe,
+ItemName,rose battleaxe,
+ItemName,rose bident,
+ItemName,rose dagger,
+ItemName,rose greatsword,
+ItemName,rose hatchet,
+ItemName,rose long sword,
+ItemName,rose rapier,
+ItemName,rose ring,
+ItemName,rose sabre,
+ItemName,rose short sword,
+ItemName,rose spear,
 ItemName,Rosenthral,
 ItemName,rubber hose,
 ItemName,ruby,ทับทิม
 ItemName,Ruby Key,กุญแจทับทิม
 ItemName,Runesword,
+ItemName,Runicorn Horn,
 ItemName,sabre,
 ItemName,sack,กระสอบ
 ItemName,saddle,อาน
@@ -2779,6 +3611,7 @@ ItemName,scythe,เคียว
 ItemName,shades,
 ItemName,Shadow Key,กุญแจเงา
 ItemName,shield of reflection,
+ItemName,Shillelagh,
 ItemName,shimmering dragon scale mail,เกราะเกล็ดมังกรหลากสี
 ItemName,shimmering dragon scales,เกล็ดมังกรหลากสี
 ItemName,short sword,
@@ -2798,6 +3631,7 @@ ItemName,Silver Key,กุญแจเงิน
 ItemName,silver lance,หอกยาวเงิน
 ItemName,silver long sword,ดาบยาวเงิน
 ItemName,silver mace,ขวานหนามเงิน
+ItemName,silver rapier,
 ItemName,silver sabre,ดาบเงิน
 ItemName,silver short sword,ดาบสั้นเงิน
 ItemName,silver spear,หอกเงิน
@@ -2805,6 +3639,7 @@ ItemName,silver two-handed sword,ดาบถือสองมือเงื�
 ItemName,skeleton key,กุญแจกระดูก
 ItemName,slime mould,เมือกเชื้อรา
 ItemName,sling,หนังสติ๊ก
+ItemName,sling staff,
 ItemName,small shield,
 ItemName,sniper rifle,ปืนสไนเปอร์
 ItemName,spear,หอก
@@ -2814,29 +3649,40 @@ ItemName,spetum,
 ItemName,splint mail,เกราะเผือกไม้
 ItemName,sprig of wolfsbane,
 ItemName,Stamped Letter,
+ItemName,steel boots,
+ItemName,stethoscope,
 ItemName,stick of dynamite,
 ItemName,stiletto,
 ItemName,stone club,กระบองหิน
+ItemName,Stormbringer,
+ItemName,strange object,
 ItemName,studded leather armour,เกราะหนังติดกระดุม
 ItemName,submachine gun,ปืนอัตโนมัติ
+ItemName,Sudarshana Chakra,
 ItemName,Sunsword,
 ItemName,t-shirt,เสื้อยืด
+ItemName,tabard,
 ItemName,Talaria,
 ItemName,The Hero,วีรบุรุษ
 ItemName,thunder staff,ไม้เท้าสายฟ้า
 ItemName,tin,ดีบุก
+ItemName,tin opener,
 ItemName,tin whistle,
 ItemName,tinning kit,
 ItemName,tooled horn,
 ItemName,topaz,
 ItemName,torch,พกเพลิง
 ItemName,tortilla,
+ItemName,touchstone,
+ItemName,towel,
 ItemName,trident,ตรีศูล
 ItemName,tripe ration,
+ItemName,triplesword,
 ItemName,tsurugi,
 ItemName,turquoise,
 ItemName,two-handed sword,ดาบสองมือ
 ItemName,unicorn horn,เขายูนิคอร์น
+ItemName,Vajra,
 ItemName,vegetable corpse,
 ItemName,Verimurus,
 ItemName,violet glass bauble,เครื่องประดับแก้วสีม่วง
@@ -2847,6 +3693,7 @@ ItemName,wakizashi,วาคิซาชิ
 ItemName,wand of animation,คทาแห่งการควบคุม
 ItemName,wand of cancellation,คทาแห่งการปฏิเสธ
 ItemName,wand of cold,คทาแห่งความหนาวเย็น
+ItemName,wand of confusion,
 ItemName,wand of create horde,คทาแห่งการกำเนิดฟูง
 ItemName,wand of death,คทาแห่งความตาย
 ItemName,wand of digging,คทาแห่งการขุด
@@ -2858,6 +3705,8 @@ ItemName,wand of fireball,คทาแห่งลูกบอลเพลิง
 ItemName,wand of haste,คทาแห่งความรวดเร็ว
 ItemName,wand of healing,คทาแห่งการฟื้นฟู
 ItemName,wand of iceball,คทาแห่งลูกบอลน้ำแข็ง
+ItemName,wand of jumping,
+ItemName,wand of levitation,
 ItemName,wand of light,คทาแห่งแสง
 ItemName,wand of lightning,คทาแห่งสายฟ้า
 ItemName,wand of locking,คทาแห่งการล็อค
@@ -2873,12 +3722,17 @@ ItemName,wand of sleep,คทาแห่งการหลับไหล
 ItemName,wand of slow,คทาแห่งความเชื่องช้า
 ItemName,wand of striking,คทาแห่งการโจมตี
 ItemName,wand of summoning,คทาแห่งการอัญเชิญ
+ItemName,wand of telekinesis,
 ItemName,wand of teleportation,คทาแห่งการเทเลพอร์ต
 ItemName,wand of theft,คทาแห่งหัวขโมย
 ItemName,wand of undead turning,
 ItemName,war club,กระบองสงคราม
 ItemName,war hammer,ค้อนสงคราม
+ItemName,war maul,
 ItemName,wax candle,
+ItemName,Wepwawet's Fang,
+ItemName,wheellock pistol,
+ItemName,whetstone,
 ItemName,white dragon scale mail,เกราะเกล็ดมังกรขาว
 ItemName,white dragon scales,เกล้ดมังกรขาว
 ItemName,white glass bauble,เครื่องประดับแก้วสีขาว
@@ -2893,8 +3747,10 @@ ItemName,yellow dragon scale mail,เกราะเกล็ดมังกร�
 ItemName,yellow dragon scales,เกล็ดมังกรเหลือง
 ItemName,yellow glass bauble,เครื่องประดับแก้วสีเหลือง
 ItemName,yellowish brown glass bauble,เครื่องประดับแก้วสีน้ำตาลอมเหลือง
+ItemName,yoyo,
 ItemName,yumi,
 ItemName,zircon,
+ItemName,Zweihänder,
 ItemType,amulet,เครื่องราง
 ItemType,bag,กระเป๋า
 ItemType,barding,
@@ -4440,13 +5296,17 @@ SchoolName,necromancy,มนตร์ดำ
 SchoolName,transmutation,การเปลี่ยนสภาพ
 ServiceDescription,detect traps in the surrounding area.,ตรวจจับกับดักในพื้นที่รอบๆ
 ServiceDescription,identify one item in your inventory.,ระบุไอเท็มหนึ่งชิ้นในช่องเก็บของของคุณ
+ServiceDescription,learn how to cast a random spell.,
+ServiceDescription,learn how to cast two random spells.,
 ServiceDescription,magic mapping for the surrounding area.,ใช้เวททำแผนที่บริเวณรอบๆ
 ServiceDescription,refresh the shop with new items for sale.,เปลี่ยนสินค้าที่ขายใหม่
 ServiceDescription,remove a curse from one item in your inventory.,ถอนคำสาปจากไอเท็มหนึ่งชิ้นในช่องเก็บของของคุณ
+ServiceName,advanced tuition,
 ServiceName,curse removal,การถอนคำสาป
 ServiceName,identification,การระบุ
 ServiceName,magic mapping,เวททำแผนที่
 ServiceName,restock shop,เปลี่ยนสินค้าใหม่
+ServiceName,spell tuition,
 ServiceName,trap detection,ตรวจจับกับดัก
 ShopName,antique weapons outlet,
 ShopName,delicatessen,
@@ -4462,9 +5322,14 @@ ShopName,second-hand stationery store,
 ShopName,used armour dealership,
 ShrineName,craft station,ฐานการช่าง
 ShrineName,dark sepulchre,สุสานมืด
+ShrineName,elemental forge,
+ShrineName,fae chapel,
 ShrineName,holy shrine,ศาลเจ้าศักดิ์สิทธิ์
+ShrineName,martial temple,
 ShrineName,mystic coven,กลุ่มแม่มดลึกลับ
+ShrineName,pheral vault,
 ShrineName,sacred grove,สวนศักดิ์สิทธิ์
+ShrineName,star observatory,
 SizeName,gargantuan,มหีมา
 SizeName,huge,ใหญ่มาก
 SizeName,large,ใหญ่
@@ -4670,101 +5535,290 @@ SonicName,write,เขียน
 SpecialDescription,Aristocrats who enjoy all the privilege that comes with wealth and wonder why everyone hates them.,
 SpecialDescription,"Being unusually short and slight, they are more nimble but not as effective in combat.",
 SpecialDescription,"Being unusually tall and heavy, they move a bit slower but are more resilient.",
+SpecialDescription,"Bound by an infernal pact to a patron whose power flows through them, whether they will it or not.",
+SpecialDescription,"Changeling blood runs through their veins, granting them an otherworldly grace, but cold iron burns them like acid.",
+SpecialDescription,"Cursed with visions of what is to come, they see danger before it arrives, but the visions are slowly undoing their mind.",
+SpecialDescription,"Escaped from a laboratory before the experiment concluded, their body still bears the unstable mark of what was done to them.",
 SpecialDescription,"Forever cursed with lycanthropy, these beings can transform themselves into monstrous wolf forms.",
 SpecialDescription,Forsaken creature that subsists by feeding on the vital essence of the living.,
 SpecialDescription,Gifted with extrasensory perception to identify entities otherwise hidden from the normal senses but at the cost of a gnawing hunger.,
+SpecialDescription,"Hardened by a lifetime of campaigns, they strike with brutal efficiency but carry old wounds that never fully healed.",
 SpecialDescription,"Highly attuned servants of elemental earth, they can conjure exploding spheres to destroy their enemies.",
 SpecialDescription,"Highly attuned servants of elemental flame, they can conjure exploding spheres to destroy their enemies.",
 SpecialDescription,"Highly attuned servants of elemental frost, they can conjure exploding spheres to destroy their enemies.",
 SpecialDescription,"Highly attuned servants of elemental shock, they can conjure exploding spheres to destroy their enemies.",
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.",
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,
+SpecialDescription,"Made a living prying open tombs that were meant to stay shut, and picked up a rare set of skills along the way; the dead have not forgiven them.",
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,
+SpecialDescription,"More at home among beasts than people, they ride and bond with animals expertly but rely on their companions more than their own blade.",
+SpecialDescription,"Newly turned by an elder vampire's bite, they crave blood but have not yet mastered the strengths of the curse.",
+SpecialDescription,"One of the few to survive a great plague, their blood now resists poison but their body was left frail and their nearby creatures keep their distance.",
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.",
+SpecialDescription,"Pulled under by the sea and cursed to return, their lungs have made an uneasy peace with water while their waterlogged flesh dries out on land.",
+SpecialDescription,"Raised outside civilisation among beasts, they are quick and keen-eyed but never learned the discipline of formal combat.",
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.",
 SpecialDescription,The habitually drunk make for brazen yet slightly unsteady adventurers; just don't ask them to recite the alphabet backwards.,
+SpecialDescription,"Touched by the animating art of golem-crafters, their flesh has hardened toward stone, granting resilience at the cost of grace.",
+SpecialDescription,"Trained in the one-on-one blade duel, every strike is precise, but a lifetime spent perfecting offence left little time to master defence.",
+SpecialDescription,"Trained since childhood in a monastic order, their body is a honed weapon but their vows forbid armour and forsake worldly learning.",
 SpecialDescription,"Whether innocent or guilty of their accused crimes, these individuals are desperate to escape custody.",
+SpecialName,ascetic,
 SpecialName,colossus,ยักษ์
+SpecialName,construct,
+SpecialName,drowned,
 SpecialName,drunkard,ขี้เหล้า
+SpecialName,duelist,
 SpecialName,earth,ดิน
+SpecialName,feral,
+SpecialName,fey,
 SpecialName,flame,เพลิง
 SpecialName,frost,แช่แข็ง
 SpecialName,fugitive,ผู้ลี้ภัย
 SpecialName,glass,กระจก
+SpecialName,graverobber,
 SpecialName,midget,คนแคระ
 SpecialName,noble,ขุนนาง
+SpecialName,plagued,
+SpecialName,prophet,
 SpecialName,protagonist,ตัวเอก
 SpecialName,psychic,ผู้ใช้พลังจิต
 SpecialName,quantum,ควอนตัม
 SpecialName,scholar,นักวิชาการ
 SpecialName,shock,ช็อค
 SpecialName,skeleton,โครงกระดูก
+SpecialName,spawn,
+SpecialName,specimen,
+SpecialName,tamer,
 SpecialName,vampire,แวมไพร์
+SpecialName,veteran,
+SpecialName,warlock,
 SpecialName,water,น้ำ
 SpecialName,werewolf,มนุษย์หมาป่า
 SpellDescription,Projects a ball of energy that impacts on both monsters and objects.,ปล่อยพลังงานลูกบอลที่จะกระทบกับทั้งมอนสเตอร์และวัตถุ
+SpellName,acid splash,
 SpellName,acid stream,ไอกรด
 SpellName,animate dead,ควบคุมสิ่งไม่มีชีวิต
 SpellName,animate object,ควบคุมวัตถุ
+SpellName,arc conduit,
+SpellName,arcane blight,
+SpellName,arcane whetstone,
+SpellName,arcing bolt,
+SpellName,artificer's exchange,
+SpellName,atonement,
+SpellName,augury,
+SpellName,bane,
+SpellName,banshee wail,
+SpellName,barring ward,
+SpellName,battle fury,
 SpellName,bind undead,
+SpellName,binding sphere,
+SpellName,black ice patch,
+SpellName,black plague,
+SpellName,blade blessing,
+SpellName,bless,
 SpellName,blinking,การเคลื่อนที่พริบตา
+SpellName,blurred form,
+SpellName,call of the pack,
+SpellName,calm,
+SpellName,caltrop swarm,
 SpellName,cancellation,การยกเลิก
+SpellName,causeway,
+SpellName,chain lightning,
+SpellName,changeless ward,
 SpellName,charm,ทำให้ลุ่มหลง
+SpellName,chill grasp,
+SpellName,chromatic orb,
 SpellName,clairvoyance,ตาทิพย์
+SpellName,claybind touch,
+SpellName,clear sight,
+SpellName,clouded mind,
+SpellName,command,
+SpellName,commune,
+SpellName,concussive blast,
 SpellName,cone of cold,คลื่นความเย็น
 SpellName,confusion,ทำให้สับสน
+SpellName,conjure barricade,
+SpellName,conjure boulder,
+SpellName,conjure guardian,
+SpellName,conjure homunculus,
+SpellName,conjure mount,
+SpellName,conjured pit,
+SpellName,consecration,
+SpellName,contagion,
+SpellName,corpse explosion,
+SpellName,corroding ray,
 SpellName,create familiar,เสกสัตว์เลี้ยง
+SpellName,creeping palsy,
+SpellName,crimson ichor lance,
 SpellName,crushing sphere,ก้อนพลังแรงบด
 SpellName,curing,รักษา
+SpellName,danger sense,
 SpellName,darkness,ความมืด
+SpellName,daze,
+SpellName,death ward,
+SpellName,death's bargain,
+SpellName,deathwatch,
 SpellName,deflection,การสะท้อนกลับ
 SpellName,detect food,ตรวจหาอาหาร
+SpellName,detect metal,
 SpellName,detect monsters,ตรวจหามอนสเตอร์
 SpellName,detect treasure,ตรวจหาสมบัติ
+SpellName,detect undead,
 SpellName,detect unseen,ตรวจหาสิ่งที่มองไม่เห็น
 SpellName,dig,ขุด
+SpellName,disarming ward,
+SpellName,discord,
 SpellName,disintegrate,ทำให้สลาย
+SpellName,dispel magic,
+SpellName,displacement,
+SpellName,divine favor,
+SpellName,divine intervention,
+SpellName,dominate mind,
 SpellName,drain life,ดูดพลังชีวิต
+SpellName,earthen colossus,
+SpellName,elemental servant,
+SpellName,elemental warding,
+SpellName,ember lance,
+SpellName,enlarge,
+SpellName,entangling vines,
+SpellName,entropic siphon,
 SpellName,extra healing,ฟื้นฟูพิเศษ
+SpellName,false life,
 SpellName,fear,ความกลัว
+SpellName,find doors,
+SpellName,find traps,
 SpellName,finger of death,นิ้วแห่งความตาย
 SpellName,fireball,ลูกบอลเพลิง
 SpellName,flaming sphere,ก้อนพลังเพลิง
 SpellName,force bolt,
+SpellName,foreknowledge,
+SpellName,freedom,
+SpellName,freedom of movement,
 SpellName,freezing sphere,ก้อนพลังน้ำแข็ง
+SpellName,frost breath,
 SpellName,full healing,ฟื้นฟูเต็มที่
+SpellName,gate,
+SpellName,gilding touch,
+SpellName,glacial spike,
+SpellName,grasping mind,
+SpellName,grave rot,
+SpellName,gravity well,
+SpellName,guided path,
+SpellName,harvest of souls,
 SpellName,haste,รวดเร็ว
+SpellName,hazard sense,
 SpellName,healing,ฟื้นฟู
+SpellName,hex,
+SpellName,hexbind,
+SpellName,hideous laughter,
+SpellName,hold monster,
+SpellName,hold person,
+SpellName,holy word,
 SpellName,ice storm,พายุน้ำแข็ง
 SpellName,identify,ระบุ
+SpellName,inner calm,
 SpellName,invisibility,ล่องหน
+SpellName,iron will,
+SpellName,ironbind door,
+SpellName,juggernaut ray,
 SpellName,jumping,กระโดด
+SpellName,keen search,
 SpellName,knock,เคาะ
+SpellName,legion of bone,
 SpellName,levitation,ลอย
 SpellName,light,แสง
 SpellName,lightning bolt,สายฟ้าฝาด
 SpellName,living wall,กำลังมีชีวิต
 SpellName,magic mapping,เวททำแผนที่
 SpellName,magic missile,ลูกศรเวทมนตร์
+SpellName,meteoric cataclysm,
+SpellName,mind ken,
+SpellName,mind link,
+SpellName,mind spike,
+SpellName,mindrend,
+SpellName,mirror ward,
+SpellName,neutralize poison,
+SpellName,oracle's eye,
+SpellName,owl eyes,
+SpellName,petrifying touch,
 SpellName,phasing,ทะลุผ่าน
+SpellName,planar anchor,
+SpellName,planar swap,
 SpellName,poison blast,ระเบิดพิษ
 SpellName,polymorph,กลายร่าง
+SpellName,porter's reach,
+SpellName,prayer,
+SpellName,premonition,
+SpellName,prismatic spray,
+SpellName,psychic shove,
 SpellName,raise dead,คืนชีพคนตาย
+SpellName,rally cry,
+SpellName,ray of enfeeblement,
+SpellName,reap,
 SpellName,regenerate,การฟื้นฟู
 SpellName,remove curse,ถอนคำสาป
+SpellName,repelling ward,
+SpellName,repulsion,
 SpellName,restoration,ฟื้นฟูความสามารถ
+SpellName,revelation,
+SpellName,sanctuary,
+SpellName,scalding cloud,
+SpellName,searing light,
+SpellName,sense curse,
+SpellName,sense the restless,
+SpellName,sentinel ward,
+SpellName,shimmer shield,
 SpellName,shocking sphere,ก้อนพลังไฟฟ้า
+SpellName,shrink,
+SpellName,silence,
+SpellName,simulacrum,
 SpellName,sleep,นอนหลับ
+SpellName,slick detonation,
+SpellName,slipping free,
 SpellName,slow,เชี่ยงช้า
 SpellName,soaking sphere,
+SpellName,song of discord,
+SpellName,spark bolt,
+SpellName,spectral shroud,
+SpellName,spirit leech,
+SpellName,spirit shield,
+SpellName,starfall,
+SpellName,steadfast ward,
+SpellName,stone to flesh,
+SpellName,stoneskin,
 SpellName,summoning,การอัญเชิญ
+SpellName,sunburst smite,
+SpellName,sunder gear,
+SpellName,swoon,
 SpellName,telekinesis,พลังโทรจิต
+SpellName,telekinetic shove,
 SpellName,teleport away,เทเลพอร์ตหนี
+SpellName,thunderclap,
+SpellName,timed combustion,
+SpellName,tongue tied,
 SpellName,toxic spray,ฉีดพิษ
+SpellName,transmuter's mastery,
+SpellName,true appraisal,
 SpellName,turn undead,
+SpellName,unbinding,
+SpellName,undying ward,
+SpellName,unseen hand,
+SpellName,vampiric feast,
+SpellName,veil of shadows,
+SpellName,wall breach,
+SpellName,wall of thorns,
 SpellName,walling,สร้างกำแพง
+SpellName,ward of return,
+SpellName,warning ward,
+SpellName,web snare,
+SpellName,whispers of madness,
+SpellName,wildfire brand,
+SpellName,wither,
+SpellName,withering ray,
 SpellName,wizard lock,ล็อคเวทมนตร์
+SpellName,world vision,
 StandingName,damned,ถูกสาปแช่ง
 StandingName,doomed,มีเคราะห์
 StandingName,doubtful,ผิด
@@ -4815,19 +5869,31 @@ VolatileName,blaze,
 VolatileName,blood,
 VolatileName,electricity,
 VolatileName,freeze,
+VolatileName,oil,
 VolatileName,steam,
 WallStructureName,illusionary,ภาพลวงตา
 WallStructureName,permanent,คงทนถาวร
 WallStructureName,solid,แข็ง
+ZooName,angelic sanctuary,
 ZooName,ant hole,รูมด
+ZooName,astral kennel,
 ZooName,barracks,ค่ายทหาร
 ZooName,bee hive,รังผึ้ง
 ZooName,cocknest,รังแมลงสาบ
 ZooName,college of wizardry,วิทยาลัยแห่งจอมเวท
 ZooName,dragon nest,รังมังกร
+ZooName,dragon rookery,
+ZooName,drow stronghold,
+ZooName,elemental foundry,
+ZooName,golem forge,
 ZooName,graveyard,สุสาน
 ZooName,gremlin pit,หลุมเกรมลิน
+ZooName,jelly vat,
 ZooName,leprechaun hall,โถงแห่งผีแคระ
+ZooName,military camp,
+ZooName,mimic den,
+ZooName,monster greenhouse,
+ZooName,pheral crypt,
 ZooName,salty pool,สระน้ำเค็ม
 ZooName,science lab,ห้องวิจัย
 ZooName,slumber party,ปาร์ตี้ชุดนอน

@@ -229,9 +229,81 @@ namespace Pathos
       // renames.
       Register.Alias(dirt, "dirt floor");
       Register.Alias(stone_path, "stone corridor");
+      // >>> GENERATED GROUNDS >>>
+      cave_path = AddGround("cave path", Materials.stone, Glyphs.cave_path, G =>
+      {
+        G.Description = null;
+
+        G.SetBlock(Codex.Blocks.clay_boulder);
+      });
+
+      lattice_floor = AddGround("lattice floor", Materials.iron, Glyphs.lattice_floor, G =>
+      {
+        G.Description = null;
+
+        G.AddReaction(Chance.OneIn10, Elements.shock, A => A.CreateVolatile(Volatiles.electricity, 1.d100() + 100));
+
+        G.SetBlock(Codex.Blocks.wooden_barrel);
+      });
+
+      deep_water = AddGround("deep water", Materials.water, Glyphs.deep_water, G =>
+      {
+        G.Description = null;
+
+        G.SpeedMultiplier = 0.50F;
+
+        G.SetBlock(Codex.Blocks.stone_boulder);
+
+        G.AddReaction(Chance.Always, Elements.cold, A => A.ConvertGround(FromGround: deep_water, ToGround: ice, Locality.Square));
+        G.AddReaction(Chance.Always, Elements.shock, A => A.ApplyTransient(Properties.stunned, 3.d6()));
+        G.AddReaction(Chance.Always, Elements.fire, A => A.CreateVolatile(Volatiles.steam, 1.d100() + 100));
+
+        G.SetSunken(Inv.Colour.Blue.Opacity(0.75F), Elements.water, Sonics.water_impact, Skills.swimming,
+          Enter =>
+          {
+            Enter.HarmEntity(Elements.water, Dice.One);
+            Enter.WhenChance(Chance.OneIn20, T => T.ConvertItem(Codex.Stocks.potion, WholeStack: true, Codex.Items.potion_of_water));
+            Enter.WhenChance(Chance.OneIn20, T => T.ConvertItem(Codex.Stocks.scroll, WholeStack: true, Codex.Items.scroll_of_blank_paper));
+            Enter.WhenChance(Chance.OneIn20, T => T.ConvertItem(Codex.Stocks.book, WholeStack: true, Codex.Items.book_of_blank_paper));
+          },
+          Drop =>
+          {
+            Drop.ConvertItem(Codex.Stocks.potion, WholeStack: true, Codex.Items.potion_of_water);
+            Drop.ConvertItem(Codex.Stocks.scroll, WholeStack: true, Codex.Items.scroll_of_blank_paper);
+            Drop.ConvertItem(Codex.Stocks.book, WholeStack: true, Codex.Items.book_of_blank_paper);
+          }
+        );
+      });
+
+      shallow_water = AddGround("shallow water", Materials.water, Glyphs.shallow_water, G =>
+      {
+        G.Description = null;
+
+        G.SpeedMultiplier = 0.80F;
+
+        G.SetBlock(Codex.Blocks.stone_boulder);
+
+        G.AddReaction(Chance.Always, Elements.cold, A => A.ConvertGround(FromGround: shallow_water, ToGround: ice, Locality.Square));
+        G.AddReaction(Chance.Always, Elements.fire, A => A.CreateVolatile(Volatiles.steam, 1.d100() + 100));
+      });
+
+      cloud = AddGround("cloud", Materials.air, Glyphs.cloud, G =>
+      {
+        G.Description = null;
+
+        G.SpeedMultiplier = 0.80F;
+      });
+      // <<< GENERATED GROUNDS <<<
     }
 #endif
 
+    // >>> GENERATED GROUNDS-FIELDS >>>
+    public readonly Ground cave_path;
+    public readonly Ground lattice_floor;
+    public readonly Ground deep_water;
+    public readonly Ground shallow_water;
+    public readonly Ground cloud;
+    // <<< GENERATED GROUNDS-FIELDS <<<
     public readonly Ground cave_floor;
     public readonly Ground chasm;
     public readonly Ground dirt;

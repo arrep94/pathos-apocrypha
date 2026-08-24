@@ -420,9 +420,279 @@ namespace Pathos
       });
 
       Register.Alias(holy_shrine, "altar");
+      // >>> GENERATED SHRINES >>>
+      martial_temple = AddShrine("martial temple", Entities.army_captain, Glyphs.holy_shrine, Sonics.bell, 20, S =>
+      {
+        S.KeeperFeature = Features.stall;
+
+        S.AddBoon("sharpen blade", B =>
+        {
+          B.Description = "Have the temple armour smiths put a keener edge on one weapon, magical or not.";
+          B.Cost = 200;
+          B.SetCast().FilterStock(Codex.Stocks.weapon)
+           .SetAssetIndividualised();
+          B.Apply.EnchantItemUp(Dice.Fixed(+1));
+        });
+
+        S.AddBoon("shield wall", B =>
+        {
+          B.Description = "Stand in the temple square and receive the captain's defensive blessing.";
+          B.Cost = 150;
+          B.SetCast().Strike(Strikes.magic, Dice.Zero);
+          B.Apply.ApplyTransient(Codex.Properties.deflection, 1.d15() + 16);
+        });
+
+        S.AddBoon("forced march", B =>
+        {
+          B.Description = "Drill under the captain's eye. You may be quickened, or you may be worn out.";
+          B.Cost = 100;
+          B.SetCast().Strike(Strikes.magic, Dice.Zero);
+          B.Apply.WhenChance(Chance.OneIn2,
+            T => T.ApplyTransient(Codex.Properties.quickness, 4.d6() + 4),
+            F => F.ApplyTransient(Codex.Properties.slowness, 4.d6() + 4));
+        });
+
+        S.AddBoon("battle fury", B =>
+        {
+          B.Description = "Drink the warrior's drink and fight in a berserker rage. It does not spare your allies.";
+          B.Cost = 250;
+          B.SetCast().Strike(Strikes.magic, Dice.Zero);
+          B.Apply.ApplyTransient(Codex.Properties.rage, 3.d20());
+        });
+
+        S.AddBoon("drill", B =>
+        {
+          B.Description = "Train under a veteran until a weapon or armour discipline sticks.";
+          B.Cost = 600;
+          B.SetCast().Plain(Dice.One);
+          B.Apply.GainSkill(RandomPoints: false, Skills.axe, Skills.heavy_blade, Skills.medium_blade,
+            Skills.mace, Skills.hammer, Skills.spear, Skills.polearm, Skills.flail,
+            Skills.heavy_armour, Skills.medium_armour);
+        });
+
+        S.AddBoon("call the escort", B =>
+        {
+          B.Description = "Requisition soldiers from the garrison to march at your side.";
+          B.Cost = 500;
+          B.Apply.SummonEntity(1.d2(), Entities.army_soldier, Entities.army_sergeant, Entities.army_lieutenant);
+        });
+      });
+
+      pheral_vault = AddShrine("pheral vault", Entities.pheral_vizier, Glyphs.dark_sepulchre, Sonics.bell, 15, S =>
+      {
+        S.KeeperFeature = Features.sarcophagus;
+
+        S.AddBoon("commune with the dead", B =>
+        {
+          B.Description = "Whisper a question into the vault. The dead do not always tell the truth.";
+          B.Cost = 150;
+          B.SetCast().Strike(Strikes.spirit, Dice.Zero);
+          B.Apply.Rumour(Attributes.wisdom, Skills.literacy, Truth: true, Lies: true);
+        });
+
+        S.AddBoon("sacred wrappings", B =>
+        {
+          B.Description = "Receive the linen wrappings used to prepare the dead for the afterlife.";
+          B.Cost = 100;
+          B.Apply.CreateItem(Dice.One, QuantityDice: null, [Items.mummy_wrapping]);
+        });
+
+        S.AddBoon("tomb guardian", B =>
+        {
+          B.Description = "Petition the vizier for a spectral cat to guard you as it once guarded the tomb.";
+          B.Cost = 400;
+          B.Apply.SummonEntity(Dice.Fixed(1), Entities.pheral_khit, Entities.pheral_sentinel);
+        });
+
+        S.AddBoon("court of the underworld", B =>
+        {
+          B.Description = "Summon an escort from the pharaoh's retinue to walk beside you.";
+          B.Cost = 700;
+          B.Apply.SummonEntity(Dice.Fixed(1), Entities.ashen_mummy, Entities.bone_reaper, Entities.frost_wraith);
+        });
+
+        S.AddBoon("black rite of revival", B =>
+        {
+          B.Description = "A darker resurrection than the temples offer: certain to succeed, but the dead come back enraged.";
+          B.Cost = 600;
+          B.SetCast().FilterItem(Items.animal_corpse, Items.vegetable_corpse);
+          B.Apply.RaiseDeadEntity(Percent: 100, CorruptProperty: Codex.Properties.rage, CorruptDice: 6.d10(), LoyalOnly: false);
+        });
+      });
+
+      elemental_forge = AddShrine("elemental forge", Entities.efreeti, Glyphs.craft_station, Sonics.bell, 20, S =>
+      {
+        S.KeeperFeature = Features.workbench;
+
+        S.AddBoon("temper in flame", B =>
+        {
+          B.Description = "Step into the forge fire. It burns, but you rise with fire in your blood.";
+          B.Cost = 350;
+          B.SetCast().Strike(Strikes.flame, Dice.Zero);
+          B.Apply.HarmEntity(Elements.fire, 3.d6());
+          B.Apply.MajorResistance(Elements.fire);
+        });
+
+        S.AddBoon("temper in frost", B =>
+        {
+          B.Description = "Plunge into the quenching trough. It burns with cold, but you rise proof against it.";
+          B.Cost = 350;
+          B.SetCast().Strike(Strikes.frost, Dice.Zero);
+          B.Apply.HarmEntity(Elements.cold, 3.d6());
+          B.Apply.MajorResistance(Elements.cold);
+        });
+
+        S.AddBoon("temper in acid", B =>
+        {
+          B.Description = "Bathe in the etching vats. It burns, but you rise with a hide the acid cannot bite.";
+          B.Cost = 350;
+          B.SetCast().Strike(Strikes.acid, Dice.Zero);
+          B.Apply.HarmEntity(Elements.acid, 3.d6());
+          B.Apply.MajorResistance(Elements.acid);
+        });
+
+        S.AddBoon("ordeal of embers", B =>
+        {
+          B.Description = "Toss a coal on the forge fire and take whatever ward it grants you.";
+          B.Cost = 200;
+          B.SetCast().Strike(Strikes.magic, Dice.Zero);
+          B.Apply.WhenProbability(Table =>
+          {
+            Table.Add(1, A => A.MinorResistance(Elements.poison));
+            Table.Add(1, A => A.MinorResistance(Elements.disintegrate));
+            Table.Add(1, A => A.MinorResistance(Elements.drain));
+            Table.Add(1, A => A.MinorResistance(Elements.petrify));
+            Table.Add(1, A => A.MinorResistance(Elements.sleep));
+          });
+        });
+
+        S.AddBoon("bound elemental", B =>
+        {
+          B.Description = "Have the efreeti bind a captive elemental to your service.";
+          B.Cost = 800;
+          B.Apply.SummonEntity(Dice.Fixed(1), Entities.acid_sphere, Entities.sonic_sphere,
+            Entities.explosive_sphere, Entities.air_sphere);
+        });
+      });
+
+      star_observatory = AddShrine("star observatory", Entities.elder_wizard, Glyphs.mystic_coven, Sonics.bell, 20, S =>
+      {
+        S.KeeperFeature = Features.pentagram;
+
+        S.AddBoon("identify all", B =>
+        {
+          B.Description = "Have the wizard read the true nature of everything you carry.";
+          B.Cost = 600;
+          B.SetCast().Strike(Strikes.psychic, Dice.Zero);
+          B.Apply.IdentifyItem(All: true, Sanctity: null);
+        });
+
+        S.AddBoon("chart the level", B =>
+        {
+          B.Description = "Consult the observatory's charts for the full layout of this level.";
+          B.Cost = 300;
+          B.SetCast().Strike(Strikes.magic, Dice.Zero);
+          B.Apply.Mapping(Range.Sq30, Chance.Always);
+        });
+
+        S.AddBoon("map the ranks", B =>
+        {
+          B.Description = "Watch the level through the great lens and mark every creature on it.";
+          B.Cost = 250;
+          B.SetCast().Strike(Strikes.magic, Dice.Zero);
+          B.Apply.DetectEntity(Range.Sq30);
+        });
+
+        S.AddBoon("clairvoyant trance", B =>
+        {
+          B.Description = "Fall into a trance and see through walls and floors for a time.";
+          B.Cost = 200;
+          B.SetCast().Strike(Strikes.magic, Dice.Zero);
+          B.Apply.ApplyTransient(Codex.Properties.clairvoyance, 6.d6());
+        });
+
+        S.AddBoon("read your destiny", B =>
+        {
+          B.Description = "Have your destiny read from the stars, hastening your growth.";
+          B.Cost = 1200;
+          B.SetCast().Strike(Strikes.magic, Dice.Zero);
+          B.Apply.GainLevel(Dice.One, RandomExperience: true);
+        });
+      });
+
+      fae_chapel = AddShrine("fae chapel", Entities.Nymph_Princess, Glyphs.sacred_grove, Sonics.bell, 10, S =>
+      {
+        S.KeeperFeature = Features.throne;
+
+        S.AddBoon("fae grace", B =>
+        {
+          B.Description = "The princess trades you a measure of charm. Something else must give way for it.";
+          B.Cost = 150;
+          B.SetCast().Strike(Strikes.magic, Dice.Zero);
+          B.Apply.TradeoffAbility(Attributes.charisma, Attributes.strength);
+        });
+
+        S.AddBoon("fae cunning", B =>
+        {
+          B.Description = "The princess trades you a measure of wit. Something else must give way for it.";
+          B.Cost = 150;
+          B.SetCast().Strike(Strikes.magic, Dice.Zero);
+          B.Apply.TradeoffAbility(Attributes.intelligence, Attributes.constitution);
+        });
+
+        S.AddBoon("fae guile", B =>
+        {
+          B.Description = "The princess trades you a measure of grace. Something else must give way for it.";
+          B.Cost = 150;
+          B.SetCast().Strike(Strikes.magic, Dice.Zero);
+          B.Apply.TradeoffAbility(Attributes.dexterity, Attributes.wisdom);
+        });
+
+        S.AddBoon("capricious wish", B =>
+        {
+          B.Description = "Ask the fae for a favour. What you get is entirely up to her mood.";
+          B.Cost = 100;
+          B.SetCast().Strike(Strikes.magic, Dice.Zero);
+          B.Apply.WhenProbability(Table =>
+          {
+            Table.Add(1, A => A.HealEntity(Dice.Fixed(50), Modifier.Zero));
+            Table.Add(1, A => A.HarmEntity(Elements.magical, 2.d6()));
+            Table.Add(1, A => A.IncreaseOneAbility(Dice.One));
+            Table.Add(1, A => A.DecreaseOneAbility(Dice.One));
+            Table.Add(1, A => A.ApplyTransient(Codex.Properties.confusion, 2.d10()));
+            Table.Add(1, A => A.TeleportEntity(Codex.Properties.teleportation));
+          });
+        });
+
+        S.AddBoon("banquet of the fae", B =>
+        {
+          B.Description = "Eat at the fae table. You will not go hungry, but the wine shows you things that are not there.";
+          B.Cost = 100;
+          B.SetCast().Strike(Strikes.magic, Dice.Zero);
+          B.Apply.GainNutrition(5.d100());
+          B.Apply.ApplyTransient(Codex.Properties.hallucination, 4.d20());
+        });
+
+        S.AddBoon("godmother's blessing", B =>
+        {
+          B.Description = "A generous healing gift, fae-touched: your hands will not be quite steady later.";
+          B.Cost = 300;
+          B.SetCast().Strike(Strikes.spirit, Dice.One);
+          B.Apply.HealEntity(Dice.Fixed(150), Modifier.Zero);
+          B.Apply.ApplyTransient(Codex.Properties.fumbling, 2.d6() + 6);
+        });
+      });
+      // <<< GENERATED SHRINES <<<
     }
 #endif
 
+    // >>> GENERATED SHRINES-FIELDS >>>
+    public readonly Shrine martial_temple;
+    public readonly Shrine pheral_vault;
+    public readonly Shrine elemental_forge;
+    public readonly Shrine star_observatory;
+    public readonly Shrine fae_chapel;
+    // <<< GENERATED SHRINES-FIELDS <<<
     public readonly Shrine craft_station;
     public readonly Shrine holy_shrine;
     public readonly Shrine dark_sepulchre;

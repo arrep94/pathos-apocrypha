@@ -28,8 +28,8 @@ namespace Pathos
 
       amulet = AddStock("amulet", Glyphs.amulet_stock, 1);
       armour = AddStock("armour", Glyphs.armour_stock, 10);
-      book = AddStock("book", Glyphs.book_stock, 4);
-      food = AddStock("food", Glyphs.food_stock, 20);
+      book = AddStock("book", Glyphs.book_stock, 6);
+      food = AddStock("food", Glyphs.food_stock, 18);
       gem = AddStock("gem", Glyphs.gem_stock, 8);
       potion = AddStock("potion", Glyphs.potion_stock, 16);
       ring = AddStock("ring", Glyphs.ring_stock, 3);

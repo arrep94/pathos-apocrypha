@@ -1,11 +1,25 @@
+AppearanceName,chalkstone book,libro di calcare
+AppearanceName,limestone book,libro di calcare
+AppearanceName,charnel book,libro d'ossario
+AppearanceName,ossuary book,libro d'ossario
+AppearanceName,frosted book,libro brinato
+AppearanceName,rimed book,libro brinato
 CounterName,blinks,lampeggia
 CounterName,flashes,lampeggia
 EntityName,jellyfish,medusa
 EntityName,medusa,medusa
 EntityName,incubus,incubo
 EntityName,nightmare,incubo
+EntityName,merchant,mercante
+EntityName,trader,mercante
+ItemName,bandage,benda
+ItemName,blindfold,benda
 ItemName,book of curing,libro della cura
 ItemName,book of healing,libro della cura
+ItemName,book of acid splash,libro dello spruzzo acido
+ItemName,book of toxic spray,libro dello spruzzo acido
+SpellName,acid splash,spruzzo acido
+SpellName,toxic spray,spruzzo acido
 SonicName,gain ability,ottieni abilità
 SonicName,gain skill,ottieni abilità
 SonicName,lose ability,perdi abilità

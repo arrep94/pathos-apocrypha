@@ -1,25 +1,28 @@
 003 | guide
 004 | acolyte
+005 | nun
 006 | page
-007 | apprentice
-008 | attendant
-009 | yeoman
-010 | earth seeker, flame seeker, frost seeker, shock seeker, student, water seeker
-012 | intern
-013 | mugger
-014 | proudfoot
-015 | embalmer
-016 | yeoman warder
-017 | neanderthal
-018 | exterminator
+007 | apprentice, archeologist
+008 | attendant, thief
+009 | trader, yeoman
+010 | air seeker, alchemist, earth seeker, flame seeker, frost seeker, shock seeker, student, traveller, water seeker
+011 | bushi, temptress
+012 | intern, journeyman wizard
+013 | mugger, poison alchemist
+014 | huntress, proudfoot, savage stalker
+015 | berserker, embalmer
+016 | assassin, savage brute, yeoman warder
+017 | hag, neanderthal
+018 | exterminator, shaolin monk
 019 | gypsy
-020 | earth binder, flame binder, frost binder, shock binder, water binder
+020 | air binder, bishop, earth binder, flame binder, frost binder, shock binder, water binder
 021 | roshi, shifter
 022 | thug
 023 | abbot
 024 | tracker
 025 | black marketeer, fiend
+026 | elder wizard
 027 | warrior
 028 | chief yeoman warder
 029 | chieftain
-030 | earth maker, flame maker, frost maker, high priest, occultist, shinobi, shock maker, transmuter, undead slayer, water maker
+030 | air maker, earth maker, flame maker, frost maker, high priest, occultist, shinobi, shock maker, transmuter, undead slayer, water maker

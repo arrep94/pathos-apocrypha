@@ -221,6 +221,44 @@ namespace Pathos
       AddEvolution(Entities.frost_sphere, Entities.ice_elemental);
       AddEvolution(Entities.shock_sphere, Entities.air_elemental);
       AddEvolution(Entities.water_sphere, Entities.water_elemental);
+      // >>> GENERATED EVOLUTIONS >>>
+      // astral dog family: puppy grows into astral dog.
+      // astral_puppy Level 11 / Weight 2600 -> astral_dog Level 22 / Weight 6000.
+      AddEvolution(Entities.astral_puppy, Entities.astral_dog);
+
+      // blink dog family: puppy grows into blink dog.
+      // blink_puppy Level 3 / Weight 1800 -> blink_dog Level 7 / Weight 4500.
+      AddEvolution(Entities.blink_puppy, Entities.blink_dog);
+
+      // mimic family: baby mimic matures into a plain mimic, then a grave mimic.
+      // baby_mimic Level 2 / Weight 800 -> mimic Level 7 / Weight 8000 -> grave_mimic Level 8 / Weight 12000.
+      // mimic_coins was left out: it is a separate, lower-level (3) mimic archetype, not a growth stage of this line.
+      AddEvolution(Entities.baby_mimic, Entities.mimic, Entities.grave_mimic);
+
+      // acid sphere matures into a full acid elemental.
+      // acid_sphere Level 6 / Weight 100 -> acid_elemental Level 13 / Weight 180000.
+      AddEvolution(Entities.acid_sphere, Entities.acid_elemental);
+
+      // explosive sphere matures into a full explosive elemental.
+      // explosive_sphere Level 6 / Weight 0 -> explosive_elemental Level 14 / Weight 0.
+      AddEvolution(Entities.explosive_sphere, Entities.explosive_elemental);
+
+      // sonic sphere matures into a full sonic elemental.
+      // sonic_sphere Level 9 / Weight 0 -> sonic_elemental Level 17 / Weight 0.
+      AddEvolution(Entities.sonic_sphere, Entities.sonic_elemental);
+      // air_sphere was left out: its natural elemental partner (Entities.air_elemental) already
+      // belongs to the shipped shock_sphere -> air_elemental evolution, so it cannot be reused here.
+      // ash_elemental and energy_elemental were left out: neither has a matching new sphere entity.
+
+      // army chain: soldier rises through the ranks to captain.
+      // army_soldier Level 6 / Weight 16000 -> army_sergeant Level 8 / Weight 17000 ->
+      // army_lieutenant Level 10 / Weight 17000 -> army_captain Level 13 / Weight 17500.
+      AddEvolution(Entities.army_soldier, Entities.army_sergeant, Entities.army_lieutenant, Entities.army_captain);
+
+      // astral_dragon, fae_dragon and mystical_dragon were left out of any evolution chain: each is a
+      // single new stage (adult/adult/young respectively) with no matching baby/young/adult/ancient
+      // siblings of the same colour, so no growth chain can be built for them.
+      // <<< GENERATED EVOLUTIONS <<<
     }
 #endif
 

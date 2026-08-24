@@ -343,9 +343,186 @@ namespace Pathos
         H.AddMinion(Entities.ettin_zombie, Dice.One);
         H.AddMinion(Entities.giant_zombie, Dice.One);
       });
+      // >>> GENERATED HORDES >>>
+      // --- army chain: soldier + sergeant is the base patrol; the lieutenant and captain lead
+      // deeper, larger versions of the same unit, exactly as the four ranks were designed to move.
+      army_patrol = AddHorde("army patrol", Entities.army_sergeant, H =>
+      {
+        H.AddMinion(Entities.army_soldier, 1.d4() + 1); // 2-5 rank-and-file behind the sergeant
+      });
+
+      army_squad = AddHorde("army squad", Entities.army_lieutenant, H =>
+      {
+        H.AddMinion(Entities.army_sergeant, 1.d2());
+        H.AddMinion(Entities.army_soldier, 1.d3() + 2);
+      });
+
+      army_platoon = AddHorde("army platoon", Entities.army_captain, H =>
+      {
+        H.AddMinion(Entities.army_lieutenant, 1.d2() - 1); // 0-1, a junior officer under the captain
+        H.AddMinion(Entities.army_sergeant, 1.d2() + 1);
+        H.AddMinion(Entities.army_soldier, 2.d4());
+      });
+
+      // --- drow enclave: the priestess leads her mage, monk and thief.
+      drow_enclave = AddHorde("drow enclave", Entities.drow_priestess, H =>
+      {
+        H.AddMinion(Entities.drow_mage, 1.d2() - 1); // 0-1
+        H.AddMinion(Entities.drow_monk, 1.d2());
+        H.AddMinion(Entities.drow_thief, 1.d2());
+      });
+
+      // --- pheral tomb: the pharaoh's honour guard.
+      pheral_tomb = AddHorde("pheral tomb", Entities.pheral_pharaoh, H =>
+      {
+        H.AddMinion(Entities.pheral_vizier, 1.d2() - 1); // 0-1, the pharaoh's own spellcaster
+        H.AddMinion(Entities.pheral_sentinel, 1.d2());
+        H.AddMinion(Entities.pheral_khit, 1.d3() + 1);
+      });
+
+      // --- angelic choir: seraphim atop the hierarchy, eshim the most numerous at the base.
+      angelic_choir = AddHorde("angelic choir", Entities.seraphim, H =>
+      {
+        H.AddMinion(Entities.cherubim, 1.d2());
+        H.AddMinion(Entities.galgalim, 1.d2() - 1); // 0-1
+        H.AddMinion(Entities.eshim, 1.d3());
+      });
+
+      // --- heavenly host: the martial angel warrior riding its buraq, same shape as orc-on-warg.
+      heavenly_host = AddHorde("heavenly host", null, H =>
+      {
+        H.AddCavalry(Entities.angel_warrior, Entities.buraq, Dice.One);
+      });
+
+      // --- blink dog / astral dog packs: adults with their pups, same shape as hell_hound/winter_wolf.
+      blink_dog = AddHorde("blink dog", Entities.blink_dog, H =>
+      {
+        H.AddMinion(Entities.blink_puppy, 1.d3());
+      });
+
+      astral_dog = AddHorde("astral dog", Entities.astral_dog, H =>
+      {
+        H.AddMinion(Entities.astral_puppy, 1.d2() + 1);
+      });
+
+      // --- elemental foundries: elementals and spheres of the same element together.
+      acid_foundry = AddHorde("acid foundry", null, H =>
+      {
+        H.AddMinion(Entities.acid_elemental, 1.d2());
+        H.AddMinion(Entities.acid_sphere, 1.d3());
+      });
+
+      ash_foundry = AddHorde("ash foundry", null, H =>
+      {
+        H.AddMinion(Entities.ash_elemental, 1.d2() + 1);
+      });
+
+      energy_foundry = AddHorde("energy foundry", null, H =>
+      {
+        H.AddMinion(Entities.energy_elemental, 1.d2() + 1);
+      });
+
+      explosive_foundry = AddHorde("explosive foundry", null, H =>
+      {
+        H.AddMinion(Entities.explosive_elemental, 1.d2());
+        H.AddMinion(Entities.explosive_sphere, 1.d3());
+      });
+
+      sonic_foundry = AddHorde("sonic foundry", null, H =>
+      {
+        H.AddMinion(Entities.sonic_elemental, 1.d2());
+        H.AddMinion(Entities.sonic_sphere, 1.d3());
+      });
+
+      air_foundry = AddHorde("air foundry", null, H =>
+      {
+        H.AddMinion(Entities.air_elemental, 1.d2());
+        H.AddMinion(Entities.air_sphere, 1.d3());
+        H.AddMinion(Entities.wind_sphere, 1.d2());
+      });
+
+      brine_foundry = AddHorde("brine foundry", null, H =>
+      {
+        H.AddMinion(Entities.water_elemental, 1.d2() - 1); // 0-1
+        H.AddMinion(Entities.brine_elemental, 1.d2());
+      });
+
+      // --- golem workshop: the three new metal golems built side by side.
+      golem_workshop = AddHorde("golem workshop", null, H =>
+      {
+        H.AddMinion(Entities.tin_golem, 1.d2());
+        H.AddMinion(Entities.silver_golem, 1.d2() - 1); // 0-1
+        H.AddMinion(Entities.bronze_golem, 1.d2() - 1); // 0-1
+      });
+
+      // --- jelly cistern: the new jelly colours pooled together, same shape as the shipped mould horde.
+      jelly_cistern = AddHorde("jelly cistern", null, H =>
+      {
+        H.AddMinion(Entities.cyan_jelly, Dice.One);
+        H.AddMinion(Entities.violet_jelly, Dice.One);
+        H.AddMinion(Entities.green_jelly, Dice.One);
+        H.AddMinion(Entities.red_jelly, Dice.One);
+        H.AddMinion(Entities.midnight_jelly, Dice.One);
+      });
+
+      tar_pudding = AddHorde("tar pudding", null, H =>
+      {
+        H.AddMinion(Entities.tar_pudding, 1.d2());
+      });
+
+      // --- mimic nest: every new mimic shape hiding together.
+      mimic_nest = AddHorde("mimic nest", null, H =>
+      {
+        H.AddMinion(Entities.baby_mimic, 1.d2());
+        H.AddMinion(Entities.mimic, 1.d2());
+        H.AddMinion(Entities.grave_mimic, 1.d2() - 1); // 0-1
+        H.AddMinion(Entities.mimic_coins, 1.d3());
+      });
+
+      // --- chromatic variant packs.
+      storm_coyote = AddHorde("storm coyote", null, H =>
+      {
+        H.AddMinion(Entities.storm_coyote, 1.d3());
+      });
+
+      plague_jackal = AddHorde("plague jackal", null, H =>
+      {
+        H.AddMinion(Entities.plague_jackal, 1.d3());
+      });
+
+      albino_rat = AddHorde("albino rat", null, H =>
+      {
+        H.AddMinion(Entities.albino_rat, 1.d4() + 1);
+      });
+      // <<< GENERATED HORDES <<<
     }
 #endif
 
+    // >>> GENERATED HORDES-FIELDS >>>
+    public readonly Horde army_patrol;
+    public readonly Horde army_squad;
+    public readonly Horde army_platoon;
+    public readonly Horde drow_enclave;
+    public readonly Horde pheral_tomb;
+    public readonly Horde angelic_choir;
+    public readonly Horde heavenly_host;
+    public readonly Horde blink_dog;
+    public readonly Horde astral_dog;
+    public readonly Horde acid_foundry;
+    public readonly Horde ash_foundry;
+    public readonly Horde energy_foundry;
+    public readonly Horde explosive_foundry;
+    public readonly Horde sonic_foundry;
+    public readonly Horde air_foundry;
+    public readonly Horde brine_foundry;
+    public readonly Horde golem_workshop;
+    public readonly Horde jelly_cistern;
+    public readonly Horde tar_pudding;
+    public readonly Horde mimic_nest;
+    public readonly Horde storm_coyote;
+    public readonly Horde plague_jackal;
+    public readonly Horde albino_rat;
+    // <<< GENERATED HORDES-FIELDS <<<
     public readonly Horde ant;
     public readonly Horde ape;
     public readonly Horde bat;

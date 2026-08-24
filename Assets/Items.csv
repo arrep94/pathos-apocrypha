@@ -11,6 +11,9 @@ amulet,amulet,amulet of unchanging,concave amulet,,,,,,iron,20,25,100,150,50,sta
 amulet,amulet,amulet of vitality,octagonal amulet,,,,,,iron,20,100,100,150,50,standard,FALSE,
 amulet,amulet,amulet versus poison,pyramidal amulet,,,,,,iron,20,50,100,150,140,standard,FALSE,
 amulet,amulet,amulet versus stone,oval amulet,,,,,,iron,20,50,100,150,60,standard,FALSE,
+amulet,amulet,Celestial Doom,,"An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.",,,,,iron,0,0,200,1300,1,artifact,FALSE,
+amulet,amulet,Celestial Kismet,,"Fate itself bends around the wearer, keeping them exactly where the blow cannot land.",,,,,gold,0,0,200,1500,1,artifact,FALSE,
+amulet,amulet,Celestial Portent,,"A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.",,,,,gemstone,0,0,200,1600,1,artifact,FALSE,
 amulet,amulet,Eye of Aethiopica,,,,,,,iron,0,0,200,2000,1,artifact,FALSE,
 amulet,amulet,Philosophers Stone,,"Gazing into its crimson depths you can see the concentrated life essence of countless victims swirling inside of it. The artifact was completed in the moment of the creators' death, as his soul was claimed by his creation. Now residing among the souls of his former victims, his essence as an alchemist provides the stone with ultimate transmutative powers.",,,,,gemstone,0,0,200,5000,1,artifact,FALSE,
 armour,barding,chain barding,,,medium armour:5,,,,iron,800,10,6000,300,10,standard,FALSE,
@@ -20,6 +23,7 @@ armour,barding,plate barding,,,heavy armour:7,,,,iron,900,10,9000,700,5,standard
 armour,barding,saddle,,,light armour:1,,,,leather,300,10,1500,50,20,standard,FALSE,
 armour,boots,disencumbrance boots,fur boots,,medium armour:1,,,,leather,100,100,200,50,15,standard,FALSE,
 armour,boots,elven boots,mud boots,,light armour:1,,,,leather,75,50,150,8,12,standard,FALSE,
+armour,boots,fancy boots,dress boots,"A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.",light armour:1,,,,leather,80,5,160,25,12,standard,FALSE,
 armour,boots,fumble boots,riding boots,,light armour:1,,,,leather,100,50,200,30,12,standard,FALSE,
 armour,boots,high boots,jackboots,A pair of sturdy leather boots which extend upward until just below the knee.,medium armour:2,,,,leather,100,5,200,12,15,standard,FALSE,
 armour,boots,iron shoes,hard shoes,,heavy armour:2,,,,iron,250,10,500,16,7,standard,FALSE,
@@ -28,6 +32,7 @@ armour,boots,levitation boots,snow boots,,light armour:1,,,,leather,75,50,150,30
 armour,boots,low boots,walking shoes,A pair of sturdy leather boots which extend upwards to just above the ankle.,light armour:1,,,,leather,50,5,100,8,25,standard,FALSE,
 armour,boots,panic boots,mithril boots,,medium armour:1,,,,mithril,200,10,250,30,6,standard,FALSE,
 armour,boots,speed boots,combat boots,,medium armour:1,,,,leather,100,150,200,50,12,standard,FALSE,
+armour,boots,steel boots,,A pair of solid iron-plated boots that guard the shin and instep at the cost of a good deal of weight.,heavy armour:2,,,,iron,275,10,550,18,8,standard,FALSE,
 armour,boots,Talaria,,Winged sandals made of imperishable gold which fly the wearer swiftly and silently.,light armour:1,,,,gold,0,0,200,900,1,artifact,FALSE,
 armour,boots,winged boots,jungle boots,,medium armour:1,,,,leather,100,100,200,60,4,standard,FALSE,
 armour,cloak,alchemy smock,leather apron,,light armour:1,,,,leather,50,50,100,60,10,standard,FALSE,
@@ -36,6 +41,7 @@ armour,cloak,cloak of deflection,tattered cape,,light armour:1,,,,cloth,50,150,1
 armour,cloak,cloak of displacement,piece of cloth,,light armour:1,,,,cloth,50,150,100,140,10,standard,FALSE,
 armour,cloak,cloak of invisibility,opera cloak,,light armour:1,,,,cloth,50,150,100,170,10,standard,FALSE,
 armour,cloak,cloak of magic resistance,ornamental cope,,light armour:1,,,,cloth,50,150,100,160,2,standard,FALSE,
+armour,cloak,crimson cloak,,"A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.",light armour:1,,,,cloth,50,5,100,45,10,standard,FALSE,
 armour,cloak,dwarvish cloak,hooded cloak,,light armour:1,,,,cloth,50,5,100,50,8,standard,FALSE,
 armour,cloak,elven cloak,faded pall,,light armour:1,,,,cloth,50,50,100,60,8,standard,FALSE,
 armour,cloak,Escapist,,,light armour:1,,,,cloth,0,0,100,700,1,artifact,FALSE,
@@ -50,6 +56,8 @@ armour,gloves,gauntlets of fumbling,padded gloves,,light armour:1,,,,leather,50,
 armour,gloves,gauntlets of phasing,black gloves,,light armour:1,,,,leather,50,100,100,50,6,standard,FALSE,
 armour,gloves,gauntlets of power,riding gloves,,heavy armour:1,,,,iron,150,100,300,50,8,standard,FALSE,
 armour,gloves,leather gloves,old gloves,"Sturdy leather garments fitted firm onto the hands, sheathing each finger individually.",light armour:1,,,,leather,50,5,100,8,16,standard,FALSE,
+armour,helmet,adamantine helm,,"A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.",heavy armour:3,,,,adamantine,0,15,700,300,1,exotic,FALSE,
+armour,helmet,adamantine helmet,,,heavy armour:2,,,,adamantine,0,15,500,200,1,exotic,FALSE,
 armour,helmet,Blinderäg,,,heavy armour:2,,,,iron,0,0,800,1250,1,artifact,FALSE,
 armour,helmet,cornuthaum,conical hat,,light armour:0,,,,cloth,20,150,40,400,3,standard,FALSE,
 armour,helmet,dented pot,,,medium armour:1,,,,iron,50,5,100,8,2,standard,FALSE,
@@ -71,8 +79,11 @@ armour,shield,mithril shield,,,medium armour:2,,,,mithril,500,20,500,50,2,standa
 armour,shield,orcish shield,red-eyed shield,,medium armour:1,,,,iron,250,5,500,7,2,standard,FALSE,
 armour,shield,shield of reflection,polished silver shield,,heavy armour:2,,,,silver,250,150,500,50,3,standard,FALSE,
 armour,shield,small shield,,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.",light armour:1,,,,wood,150,5,300,3,6,standard,FALSE,
+armour,shirt,cloth shirt,,"A plain, undyed shirt of woven cloth, worn under armour or on its own.",light armour:0,,,,cloth,25,5,50,2,6,standard,FALSE,
+armour,shirt,doublet,,"A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.",light armour:0,,,,cloth,35,5,70,10,10,standard,FALSE,
 armour,shirt,hawaiian shirt,,"Bold, or just tacky?",light armour:0,,,,cloth,25,5,50,3,8,standard,FALSE,
 armour,shirt,t-shirt,,,light armour:0,,,,cloth,25,5,50,2,2,standard,FALSE,
+armour,shirt,tabard,,"A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.",light armour:0,,,,cloth,30,5,60,4,8,standard,FALSE,
 armour,suit,adamantine plate mail,,,heavy armour:8,,,,adamantine,0,15,4500,1200,1,exotic,FALSE,
 armour,suit,banded mail,,,heavy armour:6,,,,iron,700,10,3500,90,45,standard,FALSE,
 armour,suit,battle robe,red robe,"A long, flowing garment, with long sleeves and a hood.",light armour:1,,,,cloth,200,50,400,250,2,standard,FALSE,
@@ -93,6 +104,7 @@ armour,suit,elven mithril-coat,fine mithril-coat,,light armour:5,,,,mithril,300,
 armour,suit,fleet robe,blue robe,"A long, flowing garment, with long sleeves and a hood.",light armour:1,,,,cloth,200,50,400,250,2,standard,FALSE,
 armour,suit,gold dragon scale mail,,,light armour:6,,,,hide,800,100,600,1200,0,standard,FALSE,
 armour,suit,gold dragon scales,,,light armour:3,,,,hide,800,50,400,700,0,standard,FALSE,
+armour,suit,gold plate mail,,"A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.",heavy armour:4,,,,gold,900,10,4500,480,2,standard,FALSE,
 armour,suit,green dragon scale mail,,,light armour:6,,,,hide,800,100,600,900,0,standard,FALSE,
 armour,suit,green dragon scales,,,light armour:3,,,,hide,800,50,400,500,0,standard,FALSE,
 armour,suit,hermit robe,orange robe,"A long, flowing garment, with long sleeves and a hood.",light armour:1,,,,cloth,200,50,400,50,2,standard,FALSE,
@@ -119,68 +131,229 @@ armour,suit,white dragon scale mail,,,light armour:6,,,,hide,800,100,600,900,0,s
 armour,suit,white dragon scales,,,light armour:3,,,,hide,800,50,400,500,0,standard,FALSE,
 armour,suit,yellow dragon scale mail,,,light armour:6,,,,hide,800,100,600,900,0,standard,FALSE,
 armour,suit,yellow dragon scales,,,light armour:3,,,,hide,800,50,400,500,0,standard,FALSE,
+book,book,book of acid splash,pocked book,,,,,,paper,0,32,500,100,6,standard,FALSE,study:LearnSpell:|/evocation:0
 book,book,book of acid stream,colourful book,,,,,,paper,0,80,500,400,15,standard,FALSE,study:LearnSpell:|/evocation:9
 book,book,book of animate dead,thick book,,,,,,paper,0,48,500,200,15,standard,FALSE,study:LearnSpell:|/necromancy:3
 book,book,book of animate object,spotted book,,,,,,paper,0,96,500,500,15,standard,FALSE,study:LearnSpell:|/enchantment:12
+book,book,book of arc conduit,welded book,,,,,,paper,0,80,500,400,9,standard,FALSE,study:LearnSpell:|/evocation:9
+book,book,book of arcane blight,chalkstone book,,,,,,paper,0,64,500,300,14,standard,FALSE,study:LearnSpell:|/transmutation:6
+book,book,book of arcane whetstone,alabaster book,,,,,,paper,0,64,500,300,14,standard,FALSE,study:LearnSpell:|/transmutation:6
+book,book,book of arcing bolt,voltaic book,,,,,,paper,0,64,500,300,9,standard,FALSE,study:LearnSpell:|/evocation:6
+book,book,book of artificer's exchange,mica book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/transmutation:9
+book,book,book of atonement,ivory book,,,,,,paper,0,48,500,200,9,standard,FALSE,study:LearnSpell:|/clerical:3
+book,book,book of augury,sepia book,,,,,,paper,0,32,500,100,8,standard,FALSE,study:LearnSpell:|/divination:0
+book,book,book of bane,brittle book,,,,,,paper,0,48,500,200,8,standard,FALSE,study:LearnSpell:|/clerical:3
+book,book,book of banshee wail,keening book,,,,,,paper,0,64,500,300,14,standard,FALSE,study:LearnSpell:|/necromancy:6
+book,book,book of barring ward,marlstone book,,,,,,paper,0,48,500,200,9,standard,FALSE,study:LearnSpell:|/transmutation:3
+book,book,book of battle fury,beaded book,,,,,,paper,0,64,500,300,16,standard,FALSE,study:LearnSpell:|/enchantment:6
 book,book,book of bind undead,black book,,,,,,paper,0,96,500,500,15,standard,FALSE,study:LearnSpell:|/necromancy:12
+book,book,book of binding sphere,crystalline book,,,,,,paper,0,96,500,500,12,standard,FALSE,study:LearnSpell:|/conjuration:12
+book,book,book of black ice patch,hoarfrost book,,,,,,paper,0,64,500,300,9,standard,FALSE,study:LearnSpell:|/evocation:6
+book,book,book of black plague,plague ridden book,,,,,,paper,0,112,500,600,9,standard,FALSE,study:LearnSpell:|/necromancy:15
+book,book,book of blade blessing,gilded book,,,,,,paper,0,64,500,300,14,standard,FALSE,study:LearnSpell:|/clerical:6
 book,book,book of blank paper,plain book,,,,,,paper,400,4,500,50,20,standard,FALSE,
+book,book,book of bless,bone white book,,,,,,paper,0,32,500,100,6,standard,FALSE,study:LearnSpell:|/clerical:0
 book,book,book of blinking,fuzzy book,,,,,,paper,0,32,500,100,15,standard,FALSE,study:LearnSpell:|/abjuration:0
+book,book,book of blurred form,quicksilver book,,,,,,paper,0,64,500,300,12,standard,FALSE,study:LearnSpell:|/abjuration:6
+book,book,book of call of the pack,hide bound book,,,,,,paper,0,64,500,300,20,standard,FALSE,study:LearnSpell:|/conjuration:6
+book,book,book of calm,banded book,,,,,,paper,0,32,500,100,10,standard,FALSE,study:LearnSpell:|/enchantment:0
+book,book,book of caltrop swarm,rusted book,,,,,,paper,0,32,500,100,26,standard,FALSE,study:LearnSpell:|/conjuration:0
 book,book,book of cancellation,shining book,,,,,,paper,0,128,500,700,15,standard,FALSE,study:LearnSpell:|/transmutation:18
+book,book,book of causeway,quartzite book,,,,,,paper,0,48,500,200,10,standard,FALSE,study:LearnSpell:|/transmutation:3
+book,book,book of chain lightning,arcing book,,,,,,paper,0,112,500,600,9,standard,FALSE,study:LearnSpell:|/evocation:15
+book,book,book of changeless ward,crumbling book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/abjuration:9
 book,book,book of charm,magenta book,,,,,,paper,0,64,500,300,20,standard,FALSE,study:LearnSpell:|/enchantment:6
+book,book,book of chill grasp,frostbitten book,,,,,,paper,0,32,500,100,6,standard,FALSE,study:LearnSpell:|/necromancy:0
+book,book,book of chromatic orb,prismatic book,,,,,,paper,0,64,500,300,13,standard,FALSE,study:LearnSpell:|/evocation:6
 book,book,book of clairvoyance,dark blue book,,,,,,paper,0,64,500,300,15,standard,FALSE,study:LearnSpell:|/divination:6
+book,book,book of claybind touch,millstone book,,,,,,paper,0,64,500,300,12,standard,FALSE,study:LearnSpell:|/transmutation:6
+book,book,book of clear sight,crystal book,,,,,,paper,0,32,500,100,6,standard,FALSE,study:LearnSpell:|/divination:0
+book,book,book of clouded mind,silk book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/enchantment:9
+book,book,book of command,brass clasped book,,,,,,paper,0,48,500,200,9,standard,FALSE,study:LearnSpell:|/clerical:3
+book,book,book of commune,bronzed book,,,,,,paper,0,48,500,200,10,standard,FALSE,study:LearnSpell:|/clerical:3
+book,book,book of concussive blast,thunderous book,,,,,,paper,0,48,500,200,9,standard,FALSE,study:LearnSpell:|/evocation:3
 book,book,book of cone of cold,dog eared book,,,,,,paper,0,96,500,500,15,standard,FALSE,study:LearnSpell:|/evocation:12
 book,book,book of confusion,orange book,,,,,,paper,0,48,500,200,25,standard,FALSE,study:LearnSpell:|/enchantment:3
+book,book,book of conjure barricade,dolomite book,,,,,,paper,0,64,500,300,13,standard,FALSE,study:LearnSpell:|/transmutation:6
+book,book,book of conjure boulder,charred book,,,,,,paper,0,64,500,300,20,standard,FALSE,study:LearnSpell:|/conjuration:6
+book,book,book of conjure guardian,basalt book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/conjuration:9
+book,book,book of conjure homunculus,clay bound book,,,,,,paper,0,48,500,200,24,standard,FALSE,study:LearnSpell:|/conjuration:3
+book,book,book of conjure mount,saddle book,,,,,,paper,0,64,500,300,20,standard,FALSE,study:LearnSpell:|/conjuration:6
+book,book,book of conjured pit,loam book,,,,,,paper,0,48,500,200,24,standard,FALSE,study:LearnSpell:|/conjuration:3
+book,book,book of consecration,consecrated book,,,,,,paper,0,64,500,300,13,standard,FALSE,study:LearnSpell:|/clerical:6
+book,book,book of contagion,bilious book,,,,,,paper,0,64,500,300,13,standard,FALSE,study:LearnSpell:|/necromancy:6
+book,book,book of corpse explosion,charnel book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/necromancy:9
+book,book,book of corroding ray,pitted book,,,,,,paper,0,80,500,400,10,standard,FALSE,study:LearnSpell:|/evocation:9
 book,book,book of create familiar,glittering book,,,,,,paper,0,112,500,600,10,standard,FALSE,study:LearnSpell:|/conjuration:15
+book,book,book of creeping palsy,wormwood book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/enchantment:9
+book,book,book of crimson ichor lance,acrid book,,,,,,paper,0,80,500,400,10,standard,FALSE,study:LearnSpell:|/evocation:9
 book,book,book of crushing sphere,humongous book,,,,,,paper,0,48,500,200,20,standard,FALSE,study:LearnSpell:|/conjuration:3
 book,book,book of curing,indigo book,,,,,,paper,0,48,500,200,20,standard,FALSE,study:LearnSpell:|/clerical:3
+book,book,book of danger sense,brass bound book,,,,,,paper,0,48,500,200,9,standard,FALSE,study:LearnSpell:|/divination:3
 book,book,book of darkness,faded book,,,,,,paper,0,32,500,100,30,standard,FALSE,study:LearnSpell:|/necromancy:0
+book,book,book of daze,murmuring book,,,,,,paper,0,32,500,100,9,standard,FALSE,study:LearnSpell:|/enchantment:0
+book,book,book of death ward,bone bound book,,,,,,paper,0,112,500,600,9,standard,FALSE,study:LearnSpell:|/abjuration:15
+book,book,book of death's bargain,grave bound book,,,,,,paper,0,112,500,600,9,standard,FALSE,study:LearnSpell:|/necromancy:15
+book,book,book of deathwatch,sepulchral book,,,,,,paper,0,32,500,100,8,standard,FALSE,study:LearnSpell:|/necromancy:0
 book,book,book of deflection,wide book,,,,,,paper,0,32,500,100,15,standard,FALSE,study:LearnSpell:|/abjuration:0
 book,book,book of detect food,cyan book,,,,,,paper,0,48,500,200,15,standard,FALSE,study:LearnSpell:|/divination:3
+book,book,book of detect metal,antique book,,,,,,paper,0,64,500,300,14,standard,FALSE,study:LearnSpell:|/divination:6
 book,book,book of detect monsters,leather book,,,,,,paper,0,32,500,100,20,standard,FALSE,study:LearnSpell:|/divination:0
 book,book,book of detect treasure,grey book,,,,,,paper,0,80,500,400,25,standard,FALSE,study:LearnSpell:|/divination:9
+book,book,book of detect undead,obsidian book,,,,,,paper,0,48,500,200,11,standard,FALSE,study:LearnSpell:|/divination:3
 book,book,book of detect unseen,violet book,,,,,,paper,0,64,500,300,15,standard,FALSE,study:LearnSpell:|/divination:6
 book,book,book of dig,parchment book,,,,,,paper,0,96,500,500,20,standard,FALSE,study:LearnSpell:|/transmutation:12
+book,book,book of disarming ward,storm wracked book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/abjuration:9
+book,book,book of discord,cracked book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/enchantment:9
 book,book,book of disintegrate,yellow book,,,,,,paper,0,128,500,700,5,standard,FALSE,study:LearnSpell:|/transmutation:18
+book,book,book of dispel magic,damascened book,,,,,,paper,0,112,500,600,9,standard,FALSE,study:LearnSpell:|/abjuration:15
+book,book,book of displacement,shimmering book,,,,,,paper,0,64,500,300,14,standard,FALSE,study:LearnSpell:|/abjuration:6
+book,book,book of divine favor,radiant book,,,,,,paper,0,112,500,600,9,standard,FALSE,study:LearnSpell:|/clerical:15
+book,book,book of divine intervention,celestial book,,,,,,paper,0,128,500,700,6,standard,FALSE,study:LearnSpell:|/clerical:18
+book,book,book of dominate mind,bloodstained book,,,,,,paper,0,112,500,600,9,standard,FALSE,study:LearnSpell:|/enchantment:15
 book,book,book of drain life,velvet book,,,,,,paper,0,64,500,300,10,standard,FALSE,study:LearnSpell:|/necromancy:6
+book,book,book of earthen colossus,boulder bound book,,,,,,paper,0,112,500,600,9,standard,FALSE,study:LearnSpell:|/conjuration:15
+book,book,book of elemental servant,clasped book,,,,,,paper,0,96,500,500,12,standard,FALSE,study:LearnSpell:|/conjuration:12
+book,book,book of elemental warding,cut glass book,,,,,,paper,0,96,500,500,12,standard,FALSE,study:LearnSpell:|/abjuration:12
+book,book,book of ember lance,cindered book,,,,,,paper,0,64,500,300,9,standard,FALSE,study:LearnSpell:|/evocation:6
+book,book,book of enlarge,shale book,,,,,,paper,0,64,500,300,13,standard,FALSE,study:LearnSpell:|/transmutation:6
+book,book,book of entangling vines,mossy book,,,,,,paper,0,48,500,200,24,standard,FALSE,study:LearnSpell:|/conjuration:3
+book,book,book of entropic siphon,etched book,,,,,,paper,0,96,500,500,11,standard,FALSE,study:LearnSpell:|/evocation:12
 book,book,book of extra healing,plaid book,,,,,,paper,0,64,500,300,15,standard,FALSE,study:LearnSpell:|/clerical:6
+book,book,book of false life,waxen book,,,,,,paper,0,32,500,100,7,standard,FALSE,study:LearnSpell:|/necromancy:0
 book,book,book of fear,light blue book,,,,,,paper,0,64,500,300,20,standard,FALSE,study:LearnSpell:|/enchantment:6
+book,book,book of find doors,brass book,,,,,,paper,0,64,500,300,14,standard,FALSE,study:LearnSpell:|/divination:6
+book,book,book of find traps,russet book,,,,,,paper,0,48,500,200,11,standard,FALSE,study:LearnSpell:|/divination:3
 book,book,book of finger of death,stained book,,,,,,paper,0,128,500,700,5,standard,FALSE,study:LearnSpell:|/necromancy:18
 book,book,book of fireball,ragged book,,,,,,paper,0,80,500,400,15,standard,FALSE,study:LearnSpell:|/evocation:9
 book,book,book of flaming sphere,canvas book,,,,,,paper,0,48,500,200,20,standard,FALSE,study:LearnSpell:|/conjuration:3
 book,book,book of force bolt,red book,,,,,,paper,0,32,500,100,25,standard,FALSE,study:LearnSpell:|/evocation:0
+book,book,book of foreknowledge,opaline book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/divination:9
+book,book,book of freedom,unbound book,,,,,,paper,0,48,500,200,9,standard,FALSE,study:LearnSpell:|/abjuration:3
+book,book,book of freedom of movement,linen book,,,,,,paper,0,64,500,300,11,standard,FALSE,study:LearnSpell:|/clerical:6
 book,book,book of freezing sphere,hardcover book,,,,,,paper,0,48,500,200,20,standard,FALSE,study:LearnSpell:|/conjuration:3
+book,book,book of frost breath,rimed book,,,,,,paper,0,48,500,200,8,standard,FALSE,study:LearnSpell:|/evocation:3
 book,book,book of full healing,long book,,,,,,paper,0,96,500,500,5,standard,FALSE,study:LearnSpell:|/clerical:12
+book,book,book of gate,starless book,,,,,,paper,0,128,500,700,6,standard,FALSE,study:LearnSpell:|/conjuration:18
+book,book,book of gilding touch,cobblestone book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/transmutation:9
+book,book,book of glacial spike,frosted book,,,,,,paper,0,80,500,400,9,standard,FALSE,study:LearnSpell:|/evocation:9
+book,book,book of grasping mind,jewelled book,,,,,,paper,0,64,500,300,17,standard,FALSE,study:LearnSpell:|/enchantment:6
+book,book,book of grave rot,mildewed book,,,,,,paper,0,48,500,200,10,standard,FALSE,study:LearnSpell:|/necromancy:3
+book,book,book of gravity well,feldspar book,,,,,,paper,0,96,500,500,12,standard,FALSE,study:LearnSpell:|/transmutation:12
+book,book,book of guided path,compass bound book,,,,,,paper,0,80,500,400,15,standard,FALSE,study:LearnSpell:|/abjuration:9
+book,book,book of harvest of souls,soul bound book,,,,,,paper,0,128,500,700,6,standard,FALSE,study:LearnSpell:|/necromancy:18
 book,book,book of haste,purple book,,,,,,paper,0,64,500,300,20,standard,FALSE,study:LearnSpell:|/abjuration:6
+book,book,book of hazard sense,corded book,,,,,,paper,0,32,500,100,6,standard,FALSE,study:LearnSpell:|/abjuration:0
 book,book,book of healing,white book,,,,,,paper,0,32,500,100,30,standard,FALSE,study:LearnSpell:|/clerical:0
+book,book,book of hex,sable book,,,,,,paper,0,32,500,100,8,standard,FALSE,study:LearnSpell:|/enchantment:0
+book,book,book of hexbind,blackened book,,,,,,paper,0,48,500,200,10,standard,FALSE,study:LearnSpell:|/necromancy:3
+book,book,book of hideous laughter,moth eaten book,,,,,,paper,0,48,500,200,12,standard,FALSE,study:LearnSpell:|/enchantment:3
+book,book,book of hold monster,iron bound book,,,,,,paper,0,96,500,500,12,standard,FALSE,study:LearnSpell:|/enchantment:12
+book,book,book of hold person,black bound book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/enchantment:9
+book,book,book of holy word,buckled book,,,,,,paper,0,112,500,600,9,standard,FALSE,study:LearnSpell:|/clerical:15
 book,book,book of ice storm,thin book,,,,,,paper,0,80,500,400,15,standard,FALSE,study:LearnSpell:|/evocation:9
 book,book,book of identify,bronze book,,,,,,paper,0,96,500,500,30,standard,FALSE,study:LearnSpell:|/divination:12
+book,book,book of inner calm,dove grey book,,,,,,paper,0,64,500,300,12,standard,FALSE,study:LearnSpell:|/abjuration:6
 book,book,book of invisibility,dark brown book,,,,,,paper,0,80,500,400,20,standard,FALSE,study:LearnSpell:|/abjuration:9
+book,book,book of iron will,amber book,,,,,,paper,0,48,500,200,15,standard,FALSE,study:LearnSpell:|/enchantment:3
+book,book,book of ironbind door,schist book,,,,,,paper,0,48,500,200,9,standard,FALSE,study:LearnSpell:|/transmutation:3
+book,book,book of juggernaut ray,shrapnel book,,,,,,paper,0,112,500,600,9,standard,FALSE,study:LearnSpell:|/evocation:15
 book,book,book of jumping,torn book,,,,,,paper,0,48,500,200,15,standard,FALSE,study:LearnSpell:|/abjuration:3
+book,book,book of keen search,hazel book,,,,,,paper,0,48,500,200,11,standard,FALSE,study:LearnSpell:|/divination:3
 book,book,book of knock,pink book,,,,,,paper,0,32,500,100,25,standard,FALSE,study:LearnSpell:|/transmutation:0
+book,book,book of legion of bone,ossuary book,,,,,,paper,0,96,500,500,12,standard,FALSE,study:LearnSpell:|/necromancy:12
 book,book,book of levitation,tan book,,,,,,paper,0,80,500,400,15,standard,FALSE,study:LearnSpell:|/abjuration:9
 book,book,book of light,cloth book,,,,,,paper,0,32,500,100,30,standard,FALSE,study:LearnSpell:|/abjuration:0
 book,book,book of lightning bolt,rainbow book,,,,,,paper,0,80,500,400,10,standard,FALSE,study:LearnSpell:|/evocation:9
 book,book,book of living wall,deep book,,,,,,paper,0,112,500,600,10,standard,FALSE,study:LearnSpell:|/necromancy:15
 book,book,book of magic mapping,dusty book,,,,,,paper,0,96,500,500,15,standard,FALSE,study:LearnSpell:|/divination:12
 book,book,book of magic missile,vellum book,,,,,,paper,0,48,500,200,40,standard,FALSE,study:LearnSpell:|/evocation:3
+book,book,book of meteoric cataclysm,cratered book,,,,,,paper,0,128,500,700,6,standard,FALSE,study:LearnSpell:|/evocation:18
+book,book,book of mind ken,cobalt book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/divination:9
+book,book,book of mind link,jade book,,,,,,paper,0,64,500,300,19,standard,FALSE,study:LearnSpell:|/enchantment:6
+book,book,book of mind spike,birch book,,,,,,paper,0,64,500,300,18,standard,FALSE,study:LearnSpell:|/enchantment:6
+book,book,book of mindrend,whispering book,,,,,,paper,0,128,500,700,6,standard,FALSE,study:LearnSpell:|/enchantment:18
+book,book,book of mirror ward,argent book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/abjuration:9
+book,book,book of neutralize poison,olive branch book,,,,,,paper,0,96,500,500,12,standard,FALSE,study:LearnSpell:|/abjuration:12
+book,book,book of oracle's eye,sapphire book,,,,,,paper,0,96,500,500,12,standard,FALSE,study:LearnSpell:|/divination:12
+book,book,book of owl eyes,charcoal book,,,,,,paper,0,32,500,100,8,standard,FALSE,study:LearnSpell:|/divination:0
+book,book,book of petrifying touch,graphite book,,,,,,paper,0,112,500,600,9,standard,FALSE,study:LearnSpell:|/transmutation:15
 book,book,book of phasing,shadow book,,,,,,paper,0,112,500,600,10,standard,FALSE,study:LearnSpell:|/enchantment:15
+book,book,book of planar anchor,starlit book,,,,,,paper,0,64,500,300,13,standard,FALSE,study:LearnSpell:|/divination:6
+book,book,book of planar swap,warped book,,,,,,paper,0,64,500,300,20,standard,FALSE,study:LearnSpell:|/conjuration:6
 book,book,book of poison blast,tattered book,,,,,,paper,0,80,500,400,15,standard,FALSE,study:LearnSpell:|/evocation:9
 book,book,book of polymorph,silver book,,,,,,paper,0,112,500,600,15,standard,FALSE,study:LearnSpell:|/transmutation:15
+book,book,book of porter's reach,gneiss book,,,,,,paper,0,32,500,100,5,standard,FALSE,study:LearnSpell:|/transmutation:0
+book,book,book of prayer,psalm book,,,,,,paper,0,80,500,400,13,standard,FALSE,study:LearnSpell:|/clerical:9
+book,book,book of premonition,topaz book,,,,,,paper,0,112,500,600,9,standard,FALSE,study:LearnSpell:|/divination:15
+book,book,book of prismatic spray,opal book,,,,,,paper,0,112,500,600,9,standard,FALSE,study:LearnSpell:|/evocation:15
+book,book,book of psychic shove,battered book,,,,,,paper,0,48,500,200,13,standard,FALSE,study:LearnSpell:|/enchantment:3
 book,book,book of raise dead,papyrus book,,,,,,paper,0,128,500,700,10,standard,FALSE,study:LearnSpell:|/necromancy:18
+book,book,book of rally cry,crimson book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/enchantment:9
+book,book,book of ray of enfeeblement,wilted book,,,,,,paper,0,48,500,200,10,standard,FALSE,study:LearnSpell:|/necromancy:3
+book,book,book of reap,dusk blue book,,,,,,paper,0,96,500,500,12,standard,FALSE,study:LearnSpell:|/necromancy:12
 book,book,book of regenerate,dull book,,,,,,paper,0,80,500,400,10,standard,FALSE,study:LearnSpell:|/clerical:9
 book,book,book of remove curse,wrinkled book,,,,,,paper,0,96,500,500,25,standard,FALSE,study:LearnSpell:|/clerical:12
+book,book,book of repelling ward,gale book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/conjuration:9
+book,book,book of repulsion,verdigris book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/abjuration:9
 book,book,book of restoration,light brown book,,,,,,paper,0,80,500,400,15,standard,FALSE,study:LearnSpell:|/clerical:9
+book,book,book of revelation,ancient book,,,,,,paper,0,64,500,300,14,standard,FALSE,study:LearnSpell:|/divination:6
+book,book,book of sanctuary,marble book,,,,,,paper,0,48,500,200,9,standard,FALSE,study:LearnSpell:|/clerical:3
+book,book,book of scalding cloud,scalded book,,,,,,paper,0,64,500,300,9,standard,FALSE,study:LearnSpell:|/evocation:6
+book,book,book of searing light,sunlit book,,,,,,paper,0,80,500,400,14,standard,FALSE,study:LearnSpell:|/clerical:9
+book,book,book of sense curse,onyx book,,,,,,paper,0,64,500,300,14,standard,FALSE,study:LearnSpell:|/divination:6
+book,book,book of sense the restless,bone book,,,,,,paper,0,32,500,100,6,standard,FALSE,study:LearnSpell:|/clerical:0
+book,book,book of sentinel ward,coral book,,,,,,paper,0,32,500,100,6,standard,FALSE,study:LearnSpell:|/abjuration:0
+book,book,book of shimmer shield,silvered book,,,,,,paper,0,48,500,200,9,standard,FALSE,study:LearnSpell:|/abjuration:3
 book,book,book of shocking sphere,stylish book,,,,,,paper,0,48,500,200,20,standard,FALSE,study:LearnSpell:|/conjuration:3
+book,book,book of shrink,pumice book,,,,,,paper,0,64,500,300,13,standard,FALSE,study:LearnSpell:|/transmutation:6
+book,book,book of silence,muted book,,,,,,paper,0,64,500,300,11,standard,FALSE,study:LearnSpell:|/clerical:6
+book,book,book of simulacrum,glass bound book,,,,,,paper,0,112,500,600,9,standard,FALSE,study:LearnSpell:|/conjuration:15
 book,book,book of sleep,mottled book,,,,,,paper,0,32,500,100,35,standard,FALSE,study:LearnSpell:|/enchantment:0
+book,book,book of slick detonation,sooty book,,,,,,paper,0,80,500,400,9,standard,FALSE,study:LearnSpell:|/evocation:9
+book,book,book of slipping free,eelskin book,,,,,,paper,0,48,500,200,8,standard,FALSE,study:LearnSpell:|/abjuration:3
 book,book,book of slow,light green book,,,,,,paper,0,48,500,200,25,standard,FALSE,study:LearnSpell:|/enchantment:3
 book,book,book of soaking sphere,tiny book,,,,,,paper,0,48,500,200,20,standard,FALSE,study:LearnSpell:|/conjuration:3
+book,book,book of song of discord,chained book,,,,,,paper,0,96,500,500,12,standard,FALSE,study:LearnSpell:|/enchantment:12
+book,book,book of spark bolt,static book,,,,,,paper,0,32,500,100,6,standard,FALSE,study:LearnSpell:|/evocation:0
+book,book,book of spectral shroud,gossamer book,,,,,,paper,0,48,500,200,9,standard,FALSE,study:LearnSpell:|/necromancy:3
+book,book,book of spirit leech,sallow book,,,,,,paper,0,64,500,300,13,standard,FALSE,study:LearnSpell:|/necromancy:6
+book,book,book of spirit shield,silken book,,,,,,paper,0,96,500,500,12,standard,FALSE,study:LearnSpell:|/clerical:12
+book,book,book of starfall,incandescent book,,,,,,paper,0,112,500,600,9,standard,FALSE,study:LearnSpell:|/evocation:15
+book,book,book of steadfast ward,leaden book,,,,,,paper,0,64,500,300,12,standard,FALSE,study:LearnSpell:|/abjuration:6
+book,book,book of stone to flesh,granite book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/transmutation:9
+book,book,book of stoneskin,slate book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/transmutation:9
 book,book,book of summoning,turquoise book,,,,,,paper,0,48,500,200,25,standard,FALSE,study:LearnSpell:|/conjuration:3
+book,book,book of sunburst smite,solar book,,,,,,paper,0,64,500,300,9,standard,FALSE,study:LearnSpell:|/evocation:6
+book,book,book of sunder gear,flint book,,,,,,paper,0,64,500,300,13,standard,FALSE,study:LearnSpell:|/transmutation:6
+book,book,book of swoon,hollow book,,,,,,paper,0,48,500,200,11,standard,FALSE,study:LearnSpell:|/enchantment:3
 book,book,book of telekinesis,backwards book,,,,,,paper,0,64,500,300,15,standard,FALSE,study:LearnSpell:|/abjuration:6
+book,book,book of telekinetic shove,gravel book,,,,,,paper,0,48,500,200,9,standard,FALSE,study:LearnSpell:|/transmutation:3
 book,book,book of teleport away,gold book,,,,,,paper,0,112,500,600,15,standard,FALSE,study:LearnSpell:|/abjuration:15
+book,book,book of thunderclap,riveted book,,,,,,paper,0,48,500,200,7,standard,FALSE,study:LearnSpell:|/evocation:3
+book,book,book of timed combustion,cinder book,,,,,,paper,0,96,500,500,11,standard,FALSE,study:LearnSpell:|/evocation:12
+book,book,book of tongue tied,veiled book,,,,,,paper,0,48,500,200,14,standard,FALSE,study:LearnSpell:|/enchantment:3
 book,book,book of toxic spray,ochre book,,,,,,paper,0,64,500,300,15,standard,FALSE,study:LearnSpell:|/transmutation:6
+book,book,book of transmuter's mastery,porphyry book,,,,,,paper,0,128,500,700,6,standard,FALSE,study:LearnSpell:|/transmutation:18
+book,book,book of true appraisal,arcane book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/divination:9
 book,book,book of turn undead,copper book,,,,,,paper,0,64,500,300,15,standard,FALSE,study:LearnSpell:|/clerical:6
+book,book,book of unbinding,notched book,,,,,,paper,0,64,500,300,13,standard,FALSE,study:LearnSpell:|/abjuration:6
+book,book,book of undying ward,phoenix down book,,,,,,paper,0,128,500,700,6,standard,FALSE,study:LearnSpell:|/abjuration:18
+book,book,book of unseen hand,gloved book,,,,,,paper,0,32,500,100,26,standard,FALSE,study:LearnSpell:|/conjuration:0
+book,book,book of vampiric feast,sanguine book,,,,,,paper,0,96,500,500,12,standard,FALSE,study:LearnSpell:|/necromancy:12
+book,book,book of veil of shadows,umber book,,,,,,paper,0,48,500,200,8,standard,FALSE,study:LearnSpell:|/abjuration:3
+book,book,book of wall breach,limestone book,,,,,,paper,0,48,500,200,9,standard,FALSE,study:LearnSpell:|/transmutation:3
+book,book,book of wall of thorns,bramble book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/conjuration:9
 book,book,book of walling,big book,,,,,,paper,0,112,500,600,10,standard,FALSE,study:LearnSpell:|/transmutation:15
+book,book,book of ward of return,pale book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/clerical:9
+book,book,book of warning ward,ashen book,,,,,,paper,0,32,500,100,8,standard,FALSE,study:LearnSpell:|/divination:0
+book,book,book of web snare,burnished book,,,,,,paper,0,48,500,200,24,standard,FALSE,study:LearnSpell:|/conjuration:3
+book,book,book of whispers of madness,dog eared book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/necromancy:9
+book,book,book of wildfire brand,ember book,,,,,,paper,0,80,500,400,9,standard,FALSE,study:LearnSpell:|/evocation:9
+book,book,book of wither,withered book,,,,,,paper,0,80,500,400,16,standard,FALSE,study:LearnSpell:|/necromancy:9
+book,book,book of withering ray,sundered book,,,,,,paper,0,96,500,500,11,standard,FALSE,study:LearnSpell:|/evocation:12
 book,book,book of wizard lock,dark green book,,,,,,paper,0,48,500,200,30,standard,FALSE,study:LearnSpell:|/transmutation:3
+book,book,book of world vision,runed book,,,,,,paper,0,128,500,700,6,standard,FALSE,study:LearnSpell:|/divination:18
 food,corpse,animal corpse,,,,,,,animal,0,1,0,1,0,standard,FALSE,
 food,corpse,vegetable corpse,,,,,,,vegetable,0,1,0,1,0,standard,FALSE,
 food,egg,egg,,,,,,,animal,0,10,0,9,80,standard,FALSE,
@@ -194,6 +367,7 @@ food,food,clove of garlic,,One segment of a particularly pungent and bulbous her
 food,food,cram ration,,,,,,,vegetable,600,5,150,35,20,standard,FALSE,
 food,food,cream pie,,"A sweet custard-filled pie with a thin crust, topped with whipped cream.",,,,,vegetable,200,5,100,10,10,standard,FALSE,eat:Toss:blindness|/:0
 food,food,eucalyptus leaf,,,,,,,vegetable,10,10,10,6,7,standard,FALSE,
+food,food,eyeball,,"A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.",,,,,animal,50,10,20,30,6,standard,FALSE,
 food,food,fish,,"A slimy, scaly sea creature, in its entirety. Good for a meal.",,,,,animal,400,5,200,15,5,standard,FALSE,
 food,food,food ration,,"A hearty, multi-portioned and nutritious vegetarian meal.",,,,,vegetable,800,5,200,45,380,standard,FALSE,
 food,food,fortune cookie,,An inconspicuous snack that tells deep secrets.,,,,,vegetable,80,10,10,7,55,standard,FALSE,
@@ -208,6 +382,7 @@ food,food,meat ring,,,,,,,animal,200,5,50,1,4,standard,FALSE,
 food,food,meat stick,,A stick of cured meat.,,,,,animal,300,5,50,5,4,standard,FALSE,
 food,food,meatball,,,,,,,animal,150,5,25,5,4,standard,FALSE,
 food,food,melon,,,,,,,fruit,200,5,50,10,9,standard,FALSE,
+food,food,mooshroom,,"A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.",,,,,animal,600,25,400,50,5,standard,FALSE,
 food,food,mushroom,,,,,,,vegetable,180,10,10,9,6,standard,FALSE,
 food,food,orange,,"A sweet citrus fruit, coloured eponymously.",,,,,fruit,160,5,20,9,10,standard,FALSE,
 food,food,pancake,,"A flat, round cake. Cooked in a pan, as you might presume.",,,,,vegetable,200,5,20,15,14,standard,FALSE,
@@ -253,8 +428,14 @@ gem,gem,white glass bauble,white gem,,,sling: 1d5,,,glass,10,10,10,1,76,standard
 gem,gem,yellow glass bauble,yellow gem,,,sling: 1d5,,,glass,10,10,10,1,76,standard,TRUE,
 gem,gem,yellowish brown glass bauble,yellowish brown gem,,,sling: 1d5,,,glass,10,10,10,1,76,standard,TRUE,
 gem,gem,zircon,blue gem,,,sling: 1d6,,,gemstone,3000,35,10,1200,8,standard,TRUE,
+gem,rock,darkstone,black stone,A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.,,sling: 1d4,,,stone,100,2,100,80,6,standard,TRUE,
 gem,rock,flint,grey stone,"A hard rock, smooth and therefore aerodynamic.",,sling: 1d4,,,stone,200,2,100,1,10,standard,TRUE,
+gem,rock,healthstone,red stone,A stone infused with restorative magic. It crumbles a little more each time it is used.,,sling: 1d4,,,stone,100,2,100,150,8,standard,TRUE,rub:Healing:|/:0
+gem,rock,loadstone,grey stone,"An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.",,sling: 1d4,,,stone,100,2,3000,10,3,standard,TRUE,
+gem,rock,luckstone,grey stone,"A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.",,sling: 1d4,,,stone,100,2,100,60,4,standard,TRUE,
 gem,rock,rock,,A sturdy and solid mineral.,,sling: 1d3,,,stone,100,1,100,1,100,standard,TRUE,
+gem,rock,touchstone,black stone,A flat black stone used since antiquity to tell real gemstones from paste and glass.,,sling: 1d4,,,stone,100,2,100,25,5,standard,TRUE,
+gem,rock,whetstone,grey stone,A fine-grained stone for putting an edge back on a tired blade.,,sling: 1d4,,,stone,150,2,150,20,8,standard,TRUE,
 potion,potion,potion of acid,white potion,,,,,,glass,0,5,100,250,20,standard,FALSE,quaff:Toss:|/:0
 potion,potion,potion of affliction,icy potion,,,,,,glass,0,100,100,200,4,standard,FALSE,quaff:Toss:|/:0
 potion,potion,potion of amnesia,sparkling potion,,,,,,glass,0,10,100,100,16,standard,FALSE,quaff:Toss:|/:0
@@ -286,10 +467,13 @@ potion,potion,potion of see invisible,magenta potion,,,,,,glass,0,10,100,50,38,s
 potion,potion,potion of sickness,fizzy potion,,,,,,glass,0,10,100,50,40,standard,FALSE,quaff:Toss:sickness|/:0
 potion,potion,potion of sleeping,effervescent potion,,,,,,glass,0,20,100,100,40,standard,FALSE,quaff:Toss:sleeping|/:0
 potion,potion,potion of speed,dark green potion,,,,,,glass,0,50,100,200,38,standard,FALSE,quaff:Buff:quickness|/:0
+potion,potion,potion of sustenance,glossy potion,,,,,,glass,0,50,100,150,6,standard,FALSE,quaff:Buff:sustain ability|/:0
+potion,potion,potion of warning,khaki potion,,,,,,glass,0,50,100,150,6,standard,FALSE,quaff:Buff:warning|/:0
 potion,potion,potion of water,clear potion,,,,,,glass,0,5,100,100,55,standard,FALSE,
 ring,earwear,costume earrings,gold earrings,,,,,,gold,20,10,10,120,10,standard,FALSE,
 ring,earwear,mute earrings,bone earrings,,,,,,bone,20,50,10,120,10,standard,FALSE,
 ring,earwear,proof earrings,pearl earrings,,,,,,gemstone,20,50,10,120,10,standard,FALSE,
+ring,ring,Nonagon Infinity,,A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.,,,,,platinum,0,0,30,1500,1,artifact,FALSE,
 ring,ring,ring of accuracy,clay ring,,,,,,clay,15,40,30,150,100,standard,FALSE,
 ring,ring,ring of adornment,wooden ring,,,,,,wood,15,30,30,100,100,standard,FALSE,
 ring,ring,ring of aggravation,sapphire ring,,,,,,gemstone,15,20,30,150,100,standard,FALSE,
@@ -298,6 +482,7 @@ ring,ring,ring of cold resistance,brass ring,,,,,,copper,15,50,30,150,100,standa
 ring,ring,ring of conflict,ruby ring,,,,,,gemstone,15,100,30,300,100,standard,FALSE,
 ring,ring,ring of constitution,opal ring,,,,,,stone,15,30,30,150,100,standard,FALSE,
 ring,ring,ring of dexterity,obsidian ring,,,,,,gemstone,15,30,30,150,100,standard,FALSE,
+ring,ring,ring of energy,eternity ring,"A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.",,,,,gold,15,100,30,200,100,standard,FALSE,
 ring,ring,ring of fire resistance,iron ring,,,,,,iron,15,50,30,200,100,standard,FALSE,
 ring,ring,ring of free action,twisted ring,,,,,,iron,15,100,30,200,100,standard,FALSE,
 ring,ring,ring of hunger,topaz ring,,,,,,gemstone,15,20,30,100,100,standard,FALSE,
@@ -305,6 +490,7 @@ ring,ring,ring of impact,coral ring,This ring augments the damage caused by your
 ring,ring,ring of intelligence,plain ring,,,,,,stone,15,30,30,150,100,standard,FALSE,
 ring,ring,ring of invisibility,wire ring,,,,,,iron,15,100,30,150,100,standard,FALSE,
 ring,ring,ring of levitation,agate ring,,,,,,gemstone,15,60,30,200,100,standard,FALSE,
+ring,ring,ring of marksmanship,barbed ring,"A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.",,,,,iron,15,40,30,150,100,standard,FALSE,
 ring,ring,ring of naught,mood ring,,,,,,gemstone,15,10,30,25,100,standard,FALSE,
 ring,ring,ring of poison resistance,pearl ring,,,,,,gemstone,15,50,30,150,100,standard,FALSE,
 ring,ring,ring of polymorph,ivory ring,,,,,,bone,15,100,30,300,100,standard,FALSE,
@@ -376,15 +562,18 @@ tool,eyewear,kaleidoscope glasses,glasses,,,,,,glass,50,40,30,20,5,standard,FALS
 tool,eyewear,lenses,glasses,,,,,,glass,50,40,30,160,5,standard,FALSE,
 tool,eyewear,shades,glasses,,,,,,glass,50,40,30,160,5,standard,FALSE,
 tool,eyewear,spectacles,glasses,,,,,,glass,50,100,30,350,5,standard,FALSE,
+tool,eyewear,towel,,"A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.",,,,,cloth,50,5,100,15,20,standard,FALSE,
 tool,instrument,bell of harmony,bell,,,,,,silver,200,40,300,250,2,standard,FALSE,
 tool,instrument,bell of resources,bell,,,,,,silver,200,40,300,300,2,standard,FALSE,
 tool,instrument,bell of secrets,bell,,,,,,silver,200,40,300,200,2,standard,FALSE,
 tool,instrument,bell of strife,bell,,,,,,silver,200,40,300,150,2,standard,FALSE,
 tool,instrument,brass bugle,bugle,A hand-held brass horn.,,,,,copper,100,5,100,15,4,standard,FALSE,play:Debuff:sleeping|/:0
 tool,instrument,bronze bell,bell,,,,,,copper,150,5,300,10,10,standard,FALSE,play:Debuff:sleeping|/:0
+tool,instrument,dragon horn,,"A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.",,,,,bone,100,50,150,150,4,standard,FALSE,play:Blast:|fire/:0
 tool,instrument,drum of earthquake,drum,,,,,,leather,250,100,250,25,2,standard,FALSE,play:AreaOfEffect:deafness|/:0
 tool,instrument,fire horn,horn,,,,,,bone,180,50,180,50,2,standard,FALSE,play:Blast:|fire/:0
 tool,instrument,frost horn,horn,,,,,,bone,180,50,180,50,2,standard,FALSE,play:Blast:|cold/:0
+tool,instrument,gold whistle,whistle,,,,,,gold,30,5,30,80,2,standard,FALSE,play:Debuff:sleeping|/:0
 tool,instrument,horn of plenty,horn,,,,,,bone,1000,100,180,50,2,standard,FALSE,
 tool,instrument,leather drum,drum,,,,,,leather,250,5,250,25,2,standard,FALSE,play:Debuff:sleeping|/:0
 tool,instrument,magic bugle,bugle,,,,,,copper,100,50,100,35,2,standard,FALSE,
@@ -395,14 +584,17 @@ tool,instrument,tin whistle,whistle,,,,,,tin,30,5,30,10,63,standard,FALSE,play:D
 tool,instrument,tooled horn,horn,,,,,,bone,180,5,180,15,4,standard,FALSE,play:Debuff:sleeping|/:0
 tool,instrument,wooden flute,flute,,,,,,wood,50,5,50,12,4,standard,FALSE,play:Debuff:sleeping|/:0
 tool,instrument,wooden harp,harp,,,,,,wood,300,5,300,50,4,standard,FALSE,play:Debuff:sleeping|/:0
+tool,light,candelabrum,,"A branched silver candle-holder, its every arm lit at once.",,,3,,silver,30,25,400,40,6,standard,FALSE,
 tool,light,Illuminare,,,,,3,,iron,0,0,30,1200,1,artifact,FALSE,zap:AreaOfEffect:fear|/:0
 tool,light,lantern,,,,,4,,copper,300,10,300,12,15,standard,FALSE,
 tool,light,magic candle,candle,,,,2,,wax,50,50,50,100,2,standard,FALSE,
 tool,light,magic lamp,lamp,,,,3,,copper,100,50,200,1000,10,standard,FALSE,
 tool,light,oil lamp,lamp,A portable source of light fashioned out of copper and fuelled by oil.,,,3,,copper,200,10,200,10,25,standard,FALSE,
+tool,light,phial,,A small glass vial holding a captive mote of light.,,,1,,glass,20,5,30,20,5,standard,FALSE,
 tool,light,Prudentia,,This glowing looking glass reveals glimpses of the future and corrupts your soul.,,,2,,iron,0,0,30,1000,1,artifact,FALSE,
 tool,light,torch,,,,,2,,wood,100,5,200,5,25,standard,FALSE,
 tool,light,wax candle,candle,,,,2,,wax,10,5,50,10,25,standard,FALSE,
+tool,lockpick,credit card,,"A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.",,,,,plastic,0,10,10,12,40,standard,TRUE,
 tool,lockpick,lock pick,,A small iron tool designed for opening all sorts of locks.,,,,,iron,5,10,30,10,60,standard,TRUE,
 tool,melee weapon,pick-axe,,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.",,pick: 1d6,,,iron,300,25,800,50,20,standard,FALSE,
 tool,melee weapon,unicorn horn,,,,spear: 1d12,,,bone,250,40,200,100,0,standard,FALSE,
@@ -416,20 +608,31 @@ tool,specific key,Jade Key,,,,,,,stone,0,0,30,1000,0,artifact,FALSE,
 tool,specific key,Ruby Key,,,,,,,gemstone,0,0,30,1000,0,artifact,FALSE,
 tool,specific key,Shadow Key,,,,,,,ether,0,0,30,1000,0,artifact,FALSE,
 tool,specific key,Silver Key,,,,,,,silver,0,0,30,1000,0,artifact,FALSE,
+tool,tool,bandage,,"A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.",,,,,cloth,20,5,20,5,20,standard,FALSE,rub:Healing:|/:0
 tool,tool,can of grease,,,,,,,iron,100,25,200,20,5,standard,FALSE,
 tool,tool,crystal ball,glass orb,,,,,,crystal,500,100,1500,60,10,standard,FALSE,
 tool,tool,expensive camera,mysterious gadget,A foreign device which creates perfect visual depictions of reality.,,,,,plastic,0,40,120,200,10,standard,FALSE,flash:Blast:blindness|/:0
+tool,tool,fishing pole,,A long cane rod strung with line and hook. Best used beside open water.,,,,,wood,100,10,300,15,15,standard,FALSE,
 tool,tool,fly swatter,,,,,,,plastic,0,40,120,2,10,standard,FALSE,
+tool,tool,grappling hook,,"A barbed iron hook on a long coil of rope, thrown out and hauled back in.",,,,,iron,150,25,300,25,12,standard,FALSE,
 tool,tool,heavy iron ball,,,,,,,iron,800,25,4800,10,0,standard,FALSE,
+tool,tool,leash,,"A length of sturdy rope with a clasp, for keeping a tame animal close at hand.",,,,,leather,100,10,150,12,25,standard,FALSE,
 tool,tool,magic figurine,figurine,,,,,,clay,120,100,120,300,5,standard,FALSE,
 tool,tool,magic marker,marker,This magical pen has only a limited amount of ink. It seems to vibrate and move on its own accord when you hold it in your hand. You wonder what it would do if you pressed it to some paper.,,,,,plastic,0,100,20,50,15,standard,FALSE,
+tool,tool,medical kit,,"A canvas roll of bandages, salves and sutures for treating wounds in the field.",,,,,cloth,100,25,300,100,12,standard,FALSE,rub:Healing:|/:0
+tool,tool,mirror,,A polished sheet of silvered glass. Some things recoil from their own reflection.,,,,,glass,0,40,130,200,10,standard,FALSE,flash:Blast:blindness|/:0
 tool,tool,Pandora's Box,,,,,,,wood,0,0,2000,2000,1,artifact,FALSE,
+tool,tool,pill,,"A small, chalky tablet of uncertain origin. Best swallowed quickly.",,,,,clay,10,5,5,15,15,standard,FALSE,
+tool,tool,stethoscope,,"A physician's instrument for listening to a heartbeat -- yours, or something else's.",,,,,iron,100,10,100,50,15,standard,FALSE,
+tool,tool,strange object,,A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.,,,,,iron,0,40,150,100,5,standard,FALSE,
+tool,tool,tin opener,,A small hooked blade made for prying the lid off a sealed tin.,,,,,iron,30,10,100,12,25,standard,FALSE,
 tool,tool,tinning kit,,"A collection of utensils, including empty tins and butchering tools, for packing corpses so as to condense them.",,,,,tin,750,40,750,30,75,standard,FALSE,
 tool,tool,wooden stake,,,,,,,wood,100,40,120,2,10,standard,FALSE,
 wand,wand,Rosenthral,,,,,,,vegetable,0,0,50,800,1,artifact,FALSE,
 wand,wand,wand of animation,uranium wand,,,,,,iron,30,50,70,200,20,standard,FALSE,zap:Blast:|/:0
 wand,wand,wand of cancellation,platinum wand,,,,,,platinum,30,50,70,200,15,standard,FALSE,zap:Blast:|/:0
 wand,wand,wand of cold,short wand,,,,,,iron,30,40,70,175,30,standard,FALSE,zap:Blast:|cold/:0
+wand,wand,wand of confusion,silly wand,,,,,,wood,30,20,70,100,30,standard,FALSE,zap:Buff:confusion|/:0
 wand,wand,wand of create horde,black wand,,,,,,wood,30,100,70,300,5,standard,FALSE,zap:SummonEnemy:|/:0
 wand,wand,wand of death,long wand,,,,,,iron,30,100,70,500,5,standard,FALSE,zap:Blast:|/:0
 wand,wand,wand of digging,iron wand,Zapping it at a wall creates a big tunnel.,,,,,iron,30,50,70,150,50,standard,FALSE,
@@ -441,6 +644,8 @@ wand,wand,wand of fireball,octagonal wand,,,,,,iron,30,100,70,300,5,standard,FAL
 wand,wand,wand of haste,brass wand,,,,,,copper,30,30,70,150,45,standard,FALSE,zap:Buff:quickness|/:0
 wand,wand,wand of healing,bamboo wand,,,,,,wood,30,20,70,150,60,standard,FALSE,zap:Healing:|/:0
 wand,wand,wand of iceball,jewelled wand,,,,,,iron,30,100,70,300,5,standard,FALSE,zap:Blast:|cold/:0
+wand,wand,wand of jumping,plastic wand,,,,,,plastic,0,20,70,100,20,standard,FALSE,zap:Buff:jumping|/:0
+wand,wand,wand of levitation,pine wand,,,,,,wood,30,20,70,150,25,standard,FALSE,zap:Buff:levitation|/:0
 wand,wand,wand of light,glass wand,,,,,,glass,30,20,70,100,50,standard,FALSE,
 wand,wand,wand of lightning,curved wand,,,,,,iron,30,40,70,175,20,standard,FALSE,zap:Blast:|shock/:0
 wand,wand,wand of locking,aluminium wand,,,,,,tin,30,20,70,150,25,standard,FALSE,
@@ -456,14 +661,18 @@ wand,wand,wand of sleep,runed wand,,,,,,iron,30,30,70,175,50,standard,FALSE,zap:
 wand,wand,wand of slow,tin wand,,,,,,tin,30,30,70,150,45,standard,FALSE,zap:Blast:slowness|/:0
 wand,wand,wand of striking,ebony wand,,,,,,wood,30,30,70,150,65,standard,FALSE,zap:Blast:|force/:0
 wand,wand,wand of summoning,maple wand,,,,,,wood,30,20,70,200,35,standard,FALSE,zap:SummonEnemy:|/:0
+wand,wand,wand of telekinesis,forked wand,,,,,,wood,30,30,70,150,25,standard,FALSE,zap:Buff:telekinesis|/:0
 wand,wand,wand of teleportation,iridium wand,,,,,,platinum,30,50,70,200,45,standard,FALSE,zap:Teleport:|/:0
 wand,wand,wand of theft,gold wand,,,,,,gold,30,50,70,175,45,standard,FALSE,zap:Blast:|/:0
 wand,wand,wand of undead turning,copper wand,,,,,,copper,30,40,70,150,45,standard,FALSE,
 wand,wand,Witherloch,,This withered hand is the last remnant of an ancient and powerful lich.,,,,,animal,0,0,100,900,1,artifact,FALSE,
 weapon,melee weapon,adamantine axe,,,,axe: 1d7+1,,,adamantine,0,15,600,160,1,exotic,FALSE,
 weapon,melee weapon,adamantine greataxe,,,,axe: 2d6+2,,,adamantine,0,15,1200,400,1,exotic,FALSE,
+weapon,melee weapon,adamantine greatmace,,"A massive adamantine maul, its head as large as a barrel stave, that shrugs off the recoil of its own swing.",,mace: 2d6+2,,,adamantine,0,15,1500,120,1,exotic,FALSE,
 weapon,melee weapon,adamantine greatsword,,,,heavy blade: 1d10,,,adamantine,0,15,700,200,1,exotic,FALSE,
+weapon,melee weapon,adamantine katana,samurai sword,,,heavy blade: 1d10+1,,,adamantine,0,15,400,160,1,exotic,FALSE,
 weapon,melee weapon,adamantine long sword,,,,heavy blade: 1d8+1,,,adamantine,0,15,400,300,1,exotic,FALSE,
+weapon,melee weapon,adamantine quarterstaff,,,staff:1,staff: 1d6+1,,,adamantine,0,15,400,100,1,exotic,FALSE,
 weapon,melee weapon,adamantine rapier,,,,medium blade: 1d6+1,,,adamantine,0,15,300,400,1,exotic,FALSE,
 weapon,melee weapon,adamantine sabre,,,,medium blade: 1d6+2,,,adamantine,0,15,400,400,1,exotic,FALSE,
 weapon,melee weapon,adamantine short sword,,,,medium blade: 1d6+1,,,adamantine,0,15,300,200,1,exotic,FALSE,
@@ -471,6 +680,7 @@ weapon,melee weapon,adamantine two-handed sword,,,,heavy blade: 1d12+1,,,adamant
 weapon,melee weapon,Ancient Katana,,This old katana has been battered and broken through a million battles. Hardly more than a scrap of metal and wood and yet it flickers with a strange power.,,medium blade: 1d5,,,iron,0,0,200,50,1,artifact,FALSE,
 weapon,melee weapon,athame,,,,light blade: 1d4,,,iron,50,10,100,4,10,standard,FALSE,
 weapon,melee weapon,axe,,A sharp iron wedge fashioned to a sturdy handle.,,axe: 1d7,,,iron,300,5,600,8,35,standard,FALSE,
+weapon,melee weapon,baseball bat,,"A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.",,club: 1d7,,,wood,160,5,320,8,5,standard,FALSE,
 weapon,melee weapon,battle staff,adamantine staff,,staff:2,staff: 1d10,,,adamantine,0,50,400,500,4,exotic,FALSE,
 weapon,melee weapon,battle-axe,double-headed axe,"This axe is specifically designed to facilitate deep, grievous wounds in combat. This large weapon is wielded in both hands.",,axe: 2d6,,,iron,600,5,1200,40,10,standard,FALSE,
 weapon,melee weapon,brass knuckles,,,,unarmed combat: 1d4,,,copper,75,5,150,4,12,standard,FALSE,
@@ -485,18 +695,29 @@ weapon,melee weapon,Dire Needle,,,,medium blade: 1d10,,,iron,0,0,250,1100,1,arti
 weapon,melee weapon,Dragonbane,,"Forged deep underground by dwarven hands, this blade was made to slay the scaled beasts who sought to steal their treasures. Throughout the long years this blade has bathed in the blood of its winged prey. Now almost forgotten, it yearns again for the taste of dragon flesh.",,heavy blade: 2d5,,,iron,0,0,700,1000,1,artifact,FALSE,zap:AreaOfEffect:fear|/:0
 weapon,melee weapon,dread staff,bone staff,,staff:1,staff: 1d5,,,bone,150,50,300,500,4,standard,FALSE,
 weapon,melee weapon,drow short sword,glossy short sword,,,medium blade: 1d8,,,mithril,150,10,300,10,2,standard,FALSE,
+weapon,melee weapon,dwarvish katar,broad katar,"This dwarvish punching blade is forged thicker than most, its crossbar reinforced to survive a full-strength thrust.",,unarmed combat: 1d5+1,,,iron,150,10,300,12,2,standard,FALSE,
 weapon,melee weapon,dwarvish mattock,broad pick,"This tool is used for digging and chopping, similar to the pick-axe. It has a long handle and a stout head, which combines an axe blade and an adze. It can also be used as an effective melee weapon.",,pick: 1d12,,,iron,600,40,1200,50,13,standard,FALSE,
 weapon,melee weapon,dwarvish short sword,broad short sword,This dwarvish manufactured sword is sturdy and suited to being wielded in the offhand.,,medium blade: 1d7,,,iron,150,10,300,10,2,standard,FALSE,
 weapon,melee weapon,elven broadsword,runed broadsword,,,heavy blade: 2d5,,,wood,350,10,700,20,4,standard,FALSE,
 weapon,melee weapon,elven short sword,runed short sword,This light blade of elvish manufacture is particularly suited as an offhand weapon.,,medium blade: 1d8,,,wood,150,10,300,15,2,standard,FALSE,
 weapon,melee weapon,flail,,,,flail: 1d6+1,,,iron,225,5,450,4,30,standard,FALSE,
 weapon,melee weapon,flash staff,mithril staff,,staff:1,staff: 1d6+1,,,mithril,200,50,400,500,2,standard,FALSE,
+weapon,melee weapon,gold axe,,,,axe: 1d7,,,gold,300,15,600,64,2,standard,FALSE,
+weapon,melee weapon,gold double vajra,,"A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.",,mace: 2d5,,,gold,250,15,500,480,2,standard,FALSE,
+weapon,melee weapon,gold flail,,,,flail: 1d6+1,,,gold,225,15,450,32,2,standard,FALSE,
+weapon,melee weapon,gold khanda,,"A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.",,heavy blade: 1d8,,,gold,200,15,400,120,2,standard,FALSE,
+weapon,melee weapon,gold labrys,,"A ceremonial double-bitted axe, its twin blades curved like a crescent moon.",,axe: 2d6,,,gold,600,15,1200,320,2,standard,FALSE,
+weapon,melee weapon,gold longsword,,,,heavy blade: 1d8,,,gold,200,15,400,120,2,standard,FALSE,
+weapon,melee weapon,gold single vajra,,"A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.",,mace: 1d6+1,,,gold,150,15,300,40,2,standard,FALSE,
+weapon,melee weapon,gold spade,,"A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.",,club: 1d6,,,gold,150,15,300,40,2,standard,FALSE,
+weapon,melee weapon,gold twohanded sword,,,,heavy blade: 1d12,,,gold,400,15,800,400,2,standard,FALSE,
 weapon,melee weapon,great dagger,,,,light blade: 1d6,,,iron,100,10,200,20,3,standard,FALSE,
 weapon,melee weapon,Grimtooth,,,,light blade: 1d6,,,iron,0,0,50,1200,1,artifact,FALSE,
 weapon,melee weapon,heavy hammer,,,,hammer: 2d4+2,,,iron,300,5,600,10,10,standard,FALSE,
 weapon,melee weapon,kanabo,studded samurai stick,,,mace: 2d5,,,iron,250,10,500,60,3,standard,FALSE,
 weapon,melee weapon,katana,samurai sword,This is a sharp and curved single-edged blade with a circular guard and long grip.,,heavy blade: 1d10,,,iron,200,10,400,80,4,standard,FALSE,
 weapon,melee weapon,katar,,,,unarmed combat: 1d5,,,iron,125,5,250,8,6,standard,FALSE,
+weapon,melee weapon,khopesh,hooked sword,"A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.",,heavy blade: 1d8,,,iron,250,10,500,20,8,standard,FALSE,
 weapon,melee weapon,knife,,A small cutting utensil made of metal with a wooden handle.,,light blade: 1d3,,,iron,25,5,50,4,15,standard,FALSE,
 weapon,melee weapon,long sword,,"A straight, double-edged and often cruciform blade.",,heavy blade: 1d8,,,iron,200,5,400,15,50,standard,FALSE,
 weapon,melee weapon,mace,,A sophisticated bludgeon with a heavy iron head.,,mace: 1d6+1,,,iron,150,5,300,5,40,standard,FALSE,
@@ -504,47 +725,74 @@ weapon,melee weapon,Magistrator,,,,mace: 2d6+2,,,gold,0,0,600,1500,1,artifact,FA
 weapon,melee weapon,main gauche,,,light blade:1,light blade: 1d2,,,iron,25,10,50,4,10,standard,FALSE,
 weapon,melee weapon,Masamune,,A righteous sword forged by a revered blacksmith many years ago who set out to hone his craft and to create the ultimate blade. The noble intent of its creator lingers in this weapon to cut down the wicked and protect the innocent.,,heavy blade: 4d4,,,iron,0,0,320,1500,0,artifact,FALSE,
 weapon,melee weapon,Maulfrost,,,,hammer: 2d8+2,,,iron,0,0,1200,1400,1,artifact,FALSE,
+weapon,melee weapon,mithril axe,,,,axe: 1d7+1,,,mithril,0,25,600,80,2,standard,FALSE,
 weapon,melee weapon,mithril battle-axe,,,,axe: 2d6+1,,,mithril,300,25,600,400,2,standard,FALSE,
+weapon,melee weapon,mithril gauntlets,,"A pair of gauntlets ringed with jagged knuckle-spikes, made to turn a punch into a wound.",,unarmed combat: 1d4+1,,,mithril,0,25,150,70,2,standard,FALSE,
+weapon,melee weapon,mithril greatmace,,"A massive, mithril-shod maul, its head as large as a barrel stave.",,mace: 2d6+1,,,mithril,0,25,1500,600,2,standard,FALSE,
+weapon,melee weapon,mithril greatsword,,,,heavy blade: 2d4+1,,,mithril,0,25,700,100,2,standard,FALSE,
+weapon,melee weapon,mithril katana,samurai sword,,,heavy blade: 1d10+1,,,mithril,0,25,400,800,2,standard,FALSE,
 weapon,melee weapon,mithril katar,,,,unarmed combat: 1d5+1,,,mithril,125,25,125,80,2,standard,FALSE,
 weapon,melee weapon,mithril long sword,,,,heavy blade: 1d8+1,,,mithril,100,25,200,150,2,standard,FALSE,
+weapon,melee weapon,mithril rapier,,,,medium blade: 1d6+1,,,mithril,0,25,300,400,2,standard,FALSE,
 weapon,melee weapon,mithril sabre,,,,medium blade: 1d6+2,,,mithril,100,25,200,150,2,standard,FALSE,
 weapon,melee weapon,mithril short sword,,,,medium blade: 1d6+1,,,mithril,75,25,150,100,2,standard,FALSE,
 weapon,melee weapon,mithril two-handed sword,,,,heavy blade: 1d12+1,,,mithril,200,25,400,500,2,standard,FALSE,
 weapon,melee weapon,morning star,,A mace that is spiked on its head.,,mace: 2d4,,,iron,600,5,1200,10,12,standard,FALSE,
+weapon,melee weapon,Mournblade,,"Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.",,heavy blade: 2d6,,,iron,0,0,420,1500,1,artifact,FALSE,
 weapon,melee weapon,Muramasa,,The final sword forged by a once respected blacksmith who lost himself in the depths of the dungeon. His warped soul now inhabits this blade and lusts for blood. It is said that the one who wields this sword is coerced into cutting down friend and foe alike.,,medium blade: 2d4,,,iron,0,0,240,1000,0,artifact,FALSE,
 weapon,melee weapon,nunchaku,,,,flail: 1d3+1,,,wood,75,10,150,20,4,standard,FALSE,
 weapon,melee weapon,orcish short sword,crude short sword,,,medium blade: 1d5,,,iron,150,10,300,10,3,standard,FALSE,
+weapon,melee weapon,plastic bat,toy bat,,,club: 1d4,,,plastic,0,15,120,5,0,standard,FALSE,
+weapon,melee weapon,plastic hammer,toy hammer,,,hammer: 1d3,,,plastic,0,15,100,4,0,standard,FALSE,
 weapon,melee weapon,plastic sword,toy sword,,,medium blade: 1d4,,,plastic,0,15,100,5,0,standard,FALSE,
 weapon,melee weapon,quarterstaff,,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,staff:1,staff: 1d6,,,wood,200,5,400,5,11,standard,FALSE,
 weapon,melee weapon,rapier,,A thin and agile sword meant almost exclusively for thrusting.,,medium blade: 1d6,,,iron,150,5,300,40,10,standard,FALSE,
+weapon,melee weapon,rose axe,,,,axe: 1d7,,,gold,300,15,600,96,1,standard,FALSE,
+weapon,melee weapon,rose battleaxe,double-headed axe,,,axe: 2d6,,,gold,600,15,1200,480,1,standard,FALSE,
+weapon,melee weapon,rose greatsword,,,,heavy blade: 2d4,,,gold,350,15,700,120,1,standard,FALSE,
+weapon,melee weapon,rose long sword,,,,heavy blade: 1d8,,,gold,200,15,400,180,1,standard,FALSE,
+weapon,melee weapon,rose rapier,,,,medium blade: 1d6,,,gold,150,15,300,480,1,standard,FALSE,
+weapon,melee weapon,rose sabre,,,,medium blade: 1d6+1,,,gold,200,15,400,240,1,standard,FALSE,
+weapon,melee weapon,rose short sword,,,,medium blade: 1d6,,,gold,150,15,300,120,1,standard,FALSE,
 weapon,melee weapon,Runesword,,,,heavy blade: 1d6,,,iron,0,0,400,950,1,artifact,FALSE,
+weapon,melee weapon,Runicorn Horn,,"The spiral horn of a unicorn, its magic bound permanently into the artifact rather than spent in a single burst.",,spear: 1d12+2,,,bone,0,0,250,1300,1,artifact,FALSE,
 weapon,melee weapon,sabre,,A curved single-edged blade often used by cavalry.,,medium blade: 1d6+1,,,iron,200,5,400,20,17,standard,FALSE,
 weapon,melee weapon,sai,,,light blade:1,light blade: 1d3,,,iron,30,10,60,15,4,standard,FALSE,
 weapon,melee weapon,scalpel,,An extremely sharp little blade used for precise incisions.,,light blade: 1d3,,,iron,25,5,50,4,10,standard,FALSE,
 weapon,melee weapon,scimitar,curved sword,This is a sword weapon with a long curved design.,,heavy blade: 1d8,,,iron,200,5,400,15,15,standard,FALSE,
+weapon,melee weapon,Shillelagh,,"A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.",,club: 1d8+2,,,wood,0,0,300,1000,1,artifact,FALSE,
 weapon,melee weapon,short sword,,A short and light double-edged blade.,,medium blade: 1d6,,,iron,150,5,300,10,8,standard,FALSE,
 weapon,melee weapon,sickle,,,,light blade: 1d4+1,,,iron,125,5,250,3,3,standard,FALSE,
 weapon,melee weapon,silver axe,,,,axe: 1d7,,,silver,360,15,720,40,2,standard,FALSE,
 weapon,melee weapon,silver heavy hammer,,,,hammer: 2d4+1,,,silver,360,15,720,50,2,standard,FALSE,
 weapon,melee weapon,silver long sword,,,,heavy blade: 1d8,,,silver,240,15,480,75,2,standard,FALSE,
 weapon,melee weapon,silver mace,,,,mace: 1d6,,,silver,180,15,360,25,2,standard,FALSE,
+weapon,melee weapon,silver rapier,,"A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.",,medium blade: 1d6,,,silver,150,15,300,80,2,standard,FALSE,
 weapon,melee weapon,silver sabre,,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.",,medium blade: 1d6+1,,,silver,200,15,400,75,2,standard,FALSE,
 weapon,melee weapon,silver short sword,,,,medium blade: 1d6,,,silver,180,15,360,50,2,standard,FALSE,
 weapon,melee weapon,silver two-handed sword,,,,heavy blade: 1d12,,,silver,480,15,960,250,2,standard,FALSE,
 weapon,melee weapon,stiletto,,,,light blade: 1d3,,,iron,25,5,50,4,5,standard,FALSE,
 weapon,melee weapon,stone club,,,,club: 2d10,,,stone,1000,5,6000,30,3,standard,FALSE,
+weapon,melee weapon,Stormbringer,,"A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.",,heavy blade: 2d8,,,iron,0,0,500,1600,1,artifact,FALSE,
 weapon,melee weapon,Sunsword,,This powerful artifact blade glows with a holy fury that lights the area.,,heavy blade: 1d8,2,,iron,0,0,400,1500,1,artifact,FALSE,
 weapon,melee weapon,thunder staff,crystal staff,,staff:1,staff: 1d7,,,crystal,400,50,800,500,4,standard,FALSE,
+weapon,melee weapon,triplesword,,"A monstrous greatsword forged with three parallel blades fused along a single spine, each edge catching the light at a different angle.",,heavy blade: 1d16,,,iron,350,10,700,120,3,standard,FALSE,
 weapon,melee weapon,tsurugi,long samurai sword,,,heavy blade: 1d16,,,iron,300,10,600,100,2,standard,FALSE,
 weapon,melee weapon,two-handed sword,,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.",,heavy blade: 1d12,,,iron,400,5,800,50,25,standard,FALSE,
+weapon,melee weapon,Vajra,,"Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.",,mace: 2d4+2,,,platinum,0,0,400,1300,1,artifact,FALSE,
 weapon,melee weapon,Verimurus,,"A surviving portion of the legendary wall of Verimurus, an ancient elven city said to have lasted since time immemorial. However, not even the mightiest walls could withstand the endless onslaught of the dragons. Now the enchanted walls stand alone over the land that once held them.",hammer:8,hammer: 2d4,,,stone,0,0,5000,1350,1,artifact,FALSE,
 weapon,melee weapon,Vorpal Blade,,,,heavy blade: 1d8,,,adamantine,0,0,400,1800,1,artifact,FALSE,
 weapon,melee weapon,wakizashi,short samurai sword,"Like a smaller variant of the katana, often used as a side-arm.",,medium blade: 1d7,,,iron,150,10,300,40,4,standard,FALSE,
 weapon,melee weapon,war club,,,,club: 2d5,,,wood,300,5,600,60,11,standard,FALSE,
 weapon,melee weapon,war hammer,,A heavy iron hammer designed specifically for use in melee combat.,,hammer: 1d4+1,,,iron,250,5,500,5,25,standard,FALSE,
+weapon,melee weapon,war maul,,"An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.",,hammer: 2d6,,,iron,375,10,750,18,6,standard,FALSE,
+weapon,melee weapon,Wepwawet's Fang,,"A curved funerary blade inlaid with gold, once carried by a pharaonic guardian charged with keeping the dead in their tombs.",,heavy blade: 1d10,,,gold,0,0,350,1200,1,artifact,FALSE,
 weapon,melee weapon,worm tooth,,,,light blade: 1d2,,,bone,100,10,200,2,0,standard,FALSE,
+weapon,melee weapon,yoyo,,"A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.",,whip: 1d2,,,plastic,0,10,30,3,0,standard,FALSE,
+weapon,melee weapon,Zweihänder,,A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.,,heavy blade: 3d6,,,iron,0,0,2000,1450,1,artifact,FALSE,
 weapon,ranged missile,adamantine arrow,,,,bow: 1d6+1,,,adamantine,0,15,10,40,1,exotic,TRUE,
 weapon,ranged missile,adamantine bullet,adamantine slug,,,firearms: 1d30,,,adamantine,0,4,5,75,0,exotic,TRUE,
+weapon,ranged missile,adamantine crossbow bolt,,,,crossbow: 1d4+2,,,adamantine,0,15,10,40,1,exotic,TRUE,
 weapon,ranged missile,arrow,,A projectile consisting of a wooden shaft with a sharp metal tip at its front and stabilising fins at its rear.,,bow: 1d6,,,iron,5,1,10,2,50,standard,TRUE,
 weapon,ranged missile,bullet,metal slug,A pointed metal cylinder meant to be discharged from a firearm.,,firearms: 1d20,,,iron,5,2,5,5,0,standard,TRUE,
 weapon,ranged missile,Creeping Sprout,,,,bow: 1d6,,,wood,0,0,15,600,1,artifact,TRUE,
@@ -570,6 +818,7 @@ weapon,ranged weapon,crossbow,,"A horizontal, mechanically-aided bow and arrow w
 weapon,ranged weapon,Deagle,,,,firearms: 1d6,,,gold,0,0,500,1500,1,artifact,FALSE,
 weapon,ranged weapon,drow bow,glossy bow,,,bow: +1,,,mithril,150,10,300,60,6,standard,FALSE,
 weapon,ranged weapon,elven bow,runed bow,,,bow: +1,,,wood,150,10,300,60,12,standard,FALSE,
+weapon,ranged weapon,elven hand crossbow,small horizontal bow,"A miniature crossbow of elven design, light enough to be drawn and fired one-handed without a stirrup.",,crossbow: +1,,,wood,100,10,200,60,6,standard,FALSE,
 weapon,ranged weapon,Giantslayer,,,,sling: +1,,,wood,0,0,30,1000,1,artifact,FALSE,
 weapon,ranged weapon,grenade launcher,mortar gun,,,firearms: 1d4,,,iron,300,25,600,400,0,standard,FALSE,
 weapon,ranged weapon,Harbalest,,,,crossbow: 1d6,,,mithril,0,0,350,1350,1,artifact,FALSE,
@@ -577,38 +826,52 @@ weapon,ranged weapon,heavy machine gun,heavy gun,,,firearms: 1d4,,,iron,1000,25,
 weapon,ranged weapon,hunting rifle,long gun,,,firearms: 1d4,,,iron,150,25,300,150,0,standard,FALSE,
 weapon,ranged weapon,orcish bow,crude bow,,,bow: 1d4,,,wood,150,10,300,60,12,standard,FALSE,
 weapon,ranged weapon,pistol,small gun,A compact hand-held firearm.,,firearms: 1d2,,,iron,50,25,100,150,0,standard,FALSE,
+weapon,ranged weapon,railgun,coiled gun,,,firearms: 2d6,,,iron,350,25,700,800,0,standard,FALSE,
 weapon,ranged weapon,Ravenbow,,,,bow: 1d6,,,wood,0,0,300,1200,1,artifact,FALSE,
 weapon,ranged weapon,rocket launcher,shoulder gun,,,firearms: 1d4,,,iron,750,25,1500,600,0,standard,FALSE,
 weapon,ranged weapon,sawn-off shotgun,short barrelled gun,,,firearms: 1d3,,,iron,150,25,300,150,0,standard,FALSE,
 weapon,ranged weapon,shotgun,long barrelled gun,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.",,firearms: 1d4,,,iron,175,25,350,200,0,standard,FALSE,
 weapon,ranged weapon,sling,,"A leather pouch set between two cords, meant for launching small projectiles.",,sling: +1,,,leather,15,5,30,20,40,standard,FALSE,
+weapon,ranged weapon,sling staff,,"A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.",,sling: +1,,,wood,125,10,250,35,20,standard,FALSE,
 weapon,ranged weapon,sniper rifle,scoped long gun,,,firearms: 1d4,,,iron,250,25,500,800,0,standard,FALSE,
 weapon,ranged weapon,submachine gun,compact gun,,,firearms: 1d4,,,iron,250,25,250,200,0,standard,FALSE,
+weapon,ranged weapon,wheellock pistol,clockwork gun,"An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.",,firearms: 1d2,,,iron,75,10,150,200,3,standard,FALSE,
 weapon,ranged weapon,yumi,long bow,"A tall, asymmetric bow.",,bow: +1,,,wood,150,5,300,60,2,standard,FALSE,
 weapon,reach weapon,adamantine bident,exotic two-pointed polearm,,,polearm: 1d6+2,,,adamantine,0,15,500,100,1,exotic,FALSE,
+weapon,reach weapon,adamantine lance,,,,lance: 1d6+1,,,adamantine,0,15,1800,200,1,exotic,FALSE,
+weapon,reach weapon,adamantine poleaxe,angled poleaxe,,,polearm: 1d8+1,,,adamantine,0,15,1500,200,1,exotic,FALSE,
 weapon,reach weapon,adamantine spear,,,,spear: 1d7+1,,,adamantine,0,15,350,120,1,exotic,FALSE,
 weapon,reach weapon,bardiche,long poleaxe,"This is a pole weapon with a long, cleaver type blade.",,polearm: 2d4,,,iron,600,5,1200,7,2,standard,FALSE,
 weapon,reach weapon,bec de corbin,beaked polearm,This is a pole weapon consisting of a modified hammer head and spike mounted atop a long pole.,,polearm: 1d8,,,iron,500,5,1000,8,2,standard,FALSE,
 weapon,reach weapon,bill-guisarme,hooked polearm,"This weapon consists of a hooked chopping blade with several pointed projections mounted on a staff. The end of the cutting blade curves forward to form a hook. In addition, the blade has one pronounced spike straight off the top like a spear head and also a hook or spike mounted on the reverse side of the blade.",,polearm: 2d4,,,iron,600,5,1200,7,2,standard,FALSE,
 weapon,reach weapon,bullwhip,,"A long, flexible leather thong. Unexpectedly sharp.",,whip: 1d4,,,leather,100,5,200,4,4,standard,FALSE,
 weapon,reach weapon,Deadwood,,,,polearm: 2d6,,,iron,0,0,750,950,1,artifact,FALSE,
+weapon,reach weapon,Demiurge,,"A staff of living, unworked rock. What shapes matter cannot itself be unmade.",,staff: 2d6,,,stone,0,0,600,1500,1,artifact,FALSE,
 weapon,reach weapon,Drilanze,,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.",,lance: 2d6,,,iron,0,0,3600,1100,1,artifact,FALSE,
 weapon,reach weapon,dwarvish spear,stout spear,"This compact, dwarvish manufactured spear is ideal for close quarters combat.",,spear: 1d6+1,,,iron,175,10,350,8,12,standard,FALSE,
 weapon,reach weapon,elven spear,runed spear,Its high-quality elvish manufacture makes for an effective close combat weapon.,,spear: 1d7,,,wood,175,10,350,7,10,standard,FALSE,
 weapon,reach weapon,fauchard,pole sickle,This is a curved blade put atop a long pole. The blade is moderately curved along its length with the cutting edge only on the concave side.,,polearm: 1d6,,,iron,300,5,600,5,3,standard,FALSE,
 weapon,reach weapon,glaive,single-edged polearm,This weapon consists of a large blade on the end of a long pole. The blade is affixed in a socket-shaft configuration similar to an axe head.,,polearm: 1d6,,,iron,375,5,750,6,4,standard,FALSE,
+weapon,reach weapon,gold trident,three-pointed polearm,,,polearm: 1d6+1,,,gold,250,15,500,40,2,standard,FALSE,
+weapon,reach weapon,gold urumi,,"A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.",,whip: 1d4,,,gold,100,15,200,32,2,standard,FALSE,
 weapon,reach weapon,guisarme,pruning hook,This weapon consists of a single-edged blade on the end of a pole.,,polearm: 2d4,,,iron,400,5,800,5,3,standard,FALSE,
+weapon,reach weapon,Gungnir,,"Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.",,spear: 2d6+2,,,iron,0,0,500,1400,1,artifact,FALSE,zap:Blast:|/:0
 weapon,reach weapon,halberd,angled poleaxe,This is a two-handed pole weapon consisting of an axe blade with a spike mounted on a long shaft.,,polearm: 1d8,,,iron,750,5,1500,10,4,standard,FALSE,
 weapon,reach weapon,iron chain,,,,whip: 1d3,,,iron,600,10,1200,10,0,standard,FALSE,
 weapon,reach weapon,lance,,A long thrusting polearm best suited to mounted combat.,,lance: 1d6,,,iron,900,5,1800,10,3,standard,FALSE,
 weapon,reach weapon,Lashing Tongue,,This curious artifact somehow chastens those it strikes and submits them to your will.,,whip: 1d6,,,leather,0,0,200,1000,1,artifact,FALSE,
 weapon,reach weapon,lucern hammer,pronged polearm,This hammer is a four-pronged head mounted atop a long polearm stick. It bears a long spike on its reverse and an even longer spike extending from the very top. It proves effective at puncturing or smashing armour as well as dismounting riders.,,polearm: 2d4,,,iron,750,5,1500,7,3,standard,FALSE,
 weapon,reach weapon,mithril lance,,,,lance: 1d6+1,,,mithril,900,25,900,100,2,standard,FALSE,
+weapon,reach weapon,mithril poleaxe,angled poleaxe,,,polearm: 1d8+1,,,mithril,0,25,1500,100,2,standard,FALSE,
 weapon,reach weapon,mithril spear,,,,spear: 1d7+1,,,mithril,175,25,175,60,2,standard,FALSE,
+weapon,reach weapon,mithril trident,three-pointed polearm,,,polearm: 1d6+2,,,mithril,0,25,500,50,2,standard,FALSE,
 weapon,reach weapon,mithril whip,,,,whip: 1d4+1,,,mithril,50,25,100,40,2,standard,FALSE,
+weapon,reach weapon,naginata,curved polearm,"A curved single-edged blade mounted on a long oaken shaft, prized by the warrior monks of the far east.",,polearm: 1d8,,,iron,350,10,700,30,4,standard,FALSE,
 weapon,reach weapon,orcish spear,crude spear,,,spear: 1d5,,,iron,175,10,350,5,13,standard,FALSE,
 weapon,reach weapon,partisan,vulgar polearm,This weapon consists of a spearhead mounted on a long wooden shaft with protrusions on the sides which aided in parrying sword thrusts.,,polearm: 1d6,,,iron,400,5,800,10,3,standard,FALSE,
 weapon,reach weapon,ranseur,hilted polearm,The head of a ranseur consists of a spear-tip affixed with a cross hilt at its base.,,polearm: 2d4,,,iron,250,5,500,6,3,standard,FALSE,
+weapon,reach weapon,rose bident,exotic two-pointed polearm,,,polearm: 1d6+1,,,gold,250,15,500,60,1,standard,FALSE,
+weapon,reach weapon,rose spear,,,,spear: 1d6,,,gold,175,15,350,72,1,standard,FALSE,
 weapon,reach weapon,rubber hose,,,,whip: 1d2,,,plastic,0,10,50,4,0,standard,FALSE,
 weapon,reach weapon,scythe,curved polearm,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,,polearm: 2d4,,,iron,375,5,750,6,2,standard,FALSE,
 weapon,reach weapon,silver lance,,,,lance: 1d6,,,silver,900,15,2160,50,2,standard,FALSE,
@@ -621,6 +884,7 @@ weapon,reach weapon,voulge,pole cleaver,"This weapon is a curved blade attached 
 weapon,thrown weapon,adamantine dagger,,,,light blade: 1d4+1,,,adamantine,0,15,100,80,1,exotic,TRUE,
 weapon,thrown weapon,adamantine dart,,,,dart: 1d4+1,,,adamantine,0,3,10,15,1,exotic,TRUE,
 weapon,thrown weapon,adamantine hatchet,,,,axe: 1d6+1,,,adamantine,0,15,350,120,1,exotic,TRUE,
+weapon,thrown weapon,adamantine shuriken,throwing star,,,disc: 1d6+1,,,adamantine,0,15,10,100,1,exotic,TRUE,
 weapon,thrown weapon,aklys,thonged club,,,club: 1d6,,,wood,75,5,150,4,16,standard,TRUE,
 weapon,thrown weapon,boomerang,throwing stick,"A flat throwing weapon made of wood, often used for hunting.",,disc: 1d7,,,wood,25,10,50,20,15,standard,TRUE,
 weapon,thrown weapon,chakram,throwing disc,,,disc: 1d8,,,iron,25,5,50,10,15,standard,TRUE,
@@ -628,17 +892,28 @@ weapon,thrown weapon,Chaoshammer,,,,hammer: 2d4,,,iron,0,0,1000,1200,1,artifact,
 weapon,thrown weapon,dagger,,"A long iron knife with a sharp tip, weighted for throwing.",,light blade: 1d4,,,iron,50,5,100,4,25,standard,TRUE,
 weapon,thrown weapon,dart,,A small missile with a pointed tip meant for throwing.,,dart: 1d3,,,iron,5,1,10,2,55,standard,TRUE,
 weapon,thrown weapon,drow dagger,glossy dagger,,,light blade: 1d5,,,mithril,50,10,100,5,4,standard,TRUE,
+weapon,thrown weapon,elven chakram,runed disc,"A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.",,disc: 1d8+1,,,wood,20,10,40,12,4,standard,TRUE,
 weapon,thrown weapon,elven dagger,runed dagger,This high-quality elven manufactured dagger is perfectly weighted for throwing.,,light blade: 1d5,,,wood,50,10,100,5,8,standard,TRUE,
 weapon,thrown weapon,frag grenade,metal pineapple,,,firearms: 0,,,iron,150,15,50,100,0,standard,TRUE,
+weapon,thrown weapon,frisbee,,A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.,,disc: 1d2,,,plastic,0,10,20,3,0,standard,TRUE,
 weapon,thrown weapon,gas grenade,metal canister,,,firearms: 0,,,iron,150,15,50,150,0,standard,TRUE,
+weapon,thrown weapon,gold chakram,throwing disc,,,disc: 1d8,,,gold,25,15,50,80,2,standard,TRUE,
+weapon,thrown weapon,gold dagger,,,,light blade: 1d4,,,gold,50,15,100,32,2,standard,TRUE,
 weapon,thrown weapon,hatchet,throwing axe,,,axe: 1d6,,,iron,175,5,350,6,15,standard,TRUE,
 weapon,thrown weapon,horseshoe,,,,disc: 1d5,,,iron,125,10,250,5,15,standard,TRUE,
 weapon,thrown weapon,javelin,throwing spear,This is a light spear designed to be thrown by hand.,,spear: 1d6,,,iron,100,5,200,3,10,standard,TRUE,
 weapon,thrown weapon,magic horseshoe,horseshoe,,,disc: 1d10,,,iron,250,50,250,50,2,standard,TRUE,
 weapon,thrown weapon,mithril dagger,,,,light blade: 1d4+1,,,mithril,25,25,50,40,2,standard,TRUE,
 weapon,thrown weapon,mithril dart,,,,dart: 1d3+1,,,mithril,5,2,5,10,2,standard,TRUE,
+weapon,thrown weapon,mithril hatchet,throwing axe,,,axe: 1d6+1,,,mithril,0,25,350,60,2,standard,TRUE,
+weapon,thrown weapon,mithril shuriken,throwing star,,,disc: 1d6+1,,,mithril,0,25,10,50,2,standard,TRUE,
+weapon,thrown weapon,orcish chakram,crude disc,"A crudely hammered throwing disc with a jagged, uneven rim, more likely to tear than to cut cleanly.",,disc: 1d8,,,iron,30,10,60,6,10,standard,TRUE,
 weapon,thrown weapon,orcish dagger,crude dagger,This crudely made blade is still an effective throwing weapon.,,light blade: 1d3,,,iron,50,10,100,3,10,standard,TRUE,
 weapon,thrown weapon,poison dart,,A small missile with a reservoir of liquid delivered through a hollow pointed tip.,,dart: 1d2,,,iron,5,2,15,4,15,standard,TRUE,
+weapon,thrown weapon,rose dagger,,,,light blade: 1d4,,,gold,50,15,100,48,1,standard,TRUE,
+weapon,thrown weapon,rose hatchet,throwing axe,,,axe: 1d6,,,gold,175,15,350,72,1,standard,TRUE,
+weapon,thrown weapon,rose ring,throwing disc,"A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.",,disc: 1d8,,,gold,25,15,50,120,1,standard,TRUE,
 weapon,thrown weapon,shuriken,throwing star,"A sharp metal throwing weapon, smaller than a hand and shaped like a star.",,disc: 1d6,,,iron,5,5,10,5,35,standard,TRUE,
 weapon,thrown weapon,silver dagger,,,,light blade: 1d4,,,silver,60,15,120,20,2,standard,TRUE,
 weapon,thrown weapon,stick of dynamite,plastic stick,"A stick of highly explosive material, with a short fuse on one end.",,firearms: 0,,,plastic,0,25,100,300,0,standard,TRUE,
+weapon,thrown weapon,Sudarshana Chakra,,"Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.",,disc: 1d10,,,gold,0,0,150,1400,1,artifact,TRUE,

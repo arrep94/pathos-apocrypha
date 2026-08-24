@@ -87,6 +87,16 @@ namespace Pathos
       AddRecipe(Entities.wax_golem, Materials.wax, Items.wax_candle, Items.magic_candle);
 
       AddRecipe(Entities.wood_golem, Materials.wood, Items.quarterstaff, Items.chest);
+      // >>> GENERATED RECIPES >>>
+      AddRecipe(Entities.tin_golem, Materials.tin, Items.tin);
+
+      AddRecipe(Entities.silver_golem, Materials.silver,
+        Items.silver_long_sword, Items.silver_axe, Items.silver_dagger, Items.silver_mace, Items.silver_sabre,
+        Items.silver_short_sword, Items.silver_spear, Items.silver_twohanded_sword, Items.silver_rapier,
+        Items.silver_heavy_hammer, Items.silver_lance);
+
+      AddRecipe(Entities.bronze_golem, Materials.copper, Items.bronze_plate_mail, Items.bronze_bell);
+      // <<< GENERATED RECIPES <<<
     }
 #endif
   }

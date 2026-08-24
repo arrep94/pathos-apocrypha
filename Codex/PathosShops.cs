@@ -79,7 +79,7 @@ namespace Pathos
       //  () => new[] { Stocks.food, Stocks.gem },
       //  () => Stocks.food.ItemList.Where(I => I.Rarity > 0 && I.Material == Material.Animal).Union(new Item[] { Items.animal_corpse }));
 
-      general_store = AddShop("general store", Glyphs.general_stock, Rarity: 44,
+      general_store = AddShop("general store", Glyphs.general_stock, Rarity: 40,
         () => Stocks.List,
         () => Items.List.Where(I => I.Rarity > 0 || (!I.Grade.Unique && I.IsAbolitionCandidate())));
 
@@ -119,7 +119,7 @@ namespace Pathos
         () => [Stocks.tool, Stocks.gem],
         () => Stocks.tool.Items.Where(I => I.Rarity > 0));
 
-      rare_books = AddShop("rare books", Glyphs.book_stock, Rarity: 3,
+      rare_books = AddShop("rare books", Glyphs.book_stock, Rarity: 7,
         () => [Stocks.book, Stocks.gem],
         () => Stocks.book.Items.Where(I => I.Rarity > 0));
 

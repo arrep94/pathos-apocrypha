@@ -1926,11 +1926,6 @@ namespace Pathos
          .SetResistance(Elements.petrify);
       });
 
-      CodexRecruiter.Enrol(() =>
-      {
-        foreach (var Amulet in Stocks.amulet.Items.Where(R => R != amulet_of_nada && !R.Grade.Unique))
-          Register.Edit(Amulet).SetDowngradeItem(amulet_of_nada);
-      });
       #endregion
 
       #region armour.
@@ -4353,11 +4348,1457 @@ namespace Pathos
         AssignBookSpell(I, Codex.Spells.wizard_lock);
       });
 
-      CodexRecruiter.Enrol(() =>
+      // >>> GENERATED BOOKS >>>
+
+      book_of_stone_to_flesh = AddBook("book of stone to flesh", I =>
       {
-        foreach (var Book in Stocks.book.Items.Where(B => B != book_of_blank_paper && !B.Grade.Unique))
-          Register.Edit(Book).SetDowngradeItem(book_of_blank_paper);
+        I.Description = null;
+        I.SetAppearance("granite book", null);
+        I.Glyph = Glyphs.granite_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.stone_to_flesh);
       });
+
+      book_of_clear_sight = AddBook("book of clear sight", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("crystal book", null);
+        I.Glyph = Glyphs.crystal_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.clear_sight);
+      });
+
+      book_of_danger_sense = AddBook("book of danger sense", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("brass bound book", null);
+        I.Glyph = Glyphs.brass_bound_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.danger_sense);
+      });
+
+      book_of_mirror_ward = AddBook("book of mirror ward", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("argent book", null);
+        I.Glyph = Glyphs.argent_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.mirror_ward);
+      });
+
+      book_of_planar_anchor = AddBook("book of planar anchor", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("starlit book", null);
+        I.Glyph = Glyphs.starlit_book;
+        I.Rarity = 13;
+        AssignBookSpell(I, Codex.Spells.planar_anchor);
+      });
+
+      book_of_hexbind = AddBook("book of hexbind", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("blackened book", null);
+        I.Glyph = Glyphs.blackened_book;
+        I.Rarity = 10;
+        AssignBookSpell(I, Codex.Spells.hexbind);
+      });
+
+      book_of_blade_blessing = AddBook("book of blade blessing", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("gilded book", null);
+        I.Glyph = Glyphs.gilded_book;
+        I.Rarity = 14;
+        AssignBookSpell(I, Codex.Spells.blade_blessing);
+      });
+
+      book_of_atonement = AddBook("book of atonement", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("ivory book", null);
+        I.Glyph = Glyphs.ivory_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.atonement);
+      });
+
+      book_of_rally_cry = AddBook("book of rally cry", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("crimson book", null);
+        I.Glyph = Glyphs.crimson_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.rally_cry);
+      });
+
+      book_of_chromatic_orb = AddBook("book of chromatic orb", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("prismatic book", null);
+        I.Glyph = Glyphs.prismatic_book;
+        I.Rarity = 13;
+        AssignBookSpell(I, Codex.Spells.chromatic_orb);
+      });
+
+      book_of_prismatic_spray = AddBook("book of prismatic spray", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("opal book", null);
+        I.Glyph = Glyphs.opal_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.prismatic_spray);
+      });
+
+      book_of_hold_monster = AddBook("book of hold monster", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("iron bound book", null);
+        I.Glyph = Glyphs.iron_bound_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.hold_monster);
+      });
+
+      book_of_concussive_blast = AddBook("book of concussive blast", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("thunderous book", null);
+        I.Glyph = Glyphs.thunderous_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.concussive_blast);
+      });
+
+      book_of_death_ward = AddBook("book of death ward", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("bone bound book", null);
+        I.Glyph = Glyphs.bone_bound_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.death_ward);
+      });
+
+      book_of_stoneskin = AddBook("book of stoneskin", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("slate book", null);
+        I.Glyph = Glyphs.slate_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.stoneskin);
+      });
+
+      book_of_displacement = AddBook("book of displacement", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("shimmering book", null);
+        I.Glyph = Glyphs.shimmering_book;
+        I.Rarity = 14;
+        AssignBookSpell(I, Codex.Spells.displacement);
+      });
+
+      book_of_discord = AddBook("book of discord", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("cracked book", null);
+        I.Glyph = Glyphs.cracked_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.discord);
+      });
+
+      book_of_warning_ward = AddBook("book of warning ward", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("ashen book", null);
+        I.Glyph = Glyphs.ashen_book;
+        I.Rarity = 8;
+        AssignBookSpell(I, Codex.Spells.warning_ward);
+      });
+
+      book_of_owl_eyes = AddBook("book of owl eyes", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("charcoal book", null);
+        I.Glyph = Glyphs.charcoal_book;
+        I.Rarity = 8;
+        AssignBookSpell(I, Codex.Spells.owl_eyes);
+      });
+
+      book_of_augury = AddBook("book of augury", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("sepia book", null);
+        I.Glyph = Glyphs.sepia_book;
+        I.Rarity = 8;
+        AssignBookSpell(I, Codex.Spells.augury);
+      });
+
+      book_of_keen_search = AddBook("book of keen search", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("hazel book", null);
+        I.Glyph = Glyphs.hazel_book;
+        I.Rarity = 11;
+        AssignBookSpell(I, Codex.Spells.keen_search);
+      });
+
+      book_of_find_traps = AddBook("book of find traps", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("russet book", null);
+        I.Glyph = Glyphs.russet_book;
+        I.Rarity = 11;
+        AssignBookSpell(I, Codex.Spells.find_traps);
+      });
+
+      book_of_detect_undead = AddBook("book of detect undead", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("obsidian book", null);
+        I.Glyph = Glyphs.obsidian_book;
+        I.Rarity = 11;
+        AssignBookSpell(I, Codex.Spells.detect_undead);
+      });
+
+      book_of_sense_curse = AddBook("book of sense curse", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("onyx book", null);
+        I.Glyph = Glyphs.onyx_book;
+        I.Rarity = 14;
+        AssignBookSpell(I, Codex.Spells.sense_curse);
+      });
+
+      book_of_revelation = AddBook("book of revelation", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("ancient book", null);
+        I.Glyph = Glyphs.ancient_book;
+        I.Rarity = 14;
+        AssignBookSpell(I, Codex.Spells.revelation);
+      });
+
+      book_of_find_doors = AddBook("book of find doors", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("brass book", null);
+        I.Glyph = Glyphs.brass_book;
+        I.Rarity = 14;
+        AssignBookSpell(I, Codex.Spells.find_doors);
+      });
+
+      book_of_detect_metal = AddBook("book of detect metal", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("antique book", null);
+        I.Glyph = Glyphs.antique_book;
+        I.Rarity = 14;
+        AssignBookSpell(I, Codex.Spells.detect_metal);
+      });
+
+      book_of_mind_ken = AddBook("book of mind ken", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("cobalt book", null);
+        I.Glyph = Glyphs.cobalt_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.mind_ken);
+      });
+
+      book_of_foreknowledge = AddBook("book of foreknowledge", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("opaline book", null);
+        I.Glyph = Glyphs.opaline_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.foreknowledge);
+      });
+
+      book_of_true_appraisal = AddBook("book of true appraisal", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("arcane book", null);
+        I.Glyph = Glyphs.arcane_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.true_appraisal);
+      });
+
+      book_of_oracles_eye = AddBook("book of oracle's eye", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("sapphire book", null);
+        I.Glyph = Glyphs.sapphire_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.oracles_eye);
+      });
+
+      book_of_premonition = AddBook("book of premonition", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("topaz book", null);
+        I.Glyph = Glyphs.topaz_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.premonition);
+      });
+
+      book_of_world_vision = AddBook("book of world vision", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("runed book", null);
+        I.Glyph = Glyphs.runed_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.world_vision);
+      });
+
+      book_of_hex = AddBook("book of hex", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("sable book", null);
+        I.Glyph = Glyphs.sable_book;
+        I.Rarity = 8;
+        AssignBookSpell(I, Codex.Spells.hex);
+      });
+
+      book_of_daze = AddBook("book of daze", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("murmuring book", null);
+        I.Glyph = Glyphs.murmuring_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.daze);
+      });
+
+      book_of_swoon = AddBook("book of swoon", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("hollow book", null);
+        I.Glyph = Glyphs.hollow_book;
+        I.Rarity = 11;
+        AssignBookSpell(I, Codex.Spells.swoon);
+      });
+
+      book_of_calm = AddBook("book of calm", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("banded book", null);
+        I.Glyph = Glyphs.banded_book;
+        I.Rarity = 10;
+        AssignBookSpell(I, Codex.Spells.calm);
+      });
+
+      book_of_hideous_laughter = AddBook("book of hideous laughter", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("moth eaten book", null);
+        I.Glyph = Glyphs.moth_eaten_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.hideous_laughter);
+      });
+
+      book_of_psychic_shove = AddBook("book of psychic shove", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("battered book", null);
+        I.Glyph = Glyphs.battered_book;
+        I.Rarity = 13;
+        AssignBookSpell(I, Codex.Spells.psychic_shove);
+      });
+
+      book_of_battle_fury = AddBook("book of battle fury", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("beaded book", null);
+        I.Glyph = Glyphs.beaded_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.battle_fury);
+      });
+
+      book_of_tongue_tied = AddBook("book of tongue tied", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("veiled book", null);
+        I.Glyph = Glyphs.veiled_book;
+        I.Rarity = 14;
+        AssignBookSpell(I, Codex.Spells.tongue_tied);
+      });
+
+      book_of_grasping_mind = AddBook("book of grasping mind", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("jewelled book", null);
+        I.Glyph = Glyphs.jewelled_book;
+        I.Rarity = 17;
+        AssignBookSpell(I, Codex.Spells.grasping_mind);
+      });
+
+      book_of_mind_spike = AddBook("book of mind spike", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("birch book", null);
+        I.Glyph = Glyphs.birch_book;
+        I.Rarity = 18;
+        AssignBookSpell(I, Codex.Spells.mind_spike);
+      });
+
+      book_of_iron_will = AddBook("book of iron will", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("amber book", null);
+        I.Glyph = Glyphs.amber_book;
+        I.Rarity = 15;
+        AssignBookSpell(I, Codex.Spells.iron_will);
+      });
+
+      book_of_hold_person = AddBook("book of hold person", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("black bound book", null);
+        I.Glyph = Glyphs.black_bound_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.hold_person);
+      });
+
+      book_of_mind_link = AddBook("book of mind link", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("jade book", null);
+        I.Glyph = Glyphs.jade_book;
+        I.Rarity = 19;
+        AssignBookSpell(I, Codex.Spells.mind_link);
+      });
+
+      book_of_clouded_mind = AddBook("book of clouded mind", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("silk book", null);
+        I.Glyph = Glyphs.silk_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.clouded_mind);
+      });
+
+      book_of_song_of_discord = AddBook("book of song of discord", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("chained book", null);
+        I.Glyph = Glyphs.chained_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.song_of_discord);
+      });
+
+      book_of_creeping_palsy = AddBook("book of creeping palsy", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("wormwood book", null);
+        I.Glyph = Glyphs.wormwood_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.creeping_palsy);
+      });
+
+      book_of_dominate_mind = AddBook("book of dominate mind", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("bloodstained book", null);
+        I.Glyph = Glyphs.bloodstained_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.dominate_mind);
+      });
+
+      book_of_mindrend = AddBook("book of mindrend", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("whispering book", null);
+        I.Glyph = Glyphs.whispering_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.mindrend);
+      });
+
+      book_of_bless = AddBook("book of bless", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("bone white book", null);
+        I.Glyph = Glyphs.bone_white_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.bless);
+      });
+
+      book_of_sense_the_restless = AddBook("book of sense the restless", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("bone book", null);
+        I.Glyph = Glyphs.bone_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.sense_the_restless);
+      });
+
+      book_of_command = AddBook("book of command", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("brass clasped book", null);
+        I.Glyph = Glyphs.brass_clasped_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.command);
+      });
+
+      book_of_bane = AddBook("book of bane", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("brittle book", null);
+        I.Glyph = Glyphs.brittle_book;
+        I.Rarity = 8;
+        AssignBookSpell(I, Codex.Spells.bane);
+      });
+
+      book_of_sanctuary = AddBook("book of sanctuary", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("marble book", null);
+        I.Glyph = Glyphs.marble_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.sanctuary);
+      });
+
+      book_of_commune = AddBook("book of commune", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("bronzed book", null);
+        I.Glyph = Glyphs.bronzed_book;
+        I.Rarity = 10;
+        AssignBookSpell(I, Codex.Spells.commune);
+      });
+
+      book_of_silence = AddBook("book of silence", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("muted book", null);
+        I.Glyph = Glyphs.muted_book;
+        I.Rarity = 11;
+        AssignBookSpell(I, Codex.Spells.silence);
+      });
+
+      book_of_freedom_of_movement = AddBook("book of freedom of movement", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("linen book", null);
+        I.Glyph = Glyphs.linen_book;
+        I.Rarity = 11;
+        AssignBookSpell(I, Codex.Spells.freedom_of_movement);
+      });
+
+      book_of_consecration = AddBook("book of consecration", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("consecrated book", null);
+        I.Glyph = Glyphs.consecrated_book;
+        I.Rarity = 13;
+        AssignBookSpell(I, Codex.Spells.consecration);
+      });
+
+      book_of_ward_of_return = AddBook("book of ward of return", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("pale book", null);
+        I.Glyph = Glyphs.pale_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.ward_of_return);
+      });
+
+      book_of_searing_light = AddBook("book of searing light", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("sunlit book", null);
+        I.Glyph = Glyphs.sunlit_book;
+        I.Rarity = 14;
+        AssignBookSpell(I, Codex.Spells.searing_light, Fireproof: true);
+      });
+
+      book_of_prayer = AddBook("book of prayer", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("psalm book", null);
+        I.Glyph = Glyphs.psalm_book;
+        I.Rarity = 13;
+        AssignBookSpell(I, Codex.Spells.prayer);
+      });
+
+      book_of_spirit_shield = AddBook("book of spirit shield", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("silken book", null);
+        I.Glyph = Glyphs.silken_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.spirit_shield);
+      });
+
+      book_of_holy_word = AddBook("book of holy word", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("buckled book", null);
+        I.Glyph = Glyphs.buckled_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.holy_word, Fireproof: true);
+      });
+
+      book_of_divine_favor = AddBook("book of divine favor", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("radiant book", null);
+        I.Glyph = Glyphs.radiant_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.divine_favor);
+      });
+
+      book_of_divine_intervention = AddBook("book of divine intervention", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("celestial book", null);
+        I.Glyph = Glyphs.celestial_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.divine_intervention);
+      });
+
+      book_of_caltrop_swarm = AddBook("book of caltrop swarm", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("rusted book", null);
+        I.Glyph = Glyphs.rusted_book;
+        I.Rarity = 26;
+        AssignBookSpell(I, Codex.Spells.caltrop_swarm);
+      });
+
+      book_of_unseen_hand = AddBook("book of unseen hand", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("gloved book", null);
+        I.Glyph = Glyphs.gloved_book;
+        I.Rarity = 26;
+        AssignBookSpell(I, Codex.Spells.unseen_hand);
+      });
+
+      book_of_web_snare = AddBook("book of web snare", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("burnished book", null);
+        I.Glyph = Glyphs.burnished_book;
+        I.Rarity = 24;
+        AssignBookSpell(I, Codex.Spells.web_snare);
+      });
+
+      book_of_entangling_vines = AddBook("book of entangling vines", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("mossy book", null);
+        I.Glyph = Glyphs.mossy_book;
+        I.Rarity = 24;
+        AssignBookSpell(I, Codex.Spells.entangling_vines);
+      });
+
+      book_of_conjure_homunculus = AddBook("book of conjure homunculus", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("clay bound book", null);
+        I.Glyph = Glyphs.clay_bound_book;
+        I.Rarity = 24;
+        AssignBookSpell(I, Codex.Spells.conjure_homunculus);
+      });
+
+      book_of_conjured_pit = AddBook("book of conjured pit", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("loam book", null);
+        I.Glyph = Glyphs.loam_book;
+        I.Rarity = 24;
+        AssignBookSpell(I, Codex.Spells.conjured_pit);
+      });
+
+      book_of_conjure_mount = AddBook("book of conjure mount", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("saddle book", null);
+        I.Glyph = Glyphs.saddle_book;
+        I.Rarity = 20;
+        AssignBookSpell(I, Codex.Spells.conjure_mount);
+      });
+
+      book_of_planar_swap = AddBook("book of planar swap", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("warped book", null);
+        I.Glyph = Glyphs.warped_book;
+        I.Rarity = 20;
+        AssignBookSpell(I, Codex.Spells.planar_swap);
+      });
+
+      book_of_conjure_boulder = AddBook("book of conjure boulder", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("charred book", null);
+        I.Glyph = Glyphs.charred_book;
+        I.Rarity = 20;
+        AssignBookSpell(I, Codex.Spells.conjure_boulder);
+      });
+
+      book_of_call_of_the_pack = AddBook("book of call of the pack", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("hide bound book", null);
+        I.Glyph = Glyphs.hide_bound_book;
+        I.Rarity = 20;
+        AssignBookSpell(I, Codex.Spells.call_of_the_pack);
+      });
+
+      book_of_wall_of_thorns = AddBook("book of wall of thorns", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("bramble book", null);
+        I.Glyph = Glyphs.bramble_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.wall_of_thorns);
+      });
+
+      book_of_conjure_guardian = AddBook("book of conjure guardian", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("basalt book", null);
+        I.Glyph = Glyphs.basalt_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.conjure_guardian);
+      });
+
+      book_of_repelling_ward = AddBook("book of repelling ward", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("gale book", null);
+        I.Glyph = Glyphs.gale_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.repelling_ward);
+      });
+
+      book_of_elemental_servant = AddBook("book of elemental servant", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("clasped book", null);
+        I.Glyph = Glyphs.clasped_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.elemental_servant);
+      });
+
+      book_of_binding_sphere = AddBook("book of binding sphere", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("crystalline book", null);
+        I.Glyph = Glyphs.crystalline_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.binding_sphere);
+      });
+
+      book_of_earthen_colossus = AddBook("book of earthen colossus", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("boulder bound book", null);
+        I.Glyph = Glyphs.boulder_bound_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.earthen_colossus);
+      });
+
+      book_of_simulacrum = AddBook("book of simulacrum", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("glass bound book", null);
+        I.Glyph = Glyphs.glass_bound_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.simulacrum);
+      });
+
+      book_of_gate = AddBook("book of gate", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("starless book", null);
+        I.Glyph = Glyphs.starless_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.gate);
+      });
+
+      book_of_sentinel_ward = AddBook("book of sentinel ward", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("coral book", null);
+        I.Glyph = Glyphs.coral_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.sentinel_ward);
+      });
+
+      book_of_hazard_sense = AddBook("book of hazard sense", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("corded book", null);
+        I.Glyph = Glyphs.corded_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.hazard_sense);
+      });
+
+      book_of_shimmer_shield = AddBook("book of shimmer shield", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("silvered book", null);
+        I.Glyph = Glyphs.silvered_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.shimmer_shield);
+      });
+
+      book_of_slipping_free = AddBook("book of slipping free", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("eelskin book", null);
+        I.Glyph = Glyphs.eelskin_book;
+        I.Rarity = 8;
+        AssignBookSpell(I, Codex.Spells.slipping_free);
+      });
+
+      book_of_freedom = AddBook("book of freedom", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("unbound book", null);
+        I.Glyph = Glyphs.unbound_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.freedom);
+      });
+
+      book_of_veil_of_shadows = AddBook("book of veil of shadows", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("umber book", null);
+        I.Glyph = Glyphs.umber_book;
+        I.Rarity = 8;
+        AssignBookSpell(I, Codex.Spells.veil_of_shadows);
+      });
+
+      book_of_inner_calm = AddBook("book of inner calm", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("dove grey book", null);
+        I.Glyph = Glyphs.dove_grey_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.inner_calm);
+      });
+
+      book_of_steadfast_ward = AddBook("book of steadfast ward", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("leaden book", null);
+        I.Glyph = Glyphs.leaden_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.steadfast_ward);
+      });
+
+      book_of_unbinding = AddBook("book of unbinding", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("notched book", null);
+        I.Glyph = Glyphs.notched_book;
+        I.Rarity = 13;
+        AssignBookSpell(I, Codex.Spells.unbinding);
+      });
+
+      book_of_blurred_form = AddBook("book of blurred form", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("quicksilver book", null);
+        I.Glyph = Glyphs.quicksilver_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.blurred_form);
+      });
+
+      book_of_disarming_ward = AddBook("book of disarming ward", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("storm wracked book", null);
+        I.Glyph = Glyphs.storm_wracked_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.disarming_ward);
+      });
+
+      book_of_repulsion = AddBook("book of repulsion", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("verdigris book", null);
+        I.Glyph = Glyphs.verdigris_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.repulsion);
+      });
+
+      book_of_guided_path = AddBook("book of guided path", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("compass bound book", null);
+        I.Glyph = Glyphs.compass_bound_book;
+        I.Rarity = 15;
+        AssignBookSpell(I, Codex.Spells.guided_path);
+      });
+
+      book_of_changeless_ward = AddBook("book of changeless ward", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("crumbling book", null);
+        I.Glyph = Glyphs.crumbling_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.changeless_ward);
+      });
+
+      book_of_neutralize_poison = AddBook("book of neutralize poison", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("olive branch book", null);
+        I.Glyph = Glyphs.olive_branch_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.neutralize_poison);
+      });
+
+      book_of_elemental_warding = AddBook("book of elemental warding", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("cut glass book", null);
+        I.Glyph = Glyphs.cut_glass_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.elemental_warding, Fireproof: true);
+      });
+
+      book_of_dispel_magic = AddBook("book of dispel magic", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("damascened book", null);
+        I.Glyph = Glyphs.damascened_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.dispel_magic);
+      });
+
+      book_of_undying_ward = AddBook("book of undying ward", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("phoenix down book", null);
+        I.Glyph = Glyphs.phoenix_down_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.undying_ward);
+      });
+
+      book_of_chill_grasp = AddBook("book of chill grasp", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("frostbitten book", null);
+        I.Glyph = Glyphs.frostbitten_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.chill_grasp);
+      });
+
+      book_of_false_life = AddBook("book of false life", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("waxen book", null);
+        I.Glyph = Glyphs.waxen_book;
+        I.Rarity = 7;
+        AssignBookSpell(I, Codex.Spells.false_life);
+      });
+
+      book_of_deathwatch = AddBook("book of deathwatch", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("sepulchral book", null);
+        I.Glyph = Glyphs.sepulchral_book;
+        I.Rarity = 8;
+        AssignBookSpell(I, Codex.Spells.deathwatch);
+      });
+
+      book_of_spectral_shroud = AddBook("book of spectral shroud", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("gossamer book", null);
+        I.Glyph = Glyphs.gossamer_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.spectral_shroud);
+      });
+
+      book_of_ray_of_enfeeblement = AddBook("book of ray of enfeeblement", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("wilted book", null);
+        I.Glyph = Glyphs.wilted_book;
+        I.Rarity = 10;
+        AssignBookSpell(I, Codex.Spells.ray_of_enfeeblement);
+      });
+
+      book_of_grave_rot = AddBook("book of grave rot", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("mildewed book", null);
+        I.Glyph = Glyphs.mildewed_book;
+        I.Rarity = 10;
+        AssignBookSpell(I, Codex.Spells.grave_rot);
+      });
+
+      book_of_spirit_leech = AddBook("book of spirit leech", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("sallow book", null);
+        I.Glyph = Glyphs.sallow_book;
+        I.Rarity = 13;
+        AssignBookSpell(I, Codex.Spells.spirit_leech);
+      });
+
+      book_of_contagion = AddBook("book of contagion", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("bilious book", null);
+        I.Glyph = Glyphs.bilious_book;
+        I.Rarity = 13;
+        AssignBookSpell(I, Codex.Spells.contagion);
+      });
+
+      book_of_banshee_wail = AddBook("book of banshee wail", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("keening book", null);
+        I.Glyph = Glyphs.keening_book;
+        I.Rarity = 14;
+        AssignBookSpell(I, Codex.Spells.banshee_wail);
+      });
+
+      book_of_whispers_of_madness = AddBook("book of whispers of madness", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("dog eared book", null);
+        I.Glyph = Glyphs.dog_eared_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.whispers_of_madness);
+      });
+
+      book_of_wither = AddBook("book of wither", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("withered book", null);
+        I.Glyph = Glyphs.withered_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.wither);
+      });
+
+      book_of_corpse_explosion = AddBook("book of corpse explosion", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("charnel book", null);
+        I.Glyph = Glyphs.charnel_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.corpse_explosion);
+      });
+
+      book_of_legion_of_bone = AddBook("book of legion of bone", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("ossuary book", null);
+        I.Glyph = Glyphs.ossuary_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.legion_of_bone);
+      });
+
+      book_of_reap = AddBook("book of reap", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("dusk blue book", null);
+        I.Glyph = Glyphs.dusk_blue_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.reap);
+      });
+
+      book_of_vampiric_feast = AddBook("book of vampiric feast", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("sanguine book", null);
+        I.Glyph = Glyphs.sanguine_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.vampiric_feast);
+      });
+
+      book_of_deaths_bargain = AddBook("book of death's bargain", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("grave bound book", null);
+        I.Glyph = Glyphs.grave_bound_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.deaths_bargain);
+      });
+
+      book_of_black_plague = AddBook("book of black plague", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("plague ridden book", null);
+        I.Glyph = Glyphs.plague_ridden_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.black_plague);
+      });
+
+      book_of_spark_bolt = AddBook("book of spark bolt", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("static book", null);
+        I.Glyph = Glyphs.static_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.spark_bolt, Fireproof: true);
+      });
+
+      book_of_ember_lance = AddBook("book of ember lance", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("cindered book", null);
+        I.Glyph = Glyphs.cindered_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.ember_lance, Fireproof: true);
+      });
+
+      book_of_frost_breath = AddBook("book of frost breath", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("rimed book", null);
+        I.Glyph = Glyphs.rimed_book;
+        I.Rarity = 8;
+        AssignBookSpell(I, Codex.Spells.frost_breath, Fireproof: true);
+      });
+
+      book_of_arcing_bolt = AddBook("book of arcing bolt", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("voltaic book", null);
+        I.Glyph = Glyphs.voltaic_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.arcing_bolt, Fireproof: true);
+      });
+
+      book_of_timed_combustion = AddBook("book of timed combustion", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("cinder book", null);
+        I.Glyph = Glyphs.cinder_book;
+        I.Rarity = 11;
+        AssignBookSpell(I, Codex.Spells.timed_combustion, Fireproof: true);
+      });
+
+      book_of_scalding_cloud = AddBook("book of scalding cloud", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("scalded book", null);
+        I.Glyph = Glyphs.scalded_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.scalding_cloud, Fireproof: true);
+      });
+
+      book_of_thunderclap = AddBook("book of thunderclap", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("riveted book", null);
+        I.Glyph = Glyphs.riveted_book;
+        I.Rarity = 7;
+        AssignBookSpell(I, Codex.Spells.thunderclap, Fireproof: true);
+      });
+
+      book_of_corroding_ray = AddBook("book of corroding ray", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("pitted book", null);
+        I.Glyph = Glyphs.pitted_book;
+        I.Rarity = 10;
+        AssignBookSpell(I, Codex.Spells.corroding_ray, Fireproof: true);
+      });
+
+      book_of_sunburst_smite = AddBook("book of sunburst smite", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("solar book", null);
+        I.Glyph = Glyphs.solar_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.sunburst_smite, Fireproof: true);
+      });
+
+      book_of_black_ice_patch = AddBook("book of black ice patch", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("hoarfrost book", null);
+        I.Glyph = Glyphs.hoarfrost_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.black_ice_patch, Fireproof: true);
+      });
+
+      book_of_wildfire_brand = AddBook("book of wildfire brand", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("ember book", null);
+        I.Glyph = Glyphs.ember_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.wildfire_brand, Fireproof: true);
+      });
+
+      book_of_crimson_ichor_lance = AddBook("book of crimson ichor lance", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("acrid book", null);
+        I.Glyph = Glyphs.acrid_book;
+        I.Rarity = 10;
+        AssignBookSpell(I, Codex.Spells.crimson_ichor_lance, Fireproof: true);
+      });
+
+      book_of_slick_detonation = AddBook("book of slick detonation", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("sooty book", null);
+        I.Glyph = Glyphs.sooty_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.slick_detonation, Fireproof: true);
+      });
+
+      book_of_arc_conduit = AddBook("book of arc conduit", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("welded book", null);
+        I.Glyph = Glyphs.welded_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.arc_conduit, Fireproof: true);
+      });
+
+      book_of_acid_splash = AddBook("book of acid splash", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("pocked book", null);
+        I.Glyph = Glyphs.pocked_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.acid_splash, Fireproof: true);
+      });
+
+      book_of_entropic_siphon = AddBook("book of entropic siphon", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("etched book", null);
+        I.Glyph = Glyphs.etched_book;
+        I.Rarity = 11;
+        AssignBookSpell(I, Codex.Spells.entropic_siphon, Fireproof: true);
+      });
+
+      book_of_glacial_spike = AddBook("book of glacial spike", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("frosted book", null);
+        I.Glyph = Glyphs.frosted_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.glacial_spike, Fireproof: true);
+      });
+
+      book_of_withering_ray = AddBook("book of withering ray", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("sundered book", null);
+        I.Glyph = Glyphs.sundered_book;
+        I.Rarity = 11;
+        AssignBookSpell(I, Codex.Spells.withering_ray, Fireproof: true);
+      });
+
+      book_of_juggernaut_ray = AddBook("book of juggernaut ray", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("shrapnel book", null);
+        I.Glyph = Glyphs.shrapnel_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.juggernaut_ray, Fireproof: true);
+      });
+
+      book_of_starfall = AddBook("book of starfall", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("incandescent book", null);
+        I.Glyph = Glyphs.incandescent_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.starfall, Fireproof: true);
+      });
+
+      book_of_chain_lightning = AddBook("book of chain lightning", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("arcing book", null);
+        I.Glyph = Glyphs.arcing_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.chain_lightning, Fireproof: true);
+      });
+
+      book_of_meteoric_cataclysm = AddBook("book of meteoric cataclysm", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("cratered book", null);
+        I.Glyph = Glyphs.cratered_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.meteoric_cataclysm, Fireproof: true);
+      });
+
+      book_of_wall_breach = AddBook("book of wall breach", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("limestone book", null);
+        I.Glyph = Glyphs.limestone_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.wall_breach);
+      });
+
+      book_of_causeway = AddBook("book of causeway", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("quartzite book", null);
+        I.Glyph = Glyphs.quartzite_book;
+        I.Rarity = 10;
+        AssignBookSpell(I, Codex.Spells.causeway);
+      });
+
+      book_of_ironbind_door = AddBook("book of ironbind door", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("schist book", null);
+        I.Glyph = Glyphs.schist_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.ironbind_door);
+      });
+
+      book_of_porters_reach = AddBook("book of porter's reach", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("gneiss book", null);
+        I.Glyph = Glyphs.gneiss_book;
+        I.Rarity = 5;
+        AssignBookSpell(I, Codex.Spells.porters_reach);
+      });
+
+      book_of_sunder_gear = AddBook("book of sunder gear", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("flint book", null);
+        I.Glyph = Glyphs.flint_book;
+        I.Rarity = 13;
+        AssignBookSpell(I, Codex.Spells.sunder_gear);
+      });
+
+      book_of_gilding_touch = AddBook("book of gilding touch", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("cobblestone book", null);
+        I.Glyph = Glyphs.cobblestone_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.gilding_touch);
+      });
+
+      book_of_claybind_touch = AddBook("book of claybind touch", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("millstone book", null);
+        I.Glyph = Glyphs.millstone_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.claybind_touch);
+      });
+
+      book_of_arcane_whetstone = AddBook("book of arcane whetstone", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("alabaster book", null);
+        I.Glyph = Glyphs.alabaster_book;
+        I.Rarity = 14;
+        AssignBookSpell(I, Codex.Spells.arcane_whetstone);
+      });
+
+      book_of_arcane_blight = AddBook("book of arcane blight", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("chalkstone book", null);
+        I.Glyph = Glyphs.chalkstone_book;
+        I.Rarity = 14;
+        AssignBookSpell(I, Codex.Spells.arcane_blight);
+      });
+
+      book_of_petrifying_touch = AddBook("book of petrifying touch", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("graphite book", null);
+        I.Glyph = Glyphs.graphite_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.petrifying_touch, Fireproof: true);
+      });
+
+      book_of_shrink = AddBook("book of shrink", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("pumice book", null);
+        I.Glyph = Glyphs.pumice_book;
+        I.Rarity = 13;
+        AssignBookSpell(I, Codex.Spells.shrink);
+      });
+
+      book_of_enlarge = AddBook("book of enlarge", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("shale book", null);
+        I.Glyph = Glyphs.shale_book;
+        I.Rarity = 13;
+        AssignBookSpell(I, Codex.Spells.enlarge);
+      });
+
+      book_of_telekinetic_shove = AddBook("book of telekinetic shove", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("gravel book", null);
+        I.Glyph = Glyphs.gravel_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.telekinetic_shove);
+      });
+
+      book_of_conjure_barricade = AddBook("book of conjure barricade", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("dolomite book", null);
+        I.Glyph = Glyphs.dolomite_book;
+        I.Rarity = 13;
+        AssignBookSpell(I, Codex.Spells.conjure_barricade, Fireproof: true);
+      });
+
+      book_of_gravity_well = AddBook("book of gravity well", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("feldspar book", null);
+        I.Glyph = Glyphs.feldspar_book;
+        I.Rarity = 12;
+        AssignBookSpell(I, Codex.Spells.gravity_well);
+      });
+
+      book_of_artificers_exchange = AddBook("book of artificer's exchange", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("mica book", null);
+        I.Glyph = Glyphs.mica_book;
+        I.Rarity = 16;
+        AssignBookSpell(I, Codex.Spells.artificers_exchange, Fireproof: true);
+      });
+
+      book_of_barring_ward = AddBook("book of barring ward", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("marlstone book", null);
+        I.Glyph = Glyphs.marlstone_book;
+        I.Rarity = 9;
+        AssignBookSpell(I, Codex.Spells.barring_ward);
+      });
+
+      book_of_transmuters_mastery = AddBook("book of transmuter's mastery", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("porphyry book", null);
+        I.Glyph = Glyphs.porphyry_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.transmuters_mastery);
+      });
+
+      book_of_harvest_of_souls = AddBook("book of harvest of souls", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("soul bound book", null);
+        I.Glyph = Glyphs.soul_bound_book;
+        I.Rarity = 6;
+        AssignBookSpell(I, Codex.Spells.harvest_of_souls);
+      });
+      // <<< GENERATED BOOKS <<<
       #endregion
 
       #region coin.
@@ -7153,11 +8594,6 @@ namespace Pathos
 
       SetUpgradeDowngradeChain(potion_of_healing, potion_of_extra_healing, potion_of_full_healing);
 
-      CodexRecruiter.Enrol(() =>
-      {
-        foreach (var Potion in Stocks.potion.Items.Where(P => P != potion_of_water && !P.Grade.Unique && P.DowngradeItem == null))
-          Register.Edit(Potion).SetDowngradeItem(potion_of_water);
-      });
       #endregion
 
       #region ring.
@@ -7963,11 +9399,6 @@ namespace Pathos
          .SetTalent(Properties.warning);
       });
 
-      CodexRecruiter.Enrol(() =>
-      {
-        foreach (var Ring in Stocks.ring.Items.Where(R => R.Type == ItemType.Ring && R != ring_of_naught && !R.Grade.Unique))
-          Register.Edit(Ring).SetDowngradeItem(ring_of_naught);
-      });
       #endregion
 
       #region earrings.
@@ -8037,11 +9468,6 @@ namespace Pathos
         });
       });
 
-      CodexRecruiter.Enrol(() =>
-      {
-        foreach (var Earring in Stocks.ring.Items.Where(R => R.Type == ItemType.Earwear && R != costume_earrings && !R.Grade.Unique))
-          Register.Edit(Earring).SetDowngradeItem(costume_earrings);
-      });
       #endregion
 
       #region scroll.
@@ -9361,11 +10787,6 @@ namespace Pathos
         });
       });
 
-      CodexRecruiter.Enrol(() =>
-      {
-        foreach (var Scroll in Stocks.scroll.Items.Where(B => B != scroll_of_blank_paper && !B.Grade.Unique))
-          Register.Edit(Scroll).SetDowngradeItem(scroll_of_blank_paper);
-      });
       #endregion
 
       #region tool.
@@ -12156,11 +13577,6 @@ namespace Pathos
 
       SetUpgradeDowngradePair(wand_of_healing, wand_of_extra_healing);
 
-      CodexRecruiter.Enrol(() =>
-      {
-        foreach (var Wand in Stocks.wand.Items.Where(W => W != wand_of_nothing && W.DowngradeItem == null && !W.Grade.Unique))
-          Register.Edit(Wand).SetDowngradeItem(wand_of_nothing);
-      });
       #endregion
 
       #region weapon.
@@ -15267,6 +16683,2600 @@ namespace Pathos
           throw new Exception("Abolition replacement not implemented:" + Environment.NewLine + MissingAbolitionReplacementArray.Select(I => I.Name).AsSeparatedText(Environment.NewLine));
       });
 
+      // >>> GENERATED ITEMS >>>
+      naginata = AddReachWeapon("naginata", I =>
+      {
+        I.Description = "A curved single-edged blade mounted on a long oaken shaft, prized by the warrior monks of the far east.";
+        I.SetAppearance("curved polearm", null);
+        I.Glyph = Glyphs.naginata;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 4;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(700);
+        I.Material = Materials.iron;
+        I.Essence = WeaponEssence1;
+        I.Price = Gold.FromCoins(30);
+        I.AddObviousIngestUse(Motions.eat, 350, Delay.FromTurns(30), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetTwoHandedMomentumWeapon(Skills.polearm, null, Elements.physical, DamageType.Slash, 1.d8());
+      });
+
+      Stormbringer = AddMeleeWeapon("Stormbringer", I =>
+      {
+        I.Description = "A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.";
+        I.Glyph = Glyphs.Stormbringer;
+        I.Sonic = Sonics.weapon;
+        I.Grade = Grades.artifact;
+        I.Series = null;
+        I.Rarity = ArtifactRarity;
+        I.DefaultSanctity = Sanctities.Cursed;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(500);
+        I.Material = Materials.iron;
+        I.Essence = ArtifactEssence;
+        I.Price = Gold.FromCoins(1600);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon)
+         .SetTalent(Properties.berserking)
+         .SetCrippleAttribute(Attributes.wisdom);
+        var W = I.SetTwoHandedWeapon(Skills.heavy_blade, null, Elements.physical, DamageType.Slash, 2.d8(), D =>
+        {
+          D.WithSourceSanctity
+          (
+            B => B.DrainLife(Elements.drain, 2.d6()),
+            U => U.DrainLife(Elements.drain, 1.d8()),
+            C => C.Backfire(F => F.DrainLife(Elements.drain, 1.d6()))
+          );
+        });
+        W.AddVersus(Kinds.Living, Elements.drain, 2.d4());
+      });
+
+      Mournblade = AddMeleeWeapon("Mournblade", I =>
+      {
+        I.Description = "Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.";
+        I.Glyph = Glyphs.Mournblade;
+        I.Sonic = Sonics.weapon;
+        I.Grade = Grades.artifact;
+        I.Series = null;
+        I.Rarity = ArtifactRarity;
+        I.DefaultSanctity = Sanctities.Cursed;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(420);
+        I.Material = Materials.iron;
+        I.Essence = ArtifactEssence;
+        I.Price = Gold.FromCoins(1500);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon)
+         .SetTalent(Properties.berserking)
+         .SetCrippleAttribute(Attributes.charisma);
+        var W = I.SetOneHandedWeapon(Skills.heavy_blade, null, Elements.physical, DamageType.Slash, 2.d6(), D =>
+        {
+          D.WithSourceSanctity
+          (
+            B => B.DrainMana(Elements.drain, 2.d6()),
+            U => U.DrainMana(Elements.drain, 1.d8()),
+            C => C.Backfire(F => F.DrainMana(Elements.drain, 1.d6()))
+          );
+          D.WhenChance(Chance.OneIn20, T =>
+          {
+            T.WithSourceSanctity
+            (
+              B => B.CharmEntity(Elements.magical, Delay.FromTurns(30000), Kinds.Living.ToArray()),
+              U => { },
+              C => { }
+            );
+          });
+        });
+        W.AddVersus(Kinds.Undead, Elements.drain, 2.d4());
+      });
+
+      Gungir = AddReachWeapon("Gungnir", I =>
+      {
+        I.Description = "Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.";
+        I.Glyph = Glyphs.Gungir;
+        I.Sonic = Sonics.weapon;
+        I.Grade = Grades.artifact;
+        I.Series = null;
+        I.Rarity = ArtifactRarity;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(500);
+        I.Material = Materials.iron;
+        I.Essence = ArtifactEssence;
+        I.Price = Gold.FromCoins(1400);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        var W = I.SetTwoHandedMomentumWeapon(Skills.spear, null, Elements.physical, DamageType.Pierce, 2.d6() + 2);
+        W.AttackModifier = Modifier.Plus5;
+        W.AddVersus([Kinds.giant], Elements.physical, 2.d6());
+        I.AddBlastUse(Motions.zap, Delay.FromTurns(20), Sonics.magic, Use =>
+        {
+          Use.SetCast().Strike(Strikes.force, Dice.One)
+             .SetObjects()
+             .SetAudibility(5);
+          Use.Apply.HarmEntity(Elements.force, 2.d8());
+        });
+      });
+
+      Vajra = AddMeleeWeapon("Vajra", I =>
+      {
+        I.Description = "Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.";
+        I.Glyph = Glyphs.Vajra;
+        I.Sonic = Sonics.weapon;
+        I.Grade = Grades.artifact;
+        I.Series = null;
+        I.Rarity = ArtifactRarity;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(400);
+        I.Material = Materials.platinum;
+        I.Essence = ArtifactEssence;
+        I.Price = Gold.FromCoins(1300);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon)
+         .SetResistance(Elements.shock);
+        var W = I.SetOneHandedWeapon(Skills.mace, null, Elements.physical, DamageType.Bludgeon, 2.d4() + 2, D =>
+        {
+          D.WhenChance(Chance.OneIn4, T =>
+          {
+            T.HarmEntity(Elements.shock, 1.d8());
+            T.ApplyTransient(Properties.stunned, 1.d4() + 1);
+          });
+        });
+        W.AddVersus([Kinds.demon], Elements.shock, 2.d6());
+      });
+
+      Sudarshana_Chakra = AddThrownWeapon("Sudarshana Chakra", I =>
+      {
+        I.Description = "Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.";
+        I.Glyph = Glyphs.Sudarshana_Chakra;
+        I.Sonic = Sonics.weapon;
+        I.Grade = Grades.artifact;
+        I.BundleDice = Dice.One;
+        I.Series = null;
+        I.Rarity = ArtifactRarity;
+        I.DefaultSanctity = Sanctities.Blessed;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(150);
+        I.Material = Materials.gold;
+        I.Essence = ArtifactEssence;
+        I.Price = Gold.FromCoins(1400);
+        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.weapon);
+        var W = I.SetOneHandedWeapon(Skills.disc, Sonics.throw_object, Elements.physical, DamageType.Slash, 1.d10(), D =>
+        {
+          D.WhenChance(Chance.OneIn10, T => T.DecapitateEntity(Anatomies.head, Strikes.sever));
+        });
+        W.AddVersus([Kinds.demon], Elements.magical, 2.d6());
+      });
+
+      Shillelagh = AddMeleeWeapon("Shillelagh", I =>
+      {
+        I.Description = "A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.";
+        I.Glyph = Glyphs.Shillelagh;
+        I.Sonic = Sonics.weapon;
+        I.Grade = Grades.artifact;
+        I.Series = null;
+        I.Rarity = ArtifactRarity;
+        I.DefaultSanctity = Sanctities.Blessed;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(300);
+        I.Material = Materials.wood;
+        I.Essence = ArtifactEssence;
+        I.Price = Gold.FromCoins(1000);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon)
+         .SetDamageBoost()
+         .SetTalent(Properties.life_regeneration);
+        var W = I.SetOneHandedWeapon(Skills.club, null, Elements.physical, DamageType.Bludgeon, 1.d8() + 2, D => D.WhenChance(Chance.OneIn4, T =>
+        {
+          T.WithSourceSanctity
+          (
+            B => B.HealEntity(1.d6(), Modifier.Zero),
+            U => U.HealEntity(1.d4(), Modifier.Zero),
+            C => C.Backfire(F => F.HarmEntity(Elements.physical, 1.d4()))
+          );
+        }));
+        W.AddVersus([Kinds.golem, Kinds.robot], Elements.physical, 2.d6());
+      });
+
+      Runicorn_Horn = AddMeleeWeapon("Runicorn Horn", I =>
+      {
+        I.Description = "The spiral horn of a unicorn, its magic bound permanently into the artifact rather than spent in a single burst.";
+        I.Glyph = Glyphs.Runicorn_Horn;
+        I.Sonic = Sonics.weapon;
+        I.Grade = Grades.artifact;
+        I.Series = null;
+        I.Rarity = ArtifactRarity;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(250);
+        I.Material = Materials.bone;
+        I.Essence = ArtifactEssence;
+        I.Price = Gold.FromCoins(1300);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon)
+         .SetTalent(Properties.see_invisible);
+        var W = I.SetTwoHandedWeapon(Skills.spear, null, Elements.physical, DamageType.Pierce, 1.d12() + 2);
+        W.AddVersus(Kinds.Undead, Elements.magical, 2.d6());
+        I.AddObviousUse(Motions.zap, Delay.FromTurns(10), Sonics.magic, Use =>
+        {
+          Use.SetCast().Strike(Strikes.boost, Dice.One);
+          Use.Apply.WithSourceSanctity
+          (
+            B =>
+            {
+              B.RemoveTransient(Properties.blindness, Properties.deafness, Properties.inebriation, Properties.hallucination, Properties.confusion, Properties.sickness, Properties.stunned, Properties.petrifying);
+            },
+            U =>
+            {
+              U.RemoveTransient(Properties.blindness, Properties.deafness, Properties.inebriation, Properties.hallucination, Properties.confusion);
+            },
+            C =>
+            {
+              C.ApplyTransient(Properties.blindness, 1.d6() + 1);
+              C.ApplyTransient(Properties.deafness, 1.d6() + 1);
+              C.ApplyTransient(Properties.hallucination, 2.d6() + 1);
+              C.ApplyTransient(Properties.sickness, 2.d6() + 1);
+              C.ApplyTransient(Properties.stunned, 1.d6() + 1);
+            }
+          );
+        });
+      });
+
+      Zweihander = AddMeleeWeapon("Zweihänder", I =>
+      {
+        I.Description = "A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.";
+        I.Glyph = Glyphs.Zweihander;
+        I.Sonic = Sonics.weapon;
+        I.Grade = Grades.artifact;
+        I.Series = null;
+        I.Rarity = ArtifactRarity;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(2000);
+        I.Material = Materials.iron;
+        I.Essence = ArtifactEssence;
+        I.Price = Gold.FromCoins(1450);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon)
+         .SetAttackBoost();
+        I.SetTwoHandedWeapon(Skills.heavy_blade, null, Elements.physical, DamageType.Slash, 3.d6(), D => D.WhenChance(Chance.OneIn4, T =>
+        {
+          T.Knockback();
+          T.ApplyTransient(Properties.stunned, 1.d4() + 3);
+        }));
+      });
+
+      khopesh_artifact = AddMeleeWeapon("Wepwawet's Fang", I =>
+      {
+        I.Description = "A curved funerary blade inlaid with gold, once carried by a pharaonic guardian charged with keeping the dead in their tombs.";
+        I.Glyph = Glyphs.khopesh_artifact;
+        I.Sonic = Sonics.weapon;
+        I.Grade = Grades.artifact;
+        I.Series = null;
+        I.Rarity = ArtifactRarity;
+        I.DefaultSanctity = Sanctities.Blessed;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(350);
+        I.Material = Materials.gold;
+        I.Essence = ArtifactEssence;
+        I.Price = Gold.FromCoins(1200);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon)
+         .SetResistance(Elements.necrotic);
+        var W = I.SetOneHandedWeapon(Skills.heavy_blade, null, Elements.physical, DamageType.Slash, 1.d10());
+        W.AddVersus(Kinds.Undead, Elements.necrotic, 2.d6());
+      });
+
+      Celestial_Doom = AddAmulet("Celestial Doom", I =>
+      {
+        I.Description = "An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.";
+        I.Glyph = Glyphs.Celestial_Doom;
+        I.Sonic = Sonics.amulet;
+        I.Grade = Grades.artifact;
+        I.Series = null;
+        I.Rarity = ArtifactRarity;
+        I.DefaultSanctity = Sanctities.Cursed;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(200);
+        I.Material = Materials.iron;
+        I.Essence = ArtifactEssence;
+        I.Price = Gold.FromCoins(1300);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.amulet)
+         .SetResistance(Elements.necrotic)
+         .SetTalent(Properties.warning)
+         .SetDefenceBoost()
+         .SetCrippleAttribute(Attributes.charisma);
+      });
+
+      Celestial_Kismet = AddAmulet("Celestial Kismet", I =>
+      {
+        I.Description = "Fate itself bends around the wearer, keeping them exactly where the blow cannot land.";
+        I.Glyph = Glyphs.Celestial_Kismet;
+        I.Sonic = Sonics.amulet;
+        I.Grade = Grades.artifact;
+        I.Series = null;
+        I.Rarity = ArtifactRarity;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(200);
+        I.Material = Materials.gold;
+        I.Essence = ArtifactEssence;
+        I.Price = Gold.FromCoins(1500);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.amulet)
+         .SetTalent(Properties.deflection, Properties.free_action)
+         .SetBoostAttribute(Attributes.dexterity)
+         .SetSpeedBoost();
+      });
+
+      Celestial_Portent = AddAmulet("Celestial Portent", I =>
+      {
+        I.Description = "A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.";
+        I.Glyph = Glyphs.Celestial_Portent;
+        I.Sonic = Sonics.amulet;
+        I.Grade = Grades.artifact;
+        I.Series = null;
+        I.Rarity = ArtifactRarity;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(200);
+        I.Material = Materials.gemstone;
+        I.Essence = ArtifactEssence;
+        I.Price = Gold.FromCoins(1600);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.amulet)
+         .SetTalent(Properties.warning, Properties.clairvoyance, Properties.telepathy);
+      });
+
+      Nonagon_Infinity = AddRing("Nonagon Infinity", I =>
+      {
+        I.Description = "A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.";
+        I.Glyph = Glyphs.Nonagon_Infinity;
+        I.Sonic = Sonics.ring;
+        I.Grade = Grades.artifact;
+        I.Series = null;
+        I.Rarity = ArtifactRarity;
+        I.Size = Size.Tiny;
+        I.Weight = Weight.FromUnits(30);
+        I.Material = Materials.platinum;
+        I.Essence = ArtifactEssence;
+        I.Price = Gold.FromCoins(1500);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.ring)
+         .SetTalent(Properties.lifesaving, Properties.sustain_ability)
+         .SetResistance([Elements.disintegrate, Elements.drain]);
+      });
+
+      Demiurge = AddReachWeapon("Demiurge", I =>
+      {
+        I.Description = "A staff of living, unworked rock. What shapes matter cannot itself be unmade.";
+        I.Glyph = Glyphs.Demiurge;
+        I.Sonic = Sonics.weapon;
+        I.Grade = Grades.artifact;
+        I.Series = null;
+        I.Rarity = ArtifactRarity;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(600);
+        I.Material = Materials.stone;
+        I.Essence = ArtifactEssence;
+        I.Price = Gold.FromCoins(1500);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon)
+         .SetResistance(Elements.disintegrate);
+        I.SetTwoHandedWeapon(Skills.staff, null, Elements.physical, DamageType.Bludgeon, 2.d6());
+        I.AddObviousUse(Motions.zap, Delay.FromTurns(20), Sonics.magic, Use =>
+        {
+          Use.SetCast().Strike(Strikes.tunnel, Dice.One);
+          Use.Apply.CreateBarrier(WallStructure.Solid, Barrier: null);
+        });
+      });
+
+      // ==================== STONES ====================
+      // Calibrated against flint (Stocks.gem, ItemType.Rock, Rarity 10, Weight 100, Price 1gp)
+      // and ruby (Rarity 4). All four "special stones" keep flint's Rock shape so they hide
+      // among ordinary rocks until identified, per NetHack tradition.
+
+      luckstone = AddItem(Stocks.gem, ItemType.Rock, "luckstone", I =>
+      {
+        I.Description = "A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.";
+        I.SetAppearance("grey stone", null, Price: Gold.FromCoins(1));
+        I.Glyph = Glyphs.luckstone;
+        I.Sonic = Sonics.gem;
+        I.BundleDice = 1.d4() + 4;
+        I.Series = null;
+        I.Rarity = 4; // as rare as ruby
+        I.Size = Size.Tiny;
+        I.Weight = Weight.FromUnits(100); // same as flint
+        I.Material = Materials.stone;
+        I.Essence = AmmoEssence1;
+        I.Price = Gold.FromCoins(60);
+        I.SetWeakness(AmmoWeakness);
+        // Rubbing it senses the sanctity of your possessions, same tiering as potion of divinity's
+        // Properties.beatitude buff (there: blessed 1d500+250, uncursed 1d50+50) scaled down for a
+        // reusable trinket instead of a one-shot potion.
+        I.AddObviousUse(Motions.rub, Delay.FromTurns(10), Sonics.gem, Use =>
+        {
+          Use.SetCast().Plain(Dice.One);
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.ApplyTransient(Properties.beatitude, 1.d100() + 100),
+            U => U.ApplyTransient(Properties.beatitude, 1.d50() + 25),
+            C => C.PlaceCurse(Dice.One, null) // bad luck rubs off onto something you carry
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(10), Sonics.gem);
+
+        EquipPellet(I, 1.d4());
+      });
+
+      loadstone = AddItem(Stocks.gem, ItemType.Rock, "loadstone", I =>
+      {
+        I.Description = "An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.";
+        I.SetAppearance("grey stone", null, Price: Gold.FromCoins(1));
+        I.Glyph = Glyphs.loadstone;
+        I.Sonic = Sonics.gem;
+        I.Series = null;
+        I.Rarity = 3;
+        I.BundleDice = Dice.One;
+        I.Size = Size.Tiny;
+        I.Weight = Weight.FromUnits(3000); // 30x flint's weight -- "surprisingly heavy"
+        I.Material = Materials.stone;
+        I.Essence = AmmoEssence1;
+        I.Price = Gold.FromCoins(10);
+        I.DefaultSanctity = Sanctities.Cursed; // always found cursed, exactly like NetHack's loadstone
+        I.SetWeakness(AmmoWeakness);
+        I.AddObviousUse(Motions.rub, Delay.FromTurns(10), Sonics.gem, Use =>
+        {
+          Use.SetCast().Plain(Dice.One);
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.Nothing(),
+            U => U.Nothing(),
+            C => C.ApplyTransient(Properties.slowness, 1.d10() + 10) // straining under its dead weight
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(10), Sonics.gem);
+
+        EquipPellet(I, 1.d4());
+      });
+
+      touchstone = AddItem(Stocks.gem, ItemType.Rock, "touchstone", I =>
+      {
+        I.Description = "A flat black stone used since antiquity to tell real gemstones from paste and glass.";
+        I.SetAppearance("black stone", null, Price: Gold.FromCoins(1));
+        I.Glyph = Glyphs.touchstone;
+        I.Sonic = Sonics.gem;
+        I.Series = null;
+        I.Rarity = 5;
+        I.BundleDice = Dice.One;
+        I.Size = Size.Tiny;
+        I.Weight = Weight.FromUnits(100);
+        I.Material = Materials.stone;
+        I.Essence = AmmoEssence1;
+        I.Price = Gold.FromCoins(25);
+        I.SetWeakness(AmmoWeakness);
+        // Same IdentifyItem(All:false, Sanctity) call as scroll of identify, but the cast is
+        // filtered down to Stocks.gem -- it only ever tests a gem, and it never runs out.
+        I.AddObviousUse(Motions.rub, Delay.FromTurns(10), Sonics.gem, Use =>
+        {
+          Use.SetCast().FilterStock(Stocks.gem)
+             .SetAssetIndividualised();
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.IdentifyItem(All: false, Sanctities.Blessed),
+            U => U.IdentifyItem(All: false, Sanctity: null),
+            C => C.IdentifyItem(All: false, Sanctities.Cursed)
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(10), Sonics.gem);
+
+        EquipPellet(I, 1.d4());
+      });
+
+      darkstone = AddItem(Stocks.gem, ItemType.Rock, "darkstone", I =>
+      {
+        I.Description = "A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.";
+        I.SetAppearance("black stone", null, Price: Gold.FromCoins(1));
+        I.Glyph = Glyphs.darkstone;
+        I.Sonic = Sonics.gem;
+        I.Series = null;
+        I.Rarity = 6;
+        I.BundleDice = Dice.One;
+        I.Size = Size.Tiny;
+        I.Weight = Weight.FromUnits(100);
+        I.Material = Materials.stone;
+        I.Essence = AmmoEssence1;
+        I.Price = Gold.FromCoins(80);
+        I.SetWeakness(AmmoWeakness);
+        // Same rub/eat split as can of grease (transient on rub, permanent talent on eat), swapped
+        // to dark_vision -- the drow priestess's own Startup.SetTalent(Properties.dark_vision).
+        I.AddObviousUse(Motions.rub, Delay.FromTurns(10), Sonics.gem, Use =>
+        {
+          Use.SetCast().Plain(Dice.One);
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.ApplyTransient(Properties.dark_vision, 5.d100()),
+            U => U.ApplyTransient(Properties.dark_vision, 5.d50()),
+            C => C.ApplyTransient(Properties.blindness, 1.d10() + 5)
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(10), Sonics.gem, A =>
+        {
+          A.WithSourceSanctity
+          (
+            B => B.GainTalent(Properties.dark_vision),
+            U => U.MajorProperty(Properties.dark_vision),
+            C => C.MajorProperty(Properties.blindness)
+          );
+        });
+
+        EquipPellet(I, 1.d4());
+      });
+
+      healthstone = AddItem(Stocks.gem, ItemType.Rock, "healthstone", I =>
+      {
+        I.Description = "A stone infused with restorative magic. It crumbles a little more each time it is used.";
+        I.SetAppearance("red stone", null, Price: Gold.FromCoins(1));
+        I.Glyph = Glyphs.healthstone;
+        I.Sonic = Sonics.gem;
+        I.Series = null;
+        I.Rarity = 8;
+        I.BundleDice = Dice.One;
+        I.Size = Size.Tiny;
+        I.Weight = Weight.FromUnits(100);
+        I.Material = Materials.stone;
+        I.Essence = AmmoEssence1;
+        I.ChargesDice = 1.d3() + 2; // a handful of uses, like can of grease's 5d5 charges but scarcer
+        I.Price = Gold.FromCoins(150);
+        I.SetWeakness(AmmoWeakness);
+        // Roughly half of potion of healing's HealEntity tiers (8d4/6d4/4d4), spread across charges.
+        I.AddHealingUse(Motions.rub, Delay.FromTurns(10), Sonics.gem, Use =>
+        {
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.HealEntity(4.d4(), Modifier.FromRank(1)),
+            U => U.HealEntity(3.d4(), Modifier.Zero),
+            C => C.HealEntity(2.d4(), Modifier.Zero)
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(10), Sonics.gem);
+
+        EquipPellet(I, 1.d4());
+      });
+
+      whetstone = AddItem(Stocks.gem, ItemType.Rock, "whetstone", I =>
+      {
+        I.Description = "A fine-grained stone for putting an edge back on a tired blade.";
+        I.SetAppearance("grey stone", null, Price: Gold.FromCoins(1));
+        I.Glyph = Glyphs.whetstone;
+        I.Sonic = Sonics.gem;
+        I.Series = null;
+        I.Rarity = 8;
+        I.BundleDice = Dice.One;
+        I.Size = Size.Tiny;
+        I.Weight = Weight.FromUnits(150);
+        I.Material = Materials.stone;
+        I.Essence = AmmoEssence1;
+        I.ChargesDice = 3.d4(); // a few uses before it wears smooth
+        I.Price = Gold.FromCoins(20);
+        I.SetWeakness(AmmoWeakness);
+        // Same EnchantItemUp/EnchantItemDown calls as scroll of enchantment, restricted to weapons
+        // and applied by rubbing instead of reading.
+        I.AddObviousUse(Motions.rub, Delay.FromTurns(20), Sonics.gem, Use =>
+        {
+          Use.SetCast().FilterStock(Stocks.weapon)
+             .SetAssetIndividualised();
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.EnchantItemUp(1.d2()),
+            U => U.EnchantItemUp(Dice.One),
+            C => C.EnchantItemDown(Dice.One)
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 150, Delay.FromTurns(10), Sonics.gem);
+
+        EquipPellet(I, 1.d4());
+      });
+
+      // ==================== MEDICAL TOOLS ====================
+      // Calibrated against can of grease (Stocks.tool, ItemType.Tool, Rarity 5, ChargesDice 5d5)
+      // for the rub/eat dual pattern, and potion of healing (8d4/6d4/4d4) for the HealEntity dice.
+
+      medical_kit = AddItem(Stocks.tool, ItemType.Tool, "medical kit", I =>
+      {
+        I.Description = "A canvas roll of bandages, salves and sutures for treating wounds in the field.";
+        I.Glyph = Glyphs.medical_kit;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 12;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(300);
+        I.Material = Materials.cloth;
+        I.Essence = ToolEssence2;
+        I.ChargesDice = 3.d6() + 4;
+        I.Price = Gold.FromCoins(100);
+        I.AddHealingUse(Motions.rub, Delay.FromTurns(10), Sonics.tool, Use =>
+        {
+          Use.Apply.WithSourceSanctity
+          (
+            B =>
+            {
+              B.HealEntity(4.d6(), Modifier.FromRank(1));
+              B.RemoveTransient(Properties.sickness);
+            },
+            U => U.HealEntity(3.d6(), Modifier.Zero),
+            C =>
+            {
+              C.HealEntity(1.d6(), Modifier.Zero);
+              C.ApplyTransient(Properties.sickness, 1.d6());
+            }
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(20), Sonics.tool);
+      });
+
+      stethoscope = AddItem(Stocks.tool, ItemType.Tool, "stethoscope", I =>
+      {
+        I.Description = "A physician's instrument for listening to a heartbeat -- yours, or something else's.";
+        I.Glyph = Glyphs.stethoscope;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 15;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(100);
+        I.Material = Materials.iron;
+        I.Essence = ToolEssence1;
+        I.Price = Gold.FromCoins(50);
+        // A quick self-diagnosis grants a short bout of Properties.warning, the same property
+        // ring of warning grants passively; here it is a rub-triggered, reusable, tiered pulse.
+        I.AddObviousUse(Motions.study, Delay.FromTurns(10), Sonics.tool, Use =>
+        {
+          Use.SetCast().Plain(Dice.One);
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.ApplyTransient(Properties.warning, 5.d100()),
+            U => U.ApplyTransient(Properties.warning, 5.d20()),
+            C => C.ApplyTransient(Properties.deafness, 1.d6())
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(20), Sonics.tool);
+      });
+
+      bandage = AddItem(Stocks.tool, ItemType.Tool, "bandage", I =>
+      {
+        I.Description = "A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.";
+        I.Glyph = Glyphs.bandage;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 20;
+        I.Size = Size.Tiny;
+        I.Weight = Weight.FromUnits(20);
+        I.Material = Materials.cloth;
+        I.Essence = ToolEssence0;
+        I.Price = Gold.FromCoins(5);
+        I.AddHealingUse(Motions.rub, Delay.FromTurns(10), Sonics.tool, Use =>
+        {
+          Use.Consume();
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.HealEntity(2.d4() + 2, Modifier.Zero),
+            U => U.HealEntity(1.d4() + 1, Modifier.Zero),
+            C => C.HealEntity(Dice.One, Modifier.Zero)
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 20, Delay.FromTurns(10), Sonics.tool);
+      });
+
+      // ==================== UTILITY TOOLS ====================
+
+      // Tin opener: like the Governor's GetTinReduction/TinNutrition helpers imply, tins already
+      // open faster and more safely just by owning the right tool -- there is no separate apply
+      // verb needed in NetHack either. Ready it like lock_pick so it sits in the "tool" slot.
+      tin_opener = AddItem(Stocks.tool, ItemType.Tool, "tin opener", I =>
+      {
+        I.Description = "A small hooked blade made for prying the lid off a sealed tin.";
+        I.Glyph = Glyphs.tin_opener;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 25;
+        I.Size = Size.Tiny;
+        I.Weight = Weight.FromUnits(100);
+        I.Material = Materials.iron;
+        I.Essence = ToolEssence1;
+        I.Price = Gold.FromCoins(12);
+        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.tool);
+        I.AddObviousIngestUse(Motions.eat, 30, Delay.FromTurns(10), Sonics.tool);
+      });
+
+      // Towel: doubles as a wearable blindfold (same SetEquip/SetTalent(Properties.blindness) shape
+      // as the shipped blindfold), and wipes stickiness/blindness off your face when rubbed instead.
+      towel = AddItem(Stocks.tool, ItemType.Eyewear, "towel", I =>
+      {
+        I.Description = "A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.";
+        I.Glyph = Glyphs.towel;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 20;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(100);
+        I.Material = Materials.cloth;
+        I.Essence = ToolEssence0;
+        I.Price = Gold.FromCoins(15);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.tool)
+         .SetTalent(Properties.blindness);
+        I.AddObviousUse(Motions.rub, Delay.FromTurns(5), Sonics.tool, Use =>
+        {
+          Use.SetCast().Plain(Dice.One);
+          Use.Apply.RemoveTransient(Properties.blindness, Properties.slippery);
+        });
+        I.AddObviousIngestUse(Motions.eat, 50, Delay.FromTurns(10), Sonics.tool);
+      });
+
+      // Credit card: lock_pick's shape almost exactly, but lighter, cheaper and rarer -- the
+      // improvised, less reliable cousin of a proper lock pick.
+      credit_card = AddItem(Stocks.tool, ItemType.Lockpick, "credit card", I =>
+      {
+        I.Description = "A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.";
+        I.Glyph = Glyphs.credit_card;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 40;
+        I.BundleDice = Dice.One;
+        I.Size = Size.Tiny;
+        I.Weight = Weight.FromUnits(10);
+        I.Material = Materials.plastic;
+        I.Essence = ToolEssence1;
+        I.Price = Gold.FromCoins(12);
+        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.tool);
+        //I.AddEat(...); // NOTE: no diet can eat plastic yet, matching expensive camera's TODO.
+      });
+
+      // Leash: same CaptureEntity/ReleaseEntity pair the net (bag_of_tricks-style capture device)
+      // uses, without the anger dice -- this is meant for your own tame pet, not a hostile capture.
+      leash = AddItem(Stocks.tool, ItemType.Tool, "leash", I =>
+      {
+        I.Description = "A length of sturdy rope with a clasp, for keeping a tame animal close at hand.";
+        I.Glyph = Glyphs.leash;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 25;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(150);
+        I.Material = Materials.leather;
+        I.Essence = ToolEssence1;
+        I.Price = Gold.FromCoins(12);
+        I.AddDiscoverUse(Motions.capture, Delay.FromTurns(10), Sonics.tool, Use =>
+        {
+          Use.SetCast().Strike(Strikes.magic, Dice.One)
+             .SetTargetSelf(false);
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.CaptureEntity(AngerProperty: null, AngerDice: Dice.Zero),
+            U => U.CaptureEntity(AngerProperty: null, AngerDice: Dice.Zero),
+            C => C.CaptureEntity(Properties.rage, 2.d6())
+          );
+        });
+        I.AddDiscoverUse(Motions.release, Delay.FromTurns(10), Sonics.tool, Use =>
+        {
+          Use.SetCast().Strike(Strikes.magic, Dice.One)
+             .SetTargetSelf(false);
+          Use.Apply.ReleaseEntity();
+        });
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(20), Sonics.tool);
+      });
+
+      // Mirror: same Motions.flash / Strikes.flash / Properties.blindness shape as the shipped
+      // expensive camera, but a curse backfires onto you instead of sparing gremlins.
+      mirror = AddItem(Stocks.tool, ItemType.Tool, "mirror", I =>
+      {
+        I.Description = "A polished sheet of silvered glass. Some things recoil from their own reflection.";
+        I.Glyph = Glyphs.mirror;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 10;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(130);
+        I.Material = Materials.glass;
+        I.SetImpact(Sonics.broken_glass);
+        I.Essence = ToolEssence3;
+        I.Price = Gold.FromCoins(200);
+        I.AddObviousUse(Motions.flash, new Utility(Purpose.Blast, Property: Properties.blindness), Delay.FromTurns(10), Sonics.flash, Use =>
+        {
+          Use.SetCast().Strike(Strikes.flash, Dice.Fixed(+6))
+             .SetAudibility(5);
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.ApplyTransient(Properties.blindness, 4.d6() + 4),
+            U => U.ApplyTransient(Properties.blindness, 3.d6() + 3),
+            C => C.Backfire(Bk => Bk.ApplyTransient(Properties.blindness, 2.d6() + 2))
+          );
+        });
+        //I.AddEat(...); // NOTE: no diet can eat glass yet.
+      });
+
+      // Candelabrum: oil_lamp's shape (SetIllumination/ChargesDice/SetEquip(Employ)) with a
+      // brighter, longer-burning cluster of candles.
+      candelabrum = AddLight("candelabrum", I =>
+      {
+        I.Description = "A branched silver candle-holder, its every arm lit at once.";
+        I.Glyph = Glyphs.candelabrum;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 6;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(400);
+        I.Material = Materials.silver;
+        I.Essence = ToolEssence2;
+        I.Price = Gold.FromCoins(40);
+        I.ChargesDice = 1.d200() + 200;
+        I.SetWeakness(LightWeakness);
+        I.SetEquip(EquipAction.Employ, Delay.FromTurns(10), Sonics.tool);
+        I.SetIllumination(3);
+        I.AddObviousIngestUse(Motions.eat, 30, Delay.FromTurns(10), Sonics.tool, A =>
+        {
+          A.ApplyTransient(Properties.sickness, 4.d6() + 4);
+        });
+      });
+
+      // Dragon horn: wand_of_fire's AddElementBlastUse/Beam shape, blown instead of zapped, with
+      // weaker dice and a handful of charges to reflect it being a horn, not a wand.
+      dragon_horn = AddInstrument("dragon horn", I =>
+      {
+        I.Description = "A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.";
+        I.Glyph = Glyphs.dragon_horn;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 4;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(150);
+        I.Material = Materials.bone;
+        I.Essence = ToolEssence4;
+        I.Price = Gold.FromCoins(150);
+        I.ChargesDice = 1.d4() + 2;
+        I.AddElementBlastUse(Motions.play, Elements.fire, Delay.FromTurns(10), Sonics.magic, Use =>
+        {
+          Use.SetCast().Beam(Beams.fire, 1.d3() + 2)
+             .SetAudibility(10);
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.HarmEntity(Elements.fire, 4.d6()),
+            U => U.HarmEntity(Elements.fire, 3.d6()),
+            C => C.HarmEntity(Elements.fire, 2.d6())
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(20), Sonics.tool, A =>
+        {
+          A.HarmEntity(Elements.fire, 4.d6());
+        });
+      });
+
+      // Phial: wax_candle's shape but glass, dimmer, and much longer-burning -- a keepsake light
+      // rather than a consumable one.
+      phial = AddLight("phial", I =>
+      {
+        I.Description = "A small glass vial holding a captive mote of light.";
+        I.Glyph = Glyphs.phial;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 5;
+        I.Size = Size.Tiny;
+        I.Weight = Weight.FromUnits(30);
+        I.Material = Materials.glass;
+        I.SetImpact(Sonics.broken_glass);
+        I.Essence = ToolEssence0;
+        I.Price = Gold.FromCoins(20);
+        I.ChargesDice = 1.d500() + 500;
+        I.SetWeakness(LightWeakness);
+        I.SetIllumination(1);
+        I.SetEquip(EquipAction.Employ, Delay.FromTurns(10), Sonics.tool);
+        I.AddObviousIngestUse(Motions.eat, 20, Delay.FromTurns(10), Sonics.tool);
+      });
+
+      // Pill: swallowed like unicorn horn's cure list, but weaker and via plain ingestion instead
+      // of a zap -- a quick fix for a fouled-up condition, not a panacea.
+      pill = AddItem(Stocks.tool, ItemType.Tool, "pill", I =>
+      {
+        I.Description = "A small, chalky tablet of uncertain origin. Best swallowed quickly.";
+        I.Glyph = Glyphs.pill;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 15;
+        I.Size = Size.Tiny;
+        I.Weight = Weight.FromUnits(5);
+        I.Material = Materials.clay;
+        I.Essence = ToolEssence0;
+        I.Price = Gold.FromCoins(15);
+        I.AddObviousIngestUse(Motions.eat, 10, Delay.FromTurns(10), Sonics.tool, A =>
+        {
+          A.WithSourceSanctity
+          (
+            B => B.RemoveTransient(Properties.sickness, Properties.confusion, Properties.hallucination),
+            U => U.RemoveTransient(Properties.sickness),
+            C => C.ApplyTransient(Properties.sickness, 1.d6())
+          );
+        });
+      });
+
+
+      // Fishing pole: reels in the shipped "fish" food item, chance-gated by sanctity.
+      fishing_pole = AddItem(Stocks.tool, ItemType.Tool, "fishing pole", I =>
+      {
+        I.Description = "A long cane rod strung with line and hook. Best used beside open water.";
+        I.Glyph = Glyphs.fishing_pole;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 15;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(300);
+        I.Material = Materials.wood;
+        I.Essence = ToolEssence1;
+        I.Price = Gold.FromCoins(15);
+        I.AddObviousUse(Motions.set, Delay.FromTurns(20), Sonics.tool, Use =>
+        {
+          Use.SetCast().Plain(Dice.One);
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.CreateItem(1.d2(), QuantityDice: null, fish),
+            U => U.WhenChance(Chance.OneIn2, T => T.CreateItem(Dice.One, QuantityDice: null, fish), F => F.Nothing()),
+            C => C.Nothing()
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(20), Sonics.tool);
+      });
+
+      // Grappling hook: drum_of_earthquake's Gather call, aimed instead of area-of-effect, to
+      // haul in nearby items, allies and boulders.
+      grappling_hook = AddItem(Stocks.tool, ItemType.Tool, "grappling hook", I =>
+      {
+        I.Description = "A barbed iron hook on a long coil of rope, thrown out and hauled back in.";
+        I.Glyph = Glyphs.grappling_hook;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 12;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(300);
+        I.Material = Materials.iron;
+        I.Essence = ToolEssence2;
+        I.Price = Gold.FromCoins(25);
+        I.AddObviousUse(Motions.zap, Delay.FromTurns(10), Sonics.tool, Use =>
+        {
+          Use.SetCast().Strike(Strikes.force, Dice.One)
+             .SetTargetSelf(false);
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.Gather(Range.Sq6, Items: true, Characters: true, Boulders: true),
+            U => U.Gather(Range.Sq4, Items: true, Characters: false, Boulders: true),
+            C => C.HarmEntity(Elements.physical, 1.d4())
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 150, Delay.FromTurns(20), Sonics.tool);
+      });
+
+      // Eyeball: can_of_grease's rub/eat split reused on ingest alone -- eating it grants
+      // Properties.see_invisible, the same talent potion of see invisible confers.
+      eyeball = AddFood("eyeball", I =>
+      {
+        I.Description = "A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.";
+        I.Glyph = Glyphs.eyeball;
+        I.Sonic = Sonics.food;
+        I.Series = null;
+        I.Rarity = 6;
+        I.Size = Size.Tiny;
+        I.Weight = Weight.FromUnits(20);
+        I.Material = Materials.animal;
+        I.Essence = FoodEssence1;
+        I.Price = Gold.FromCoins(30);
+        I.AddObviousIngestUse(Motions.eat, 50, Delay.FromTurns(20), Sonics.eat, A =>
+        {
+          A.WithSourceSanctity
+          (
+            B => B.GainTalent(Properties.see_invisible),
+            U => U.MajorProperty(Properties.see_invisible),
+            C => C.MajorProperty(Properties.blindness)
+          );
+        });
+      });
+
+      // Glossy potion: a fresh appearance skin (parallel to "white potion", "icy potion", etc.)
+      // carrying the currently-unused Properties.sustain_ability, on potion of divinity's tiering.
+      glossy_potion_of_sustenance = AddPotion("potion of sustenance", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("glossy potion", null);
+        I.Glyph = Glyphs.glossy_potion;
+        I.Sonic = Sonics.potion;
+        I.Series = PotionSeries;
+        I.Rarity = 6;
+        I.Size = PotionSize;
+        I.Weight = PotionWeight;
+        I.Material = Materials.glass;
+        I.Essence = PotionEssence4;
+        I.Price = Gold.FromCoins(150);
+        I.SetWeakness(PotionWeakness);
+        I.AddPropertyBuffUse(Motions.quaff, Properties.sustain_ability, Delay.FromTurns(15), Sonics.quaff, Use =>
+        {
+          Use.Consume();
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.ApplyTransient(Properties.sustain_ability, 1.d500() + 250),
+            U => U.ApplyTransient(Properties.sustain_ability, 1.d100() + 100),
+            C => C.ApplyTransient(Properties.slowness, 1.d10())
+          );
+        });
+      });
+
+      // Khaki potion: same appearance-skin approach, carrying the currently-unused
+      // Properties.warning; a cursed drink broadcasts your position instead (Properties.aggravation).
+      khaki_potion_of_warning = AddPotion("potion of warning", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("khaki potion", null);
+        I.Glyph = Glyphs.khaki_potion;
+        I.Sonic = Sonics.potion;
+        I.Series = PotionSeries;
+        I.Rarity = 6;
+        I.Size = PotionSize;
+        I.Weight = PotionWeight;
+        I.Material = Materials.glass;
+        I.Essence = PotionEssence4;
+        I.Price = Gold.FromCoins(150);
+        I.SetWeakness(PotionWeakness);
+        I.AddPropertyBuffUse(Motions.quaff, Properties.warning, Delay.FromTurns(15), Sonics.quaff, Use =>
+        {
+          Use.Consume();
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.ApplyTransient(Properties.warning, 1.d500() + 250),
+            U => U.ApplyTransient(Properties.warning, 1.d100() + 50),
+            C => C.ApplyTransient(Properties.aggravation, 1.d100() + 50)
+          );
+        });
+      });
+
+      // Mooshroom: a Minecraft-flavoured food item; eating it grants Properties.life_regeneration,
+      // via the same GainTalent/MajorProperty ingest split as darkstone above.
+      mooshroom = AddFood("mooshroom", I =>
+      {
+        I.Description = "A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.";
+        I.Glyph = Glyphs.mooshroom;
+        I.Sonic = Sonics.food;
+        I.Series = null;
+        I.Rarity = 5;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(400);
+        I.Material = Materials.animal;
+        I.Essence = FoodEssence2;
+        I.Price = Gold.FromCoins(50);
+        I.AddObviousIngestUse(Motions.eat, 600, Delay.FromTurns(30), Sonics.eat, A =>
+        {
+          A.WithSourceSanctity
+          (
+            B => B.GainTalent(Properties.life_regeneration),
+            U => U.MajorProperty(Properties.life_regeneration),
+            C => C.ApplyTransient(Properties.hallucination, 1.d20())
+          );
+        });
+      });
+
+      // Strange object: an unidentifiable gadget with a different, chaotic effect every time --
+      // reuses the two-branch WhenChance already seen on the shipped "boulder" polymorph gag.
+      strange_object = AddItem(Stocks.tool, ItemType.Tool, "strange object", I =>
+      {
+        I.Description = "A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.";
+        I.Glyph = Glyphs.strange_object;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 5;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(150);
+        I.Material = Materials.iron;
+        I.Essence = ToolEssence3;
+        I.Price = Gold.FromCoins(100);
+        I.AddObviousUse(Motions.rub, Delay.FromTurns(10), Sonics.tool, Use =>
+        {
+          Use.SetCast().Plain(Dice.One);
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.WhenChance(Chance.OneIn2,
+                   T => T.HealEntity(2.d8(), Modifier.Zero),
+                   F => F.ApplyTransient(Properties.quickness, 1.d20())),
+            U => U.WhenChance(Chance.OneIn2,
+                   T => T.ApplyTransient(Properties.confusion, 1.d10()),
+                   F => F.ApplyTransient(Properties.stunned, 1.d6())),
+            C => C.HarmEntity(Elements.magical, 2.d6())
+          );
+        });
+        //I.AddEat(...); // NOTE: no diet can eat this yet, matching expensive camera's TODO.
+      });
+
+      khopesh = AddMeleeWeapon("khopesh", I =>
+      {
+        I.Description = "A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.";
+        I.SetAppearance("hooked sword", null);
+        I.Glyph = Glyphs.khopesh;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 8;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(500);
+        I.Material = Materials.iron;
+        I.Essence = WeaponEssence1;
+        I.Price = Gold.FromCoins(20);
+        I.AddObviousIngestUse(Motions.eat, 250, Delay.FromTurns(30), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.heavy_blade, null, Elements.physical, DamageType.Slash, 1.d8(), D =>
+        {
+          D.WhenChance(Chance.OneIn6, T => T.SpecialDisarm());
+        });
+      });
+
+      // Calibrated against tsurugi (two-handed heavy_blade, rarity 2, weight 600, price 100, 1d16):
+      // an even rarer, heavier triple-bladed exotic greatsword.
+      triplesword = AddMeleeWeapon("triplesword", I =>
+      {
+        I.Description = "A monstrous greatsword forged with three parallel blades fused along a single spine, each edge catching the light at a different angle.";
+        I.Glyph = Glyphs.triplesword;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 3;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(700);
+        I.Material = Materials.iron;
+        I.Essence = WeaponEssence1;
+        I.Price = Gold.FromCoins(120);
+        I.AddObviousIngestUse(Motions.eat, 350, Delay.FromTurns(30), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetTwoHandedWeapon(Skills.heavy_blade, null, Elements.physical, DamageType.Slash, 1.d16());
+      });
+
+      // Calibrated against heavy hammer (two-handed hammer, rarity 10, weight 600, price 10, 2d4+2):
+      // a bigger, rarer maul.
+      war_maul = AddMeleeWeapon("war maul", I =>
+      {
+        I.Description = "An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.";
+        I.Glyph = Glyphs.war_maul;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 6;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(750);
+        I.Material = Materials.iron;
+        I.Essence = WeaponEssence1;
+        I.Price = Gold.FromCoins(18);
+        I.AddObviousIngestUse(Motions.eat, 375, Delay.FromTurns(30), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetTwoHandedWeapon(Skills.hammer, null, Elements.physical, DamageType.Bludgeon, 2.d6());
+      });
+
+      // Calibrated against chakram (Skills.disc, thrown, rarity 15, weight 50, price 10, 1d8)
+      // and elven_short_sword (OriginRace elf, wood, cheaper, 1 rarity tier lower):
+      // a lighter, wood-rimmed elven throwing disc.
+      elven_chakram = AddThrownWeapon("elven chakram", I =>
+      {
+        I.Description = "A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.";
+        I.SetAppearance("runed disc", null);
+        I.Glyph = Glyphs.elven_chakram;
+        I.Sonic = Sonics.weapon;
+        I.OriginRace = Races.elf;
+        I.Series = null;
+        I.Rarity = 4;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(40);
+        I.Material = Materials.wood;
+        I.Essence = WeaponEssence1;
+        I.Price = Gold.FromCoins(12);
+        I.AddObviousIngestUse(Motions.eat, 20, Delay.FromTurns(10), Sonics.weapon);
+        I.SetWeakness(AmmoWeakness);
+        I.BundleDice = 1.d3() + 3;
+        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.disc, Sonics.throw_object, Elements.physical, DamageType.Slash, 1.d8() + 1);
+      });
+
+      // Calibrated against chakram and orcish_short_sword (OriginRace orc, iron, crude, cheaper): a
+      // heavier, crudely hammered orcish throwing disc.
+      orcish_chakram = AddThrownWeapon("orcish chakram", I =>
+      {
+        I.Description = "A crudely hammered throwing disc with a jagged, uneven rim, more likely to tear than to cut cleanly.";
+        I.SetAppearance("crude disc", null);
+        I.Glyph = Glyphs.orcish_chakram;
+        I.Sonic = Sonics.weapon;
+        I.OriginRace = Races.orc;
+        I.Series = null;
+        I.Rarity = 10;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(60);
+        I.Material = Materials.iron;
+        I.Essence = WeaponEssence1;
+        I.Price = Gold.FromCoins(6);
+        I.AddObviousIngestUse(Motions.eat, 30, Delay.FromTurns(10), Sonics.weapon);
+        I.SetWeakness(AmmoWeakness);
+        I.BundleDice = 1.d3() + 3;
+        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.disc, Sonics.throw_object, Elements.physical, DamageType.Slash, 1.d8());
+      });
+
+      // Calibrated against katar (unarmed_combat, small, iron, rarity 6, price 8, 1d5) and
+      // dwarvish_short_sword (OriginRace dwarf, rarity 2, WeaponEssence1, dice+1): a sturdier
+      // dwarven-forged punching blade.
+      dwarvish_katar = AddMeleeWeapon("dwarvish katar", I =>
+      {
+        I.Description = "This dwarvish punching blade is forged thicker than most, its crossbar reinforced to survive a full-strength thrust.";
+        I.SetAppearance("broad katar", null);
+        I.Glyph = Glyphs.dwarvish_katar;
+        I.Sonic = Sonics.weapon;
+        I.OriginRace = Races.dwarf;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(300);
+        I.Material = Materials.iron;
+        I.Essence = WeaponEssence1;
+        I.Price = Gold.FromCoins(12);
+        I.AddObviousIngestUse(Motions.eat, 150, Delay.FromTurns(25), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.unarmed_combat, null, Elements.physical, DamageType.Pierce, 1.d5() + 1);
+      });
+
+      // Silver variant of rapier (medium_blade, rarity 10, iron, price 40, 1d6 AttackModifier
+      // Plus2), calibrated the same way silver_sabre/silver_long_sword sit under their iron
+      // counterparts: WeaponEssence2, Materials.silver, low rarity, roughly double price.
+      silver_rapier = AddMeleeWeapon("silver rapier", I =>
+      {
+        I.Description = "A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.";
+        I.Glyph = Glyphs.silver_rapier;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(300);
+        I.Material = Materials.silver;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(80);
+        I.AddObviousIngestUse(Motions.eat, 150, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.medium_blade, null, Elements.physical, DamageType.Pierce, 1.d6()).AttackModifier = Modifier.Plus2;
+      });
+
+      // Calibrated against crossbow (Ammunition.Bolt, one-handed, Skills.crossbow, rarity 45,
+      // weight 500, price 40) and elven_short_sword (OriginRace elf, wood, cheaper): a small,
+      // lightweight elven crossbow that fits in one hand.
+      elven_hand_crossbow = AddRangedWeapon(Ammunition.Bolt, "elven hand crossbow", I =>
+      {
+        I.Description = "A miniature crossbow of elven design, light enough to be drawn and fired one-handed without a stirrup.";
+        I.SetAppearance("small horizontal bow", null);
+        I.Glyph = Glyphs.elven_hand_crossbow;
+        I.Sonic = Sonics.weapon;
+        I.OriginRace = Races.elf;
+        I.Series = null;
+        I.Rarity = 6;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(200);
+        I.Material = Materials.wood;
+        I.Essence = WeaponEssence1;
+        I.Price = Gold.FromCoins(60);
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(30), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        var W = I.SetOneHandedWeapon(Skills.crossbow, Sonics.bow_fire, Elements.physical, DamageType.Bludgeon, Dice.One);
+        W.FixedRange = 8;
+      });
+
+      // Calibrated against sling (Skills.sling, one-handed, Ammunition.Pellet, rarity 40,
+      // weight 30, price 20): a two-handed staff-sling, longer and heavier, meant to hurl
+      // stones further at the cost of needing both hands.
+      sling_staff = AddRangedWeapon(Ammunition.Pellet, "sling staff", I =>
+      {
+        I.Description = "A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.";
+        I.Glyph = Glyphs.sling_staff;
+        I.Sonic = Sonics.leather;
+        I.Series = null;
+        I.Rarity = 20;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(250);
+        I.Material = Materials.wood;
+        I.Essence = WeaponEssence1;
+        I.Price = Gold.FromCoins(35);
+        I.AddObviousIngestUse(Motions.eat, 125, Delay.FromTurns(20), Sonics.leather);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.leather);
+        var W = I.SetTwoHandedWeapon(Skills.sling, Sonics.sling_shot, Elements.physical, DamageType.Bludgeon, Dice.One);
+        W.FixedRange = 12;
+      });
+
+      // Calibrated against pistol (Ammunition.Bullet, one-handed firearms, rarity 0, weight 100,
+      // WeaponEssence3, price 150, 1d2, FixedRange 15): an earlier, clumsier firearm — a single
+      // slow-loading shot, so it trades essence and range for a heavy attack delay.
+      wheellock_pistol = AddRangedWeapon(Ammunition.Bullet, "wheellock pistol", I =>
+      {
+        I.Description = "An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.";
+        I.SetAppearance("clockwork gun", null);
+        I.Glyph = Glyphs.wheellock_pistol;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 3;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(150);
+        I.Material = Materials.iron;
+        I.Essence = WeaponEssence1;
+        I.Price = Gold.FromCoins(200);
+        I.AddObviousIngestUse(Motions.eat, 75, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        var W = I.SetOneHandedWeapon(Skills.firearms, Sonics.pistol_fire, Elements.physical, DamageType.Bludgeon, 1.d2());
+        W.FixedRange = 10;
+        W.AttackDelay = Delay.FromTurns(+4);
+      });
+
+      // Calibrated against rocket_launcher (Ammunition.Rocket, two-handed firearms, rarity 0,
+      // weight 1500, WeaponEssence3, price 600, FixedRange 20, AttackDelay +5) and assault_rifle
+      // (FixedRange 20): a never-randomly-generated, anachronistic two-handed sniper piece —
+      // reuses the standard bullet, trading rate of fire for accuracy and range.
+      railgun = AddRangedWeapon(Ammunition.Bullet, "railgun", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("coiled gun", null);
+        I.Glyph = Glyphs.railgun;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 0;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(700);
+        I.Material = Materials.iron;
+        I.Essence = WeaponEssence3;
+        I.Price = Gold.FromCoins(800);
+        I.AddObviousIngestUse(Motions.eat, 350, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        var W = I.SetTwoHandedWeapon(Skills.firearms, Sonics.rifle_shot, Elements.physical, DamageType.Bludgeon, 2.d6());
+        W.FixedRange = 25;
+        W.AttackModifier = Modifier.Plus2;
+        W.AttackDelay = Delay.FromTurns(+5);
+      });
+
+      // Calibrated against club (Skills.club, wood, medium, rarity 22, weight 300, price 3, 1d6):
+      // a heftier anachronistic bat, slightly rarer since it doesn't belong in this era.
+      baseball_bat = AddMeleeWeapon("baseball bat", I =>
+      {
+        I.Description = "A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.";
+        I.Glyph = Glyphs.baseball_bat;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 5;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(320);
+        I.Material = Materials.wood;
+        I.Essence = WeaponEssence0;
+        I.Price = Gold.FromCoins(8);
+        I.AddObviousIngestUse(Motions.eat, 160, Delay.FromTurns(30), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.club, null, Elements.physical, DamageType.Bludgeon, 1.d7());
+      });
+
+      // Calibrated against plastic_sword (Materials.plastic toy weapon, rarity 0, small, weight
+      // 100, WeaponEssence2, price 5, no ingest use, 1d4): a hollow toy bat.
+      plastic_bat = AddMeleeWeapon("plastic bat", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("toy bat", null);
+        I.Glyph = Glyphs.plastic_bat;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 0;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(120);
+        I.Material = Materials.plastic;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(5);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.club, null, Elements.physical, DamageType.Bludgeon, 1.d4());
+      });
+
+      // Same toy template as plastic_bat / plastic_sword, on the hammer skill.
+      plastic_hammer = AddMeleeWeapon("plastic hammer", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("toy hammer", null);
+        I.Glyph = Glyphs.plastic_hammer;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 0;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(100);
+        I.Material = Materials.plastic;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(4);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.hammer, null, Elements.physical, DamageType.Bludgeon, 1.d3());
+      });
+
+      // Calibrated against chakram (Skills.disc, thrown, BundleDice 1d3+3, price 10): a
+      // featherweight toy disc, cheap and nearly harmless.
+      frisbee = AddThrownWeapon("frisbee", I =>
+      {
+        I.Description = "A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.";
+        I.Glyph = Glyphs.frisbee;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 0;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(20);
+        I.Material = Materials.plastic;
+        I.Essence = WeaponEssence1;
+        I.SetWeakness(AmmoWeakness);
+        I.BundleDice = 1.d3() + 3;
+        I.Price = Gold.FromCoins(3);
+        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.disc, Sonics.throw_object, Elements.physical, DamageType.Bludgeon, 1.d2());
+      });
+
+      // Calibrated against rubber_hose (Materials.plastic, Skills.whip, one-handed, rarity 0,
+      // weight 50, price 4, 1d2 with SpecialDisarm): a toy on a string, same niche.
+      yoyo = AddMeleeWeapon("yoyo", I =>
+      {
+        I.Description = "A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.";
+        I.Glyph = Glyphs.yoyo;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 0;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(30);
+        I.Material = Materials.plastic;
+        I.Essence = WeaponEssence1;
+        I.Price = Gold.FromCoins(3);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.tool);
+        I.SetOneHandedWeapon(Skills.whip, null, Elements.physical, DamageType.Bludgeon, 1.d2(), A =>
+        {
+          A.SpecialDisarm();
+        });
+      });
+
+      // Calibrated against iron_shoes (ItemType.Boots, heavy_armour+2, iron, rarity 7, weight
+      // 500, price 16): a plain heavy iron boot.
+      steel_boots = AddArmour(ItemType.Boots, "steel boots", I =>
+      {
+        I.Description = "A pair of solid iron-plated boots that guard the shin and instep at the cost of a good deal of weight.";
+        I.Glyph = Glyphs.steel_boots;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 8;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(550);
+        I.Material = Materials.iron;
+        I.Essence = ArmourEssence2;
+        I.Price = Gold.FromCoins(18);
+        I.AddObviousIngestUse(Motions.eat, 275, Delay.FromTurns(50), Sonics.armour);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(20), Sonics.armour);
+        I.SetArmour(Skills.heavy_armour, 2);
+      });
+
+      // Calibrated against high_boots (ItemType.Boots, medium_armour+2, leather, rarity 15,
+      // weight 200, price 12): the same cut, dressed up for court rather than the road.
+      fancy_boots = AddArmour(ItemType.Boots, "fancy boots", I =>
+      {
+        I.Description = "A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.";
+        I.SetAppearance("dress boots", null);
+        I.Glyph = Glyphs.fancy_boots;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 12;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(160);
+        I.Material = Materials.leather;
+        I.Essence = ArmourEssence1;
+        I.Price = Gold.FromCoins(25);
+        I.AddObviousIngestUse(Motions.eat, 80, Delay.FromTurns(20), Sonics.armour);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(20), Sonics.armour);
+        I.SetArmour(Skills.light_armour, 1);
+      });
+
+      // Calibrated against t-shirt (ItemType.Shirt, light_armour 0, cloth, rarity 2, weight 50,
+      // price 2): a plain, undyed shirt.
+      cloth_shirt = AddArmour(ItemType.Shirt, "cloth shirt", I =>
+      {
+        I.Description = "A plain, undyed shirt of woven cloth, worn under armour or on its own.";
+        I.Glyph = Glyphs.cloth_shirt;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 6;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(50);
+        I.Material = Materials.cloth;
+        I.Essence = ArmourEssence1;
+        I.Price = Gold.FromCoins(2);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.armour);
+        I.SetArmour(Skills.light_armour, 0);
+        I.AddObviousIngestUse(Motions.eat, 25, Delay.FromTurns(10), Sonics.armour);
+      });
+
+      // Same t-shirt template, dressed up: a fitted jacket-shirt.
+      doublet = AddArmour(ItemType.Shirt, "doublet", I =>
+      {
+        I.Description = "A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.";
+        I.Glyph = Glyphs.doublet;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 10;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(70);
+        I.Material = Materials.cloth;
+        I.Essence = ArmourEssence1;
+        I.Price = Gold.FromCoins(10);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.armour);
+        I.SetArmour(Skills.light_armour, 0);
+        I.AddObviousIngestUse(Motions.eat, 35, Delay.FromTurns(10), Sonics.armour);
+      });
+
+      // Same t-shirt template, cut sleeveless and worn over armour instead of under it.
+      tabard = AddArmour(ItemType.Shirt, "tabard", I =>
+      {
+        I.Description = "A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.";
+        I.Glyph = Glyphs.tabard;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 8;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(60);
+        I.Material = Materials.cloth;
+        I.Essence = ArmourEssence1;
+        I.Price = Gold.FromCoins(4);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.armour);
+        I.SetArmour(Skills.light_armour, 0);
+        I.AddObviousIngestUse(Motions.eat, 30, Delay.FromTurns(10), Sonics.armour);
+      });
+
+      // Calibrated against orcish_cloak (ItemType.Cloak, light_armour+1, cloth, rarity 8, weight
+      // 100, price 40): the same weight class, a richer dye instead of racial homespun.
+      crimson_cloak = AddArmour(ItemType.Cloak, "crimson cloak", I =>
+      {
+        I.Description = "A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.";
+        I.Glyph = Glyphs.crimson_cloak;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 10;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(100);
+        I.Material = Materials.cloth;
+        I.Essence = ArmourEssence1;
+        I.Price = Gold.FromCoins(45);
+        I.AddObviousIngestUse(Motions.eat, 50, Delay.FromTurns(10), Sonics.armour);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.armour);
+        I.SetArmour(Skills.light_armour, 1);
+      });
+
+      // Calibrated against ring_of_accuracy (RingSeries, Rarity 100, RingEssence3, price 150,
+      // continuous SetAttackBoost()): a directly-named combat ring (same naming convention as
+      // fumble_boots / jumping_boots, not "ring of X"), its spiked band said to draw the wearer's
+      // own blood and temper.
+      barbed_ring = AddRing("ring of marksmanship", I =>
+      {
+        I.Description = "A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.";
+        I.SetAppearance("barbed ring", null);
+        I.Glyph = Glyphs.barbed_ring;
+        I.Sonic = Sonics.ring;
+        I.Series = RingSeries;
+        I.Rarity = 100;
+        I.Size = RingSize;
+        I.Weight = RingWeight;
+        I.Material = Materials.iron;
+        I.Essence = RingEssence3;
+        I.Price = Gold.FromCoins(150);
+        I.AddObviousIngestUse(Motions.eat, 15, Delay.FromTurns(10), Sonics.ring, A =>
+        {
+          A.WhenChance(Chance.OneIn2, T => T.GainSkill(RandomPoints: false, Skills.heavy_blade, Skills.hammer, Skills.axe, Skills.club, Skills.mace, Skills.pick), E => E.Nothing());
+        });
+        I.SetWeakness(RingWeakness);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.ring)
+         .SetAttackBoost();
+      });
+
+      // Calibrated against ring_of_regeneration (RingSeries, Rarity 100, RingEssence6, price
+      // 200, continuous MajorProperty / SetTalent): same shape, but grants mana_regeneration
+      // rather than life_regeneration (which ring_of_regeneration already covers), for a directly
+      // named ring in the fumble_boots style.
+      eternity_ring = AddRing("ring of energy", I =>
+      {
+        I.Description = "A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.";
+        I.SetAppearance("eternity ring", null);
+        I.Glyph = Glyphs.eternity_ring;
+        I.Sonic = Sonics.ring;
+        I.Series = RingSeries;
+        I.Rarity = 100;
+        I.Size = RingSize;
+        I.Weight = RingWeight;
+        I.Material = Materials.gold;
+        I.Essence = RingEssence6;
+        I.Price = Gold.FromCoins(200);
+        I.AddObviousIngestUse(Motions.eat, 15, Delay.FromTurns(10), Sonics.ring, A =>
+        {
+          A.ApplyTransient(Properties.mana_regeneration, 10.d100());
+        });
+        I.SetWeakness(RingWeakness);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.ring)
+         .SetTalent(Properties.mana_regeneration);
+      });
+
+      // Calibrated against wand_of_haste (AddPropertyBuffUse, WandSeries, rarity 45,
+      // WandEssence2, price 150, ChargesDice 1d5+4): four new wand identities filling gaps in
+      // the existing "wand of X" roster (confusion / telekinesis / levitation / jumping are not
+      // yet implemented anywhere in the codex), each wearing one of the leftover novelty
+      // appearances instead of a mineral/wood name.
+      silly_wand = AddWand("wand of confusion", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("silly wand", null);
+        I.Glyph = Glyphs.silly_wand;
+        I.Sonic = Sonics.wand;
+        I.Series = WandSeries;
+        I.Rarity = 30;
+        I.Size = WandSize;
+        I.Weight = Weight.FromUnits(70);
+        I.Material = Materials.wood;
+        I.Essence = WandEssence1;
+        I.Price = Gold.FromCoins(100);
+        I.SetWeakness(WandWeakness);
+        I.ChargesDice = 1.d5() + 4;
+        I.AddPropertyBuffUse(Motions.zap, Properties.confusion, WandZapDelay, Sonics.magic, Use =>
+        {
+          Use.SetCast().Strike(Strikes.spirit, 2.d6() + 2)
+             .SetAudibility(5);
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.ApplyTransient(Properties.confusion, 20.d6()),
+            U => U.ApplyTransient(Properties.confusion, 10.d6()),
+            C => C.ApplyTransient(Properties.confusion, 5.d6())
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 30, Delay.FromTurns(10), Sonics.wand, A =>
+        {
+          A.ApplyTransient(Properties.confusion, 1.d100() + 100);
+        });
+      });
+
+      forked_wand = AddWand("wand of telekinesis", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("forked wand", null);
+        I.Glyph = Glyphs.forked_wand;
+        I.Sonic = Sonics.wand;
+        I.Series = WandSeries;
+        I.Rarity = 25;
+        I.Size = WandSize;
+        I.Weight = Weight.FromUnits(70);
+        I.Material = Materials.wood;
+        I.Essence = WandEssence2;
+        I.Price = Gold.FromCoins(150);
+        I.SetWeakness(WandWeakness);
+        I.ChargesDice = 1.d5() + 4;
+        I.AddPropertyBuffUse(Motions.zap, Properties.telekinesis, WandZapDelay, Sonics.magic, Use =>
+        {
+          Use.SetCast().Strike(Strikes.spirit, 2.d6() + 2)
+             .SetAudibility(5);
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.ApplyTransient(Properties.telekinesis, 20.d6()),
+            U => U.ApplyTransient(Properties.telekinesis, 10.d6()),
+            C => C.ApplyTransient(Properties.telekinesis, 5.d6())
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 30, Delay.FromTurns(10), Sonics.wand, A =>
+        {
+          A.ApplyTransient(Properties.telekinesis, 1.d100() + 100);
+        });
+      });
+
+      pine_wand = AddWand("wand of levitation", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("pine wand", null);
+        I.Glyph = Glyphs.pine_wand;
+        I.Sonic = Sonics.wand;
+        I.Series = WandSeries;
+        I.Rarity = 25;
+        I.Size = WandSize;
+        I.Weight = Weight.FromUnits(70);
+        I.Material = Materials.wood;
+        I.Essence = WandEssence1;
+        I.Price = Gold.FromCoins(150);
+        I.SetWeakness(WandWeakness);
+        I.ChargesDice = 1.d5() + 4;
+        I.AddPropertyBuffUse(Motions.zap, Properties.levitation, WandZapDelay, Sonics.magic, Use =>
+        {
+          Use.SetCast().Strike(Strikes.spirit, 2.d6() + 2)
+             .SetAudibility(5);
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.ApplyTransient(Properties.levitation, 20.d6()),
+            U => U.ApplyTransient(Properties.levitation, 10.d6()),
+            C => C.ApplyTransient(Properties.levitation, 5.d6())
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 30, Delay.FromTurns(10), Sonics.wand, A =>
+        {
+          A.ApplyTransient(Properties.levitation, 1.d100() + 100);
+        });
+      });
+
+      plastic_wand = AddWand("wand of jumping", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("plastic wand", null);
+        I.Glyph = Glyphs.plastic_wand;
+        I.Sonic = Sonics.wand;
+        I.Series = WandSeries;
+        I.Rarity = 20;
+        I.Size = WandSize;
+        I.Weight = Weight.FromUnits(70);
+        I.Material = Materials.plastic;
+        I.Essence = WandEssence1;
+        I.Price = Gold.FromCoins(100);
+        I.SetWeakness(WandWeakness);
+        I.ChargesDice = 1.d5() + 4;
+        I.AddPropertyBuffUse(Motions.zap, Properties.jumping, WandZapDelay, Sonics.magic, Use =>
+        {
+          Use.SetCast().Strike(Strikes.spirit, 2.d6() + 2)
+             .SetAudibility(5);
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.ApplyTransient(Properties.jumping, 20.d6()),
+            U => U.ApplyTransient(Properties.jumping, 10.d6()),
+            C => C.ApplyTransient(Properties.jumping, 5.d6())
+          );
+        });
+      });
+
+      // === mithril material weapons ===
+      // calibrated against mithril_katar/mithril_whip (WeaponEssence3, MithrilRarity, price = steel price x10,
+      // dice = steel dice + 1, same weight as the steel weapon) and mithril_long_sword/mithril_battleaxe.
+
+      mithril_axe = AddMeleeWeapon("mithril axe", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.mithril_axe;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = MithrilRarity;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(600);
+        I.Material = Materials.mithril;
+        I.Essence = WeaponEssence3;
+        I.Price = Gold.FromCoins(80);
+        //I.AddObviousIngestUse(Motions.eat, 300, Delay.FromTurns(30), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.axe, null, Elements.physical, DamageType.Slash, 1.d7() + 1);
+      });
+
+      mithril_trident = AddReachWeapon("mithril trident", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("three-pointed polearm", null);
+        I.Glyph = Glyphs.mithril_trident;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = MithrilRarity;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(500);
+        I.Material = Materials.mithril;
+        I.Essence = WeaponEssence3;
+        I.Price = Gold.FromCoins(50);
+        //I.AddObviousIngestUse(Motions.eat, 250, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedMomentumWeapon(Skills.polearm, null, Elements.physical, DamageType.Pierce, 1.d6() + 2);
+      });
+
+      mithril_greatsword = AddMeleeWeapon("mithril greatsword", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.mithril_greatsword;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = MithrilRarity;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(700);
+        I.Material = Materials.mithril;
+        I.Essence = WeaponEssence3;
+        I.Price = Gold.FromCoins(100);
+        //I.AddObviousIngestUse(Motions.eat, 350, Delay.FromTurns(30), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.heavy_blade, null, Elements.physical, DamageType.Slash, 2.d4() + 1);
+      });
+
+      mithril_shuriken = AddThrownWeapon("mithril shuriken", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("throwing star", null);
+        I.Glyph = Glyphs.mithril_shuriken;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = MithrilRarity;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(10);
+        I.Material = Materials.mithril;
+        I.Essence = WeaponEssence3;
+        I.Price = Gold.FromCoins(50);
+        I.SetWeakness(AmmoWeakness);
+        I.BundleDice = 1.d6() + 6;
+        //I.AddObviousIngestUse(Motions.eat, 5, Delay.FromTurns(10), Sonics.weapon);
+        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.disc, Sonics.throw_object, Elements.physical, DamageType.Pierce, 1.d6() + 1);
+      });
+
+      mithril_rapier = AddMeleeWeapon("mithril rapier", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.mithril_rapier;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = MithrilRarity;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(300);
+        I.Material = Materials.mithril;
+        I.Essence = WeaponEssence3;
+        I.Price = Gold.FromCoins(400);
+        //I.AddObviousIngestUse(Motions.eat, 150, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.medium_blade, null, Elements.physical, DamageType.Pierce, 1.d6() + 1).AttackModifier = Modifier.Plus2;
+      });
+
+      mithril_katana = AddMeleeWeapon("mithril katana", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("samurai sword", null);
+        I.Glyph = Glyphs.mithril_katana;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = MithrilRarity;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(400);
+        I.Material = Materials.mithril;
+        I.Essence = WeaponEssence3;
+        I.Price = Gold.FromCoins(800);
+        //I.AddObviousIngestUse(Motions.eat, 200, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.heavy_blade, null, Elements.physical, DamageType.Slash, 1.d10() + 1);
+      });
+
+      mithril_poleaxe = AddReachWeapon("mithril poleaxe", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("angled poleaxe", null);
+        I.Glyph = Glyphs.mithril_poleaxe;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = MithrilRarity;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(1500);
+        I.Material = Materials.mithril;
+        I.Essence = WeaponEssence3;
+        I.Price = Gold.FromCoins(100);
+        //I.AddObviousIngestUse(Motions.eat, 750, Delay.FromTurns(40), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetTwoHandedMomentumWeapon(Skills.polearm, null, Elements.physical, DamageType.Slash, 1.d8() + 1);
+      });
+
+      mithril_hatchet = AddThrownWeapon("mithril hatchet", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("throwing axe", null);
+        I.Glyph = Glyphs.mithril_hatchet;
+        I.Sonic = Sonics.weapon;
+        I.BundleDice = Dice.One;
+        I.Series = null;
+        I.Rarity = MithrilRarity;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(350);
+        I.Material = Materials.mithril;
+        I.Essence = WeaponEssence3;
+        I.Price = Gold.FromCoins(60);
+        //I.AddObviousIngestUse(Motions.eat, 175, Delay.FromTurns(30), Sonics.weapon);
+        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.axe, null, Elements.physical, DamageType.Slash, 1.d6() + 1);
+      });
+
+      // no shipped steel "greatmace" exists; calibrated against kanabo (two-handed Skills.mace, 2.d5(),
+      // weight 500, price 60) scaled one size class up, the way mithril_battleaxe scales up from battleaxe.
+      mithril_greatmace = AddMeleeWeapon("mithril greatmace", I =>
+      {
+        I.Description = "A massive, mithril-shod maul, its head as large as a barrel stave.";
+        I.Glyph = Glyphs.mithril_greatmace;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = MithrilRarity;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(1500);
+        I.Material = Materials.mithril;
+        I.Essence = WeaponEssence3;
+        I.Price = Gold.FromCoins(600);
+        //I.AddObviousIngestUse(Motions.eat, 750, Delay.FromTurns(40), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetTwoHandedWeapon(Skills.mace, null, Elements.physical, DamageType.Bludgeon, 2.d6() + 1);
+      });
+
+      // no shipped steel "gauntlets" weapon exists; calibrated against katar/mithril_katar (Skills.unarmed_combat,
+      // Size.Small, similar weight and price bracket) but bludgeoning, spiked-knuckle flavour instead of a blade.
+      mithril_gauntlets = AddMeleeWeapon("mithril gauntlets", I =>
+      {
+        I.Description = "A pair of gauntlets ringed with jagged knuckle-spikes, made to turn a punch into a wound.";
+        I.Glyph = Glyphs.mithril_gauntlets;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = MithrilRarity;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(150);
+        I.Material = Materials.mithril;
+        I.Essence = WeaponEssence3;
+        I.Price = Gold.FromCoins(70);
+        //I.AddObviousIngestUse(Motions.eat, 75, Delay.FromTurns(25), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.unarmed_combat, null, Elements.physical, DamageType.Bludgeon, 1.d4() + 1);
+      });
+
+      // === adamantine material weapons ===
+      // AdamantineEquivalent(I, Source) is declared above in #region adamantine; it sets Grade/Rarity/Weight/
+      // Material/Essence/Price (steel price x20, calmed above 500/1000gp) from the named steel weapon.
+
+      adamantine_katana = AddMeleeWeapon("adamantine katana", I =>
+      {
+        AdamantineEquivalent(I, katana);
+
+        I.Description = null;
+        I.SetAppearance("samurai sword", null);
+        I.Glyph = Glyphs.adamantine_katana;
+        I.Series = null;
+        //I.AddObviousIngestUse(Motions.eat, 200, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.heavy_blade, null, Elements.physical, DamageType.Slash, 1.d10() + 1);
+      });
+
+      adamantine_lance = AddReachWeapon("adamantine lance", I =>
+      {
+        AdamantineEquivalent(I, lance);
+
+        I.Description = null;
+        I.Glyph = Glyphs.adamantine_lance;
+        I.Series = null;
+        //I.AddObviousIngestUse(Motions.eat, 900, Delay.FromTurns(40), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedMomentumWeapon(Skills.lance, null, Elements.physical, DamageType.Pierce, 1.d6() + 1);
+      });
+
+      adamantine_poleaxe = AddReachWeapon("adamantine poleaxe", I =>
+      {
+        AdamantineEquivalent(I, halberd);
+
+        I.Description = null;
+        I.SetAppearance("angled poleaxe", null);
+        I.Glyph = Glyphs.adamantine_poleaxe;
+        I.Series = null;
+        //I.AddObviousIngestUse(Motions.eat, 750, Delay.FromTurns(40), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetTwoHandedMomentumWeapon(Skills.polearm, null, Elements.physical, DamageType.Slash, 1.d8() + 1);
+      });
+
+      adamantine_quarterstaff = AddMeleeWeapon("adamantine quarterstaff", I =>
+      {
+        AdamantineEquivalent(I, quarterstaff);
+
+        I.Description = null;
+        I.Glyph = Glyphs.adamantine_quarterstaff;
+        I.Series = null;
+        I.SetArmour(Skills.staff, 1);
+        //I.AddObviousIngestUse(Motions.eat, 200, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetTwoHandedWeapon(Skills.staff, null, Elements.physical, DamageType.Bludgeon, 1.d6() + 1);
+      });
+
+      adamantine_shuriken = AddThrownWeapon("adamantine shuriken", I =>
+      {
+        AdamantineEquivalent(I, shuriken);
+
+        I.Description = null;
+        I.SetAppearance("throwing star", null);
+        I.Glyph = Glyphs.adamantine_shuriken;
+        I.Series = null;
+        I.SetWeakness(); // won't break
+        I.BundleDice = 1.d6() + 6;
+        //I.AddObviousIngestUse(Motions.eat, 5, Delay.FromTurns(10), Sonics.weapon);
+        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.disc, Sonics.throw_object, Elements.physical, DamageType.Pierce, 1.d6() + 1);
+      });
+
+      adamantine_crossbow_bolt = AddRangedMissile(Ammunition.Bolt, "adamantine crossbow bolt", I =>
+      {
+        AdamantineEquivalent(I, crossbow_bolt);
+
+        I.Description = null;
+        I.Glyph = Glyphs.adamantine_crossbow_bolt;
+        I.Series = null;
+        I.SetWeakness(); // won't break
+        I.BundleDice = 1.d6() + 6;
+        //I.AddObviousIngestUse(Motions.eat, 5, Delay.FromTurns(10), Sonics.ammo);
+        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.ammo);
+        I.SetOneHandedWeapon(Skills.crossbow, null, Elements.physical, DamageType.Pierce, 1.d4() + 2);
+      });
+
+      // no shipped steel "greatmace" exists; see mithril_greatmace above for the calibration (kanabo, scaled
+      // up one size class). Adamantine armour/weapons calibrate their price off AdamantineEquivalent's own
+      // x20-then-calmed rule, so it is reproduced here by hand against kanabo's 60gp base price (60*20=1200,
+      // calmed to 120 by the same >1000-halved-again rule the helper applies to plate mail).
+      adamantine_greatmace = AddMeleeWeapon("adamantine greatmace", I =>
+      {
+        I.Description = "A massive adamantine maul, its head as large as a barrel stave, that shrugs off the recoil of its own swing.";
+        I.Grade = Grades.exotic;
+        I.Glyph = Glyphs.adamantine_greatmace;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = AdamantineRarity;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(1500);
+        I.Material = Materials.adamantine;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(120);
+        //I.AddObviousIngestUse(Motions.eat, 750, Delay.FromTurns(40), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetTwoHandedWeapon(Skills.mace, null, Elements.physical, DamageType.Bludgeon, 2.d6() + 2);
+      });
+
+      // adamantine_helmet is the material variant of the base "helmet" (AdamantineEquivalent, D:1 -> D:2,
+      // matching the +1 defence step AdamantineEquivalent's plate mail sibling takes: plate_mail D:7 -> D:8).
+      adamantine_helmet = AddArmour(ItemType.Helmet, "adamantine helmet", I =>
+      {
+        AdamantineEquivalent(I, helmet);
+
+        I.Description = null;
+        I.Glyph = Glyphs.adamantine_helmet;
+        I.Series = null;
+        //I.AddObviousIngestUse(Motions.eat, 250, Delay.FromTurns(50), Sonics.armour);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.armour);
+        I.SetArmour(Skills.heavy_armour, D: 2, P: +0, S: +0, B: +0);
+      });
+
+      // adamantine_helm is a separate, heavier great helm with no steel counterpart, sitting between
+      // dwarvish_iron_helm (D:2, 400 units, 20gp) and adamantine_helmet above -- authored by hand rather
+      // than through AdamantineEquivalent since there is no "helm" base item to derive from.
+      adamantine_helm = AddArmour(ItemType.Helmet, "adamantine helm", I =>
+      {
+        I.Description = "A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.";
+        I.Grade = Grades.exotic;
+        I.Glyph = Glyphs.adamantine_helm;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = AdamantineRarity;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(700);
+        I.Material = Materials.adamantine;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(300);
+        //I.AddObviousIngestUse(Motions.eat, 350, Delay.FromTurns(50), Sonics.armour);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.armour);
+        I.SetArmour(Skills.heavy_armour, D: 3, P: +0, S: +1, B: +0);
+      });
+
+      // === gold material weapons ===
+      // gold is precious but soft: it does not outfight steel the way mithril/adamantine do, so these keep
+      // the steel weapon's own dice unchanged and only move price/rarity/material, exactly as silver_axe
+      // (8gp -> 40gp, same 1.d7() dice as axe) does for silver. Multiplier used throughout: steel price x8.
+
+      gold_axe = AddMeleeWeapon("gold axe", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.gold_axe;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(600);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(64);
+        I.AddObviousIngestUse(Motions.eat, 300, Delay.FromTurns(30), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.axe, null, Elements.physical, DamageType.Slash, 1.d7());
+      });
+
+      gold_dagger = AddThrownWeapon("gold dagger", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.gold_dagger;
+        I.Sonic = Sonics.weapon;
+        I.BundleDice = Dice.One;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(100);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(32);
+        I.AddObviousIngestUse(Motions.eat, 50, Delay.FromTurns(10), Sonics.weapon);
+        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.light_blade, Sonics.throw_object, Elements.physical, DamageType.Pierce, 1.d4());
+      });
+
+      gold_flail = AddMeleeWeapon("gold flail", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.gold_flail;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(450);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(32);
+        I.AddObviousIngestUse(Motions.eat, 225, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.flail, null, Elements.physical, DamageType.Bludgeon, 1.d6() + 1);
+      });
+
+      // no shipped steel "khanda" exists; calibrated as a straight-bladed cousin of long_sword
+      // (Skills.heavy_blade, 1.d8(), weight 400, price 15).
+      gold_khanda = AddMeleeWeapon("gold khanda", I =>
+      {
+        I.Description = "A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.";
+        I.Glyph = Glyphs.gold_khanda;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(400);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(120);
+        I.AddObviousIngestUse(Motions.eat, 200, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.heavy_blade, null, Elements.physical, DamageType.Slash, 1.d8());
+      });
+
+      // no shipped steel "labrys" exists; calibrated as a double-headed cousin of battleaxe
+      // (Skills.axe two-handed, 2.d6(), weight 1200, price 40).
+      gold_labrys = AddMeleeWeapon("gold labrys", I =>
+      {
+        I.Description = "A ceremonial double-bitted axe, its twin blades curved like a crescent moon.";
+        I.Glyph = Glyphs.gold_labrys;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(1200);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(320);
+        I.AddObviousIngestUse(Motions.eat, 600, Delay.FromTurns(40), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetTwoHandedWeapon(Skills.axe, null, Elements.physical, DamageType.Slash, 2.d6());
+      });
+
+      gold_longsword = AddMeleeWeapon("gold longsword", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.gold_longsword;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(400);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(120);
+        I.AddObviousIngestUse(Motions.eat, 200, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.heavy_blade, null, Elements.physical, DamageType.Slash, 1.d8());
+      });
+
+      // ceremonial armour: as soft and pretty as gold_khanda is sharp, so unlike the weapons above this one
+      // does NOT keep plate_mail's own defence (D:7) -- gold is too soft to out-armour steel, so it is
+      // knocked down to D:4, calibrated below dwarvish_iron_helm's D:2 upgrade-tier and above light armour.
+      gold_plate_mail = AddArmour(ItemType.Suit, "gold plate mail", I =>
+      {
+        I.Description = "A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.";
+        I.Glyph = Glyphs.gold_plate_mail;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(4500);
+        I.Material = Materials.gold;
+        I.Essence = ArmourEssence2;
+        I.Price = Gold.FromCoins(480);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(50), Sonics.armour);
+        I.SetArmour(Skills.heavy_armour, D: 4, P: +0, S: +1, B: +0);
+        I.AddObviousIngestUse(Motions.eat, 900, Delay.FromTurns(50), Sonics.armour);
+      });
+
+      // no shipped steel "spade" weapon exists; calibrated as an improvised bludgeon in the mace's weight
+      // and price bracket (Skills.club, matching aklys/arrow, 1.d6(), weight 300, price 5).
+      gold_spade = AddMeleeWeapon("gold spade", I =>
+      {
+        I.Description = "A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.";
+        I.Glyph = Glyphs.gold_spade;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(300);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(40);
+        I.AddObviousIngestUse(Motions.eat, 150, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.club, null, Elements.physical, DamageType.Bludgeon, 1.d6());
+      });
+
+      gold_trident = AddReachWeapon("gold trident", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("three-pointed polearm", null);
+        I.Glyph = Glyphs.gold_trident;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(500);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(40);
+        I.AddObviousIngestUse(Motions.eat, 250, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedMomentumWeapon(Skills.polearm, null, Elements.physical, DamageType.Pierce, 1.d6() + 1);
+      });
+
+      gold_twohanded_sword = AddMeleeWeapon("gold twohanded sword", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.gold_twohanded_sword;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(800);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(400);
+        I.AddObviousIngestUse(Motions.eat, 400, Delay.FromTurns(30), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetTwoHandedWeapon(Skills.heavy_blade, null, Elements.physical, DamageType.Slash, 1.d12());
+      });
+
+      // no shipped steel "urumi" exists; calibrated against bullwhip (Skills.whip, 1.d4(), weight 200, price 4).
+      gold_urumi = AddReachWeapon("gold urumi", I =>
+      {
+        I.Description = "A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.";
+        I.Glyph = Glyphs.gold_urumi;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(200);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(32);
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(20), Sonics.leather);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.leather);
+        I.SetOneHandedWeapon(Skills.whip, null, Elements.physical, DamageType.Slash, 1.d4());
+      });
+
+      gold_chakram = AddThrownWeapon("gold chakram", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("throwing disc", null);
+        I.Glyph = Glyphs.gold_chakram;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(50);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(80);
+        I.AddObviousIngestUse(Motions.eat, 25, Delay.FromTurns(10), Sonics.weapon);
+        I.SetWeakness(AmmoWeakness);
+        I.BundleDice = 1.d3() + 3;
+        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.disc, Sonics.throw_object, Elements.physical, DamageType.Slash, 1.d8());
+      });
+
+      // no shipped steel "vajra" exists; single vajra calibrated against the one-handed mace
+      // (Skills.mace, 1.d6()+1, weight 300, price 5).
+      gold_single_vajra = AddMeleeWeapon("gold single vajra", I =>
+      {
+        I.Description = "A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.";
+        I.Glyph = Glyphs.gold_single_vajra;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(300);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(40);
+        I.AddObviousIngestUse(Motions.eat, 150, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.mace, null, Elements.physical, DamageType.Bludgeon, 1.d6() + 1);
+      });
+
+      // double vajra calibrated against kanabo (Skills.mace two-handed, 2.d5(), weight 500, price 60).
+      gold_double_vajra = AddMeleeWeapon("gold double vajra", I =>
+      {
+        I.Description = "A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.";
+        I.Glyph = Glyphs.gold_double_vajra;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(500);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(480);
+        I.AddObviousIngestUse(Motions.eat, 250, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetTwoHandedWeapon(Skills.mace, null, Elements.physical, DamageType.Bludgeon, 2.d5());
+      });
+
+      // gold_whistle is a material variant of tin_whistle (same Motions.play sleep-debuff/pacify-dog use,
+      // AddInstrument, ToolEssence0, price scaled 10gp -> 80gp the same x8 way the weapons above are).
+      gold_whistle = AddInstrument("gold whistle", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("whistle", null);
+        I.Glyph = Glyphs.gold_whistle;
+        I.Sonic = Sonics.tool;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Tiny;
+        I.Weight = Weight.FromUnits(30);
+        I.Material = Materials.gold;
+        I.Essence = ToolEssence0;
+        I.Price = Gold.FromCoins(80);
+        I.AddObviousUse(Motions.play, new Utility(Purpose.Debuff, Property: Properties.sleeping), Delay.FromTurns(10), Sonics.whistle, Use =>
+        {
+          Use.Apply.Alert(Dice.Fixed(10));
+          Use.Apply.WithSourceSanctity
+          (
+            B => B.PacifyEntity(Elements.magical, Kinds.dog),
+            U => U.Nothing(),
+            C => C.AreaTransient(Properties.aggravation, 3.d6() + 3, Kinds.dog)
+          );
+        });
+        I.AddObviousIngestUse(Motions.eat, 30, Delay.FromTurns(10), Sonics.tool);
+      });
+
+      // === rose material weapons ===
+      // rose is a rose-gold alloy (Materials.gold, no separate material exists for it), rarer and pricier
+      // than the plain gold line above: same steel dice, steel price x12, single-tileset novelty rarity.
+
+      rose_axe = AddMeleeWeapon("rose axe", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.rose_axe;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 1;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(600);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(96);
+        I.AddObviousIngestUse(Motions.eat, 300, Delay.FromTurns(30), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.axe, null, Elements.physical, DamageType.Slash, 1.d7());
+      });
+
+      rose_battleaxe = AddMeleeWeapon("rose battleaxe", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("double-headed axe", null);
+        I.Glyph = Glyphs.rose_battleaxe;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 1;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(1200);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(480);
+        I.AddObviousIngestUse(Motions.eat, 600, Delay.FromTurns(40), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetTwoHandedWeapon(Skills.axe, null, Elements.physical, DamageType.Slash, 2.d6());
+      });
+
+      // derived from trident, same as adamantine_bident is -- see #region adamantine for the precedent
+      // ("exotic two-pointed polearm" is required as an appearance for polearms by the sanity check).
+      rose_bident = AddReachWeapon("rose bident", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("exotic two-pointed polearm", null);
+        I.Glyph = Glyphs.rose_bident;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 1;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(500);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(60);
+        I.AddObviousIngestUse(Motions.eat, 250, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedMomentumWeapon(Skills.polearm, null, Elements.physical, DamageType.Pierce, 1.d6() + 1);
+      });
+
+      rose_dagger = AddThrownWeapon("rose dagger", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.rose_dagger;
+        I.Sonic = Sonics.weapon;
+        I.BundleDice = Dice.One;
+        I.Series = null;
+        I.Rarity = 1;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(100);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(48);
+        I.AddObviousIngestUse(Motions.eat, 50, Delay.FromTurns(10), Sonics.weapon);
+        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.light_blade, Sonics.throw_object, Elements.physical, DamageType.Pierce, 1.d4());
+      });
+
+      rose_greatsword = AddMeleeWeapon("rose greatsword", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.rose_greatsword;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 1;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(700);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(120);
+        I.AddObviousIngestUse(Motions.eat, 350, Delay.FromTurns(30), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.heavy_blade, null, Elements.physical, DamageType.Slash, 2.d4());
+      });
+
+      rose_hatchet = AddThrownWeapon("rose hatchet", I =>
+      {
+        I.Description = null;
+        I.SetAppearance("throwing axe", null);
+        I.Glyph = Glyphs.rose_hatchet;
+        I.Sonic = Sonics.weapon;
+        I.BundleDice = Dice.One;
+        I.Series = null;
+        I.Rarity = 1;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(350);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(72);
+        I.AddObviousIngestUse(Motions.eat, 175, Delay.FromTurns(30), Sonics.weapon);
+        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.axe, null, Elements.physical, DamageType.Slash, 1.d6());
+      });
+
+      rose_long_sword = AddMeleeWeapon("rose long sword", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.rose_long_sword;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 1;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(400);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(180);
+        I.AddObviousIngestUse(Motions.eat, 200, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.heavy_blade, null, Elements.physical, DamageType.Slash, 1.d8());
+      });
+
+      rose_rapier = AddMeleeWeapon("rose rapier", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.rose_rapier;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 1;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(300);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(480);
+        I.AddObviousIngestUse(Motions.eat, 150, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.medium_blade, null, Elements.physical, DamageType.Pierce, 1.d6()).AttackModifier = Modifier.Plus2;
+      });
+
+      rose_sabre = AddMeleeWeapon("rose sabre", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.rose_sabre;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 1;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(400);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(240);
+        I.AddObviousIngestUse(Motions.eat, 200, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedMomentumWeapon(Skills.medium_blade, null, Elements.physical, DamageType.Slash, 1.d6() + 1);
+      });
+
+      rose_short_sword = AddMeleeWeapon("rose short sword", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.rose_short_sword;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 1;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(300);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(120);
+        I.AddObviousIngestUse(Motions.eat, 150, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.medium_blade, null, Elements.physical, DamageType.Pierce, 1.d6());
+      });
+
+      rose_spear = AddReachWeapon("rose spear", I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.rose_spear;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 1;
+        I.Size = Size.Medium;
+        I.Weight = Weight.FromUnits(350);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(72);
+        I.AddObviousIngestUse(Motions.eat, 175, Delay.FromTurns(20), Sonics.weapon);
+        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.spear, null, Elements.physical, DamageType.Pierce, 1.d6());
+      });
+
+      // rose_ring is a war-quoit in the shape of a ring, the same disc-throwing shape as chakram
+      // (Skills.disc, 1.d8(), weight 50, price 10) rather than a piece of jewellery.
+      rose_ring = AddThrownWeapon("rose ring", I =>
+      {
+        I.Description = "A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.";
+        I.SetAppearance("throwing disc", null);
+        I.Glyph = Glyphs.rose_ring;
+        I.Sonic = Sonics.weapon;
+        I.Series = null;
+        I.Rarity = 1;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(50);
+        I.Material = Materials.gold;
+        I.Essence = WeaponEssence2;
+        I.Price = Gold.FromCoins(120);
+        I.AddObviousIngestUse(Motions.eat, 25, Delay.FromTurns(10), Sonics.weapon);
+        I.SetWeakness(AmmoWeakness);
+        I.BundleDice = 1.d3() + 3;
+        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.weapon);
+        I.SetOneHandedWeapon(Skills.disc, Sonics.throw_object, Elements.physical, DamageType.Slash, 1.d8());
+      });
+      // <<< GENERATED ITEMS <<<
+      // >>> GENERATED STOCK-RECRUITERS >>>
+      CodexRecruiter.Enrol(() =>
+      {
+        foreach (var Amulet in Stocks.amulet.Items.Where(R => R != amulet_of_nada && !R.Grade.Unique))
+          Register.Edit(Amulet).SetDowngradeItem(amulet_of_nada);
+      });
+      CodexRecruiter.Enrol(() =>
+      {
+        foreach (var Book in Stocks.book.Items.Where(B => B != book_of_blank_paper && !B.Grade.Unique))
+          Register.Edit(Book).SetDowngradeItem(book_of_blank_paper);
+      });
+      CodexRecruiter.Enrol(() =>
+      {
+        foreach (var Potion in Stocks.potion.Items.Where(P => P != potion_of_water && !P.Grade.Unique && P.DowngradeItem == null))
+          Register.Edit(Potion).SetDowngradeItem(potion_of_water);
+      });
+      CodexRecruiter.Enrol(() =>
+      {
+        foreach (var Ring in Stocks.ring.Items.Where(R => R.Type == ItemType.Ring && R != ring_of_naught && !R.Grade.Unique))
+          Register.Edit(Ring).SetDowngradeItem(ring_of_naught);
+      });
+      CodexRecruiter.Enrol(() =>
+      {
+        foreach (var Earring in Stocks.ring.Items.Where(R => R.Type == ItemType.Earwear && R != costume_earrings && !R.Grade.Unique))
+          Register.Edit(Earring).SetDowngradeItem(costume_earrings);
+      });
+      CodexRecruiter.Enrol(() =>
+      {
+        foreach (var Scroll in Stocks.scroll.Items.Where(B => B != scroll_of_blank_paper && !B.Grade.Unique))
+          Register.Edit(Scroll).SetDowngradeItem(scroll_of_blank_paper);
+      });
+      CodexRecruiter.Enrol(() =>
+      {
+        foreach (var Wand in Stocks.wand.Items.Where(W => W != wand_of_nothing && W.DowngradeItem == null && !W.Grade.Unique))
+          Register.Edit(Wand).SetDowngradeItem(wand_of_nothing);
+      });
+      // <<< GENERATED STOCK-RECRUITERS <<<
       #region Compatibility
       // replaced grey dragon with gold dragon patch.
       Register.Alias(gold_dragon_scales, "grey dragon scales");
@@ -15785,6 +19795,285 @@ namespace Pathos
     public readonly Item amulet_versus_stone;
 
     // books.
+    // >>> GENERATED BOOK-FIELDS >>>
+    public readonly Item book_of_stone_to_flesh;
+    public readonly Item book_of_clear_sight;
+    public readonly Item book_of_danger_sense;
+    public readonly Item book_of_mirror_ward;
+    public readonly Item book_of_planar_anchor;
+    public readonly Item book_of_hexbind;
+    public readonly Item book_of_blade_blessing;
+    public readonly Item book_of_atonement;
+    public readonly Item book_of_rally_cry;
+    public readonly Item book_of_chromatic_orb;
+    public readonly Item book_of_prismatic_spray;
+    public readonly Item book_of_hold_monster;
+    public readonly Item book_of_concussive_blast;
+    public readonly Item book_of_death_ward;
+    public readonly Item book_of_stoneskin;
+    public readonly Item book_of_displacement;
+    public readonly Item book_of_discord;
+    public readonly Item book_of_warning_ward;
+    public readonly Item book_of_owl_eyes;
+    public readonly Item book_of_augury;
+    public readonly Item book_of_keen_search;
+    public readonly Item book_of_find_traps;
+    public readonly Item book_of_detect_undead;
+    public readonly Item book_of_sense_curse;
+    public readonly Item book_of_revelation;
+    public readonly Item book_of_find_doors;
+    public readonly Item book_of_detect_metal;
+    public readonly Item book_of_mind_ken;
+    public readonly Item book_of_foreknowledge;
+    public readonly Item book_of_true_appraisal;
+    public readonly Item book_of_oracles_eye;
+    public readonly Item book_of_premonition;
+    public readonly Item book_of_world_vision;
+    public readonly Item book_of_hex;
+    public readonly Item book_of_daze;
+    public readonly Item book_of_swoon;
+    public readonly Item book_of_calm;
+    public readonly Item book_of_hideous_laughter;
+    public readonly Item book_of_psychic_shove;
+    public readonly Item book_of_battle_fury;
+    public readonly Item book_of_tongue_tied;
+    public readonly Item book_of_grasping_mind;
+    public readonly Item book_of_mind_spike;
+    public readonly Item book_of_iron_will;
+    public readonly Item book_of_hold_person;
+    public readonly Item book_of_mind_link;
+    public readonly Item book_of_clouded_mind;
+    public readonly Item book_of_song_of_discord;
+    public readonly Item book_of_creeping_palsy;
+    public readonly Item book_of_dominate_mind;
+    public readonly Item book_of_mindrend;
+    public readonly Item book_of_bless;
+    public readonly Item book_of_sense_the_restless;
+    public readonly Item book_of_command;
+    public readonly Item book_of_bane;
+    public readonly Item book_of_sanctuary;
+    public readonly Item book_of_commune;
+    public readonly Item book_of_silence;
+    public readonly Item book_of_freedom_of_movement;
+    public readonly Item book_of_consecration;
+    public readonly Item book_of_ward_of_return;
+    public readonly Item book_of_searing_light;
+    public readonly Item book_of_prayer;
+    public readonly Item book_of_spirit_shield;
+    public readonly Item book_of_holy_word;
+    public readonly Item book_of_divine_favor;
+    public readonly Item book_of_divine_intervention;
+    public readonly Item book_of_caltrop_swarm;
+    public readonly Item book_of_unseen_hand;
+    public readonly Item book_of_web_snare;
+    public readonly Item book_of_entangling_vines;
+    public readonly Item book_of_conjure_homunculus;
+    public readonly Item book_of_conjured_pit;
+    public readonly Item book_of_conjure_mount;
+    public readonly Item book_of_planar_swap;
+    public readonly Item book_of_conjure_boulder;
+    public readonly Item book_of_call_of_the_pack;
+    public readonly Item book_of_wall_of_thorns;
+    public readonly Item book_of_conjure_guardian;
+    public readonly Item book_of_repelling_ward;
+    public readonly Item book_of_elemental_servant;
+    public readonly Item book_of_binding_sphere;
+    public readonly Item book_of_earthen_colossus;
+    public readonly Item book_of_simulacrum;
+    public readonly Item book_of_gate;
+    public readonly Item book_of_sentinel_ward;
+    public readonly Item book_of_hazard_sense;
+    public readonly Item book_of_shimmer_shield;
+    public readonly Item book_of_slipping_free;
+    public readonly Item book_of_freedom;
+    public readonly Item book_of_veil_of_shadows;
+    public readonly Item book_of_inner_calm;
+    public readonly Item book_of_steadfast_ward;
+    public readonly Item book_of_unbinding;
+    public readonly Item book_of_blurred_form;
+    public readonly Item book_of_disarming_ward;
+    public readonly Item book_of_repulsion;
+    public readonly Item book_of_guided_path;
+    public readonly Item book_of_changeless_ward;
+    public readonly Item book_of_neutralize_poison;
+    public readonly Item book_of_elemental_warding;
+    public readonly Item book_of_dispel_magic;
+    public readonly Item book_of_undying_ward;
+    public readonly Item book_of_chill_grasp;
+    public readonly Item book_of_false_life;
+    public readonly Item book_of_deathwatch;
+    public readonly Item book_of_spectral_shroud;
+    public readonly Item book_of_ray_of_enfeeblement;
+    public readonly Item book_of_grave_rot;
+    public readonly Item book_of_spirit_leech;
+    public readonly Item book_of_contagion;
+    public readonly Item book_of_banshee_wail;
+    public readonly Item book_of_whispers_of_madness;
+    public readonly Item book_of_wither;
+    public readonly Item book_of_corpse_explosion;
+    public readonly Item book_of_legion_of_bone;
+    public readonly Item book_of_reap;
+    public readonly Item book_of_vampiric_feast;
+    public readonly Item book_of_deaths_bargain;
+    public readonly Item book_of_black_plague;
+    public readonly Item book_of_spark_bolt;
+    public readonly Item book_of_ember_lance;
+    public readonly Item book_of_frost_breath;
+    public readonly Item book_of_arcing_bolt;
+    public readonly Item book_of_timed_combustion;
+    public readonly Item book_of_scalding_cloud;
+    public readonly Item book_of_thunderclap;
+    public readonly Item book_of_corroding_ray;
+    public readonly Item book_of_sunburst_smite;
+    public readonly Item book_of_black_ice_patch;
+    public readonly Item book_of_wildfire_brand;
+    public readonly Item book_of_crimson_ichor_lance;
+    public readonly Item book_of_slick_detonation;
+    public readonly Item book_of_arc_conduit;
+    public readonly Item book_of_acid_splash;
+    public readonly Item book_of_entropic_siphon;
+    public readonly Item book_of_glacial_spike;
+    public readonly Item book_of_withering_ray;
+    public readonly Item book_of_juggernaut_ray;
+    public readonly Item book_of_starfall;
+    public readonly Item book_of_chain_lightning;
+    public readonly Item book_of_meteoric_cataclysm;
+    public readonly Item book_of_wall_breach;
+    public readonly Item book_of_causeway;
+    public readonly Item book_of_ironbind_door;
+    public readonly Item book_of_porters_reach;
+    public readonly Item book_of_sunder_gear;
+    public readonly Item book_of_gilding_touch;
+    public readonly Item book_of_claybind_touch;
+    public readonly Item book_of_arcane_whetstone;
+    public readonly Item book_of_arcane_blight;
+    public readonly Item book_of_petrifying_touch;
+    public readonly Item book_of_shrink;
+    public readonly Item book_of_enlarge;
+    public readonly Item book_of_telekinetic_shove;
+    public readonly Item book_of_conjure_barricade;
+    public readonly Item book_of_gravity_well;
+    public readonly Item book_of_artificers_exchange;
+    public readonly Item book_of_barring_ward;
+    public readonly Item book_of_transmuters_mastery;
+    public readonly Item book_of_harvest_of_souls;
+    // <<< GENERATED BOOK-FIELDS <<<
+    // >>> GENERATED ITEMS-FIELDS >>>
+    public readonly Item naginata;
+    public readonly Item Stormbringer;
+    public readonly Item Mournblade;
+    public readonly Item Gungir;
+    public readonly Item Vajra;
+    public readonly Item Sudarshana_Chakra;
+    public readonly Item Shillelagh;
+    public readonly Item Runicorn_Horn;
+    public readonly Item Zweihander;
+    public readonly Item khopesh_artifact;
+    public readonly Item Celestial_Doom;
+    public readonly Item Celestial_Kismet;
+    public readonly Item Celestial_Portent;
+    public readonly Item Nonagon_Infinity;
+    public readonly Item Demiurge;
+    public readonly Item luckstone;
+    public readonly Item loadstone;
+    public readonly Item touchstone;
+    public readonly Item darkstone;
+    public readonly Item healthstone;
+    public readonly Item whetstone;
+    public readonly Item medical_kit;
+    public readonly Item stethoscope;
+    public readonly Item bandage;
+    public readonly Item tin_opener;
+    public readonly Item towel;
+    public readonly Item credit_card;
+    public readonly Item leash;
+    public readonly Item mirror;
+    public readonly Item candelabrum;
+    public readonly Item dragon_horn;
+    public readonly Item phial;
+    public readonly Item pill;
+    public readonly Item fishing_pole;
+    public readonly Item grappling_hook;
+    public readonly Item eyeball;
+    public readonly Item glossy_potion_of_sustenance;
+    public readonly Item khaki_potion_of_warning;
+    public readonly Item mooshroom;
+    public readonly Item strange_object;
+    public readonly Item khopesh;
+    public readonly Item triplesword;
+    public readonly Item war_maul;
+    public readonly Item elven_chakram;
+    public readonly Item orcish_chakram;
+    public readonly Item dwarvish_katar;
+    public readonly Item silver_rapier;
+    public readonly Item elven_hand_crossbow;
+    public readonly Item sling_staff;
+    public readonly Item wheellock_pistol;
+    public readonly Item railgun;
+    public readonly Item baseball_bat;
+    public readonly Item plastic_bat;
+    public readonly Item plastic_hammer;
+    public readonly Item frisbee;
+    public readonly Item yoyo;
+    public readonly Item steel_boots;
+    public readonly Item fancy_boots;
+    public readonly Item cloth_shirt;
+    public readonly Item doublet;
+    public readonly Item tabard;
+    public readonly Item crimson_cloak;
+    public readonly Item barbed_ring;
+    public readonly Item eternity_ring;
+    public readonly Item silly_wand;
+    public readonly Item forked_wand;
+    public readonly Item pine_wand;
+    public readonly Item plastic_wand;
+    public readonly Item mithril_axe;
+    public readonly Item mithril_trident;
+    public readonly Item mithril_greatsword;
+    public readonly Item mithril_shuriken;
+    public readonly Item mithril_rapier;
+    public readonly Item mithril_katana;
+    public readonly Item mithril_poleaxe;
+    public readonly Item mithril_hatchet;
+    public readonly Item mithril_greatmace;
+    public readonly Item mithril_gauntlets;
+    public readonly Item adamantine_katana;
+    public readonly Item adamantine_lance;
+    public readonly Item adamantine_poleaxe;
+    public readonly Item adamantine_quarterstaff;
+    public readonly Item adamantine_shuriken;
+    public readonly Item adamantine_crossbow_bolt;
+    public readonly Item adamantine_greatmace;
+    public readonly Item adamantine_helmet;
+    public readonly Item adamantine_helm;
+    public readonly Item gold_axe;
+    public readonly Item gold_dagger;
+    public readonly Item gold_flail;
+    public readonly Item gold_khanda;
+    public readonly Item gold_labrys;
+    public readonly Item gold_longsword;
+    public readonly Item gold_plate_mail;
+    public readonly Item gold_spade;
+    public readonly Item gold_trident;
+    public readonly Item gold_twohanded_sword;
+    public readonly Item gold_urumi;
+    public readonly Item gold_chakram;
+    public readonly Item gold_single_vajra;
+    public readonly Item gold_double_vajra;
+    public readonly Item gold_whistle;
+    public readonly Item rose_axe;
+    public readonly Item rose_battleaxe;
+    public readonly Item rose_bident;
+    public readonly Item rose_dagger;
+    public readonly Item rose_greatsword;
+    public readonly Item rose_hatchet;
+    public readonly Item rose_long_sword;
+    public readonly Item rose_rapier;
+    public readonly Item rose_sabre;
+    public readonly Item rose_short_sword;
+    public readonly Item rose_spear;
+    public readonly Item rose_ring;
+    // <<< GENERATED ITEMS-FIELDS <<<
     public readonly Item book_of_acid_stream;
     public readonly Item book_of_animate_dead;
     public readonly Item book_of_animate_object;

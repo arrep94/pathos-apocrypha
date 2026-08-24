@@ -48,30 +48,28 @@ namespace Pathos
         // TODO: can't rest.
       });
       */
-      /*
       mutation = AddAffliction("mutation", "Groteseque changes are happening to your body.", Glyphs.mutation_affliction, Sonics.polymorph, A =>
       {
         A.Taint = Inv.Colour.LightPink.Opacity(0.50F);
 
         A.SetSymptom(Chance.OneIn100, P =>
         {
-          P.WhenChance(Chance.OneIn2, T => T.DecreaseAbility(Attributes.Charisma, Dice.One));
+          P.WhenChance(Chance.OneIn2, T => T.DecreaseAbility(Attributes.charisma, Dice.One));
           P.WhenProbability(R =>
           {
-            R.Add(10, S => S.IncreaseAbility(Attributes.Strength, Dice.One));
-            R.Add(10, S => S.IncreaseAbility(Attributes.Dexterity, Dice.One));
-            R.Add(10, S => S.IncreaseAbility(Attributes.Constitution, Dice.One));
-            R.Add(10, S => S.IncreaseAbility(Attributes.Intelligence, Dice.One));
-            R.Add(10, S => S.IncreaseAbility(Attributes.Wisdom, Dice.One));
-            R.Add(10, S => S.DecreaseAbility(Attributes.Strength, Dice.One));
-            R.Add(10, S => S.DecreaseAbility(Attributes.Dexterity, Dice.One));
-            R.Add(10, S => S.DecreaseAbility(Attributes.Constitution, Dice.One));
-            R.Add(10, S => S.DecreaseAbility(Attributes.Intelligence, Dice.One));
-            R.Add(10, S => S.DecreaseAbility(Attributes.Wisdom, Dice.One));
+            R.Add(10, S => S.IncreaseAbility(Attributes.strength, Dice.One));
+            R.Add(10, S => S.IncreaseAbility(Attributes.dexterity, Dice.One));
+            R.Add(10, S => S.IncreaseAbility(Attributes.constitution, Dice.One));
+            R.Add(10, S => S.IncreaseAbility(Attributes.intelligence, Dice.One));
+            R.Add(10, S => S.IncreaseAbility(Attributes.wisdom, Dice.One));
+            R.Add(10, S => S.DecreaseAbility(Attributes.strength, Dice.One));
+            R.Add(10, S => S.DecreaseAbility(Attributes.dexterity, Dice.One));
+            R.Add(10, S => S.DecreaseAbility(Attributes.constitution, Dice.One));
+            R.Add(10, S => S.DecreaseAbility(Attributes.intelligence, Dice.One));
+            R.Add(10, S => S.DecreaseAbility(Attributes.wisdom, Dice.One));
           });
         });
       });
-      */
       /*
       myopia = AddAffliction("myopia", ".", Glyphs.myopia_affliction, Sonics.polymorph, A =>
       {
@@ -153,7 +151,7 @@ namespace Pathos
 
     public readonly Affliction crabs;
     //public readonly Affliction insomnia;
-    //public readonly Affliction mutation;
+    public readonly Affliction mutation;
     //public readonly Affliction myopia;
     public readonly Affliction nits;
     public readonly Affliction poisoning;

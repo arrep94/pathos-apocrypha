@@ -1,4 +1,5 @@
 ﻿AfflictionDescription,Deadly venom courses through your veins.,ארס קטלני זורם בוורידים שלך.
+AfflictionDescription,Groteseque changes are happening to your body.,
 AfflictionDescription,Something deeply unsettling is happening... down there.,משהו מטריד מאוד קורה... שם למטה.
 AfflictionDescription,There is a gnawing sensation from deep inside your stomach.,תחושה מכרסמת לך עמוק בבטן.
 AfflictionDescription,This viral disease causes inflammation of the brain and is spread by infected animals.,הנגיף הזה גורם לדלקת במוח והוא מועבר על ידי בעלי חיים חולים.
@@ -6,6 +7,7 @@ AfflictionDescription,You feel unclean and everything itches.,יש לך תחוש
 AfflictionDescription,You have a dreadful case of stomach acid.,הבטן שלך חומצית בצורה נוראה.
 AfflictionDescription,Your skin is sickly green and something is very wrong inside your stomach.,לעור שלך יש גוון ירוק חולני ומשהו מאוד לא בסדר בבטן שלך.
 AfflictionName,crabs,סרטנים
+AfflictionName,mutation,
 AfflictionName,nits,כינים
 AfflictionName,poisoning,הרעלה
 AfflictionName,rabies,כלבת
@@ -43,76 +45,136 @@ AppearanceDescription,A short but sturdy looking coat of mithril armour.,חלי�
 AppearanceDescription,A slender and delicate looking coat of mithril armour.,חליפת שריון מיתריל דקה ועדינה למראה.
 AppearanceDescription,A slender and glossy looking coat of mithril armour.,חליפת שריון מיתריל דקה ומבריקה.
 AppearanceDescription,This classic wizard accessory is a pointed hat decorated with moons and stars.,אביזר הקוסמים הקלאסי הזה הוא כובע מחודד מעוטר בירחים וכוכבים.
+AppearanceName,acrid book,
 AppearanceName,adamantine slug,חשופית אדמנטיט
 AppearanceName,adamantine staff,מטה אדמנטיט
 AppearanceName,agate ring,טבעת ברקת
+AppearanceName,alabaster book,
 AppearanceName,aluminium wand,שרביט אלומיניום
+AppearanceName,amber book,
+AppearanceName,ancient book,
 AppearanceName,angled poleaxe,גרזן-חנית זוויתי
+AppearanceName,antique book,
+AppearanceName,arcane book,
+AppearanceName,arcing book,
+AppearanceName,argent book,
+AppearanceName,ashen book,
 AppearanceName,backwards book,ספר הפוך
 AppearanceName,bag,תיק
 AppearanceName,balsa wand,שרביט מעץ בלסה
 AppearanceName,bamboo arrow,חץ במבוק
 AppearanceName,bamboo wand,שרביט במבוק
+AppearanceName,banded book,
+AppearanceName,barbed ring,
+AppearanceName,basalt book,
+AppearanceName,battered book,
+AppearanceName,beaded book,
 AppearanceName,beaked polearm,נשק-מוט עם קרס מקור
 AppearanceName,bell,פעמון
 AppearanceName,big book,ספר גדול
+AppearanceName,bilious book,
+AppearanceName,birch book,
 AppearanceName,black book,ספר שחור
+AppearanceName,black bound book,
 AppearanceName,black gem,אבן חן שחורה
 AppearanceName,black gloves,כפפות שחורות
 AppearanceName,black onyx ring,טבעת שוהם שחורה
 AppearanceName,black potion,שיקוי שחור
+AppearanceName,black stone,
 AppearanceName,black wand,שרביט שחור
+AppearanceName,blackened book,
+AppearanceName,bloodstained book,
 AppearanceName,bloody potion,שיקוי דמוי דם
 AppearanceName,blue and green shield,מגן כחול-ירוק
 AppearanceName,blue gem,אבן חן כחולה
 AppearanceName,blue robe,אדרת כחולה
+AppearanceName,bone book,
+AppearanceName,bone bound book,
 AppearanceName,bone earrings,עגילי עצם
 AppearanceName,bone staff,מטה עצם
+AppearanceName,bone white book,
+AppearanceName,boulder bound book,
+AppearanceName,bramble book,
+AppearanceName,brass book,
+AppearanceName,brass bound book,
+AppearanceName,brass clasped book,
 AppearanceName,brass ring,טבעת פליז
 AppearanceName,brass wand,שרביט פליז
 AppearanceName,brilliant blue potion,שיקוי כחול זוהר
+AppearanceName,brittle book,
+AppearanceName,broad katar,
 AppearanceName,broad pick,מכוש רחב
 AppearanceName,broad short sword,חרב קצרה ורחבה
 AppearanceName,bronze book,ספר ארד
 AppearanceName,bronze ring,טבעת ארד
 AppearanceName,bronze wand,שרביט ארד
+AppearanceName,bronzed book,
 AppearanceName,brown potion,שיקוי חום
 AppearanceName,bubbly potion,שיקוי תוסס
+AppearanceName,buckled book,
 AppearanceName,bugle,קרנון
+AppearanceName,burnished book,
 AppearanceName,candle,נר
 AppearanceName,canvas book,ספר קנבס
+AppearanceName,celestial book,
 AppearanceName,ceramic wand,שרביט קרמיקה
+AppearanceName,chained book,
+AppearanceName,chalkstone book,
+AppearanceName,charcoal book,
+AppearanceName,charnel book,
+AppearanceName,charred book,
+AppearanceName,cinder book,
+AppearanceName,cindered book,
 AppearanceName,circular amulet,קמע עגול
+AppearanceName,clasped book,
+AppearanceName,clay bound book,
 AppearanceName,clay ring,טבעת חימר
 AppearanceName,clear potion,שיקוי שקוף
+AppearanceName,clockwork gun,
 AppearanceName,cloth book,ספר מבד
 AppearanceName,cloudy potion,שיקוי מעונן
 AppearanceName,coarse mantelet,אצטלה גסה
+AppearanceName,cobalt book,
+AppearanceName,cobblestone book,
+AppearanceName,coiled gun,
 AppearanceName,colourful book,ספר צבעוני
 AppearanceName,combat boots,מגפי קרב
 AppearanceName,compact gun,אקדח
+AppearanceName,compass bound book,
 AppearanceName,concave amulet,קמע קעור
 AppearanceName,conical hat,כובע משולש
+AppearanceName,consecrated book,
 AppearanceName,convex amulet,קמע קמור
 AppearanceName,copper book,ספר נחושת
 AppearanceName,copper ring,טבעת נחושת
 AppearanceName,copper wand,שרביט נחושת
+AppearanceName,coral book,
 AppearanceName,coral ring,טבעת אלמוג
+AppearanceName,corded book,
+AppearanceName,cracked book,
+AppearanceName,cratered book,
 AppearanceName,crested helmet,קסדה מצוייצת
+AppearanceName,crimson book,
 AppearanceName,crude arrow,חץ גס
 AppearanceName,crude bow,קשת גסה
 AppearanceName,crude chain mail,שריון שרשראות גס
 AppearanceName,crude dagger,פגיון גס
+AppearanceName,crude disc,
 AppearanceName,crude ring mail,שריון טבעות גס
 AppearanceName,crude short sword,חרב קצרה וגסה
 AppearanceName,crude spear,חנית גסה
+AppearanceName,crumbling book,
+AppearanceName,crystal book,
 AppearanceName,crystal staff,מטה בדולח
 AppearanceName,crystal wand,שרביט בדולח
+AppearanceName,crystalline book,
 AppearanceName,curved polearm,נשק-מוט מעוקל
 AppearanceName,curved sword,חרב מעוקלת
 AppearanceName,curved wand,שרביט מעוקל
+AppearanceName,cut glass book,
 AppearanceName,cyan book,ספר תכלת
 AppearanceName,cyan potion,שיקוי תכלת
+AppearanceName,damascened book,
 AppearanceName,dark blue book,ספר כחול כהה
 AppearanceName,dark brown book,ספר חום כהה
 AppearanceName,dark green book,ספר ירוק כהה
@@ -122,27 +184,43 @@ AppearanceName,deep book,ספר מעמקים
 AppearanceName,diamond ring,טבעת יהלום
 AppearanceName,dirty rag,סמרטוט מטונף
 AppearanceName,dog eared book,ספר ממורטט
+AppearanceName,dolomite book,
 AppearanceName,double-headed axe,גרזן כפול
+AppearanceName,dove grey book,
+AppearanceName,dress boots,
 AppearanceName,drum,תוף
 AppearanceName,dull book,ספר עמום
+AppearanceName,dusk blue book,
 AppearanceName,dusty book,ספר מאובק
 AppearanceName,ebony wand,שרביט הבנה
+AppearanceName,eelskin book,
 AppearanceName,effervescent potion,שיקוי מבעבע
+AppearanceName,ember book,
 AppearanceName,emerald potion,שיקוי איזמרגד
 AppearanceName,emerald ring,טבעת איזמרגד
 AppearanceName,engagement ring,טבעת אירוסין
+AppearanceName,etched book,
 AppearanceName,etched helmet,קסדה רקועה
+AppearanceName,eternity ring,
 AppearanceName,exotic two-pointed polearm,נשק-מוט אקזוטי דו-חודי
 AppearanceName,faded book,ספר דהוי
 AppearanceName,faded pall,תכריך דהוי
+AppearanceName,feldspar book,
 AppearanceName,fencing gloves,כפפות סייף
 AppearanceName,figurine,פסלון
 AppearanceName,fine mithril-coat,שריון מיתריל משובח
 AppearanceName,fizzy potion,שיקוי מוגז
+AppearanceName,flint book,
 AppearanceName,flute,חליל
 AppearanceName,forked polearm,נשק-מוט מפוצל
+AppearanceName,forked wand,
+AppearanceName,frostbitten book,
+AppearanceName,frosted book,
 AppearanceName,fur boots,מגפי פרווה
 AppearanceName,fuzzy book,ספר מטושטש
+AppearanceName,gale book,
+AppearanceName,gilded book,
+AppearanceName,glass bound book,
 AppearanceName,glass orb,כדור זכוכית
 AppearanceName,glass ring,טבעת זכוכית
 AppearanceName,glass wand,שרביט זכוכית
@@ -153,13 +231,21 @@ AppearanceName,glossy arrow,חץ שחור עם רונות
 AppearanceName,glossy bow,קשת שחורה עם רונות
 AppearanceName,glossy dagger,פגיון שחור עם רונות
 AppearanceName,glossy mithril-coat,שריון מיתריל מבריק
+AppearanceName,glossy potion,
 AppearanceName,glossy short sword,חרב קצרה שחורה עם רונות
+AppearanceName,gloved book,
+AppearanceName,gneiss book,
 AppearanceName,gold book,ספר זהב
 AppearanceName,gold earrings,עגילי זהב
 AppearanceName,gold ring,טבעת זהב
 AppearanceName,gold wand,שרביט זהב
 AppearanceName,golden potion,שיקוי זהוב
+AppearanceName,gossamer book,
+AppearanceName,granite book,
 AppearanceName,granite ring,טבעת שחם
+AppearanceName,graphite book,
+AppearanceName,grave bound book,
+AppearanceName,gravel book,
 AppearanceName,green gem,אבן חן ירוקה
 AppearanceName,green robe,אדרת ירוקה
 AppearanceName,grey book,ספר אפור
@@ -168,38 +254,54 @@ AppearanceName,hard hat,קסדת עבודה
 AppearanceName,hard shoes,נעליים מוקשחות
 AppearanceName,hardcover book,ספר בכריכה קשה
 AppearanceName,harp,נבל
+AppearanceName,hazel book,
 AppearanceName,heavy barrelled gun,רובה כבד-קנה
 AppearanceName,heavy gun,רובה כבד
 AppearanceName,hexagonal amulet,קמע משושה
 AppearanceName,hexagonal wand,שרביט משושה
+AppearanceName,hide bound book,
 AppearanceName,hiking boots,נעלי טיולים
 AppearanceName,hilted polearm,נשק-מוט בעל ניצב
+AppearanceName,hoarfrost book,
+AppearanceName,hollow book,
 AppearanceName,hooded cloak,גלימה עם ברדס
 AppearanceName,hooked polearm,נשק-מוט מאונקל
+AppearanceName,hooked sword,
 AppearanceName,horn,קרן
 AppearanceName,horseshoe,פרסה
 AppearanceName,humongous book,ספר ענק
 AppearanceName,icy potion,שיקוי קפוא
+AppearanceName,incandescent book,
 AppearanceName,indigo book,ספר אינדיגו
 AppearanceName,iridium wand,שרביט אירידיום
+AppearanceName,iron bound book,
 AppearanceName,iron ring,טבעת ברזל
 AppearanceName,iron skull cap,כובע ברזל צמוד
 AppearanceName,iron wand,שרביט ברזל
+AppearanceName,ivory book,
 AppearanceName,ivory ring,טבעת שנהב
 AppearanceName,jackboots,נעליים צבאיות
+AppearanceName,jade book,
 AppearanceName,jade ring,טבעת אבן ירקן
+AppearanceName,jewelled book,
 AppearanceName,jewelled wand,שרביט מעוטר באבני חן
 AppearanceName,jungle boots,נעלי ג'ונגל
+AppearanceName,keening book,
 AppearanceName,key,מפתח
+AppearanceName,khaki potion,
 AppearanceName,lamp,מנורה
 AppearanceName,large gun,רובה גדול
 AppearanceName,large round shield,מגן עגול גדול
+AppearanceName,leaden book,
 AppearanceName,leather apron,סינר עור
 AppearanceName,leather book,ספר מעור
 AppearanceName,leather hat,כובע מעור
 AppearanceName,light blue book,ספר כחול בהיר
 AppearanceName,light brown book,ספר חום בהיר
 AppearanceName,light green book,ספר ירוק בהיר
+AppearanceName,limestone book,
+AppearanceName,linen book,
+AppearanceName,loam book,
 AppearanceName,long barrelled gun,רובה ארוך קנה
 AppearanceName,long book,ספר מוארך
 AppearanceName,long bow,קשת ארוכה
@@ -211,13 +313,18 @@ AppearanceName,luminescent potion,שיקוי זרחני
 AppearanceName,magenta book,ספר ארגמני
 AppearanceName,magenta potion,שיקוי ארגמני
 AppearanceName,maple wand,שרביט מייפל
+AppearanceName,marble book,
 AppearanceName,marble wand,שרביט שיש
 AppearanceName,marker,מרקר
+AppearanceName,marlstone book,
 AppearanceName,medallion amulet,קמע עם תליון
 AppearanceName,metal canister,מיכל מתכת
 AppearanceName,metal pineapple,אננס מתכתי
 AppearanceName,metal slug,קליע מתכת
+AppearanceName,mica book,
+AppearanceName,mildewed book,
 AppearanceName,milky potion,שיקוי חלבי
+AppearanceName,millstone book,
 AppearanceName,mithril boots,מגפי פלדה
 AppearanceName,mithril ring,טבעת מיתריל
 AppearanceName,mithril slug,קליע מיתריל
@@ -225,70 +332,109 @@ AppearanceName,mithril staff,מטה מיתריל
 AppearanceName,mood ring,טבעת מצב רוח
 AppearanceName,moonstone ring,טבעת מונסטון
 AppearanceName,mortar gun,תותח מרגמה
+AppearanceName,mossy book,
+AppearanceName,moth eaten book,
 AppearanceName,mottled book,ספר מנומר
 AppearanceName,mud boots,נעלי בוץ
 AppearanceName,muddy potion,שיקוי בוצי
 AppearanceName,murky potion,שיקוי אפלולי
+AppearanceName,murmuring book,
+AppearanceName,muted book,
 AppearanceName,mysterious gadget,חפיץ מסתורי
+AppearanceName,notched book,
 AppearanceName,oak wand,שרביט אלון
+AppearanceName,obsidian book,
 AppearanceName,obsidian ring,טבעת זכוכית געשית
 AppearanceName,ochre book,ספר אוכרה
 AppearanceName,octagonal amulet,קמע מתומן
 AppearanceName,octagonal wand,שרביט מתומן
 AppearanceName,old gloves,כפפות ישנות
+AppearanceName,olive branch book,
+AppearanceName,onyx book,
+AppearanceName,opal book,
 AppearanceName,opal ring,טבעת אופאל
+AppearanceName,opaline book,
 AppearanceName,opera cloak,גלימת אופרה
 AppearanceName,orange book,ספר כתום
 AppearanceName,orange gem,אבן חן כתומה
 AppearanceName,orange potion,שיקוי כתום
 AppearanceName,orange robe,אדרת כתומה
 AppearanceName,ornamental cope,גלימה ארוכה מקושטת
+AppearanceName,ossuary book,
 AppearanceName,oval amulet,קמע סגלגל
 AppearanceName,padded gloves,כפפות מרופדות
+AppearanceName,pale book,
 AppearanceName,papyrus book,ספר פפירוס
 AppearanceName,parchment book,ספר מגילה
 AppearanceName,pearl earrings,עגילי פנינה
 AppearanceName,pearl ring,טבעת פנינים
+AppearanceName,phoenix down book,
 AppearanceName,piece of cloth,חתיכת אריג
+AppearanceName,pine wand,
 AppearanceName,pink book,ספר ורוד
 AppearanceName,pink potion,שיקוי ורוד
+AppearanceName,pitted book,
+AppearanceName,plague ridden book,
 AppearanceName,plaid book,ספר צמר משובץ
 AppearanceName,plain book,ספר פשוט
 AppearanceName,plain ring,טבעת פשוטה
 AppearanceName,plain robe,אדרת פשוטה
 AppearanceName,plastic slug,קליע פלסטיק
 AppearanceName,plastic stick,מקל פלסטיק
+AppearanceName,plastic wand,
 AppearanceName,platinum wand,שרביט פלטינה
 AppearanceName,plumed helmet,קסדה עם נוצה
+AppearanceName,pocked book,
 AppearanceName,pole cleaver,סכין קצבים עם מוט
 AppearanceName,pole sickle,חרמש עם מוט
 AppearanceName,polished silver shield,מגן כסף ממורק
+AppearanceName,porphyry book,
+AppearanceName,prismatic book,
 AppearanceName,pronged polearm,נשק-מוט מוארך
 AppearanceName,pruning hook,מגל
+AppearanceName,psalm book,
 AppearanceName,puce potion,שיקוי חום כהה
+AppearanceName,pumice book,
 AppearanceName,purple book,ספר סגול
 AppearanceName,purple-red potion,שיקוי סגול-אדום
 AppearanceName,pyramidal amulet,קמע בצורת פירמידה
+AppearanceName,quartzite book,
+AppearanceName,quicksilver book,
+AppearanceName,radiant book,
 AppearanceName,ragged book,ספר מסמורטט
 AppearanceName,rainbow book,ספר בצבעי הקשת
 AppearanceName,red book,ספר אדום
 AppearanceName,red gem,אבן חן אדומה
 AppearanceName,red robe,אדרת אדומה
+AppearanceName,red stone,
 AppearanceName,red-eyed shield,מגן עם עיניים אדומות
 AppearanceName,riding boots,מגפי רכיבה
 AppearanceName,riding gloves,כפפות רכיבה
+AppearanceName,rimed book,
+AppearanceName,riveted book,
 AppearanceName,ruby potion,שיקוי אדום עז
 AppearanceName,ruby ring,טבעת אודם
 AppearanceName,runed arrow,חץ עם רונות
+AppearanceName,runed book,
 AppearanceName,runed bow,קשת עם רונות
 AppearanceName,runed broadsword,חרב רחבת להב עם רונות
 AppearanceName,runed dagger,פגיון עם רונות
+AppearanceName,runed disc,
 AppearanceName,runed short sword,חרב קצרה עם רונות
 AppearanceName,runed spear,חנית עם רונות
 AppearanceName,runed wand,שרביט עם רונות
+AppearanceName,russet book,
+AppearanceName,rusted book,
 AppearanceName,rusty wand,שרביט חלוד
+AppearanceName,sable book,
+AppearanceName,saddle book,
+AppearanceName,sallow book,
 AppearanceName,samurai sword,חרב סמוראים
+AppearanceName,sanguine book,
+AppearanceName,sapphire book,
 AppearanceName,sapphire ring,טבעת ספיר
+AppearanceName,scalded book,
+AppearanceName,schist book,
 AppearanceName,scoped long gun,רובה טלסקופי
 AppearanceName,scroll labelled ANDOVA BEGARIN,מגילה בשם אנדובה בגרין
 AppearanceName,scroll labelled AZZGAZ,מגילה בשם אזגז
@@ -321,36 +467,56 @@ AppearanceName,scroll labelled XALICH UDED,מגילה בשם קסליץ' אוד�
 AppearanceName,scroll labelled XIXAXA XOXAXA XUXAXA,מגילה בשם קסיקסקסה קסוקסקסה קסוקסקסה
 AppearanceName,scroll labelled YUM YUM,מגילה בשם יוום יוום
 AppearanceName,scroll labelled ZELGO MER,מגילה בשם זלגו מר
+AppearanceName,sepia book,
+AppearanceName,sepulchral book,
 AppearanceName,shadow book,ספר צללים
+AppearanceName,shale book,
+AppearanceName,shimmering book,
 AppearanceName,shining book,ספר בוהק
 AppearanceName,shiny ring,טבעת בוהקת
 AppearanceName,short barrelled gun,רובה מקוצר
 AppearanceName,short samurai sword,חרב סמוראים קצרה
 AppearanceName,short wand,שרביט קצר
 AppearanceName,shoulder gun,רובה כתף
+AppearanceName,shrapnel book,
+AppearanceName,silk book,
+AppearanceName,silken book,
+AppearanceName,silly wand,
 AppearanceName,silver book,ספר כסף
 AppearanceName,silver ring,טבעת כסף
 AppearanceName,silver slug,קליע כסף
 AppearanceName,silver wand,שרביט כסף
+AppearanceName,silvered book,
 AppearanceName,single-edged polearm,נשק-מוט חד חוד
 AppearanceName,sky blue potion,שיקוי בצבע שמיים
+AppearanceName,slate book,
 AppearanceName,slippery cloak,גלימה חלקלקה
 AppearanceName,small gun,אקדח קטן
+AppearanceName,small horizontal bow,
 AppearanceName,smoky potion,שיקוי מעושן
 AppearanceName,snow boots,מגפי שלג
+AppearanceName,solar book,
+AppearanceName,sooty book,
+AppearanceName,soul bound book,
 AppearanceName,sparkling potion,שיקוי נוצץ
 AppearanceName,spherical amulet,קמע כדורי
 AppearanceName,spiked wand,שרביט מחודד
 AppearanceName,spotted book,ספר מנוקד
 AppearanceName,square amulet,קמע מרובע
 AppearanceName,stained book,ספר מוכתם
+AppearanceName,starless book,
+AppearanceName,starlit book,
+AppearanceName,static book,
 AppearanceName,steel ring,טבעת פלדה
 AppearanceName,steel wand,שרביט פלדה
 AppearanceName,sticky glob,גוש דביק
+AppearanceName,storm wracked book,
 AppearanceName,stout mithril-coat,שריון מיתריל מוצק
 AppearanceName,stout spear,חנית מוצקה
 AppearanceName,studded samurai stick,מקל סמוראים ממוסמר
 AppearanceName,stylish book,ספר אופנתי
+AppearanceName,sundered book,
+AppearanceName,sunlit book,
 AppearanceName,swirly potion,שיקוי מסתחרר
 AppearanceName,tan book,ספר עור מעובד
 AppearanceName,tattered book,ספר מרופט
@@ -365,35 +531,51 @@ AppearanceName,throwing disc,דיסקוס הטלה
 AppearanceName,throwing spear,חנית הטלה
 AppearanceName,throwing star,כוכב הטלה
 AppearanceName,throwing stick,מקל הטלה
+AppearanceName,thunderous book,
 AppearanceName,tiger eye ring,טבעת עין הנמר
 AppearanceName,tin wand,שרביט מפח
 AppearanceName,tiny book,ספר זעיר
+AppearanceName,topaz book,
 AppearanceName,topaz ring,טבעת טופז
 AppearanceName,torn book,ספר קרוע
+AppearanceName,toy bat,
+AppearanceName,toy hammer,
 AppearanceName,toy sword,חרב צעצוע
 AppearanceName,triangular amulet,קמע משולש
 AppearanceName,turquoise book,ספר טורקיז
 AppearanceName,twisted ring,טבעת מפותלת
+AppearanceName,umber book,
+AppearanceName,unbound book,
 AppearanceName,unlabelled scroll,מגילה ללא שם
 AppearanceName,uranium wand,שרביט אורניום
+AppearanceName,veiled book,
 AppearanceName,vellum book,ספר קלף עדין
 AppearanceName,velvet book,ספר קטיפה
+AppearanceName,verdigris book,
 AppearanceName,violet book,ספר בצבע לילך
 AppearanceName,violet gem,אבן חן בצבע לילך
 AppearanceName,visored helmet,קסדה עם מגן פנים
+AppearanceName,voltaic book,
 AppearanceName,vulgar polearm,נשק-מוט וולגרי
 AppearanceName,walking shoes,נעלי הליכה
 AppearanceName,warped amulet,קמע מעוקם
+AppearanceName,warped book,
+AppearanceName,waxen book,
 AppearanceName,wedding ring,טבעת נישואין
+AppearanceName,welded book,
+AppearanceName,whispering book,
 AppearanceName,whistle,משרוקית
 AppearanceName,white book,ספר לבן
 AppearanceName,white coat,חלוק לבן
 AppearanceName,white gem,אבן חן לבנה
 AppearanceName,white potion,שיקוי לבן
 AppearanceName,wide book,ספר רחב
+AppearanceName,wilted book,
 AppearanceName,winged missile,טיל מכונף
 AppearanceName,wire ring,טבעת תיל
+AppearanceName,withered book,
 AppearanceName,wooden ring,טבעת עץ
+AppearanceName,wormwood book,
 AppearanceName,wrinkled book,ספר מקומט
 AppearanceName,yellow book,ספר צהוב
 AppearanceName,yellow gem,אבן חן צהובה
@@ -489,62 +671,116 @@ BlockName,statue,פסל
 BlockName,stone boulder,סלע אבן
 BlockName,trophy,גביע
 BlockName,wooden barrel,חבית עץ
+BoonDescription,"A darker resurrection than the temples offer: certain to succeed, but the dead come back enraged.",
+BoonDescription,"A generous healing gift, fae-touched: your hands will not be quite steady later.",
 BoonDescription,Ask for a unicorn to join your party.,להזמין חד-קרן שיצטרף לחבורה שלך.
+BoonDescription,Ask the fae for a favour. What you get is entirely up to her mood.,
+BoonDescription,"Bathe in the etching vats. It burns, but you rise with a hide the acid cannot bite.",
 BoonDescription,Bless one item in your inventory or on the ground.,לברך פריט אחד בציוד שלך או על הקרקע.
 BoonDescription,Brew a random potion into your bottle of water.,בישול שיקוי אקראי בבקבוק המים שלך.
 BoonDescription,Butcher a corpse into an easy to carry container.,קיצוץ גופה אל תוך מיכל נוח לנשיאה.
 BoonDescription,Call upon the undead to fight for you.,הזמנת אל-מתים שיילחמו עבורך.
+BoonDescription,Consult the observatory's charts for the full layout of this level.,
 BoonDescription,Convert one item into a random alternative of the same type.,המרת פריט אחד לתחליף אקראי מאותו סוג.
 BoonDescription,Determine the enchantment and charges of all carried items.,גילוי העוצמות של כל החפצים שלך.
+BoonDescription,"Drill under the captain's eye. You may be quickened, or you may be worn out.",
+BoonDescription,Drink the warrior's drink and fight in a berserker rage. It does not spare your allies.,
+BoonDescription,"Eat at the fae table. You will not go hungry, but the wine shows you things that are not there.",
 BoonDescription,"Erase the magic from a potion, scroll or book.","מחיקת הקסם משיקוי, מגילה או ספר."
+BoonDescription,Fall into a trance and see through walls and floors for a time.,
 BoonDescription,Hatch an egg and become a parent.,לדגור על ביצה ולהפוך להורה.
+BoonDescription,Have the efreeti bind a captive elemental to your service.,
+BoonDescription,"Have the temple armour smiths put a keener edge on one weapon, magical or not.",
+BoonDescription,Have the wizard read the true nature of everything you carry.,
+BoonDescription,"Have your destiny read from the stars, hastening your growth.",
 BoonDescription,Heal damage and recover mana for yourself and your steed if mounted.,"ריפוי נזקים ושחזור נקודות קסם לעצמך ולחיה שמרכיבה אותך, אם יש כזאת."
 BoonDescription,Learn how to cast a random spell.,לימוד קסם אקראי.
 BoonDescription,Learn the divine status of all carried items.,ניחוש מצב הקללות והברכות של כל הפריטים.
 BoonDescription,Learn the name of one random unknown item.,גילוי שם של פריט אקראי אחד.
 BoonDescription,Make an imitation copy of an item.,יצירת חיקוי של פריט.
 BoonDescription,Partially recharge a spent item.,טעינה חלקית של פריט לא טעון.
+BoonDescription,Petition the vizier for a spectral cat to guard you as it once guarded the tomb.,
 BoonDescription,Place a curse on one equipped or carried item.,קללה על פריט אחד מתוך הפריטים הלבושים או הנישאים בתיק.
+BoonDescription,"Plunge into the quenching trough. It burns with cold, but you rise proof against it.",
 BoonDescription,Reanimate a corpse as a loyal revenant.,החייאת גופה כרוח נקם נאמנה.
+BoonDescription,Receive the linen wrappings used to prepare the dead for the afterlife.,
 BoonDescription,Remove all magic from an item.,הסרת כל הקסם מפריט.
 BoonDescription,Remove the curse on one equipped or carried item.,הסרת כל הקללות מפריט.
 BoonDescription,Rename an item for vanity and as a small protection against cancellation.,שינוי שם של פריט בעיקר מתוך יוהרה וקצת כהגנה נגד ביטול.
 BoonDescription,Request a fresh corpse with no questions asked.,"הזמנת גופה טרייה, ללא שאלות."
 BoonDescription,Request one cast of the polymorph spell.,בקשת קסם חד פעמי של שינוי צורה.
+BoonDescription,Requisition soldiers from the garrison to march at your side.,
 BoonDescription,Restore any lost ability and remove any negative transient conditions.,שיחזור יכולת אבודה והסרת מצבים זמניים שליליים.
 BoonDescription,Return a corpse back to life.,השבת גופה לחיים.
+BoonDescription,Stand in the temple square and receive the captain's defensive blessing.,
+BoonDescription,"Step into the forge fire. It burns, but you rise with fire in your blood.",
 BoonDescription,Summon a powerful steed from the underworld.,זימון רמך אדיר מהעולם התחתון.
 BoonDescription,Summon a tame forest beast as your ally.,זימון מפלצת יער מאולפת לצידך.
+BoonDescription,Summon an escort from the pharaoh's retinue to walk beside you.,
+BoonDescription,The princess trades you a measure of charm. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of grace. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of wit. Something else must give way for it.,
+BoonDescription,Toss a coal on the forge fire and take whatever ward it grants you.,
+BoonDescription,Train under a veteran until a weapon or armour discipline sticks.,
 BoonDescription,Upgrade an item or increase its power.,שידרוג חפץ או הגדלת הכוח שלו.
 BoonDescription,Use nature magic to grow the power of your ally.,שימוש בקסם הטבע להעצמת הכוח של בני הלוויה שלך.
+BoonDescription,Watch the level through the great lens and mark every creature on it.,
+BoonDescription,Whisper a question into the vault. The dead do not always tell the truth.,
 BoonDescription,Write a random scroll onto your blank paper.,כתיבת מגילה אקראית על נייר ריק.
 BoonName,animate dead,החייאה
 BoonName,assess,הערכה
+BoonName,banquet of the fae,
+BoonName,battle fury,
+BoonName,black rite of revival,
 BoonName,bless,ברכה
+BoonName,bound elemental,
 BoonName,brew,בישול
+BoonName,call the escort,
 BoonName,cancel,ביטול
+BoonName,capricious wish,
+BoonName,chart the level,
+BoonName,clairvoyant trance,
+BoonName,commune with the dead,
 BoonName,corpse wish,בקשת גופה
+BoonName,court of the underworld,
 BoonName,divine,ניחוש
+BoonName,drill,
 BoonName,enchant,הקסמה
 BoonName,enlighten,הארה
 BoonName,erase,מחיקה
+BoonName,fae cunning,
+BoonName,fae grace,
+BoonName,fae guile,
 BoonName,fantastical beast,חיה פנטסטית
+BoonName,forced march,
+BoonName,godmother's blessing,
 BoonName,grow,גדילה
 BoonName,hatch,דגירה
+BoonName,identify all,
+BoonName,map the ranks,
 BoonName,nightmare steed,רמך סיוטים
+BoonName,ordeal of embers,
 BoonName,place curse,קללה
 BoonName,polymorph,שינוי צורה
 BoonName,purify,טיהור
 BoonName,raise dead,הקמת מתים
+BoonName,read your destiny,
 BoonName,recharge,טעינה
 BoonName,reforge,חישול
 BoonName,rejuvenate,חידוש
 BoonName,remove curse,הסרת קללה
 BoonName,rename,שינוי שם
 BoonName,replicate,שכפול
+BoonName,sacred wrappings,
 BoonName,scribe,כתיבה
+BoonName,sharpen blade,
+BoonName,shield wall,
 BoonName,teach spell,לימוד כישוף
+BoonName,temper in acid,
+BoonName,temper in flame,
+BoonName,temper in frost,
 BoonName,tinned meat,בשר משומר
+BoonName,tomb guardian,
 BoonName,undead army,צבא אל-מתים
 BoonName,unicorn friend,חבר חד-קרן
 CalendarText,d MMMM yyyy,d MMMM yyyy
@@ -560,7 +796,11 @@ CharacterName,Bason,בסון
 CharacterName,Belietha,בלייתה
 CharacterName,Bok,בוק
 CharacterName,Bolan,בולן
+CharacterName,Bones,
+CharacterName,Borgrim,
+CharacterName,Briar,
 CharacterName,Brouwer,ברוור
+CharacterName,Buckshot,
 CharacterName,Cailie,קייליי
 CharacterName,Capo,קפו
 CharacterName,Carthyre,קרתירה
@@ -581,18 +821,25 @@ CharacterName,Emina,אמינה
 CharacterName,Enlan,אנלן
 CharacterName,Ericendrick,אריסנדריק
 CharacterName,Eybrinde,אייברינדה
+CharacterName,Fangs,
 CharacterName,Faraze,פרזה
 CharacterName,Fenlas,פנלס
 CharacterName,Fenraymond,פנריימונד
+CharacterName,Fern,
 CharacterName,Floki,פלוקי
 CharacterName,Forro,פורו
 CharacterName,Franzia,פרנזיה
 CharacterName,Galday,גלדיי
 CharacterName,Gasberg,גסברג
+CharacterName,Gearwing,
+CharacterName,Ghrenna,
+CharacterName,Giggles,
 CharacterName,Gleichman,גלייכמן
 CharacterName,Gmima,גמימה
 CharacterName,Gohu,גוהו
 CharacterName,Gomack,גומק
+CharacterName,Grakna,
+CharacterName,Grum,
 CharacterName,Grytt,גריט
 CharacterName,Haelom,האלום
 CharacterName,Haique,הייקיו
@@ -615,34 +862,41 @@ CharacterName,Kevugo,קווגו
 CharacterName,Kierantha,קיירנתה
 CharacterName,Kira,קירה
 CharacterName,Kneller,קנלר
+CharacterName,Korrath,
 CharacterName,Lagratha,לגרתה
 CharacterName,Lanetwalz,לנטוולז
 CharacterName,Lant,לאנט
 CharacterName,Lesha,לשה
 CharacterName,Luickean,לויקאן
+CharacterName,Lyric,
 CharacterName,Lzay,לזיי
 CharacterName,Malasuth,מלאסות
+CharacterName,Malgrim,
 CharacterName,Marisa,מריסה
 CharacterName,Melchai,מלכאי
 CharacterName,Meloty,מלוטי
 CharacterName,Miller,מילר
 CharacterName,Misteph,מיסאף
 CharacterName,Nichaeltoy,ניכאלטוי
+CharacterName,Nihlus,
 CharacterName,Ninerma,נינרמה
 CharacterName,Ninhart,נינהרט
 CharacterName,Ninny,ניני
 CharacterName,Nodin,נודין
 CharacterName,Norbant,נורבנט
+CharacterName,Nugget,
 CharacterName,Okennwood,אוקנווד
 CharacterName,Ollac,אולאק
 CharacterName,Omdarro,אומדרו
 CharacterName,Orankin,אורנקין
 CharacterName,Oscae,אוסקאה
 CharacterName,Paltrick,פלטריק
+CharacterName,Panderos,
 CharacterName,Pauwinner,פאווינר
 CharacterName,Penevieve,פנוייוה
 CharacterName,Perceval,פרסיבל
 CharacterName,Pinkerton,פינקרטון
+CharacterName,Pip,
 CharacterName,Plegg,פלג
 CharacterName,Pleyson,פלייסון
 CharacterName,Pnerfa,פנרפה
@@ -660,16 +914,26 @@ CharacterName,Rebenna,רבנה
 CharacterName,Renorber,רנורבר
 CharacterName,Rokiju,רוקיג'ו
 CharacterName,Rupley,רופלי
+CharacterName,Rustbeard,
 CharacterName,Sarlia,סרליה
+CharacterName,Scraps,
+CharacterName,Sentinel,
+CharacterName,Serathiel,
+CharacterName,Shadow,
 CharacterName,Shinaas,שינאאס
+CharacterName,Sissik,
+CharacterName,Skrix,
 CharacterName,Smither,סמיתר
+CharacterName,Sprocket,
 CharacterName,Stevere,סטיבר
 CharacterName,Stewite,סטווייט
 CharacterName,Sully,סולי
 CharacterName,Talon,טלון
 CharacterName,Tanyacka,טנייקה
 CharacterName,Thakuline,תקוליין
+CharacterName,Thokk,
 CharacterName,Threepo,תריפו
+CharacterName,Tillie,
 CharacterName,Timonen,טימונן
 CharacterName,Trank,טרנק
 CharacterName,Udfoot,אודפוט
@@ -677,7 +941,10 @@ CharacterName,Uffle,אופל
 CharacterName,Ujopayne,אוג'ופיין
 CharacterName,Umazi,אומזי
 CharacterName,Urenval,אורנוול
+CharacterName,Vaelithra,
+CharacterName,Valor,
 CharacterName,Valorn,ולורן
+CharacterName,Vashti,
 CharacterName,Vekincarc,וקינקרק
 CharacterName,Vidar,וידאר
 CharacterName,Vikethome,וייקתום
@@ -687,7 +954,9 @@ CharacterName,Wallison,וואליסון
 CharacterName,Waltis,וולטיס
 CharacterName,Walzen,וולזן
 CharacterName,Wendry,וונדריי
+CharacterName,Wisp,
 CharacterName,Wollet,וולט
+CharacterName,Wraith,
 CharacterName,Xamarin,קסמרין
 CharacterName,Xandries,קסנדרייס
 CharacterName,Xank,קסנק
@@ -699,6 +968,7 @@ CharacterName,Yassage,יסאג'
 CharacterName,Yorque,יורקיו
 CharacterName,Yral,יירל
 CharacterName,Yuvaloren,יובלורן
+CharacterName,Zathrik,
 CharacterName,Zean,ז'ין
 CharacterName,Zerbarry,זרברי
 CharacterName,Zimn,זימן
@@ -709,16 +979,19 @@ ClassDescription,"Benevolent caretakers, always willing to lend a helping hand t
 ClassDescription,"Champions of the winter realms, fierce and proud. Hardy and strong, they will boldly face any challenger until they meet a glorious death.","אלופי ממלכות החורף, פראים וגאים. קשוחים וחזקים. הם יעמדו באומץ אל מול כל תוקף עד למותם רב התהילה."
 ClassDescription,"Charming minstrels, making their way through the world with their songs and stories. They are jacks-of-all-trades; alongside their troubadour talents, they dabble in both martial skills and spellcraft.","זמרים נודדים מקסימים, עושים את דרכם בעולם באמצעות שירים וסיפורים. הם רבי כישרונות; לצד כישוריהם כטרובדורים, הם עוסקים גם באומנויות לחימה ובכישופים."
 ClassDescription,"Conductors of natural energies, these uniquely attuned spell casters derive their powers from the living world. Peaceful until threatened, they are unafraid to respond with animalistic savagery.","מוליכים של אנרגיות הטבע. אלה כשפים ייחודיים ששואבים את כוחותיהם מעולם החיים. הם שוחרי שלום אם לא מאיימים עליהם, אבל הם לא חוששים להגיב בפראות חייתית."
+ClassDescription,"Contract killers trained to strike once, from the dark, and vanish before the body is found. They favour poisoned steel over honest combat and trust no blade they have not sharpened themselves.",
 ClassDescription,"Corrupt and hateful souls, who are motivated by causing carnage and spreading chaos. Subject to uncontrollable bouts of rage, they bring doom and destruction to friend and foe alike.","נשמות מושחתות ומלאות שנאה, מונעות רק על ידי שפיכות דמים וכאוס. הם נתונים להתקפי זעם בלתי נשלטים, ומביאים אבדון והרס על חבריהם ואוייביהם כאחד."
 ClassDescription,"Daft harlequins, always carrying a trick up their sleeves. Eclectic and eccentric; they are unassuming masters of chaos, adept in many bewildering talents.","ליצנים שוטים, תמיד יש להם איזה טריק בשרוול. הם מגוונים ויוצאי דופן; הם שליטי כאוס חסרי יומרות ויש להם הרבה כישרונות מפתיעים."
 ClassDescription,"Deft miscreants, conniving and quick with their wits. Through trial and error, they have learned that their best chance in avoiding the clutches of death is to stick to the shadows and outmanoeuvre their pursuers.","פושעים מיומנים, ערמומיים ומהירי מחשבה. באמצעות ניסוי וטעייה, הם למדו שהסיכוי הטוב ביותר שלהם להימנע מציפורני המוות הוא להישאר בצללים ולתמרן את רודפיהם."
 ClassDescription,"Devoted to understanding the essence of magic and the marvel of engineering, these adept craftsman crave both knowledge and resources. Whether directed by madness or genius, they are a capable adversary and a tenacious survivor.","מסורים להבנת מהות הקסם ופלאי ההנדסה, בעלי מלאכה מיומנים אלה משתוקקים לידע ולמשאבים. בין אם מה שמכוון את צעדיהם הוא טירוף או גאונות, הם יריבים מוכשר ושורדים עיקשים."
 ClassDescription,Escaped criminals who have spent so much of their life incarcerated that any trace of who or what they once were has all but vanished.,"פושעים נמלטים, שבילו כל כך הרבה מחייהם במאסר, שכל זכר למי או מה שהם היו פעם כמעט ונעלם."
 ClassDescription,"Freebooting buccaneers, sailing the high seas and plundering many a merchant's vessel in their endless pursuit of riches and infamy. They are murderous cutthroats with little regard for anything but gold.","שודדי ים חופשיים, שטים בלב ים ושודדים ספינות סוחרים רבות בחיפושם המתמיד אחר עושר וקלון. הם רוצחים קטלניים ולא אכפת להם מכלום מלבד זהב."
+ClassDescription,"Grim oath-bound hunters who court death against the mightiest foes, undead and monstrous alike. What they lack in subtlety they make up for with unrelenting rage and a body built to shrug off ruin.",
 ClassDescription,"Happy-go-lucky travellers, committed to only the most authentic experiences. Quixotic and brave, they meticulously prepare with a wide variety of paraphernalia - yet remain ill-equipped for the perils they will soon face.","טיילים חסרי דאגות, מחוייבים רק לחוויות האותנטיות ביותר. דון קישוטים אמיצים, הם מתכוננים היטב עם מגוון רחב של אביזרים - ועדיין אינם מצויידים היטב לצרות שעומדות לעמוד בדרכם."
 ClassDescription,"Hidden agents, fleet-footed and schooled in many ancient arts of assassination. When all else fails, they are indubitably prepared to make swift escapes.","סוכנים חבויים, זריזי רגליים ומאומנים באומנויות התנקשות עתיקות רבות. כשכל ניסיון אחר נכשל, הם מוכנים לחמוק במהירות."
 ClassDescription,"Honourable warriors, who have dedicated their lives to an ancient code. Skilled in art of dual-wielding blades, they make fast work of their enemies.","לוחמים רבי כבוד, שהחליטו לחיות על פי כללים עתיקים. הם מיומנים באומנות הלחימה בשני כלי נשק במקביל, ומטפלים באויביהם במהירות."
 ClassDescription,"Keepers of cosmic secrets, who derive their sacred powers from the spirit realms hidden from mortal eyes. They are compelled by dark forces and are adept at bending the material world to their will.","שומרי סודות היקום, ששואבים את כוחותיהם הקדושים מממלכות הרוחות הנסתרות מעיני בני התמותה. כוחות אפלים מושכים אותם והם מיומנים בכיפוף עולם החומר לרצונם."
+ClassDescription,"Keepers of old hexes and older grudges, more at home among gravestones and cauldrons than decent company. They do not hurl fire; they unmake their enemies' luck, strength and flesh by degrees.",
 ClassDescription,"Noble savages, hardened to battle by generations of survival in the unforgiving wilderness. They are not strangers to death's call; legends tell of their incredible strength and battle prowess with heavy weapons.","פראים אצילים, דורות רבים ששרדו בשממה חסרת הרחמים הקשיחו אותם לקרב. קריאת המוות אינה זרה להם; אגדות מספרות על כוחם העצום ועל יכולות הקרב שלהם בנשק כבד."
 ClassDescription,"Obsessed with blurring the line between life and death, these meddlers of dark forces prefer to associate with cadavers over the living. To some, the rituals are grotesque, but they see pure majesty in the manipulation of the natural order.","הם עסוקים באובססיה בטשטוש הקו שמפריד בין חיים למוות, הם משחקים בכוחות אפלים והם מעדיפים להתרועע עם גוויות ולא עם החיים. יש שיראו את הטקסים שלהם כגרוטסקיים, אבל הם רואים הוד והדר בשינוי סדרי הטבע."
 ClassDescription,"Pious scholars, oath-bound to their scripture. Although altruistic and good-natured, they are trained in martial arts so as to protect themselves and the canon they live by.","מלומדים אדוקים, שנשבעו אמונים לתורתם. למרות שהם אלטרואיסטים וטובי מזג, הם מתאמנים באומנויות לחימה כדי להגן על עצמם ועל מה שהם מאמינים בו."
@@ -729,11 +1002,16 @@ ClassDescription,Questionably pious individuals from an ancient religious and mi
 ClassDescription,"Quintessential scientific researchers and dauntless historical investigators. Both brash and debonair, they seek out knowledge and accolades alike. They are curiously fond of whips and share a perplexing hatred towards serpents.","מדענים למופת וחוקרי היסטוריה חסרי מורא. חצופים אבל גם מעודנים, הם מחפשים גם ידע וגם תהילה. יש להם חיבה משונה לשימוש בשוט ומסיבה כלשהי הם שונאים נחשים."
 ClassDescription,"Restless desperados, driven by wanderlust and troubled by the haunting memories of those they could not protect. They are sly masters of lead and steel, hellbent on redemption and retribution.","עבריינים נמלטים חסרי מנוח, מונעים מתאוות נדודים ומוטרדים מהזיכרונות הרודפים של אלה שלא הצליחו להגן עליהם. הם שליטים מיומנים של עופרת ופלדה, נחושים לגאולה ולנקמה."
 ClassDescription,"Righteous clergymen, dedicated to a life of sacrifice and spreading the word of their almighty deities. Well-versed in divine magic and the judicial delivery of violence to those deemed unworthy of salvation.","כוהנים צדקניים, שהקדישו את חייהם להקרבה ולהפצת דברי אליהם האדירים. הם מיומנים בקסם אלוהי ובשפטים אלימים באלה שאינם נחשבים בעיניהם לראוים לגאולה."
+ClassDescription,"Scholars who bound their fate to raw elemental force rather than the slower disciplines of wizardry. Fire and frost answer their call in equal measure, a duality most mages never dare attempt.",
+ClassDescription,"Self-taught chemists of the underworld, forever mixing, tasting and bottling the unknown. What they lack in swordsmanship they make up for with a satchel of volatile solutions and a hard-won immunity to their own mistakes.",
 ClassDescription,"Strongly built, tough and industrious workers who are more than capable in dangerous situations. Traditional practices and heavy tools are used to overcome obstacles in their pursuit of valuable gemstones.","פועלים חסונים, קשוחים וחרוצים שיכולתם רבה מאוד במצבים מסוכנים. הם משתמשים בשיטות מסורתיות ובכלים כבדים כדי להתגבר על מכשולים בחיפושם אחר אבני חן יקרות."
 ClassDescription,"Sworn to uphold justice, these righteous warriors are dogmatic in pursuit of their sacred work. Classical martial skills are complemented by magical powers to protect the innocent and smite the wicked.",לוחמים צדקניים שנשבעו לקיים את הצדק. הם נאחזים בעבודתם הקדושה ולא סוטים ממנה. את יכולותיהם באומנויות הלחימה הקלאסיות הם משלימים בכוחות קסם כדי להגן על התמימים ולהכות ברשעים.
 ClassDescription,"Venerable men-at-arms clad in gleaming armour, renowned for their unyielding chivalry and conviction. They are high-born and are educated to be strategists and capable leaders on any battlefront.","לוחמים מכובדים עטויי שריון נוצץ, ידועים באבירותם הבלתי מתפשרת ואמונתם בצדקתם. הם בעלי מוצא אצילי והם מחונכים להיות אסטרטגים ומנהיגים מוכשרים בכל חזית."
 ClassDescription,"Warrior slaves compelled to battle for the entertainment of raucous crowds, often to the death. Those that can survive this cauldron are trained into the most brutal of pit fighters.","עבדים לוחמים שהוכרחו ללחום לצורך בידור קהלים משולהבים, לפעמים עד המוות. אלה שמצליחים לשרוד את היורה הרותחת הזאת מאומנים והופכים להיות לוחמי הזירה האלימים ביותר."
 ClassDescription,"Wilderness sentinels who understand the true balance of the universe. With bow in hand, they have devoted their lives to protecting the forces of nature from the corrupting touch of civilisation.","זקיפים בשממה, שמבינים את האיזון האמיתי ביקום. עם קשת ביד, הם מקדישים את חייהם להגנה על כוחות הטבע מפני המגע המשחית של הציביליזציה."
+ClassName,apothecary//female,
+ClassName,apothecary//male,
+ClassName,apothecary//non-binary,
 ClassName,barbarian//female,ברברית
 ClassName,barbarian//male,ברברי
 ClassName,barbarian//non-binary,ברברי.ת
@@ -749,6 +1027,9 @@ ClassName,convict//non-binary,פושע.ת מורשע.ת
 ClassName,druid//female,דרואידית
 ClassName,druid//male,דרואיד
 ClassName,druid//non-binary,דרואיד.ית
+ClassName,elementalist//female,
+ClassName,elementalist//male,
+ClassName,elementalist//non-binary,
 ClassName,explorer//female,חוקרת
 ClassName,explorer//male,חוקר
 ClassName,explorer//non-binary,חוקר.ת
@@ -782,6 +1063,9 @@ ClassName,mystic//non-binary,מיסטיקנ.ית
 ClassName,necromancer//female,בעלת אוב
 ClassName,necromancer//male,בעל אוב
 ClassName,necromancer//non-binary,בעל.ת אוב
+ClassName,nightblade//female,
+ClassName,nightblade//male,
+ClassName,nightblade//non-binary,
 ClassName,ninja//female,נינג'ה
 ClassName,ninja//male,נינג'ה
 ClassName,ninja//non-binary,נינג'ה
@@ -809,6 +1093,9 @@ ClassName,samurai//non-binary,סמוראי.ת
 ClassName,shaman//female,שאמנית
 ClassName,shaman//male,שאמן
 ClassName,shaman//non-binary,שאמנ.ית
+ClassName,slayer//female,
+ClassName,slayer//male,
+ClassName,slayer//non-binary,
 ClassName,templar//female,טמפלרית
 ClassName,templar//male,טמפלר
 ClassName,templar//non-binary,טמפלר.ית
@@ -821,18 +1108,26 @@ ClassName,tourist//non-binary,תייר.ת
 ClassName,valkyrie//female,ולקיריה
 ClassName,valkyrie//male,ולקיר
 ClassName,valkyrie//non-binary,ולקיר.יה
+ClassName,witch//female,
+ClassName,witch//male,
+ClassName,witch//non-binary,
 ClassName,wizard//female,אשפית
 ClassName,wizard//male,אשף
 ClassName,wizard//non-binary,אשפ.ית
+CompanionName,almiraj,
+CompanionName,astral puppy,
 CompanionName,bird,ציפור
+CompanionName,blink puppy,
 CompanionName,cat,חתולה
 CompanionName,dog,כלב
 CompanionName,egg,ביצה
 CompanionName,ghoul,גועל
+CompanionName,hamster,
 CompanionName,horse,סוס
 CompanionName,imp,שדון
 CompanionName,monkey,קוף
 CompanionName,rat,חולדה
+CompanionName,raven,
 CounterName,afflictions,צרות
 CounterName,animations,החייאות
 CounterName,anoints,משיחות
@@ -925,8 +1220,10 @@ DeviceName,fire trap,מלכודת אש
 DeviceName,grease trap,מלכודת שמן
 DeviceName,hallucination trap,מלכודת הזיות
 DeviceName,hole,חור
+DeviceName,humantrap,
 DeviceName,hunger trap,מלכודת רעב
 DeviceName,ice trap,מלכודת קרח
+DeviceName,ink pool,
 DeviceName,level teleporter,משגר קומה
 DeviceName,lightning trap,מלכודת ברקים
 DeviceName,noxious pool,בריכת אדים רעילים
@@ -941,6 +1238,7 @@ DeviceName,sleeping gas trap,מלכודת גז שינה
 DeviceName,spear trap,מלכודת חניתות
 DeviceName,spiked pit,בור עם חניתות
 DeviceName,squeaky board,קרש חורק
+DeviceName,statue trap,
 DeviceName,teleporter,משגר
 DeviceName,toxic trap,מלכודת רעל
 DeviceName,trapdoor,דלת סתרים
@@ -1007,15 +1305,68 @@ EncumbranceName,stressed,במצב לחץ בנשיאה
 EncumbranceName,unencumbered,במצב לא עמוס
 EngulfmentName,engulfed,במצב עיטוף
 EngulfmentName,swallowed,במצב בליעה
+EntityDescription,"A blink dog pup, already able to flicker away from danger before it lands a bite.",
+EntityDescription,A bulbous fungus that bursts into a hissing cloud of acid when disturbed.,
+EntityDescription,"A cave bear whose pelt has gone grey as cinders, hardened by years sheltered in a live volcano's roots.",
+EntityDescription,"A cave spider drained of all colour by lightless generations, hunting by web-thrum alone.",
+EntityDescription,"A cobra pale as hoarfrost, coiled in the ice caves where warm-blooded prey seeks shelter.",
+EntityDescription,"A coyote with a static-charged coat, drawn down from the high plains after a lightning storm.",
+EntityDescription,"A dead tree animated by rot and old malice, its bark split open where a jaw shouldn't be.",
+EntityDescription,"A dragon steeped in high magic, said to hoard grimoires as jealously as gold.",
+EntityDescription,A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.,
+EntityDescription,A dwarf of a mountain clan so far north the forge-fires burn blue; one of its twin mattocks bites like the wind off the peak.,
+EntityDescription,A fey hound that flickers between here and elsewhere; it fights alongside anyone it trusts.,
+EntityDescription,"A giant bat with clouded, sightless eyes, navigating wholly by the shriek of its own echo.",
+EntityDescription,"A giant beetle with a carapace of blue-white chitin, breath steaming with cold in the deep dark.",
+EntityDescription,"A giant caked grey with volcanic ash, walking down from a smoking peak with a club still smoking at the tip.",
+EntityDescription,"A giant of the high glaciers, sheathed in rime; its breath alone can flash-freeze a puddle solid.",
+EntityDescription,"A gila monster whose beaded hide glows dull orange along the seams, as if lit from beneath.",
+EntityDescription,"A gnome who never left the deep tunnels, pale and stooped, at ease chewing through rock with a pickaxe.",
+EntityDescription,"A golem cast from bronze rather than raw iron; where its cousin only staggers under a lightning strike, this one drinks the current and spits it back.",
+EntityDescription,"A hound of the Astral plane, half-seen even when it stands still; it does not breathe or bleed.",
+EntityDescription,"A jackal wasted by sickness, its ribs showing through a mangy hide; its bite festers.",
+EntityDescription,A jelly black as a starless sky; things it touches for too long forget how alive they were.,
+EntityDescription,A jelly that glows faintly like a coal; fire only makes it swell larger and angrier.,
+EntityDescription,A jelly that reeks of rot; it dissolves flesh and gear alike to feed itself.,
+EntityDescription,"A jelly the colour of a bruise, faintly crackling; touching it feels like brushing a doorknob after crossing a carpet in winter.",
+EntityDescription,"A jelly the colour of glacier ice, cold to the touch and colder still if it touches back.",
+EntityDescription,"A kobold camouflaged in mottled green, more comfortable in the canopy than underground; it spits venom from a hollow reed.",
+EntityDescription,"A long worm that burrows through permafrost, its segmented hide crusted with rime.",
+EntityDescription,"A lynx with a rime-white winter coat, breath fogging even in a warm room.",
 EntityDescription,A medium-sized creature prone to great ambition. Short-lived but ubiquitous; they are not to be underestimated.,"יצורים בינוניים בגודלם, שאפתניים מאוד. קצרי-חיים אבל נמצאים בכל מקום; אין לזלזל בהם."
+EntityDescription,"A panther whose black coat smoulders at the edges, leaving smoking pawprints on stone.",
+EntityDescription,"A plump waterfowl, unbothered by dungeons so long as there is a puddle nearby.",
+EntityDescription,"A pudding of black, viscid tar that oozes and smoulders at once; anything it swallows comes out cindered.",
+EntityDescription,"A raven with feathers like beaten iron, riding the thunderheads and stooping with a crack of static.",
+EntityDescription,"A rodent the size of a dog, cheek pouches bulging with whatever it last found on the floor.",
+EntityDescription,"A sewer rat gone pure white and pink-eyed, blind from generations in unlit tunnels.",
+EntityDescription,"A shade gone pale and crystalline, trailing frost wherever it drifts; the cold pours off it before it ever draws near.",
+EntityDescription,A shambling corpse wrapped in weeping buboes; the sickness that killed it did not stop working when it died.,
+EntityDescription,"A shark bred to lightless ocean trenches, its eyes filmed over and useless.",
+EntityDescription,"A skeleton picked clean by something worse than time; its bones are black at the joints, and its touch draws the warmth out of the living.",
+EntityDescription,A small heap of coins that isn't quite finished counting itself.,
+EntityDescription,"A small, quick-witted dragon out of the fey courts, more prankster than predator.",
+EntityDescription,"A spitting beetle whose glands have gone volcanic, hawking gobbets of burning pitch.",
+EntityDescription,"A standing wave of brackish swamp water, thick with algae and old poison; nothing in it is fresh, and nothing about touching it is safe.",
+EntityDescription,"A troll that wandered too near a volcano and came out the other side wrong: its hide is cracked magma-rock, glowing at every seam.",
+EntityDescription,"A water moccasin gone jet black, all but invisible against a night-flooded cave pool.",
+EntityDescription,"A weathered chest, until its lid splits open into a maw ringed with teeth.",
+EntityDescription,"A young astral dog, still learning to keep all four paws on the material plane at once.",
+EntityDescription,"A young mimic, its shapeshifting still crude — usually just a box that bites back.",
 EntityDescription,"Amorphous beings who have no typical shape but often take on a translucent humanoid form. While unmistakable for anything other than a plasma-like ooze, this form enables the use of clothing and tools.","יצורים חסרי צורה מוגדרת אבל לרוב מופיעים בדמות אנושית שקופה. אי אפשר לטעות בזהותם ולא לשים לב שהם נוזל פלזמתי, אבל הצורה הזאת מאפשרת להם להשתמש בבגדים ובכלים."
 EntityDescription,"An ancient race of towering recluses. Their terrifying size gives them immense strength, supplemented by a voracious diet of meats and minerals.","גזע עתיק של מתבודדים עצומים בגודלם. גודלם המבעית מעניק להם כוח עצום, ומוסיפה לכך זלילה של בשרים ומינרלים."
+EntityDescription,"An ape with a crackling, wire-taut hide, native to the thunderheads above the high peaks.",
+EntityDescription,"An elf of the sunlit dunes, skin bronzed and eyes narrowed; its arrows are fletched with fire-hardened reed and fly burning.",
+EntityDescription,"An ogre gone half-feral in the fens, its skin sallow and slick; its claws carry a rot no wound-dressing can clean.",
+EntityDescription,An orc mummy exhumed from a barrow sealed under a cinder-field; its wrappings are charred and its grip sears whatever it holds.,
+EntityDescription,"An orc that has made its home in the marshlands, its blade notched and slicked with venom drawn from swamp adders.",
 EntityDescription,"Astral beings who are a vessel for the indomitable spirit of a vanquished adventurer. Having no motivations of their own, they are glad to permit the possession; for the deceased adventurer, it is a second chance at revenge or redemption. Born from astral matter, they are slightly built, translucent and can move freely through physical obstacles.","יצורים שמיימיים שמשמשים כלי קיבול לרוח עשויה לבלי חת של הרפתקן או הרפתקנית שמתו. אין להם שאיפות משלהם, והם שמחים להרשות את הדיבוק; עבור ההרפתקנים המתים, זאת הזדמנות שנייה לנקמה או גאולה. הם נולדו מחומר שמיימי ולכן הם דקים, שקופים, ויכולים לעבור בחופשיות דרך מכשולים פיזיים."
 EntityDescription,"Beautiful, otherworldly beings characterised by their signature halo and feathered wings. Strongly attuned to the struggle between good and evil, they sense the divinity within anything they hold.","יצורים יפיפיים שלא מן העולם הזה, בעלי הילה אופיינית וכנפיים עם נוצות. הם קשובים מאוד לקרב בין הטוב לרע, והם חשים את מידת הקדושה בכל דבר שהם אוחזים בו."
 EntityDescription,Beware this clockwork machine of war.,מכונת מלחמה מכנית ומסוכנת.
 EntityDescription,Bipedal mechanical automatons with nearly unbounded artificial intelligence. Powered by a molten core engine that requires a constant supply of raw metals and is susceptible to water damage.,אוטומטונים רבי עוצמה בעלי שתי רגליים ובינה מלאכותית כמעט בלתי מוגבלת. מנוע ההיתוך שמספק להם את כוחם דורש אספקה מתמדת של חומרי גלם והוא פגיע לנזקי מים.
 EntityDescription,"Fey creatures linked by powerful nature spirits to fuel their antics. They are stocky with furry lower bodies, cloven hooves of a goat and curled horns of a ram. Ribald and clever, they cheerfully lead hedonistic escapades of drinking, dancing and fighting.","יצורים ממין הפיות, מקושרים לרוחות הטבע שמסייעות להם בתעלוליהם. הם חסונים, בעלי גוף תחתון שעיר, פרסות עז שסועות וקרני כבש מסולסלות. הם גסים ופקחיים, ומנהלים חיי הנאה של שתייה, ריקוד וקרבות."
 EntityDescription,"Imposing and heavily built, they resemble humanoid dragons with a snout, scaly hide and functional wings.","יצורים מרשימים וכבדים, דומים לדרקונים אנושיים בעלי חוטם ארוך, עור קשקשי וכנפיים שימושיות."
+EntityDescription,"It waits among the headstones shaped like one more grave marker, patient as the dead around it.",
 EntityDescription,"Large, omnivorous reptilians whose bestial ancestors dominated the world long before the birth of civilisation. They are fearsome predators, capable of leaping impressive distances and warding off many attacks with their thick scaly hides.","זוחלים גדולים, אוכלי כל, שאבות אבותיהם החייתיים שלטו בעולם הרבה לפני ערש התרבות. הם טורפים מעוררי אימה, מסוגלים לזנק מרחקים ארוכים ולהדוף מתקפות רבות בעזרת העורות העבים והקשקשיים שלהם."
 EntityDescription,Monstrous creatures with the head and tail of a bull and the body of a man.,יצורים מפלצתיים עם ראש וזנב של שור ועם גוף אדם.
 EntityDescription,"Perverse creatures of many aberrations but always with crimson skin and horns. Their mere presence compels others to act out their darkest, most violent desires.","יצורים סוטים שונים ומגוונים, אבל תמיד בעלי עור ארגמן וקרניים. עצם נוכחותם גורמת לאחרים לפעול על פי התשוקות האפלות והאלימות ביותר שלהם."
@@ -1033,7 +1384,11 @@ EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",יצורים מכוערים וגסים בעלי נטיות קניבליות; בני הגזע הלוחם הזה ידועים בכוחם המרשים ובשכלם הרפה.
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.",זוחלים זעירים שקיבלו שם לא הוגן של יצורים פחדניים וחלשים. הם מתגברים על מגבלותיהם הגופניות באמצעות אסטרטגיות מרושעות וערמומיות.
 EntityName,abbot,נזיר
+EntityName,abyssal shark,
 EntityName,acid blob,גוש חומצה
+EntityName,acid elemental,
+EntityName,acid sphere,
+EntityName,acid spore,
 EntityName,acid worm,תולעת חומצה
 EntityName,acolyte,שרת
 EntityName,adamantine golem,גולם אדמנטיט
@@ -1049,8 +1404,15 @@ EntityName,adult shimmering dragon,דרקונית מנצנצת בוגרת
 EntityName,adult silver dragon,דרקון כסף בוגר
 EntityName,adult white dragon,דרקונית לבנה בוגרת
 EntityName,adult yellow dragon,דרקון צהוב בוגר
+EntityName,air binder,
 EntityName,air elemental,יסודן אוויר
+EntityName,air maker,
+EntityName,air seeker,
+EntityName,air sphere,
+EntityName,albino rat,
+EntityName,alchemist,
 EntityName,Aleax,אליקס
+EntityName,almiraj,
 EntityName,ancient black dragon,דרקונית שחורה עתיקה
 EntityName,ancient blue dragon,דרקון כחול עתיק
 EntityName,ancient deep dragon,דרקונית מעמקים עתיקה
@@ -1063,6 +1425,7 @@ EntityName,ancient silver dragon,דרקונית כסופה עתיקה
 EntityName,ancient white dragon,דרקון לבן עתיק
 EntityName,ancient yellow dragon,דרקונית צהובה עתיקה
 EntityName,angel,מלאך
+EntityName,angel warrior,
 EntityName,animate object,חפץ חי
 EntityName,ape,קוף
 EntityName,Aphrodite,אפרודיטה
@@ -1070,17 +1433,30 @@ EntityName,apprentice,שולייה
 EntityName,arc bug,חרק מחשמל
 EntityName,arch-lich,ליץ' עליון
 EntityName,archangel,מלאך עליון
+EntityName,archeologist,
 EntityName,Archmage Dirachi,הרב-מג דיראצ'י
 EntityName,Archmage Flaynn,הרב-מגית פלאיין
 EntityName,archon,ארכון
 EntityName,Archpriest Avvakrum,הכוהן העליון אווקרום
+EntityName,army captain,
+EntityName,army lieutenant,
+EntityName,army sergeant,
+EntityName,army soldier,
 EntityName,artisan,אומן
+EntityName,ash elemental,
+EntityName,ash giant,
+EntityName,ashen cave bear,
+EntityName,ashen mummy,
 EntityName,Ashikaga Takauji,אשיקגה טקאוג'י
 EntityName,Asmodeus,אשמדאי
 EntityName,asphynx,אספינקס
+EntityName,assassin,
 EntityName,assassin bug,חרק רצחני
 EntityName,Assassin Mortimer,מורטימר המתנקש
 EntityName,astral deva,דווה שמיימית
+EntityName,astral dog,
+EntityName,astral dragon,
+EntityName,astral puppy,
 EntityName,athol,אתול
 EntityName,attendant,משרת
 EntityName,Baalzebub,בעל זבוב
@@ -1092,6 +1468,7 @@ EntityName,baby deep dragon,דרקון מעמקים גור
 EntityName,baby gold dragon,דרקונית זהובה גורה
 EntityName,baby green dragon,דרקון ירוק גור
 EntityName,baby long worm,תולעת ארוכה גורה
+EntityName,baby mimic,
 EntityName,baby orange dragon,דרקון כתום גור
 EntityName,baby purple worm,תולעת סגולת גורה
 EntityName,baby red dragon,דרקונית אדומה גורה
@@ -1111,8 +1488,10 @@ EntityName,basilisk,בסיליסק
 EntityName,bat,עטלף
 EntityName,bearded devil,שטן מזוקן
 EntityName,beholder,בוהה
+EntityName,berserker,
 EntityName,bile worm,תולעת מרה
 EntityName,bile worm tail,זנב תולעת מרה
+EntityName,bishop,
 EntityName,black light,אור שחור
 EntityName,black marketeer,מוכר בשוק השחור
 EntityName,black mould,עובש שחור
@@ -1123,26 +1502,37 @@ EntityName,black rat,חולדה שחורה
 EntityName,black troll,טרול שחור
 EntityName,black unicorn,חד קרן שחור
 EntityName,black wasp,צרעה שחורה
+EntityName,blind cave bat,
+EntityName,blink dog,
+EntityName,blink puppy,
 EntityName,blinking eye,עין ממצמצת
 EntityName,blood imp,שדון דם
 EntityName,bloodshot eye,עין אדומה
 EntityName,bloodworm,תולעת דם
 EntityName,blue jelly,ג'לי כחול
 EntityName,blue light,אור כחול
+EntityName,bog ogre,
 EntityName,bone devil,שטן עצמות
+EntityName,bone reaper,
+EntityName,brine elemental,
+EntityName,bronze golem,
 EntityName,brown mould,עובש חום
 EntityName,brown pudding,פודינג חום
 EntityName,brownie,בראוני
 EntityName,bugbear,דובלין
 EntityName,bull,פר
+EntityName,buraq,
 EntityName,burbling blob,גוש מבעבע
+EntityName,bushi,
 EntityName,byakhee,ביאקי
+EntityName,Byakko,
 EntityName,captain,מפקד
 EntityName,carnivorous ape,קוף טורף
 EntityName,carrion crawler,זוחל אשפתות
 EntityName,caterwaul,יללן
 EntityName,catoblepas,קטובלפס
 EntityName,cave bear,דב מערות
+EntityName,cave gnome,
 EntityName,cave spider,עכביש מערות
 EntityName,cave troll,טרול מערות
 EntityName,centipede,מרבה רגליים
@@ -1151,6 +1541,7 @@ EntityName,chameleon,זיקית
 EntityName,changeling,חליפין
 EntityName,Charon,כארון
 EntityName,chasme,קזמי
+EntityName,cherubim,
 EntityName,chickatrice,אפרוח קוקטריס
 EntityName,chicken,תרנגולת
 EntityName,chief yeoman warder,סוהר ייאומן ראשי
@@ -1170,6 +1561,7 @@ EntityName,crocodile,תנין
 EntityName,Croesus,קרויסוס
 EntityName,crystal golem,גולם בדולח
 EntityName,Cthulhu,קתולהו
+EntityName,cyan jelly,
 EntityName,cyclops,קיקלופ
 EntityName,dao,דאו
 EntityName,dark cleric,כוהן אפל
@@ -1201,7 +1593,12 @@ EntityName,dracon,דראקון
 EntityName,dragon king,מלך דרקונים
 EntityName,dretch,דרץ'
 EntityName,drow,אלף אפל
+EntityName,drow mage,
+EntityName,drow monk,
+EntityName,drow priestess,
+EntityName,drow thief,
 EntityName,dryad,דריאדה
+EntityName,duck,
 EntityName,duergar,דוארגר
 EntityName,dung worm,תולעת זבל
 EntityName,dust vortex,מערבולת אבק
@@ -1220,6 +1617,7 @@ EntityName,earth seeker,שוחר אדמה
 EntityName,earth sphere,כדור אדמה
 EntityName,echo,הד
 EntityName,efreeti,עפריתי
+EntityName,elder wizard,
 EntityName,electric eel,צלופח חשמלי
 EntityName,elephant,פילה
 EntityName,elf,אלף
@@ -1229,16 +1627,24 @@ EntityName,elf mummy,מומיית אלף
 EntityName,elf zombie,זומבי אלף
 EntityName,Elwing,אלווינג
 EntityName,embalmer,חונט
+EntityName,ember panther,
+EntityName,ember spitting beetle,
 EntityName,emerald golem,גולם אזמרגד
+EntityName,energy elemental,
 EntityName,energy vortex,מערבולת אנרגיה
 EntityName,erinys,אריניה
+EntityName,eshim,
 EntityName,ettin,אטין
 EntityName,ettin mummy,מומיית אטין
 EntityName,ettin zombie,זומבי אטין
+EntityName,explosive elemental,
+EntityName,explosive sphere,
 EntityName,exterminator,מדביר
+EntityName,fae dragon,
 EntityName,fairy,פיה
 EntityName,Famine,רעב
 EntityName,Father Dagon,דגון
+EntityName,female demon,
 EntityName,fiend,יצור תופת
 EntityName,fire ant,נמלת אש
 EntityName,fire elemental,יסודן אש
@@ -1257,16 +1663,24 @@ EntityName,fog cloud,ענן ערפל
 EntityName,forest centaur,קנטאור יערות
 EntityName,fox,שועל
 EntityName,Frankenstein's Monster,המפלצת של פרנקנשטיין
+EntityName,frost beetle,
 EntityName,frost binder,עוקד כפור
+EntityName,frost cobra,
+EntityName,frost dwarf,
 EntityName,frost giant,ענק כפור
+EntityName,frost long worm,
+EntityName,frost lynx,
 EntityName,frost maker,יוצר כפור
 EntityName,frost seeker,שוחר כפור
 EntityName,frost sphere,כדור כפור
+EntityName,frost wraith,
+EntityName,galgalim,
 EntityName,gargoyle,גרגוייל
 EntityName,garter snake,נחש בירית
 EntityName,gas spore,כדור גז
 EntityName,gecko,שממית
 EntityName,gelatinous cube,קוביית ג'לטין
+EntityName,General Breetai,
 EntityName,genetic engineer,מהנדס גנטי
 EntityName,Geryon,גריון
 EntityName,ghast,גועל בלהות
@@ -1284,6 +1698,7 @@ EntityName,giant crab,סרטן ענק
 EntityName,giant eel,צלופח ענק
 EntityName,giant flea,פרעוש ענק
 EntityName,giant frog,צפרדע ענקית
+EntityName,giant hamster,
 EntityName,giant king,מלך ענקים
 EntityName,giant louse,כינה ענקית
 EntityName,giant mimic,מימיק ענק
@@ -1297,6 +1712,7 @@ EntityName,giant termite,טרמיט ענק
 EntityName,giant tick,קרצייה ענקית
 EntityName,giant wasp,צרעה ענקית
 EntityName,giant zombie,זומבי ענק
+EntityName,Gianta Klaus,
 EntityName,gibberling,פטפטן
 EntityName,gila monster,הלודרמה מרירית
 EntityName,Girtab,גירטאב
@@ -1321,8 +1737,10 @@ EntityName,goblin king,מלך גובלינים
 EntityName,gold golem,גולם זהב
 EntityName,golden naga,נאגה זהובה
 EntityName,golden naga hatchling,אבקוע של נאגה זהובה
+EntityName,grave mimic,
 EntityName,great orc,אורק עילאי
 EntityName,green elf,אלף ירוק
+EntityName,green jelly,
 EntityName,green mould,עובש ירוק
 EntityName,green slime,רפש ירוק
 EntityName,gremlin,גרמלין
@@ -1338,7 +1756,10 @@ EntityName,guide,מדריך
 EntityName,Guildmaster Vaughn,ראש המשמר ווהאן
 EntityName,Guru Quilion,הגורואית קוויליון
 EntityName,gypsy,צוענייה
+EntityName,hag,
 EntityName,halfling,זוטון
+EntityName,halfling female caveman,
+EntityName,halfling male caveman,
 EntityName,harpy,הרפייה
 EntityName,hell hound,כלב שאול
 EntityName,hell hound pup,גור של כלב שאול
@@ -1363,9 +1784,11 @@ EntityName,human,ממין אנושי
 EntityName,human king,מלך אנושי
 EntityName,human mummy,מומיה אנושית
 EntityName,human zombie,זומבי אנושי
+EntityName,huntress,
 EntityName,hydra,הידרה
 EntityName,ice devil,שטן קרח
 EntityName,ice elemental,יסודן קרח
+EntityName,ice giant,
 EntityName,ice troll,טרול קרח
 EntityName,ice vortex,מערבולת קרח
 EntityName,iguana,איגואנה
@@ -1381,8 +1804,10 @@ EntityName,jackalwere,תן-אדם
 EntityName,jaguar,יגואר
 EntityName,jellyfish,רכיכה ימית
 EntityName,jiggling blob,גוש רוטט
+EntityName,journeyman wizard,
 EntityName,juggernaut,ג'אגרנוט
 EntityName,Juiblex,ג'ובלקס
+EntityName,jungle kobold,
 EntityName,juvenile raven,עורב צעיר
 EntityName,Kaloi Thrym,קאלוי תרים
 EntityName,kamadan,קמדאן
@@ -1408,6 +1833,7 @@ EntityName,kobold warrior,לוחם קובולד
 EntityName,kobold zombie,קובולד זומבי
 EntityName,komodo dragon,דרקון קומודו
 EntityName,kraken,קראקן
+EntityName,Krull,
 EntityName,lamb,טלה
 EntityName,Lareth,לארת'
 EntityName,large cat,חתול גדול
@@ -1418,6 +1844,7 @@ EntityName,large mimic,מימיק גדול
 EntityName,large pile of killer coins,ערימה גדולה של מטבעות קטלניים
 EntityName,larva,זחל
 EntityName,lava blob,גוש לבה
+EntityName,lava troll,
 EntityName,leather golem,גולם עור
 EntityName,lemure,למור
 EntityName,leocrotta,לוקרוקוטה
@@ -1434,6 +1861,7 @@ EntityName,lizardman,איש לטאה
 EntityName,lizardman berserker,איש לטאה ברסרקר
 EntityName,lizardman chieftain,ראש שבט אנשי לטאה
 EntityName,lizardman mage,איש לטאה קוסם
+EntityName,lizardman samurai,
 EntityName,lizardman shaman,איש לטאה שאמן
 EntityName,lizardman warrior,איש לטאה לוחם
 EntityName,Lolth,לולת'
@@ -1456,18 +1884,24 @@ EntityName,master mind flayer,מאסטר מצליף מוחות
 EntityName,mastodon,מסטודון
 EntityName,Maugneshaagar,מוגנשגר
 EntityName,medusa,מדוזה
+EntityName,melanistic moccasin,
 EntityName,mellified man,חנוט בדבש
 EntityName,merchant,סוחר
+EntityName,Merdude,
 EntityName,Metamorphius,מטמורפיאוס
+EntityName,midnight jelly,
 EntityName,migo drone,מיגו בטלן
 EntityName,migo queen,מלכת מיגו
 EntityName,migo warrior,לוחמת מיגו
+EntityName,mimic,
+EntityName,mimic coins,
 EntityName,mind flayer,מצליף מוחות
 EntityName,minotaur,מינוטאור
 EntityName,minotaur lord,שר מינוטאורים
 EntityName,mist wolf,זאב ערפל
 EntityName,mithril golem,גולם מיתריל
 EntityName,mobat,עטלף אימים
+EntityName,molten gila monster,
 EntityName,monadic deva,דווה מונאדית
 EntityName,mongbat,קופטלף
 EntityName,monkey,קופיף
@@ -1478,6 +1912,7 @@ EntityName,mountain nymph,נימפת הרים
 EntityName,movanic deva,דווה מובאנית
 EntityName,mugger,כייס
 EntityName,mumak,מומאק
+EntityName,mystical dragon,
 EntityName,nabassu,נבסו
 EntityName,nalfeshnee,נלפשני
 EntityName,Nalzok,נלזוק
@@ -1488,9 +1923,12 @@ EntityName,newt,טריטון
 EntityName,nickelpede,ארכי-מרבה רגליים
 EntityName,nightgaunt,כחוש-לילה
 EntityName,nightmare,סיוט
+EntityName,noble elf,
 EntityName,Norn,נורנה
+EntityName,nun,
 EntityName,nupperibo,נופריבו
 EntityName,nurse,אחות
+EntityName,Nymph Princess,
 EntityName,occultist,מקובל
 EntityName,ochre jelly,ג'לי אוכרה
 EntityName,ogre,עוג
@@ -1507,6 +1945,7 @@ EntityName,orc grunt,אורק חייל
 EntityName,orc king,מלך אורקים
 EntityName,orc mummy,אורק מומיה
 EntityName,orc shaman,אורק שאמן
+EntityName,orc thief,
 EntityName,orc warrior,אורק לוחם
 EntityName,orc zombie,אורק זומבי
 EntityName,Orcus,אורקוס
@@ -1514,6 +1953,7 @@ EntityName,Orion,אוריון
 EntityName,owlbear,ינשודוב
 EntityName,pack rat,חולדה סוחרת
 EntityName,page,שליח
+EntityName,pale cave spider,
 EntityName,panther,פנתר
 EntityName,pantherwere,פנתר-אדם
 EntityName,paper golem,גולם נייר
@@ -1524,6 +1964,10 @@ EntityName,Pelias,פליאס
 EntityName,Pestilence,מגפה
 EntityName,phase spider,עכביש פאזה
 EntityName,phase worm,תולעת פאזה
+EntityName,pheral khit,
+EntityName,pheral pharaoh,
+EntityName,pheral sentinel,
+EntityName,pheral vizier,
 EntityName,pig,חזיר
 EntityName,pile of killer coins,ערימת מטבעות רצחנים
 EntityName,piranha,פירניה
@@ -1531,10 +1975,13 @@ EntityName,pit bull,פיטבול
 EntityName,pit fiend,יצור תופת יושב בורות
 EntityName,pit viper,צפע בורות
 EntityName,pixie,פיקסי
+EntityName,plague jackal,
+EntityName,plague zombie,
 EntityName,plains centaur,קנטאור ערבות
 EntityName,Planetar,פלנטאר
 EntityName,plasmoid,פלזמואיד
 EntityName,plastic golem,גולם פלסטיק
+EntityName,poison alchemist,
 EntityName,pony,פוני
 EntityName,proudfoot,פראודפוט
 EntityName,purple worm,תולעת סגולה
@@ -1554,6 +2001,7 @@ EntityName,rancid jelly,ג’לי מצחין
 EntityName,rat king,מלך החולדות
 EntityName,ratwere,חולדת-אדם
 EntityName,recluse spider,עכביש מתבודד
+EntityName,red jelly,
 EntityName,red light,אור אדום
 EntityName,red mould,עובש אדום
 EntityName,red naga,נאגה אדומה
@@ -1561,6 +2009,10 @@ EntityName,red naga hatchling,אבקוע של נאגה אדומה
 EntityName,rhaumbusun,ראומבוסון
 EntityName,rhumbat,רומבט
 EntityName,robot,רובוט
+EntityName,robot female,
+EntityName,robot male vampire gunslinger,
+EntityName,robot sentry,
+EntityName,robot singer,
 EntityName,rock kobold,קובולד סלעים
 EntityName,rock mole,חפרפרת סלעים
 EntityName,rock piercer,נוקב סלעים
@@ -1570,6 +2022,7 @@ EntityName,roshi,רושי
 EntityName,rot worm,תולעת רקב
 EntityName,rothé,רותה
 EntityName,ruby golem,גולם אודם
+EntityName,runicorn,
 EntityName,rust monster,מפלצת חלודה
 EntityName,rutterkin,רוטרקין
 EntityName,sabre-toothed cat,חתול שן-חרב
@@ -1578,10 +2031,13 @@ EntityName,sandestin,סנדסטין
 EntityName,sapphire golem,גולם ספיר
 EntityName,sasquatch,ביגפוט
 EntityName,satyr,סאטיר
+EntityName,savage brute,
+EntityName,savage stalker,
 EntityName,scorpion,עקרב
 EntityName,Scorpius,סקורפיוס
 EntityName,scramper,סקאמפר
 EntityName,seal,כלב ים
+EntityName,seraphim,
 EntityName,sergeant,סמל
 EntityName,sewer rat,חולדת ביבים
 EntityName,shade,שחור
@@ -1589,6 +2045,7 @@ EntityName,shadow,צל
 EntityName,shadow ogre,עוג צללים
 EntityName,shadow wolf,זאב צללים
 EntityName,Shaman Karnov,קרנוב השאמן
+EntityName,shaolin monk,
 EntityName,shark,כריש
 EntityName,sheep,כבשה
 EntityName,shifter,משתנה
@@ -1599,6 +2056,7 @@ EntityName,shock seeker,שוחר חשמל
 EntityName,shock sphere,כדור חשמל
 EntityName,shoggoth,שוגות'
 EntityName,shrieker,צווחן
+EntityName,silver golem,
 EntityName,Sir Lorimar,סר לורימר
 EntityName,skeleton,שלד
 EntityName,small mimic,מימיק קטן
@@ -1610,6 +2068,9 @@ EntityName,snow orc,אורק שלגים
 EntityName,Solar,סולאר
 EntityName,soldier,חייל
 EntityName,soldier ant,נמלה חיילת
+EntityName,sonic elemental,
+EntityName,sonic sphere,
+EntityName,Soul Summoner,
 EntityName,spark bug,חרק גיצים
 EntityName,spider queen,מלכת עכבישים
 EntityName,spiderwere,עכביש-אדם
@@ -1623,24 +2084,36 @@ EntityName,static blob,גוש סטטי
 EntityName,steam vortex,מערבולת קיטור
 EntityName,stone giant,ענק אבן
 EntityName,stone golem,גולם אבן
+EntityName,storm ape,
+EntityName,storm coyote,
 EntityName,storm giant,ענק סערה
+EntityName,storm raven,
 EntityName,straw golem,גולם קש
 EntityName,student,תלמיד
 EntityName,succubus,סוקובוס
+EntityName,sun elf,
 EntityName,swamp kobold,קובולד ביצות
+EntityName,swamp orc,
+EntityName,tar pudding,
+EntityName,tempter,
+EntityName,temptress,
 EntityName,tengu,טנגו
+EntityName,thief,
 EntityName,Thorin,תורין
 EntityName,Thoth Amon,תות אמון
 EntityName,thug,בריון
 EntityName,tiger,טיגריס
 EntityName,tigerwere,טיגריס-אדם
+EntityName,tin golem,
 EntityName,titan,טיטאן
 EntityName,titanothere,ברונתותריום
 EntityName,topaz golem,גולם טופז
 EntityName,tortle,אישצב
 EntityName,tracker,גשש
+EntityName,trader,
 EntityName,transmuter,תהפוכן
 EntityName,trapper,ממלכד
+EntityName,traveller,
 EntityName,treant,עצנע
 EntityName,troll,טרול
 EntityName,troll mummy,טרול מומיה
@@ -1658,6 +2131,7 @@ EntityName,vampire mage,קוסם ערפד
 EntityName,Van Helsing,ואן הלסינג
 EntityName,Vecna,וקנה
 EntityName,violet fungus,פטרייה בצבע לילך
+EntityName,violet jelly,
 EntityName,vorpal jabberwock,פטעוני סרפילי
 EntityName,vrock,ורוק
 EntityName,war orc,אורק מלחמה
@@ -1687,6 +2161,7 @@ EntityName,weretiger,אדם-טיגריס
 EntityName,werewolf,אדם-זאב
 EntityName,white unicorn,חד קרן לבן
 EntityName,wight,ביעות
+EntityName,wind sphere,
 EntityName,winged gargoyle,גרגויל מכונף
 EntityName,winter wolf,זאב חורף
 EntityName,winter wolf cub,גור של זאב חורף
@@ -1722,6 +2197,7 @@ EntityName,young shimmering dragon,דרקונית מנצנצת צעירה
 EntityName,young silver dragon,דרקון כסוף צעיר
 EntityName,young white dragon,דרקונית לבנה צעירה
 EntityName,young yellow dragon,דרקון צהוב צעיר
+EntityName,zombietree,
 EntityName,zruty,זרוטי
 EquipAction,employ,שימוש
 EquipAction,purse,לארנק
@@ -1763,9 +2239,15 @@ FeatureName,bed,מיטה
 FeatureName,fountain,מזרקה
 FeatureName,grave,קבר
 FeatureName,pentagram,כוכב מחומש
+FeatureName,pyramid,
 FeatureName,sarcophagus,סרקופג
+FeatureName,sink,
 FeatureName,stall,דוכן
 FeatureName,throne,כס
+FeatureName,toilet,
+FeatureName,wooden sign,
+FeatureName,wooden stool,
+FeatureName,wooden table,
 FeatureName,workbench,שולחן עבודה
 FormatText,{ActionCount} action,פעולה {ActionCount}
 FormatText,{ActionCount} actions,{ActionCount} פעולות
@@ -2056,13 +2538,17 @@ GradeName,exotic,אקזוטי
 GradeName,standard,רגיל
 GroundDescription,The cool stone surface has immaculate craftsmanship but is marked by damage and time.,משטח האבן הקריר עשוי ביד אומן אבל הפגיעות והזמן הותירו בו חותם.
 GroundName,cave floor,רצפת מערה
+GroundName,cave path,
 GroundName,chasm,תהום
+GroundName,cloud,
+GroundName,deep water,
 GroundName,dirt,אבק
 GroundName,gold floor,רצפת זהב
 GroundName,granite floor,רצפת גרניט
 GroundName,grass,עשב
 GroundName,hive floor,רצפת כוורת
 GroundName,ice,קרח
+GroundName,lattice floor,
 GroundName,lava,לבה
 GroundName,marble floor,רצפת שיש
 GroundName,metal floor,רצפת מתכת
@@ -2070,33 +2556,51 @@ GroundName,moss,טחב
 GroundName,obsidian floor,רצפת זכוכית געשית
 GroundName,sand,חול
 GroundName,sewer floor,רצפת ביוב
+GroundName,shallow water,
 GroundName,snow,שלג
 GroundName,stone floor,רצפת אבן
 GroundName,stone path,שביל אבן
 GroundName,water,מים
 GroundName,wooden floor,רצפת עץ
+HordeName,acid foundry,
+HordeName,air foundry,
+HordeName,albino rat,
+HordeName,angelic choir,
 HordeName,ant,נמלה
 HordeName,ape,קוף
+HordeName,army patrol,
+HordeName,army platoon,
+HordeName,army squad,
+HordeName,ash foundry,
+HordeName,astral dog,
 HordeName,bat,עטלף
 HordeName,bee,דבורה
 HordeName,beetle,חיפושית
+HordeName,blink dog,
+HordeName,brine foundry,
 HordeName,cockroach,מקק
 HordeName,couatl,קוואטל
 HordeName,coyote,קויוטי
 HordeName,demon,שד
 HordeName,drow,אלף אפל
+HordeName,drow enclave,
 HordeName,dwarf,גמד
 HordeName,electric bug,חרק חשמלי
 HordeName,elf,אלף
+HordeName,energy foundry,
+HordeName,explosive foundry,
 HordeName,flea,פרעוש
 HordeName,garter snake,נחש בירית
 HordeName,gibberling,פטפטן
 HordeName,gnome,גנום
 HordeName,goblin,גובלין
+HordeName,golem workshop,
 HordeName,grimlock,גרימלוק
 HordeName,harpy,הרפייה
+HordeName,heavenly host,
 HordeName,hell hound,כלב שאול
 HordeName,jackal,תן
+HordeName,jelly cistern,
 HordeName,keystone,קיסטון
 HordeName,kobold,קובולד
 HordeName,lemure,למור
@@ -2105,14 +2609,20 @@ HordeName,louse,כינה
 HordeName,mane,מנס
 HordeName,mangler,מטחנת בשר
 HordeName,migo,מיגו
+HordeName,mimic nest,
 HordeName,mould,עובש
 HordeName,ogre,עוג
 HordeName,orc,אורק
+HordeName,pheral tomb,
+HordeName,plague jackal,
 HordeName,rat,חולדה
 HordeName,rothé,רותה
 HordeName,scorpion,עקרב
+HordeName,sonic foundry,
 HordeName,spider,עכביש
 HordeName,spore,נבג
+HordeName,storm coyote,
+HordeName,tar pudding,
 HordeName,termite,טרמיט
 HordeName,tick,קרצייה
 HordeName,tsetse fly,זבוב צה צה
@@ -2124,15 +2634,36 @@ HordeName,wolf,זאב
 HordeName,worm,תולעת
 HordeName,yeoman,ייאומן
 HordeName,zombie,זומבי
+ItemDescription,"A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.",
+ItemDescription,"A barbed iron hook on a long coil of rope, thrown out and hauled back in.",
+ItemDescription,"A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.",
+ItemDescription,"A branched silver candle-holder, its every arm lit at once.",
+ItemDescription,"A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.",
+ItemDescription,"A canvas roll of bandages, salves and sutures for treating wounds in the field.",
+ItemDescription,"A ceremonial double-bitted axe, its twin blades curved like a crescent moon.",
+ItemDescription,"A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.",
+ItemDescription,"A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.",
 ItemDescription,A cloth mask that completely obstructs the wearer's vision.,מסכת בד שמסתירה לחלוטין את שדה הראייה.
 ItemDescription,"A collection of utensils, including empty tins and butchering tools, for packing corpses so as to condense them.","אוסף של כלי מטבח, כולל פחיות ריקות וכלי שחיטה, המיועד לאריזת גופות באופן מרוכז."
 ItemDescription,A compact hand-held firearm.,כלי ירי קטן לאחיזה ביד.
+ItemDescription,"A crudely hammered throwing disc with a jagged, uneven rim, more likely to tear than to cut cleanly.",
+ItemDescription,"A curved funerary blade inlaid with gold, once carried by a pharaonic guardian charged with keeping the dead in their tombs.",
+ItemDescription,"A curved single-edged blade mounted on a long oaken shaft, prized by the warrior monks of the far east.",
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.","להב יחיד מעוקל שלרוב משמש יחידות פרשים, יעיל במיוחד נגד יצורי שאול."
 ItemDescription,A curved single-edged blade often used by cavalry.,להב יחיד מעוקל שלרוב משמש יחידות פרשים.
 ItemDescription,A curved yellow fruit and a great source of fibre.,"פרי צהוב מעוקל, מקור טוב לסיבים תזונתיים."
+ItemDescription,A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.,
+ItemDescription,A fine-grained stone for putting an edge back on a tired blade.,
+ItemDescription,"A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.",
+ItemDescription,A flat black stone used since antiquity to tell real gemstones from paste and glass.,
+ItemDescription,A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.,
 ItemDescription,"A flat throwing weapon made of wood, often used for hunting.","נשק השלכה שטוח עשוי מעץ, משמש לרוב לצייד."
 ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.",עוגה שטוחה ועגולה מבלילה מטוגנת. נקראת גם חמיטה.
+ItemDescription,"A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.",
 ItemDescription,A foreign device which creates perfect visual depictions of reality.,מכשיר זר ומוזר שיוצר מראות מושלמים של המציאות.
+ItemDescription,"A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.",
+ItemDescription,"A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.",
+ItemDescription,"A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.",
 ItemDescription,A hand-held brass horn.,קרן ידנית עשויה מפליז.
 ItemDescription,"A hard rock, smooth and therefore aerodynamic.","אבן קשיחה, חלקה ולכן אווירודינמית."
 ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,מוט מעץ חזק. נשק תמים למראה אבל אימתני בידיים מאומנות.
@@ -2140,10 +2671,16 @@ ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.",אר
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.","להב כפול ועבה. בדומה לחרב ארוכה, גדול במיוחד לשימוש בשתי ידיים."
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,פטיש ברזל כבד שמיועד לשימוש קרב פנים אל פנים.
 ItemDescription,A heavy suit of armour made up of many strips of metal.,שריון כבד שעשוי מהרבה פסי מתכת.
+ItemDescription,"A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.",
 ItemDescription,"A horizontal, mechanically-aided bow and arrow with a shoulder stock.","קשת חיצים אופקית, עם מנגנון מיכני וקת."
 ItemDescription,A key designed to open all mundane locks.,מפתח שנועד לפתוח את כל המנעולים הרגילים.
+ItemDescription,"A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.",
 ItemDescription,"A leather pouch set between two cords, meant for launching small projectiles.","רצועת עור מתוחה בין שני מיתרים, שנועדה לירי של חפצים קטנים."
+ItemDescription,"A length of sturdy rope with a clasp, for keeping a tame animal close at hand.",
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.","משטח מגן קל משקל שנקשר אל הזרוע, עשוי מעץ עם חיזוקי מתכת."
+ItemDescription,"A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.",
+ItemDescription,A long cane rod strung with line and hook. Best used beside open water.,
+ItemDescription,"A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.","סכין ברזל ארוכה עם קצה חד, מאוזנת לצורכי השלכה."
 ItemDescription,A long pipe meant for shooting darts through force of breath.,צינור ארוך שנועד ליריית חיצי מטרה בכוח הנשיפה.
 ItemDescription,A long thrusting polearm best suited to mounted combat.,נשק מוט ארוך לנעיצה. מתאים במיוחד לקרב ברכיבה.
@@ -2151,68 +2688,110 @@ ItemDescription,A long-shafted arrow with a distinctive tip.,חץ בעל גוף 
 ItemDescription,"A long, flexible leather thong. Unexpectedly sharp.",שוט עור ארוך וגמיש. חד במידה מפתיעה.
 ItemDescription,"A long, flowing garment, with long sleeves and a hood.","בגד ארוך ומתנפנף, עם שרוולים ארוכים וברדס."
 ItemDescription,A mace that is spiked on its head.,אלה עם קצה מחודד.
+ItemDescription,"A massive adamantine maul, its head as large as a barrel stave, that shrugs off the recoil of its own swing.",
+ItemDescription,"A massive, mithril-shod maul, its head as large as a barrel stave.",
 ItemDescription,A meal made from the stomach lining of an animal.,ארוחה שעשויה ממעטפת הקיבה של בעל חיים.
+ItemDescription,"A miniature crossbow of elven design, light enough to be drawn and fired one-handed without a stirrup.",
+ItemDescription,"A monstrous greatsword forged with three parallel blades fused along a single spine, each edge catching the light at a different angle.",
 ItemDescription,"A package of preserved meats, all dried and chewy.","צרור בשרים משומרים, יבשים וצמיגים."
+ItemDescription,"A pair of gauntlets ringed with jagged knuckle-spikes, made to turn a punch into a wound.",
+ItemDescription,A pair of solid iron-plated boots that guard the shin and instep at the cost of a good deal of weight.,
 ItemDescription,A pair of sturdy leather boots which extend upward until just below the knee.,זוג מגפי עור עמידים שמגיעים עד מתחת לברך.
 ItemDescription,A pair of sturdy leather boots which extend upwards to just above the ankle.,זוג נעלי עור עמידות שמגיעות עד מעל לקרסול.
+ItemDescription,"A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.",
+ItemDescription,"A physician's instrument for listening to a heartbeat -- yours, or something else's.",
+ItemDescription,"A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.",
+ItemDescription,"A plain, undyed shirt of woven cloth, worn under armour or on its own.",
 ItemDescription,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.","מוט ברזל מחודד שמחובר בזווית ישרה לידית עץ עמידה, משמש לחדירה דרך משטחים קשיחים."
 ItemDescription,A pointed metal cylinder meant to be discharged from a firearm.,גליל מתכת מחודד שנועד לירי מנשק חם.
+ItemDescription,A polished sheet of silvered glass. Some things recoil from their own reflection.,
 ItemDescription,A portable source of light fashioned out of copper and fuelled by oil.,מקור אור נייד שעשוי מנחושת ומתודלק בשמן.
 ItemDescription,A projectile consisting of a wooden shaft with a sharp metal tip at its front and stabilising fins at its rear.,קליע שעשוי ממוט עץ עם קצה מתכתי חד בחלקו הקדמי וסנפירים מייצבים מאחור.
+ItemDescription,"A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.",
 ItemDescription,A righteous sword forged by a revered blacksmith many years ago who set out to hone his craft and to create the ultimate blade. The noble intent of its creator lingers in this weapon to cut down the wicked and protect the innocent.,חרב שוחרת צדק שחושלה לפי שנים רבות על ידי נפח נערץ ששם לו למטרה להשתפר בעבודתו עד שייצור את הלהב המושלם. הכוונות האציליות של יוצרה ניכרות בחרב והיא להוטה לחתוך את הרשעים ולהגן על החפים מפשע.
+ItemDescription,A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.,
 ItemDescription,"A sanctimonious biscuit. A miracle to the meek, a scourge to the undead.","עוגייה טקסית. נס למאמינים, נזק לאל-מתים."
 ItemDescription,"A semi-rigid weapon made up of a notched wooden shaft with a drawstring attached to both ends, used to launch arrows.","נשק קשיח-למחצה שעשוי מקורת עץ מחורצת ושרוך שמחובר לשני הקצוות שלה, ונועד לירות חיצים."
+ItemDescription,"A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.",
 ItemDescription,A sharp iron wedge fashioned to a sturdy handle.,טריז ברזל חד שמחובר לידית קשיחה.
 ItemDescription,"A sharp metal throwing weapon, smaller than a hand and shaped like a star.","נשק השלכה חד ממתכת, קטן יותר מכף יד ומעוצב בצורת כוכב."
 ItemDescription,A short and light double-edged blade.,להב כפול קצר וקל.
+ItemDescription,"A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.",
+ItemDescription,"A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.",
+ItemDescription,"A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.",
 ItemDescription,"A slimy, scaly sea creature, in its entirety. Good for a meal.","ייצור ים מרופש וקשקשי, שלם. ארוחה טובה."
 ItemDescription,A small cutting utensil made of metal with a wooden handle.,מתקן חיתוך קטן עשוי ממתכת ובעל ידית מעץ.
+ItemDescription,A small glass vial holding a captive mote of light.,
+ItemDescription,A small hooked blade made for prying the lid off a sealed tin.,
 ItemDescription,A small iron tool designed for opening all sorts of locks.,"כלי קטן מברזל, שנועד לפתוח כל מיני סוגים של מנעולים."
 ItemDescription,A small missile with a pointed tip meant for throwing.,טיל קטן עם קצה מחודד שנועד להשלכה.
 ItemDescription,A small missile with a reservoir of liquid delivered through a hollow pointed tip.,טיל קטן עם מאגר נוזלים שניגרים דרך חור חלול ומחודד בקצה.
+ItemDescription,"A small, chalky tablet of uncertain origin. Best swallowed quickly.",
+ItemDescription,"A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.",
+ItemDescription,"A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.",
 ItemDescription,"A soft-brimmed hat, somewhat out of fashion.","כובע רך-שוליים, לא מאוד אופנתי."
 ItemDescription,A sophisticated bludgeon with a heavy iron head.,אייל ניגוח מתוחכם עם קצה כבד מברזל.
 ItemDescription,A spacious bag made of incredibly stretchy cotton.,תיק מרווח שעשוי מכותנה מתמתחת במידה מדהימה.
 ItemDescription,A spacious cloth bag.,תיק בד מרווח.
+ItemDescription,"A staff of living, unworked rock. What shapes matter cannot itself be unmade.",
 ItemDescription,A stick of cured meat.,מקל בשר משומר.
 ItemDescription,"A stick of highly explosive material, with a short fuse on one end.","מקל שעשוי מחומר נפיץ במיוחד, עם מרעום קצר בקצה."
+ItemDescription,A stone infused with restorative magic. It crumbles a little more each time it is used.,
+ItemDescription,A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.,
+ItemDescription,"A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.",
 ItemDescription,"A straight, double-edged and often cruciform blade.","להב ישר, כפול ובדרך כלל מוצלב."
+ItemDescription,"A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.",
 ItemDescription,A sturdy and solid mineral.,מינרל קשיח ומוצק.
 ItemDescription,A suit of armour made from metal rings sewn onto a foundation of leather or cloth.,שריון שעשוי מטבעות מתכת שנתפרו על בסיס של עור או בד.
+ItemDescription,"A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.",
 ItemDescription,"A surviving portion of the legendary wall of Verimurus, an ancient elven city said to have lasted since time immemorial. However, not even the mightiest walls could withstand the endless onslaught of the dragons. Now the enchanted walls stand alone over the land that once held them.","קטע שנשאר עומד על תילו, חלק מהכותל האגדי של ורימורוס, עיר אלפית עתיקה שיש אומרים שקיימת מאז הזמנים העתיקים. אבל אפילו החומות האדירות ביותר לא יכלו לעמוד במתקפות הדרקונים האין-סופיות. כיום החומות הקסומות עומדות לבדן על הקרקע שפעם הכילה אותה."
 ItemDescription,"A sweet citrus fruit, coloured eponymously.","פרי הדר מתוק, בצבע זהב שעל שמו הוא נקרא לפעמים."
 ItemDescription,"A sweet custard-filled pie with a thin crust, topped with whipped cream.","עוגה מתוקה ממולאת ברפרפת, עם קלתית דקה ולמעלה קצפת."
 ItemDescription,"A sweet, round fruit, of the red variety. Reportedly a great supplement to your physical health.","פרי מתוק ועגול, מזן אדום. נטען שהוא עוזר מאוד לבריאות."
+ItemDescription,"A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.",
 ItemDescription,"A tall, asymmetric bow.",קשת ארוכה ולא סימטרית.
+ItemDescription,"A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.",
 ItemDescription,"A thick leather coat, constructed to withstand weather and wear.","מעיל עור עבה, נתפר כדי להתגבר על פגעי מזג האוויר והזמן."
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.","אייל ניגוח עבה מעץ. על מה שחסר לו ביופי, הוא מפצה בשימושיות."
+ItemDescription,"A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,חרב דקה וזריזה שנועדה כמעט אך ורק לדקירות.
+ItemDescription,A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.,
 ItemDescription,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.","כלי ירי שמיועד לשימוש בשתי ידיים, מיוצב על הכתף. לרוב משמש לציד חיות קטנות. הפגיעה שלו רצינית."
 ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.",חפץ מופלא של גאונות וכישרון גמדי. האורקים גנבו אותו ועושים בו שימוש לצרכיהם. זה כלי נשק אימתני שמורכב על מוט ארוך ומיועד לשימוש מגב של סוס או של וארג. הזרם החשמלי שמספק לו כוח נוטה להיפרק מדי פעם על כל מי שמוכן לעמוד בדרכה של התפלצת הזאת.
+ItemDescription,"A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.",
 ItemDescription,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,כלי חקלאי שמורכב מלהב ארוך ומעוקל שמחובר לידית אלכסונית.
 ItemDescription,An ambiguous curiosity. It seems edible.,דבר מוזר ולא ברור. נראה אכיל.
 ItemDescription,An article of leather clothing covering the torso that hangs around the neck and on the shoulders.,פריט לבוש מעור שמכסה את החזה ונתלה סביב הצוואר והכתפיים.
 ItemDescription,An article of waterproof cotton clothing covering the torso that hangs around the neck and on the shoulders.,פריט לבוש עמיד למים מכותנה שמכסה את החזה ונתלה סביב הצוואר והכתפיים.
+ItemDescription,"An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.",
 ItemDescription,An elven travel food. It is incredibly satiating.,מזון מסעות של אלפים. משביע להפליא.
+ItemDescription,"An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.",
 ItemDescription,An extremely sharp little blade used for precise incisions.,להב קטן ומאוד חד שמשמש לחתכים מדוייקים.
 ItemDescription,An inconspicuous snack that tells deep secrets.,חטיף תמים למראה שמגלה סודות גנוזים.
 ItemDescription,An iron projectile made up of a shaft with a sharpened square-pyramid tip.,קליע ברזל שכולל מוט וקצה מחודד דמוי-פירמידה.
+ItemDescription,"An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.",
 ItemDescription,"An orange root-vegetable, commonly believed to improve eyesight.","ירק שורש כתום, שהרבה אנשים מאמינים שמשפר את הראייה."
+ItemDescription,"An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.",
 ItemDescription,"Boiled leather, moulded into a bodily shape to be donned as light armour.","עור מעובד, מעוצב לצורת גוף כדי לשמש כשריון קל."
 ItemDescription,"Bold, or just tacky?",נועז או סתם עלוב?
 ItemDescription,Chain mail consists of a mesh of metal rings interlinked to form a flexible armour.,שריון שרשראות שעשוי מרשת טבעות מתכת שחוברו ביחד כדי ליצור שריון גמיש.
+ItemDescription,"Fate itself bends around the wearer, keeping them exactly where the blow cannot land.",
 ItemDescription,"Forged deep underground by dwarven hands, this blade was made to slay the scaled beasts who sought to steal their treasures. Throughout the long years this blade has bathed in the blood of its winged prey. Now almost forgotten, it yearns again for the taste of dragon flesh.","להב שחושל בידי גמדים במעבה האדמה כדי לקטול את המפלצות עטורות הקשקשים שניסו לגנוב את אוצרותיהם. במהלך שנותיו הרבות, הלהב הזה רחץ בדם של טרפו המכונף. כיום הוא כמעט נשכח מלב, והוא צמא לטעם של דם דרקונים."
 ItemDescription,"Gazing into its crimson depths you can see the concentrated life essence of countless victims swirling inside of it. The artifact was completed in the moment of the creators' death, as his soul was claimed by his creation. Now residing among the souls of his former victims, his essence as an alchemist provides the stone with ultimate transmutative powers.","מבט חודר אל תוך העומקים האדומים כשני יספק לך הצצה על לשד החיים של קורבנות רבים מספור שלכודים שם. בנייתו של החפץ הקסום הזה הושלמה ברגע המוות של יוצרו, מאחר שהוא תבע את נשמתו. עכשיו נשמת האלכימאי, שנמצאת בין שאר הנשמות של קורבנותיו, מספקת לאבן כוחות התמרה מושלמים."
+ItemDescription,"Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.",
 ItemDescription,Its high-quality elvish manufacture makes for an effective close combat weapon.,נשק איכותי ויעיל שהאלפים יצרו לצורך קרב מטווח קרוב.
 ItemDescription,Leather armour with close-set studs so as to offer more protection.,שריון עור ממוסמר כדי לספק הגנה משופרת.
 ItemDescription,"Like a smaller variant of the katana, often used as a side-arm.","כמו גרסה קטנה יותר של קטאנה, שמשמשת לרוב כנשק צד."
+ItemDescription,"Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.",
 ItemDescription,One segment of a particularly pungent and bulbous herb.,מקטע אחד של צמח תבלין בעל פקעת ריחנית.
 ItemDescription,Standard issue protective metal headgear.,קסדת מתכת צבאית שנועדה להגנה על הראש.
+ItemDescription,"Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.",
 ItemDescription,"Sturdy leather garments fitted firm onto the hands, sheathing each finger individually.","בגדי עור עמידים שנועדו להתאמה טובה לידיים, ומכסים כל אצבע בנפרד."
 ItemDescription,The final sword forged by a once respected blacksmith who lost himself in the depths of the dungeon. His warped soul now inhabits this blade and lusts for blood. It is said that the one who wields this sword is coerced into cutting down friend and foe alike.,החרב האחרונה שחישל נפח מכובד לשעבר שאבד במעמקי המבוך. כיום נשמתו המעוותת שוכנת בלהב וצמאה לדם. נאמר שהאוחזים בחרב יתפתו לשסף ידידים ואוייבים כאחד.
 ItemDescription,The head of a ranseur consists of a spear-tip affixed with a cross hilt at its base.,קלשון בעל חוד אחד דמוי-חנית שמחובר בבסיסו לניצב דמוי צלב.
 ItemDescription,The only coin that can be found and spent in the dungeon.,המטבע היחיד שניתן למצוא ולהשתמש בו במבוך.
 ItemDescription,The snipped segment of a plant known for its antilycanthropic properties.,חלק קטום של צמח שידוע בתכונותיו האנטי-זאביות.
+ItemDescription,"The spiral horn of a unicorn, its magic bound permanently into the artifact rather than spent in a single burst.",
 ItemDescription,The wearer will occasionally fly into uncontrollable rage lashing out at both friend and foe.,"לבישה של הבגד הזה תגרום להתקפי זעם בלתי נשלטים, שיגרמו לך לתקוף ידידים ואוייבים כאחד."
 ItemDescription,This ancient artifact is a marvel to behold with exquisite craftsmanship and unbridled digging power.,החפץ הקסום והעתיק הזה הוא תאווה לעיניים. בנוי להפליא ומסוגל לחפור כל דבר.
 ItemDescription,"This axe is specifically designed to facilitate deep, grievous wounds in combat. This large weapon is wielded in both hands.",הגרזן הזה נועד במיוחד כדי לפצוע פצעים עמוקים וחמורים במיוחד בעת קרב. זה נשק גדול שאוחזים אותו בשתי ידיים.
@@ -2221,6 +2800,7 @@ ItemDescription,This convenient vial of ink can be used to replenish your marker
 ItemDescription,This crudely made blade is still an effective throwing weapon.,הלהב המאולתר הזה עדיין יכול לשמש כנשק השלכה יעיל.
 ItemDescription,This curious artifact somehow chastens those it strikes and submits them to your will.,החפץ הקסום והמוזר הזה מייסר את הנפגעים ממנו ומאפשר לך לעשות בהם כרצונך.
 ItemDescription,This dwarvish manufactured sword is sturdy and suited to being wielded in the offhand.,חרב הגמדים הזאת עמידה ומתאימה לאחיזה ביד הפנויה.
+ItemDescription,"This dwarvish punching blade is forged thicker than most, its crossbar reinforced to survive a full-strength thrust.",
 ItemDescription,This gemstone is made from hardened tree sap.,אבן חן שעשויה משרף עצים מוקשח.
 ItemDescription,This glowing looking glass reveals glimpses of the future and corrupts your soul.,המראה הזוהרת הזאת מספקת הצצות לעתיד ומשחיתה את נשמתך.
 ItemDescription,This hammer is a four-pronged head mounted atop a long polearm stick. It bears a long spike on its reverse and an even longer spike extending from the very top. It proves effective at puncturing or smashing armour as well as dismounting riders.,"לפטיש הזה יש ראש מרובע שמחובר בראש מוט ארוך. בצד השני שלו יש דורבן ארוך ובקצה הכי עליון יש לו דורבן נוסף, ארוך יותר. הוא יעיל בחיתוך או בשבירה של שיריונות ובהפלה של רוכבים."
@@ -2250,6 +2830,7 @@ ItemDescription,This weapon consists of a spearhead mounted on a long wooden sha
 ItemDescription,"This weapon is a curved blade attached to a pole by binding the lower two-thirds of the blade to the side of the pole, to form a sort of axe.","הנשק הזה הוא להב מעוקל שמחובר למוט. שני השלישים התחתונים של הלהב קשורים לצד המוט, כדי ליצור מעין גרזן."
 ItemDescription,This withered hand is the last remnant of an ancient and powerful lich.,היד הכמושה הזאת היא השריד האחרון של ליץ' עתיק ורב עוצמה.
 ItemDescription,Tiny metal spikes thrown to the ground to impede mobility.,דורבנות מתכת זעירים שמושלכים על הקרקע כדי לפגוע ביכולת התנועה.
+ItemDescription,"Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.",
 ItemDescription,Winged sandals made of imperishable gold which fly the wearer swiftly and silently.,סנדלים מכונפים שעשויים מזהב לא מתכלה שמטיסים את הנועלים אותם במהירות ובשקט.
 ItemDescription,Zapping it at a wall creates a big tunnel.,"אם יורים אותו אל קיר, הוא יוצר מנהרה גדולה."
 ItemName,adamantine arrow,חץ אדמנטיט
@@ -2257,16 +2838,25 @@ ItemName,adamantine axe,גרזן אדמנטיט
 ItemName,adamantine bident,דו-שן אדמנטיט
 ItemName,adamantine bow,קשת אדמנטיט
 ItemName,adamantine bullet,כדור אדמנטיט
+ItemName,adamantine crossbow bolt,
 ItemName,adamantine dagger,פגיון אדמנטיט
 ItemName,adamantine dart,חץ מטרה מאדמנטיט
 ItemName,adamantine greataxe,גרזן אדיר
+ItemName,adamantine greatmace,
 ItemName,adamantine greatsword,חרב אדירה
 ItemName,adamantine hatchet,קרדום אדמנטיט
+ItemName,adamantine helm,
+ItemName,adamantine helmet,
+ItemName,adamantine katana,
+ItemName,adamantine lance,
 ItemName,adamantine long sword,חרב ארוכה מאדמנטיט
 ItemName,adamantine plate mail,שריון לוחות מאדמנטיט
+ItemName,adamantine poleaxe,
+ItemName,adamantine quarterstaff,
 ItemName,adamantine rapier,רפייר אדמנטיט
 ItemName,adamantine sabre,סייף פרשים מאדמנטייט
 ItemName,adamantine short sword,חרב קצרה מאדמנטיט
+ItemName,adamantine shuriken,
 ItemName,adamantine spear,חנית אדמנטיט
 ItemName,adamantine two-handed sword,חרב דו-ידנית מאדמנטיט
 ItemName,agate,ברקת
@@ -2300,8 +2890,10 @@ ItemName,Backpack,תיק גב
 ItemName,bag of holding,תיק נשיאה
 ItemName,bag of tricks,תיק טריק
 ItemName,banana,בננה
+ItemName,bandage,
 ItemName,banded mail,שריון מאוחה
 ItemName,bardiche,בארדיש
+ItemName,baseball bat,
 ItemName,battle robe,אדרת קרב
 ItemName,battle staff,מטה קרב
 ItemName,battle-axe,גרזן קרב
@@ -2322,68 +2914,229 @@ ItemName,blowgun,רובה נשיפה
 ItemName,blue dragon scale mail,שריון קשקשי דרקון כחולים
 ItemName,blue dragon scales,קשקשי דרקון כחולים
 ItemName,blue glass bauble,זכוכית כחולה וזולה
+ItemName,book of acid splash,
 ItemName,book of acid stream,ספר כשפים זרם חומצה
 ItemName,book of animate dead,ספר כשפים הנפשת מתים
 ItemName,book of animate object,ספר כשפים הנפשת חפץ
+ItemName,book of arc conduit,
+ItemName,book of arcane blight,
+ItemName,book of arcane whetstone,
+ItemName,book of arcing bolt,
+ItemName,book of artificer's exchange,
+ItemName,book of atonement,
+ItemName,book of augury,
+ItemName,book of bane,
+ItemName,book of banshee wail,
+ItemName,book of barring ward,
+ItemName,book of battle fury,
 ItemName,book of bind undead,ספר כשפים כבילת אל-מתים
+ItemName,book of binding sphere,
+ItemName,book of black ice patch,
+ItemName,book of black plague,
+ItemName,book of blade blessing,
 ItemName,book of blank paper,ספר כשפים ריק
+ItemName,book of bless,
 ItemName,book of blinking,ספר כשפים בזיקה
+ItemName,book of blurred form,
+ItemName,book of call of the pack,
+ItemName,book of calm,
+ItemName,book of caltrop swarm,
 ItemName,book of cancellation,ספר כשפים ביטול
+ItemName,book of causeway,
+ItemName,book of chain lightning,
+ItemName,book of changeless ward,
 ItemName,book of charm,ספר כשפים הקסמה
+ItemName,book of chill grasp,
+ItemName,book of chromatic orb,
 ItemName,book of clairvoyance,ספר כשפים ראיית הנסתר
+ItemName,book of claybind touch,
+ItemName,book of clear sight,
+ItemName,book of clouded mind,
+ItemName,book of command,
+ItemName,book of commune,
+ItemName,book of concussive blast,
 ItemName,book of cone of cold,ספר כשפים חרוט קור
 ItemName,book of confusion,ספר כשפים בלבול
+ItemName,book of conjure barricade,
+ItemName,book of conjure boulder,
+ItemName,book of conjure guardian,
+ItemName,book of conjure homunculus,
+ItemName,book of conjure mount,
+ItemName,book of conjured pit,
+ItemName,book of consecration,
+ItemName,book of contagion,
+ItemName,book of corpse explosion,
+ItemName,book of corroding ray,
 ItemName,book of create familiar,ספר כשפים יצירת יציר-סוד
+ItemName,book of creeping palsy,
+ItemName,book of crimson ichor lance,
 ItemName,book of crushing sphere,ספר כשפים כדור מוחץ
 ItemName,book of curing,ספר כשפים הבראה
+ItemName,book of danger sense,
 ItemName,book of darkness,ספר כשפים חושך
+ItemName,book of daze,
+ItemName,book of death ward,
+ItemName,book of death's bargain,
+ItemName,book of deathwatch,
 ItemName,book of deflection,ספר כשפים הדיפה
 ItemName,book of detect food,ספר כשפים איתור מזון
+ItemName,book of detect metal,
 ItemName,book of detect monsters,ספר כשפים איתור מפלצות
 ItemName,book of detect treasure,ספר כשפים איתור אוצרות
+ItemName,book of detect undead,
 ItemName,book of detect unseen,ספר כשפים איתור בלתי נראים
 ItemName,book of dig,ספר כשפים חפירה
+ItemName,book of disarming ward,
+ItemName,book of discord,
 ItemName,book of disintegrate,ספר כשפים פירוק
+ItemName,book of dispel magic,
+ItemName,book of displacement,
+ItemName,book of divine favor,
+ItemName,book of divine intervention,
+ItemName,book of dominate mind,
 ItemName,book of drain life,ספר כשפים שאיבת חיים
+ItemName,book of earthen colossus,
+ItemName,book of elemental servant,
+ItemName,book of elemental warding,
+ItemName,book of ember lance,
+ItemName,book of enlarge,
+ItemName,book of entangling vines,
+ItemName,book of entropic siphon,
 ItemName,book of extra healing,ספר כשפים ריפוי חזק
+ItemName,book of false life,
 ItemName,book of fear,ספר כשפים פחד
+ItemName,book of find doors,
+ItemName,book of find traps,
 ItemName,book of finger of death,ספר כשפים אצבע המוות
 ItemName,book of fireball,ספר כשפים כדור אש
 ItemName,book of flaming sphere,ספר כשפים כדור בוער
 ItemName,book of force bolt,ספר כשפים קליע כוח
+ItemName,book of foreknowledge,
+ItemName,book of freedom,
+ItemName,book of freedom of movement,
 ItemName,book of freezing sphere,ספר כשפים כדור מקפיא
+ItemName,book of frost breath,
 ItemName,book of full healing,ספר כשפים רפואה שלמה
+ItemName,book of gate,
+ItemName,book of gilding touch,
+ItemName,book of glacial spike,
+ItemName,book of grasping mind,
+ItemName,book of grave rot,
+ItemName,book of gravity well,
+ItemName,book of guided path,
+ItemName,book of harvest of souls,
 ItemName,book of haste,ספר כשפים חיפזון
+ItemName,book of hazard sense,
 ItemName,book of healing,ספר כשפים ריפוי
+ItemName,book of hex,
+ItemName,book of hexbind,
+ItemName,book of hideous laughter,
+ItemName,book of hold monster,
+ItemName,book of hold person,
+ItemName,book of holy word,
 ItemName,book of ice storm,ספר כשפים סופת קרח
 ItemName,book of identify,ספר כשפים זיהוי
+ItemName,book of inner calm,
 ItemName,book of invisibility,ספר כשפים אי נראות
+ItemName,book of iron will,
+ItemName,book of ironbind door,
+ItemName,book of juggernaut ray,
 ItemName,book of jumping,ספר כשפים קפיצה
+ItemName,book of keen search,
 ItemName,book of knock,ספר כשפים נקישה
+ItemName,book of legion of bone,
 ItemName,book of levitation,ספר כשפים ריחוף
 ItemName,book of light,ספר כשפים אור
 ItemName,book of lightning bolt,ספר כשפים חזיז ברק
 ItemName,book of living wall,ספר כשפים קיר חי
 ItemName,book of magic mapping,ספר כשפים מיפוי קסום
 ItemName,book of magic missile,ספר כשפים טיל קסם
+ItemName,book of meteoric cataclysm,
+ItemName,book of mind ken,
+ItemName,book of mind link,
+ItemName,book of mind spike,
+ItemName,book of mindrend,
+ItemName,book of mirror ward,
+ItemName,book of neutralize poison,
+ItemName,book of oracle's eye,
+ItemName,book of owl eyes,
+ItemName,book of petrifying touch,
 ItemName,book of phasing,ספר כשפים שינוי פאזה
+ItemName,book of planar anchor,
+ItemName,book of planar swap,
 ItemName,book of poison blast,ספר כשפים מטח רעל
 ItemName,book of polymorph,ספר כשפים שינוי צורה
+ItemName,book of porter's reach,
+ItemName,book of prayer,
+ItemName,book of premonition,
+ItemName,book of prismatic spray,
+ItemName,book of psychic shove,
 ItemName,book of raise dead,ספר כשפים הקמת מתים
+ItemName,book of rally cry,
+ItemName,book of ray of enfeeblement,
+ItemName,book of reap,
 ItemName,book of regenerate,ספר כשפים התחדשות
 ItemName,book of remove curse,ספר כשפים הסרת קללה
+ItemName,book of repelling ward,
+ItemName,book of repulsion,
 ItemName,book of restoration,ספר כשפים שיחזור
+ItemName,book of revelation,
+ItemName,book of sanctuary,
+ItemName,book of scalding cloud,
+ItemName,book of searing light,
+ItemName,book of sense curse,
+ItemName,book of sense the restless,
+ItemName,book of sentinel ward,
+ItemName,book of shimmer shield,
 ItemName,book of shocking sphere,ספר כשפים כדור מחשמל
+ItemName,book of shrink,
+ItemName,book of silence,
+ItemName,book of simulacrum,
 ItemName,book of sleep,ספר כשפים שינה
+ItemName,book of slick detonation,
+ItemName,book of slipping free,
 ItemName,book of slow,ספר כשפים איטיות
 ItemName,book of soaking sphere,ספר כשפים כדור נוטף
+ItemName,book of song of discord,
+ItemName,book of spark bolt,
+ItemName,book of spectral shroud,
+ItemName,book of spirit leech,
+ItemName,book of spirit shield,
+ItemName,book of starfall,
+ItemName,book of steadfast ward,
+ItemName,book of stone to flesh,
+ItemName,book of stoneskin,
 ItemName,book of summoning,ספר כשפים זימון
+ItemName,book of sunburst smite,
+ItemName,book of sunder gear,
+ItemName,book of swoon,
 ItemName,book of telekinesis,ספר כשפים טלקינזיס
+ItemName,book of telekinetic shove,
 ItemName,book of teleport away,ספר כשפים שיגור
+ItemName,book of thunderclap,
+ItemName,book of timed combustion,
+ItemName,book of tongue tied,
 ItemName,book of toxic spray,ספר כשפים רסס רעל
+ItemName,book of transmuter's mastery,
+ItemName,book of true appraisal,
 ItemName,book of turn undead,ספר כשפים גירוש אל-מתים
+ItemName,book of unbinding,
+ItemName,book of undying ward,
+ItemName,book of unseen hand,
+ItemName,book of vampiric feast,
+ItemName,book of veil of shadows,
+ItemName,book of wall breach,
+ItemName,book of wall of thorns,
 ItemName,book of walling,ספר כשפים קירוי
+ItemName,book of ward of return,
+ItemName,book of warning ward,
+ItemName,book of web snare,
+ItemName,book of whispers of madness,
+ItemName,book of wildfire brand,
+ItemName,book of wither,
+ItemName,book of withering ray,
 ItemName,book of wizard lock,ספר כשפים נעילת קסם
+ItemName,book of world vision,
 ItemName,boomerang,בומרנג
 ItemName,bow,קשת
 ItemName,brass bugle,קרנון מפליז
@@ -2397,9 +3150,13 @@ ItemName,bullwhip,שוט קלוע
 ItemName,c-ration,מנת קרב תקנית
 ItemName,caltrops,דוקרנים
 ItemName,can of grease,פחית שומן
+ItemName,candelabrum,
 ItemName,candy bar,חטיף מתוק
 ItemName,Carapace,קרפס
 ItemName,carrot,גזר
+ItemName,Celestial Doom,
+ItemName,Celestial Kismet,
+ItemName,Celestial Portent,
 ItemName,chain barding,שריון שרשראות לסוס
 ItemName,chain mail,שריון שרשראות
 ItemName,chakram,צ'קרם
@@ -2415,6 +3172,7 @@ ItemName,cloak of deflection,גלימת הדיפה
 ItemName,cloak of displacement,גלימת התעתקות
 ItemName,cloak of invisibility,גלימת היעלמות
 ItemName,cloak of magic resistance,גלימת הגנה מקסם
+ItemName,cloth shirt,
 ItemName,clove of garlic,שן שום
 ItemName,club,מחבט
 ItemName,Colossal Excavator,מחפר קולוסלי
@@ -2422,18 +3180,22 @@ ItemName,cornuthaum,כובע עם קרניים
 ItemName,costume earrings,עגילי קוספליי
 ItemName,cram ration,מנת קרב טבעונית
 ItemName,cream pie,עוגת קצפת
+ItemName,credit card,
 ItemName,Creeping Sprout,חץ מנץ
+ItemName,crimson cloak,
 ItemName,crossbow,קשת מוצלבת
 ItemName,crossbow bolt,קליע לקשת מוצלבת
 ItemName,crysknife,סכין קריס
 ItemName,crystal ball,כדור בדולח
 ItemName,crystal plate mail,שריון לוחות בדולח
 ItemName,dagger,פגיון
+ItemName,darkstone,
 ItemName,dart,חץ מטרה
 ItemName,Deadwood,דדווד
 ItemName,Deagle,דיגל
 ItemName,deep dragon scale mail,שריון קשקשי דרקון מעמקים
 ItemName,deep dragon scales,קשקשי דרקון מעמקים
+ItemName,Demiurge,
 ItemName,dented pot,סיר חבוט
 ItemName,detonation key,מפתח הצתה
 ItemName,diamond,יהלום
@@ -2441,6 +3203,8 @@ ItemName,dilithium crystal,גביש דיליתיום
 ItemName,dimension key,מפתח מימד
 ItemName,Dire Needle,מחט מגור
 ItemName,disencumbrance boots,מגפי הקלה
+ItemName,doublet,
+ItemName,dragon horn,
 ItemName,Dragonbane,רועצת הדרקונים
 ItemName,dread staff,מטה אימה
 ItemName,Drilanze,דרילנזה
@@ -2453,6 +3217,7 @@ ItemName,drum of earthquake,תוף רעידות אדמה
 ItemName,dunce cap,כובע טמבל
 ItemName,dwarvish cloak,גלימת גמדים
 ItemName,dwarvish iron helm,קסדת ברזל של גמדים
+ItemName,dwarvish katar,
 ItemName,dwarvish mattock,מכוש גמדים
 ItemName,dwarvish mithril-coat,שריון מיתריל של גמדים
 ItemName,dwarvish roundshield,מגן עגול של גמדים
@@ -2465,8 +3230,10 @@ ItemName,elven arrow,חץ אלפים
 ItemName,elven boots,נעלי אלפים
 ItemName,elven bow,קשת אלפים
 ItemName,elven broadsword,חרב רחבת להב של אלפים
+ItemName,elven chakram,
 ItemName,elven cloak,גלימת אלפים
 ItemName,elven dagger,פגיון אלפים
+ItemName,elven hand crossbow,
 ItemName,elven leather helm,קסדת עור של אלפים
 ItemName,elven mithril-coat,שריון מיתריל של אלפים
 ItemName,elven shield,מגן אלפים
@@ -2477,11 +3244,14 @@ ItemName,Escapist,אסקפיסט
 ItemName,eucalyptus leaf,עלה אקליפטוס
 ItemName,expensive camera,מצלמה יקרה
 ItemName,Eye of Aethiopica,עין אאתיופיקה
+ItemName,eyeball,
 ItemName,Eyes of Ra,עיני רא
+ItemName,fancy boots,
 ItemName,fauchard,פושארד
 ItemName,fedora,מגבעת
 ItemName,fire horn,קרן אש
 ItemName,fish,דג
+ItemName,fishing pole,
 ItemName,flail,מורג
 ItemName,flash staff,מטה מסנוור
 ItemName,fleet robe,אדרת חמקמקות
@@ -2491,6 +3261,7 @@ ItemName,fly swatter,מחבט זבובים
 ItemName,food ration,מנת מזון
 ItemName,fortune cookie,עוגיית מזל
 ItemName,frag grenade,רימון רסס
+ItemName,frisbee,
 ItemName,frost horn,קרן קרה
 ItemName,fumble boots,נעלי מעידה
 ItemName,garnet,נופך
@@ -2501,10 +3272,26 @@ ItemName,gauntlets of phasing,כפפות פאזה
 ItemName,gauntlets of power,כפפות עוצמה
 ItemName,Giantslayer,קטלענק
 ItemName,glaive,כילף
+ItemName,gold axe,
+ItemName,gold chakram,
 ItemName,gold coin,מטבע זהב
+ItemName,gold dagger,
+ItemName,gold double vajra,
 ItemName,gold dragon scale mail,שריון קשקשי דרקון זהובים
 ItemName,gold dragon scales,קשקשי דרקון זהובים
+ItemName,gold flail,
 ItemName,Gold Key,מפתח זהב
+ItemName,gold khanda,
+ItemName,gold labrys,
+ItemName,gold longsword,
+ItemName,gold plate mail,
+ItemName,gold single vajra,
+ItemName,gold spade,
+ItemName,gold trident,
+ItemName,gold twohanded sword,
+ItemName,gold urumi,
+ItemName,gold whistle,
+ItemName,grappling hook,
 ItemName,great dagger,פגיון אדיר
 ItemName,green dragon scale mail,שריון קשקשי דרקון ירוקים
 ItemName,green dragon scales,קשקשי דרקון ירוקים
@@ -2512,10 +3299,12 @@ ItemName,green glass bauble,זכוכית ירוקה וזולה
 ItemName,grenade launcher,משגר רימונים
 ItemName,Grimtooth,שן-מוות
 ItemName,guisarme,גיזארם
+ItemName,Gungnir,
 ItemName,halberd,האלברד
 ItemName,Harbalest,הארבלסט
 ItemName,hatchet,קרדום
 ItemName,hawaiian shirt,חולצת הוואי
+ItemName,healthstone,
 ItemName,heavy hammer,פטיש כבד
 ItemName,heavy iron ball,כדור ברזל כבד
 ItemName,heavy machine gun,נשק אוטומטי כבד
@@ -2548,6 +3337,7 @@ ItemName,kanabo,קנאבו
 ItemName,katana,קטאנה
 ItemName,katar,קטאר
 ItemName,kelp frond,פיסת אצה
+ItemName,khopesh,
 ItemName,knife,סכין
 ItemName,lab coat,חלוק מעבדה
 ItemName,lance,רומח
@@ -2556,6 +3346,7 @@ ItemName,lantern,עששית
 ItemName,large box,תיבה גדולה
 ItemName,large shield,מגן גדול
 ItemName,Lashing Tongue,לשון מצליפה
+ItemName,leash,
 ItemName,leather armour,שריון עור
 ItemName,leather barding,שריון עור לסוס
 ItemName,leather cloak,גלימת עור
@@ -2565,10 +3356,12 @@ ItemName,leather jacket,מעיל עור
 ItemName,lembas wafer,למבאס
 ItemName,lenses,עדשות
 ItemName,levitation boots,נעלי רחיפה
+ItemName,loadstone,
 ItemName,lock pick,כלי פריצה
 ItemName,long sword,חרב ארוכה
 ItemName,low boots,נעליים
 ItemName,lucern hammer,פטיש לוצרן
+ItemName,luckstone,
 ItemName,lump of royal jelly,מנת מזון מלכות
 ItemName,mace,אלה
 ItemName,magic bugle,קרנון קסום
@@ -2588,32 +3381,48 @@ ItemName,Maulfrost,מולפרוסט
 ItemName,meat ring,טבעת בשר
 ItemName,meat stick,מקל בשר
 ItemName,meatball,כדור בשר
+ItemName,medical kit,
 ItemName,melon,אבטיח
+ItemName,mirror,
 ItemName,Mirrorbright,זוהר-מראה
 ItemName,Miserus,מיזרוס
 ItemName,mithril arrow,חץ מיתריל
+ItemName,mithril axe,
 ItemName,mithril barding,שריון מיתריל לסוס
 ItemName,mithril battle-axe,גרזן קרב ממיתריל
 ItemName,mithril bullet,כדור מיתריל
 ItemName,mithril crossbow bolt,קליע לקשת מוצלבת ממיתריל
 ItemName,mithril dagger,פגיון מיתריל
 ItemName,mithril dart,חץ מטרה ממיתריל
+ItemName,mithril gauntlets,
+ItemName,mithril greatmace,
+ItemName,mithril greatsword,
+ItemName,mithril hatchet,
 ItemName,mithril helmet,קסדת מיתריל
+ItemName,mithril katana,
 ItemName,mithril katar,קטאר מיתריל
 ItemName,mithril lance,רומח מיתריל
 ItemName,mithril long sword,חרב ארוכה ממיתריל
 ItemName,mithril plate mail,שריון לוחות ממיתריל
+ItemName,mithril poleaxe,
+ItemName,mithril rapier,
 ItemName,mithril sabre,סייף פרשים ממיתריל
 ItemName,mithril shield,מגן מיתריל
 ItemName,mithril short sword,חרב קצרה ממיתריל
+ItemName,mithril shuriken,
 ItemName,mithril spear,חנית מיתריל
+ItemName,mithril trident,
 ItemName,mithril two-handed sword,חרב דו-ידנית ממיתריל
 ItemName,mithril whip,שוט מיתריל
+ItemName,mooshroom,
 ItemName,morning star,כוכב השחר
+ItemName,Mournblade,
 ItemName,mummy wrapping,תכריכי מומיה
 ItemName,Muramasa,מוראסאמה
 ItemName,mushroom,פטרייה
 ItemName,mute earrings,עגילי החרשה
+ItemName,naginata,
+ItemName,Nonagon Infinity,
 ItemName,nunchaku,נונצ'קו
 ItemName,obsidian,זכוכית געשית
 ItemName,oil lamp,מנורת שמן
@@ -2626,6 +3435,7 @@ ItemName,orange glass bauble,זכוכית כתומה וזולה
 ItemName,orcish arrow,חץ אורקים
 ItemName,orcish bow,קשת אורקים
 ItemName,orcish chain mail,שריון שרשראות של אורקים
+ItemName,orcish chakram,
 ItemName,orcish cloak,גלימת אורקים
 ItemName,orcish dagger,פגיון אורקים
 ItemName,orcish helm,קסדת אורקים
@@ -2640,9 +3450,13 @@ ItemName,partisan,פארטיזאן
 ItemName,pear,אגס
 ItemName,pearl,פנינה
 ItemName,phantom key,מפתח פאנטום
+ItemName,phial,
 ItemName,Philosophers Stone,אבן החכמים
 ItemName,pick-axe,מכוש
+ItemName,pill,
 ItemName,pistol,אקדח
+ItemName,plastic bat,
+ItemName,plastic hammer,
 ItemName,plastic sword,חרב פלסטיק
 ItemName,plate barding,שריון לוחות לסוס
 ItemName,plate mail,שריון לוחות
@@ -2679,10 +3493,13 @@ ItemName,potion of see invisible,שיקוי ראיית בלתי נראים
 ItemName,potion of sickness,שיקוי מחלה
 ItemName,potion of sleeping,שיקוי שינה
 ItemName,potion of speed,שיקוי מהירות
+ItemName,potion of sustenance,
+ItemName,potion of warning,
 ItemName,potion of water,שיקוי מים
 ItemName,proof earrings,עגילי הערכה
 ItemName,Prudentia,פרודנטיה
 ItemName,quarterstaff,מוט עץ
+ItemName,railgun,
 ItemName,ranseur,קלשון חד-חוד
 ItemName,rapier,רפייר
 ItemName,Ravenbow,רייבנבו
@@ -2698,6 +3515,7 @@ ItemName,ring of cold resistance,טבעת עמידות לקור
 ItemName,ring of conflict,טבעת ריב
 ItemName,ring of constitution,טבעת חוסן
 ItemName,ring of dexterity,טבעת זריזות
+ItemName,ring of energy,
 ItemName,ring of fire resistance,טבעת עמידות לאש
 ItemName,ring of free action,טבעת פעולה חופשית
 ItemName,ring of hunger,טבעת רעב
@@ -2705,6 +3523,7 @@ ItemName,ring of impact,טבעת השפעה
 ItemName,ring of intelligence,טבעת תבונה
 ItemName,ring of invisibility,טבעת אי נראות
 ItemName,ring of levitation,טבעת ריחוף
+ItemName,ring of marksmanship,
 ItemName,ring of naught,טבעת כלום
 ItemName,ring of poison resistance,טבעת עמידות לרעל
 ItemName,ring of polymorph,טבעת שינוי צורה
@@ -2728,11 +3547,24 @@ ItemName,robe,אדרת
 ItemName,rock,אבן
 ItemName,rocket,טיל
 ItemName,rocket launcher,משגר טילים
+ItemName,rose axe,
+ItemName,rose battleaxe,
+ItemName,rose bident,
+ItemName,rose dagger,
+ItemName,rose greatsword,
+ItemName,rose hatchet,
+ItemName,rose long sword,
+ItemName,rose rapier,
+ItemName,rose ring,
+ItemName,rose sabre,
+ItemName,rose short sword,
+ItemName,rose spear,
 ItemName,Rosenthral,רוזנתרל
 ItemName,rubber hose,צינור גומי
 ItemName,ruby,אודם
 ItemName,Ruby Key,מפתח אודם
 ItemName,Runesword,חרב רונות
+ItemName,Runicorn Horn,
 ItemName,sabre,סייף פרשים
 ItemName,sack,שק
 ItemName,saddle,אוכף
@@ -2779,6 +3611,7 @@ ItemName,scythe,חרמש
 ItemName,shades,משקפי שמש
 ItemName,Shadow Key,מפתח צללים
 ItemName,shield of reflection,מגן משקף
+ItemName,Shillelagh,
 ItemName,shimmering dragon scale mail,שריון קשקשי דרקון בוהקים
 ItemName,shimmering dragon scales,קשקשי דרקון בוהקים
 ItemName,short sword,חרב קצרה
@@ -2798,6 +3631,7 @@ ItemName,Silver Key,מפתח כסף
 ItemName,silver lance,רומח כסף
 ItemName,silver long sword,חרב ארוכה מכסף
 ItemName,silver mace,אלה מכסף
+ItemName,silver rapier,
 ItemName,silver sabre,סייף פרשים מכסף
 ItemName,silver short sword,חרב קצרה מכסף
 ItemName,silver spear,חנית כסף
@@ -2805,6 +3639,7 @@ ItemName,silver two-handed sword,חרב דו-ידנית מכסף
 ItemName,skeleton key,מפתח מאסטר
 ItemName,slime mould,רירנית
 ItemName,sling,קלע
+ItemName,sling staff,
 ItemName,small shield,מגן קטן
 ItemName,sniper rifle,רובה צלפים
 ItemName,spear,חנית
@@ -2814,29 +3649,40 @@ ItemName,spetum,ספטום
 ItemName,splint mail,שריון סדים
 ItemName,sprig of wolfsbane,ענף מחונק הזאב
 ItemName,Stamped Letter,מכתב מבוייל
+ItemName,steel boots,
+ItemName,stethoscope,
 ItemName,stick of dynamite,מקל דינמיט
 ItemName,stiletto,סטילטו
 ItemName,stone club,מחבט מאבן
+ItemName,Stormbringer,
+ItemName,strange object,
 ItemName,studded leather armour,שריון עור ממוסמר
 ItemName,submachine gun,תת-מקלע
+ItemName,Sudarshana Chakra,
 ItemName,Sunsword,חרב שמש
 ItemName,t-shirt,חולצת טי
+ItemName,tabard,
 ItemName,Talaria,טלריה
 ItemName,The Hero,הגיבור
 ItemName,thunder staff,מטה רעם
 ItemName,tin,פחית
+ItemName,tin opener,
 ItemName,tin whistle,משרוקית מפח
 ItemName,tinning kit,ערכת שימורים
 ItemName,tooled horn,קרן מעוטרת
 ItemName,topaz,טופז
 ItemName,torch,לפיד
 ItemName,tortilla,טורטייה
+ItemName,touchstone,
+ItemName,towel,
 ItemName,trident,קלשון
 ItemName,tripe ration,מנת פיגולים
+ItemName,triplesword,
 ItemName,tsurugi,צורוגי
 ItemName,turquoise,אבן טורקיז
 ItemName,two-handed sword,חרב דו-ידנית
 ItemName,unicorn horn,קרן של חדקרן
+ItemName,Vajra,
 ItemName,vegetable corpse,גופה צמחית
 ItemName,Verimurus,ורימורוס
 ItemName,violet glass bauble,זכוכית סגולה וזולה
@@ -2847,6 +3693,7 @@ ItemName,wakizashi,וקיזאשי
 ItemName,wand of animation,שרביט הפחת חיים
 ItemName,wand of cancellation,שרביט ביטול
 ItemName,wand of cold,שרביט קור
+ItemName,wand of confusion,
 ItemName,wand of create horde,שרביט יצירת עדר
 ItemName,wand of death,שרביט מוות
 ItemName,wand of digging,שרביט חפירה
@@ -2858,6 +3705,8 @@ ItemName,wand of fireball,שרביט כדור אש
 ItemName,wand of haste,שרביט חיפזון
 ItemName,wand of healing,שרביט ריפוי
 ItemName,wand of iceball,שרביט כדור קרח
+ItemName,wand of jumping,
+ItemName,wand of levitation,
 ItemName,wand of light,שרביט אור
 ItemName,wand of lightning,שרביט ברק
 ItemName,wand of locking,שרביט נעילה
@@ -2873,12 +3722,17 @@ ItemName,wand of sleep,שרביט שינה
 ItemName,wand of slow,שרביט איטיות
 ItemName,wand of striking,שרביט תקיפה
 ItemName,wand of summoning,שרביט זימון
+ItemName,wand of telekinesis,
 ItemName,wand of teleportation,שרביט שיגור
 ItemName,wand of theft,שרביט גניבה
 ItemName,wand of undead turning,שרביט גירוש אל-מתים
 ItemName,war club,אלת מלחמה
 ItemName,war hammer,פטיש מלחמה
+ItemName,war maul,
 ItemName,wax candle,נר שעווה
+ItemName,Wepwawet's Fang,
+ItemName,wheellock pistol,
+ItemName,whetstone,
 ItemName,white dragon scale mail,שריון קשקשי דרקון לבנים
 ItemName,white dragon scales,קשקשי דרקון לבנים
 ItemName,white glass bauble,זכוכית לבנה וזולה
@@ -2893,8 +3747,10 @@ ItemName,yellow dragon scale mail,שריון קשקשי דרקון צהובים
 ItemName,yellow dragon scales,קשקשי דרקון צהובים
 ItemName,yellow glass bauble,זכוכית צהובה וזולה
 ItemName,yellowish brown glass bauble,זכוכית חומה-צהבהבה וזולה
+ItemName,yoyo,
 ItemName,yumi,יומי
 ItemName,zircon,זירקון
+ItemName,Zweihänder,
 ItemType,amulet,קמע
 ItemType,bag,תיק
 ItemType,barding,שריון לסוס
@@ -4440,13 +5296,17 @@ SchoolName,necromancy,מגיה
 SchoolName,transmutation,שינוי
 ServiceDescription,detect traps in the surrounding area.,איתור מלכודות באזור הקרוב.
 ServiceDescription,identify one item in your inventory.,זיהוי פריט אחד שלך.
+ServiceDescription,learn how to cast a random spell.,
+ServiceDescription,learn how to cast two random spells.,
 ServiceDescription,magic mapping for the surrounding area.,מיפוי קסום של האזור הקרוב.
 ServiceDescription,refresh the shop with new items for sale.,חידוש החנות עם פריטים חדשים למכירה.
 ServiceDescription,remove a curse from one item in your inventory.,הסרת קללה מאחד הפריטים שלך.
+ServiceName,advanced tuition,
 ServiceName,curse removal,הסרת קללה
 ServiceName,identification,זיהוי
 ServiceName,magic mapping,מיפוי קסום
 ServiceName,restock shop,חידוש מלאי
+ServiceName,spell tuition,
 ServiceName,trap detection,איתור מלכודות
 ShopName,antique weapons outlet,שוק הנשקים העתיקים
 ShopName,delicatessen,המעדנייה
@@ -4462,9 +5322,14 @@ ShopName,second-hand stationery store,כלי כתיבה משומשים
 ShopName,used armour dealership,סוחר שריונות משומשים
 ShrineName,craft station,תחנת יצירה
 ShrineName,dark sepulchre,מערת הקבורה האפלה
+ShrineName,elemental forge,
+ShrineName,fae chapel,
 ShrineName,holy shrine,המקדש הקדוש
+ShrineName,martial temple,
 ShrineName,mystic coven,מעגל המכשפות
+ShrineName,pheral vault,
 ShrineName,sacred grove,החורש המקודש
+ShrineName,star observatory,
 SizeName,gargantuan,עצום
 SizeName,huge,ענק
 SizeName,large,גדול
@@ -4670,101 +5535,290 @@ SonicName,write,כתיבה
 SpecialDescription,Aristocrats who enjoy all the privilege that comes with wealth and wonder why everyone hates them.,אריסטוקרטים שנהנים מכל הפריבילגיות שהעושר שלהם מביא ולא מבינים למה כולם שונאים אותם.
 SpecialDescription,"Being unusually short and slight, they are more nimble but not as effective in combat.","נמוכים ורזים במידה בלתי אופיינית, ולכן זריזים יותר אבל פחות יעילים בקרב."
 SpecialDescription,"Being unusually tall and heavy, they move a bit slower but are more resilient.","גבוהים וכבדים במידה בלתי אופיינית, ולכן מעט איטיים יותר אבל גם פחות פגיעים."
+SpecialDescription,"Bound by an infernal pact to a patron whose power flows through them, whether they will it or not.",
+SpecialDescription,"Changeling blood runs through their veins, granting them an otherworldly grace, but cold iron burns them like acid.",
+SpecialDescription,"Cursed with visions of what is to come, they see danger before it arrives, but the visions are slowly undoing their mind.",
+SpecialDescription,"Escaped from a laboratory before the experiment concluded, their body still bears the unstable mark of what was done to them.",
 SpecialDescription,"Forever cursed with lycanthropy, these beings can transform themselves into monstrous wolf forms.",יצורים שמקוללים לנצח בהזדאבות ויכולים להפוך לזאבים מפלצתיים.
 SpecialDescription,Forsaken creature that subsists by feeding on the vital essence of the living.,ייצור זנוח שמתקיים על ידי אכילת כוח החיות של החיים.
 SpecialDescription,Gifted with extrasensory perception to identify entities otherwise hidden from the normal senses but at the cost of a gnawing hunger.,"מחוננים בתפיסה יוצאת דופן ויכולים לזהות ישויות שחבויות מהחושים הרגילים, אבל במחיר של רעב מכרסם."
+SpecialDescription,"Hardened by a lifetime of campaigns, they strike with brutal efficiency but carry old wounds that never fully healed.",
 SpecialDescription,"Highly attuned servants of elemental earth, they can conjure exploding spheres to destroy their enemies.","משרתים נאמנים של יסוד האדמה, יכולים לזמן כדורים מתפוצצים כדי להשמיד את אוייביהם."
 SpecialDescription,"Highly attuned servants of elemental flame, they can conjure exploding spheres to destroy their enemies.","משרתים נאמנים של יסוד האש, יכולים לזמן כדורים מתפוצצים כדי להשמיד את אוייביהם."
 SpecialDescription,"Highly attuned servants of elemental frost, they can conjure exploding spheres to destroy their enemies.","משרתים נאמנים של יסוד הקרח, יכולים לזמן כדורים מתפוצצים כדי להשמיד את אוייביהם."
 SpecialDescription,"Highly attuned servants of elemental shock, they can conjure exploding spheres to destroy their enemies.","משרתים נאמנים של יסוד החשמל, יכולים לזמן כדורים מתפוצצים כדי להשמיד את אוייביהם."
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.","משרתים נאמנים של יסוד המים, יכולים לזמן כדורים מתפוצצים כדי להשמיד את אוייביהם."
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,שנים של לימוד גרמו לך להעדיף ספרים על פני תחביבים אחרים וכושר גופני.
+SpecialDescription,"Made a living prying open tombs that were meant to stay shut, and picked up a rare set of skills along the way; the dead have not forgiven them.",
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,סינדרום הדמות הראשית גורם לך להסתמך על זה שהעלילה לא תאפשר להרוג אותך. המציאות חושבת אחרת.
+SpecialDescription,"More at home among beasts than people, they ride and bond with animals expertly but rely on their companions more than their own blade.",
+SpecialDescription,"Newly turned by an elder vampire's bite, they crave blood but have not yet mastered the strengths of the curse.",
+SpecialDescription,"One of the few to survive a great plague, their blood now resists poison but their body was left frail and their nearby creatures keep their distance.",
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.","המיקום שלך לעולם לא בטוח, ולכן התרגלת להיות בשום מקום ובכל מקום בבת אחת."
+SpecialDescription,"Pulled under by the sea and cursed to return, their lungs have made an uneasy peace with water while their waterlogged flesh dries out on land.",
+SpecialDescription,"Raised outside civilisation among beasts, they are quick and keen-eyed but never learned the discipline of formal combat.",
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,"פסל מזכוכית חיה, שמשקף אנרגיה ושובר את האור. חיקוי מושלם אבל עדין של הגיבורים הטבעיים."
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.","איכשהו עדיין בחיים, אבל בלי הבשר שנדרש כדי לחיות באמת. לקיום המוזר הזה יש יתרונות מסויימים."
 SpecialDescription,The habitually drunk make for brazen yet slightly unsteady adventurers; just don't ask them to recite the alphabet backwards.,השכרות התמידית מייצרת הרפתקאות נועזות אבל גם חוסר יציבות; אל תבקשו מהם לדקלם את את האלפבית מהסוף להתחלה.
+SpecialDescription,"Touched by the animating art of golem-crafters, their flesh has hardened toward stone, granting resilience at the cost of grace.",
+SpecialDescription,"Trained in the one-on-one blade duel, every strike is precise, but a lifetime spent perfecting offence left little time to master defence.",
+SpecialDescription,"Trained since childhood in a monastic order, their body is a honed weapon but their vows forbid armour and forsake worldly learning.",
 SpecialDescription,"Whether innocent or guilty of their accused crimes, these individuals are desperate to escape custody.","לא ברור אם הדמות הזאת אכן אשמה בפשעים שמיוחסים לה, אבל היא נואשת לחמוק מהמעקב."
+SpecialName,ascetic,
 SpecialName,colossus,קולוסוס
+SpecialName,construct,
+SpecialName,drowned,
 SpecialName,drunkard,בשכרות
+SpecialName,duelist,
 SpecialName,earth,אדמה
+SpecialName,feral,
+SpecialName,fey,
 SpecialName,flame,להבה
 SpecialName,frost,כפור
 SpecialName,fugitive,במנוסה
 SpecialName,glass,זכוכית
+SpecialName,graverobber,
 SpecialName,midget,גמדות
 SpecialName,noble,אצילות
+SpecialName,plagued,
+SpecialName,prophet,
 SpecialName,protagonist,דמות ראשית
 SpecialName,psychic,תקשור
 SpecialName,quantum,קוונטום
 SpecialName,scholar,מלומד.ת
 SpecialName,shock,שוק
 SpecialName,skeleton,שלד
+SpecialName,spawn,
+SpecialName,specimen,
+SpecialName,tamer,
 SpecialName,vampire,ערפד.ית
+SpecialName,veteran,
+SpecialName,warlock,
 SpecialName,water,מים
 SpecialName,werewolf,מזדאב.ת
 SpellDescription,Projects a ball of energy that impacts on both monsters and objects.,שיגור כדור אנרגיה שמשפיע גם על מפלצות וגם על חפצים.
+SpellName,acid splash,
 SpellName,acid stream,זרם חומצה
 SpellName,animate dead,הנפשת מתים
 SpellName,animate object,הנפשת חפץ
+SpellName,arc conduit,
+SpellName,arcane blight,
+SpellName,arcane whetstone,
+SpellName,arcing bolt,
+SpellName,artificer's exchange,
+SpellName,atonement,
+SpellName,augury,
+SpellName,bane,
+SpellName,banshee wail,
+SpellName,barring ward,
+SpellName,battle fury,
 SpellName,bind undead,כבילת אל-מתים
+SpellName,binding sphere,
+SpellName,black ice patch,
+SpellName,black plague,
+SpellName,blade blessing,
+SpellName,bless,
 SpellName,blinking,בזיקה
+SpellName,blurred form,
+SpellName,call of the pack,
+SpellName,calm,
+SpellName,caltrop swarm,
 SpellName,cancellation,ביטול
+SpellName,causeway,
+SpellName,chain lightning,
+SpellName,changeless ward,
 SpellName,charm,הקסמה
+SpellName,chill grasp,
+SpellName,chromatic orb,
 SpellName,clairvoyance,ראיית הנסתר
+SpellName,claybind touch,
+SpellName,clear sight,
+SpellName,clouded mind,
+SpellName,command,
+SpellName,commune,
+SpellName,concussive blast,
 SpellName,cone of cold,חרוט קור
 SpellName,confusion,בלבול
+SpellName,conjure barricade,
+SpellName,conjure boulder,
+SpellName,conjure guardian,
+SpellName,conjure homunculus,
+SpellName,conjure mount,
+SpellName,conjured pit,
+SpellName,consecration,
+SpellName,contagion,
+SpellName,corpse explosion,
+SpellName,corroding ray,
 SpellName,create familiar,יצירת יציר-סוד
+SpellName,creeping palsy,
+SpellName,crimson ichor lance,
 SpellName,crushing sphere,כדור מוחץ
 SpellName,curing,הבראה
+SpellName,danger sense,
 SpellName,darkness,חושך
+SpellName,daze,
+SpellName,death ward,
+SpellName,death's bargain,
+SpellName,deathwatch,
 SpellName,deflection,הדיפה
 SpellName,detect food,איתור מזון
+SpellName,detect metal,
 SpellName,detect monsters,איתור מפלצות
 SpellName,detect treasure,איתור אוצרות
+SpellName,detect undead,
 SpellName,detect unseen,איתור הנסתר
 SpellName,dig,חפירה
+SpellName,disarming ward,
+SpellName,discord,
 SpellName,disintegrate,פירוק
+SpellName,dispel magic,
+SpellName,displacement,
+SpellName,divine favor,
+SpellName,divine intervention,
+SpellName,dominate mind,
 SpellName,drain life,שאיבת חיים
+SpellName,earthen colossus,
+SpellName,elemental servant,
+SpellName,elemental warding,
+SpellName,ember lance,
+SpellName,enlarge,
+SpellName,entangling vines,
+SpellName,entropic siphon,
 SpellName,extra healing,ריפוי חזק
+SpellName,false life,
 SpellName,fear,פחד
+SpellName,find doors,
+SpellName,find traps,
 SpellName,finger of death,אצבע המוות
 SpellName,fireball,כדור אש
 SpellName,flaming sphere,כדור בוער
 SpellName,force bolt,קליע כוח
+SpellName,foreknowledge,
+SpellName,freedom,
+SpellName,freedom of movement,
 SpellName,freezing sphere,כדור מקפיא
+SpellName,frost breath,
 SpellName,full healing,רפואה שלמה
+SpellName,gate,
+SpellName,gilding touch,
+SpellName,glacial spike,
+SpellName,grasping mind,
+SpellName,grave rot,
+SpellName,gravity well,
+SpellName,guided path,
+SpellName,harvest of souls,
 SpellName,haste,חיפזון
+SpellName,hazard sense,
 SpellName,healing,ריפוי
+SpellName,hex,
+SpellName,hexbind,
+SpellName,hideous laughter,
+SpellName,hold monster,
+SpellName,hold person,
+SpellName,holy word,
 SpellName,ice storm,סופת קרח
 SpellName,identify,זיהוי
+SpellName,inner calm,
 SpellName,invisibility,אי נראות
+SpellName,iron will,
+SpellName,ironbind door,
+SpellName,juggernaut ray,
 SpellName,jumping,קפיצה
+SpellName,keen search,
 SpellName,knock,נקישה
+SpellName,legion of bone,
 SpellName,levitation,ריחוף
 SpellName,light,אור
 SpellName,lightning bolt,חזיז ברק
 SpellName,living wall,קיר חי
 SpellName,magic mapping,מיפוי קסום
 SpellName,magic missile,טיל קסם
+SpellName,meteoric cataclysm,
+SpellName,mind ken,
+SpellName,mind link,
+SpellName,mind spike,
+SpellName,mindrend,
+SpellName,mirror ward,
+SpellName,neutralize poison,
+SpellName,oracle's eye,
+SpellName,owl eyes,
+SpellName,petrifying touch,
 SpellName,phasing,שינוי פאזה
+SpellName,planar anchor,
+SpellName,planar swap,
 SpellName,poison blast,מטח רעל
 SpellName,polymorph,שינוי צורה
+SpellName,porter's reach,
+SpellName,prayer,
+SpellName,premonition,
+SpellName,prismatic spray,
+SpellName,psychic shove,
 SpellName,raise dead,הקמת מתים
+SpellName,rally cry,
+SpellName,ray of enfeeblement,
+SpellName,reap,
 SpellName,regenerate,התחדשות
 SpellName,remove curse,הסרת קללה
+SpellName,repelling ward,
+SpellName,repulsion,
 SpellName,restoration,שיחזור
+SpellName,revelation,
+SpellName,sanctuary,
+SpellName,scalding cloud,
+SpellName,searing light,
+SpellName,sense curse,
+SpellName,sense the restless,
+SpellName,sentinel ward,
+SpellName,shimmer shield,
 SpellName,shocking sphere,כדור מחשמל
+SpellName,shrink,
+SpellName,silence,
+SpellName,simulacrum,
 SpellName,sleep,שינה
+SpellName,slick detonation,
+SpellName,slipping free,
 SpellName,slow,איטיות
 SpellName,soaking sphere,כדור נוטף
+SpellName,song of discord,
+SpellName,spark bolt,
+SpellName,spectral shroud,
+SpellName,spirit leech,
+SpellName,spirit shield,
+SpellName,starfall,
+SpellName,steadfast ward,
+SpellName,stone to flesh,
+SpellName,stoneskin,
 SpellName,summoning,זימון
+SpellName,sunburst smite,
+SpellName,sunder gear,
+SpellName,swoon,
 SpellName,telekinesis,טלקינזיס
+SpellName,telekinetic shove,
 SpellName,teleport away,שיגור
+SpellName,thunderclap,
+SpellName,timed combustion,
+SpellName,tongue tied,
 SpellName,toxic spray,רסס רעל
+SpellName,transmuter's mastery,
+SpellName,true appraisal,
 SpellName,turn undead,גירוש אל-מתים
+SpellName,unbinding,
+SpellName,undying ward,
+SpellName,unseen hand,
+SpellName,vampiric feast,
+SpellName,veil of shadows,
+SpellName,wall breach,
+SpellName,wall of thorns,
 SpellName,walling,קירוי
+SpellName,ward of return,
+SpellName,warning ward,
+SpellName,web snare,
+SpellName,whispers of madness,
+SpellName,wildfire brand,
+SpellName,wither,
+SpellName,withering ray,
 SpellName,wizard lock,נעילת קסם
+SpellName,world vision,
 StandingName,damned,מצב ארור
 StandingName,doomed,גורל נחרץ
 StandingName,doubtful,ספק
@@ -4815,19 +5869,31 @@ VolatileName,blaze,להבה
 VolatileName,blood,דם
 VolatileName,electricity,חשמל
 VolatileName,freeze,קפוא
+VolatileName,oil,
 VolatileName,steam,קיטור
 WallStructureName,illusionary,אשליה
 WallStructureName,permanent,קבוע
 WallStructureName,solid,מוצק
+ZooName,angelic sanctuary,
 ZooName,ant hole,תל נמלים
+ZooName,astral kennel,
 ZooName,barracks,בסיס צבאי
 ZooName,bee hive,כוורת דבורים
 ZooName,cocknest,לול תרנגולות
 ZooName,college of wizardry,בית ספר לכישוף
 ZooName,dragon nest,קן דרקונים
+ZooName,dragon rookery,
+ZooName,drow stronghold,
+ZooName,elemental foundry,
+ZooName,golem forge,
 ZooName,graveyard,בית קברות
 ZooName,gremlin pit,שוחת גרמלינים
+ZooName,jelly vat,
 ZooName,leprechaun hall,אולם לפרקונים
+ZooName,military camp,
+ZooName,mimic den,
+ZooName,monster greenhouse,
+ZooName,pheral crypt,
 ZooName,salty pool,בריכה מלוחה
 ZooName,science lab,מעבדה מדעית
 ZooName,slumber party,מסיבת פיג'מות

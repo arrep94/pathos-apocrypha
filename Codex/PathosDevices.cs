@@ -579,9 +579,46 @@ namespace Pathos
       });
 
       Register.Alias(entropy_trap, "magic trap");
+      // >>> GENERATED DEVICES >>>
+      statue_trap = AddDevice("statue trap", Difficulty: 10, RepeatDice: Dice.One, Glyphs.statue_trap, Sonics.magic, D =>
+      {
+        D.Frequency = 10;
+        D.UntrapSkill = Skills.traps;
+        D.UntrapAttribute = Attributes.dexterity;
+        D.Material = Materials.stone;
+        D.TriggerApply.CreateEntity(Dice.One, Entities.stone_golem);
+      });
+
+      humantrap = AddDevice("humantrap", Difficulty: 1, RepeatDice: null, Glyphs.humantrap, Sonics.clank, D =>
+      {
+        D.Frequency = 10;
+        D.UntrapSkill = Skills.traps;
+        D.UntrapAttribute = Attributes.dexterity;
+        D.CrushedByBoulder = true;
+        D.Material = Materials.iron;
+        D.SetEscapeProperty(Properties.flight, Properties.levitation);
+        D.TriggerApply.HarmEntity(Elements.physical, 1.d3());
+        D.StuckDice = 1.d4() + 4;
+      });
+
+      ink_pool = AddDevice("ink pool", Difficulty: 5, RepeatDice: 1.d6(), Glyphs.ink_pool, Sonics.splat, D =>
+      {
+        D.Frequency = 10;
+        D.CrushedByBoulder = true;
+        D.BoulderRemoval = true;
+        D.Material = Materials.iron;
+        D.TriggerApply.ApplyTransient(Properties.blindness, 1.d20() + 10);
+        D.SetEscapeProperty(Properties.flight, Properties.levitation);
+      });
+      // <<< GENERATED DEVICES <<<
     }
 #endif
 
+    // >>> GENERATED DEVICES-FIELDS >>>
+    public readonly Device statue_trap;
+    public readonly Device humantrap;
+    public readonly Device ink_pool;
+    // <<< GENERATED DEVICES-FIELDS <<<
     public readonly Device acid_trap;
     public readonly Device alarm_trap;
     public readonly Device amnesia_trap;

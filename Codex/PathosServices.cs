@@ -15,6 +15,10 @@ namespace Pathos
     {
       var Strikes = Codex.Strikes;
       var Sanctities = Codex.Sanctities;
+      var Attributes = Codex.Attributes;
+      var Skills = Codex.Skills;
+      var Spells = Codex.Spells;
+      var Schools = Codex.Schools;
 
       Service AddService(string Name, string Description, Gold Cost, Action<ServiceEditor> Action)
       {
@@ -57,9 +61,31 @@ namespace Pathos
         S.SetCast().Plain(Dice.Zero);
         S.Apply.Restock();
       });
+      // >>> GENERATED SERVICES >>>
+      // Tuition sold for gold. The engine's LearnSpell takes either one specific spell or null for
+      // a random one - there is no "random spell of school X" - so this is honestly a gamble, and
+      // priced as one. Targeted acquisition is what the book shops are for.
+      spell_tuition = AddService("spell tuition", "learn how to cast a random spell.", Gold.FromCoins(900), S =>
+      {
+        S.SetCast().Plain(Dice.Zero);
+        S.Apply.LearnSpell(Attributes.intelligence, Skills.literacy, Spell: null);
+      });
+
+      // A second, dearer sitting for when the first one taught you something you already knew.
+      advanced_tuition = AddService("advanced tuition", "learn how to cast two random spells.", Gold.FromCoins(2000), S =>
+      {
+        S.SetCast().Plain(Dice.Zero);
+        S.Apply.LearnSpell(Attributes.intelligence, Skills.literacy, Spell: null);
+        S.Apply.LearnSpell(Attributes.intelligence, Skills.literacy, Spell: null);
+      });
+      // <<< GENERATED SERVICES <<<
     }
 #endif
 
+    // >>> GENERATED SERVICES-FIELDS >>>
+    public readonly Service spell_tuition;
+    public readonly Service advanced_tuition;
+    // <<< GENERATED SERVICES-FIELDS <<<
     public readonly Service detect_traps;
     public readonly Service identify;
     public readonly Service magic_mapping;

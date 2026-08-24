@@ -37,6 +37,23 @@ namespace Pathos
       {
         Register.SetEggs(Codex.Manifest.Eggs.List.Where(E => E.Hatchling.Kind == Codex.Kinds.dragon).ToArray()); // permitted egg companions.
       });
+      // >>> GENERATED COMPANIONS >>>
+      // teleporting pup, a fitting starter familiar for an arcane-leaning hero.
+      AddCompanion("blink puppy", Codex.Entities.blink_puppy, null);
+
+      // astral puppy, an other-worldly starter companion.
+      AddCompanion("astral puppy", Codex.Entities.astral_puppy, null);
+
+      // giant hamster, a small low-level companion in the same vein as the rat.
+      AddCompanion("hamster", Codex.Entities.giant_hamster, null);
+
+
+      // storm raven, an alternative to the plain bird companion.
+      AddCompanion("raven", Codex.Entities.storm_raven, null);
+
+      // almiraj, a whimsical horned rabbit companion.
+      AddCompanion("almiraj", Codex.Entities.al_miraj, null);
+      // <<< GENERATED COMPANIONS <<<
     }
 #endif
   }

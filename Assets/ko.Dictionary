@@ -1,4 +1,5 @@
 ﻿AfflictionDescription,Deadly venom courses through your veins.,맹독이 온몸에 흐릅니다.
+AfflictionDescription,Groteseque changes are happening to your body.,
 AfflictionDescription,Something deeply unsettling is happening... down there.,저 아래에서… 뭔가 매우 불길한 일이 일어납니다.
 AfflictionDescription,There is a gnawing sensation from deep inside your stomach.,뱃속 깊은 곳에서부터 갉아먹히는 느낌이 듭니다.
 AfflictionDescription,This viral disease causes inflammation of the brain and is spread by infected animals.,이 바이러스성 질병은 감염된 동물로부터 전염되어 뇌에 염증을 일으킵니다.
@@ -6,6 +7,7 @@ AfflictionDescription,You feel unclean and everything itches.,당신은 불결�
 AfflictionDescription,You have a dreadful case of stomach acid.,당신의 위산이 매우 격렬하게 끓어오릅니다.
 AfflictionDescription,Your skin is sickly green and something is very wrong inside your stomach.,당신의 피부는 병적으로 푸르딩딩하고 속이 매우 좋지 않습니다.
 AfflictionName,crabs,사면발니
+AfflictionName,mutation,
 AfflictionName,nits,이
 AfflictionName,poisoning,중독
 AfflictionName,rabies,광견병
@@ -43,76 +45,136 @@ AppearanceDescription,A short but sturdy looking coat of mithril armour.,짧지�
 AppearanceDescription,A slender and delicate looking coat of mithril armour.,날렵하고 섬세해 보이는 미스릴 갑옷이다.
 AppearanceDescription,A slender and glossy looking coat of mithril armour.,날렵하고 광택이 나는 미스릴 갑옷이다.
 AppearanceDescription,This classic wizard accessory is a pointed hat decorated with moons and stars.,이 고전적인 마법사 모자는 달과 별 무늬로 장식되어 있다.
+AppearanceName,acrid book,
 AppearanceName,adamantine slug,아다만티움 슬러그탄
 AppearanceName,adamantine staff,아다만티움 지팡이
 AppearanceName,agate ring,마노 반지
+AppearanceName,alabaster book,
 AppearanceName,aluminium wand,알루미늄 마법봉
+AppearanceName,amber book,
+AppearanceName,ancient book,
 AppearanceName,angled poleaxe,모난 폴액스
+AppearanceName,antique book,
+AppearanceName,arcane book,
+AppearanceName,arcing book,
+AppearanceName,argent book,
+AppearanceName,ashen book,
 AppearanceName,backwards book,뒤집어진 책
 AppearanceName,bag,가방
 AppearanceName,balsa wand,발사나무 마법봉
 AppearanceName,bamboo arrow,대나무 화살
 AppearanceName,bamboo wand,대나무 마법봉
+AppearanceName,banded book,
+AppearanceName,barbed ring,
+AppearanceName,basalt book,
+AppearanceName,battered book,
+AppearanceName,beaded book,
 AppearanceName,beaked polearm,부리 달린 폴암
 AppearanceName,bell,청동 종
 AppearanceName,big book,큰 책
+AppearanceName,bilious book,
+AppearanceName,birch book,
 AppearanceName,black book,검은색 책
+AppearanceName,black bound book,
 AppearanceName,black gem,검은색 보석
 AppearanceName,black gloves,검은색 장갑
 AppearanceName,black onyx ring,검은색 줄마노 반지
 AppearanceName,black potion,검은색 물약
+AppearanceName,black stone,
 AppearanceName,black wand,검은색 마법봉
+AppearanceName,blackened book,
+AppearanceName,bloodstained book,
 AppearanceName,bloody potion,핏빛 물약
 AppearanceName,blue and green shield,청색 및 녹색 방패
 AppearanceName,blue gem,파란색 보석
 AppearanceName,blue robe,파란색 로브
+AppearanceName,bone book,
+AppearanceName,bone bound book,
 AppearanceName,bone earrings,뼈 귀걸이
 AppearanceName,bone staff,뼈 지팡이
+AppearanceName,bone white book,
+AppearanceName,boulder bound book,
+AppearanceName,bramble book,
+AppearanceName,brass book,
+AppearanceName,brass bound book,
+AppearanceName,brass clasped book,
 AppearanceName,brass ring,황동 반지
 AppearanceName,brass wand,황동 마법봉
 AppearanceName,brilliant blue potion,선명한 파란색 물약
+AppearanceName,brittle book,
+AppearanceName,broad katar,
 AppearanceName,broad pick,넓은 곡괭이
 AppearanceName,broad short sword,넓은 숏소드
 AppearanceName,bronze book,청동빛 책
 AppearanceName,bronze ring,청동 반지
 AppearanceName,bronze wand,청동 마법봉
+AppearanceName,bronzed book,
 AppearanceName,brown potion,갈색 물약
 AppearanceName,bubbly potion,보글거리는 물약
+AppearanceName,buckled book,
 AppearanceName,bugle,나팔
+AppearanceName,burnished book,
 AppearanceName,candle,양초
 AppearanceName,canvas book,캔버스 책
+AppearanceName,celestial book,
 AppearanceName,ceramic wand,세라믹 마법봉
+AppearanceName,chained book,
+AppearanceName,chalkstone book,
+AppearanceName,charcoal book,
+AppearanceName,charnel book,
+AppearanceName,charred book,
+AppearanceName,cinder book,
+AppearanceName,cindered book,
 AppearanceName,circular amulet,원형 아뮬렛
+AppearanceName,clasped book,
+AppearanceName,clay bound book,
 AppearanceName,clay ring,점토 반지
 AppearanceName,clear potion,투명한 물약
+AppearanceName,clockwork gun,
 AppearanceName,cloth book,천 표지 책
 AppearanceName,cloudy potion,희뿌연 물약
 AppearanceName,coarse mantelet,거친 짧은 망토
+AppearanceName,cobalt book,
+AppearanceName,cobblestone book,
+AppearanceName,coiled gun,
 AppearanceName,colourful book,알록달록한 책
 AppearanceName,combat boots,전투화
 AppearanceName,compact gun,휴대용 총
+AppearanceName,compass bound book,
 AppearanceName,concave amulet,오목한 아뮬렛
 AppearanceName,conical hat,고깔 모자
+AppearanceName,consecrated book,
 AppearanceName,convex amulet,볼록한 아뮬렛
 AppearanceName,copper book,구릿빛 책
 AppearanceName,copper ring,구리 반지
 AppearanceName,copper wand,구리 마법봉
+AppearanceName,coral book,
 AppearanceName,coral ring,산호 반지
+AppearanceName,corded book,
+AppearanceName,cracked book,
+AppearanceName,cratered book,
 AppearanceName,crested helmet,볏 달린 헬멧
+AppearanceName,crimson book,
 AppearanceName,crude arrow,조잡한 화살
 AppearanceName,crude bow,조잡한 활
 AppearanceName,crude chain mail,조잡한 체인메일
 AppearanceName,crude dagger,조잡한 단검
+AppearanceName,crude disc,
 AppearanceName,crude ring mail,조잡한 링메일
 AppearanceName,crude short sword,조잡한 숏소드
 AppearanceName,crude spear,조잡한 창
+AppearanceName,crumbling book,
+AppearanceName,crystal book,
 AppearanceName,crystal staff,수정 지팡이
 AppearanceName,crystal wand,수정 마법봉
+AppearanceName,crystalline book,
 AppearanceName,curved polearm,구부러진 폴암
 AppearanceName,curved sword,구부러진 칼
 AppearanceName,curved wand,구부러진 마법봉
+AppearanceName,cut glass book,
 AppearanceName,cyan book,청록색 책
 AppearanceName,cyan potion,청록색 물약
+AppearanceName,damascened book,
 AppearanceName,dark blue book,짙은 파란색 책
 AppearanceName,dark brown book,짙은 갈색 책
 AppearanceName,dark green book,짙은 녹색 책
@@ -122,27 +184,43 @@ AppearanceName,deep book,짙은 책
 AppearanceName,diamond ring,다이아몬드 반지
 AppearanceName,dirty rag,더러운 넝마
 AppearanceName,dog eared book,끝이 접힌 책
+AppearanceName,dolomite book,
 AppearanceName,double-headed axe,양날 도끼
+AppearanceName,dove grey book,
+AppearanceName,dress boots,
 AppearanceName,drum,북
 AppearanceName,dull book,재미없는 책
+AppearanceName,dusk blue book,
 AppearanceName,dusty book,먼지 쌓인 책
 AppearanceName,ebony wand,흑단나무 마법봉
+AppearanceName,eelskin book,
 AppearanceName,effervescent potion,발포성 물약
+AppearanceName,ember book,
 AppearanceName,emerald potion,에메랄드빛 물약
 AppearanceName,emerald ring,에메랄드 반지
 AppearanceName,engagement ring,약혼 반지
+AppearanceName,etched book,
 AppearanceName,etched helmet,음각된 투구
+AppearanceName,eternity ring,
 AppearanceName,exotic two-pointed polearm,특별한 끝이 나눠진 폴암
 AppearanceName,faded book,빛바랜 책
 AppearanceName,faded pall,빛바랜 천
+AppearanceName,feldspar book,
 AppearanceName,fencing gloves,펜싱 장갑
 AppearanceName,figurine,조각상
 AppearanceName,fine mithril-coat,고운 미스릴 갑옷
 AppearanceName,fizzy potion,거품나는 물약
+AppearanceName,flint book,
 AppearanceName,flute,플루트
 AppearanceName,forked polearm,끝이 갈라진 폴암
+AppearanceName,forked wand,
+AppearanceName,frostbitten book,
+AppearanceName,frosted book,
 AppearanceName,fur boots,털 부츠
 AppearanceName,fuzzy book,흐릿한 책
+AppearanceName,gale book,
+AppearanceName,gilded book,
+AppearanceName,glass bound book,
 AppearanceName,glass orb,유리 수정구
 AppearanceName,glass ring,유리 반지
 AppearanceName,glass wand,유리 마법봉
@@ -153,13 +231,21 @@ AppearanceName,glossy arrow,검은색 룬새김 화살
 AppearanceName,glossy bow,검은색 룬새김 활
 AppearanceName,glossy dagger,검은색 룬새김 단검
 AppearanceName,glossy mithril-coat,광택있는 미스릴 갑옷
+AppearanceName,glossy potion,
 AppearanceName,glossy short sword,검은색 룬새김 숏소드
+AppearanceName,gloved book,
+AppearanceName,gneiss book,
 AppearanceName,gold book,황금빛 책
 AppearanceName,gold earrings,황금 귀걸이
 AppearanceName,gold ring,황금 반지
 AppearanceName,gold wand,황금 마법봉
 AppearanceName,golden potion,황금빛 물약
+AppearanceName,gossamer book,
+AppearanceName,granite book,
 AppearanceName,granite ring,화강암 반지
+AppearanceName,graphite book,
+AppearanceName,grave bound book,
+AppearanceName,gravel book,
 AppearanceName,green gem,녹색 보석
 AppearanceName,green robe,녹색 로브
 AppearanceName,grey book,회색 책
@@ -168,38 +254,54 @@ AppearanceName,hard hat,단단한 투구
 AppearanceName,hard shoes,단단한 신발
 AppearanceName,hardcover book,양장된 책
 AppearanceName,harp,하프
+AppearanceName,hazel book,
 AppearanceName,heavy barrelled gun,총구가 큰 총
 AppearanceName,heavy gun,무거운 총
 AppearanceName,hexagonal amulet,육각형 아뮬렛
 AppearanceName,hexagonal wand,육각형 마법봉
+AppearanceName,hide bound book,
 AppearanceName,hiking boots,등산화
 AppearanceName,hilted polearm,자루 달린 폴암
+AppearanceName,hoarfrost book,
+AppearanceName,hollow book,
 AppearanceName,hooded cloak,후드 달린 망토
 AppearanceName,hooked polearm,갈고리 달린 폴암
+AppearanceName,hooked sword,
 AppearanceName,horn,뿔
 AppearanceName,horseshoe,말편자
 AppearanceName,humongous book,거대한 책
 AppearanceName,icy potion,쌀쌀한 물약
+AppearanceName,incandescent book,
 AppearanceName,indigo book,남색 책
 AppearanceName,iridium wand,이리듐 마법봉
+AppearanceName,iron bound book,
 AppearanceName,iron ring,철 반지
 AppearanceName,iron skull cap,철제 스컬캡
 AppearanceName,iron wand,철 마법봉
+AppearanceName,ivory book,
 AppearanceName,ivory ring,상아 반지
 AppearanceName,jackboots,기병 장화
+AppearanceName,jade book,
 AppearanceName,jade ring,옥 반지
+AppearanceName,jewelled book,
 AppearanceName,jewelled wand,보석 박힌 마법봉
 AppearanceName,jungle boots,정글화
+AppearanceName,keening book,
 AppearanceName,key,열쇠
+AppearanceName,khaki potion,
 AppearanceName,lamp,램프
 AppearanceName,large gun,커다란 총
 AppearanceName,large round shield,큰 원형 방패
+AppearanceName,leaden book,
 AppearanceName,leather apron,가죽 앞치마
 AppearanceName,leather book,가죽 표지 책
 AppearanceName,leather hat,가죽 모자
 AppearanceName,light blue book,밝은 파란색 책
 AppearanceName,light brown book,밝은 갈색 책
 AppearanceName,light green book,밝은 녹색 책
+AppearanceName,limestone book,
+AppearanceName,linen book,
+AppearanceName,loam book,
 AppearanceName,long barrelled gun,총구가 긴 총
 AppearanceName,long book,긴 책
 AppearanceName,long bow,장궁
@@ -211,13 +313,18 @@ AppearanceName,luminescent potion,발광성 물약
 AppearanceName,magenta book,자홍색 책
 AppearanceName,magenta potion,자홍색 물약
 AppearanceName,maple wand,단풍나무 마법봉
+AppearanceName,marble book,
 AppearanceName,marble wand,대리석 마법봉
 AppearanceName,marker,마커
+AppearanceName,marlstone book,
 AppearanceName,medallion amulet,메달 아뮬렛
 AppearanceName,metal canister,금속 깡통
 AppearanceName,metal pineapple,금속 파인애플
 AppearanceName,metal slug,금속 슬러그탄
+AppearanceName,mica book,
+AppearanceName,mildewed book,
 AppearanceName,milky potion,우유빛 물약
+AppearanceName,millstone book,
 AppearanceName,mithril boots,강철 신발
 AppearanceName,mithril ring,미스릴 반지
 AppearanceName,mithril slug,미스릴 슬러그탄
@@ -225,70 +332,109 @@ AppearanceName,mithril staff,미스릴 지팡이
 AppearanceName,mood ring,무드 반지
 AppearanceName,moonstone ring,월장석 반지
 AppearanceName,mortar gun,박격포 총
+AppearanceName,mossy book,
+AppearanceName,moth eaten book,
 AppearanceName,mottled book,얼룩덜룩한 책
 AppearanceName,mud boots,진흙 장화
 AppearanceName,muddy potion,진흙빛 물약
 AppearanceName,murky potion,탁한 물약
+AppearanceName,murmuring book,
+AppearanceName,muted book,
 AppearanceName,mysterious gadget,알 수 없는 장치
+AppearanceName,notched book,
 AppearanceName,oak wand,참나무 마법봉
+AppearanceName,obsidian book,
 AppearanceName,obsidian ring,흑요석 반지
 AppearanceName,ochre book,황토색 책
 AppearanceName,octagonal amulet,팔각형 아뮬렛
 AppearanceName,octagonal wand,팔각형 마법봉
 AppearanceName,old gloves,낡은 장갑
+AppearanceName,olive branch book,
+AppearanceName,onyx book,
+AppearanceName,opal book,
 AppearanceName,opal ring,오팔 반지
+AppearanceName,opaline book,
 AppearanceName,opera cloak,오페라 망토
 AppearanceName,orange book,주황색 책
 AppearanceName,orange gem,주황색 보석
 AppearanceName,orange potion,주황색 물약
 AppearanceName,orange robe,주황색 로브
 AppearanceName,ornamental cope,장식용 망토
+AppearanceName,ossuary book,
 AppearanceName,oval amulet,타원형 아뮬렛
 AppearanceName,padded gloves,덧댄 장갑
+AppearanceName,pale book,
 AppearanceName,papyrus book,파피루스 책
 AppearanceName,parchment book,양피지 책
 AppearanceName,pearl earrings,진주 귀걸이
 AppearanceName,pearl ring,진주 반지
+AppearanceName,phoenix down book,
 AppearanceName,piece of cloth,천 조각
+AppearanceName,pine wand,
 AppearanceName,pink book,분홍색 책
 AppearanceName,pink potion,분홍색 물약
+AppearanceName,pitted book,
+AppearanceName,plague ridden book,
 AppearanceName,plaid book,격자무늬 책
 AppearanceName,plain book,평범한 책
 AppearanceName,plain ring,평범한 반지
 AppearanceName,plain robe,평범한 로브
 AppearanceName,plastic slug,플라스틱 슬러그탄
 AppearanceName,plastic stick,플라스틱 막대기
+AppearanceName,plastic wand,
 AppearanceName,platinum wand,백금 마법봉
 AppearanceName,plumed helmet,깃털 달린 투구
+AppearanceName,pocked book,
 AppearanceName,pole cleaver,직사각형 날이 달린 폴암
 AppearanceName,pole sickle,낫이 달린 폴암
 AppearanceName,polished silver shield,윤나는 은 방패
+AppearanceName,porphyry book,
+AppearanceName,prismatic book,
 AppearanceName,pronged polearm,가닥진 폴암
 AppearanceName,pruning hook,가지치기용 낫
+AppearanceName,psalm book,
 AppearanceName,puce potion,암갈색 물약
+AppearanceName,pumice book,
 AppearanceName,purple book,보라색 책
 AppearanceName,purple-red potion,자주색 물약
 AppearanceName,pyramidal amulet,사각뿔 아뮬렛
+AppearanceName,quartzite book,
+AppearanceName,quicksilver book,
+AppearanceName,radiant book,
 AppearanceName,ragged book,너덜너덜한 책
 AppearanceName,rainbow book,무지개빛 책
 AppearanceName,red book,빨간색 책
 AppearanceName,red gem,빨간색 보석
 AppearanceName,red robe,빨간색 로브
+AppearanceName,red stone,
 AppearanceName,red-eyed shield,붉은 눈이 그려진 방패
 AppearanceName,riding boots,승마용 장화
 AppearanceName,riding gloves,승마용 장갑
+AppearanceName,rimed book,
+AppearanceName,riveted book,
 AppearanceName,ruby potion,루비색 물약
 AppearanceName,ruby ring,루비 반지
 AppearanceName,runed arrow,룬새김 화살
+AppearanceName,runed book,
 AppearanceName,runed bow,룬새김 활
 AppearanceName,runed broadsword,룬새김 브로드소드
 AppearanceName,runed dagger,룬새김 단검
+AppearanceName,runed disc,
 AppearanceName,runed short sword,룬새김 숏소드
 AppearanceName,runed spear,룬새김 창
 AppearanceName,runed wand,룬새김 마법봉
+AppearanceName,russet book,
+AppearanceName,rusted book,
 AppearanceName,rusty wand,녹슨 마법봉
+AppearanceName,sable book,
+AppearanceName,saddle book,
+AppearanceName,sallow book,
 AppearanceName,samurai sword,사무라이 검
+AppearanceName,sanguine book,
+AppearanceName,sapphire book,
 AppearanceName,sapphire ring,사파이어 반지
+AppearanceName,scalded book,
+AppearanceName,schist book,
 AppearanceName,scoped long gun,스코프가 달린 장총
 AppearanceName,scroll labelled ANDOVA BEGARIN,ANDOVA BEGARIN이라 적힌 주문서
 AppearanceName,scroll labelled AZZGAZ,AZZGAZ라 적힌 주문서
@@ -321,36 +467,56 @@ AppearanceName,scroll labelled XALICH UDED,XALICH UDED라 적힌 주문서
 AppearanceName,scroll labelled XIXAXA XOXAXA XUXAXA,XIXAXA XOXAXA XUXAXA라 적힌 주문서
 AppearanceName,scroll labelled YUM YUM,YUM YUM이라 적힌 주문서
 AppearanceName,scroll labelled ZELGO MER,ZELGO MER라 적힌 주문서
+AppearanceName,sepia book,
+AppearanceName,sepulchral book,
 AppearanceName,shadow book,그림자 책
+AppearanceName,shale book,
+AppearanceName,shimmering book,
 AppearanceName,shining book,빛나는 책
 AppearanceName,shiny ring,빛나는 반지
 AppearanceName,short barrelled gun,총열이 짧은 총
 AppearanceName,short samurai sword,짧은 사무라이 칼
 AppearanceName,short wand,짧은 마법봉
 AppearanceName,shoulder gun,어깨에 지는 총
+AppearanceName,shrapnel book,
+AppearanceName,silk book,
+AppearanceName,silken book,
+AppearanceName,silly wand,
 AppearanceName,silver book,은빛 책
 AppearanceName,silver ring,은 반지
 AppearanceName,silver slug,은 슬러그탄
 AppearanceName,silver wand,은 마법봉
+AppearanceName,silvered book,
 AppearanceName,single-edged polearm,외날 폴암
 AppearanceName,sky blue potion,하늘색 물약
+AppearanceName,slate book,
 AppearanceName,slippery cloak,미끄러운 망토
 AppearanceName,small gun,작은 총
+AppearanceName,small horizontal bow,
 AppearanceName,smoky potion,뿌연 물약
 AppearanceName,snow boots,눈 장화
+AppearanceName,solar book,
+AppearanceName,sooty book,
+AppearanceName,soul bound book,
 AppearanceName,sparkling potion,탄산 물약
 AppearanceName,spherical amulet,구형 아뮬렛
 AppearanceName,spiked wand,가시 박힌 마법봉
 AppearanceName,spotted book,점무늬 책
 AppearanceName,square amulet,사각형 아뮬렛
 AppearanceName,stained book,얼룩진 책
+AppearanceName,starless book,
+AppearanceName,starlit book,
+AppearanceName,static book,
 AppearanceName,steel ring,강철 반지
 AppearanceName,steel wand,강철 마법봉
 AppearanceName,sticky glob,끈적거리는 방울
+AppearanceName,storm wracked book,
 AppearanceName,stout mithril-coat,굵직한 미스릴 갑옷
 AppearanceName,stout spear,굵직한 창
 AppearanceName,studded samurai stick,징 박힌 사무라이 막대
 AppearanceName,stylish book,멋들어진 책
+AppearanceName,sundered book,
+AppearanceName,sunlit book,
 AppearanceName,swirly potion,소용돌이 치는 물약
 AppearanceName,tan book,황갈색 책
 AppearanceName,tattered book,누더기 책
@@ -365,35 +531,51 @@ AppearanceName,throwing disc,투척용 디스크
 AppearanceName,throwing spear,투척용 창
 AppearanceName,throwing star,표창
 AppearanceName,throwing stick,투척용 막대
+AppearanceName,thunderous book,
 AppearanceName,tiger eye ring,호안석 반지
 AppearanceName,tin wand,주석 마법봉
 AppearanceName,tiny book,작은 책
+AppearanceName,topaz book,
 AppearanceName,topaz ring,토파즈 반지
 AppearanceName,torn book,찢어진 책
+AppearanceName,toy bat,
+AppearanceName,toy hammer,
 AppearanceName,toy sword,장난감 검
 AppearanceName,triangular amulet,삼각형 아뮬렛
 AppearanceName,turquoise book,터키석빛 책
 AppearanceName,twisted ring,꼬인 반지
+AppearanceName,umber book,
+AppearanceName,unbound book,
 AppearanceName,unlabelled scroll,라벨 없는 주문서
 AppearanceName,uranium wand,우라늄 마법봉
+AppearanceName,veiled book,
 AppearanceName,vellum book,우피지 책
 AppearanceName,velvet book,벨벳 책
+AppearanceName,verdigris book,
 AppearanceName,violet book,자주색 책
 AppearanceName,violet gem,자주색 보석
 AppearanceName,visored helmet,차양 달린 투구
+AppearanceName,voltaic book,
 AppearanceName,vulgar polearm,서민적인 폴암
 AppearanceName,walking shoes,운동화
 AppearanceName,warped amulet,뒤틀린 아뮬렛
+AppearanceName,warped book,
+AppearanceName,waxen book,
 AppearanceName,wedding ring,결혼 반지
+AppearanceName,welded book,
+AppearanceName,whispering book,
 AppearanceName,whistle,호루라기
 AppearanceName,white book,흰색 책
 AppearanceName,white coat,흰색 외투
 AppearanceName,white gem,흰색 보석
 AppearanceName,white potion,흰색 물약
 AppearanceName,wide book,넓은 책
+AppearanceName,wilted book,
 AppearanceName,winged missile,날개달린 미사일
 AppearanceName,wire ring,철사 반지
+AppearanceName,withered book,
 AppearanceName,wooden ring,나무 반지
+AppearanceName,wormwood book,
 AppearanceName,wrinkled book,주름진 책
 AppearanceName,yellow book,노란색 책
 AppearanceName,yellow gem,노란색 보석
@@ -489,62 +671,116 @@ BlockName,statue,석상
 BlockName,stone boulder,바위 덩어리
 BlockName,trophy,트로피
 BlockName,wooden barrel,나무 통
+BoonDescription,"A darker resurrection than the temples offer: certain to succeed, but the dead come back enraged.",
+BoonDescription,"A generous healing gift, fae-touched: your hands will not be quite steady later.",
 BoonDescription,Ask for a unicorn to join your party.,동료로 합류할 유니콘을 요청한다.
+BoonDescription,Ask the fae for a favour. What you get is entirely up to her mood.,
+BoonDescription,"Bathe in the etching vats. It burns, but you rise with a hide the acid cannot bite.",
 BoonDescription,Bless one item in your inventory or on the ground.,인벤토리나 타일 위에 있는 아이템에 축복을 내린다.
 BoonDescription,Brew a random potion into your bottle of water.,물병에 무작위의 물약을 양조한다.
 BoonDescription,Butcher a corpse into an easy to carry container.,시체를 토막내서 옮기기 쉬운 용기에 담는다.
 BoonDescription,Call upon the undead to fight for you.,당신을 위해 싸울 언데드를 부른다.
+BoonDescription,Consult the observatory's charts for the full layout of this level.,
 BoonDescription,Convert one item into a random alternative of the same type.,아이템 하나를 동일한 종류의 무작위 아이템으로 바꾼다.
 BoonDescription,Determine the enchantment and charges of all carried items.,소지중인 모든 아이템의 강화와 충전 상태를 확인한다.
+BoonDescription,"Drill under the captain's eye. You may be quickened, or you may be worn out.",
+BoonDescription,Drink the warrior's drink and fight in a berserker rage. It does not spare your allies.,
+BoonDescription,"Eat at the fae table. You will not go hungry, but the wine shows you things that are not there.",
 BoonDescription,"Erase the magic from a potion, scroll or book.","물약,주문서,마법서로부터 마법적 효과를 제거한다."
+BoonDescription,Fall into a trance and see through walls and floors for a time.,
 BoonDescription,Hatch an egg and become a parent.,알을 부화시켜서 보호자가 된다.
+BoonDescription,Have the efreeti bind a captive elemental to your service.,
+BoonDescription,"Have the temple armour smiths put a keener edge on one weapon, magical or not.",
+BoonDescription,Have the wizard read the true nature of everything you carry.,
+BoonDescription,"Have your destiny read from the stars, hastening your growth.",
 BoonDescription,Heal damage and recover mana for yourself and your steed if mounted.,당신과 탈것을 치유하고 마나를 회복시킨다.
 BoonDescription,Learn how to cast a random spell.,무작위 마법을 시전하는 법은 배운다.
 BoonDescription,Learn the divine status of all carried items.,모든 소지품의 신성한 상태를 식별한다.
 BoonDescription,Learn the name of one random unknown item.,모르는 아이템 하나의 이름을 무작위로 알게 된다.
 BoonDescription,Make an imitation copy of an item.,한 아이템의 모조품을 만든다.
 BoonDescription,Partially recharge a spent item.,소모된 아이템을 부분적으로 충전한다.
+BoonDescription,Petition the vizier for a spectral cat to guard you as it once guarded the tomb.,
 BoonDescription,Place a curse on one equipped or carried item.,장비중이거나 소지중인 아이템에 저주를 내린다.
+BoonDescription,"Plunge into the quenching trough. It burns with cold, but you rise proof against it.",
 BoonDescription,Reanimate a corpse as a loyal revenant.,시체를 충성스러운 망령으로 되살린다.
+BoonDescription,Receive the linen wrappings used to prepare the dead for the afterlife.,
 BoonDescription,Remove all magic from an item.,아이템에서 모든 마법을 제거한다
 BoonDescription,Remove the curse on one equipped or carried item.,장비중이거나 소지중인 아이템의 저주를 해제한다.
 BoonDescription,Rename an item for vanity and as a small protection against cancellation.,무효화에 대한 약간의 보호를 받으면서 허영심을 채우기 위해 아이템의 이름을 변경한다.
 BoonDescription,Request a fresh corpse with no questions asked.,묻지도 따지지도 않고 신선한 시체를 요청한다.
 BoonDescription,Request one cast of the polymorph spell.,폴리모프 주문을 요청한다.
+BoonDescription,Requisition soldiers from the garrison to march at your side.,
 BoonDescription,Restore any lost ability and remove any negative transient conditions.,소실된 능력치를 복구하고 일시적인 부정적 효과를 제거한다.
 BoonDescription,Return a corpse back to life.,시체를 되살려낸다.
+BoonDescription,Stand in the temple square and receive the captain's defensive blessing.,
+BoonDescription,"Step into the forge fire. It burns, but you rise with fire in your blood.",
 BoonDescription,Summon a powerful steed from the underworld.,지하세계에서 강력한 탈것을 소환한다
 BoonDescription,Summon a tame forest beast as your ally.,길들여진 숲의 짐승을 소환해 당신의 동료로 만든다.
+BoonDescription,Summon an escort from the pharaoh's retinue to walk beside you.,
+BoonDescription,The princess trades you a measure of charm. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of grace. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of wit. Something else must give way for it.,
+BoonDescription,Toss a coal on the forge fire and take whatever ward it grants you.,
+BoonDescription,Train under a veteran until a weapon or armour discipline sticks.,
 BoonDescription,Upgrade an item or increase its power.,아이템을 강화하거나 능력치를 증가시킨다.
 BoonDescription,Use nature magic to grow the power of your ally.,자연 마법으로 동료의 능력치를 증가시킨다.
+BoonDescription,Watch the level through the great lens and mark every creature on it.,
+BoonDescription,Whisper a question into the vault. The dead do not always tell the truth.,
 BoonDescription,Write a random scroll onto your blank paper.,백지 주문서에 무작위 주문서를 써낸다.
 BoonName,animate dead,사자소생
 BoonName,assess,평가
+BoonName,banquet of the fae,
+BoonName,battle fury,
+BoonName,black rite of revival,
 BoonName,bless,축복
+BoonName,bound elemental,
 BoonName,brew,양조
+BoonName,call the escort,
 BoonName,cancel,무효화
+BoonName,capricious wish,
+BoonName,chart the level,
+BoonName,clairvoyant trance,
+BoonName,commune with the dead,
 BoonName,corpse wish,시체 기원
+BoonName,court of the underworld,
 BoonName,divine,점술
+BoonName,drill,
 BoonName,enchant,강화
 BoonName,enlighten,깨달음
 BoonName,erase,제거
+BoonName,fae cunning,
+BoonName,fae grace,
+BoonName,fae guile,
 BoonName,fantastical beast,환상적 짐승
+BoonName,forced march,
+BoonName,godmother's blessing,
 BoonName,grow,성장
 BoonName,hatch,부화
+BoonName,identify all,
+BoonName,map the ranks,
 BoonName,nightmare steed,악몽의 말
+BoonName,ordeal of embers,
 BoonName,place curse,저주
 BoonName,polymorph,폴리모프
 BoonName,purify,정화
 BoonName,raise dead,부활
+BoonName,read your destiny,
 BoonName,recharge,재충전
 BoonName,reforge,제련
 BoonName,rejuvenate,원기회복
 BoonName,remove curse,저주 해제
 BoonName,rename,이름 변경
 BoonName,replicate,복제
+BoonName,sacred wrappings,
 BoonName,scribe,필경
+BoonName,sharpen blade,
+BoonName,shield wall,
 BoonName,teach spell,마법 가르치기
+BoonName,temper in acid,
+BoonName,temper in flame,
+BoonName,temper in frost,
 BoonName,tinned meat,통조림 고기
+BoonName,tomb guardian,
 BoonName,undead army,언데드 군대
 BoonName,unicorn friend,유니콘 친구
 CalendarText,d MMMM yyyy,yyyy년 MMMM d일
@@ -560,7 +796,11 @@ CharacterName,Bason,베이슨
 CharacterName,Belietha,벨리에타
 CharacterName,Bok,보크
 CharacterName,Bolan,볼란
+CharacterName,Bones,
+CharacterName,Borgrim,
+CharacterName,Briar,
 CharacterName,Brouwer,브로워
+CharacterName,Buckshot,
 CharacterName,Cailie,케일리
 CharacterName,Capo,카포
 CharacterName,Carthyre,카티레
@@ -581,18 +821,25 @@ CharacterName,Emina,에미나
 CharacterName,Enlan,엔란
 CharacterName,Ericendrick,에리켄드릭
 CharacterName,Eybrinde,아이브린드
+CharacterName,Fangs,
 CharacterName,Faraze,파라즈
 CharacterName,Fenlas,펜라스
 CharacterName,Fenraymond,펜레이몬드
+CharacterName,Fern,
 CharacterName,Floki,플로키
 CharacterName,Forro,포로
 CharacterName,Franzia,프란지아
 CharacterName,Galday,갈데이
 CharacterName,Gasberg,가스베르크
+CharacterName,Gearwing,
+CharacterName,Ghrenna,
+CharacterName,Giggles,
 CharacterName,Gleichman,글레이크만
 CharacterName,Gmima,그미마
 CharacterName,Gohu,고후
 CharacterName,Gomack,고마크
+CharacterName,Grakna,
+CharacterName,Grum,
 CharacterName,Grytt,그릿
 CharacterName,Haelom,해일롬
 CharacterName,Haique,하이크
@@ -615,34 +862,41 @@ CharacterName,Kevugo,케부고
 CharacterName,Kierantha,키에란타
 CharacterName,Kira,키라
 CharacterName,Kneller,넬러
+CharacterName,Korrath,
 CharacterName,Lagratha,라그라타
 CharacterName,Lanetwalz,라넷왈즈
 CharacterName,Lant,란트
 CharacterName,Lesha,레샤
 CharacterName,Luickean,뤼키언
+CharacterName,Lyric,
 CharacterName,Lzay,르제이
 CharacterName,Malasuth,말라수스
+CharacterName,Malgrim,
 CharacterName,Marisa,마리사
 CharacterName,Melchai,멜차이
 CharacterName,Meloty,멜로티
 CharacterName,Miller,밀러
 CharacterName,Misteph,미스테프
 CharacterName,Nichaeltoy,니켈토이
+CharacterName,Nihlus,
 CharacterName,Ninerma,니네르마
 CharacterName,Ninhart,닌하르트
 CharacterName,Ninny,니니
 CharacterName,Nodin,노딘
 CharacterName,Norbant,노르반트
+CharacterName,Nugget,
 CharacterName,Okennwood,오켄우드
 CharacterName,Ollac,올락
 CharacterName,Omdarro,옴다로
 CharacterName,Orankin,오란킨
 CharacterName,Oscae,오스케
 CharacterName,Paltrick,팔트릭
+CharacterName,Panderos,
 CharacterName,Pauwinner,파우위너
 CharacterName,Penevieve,페너비브
 CharacterName,Perceval,퍼시발
 CharacterName,Pinkerton,핑커튼
+CharacterName,Pip,
 CharacterName,Plegg,플레그
 CharacterName,Pleyson,플레이슨
 CharacterName,Pnerfa,프네르파
@@ -660,16 +914,26 @@ CharacterName,Rebenna,리벤나
 CharacterName,Renorber,레노르버
 CharacterName,Rokiju,로키주
 CharacterName,Rupley,루플리
+CharacterName,Rustbeard,
 CharacterName,Sarlia,사를리아
+CharacterName,Scraps,
+CharacterName,Sentinel,
+CharacterName,Serathiel,
+CharacterName,Shadow,
 CharacterName,Shinaas,샤이나스
+CharacterName,Sissik,
+CharacterName,Skrix,
 CharacterName,Smither,스미더
+CharacterName,Sprocket,
 CharacterName,Stevere,스티비어
 CharacterName,Stewite,스튜아이트
 CharacterName,Sully,설리
 CharacterName,Talon,탈론
 CharacterName,Tanyacka,타냐카
 CharacterName,Thakuline,세이쿨린
+CharacterName,Thokk,
 CharacterName,Threepo,스레포
+CharacterName,Tillie,
 CharacterName,Timonen,티모넨
 CharacterName,Trank,트랭크
 CharacterName,Udfoot,우드풋
@@ -677,7 +941,10 @@ CharacterName,Uffle,우플
 CharacterName,Ujopayne,우조페인
 CharacterName,Umazi,우마지
 CharacterName,Urenval,우렌발
+CharacterName,Vaelithra,
+CharacterName,Valor,
 CharacterName,Valorn,발론
+CharacterName,Vashti,
 CharacterName,Vekincarc,베킨카르크
 CharacterName,Vidar,비다르
 CharacterName,Vikethome,비켓홈
@@ -687,7 +954,9 @@ CharacterName,Wallison,왈리슨
 CharacterName,Waltis,월티스
 CharacterName,Walzen,왈젠
 CharacterName,Wendry,웬드리
+CharacterName,Wisp,
 CharacterName,Wollet,월렛
+CharacterName,Wraith,
 CharacterName,Xamarin,자마린
 CharacterName,Xandries,잰드리스
 CharacterName,Xank,쟁크
@@ -699,6 +968,7 @@ CharacterName,Yassage,야사지
 CharacterName,Yorque,요크
 CharacterName,Yral,이랄
 CharacterName,Yuvaloren,유발로렌
+CharacterName,Zathrik,
 CharacterName,Zean,진
 CharacterName,Zerbarry,제르배리
 CharacterName,Zimn,짐느
@@ -709,16 +979,19 @@ ClassDescription,"Benevolent caretakers, always willing to lend a helping hand t
 ClassDescription,"Champions of the winter realms, fierce and proud. Hardy and strong, they will boldly face any challenger until they meet a glorious death.",사납고 긍지 높은 겨울 세계의 투사. 강하고 굳건한 그들은 영광스러운 죽음을 맞이할 때까지 어떤 도전에도 용감하게 맞설 것이다.
 ClassDescription,"Charming minstrels, making their way through the world with their songs and stories. They are jacks-of-all-trades; alongside their troubadour talents, they dabble in both martial skills and spellcraft.",노래와 이야기로 세상을 헤쳐나가는 매력적인 음악가. 예술적 감각 뿐만 아니라 무술과 마법을 적당히 다룰 줄 아는 팔방미인.
 ClassDescription,"Conductors of natural energies, these uniquely attuned spell casters derive their powers from the living world. Peaceful until threatened, they are unafraid to respond with animalistic savagery.","자연 에너지의 지휘자이자 독특하게 조율된 이 주문시전자들은 살아 있는 세계에서 힘을 끌어낸다. 평화주의적이나, 위협받을 경우 짐승과도 같은 야만성에 맞서는 것을 두려워하지 않는다."
+ClassDescription,"Contract killers trained to strike once, from the dark, and vanish before the body is found. They favour poisoned steel over honest combat and trust no blade they have not sharpened themselves.",
 ClassDescription,"Corrupt and hateful souls, who are motivated by causing carnage and spreading chaos. Subject to uncontrollable bouts of rage, they bring doom and destruction to friend and foe alike.",이 사악하고 혐오스러운 영혼은 오직 살육과 혼돈만을 찾아 움직인다. 주체할 수 없는 분노에 이끌려 친구와 적 모두에게 파괴와 종말을 불러온다.
 ClassDescription,"Daft harlequins, always carrying a trick up their sleeves. Eclectic and eccentric; they are unassuming masters of chaos, adept in many bewildering talents.","항상 소맷자락에 속임수를 숨기고 다니는 미치광이 어릿광대. 유쾌하고, 괴팍하고, 혼란의 달인이며 온갖 골탕먹이기에 능하다."
 ClassDescription,"Deft miscreants, conniving and quick with their wits. Through trial and error, they have learned that their best chance in avoiding the clutches of death is to stick to the shadows and outmanoeuvre their pursuers.","속임수와 잔머리로 뭉친 신출귀몰한 악당. 수많은 시행착오 속에서, 죽음의 손길에서 피하는 최고의 방법은 그림자 속에 숨어 추적자를 기습하는 것이라고 배웠다."
 ClassDescription,"Devoted to understanding the essence of magic and the marvel of engineering, these adept craftsman crave both knowledge and resources. Whether directed by madness or genius, they are a capable adversary and a tenacious survivor.","마법의 정수와 공학의 경이를 이해하는 데 인생을 바친 이들은, 능숙한 장인으로서 지식과 자원 양면을 갈망한다. 광기가 인도했든, 천재성이 인도했든 이들은 유능한 적수이자 끈질긴 생존자이다."
 ClassDescription,Escaped criminals who have spent so much of their life incarcerated that any trace of who or what they once were has all but vanished.,평생을 감옥에 갇혀서 자신이 누구이며 어떤 존재로 살아온 것인지 흔적조차 남지 않은 탈옥수.
 ClassDescription,"Freebooting buccaneers, sailing the high seas and plundering many a merchant's vessel in their endless pursuit of riches and infamy. They are murderous cutthroats with little regard for anything but gold.",부와 악명을 쫓아 수많은 상인의 배를 약탈해온 주인없는 바다의 약탈꾼. 금 이외에는 아무것도 신경쓰지 않는 잔인한 살육자.
+ClassDescription,"Grim oath-bound hunters who court death against the mightiest foes, undead and monstrous alike. What they lack in subtlety they make up for with unrelenting rage and a body built to shrug off ruin.",
 ClassDescription,"Happy-go-lucky travellers, committed to only the most authentic experiences. Quixotic and brave, they meticulously prepare with a wide variety of paraphernalia - yet remain ill-equipped for the perils they will soon face.","진정한 경험을 찾아다니는 낙천적인 여행자. 변덕스럽고 용감하며, 온갖 소지품을 꼼꼼하게 챙겨다닌다 - 하지만 그들이 마주하게 될 위기에 대해선 아무런 준비도 되어있지 않다."
 ClassDescription,"Hidden agents, fleet-footed and schooled in many ancient arts of assassination. When all else fails, they are indubitably prepared to make swift escapes.","수많은 고대 암살술을 익힌 재빠른 비밀 전투원. 모두가 실패했을 때, 그는 반드시 신속히 빠져나갈 준비가 되어있을 것이다."
 ClassDescription,"Honourable warriors, who have dedicated their lives to an ancient code. Skilled in art of dual-wielding blades, they make fast work of their enemies.","고대의 규율에 목숨을 바친 영광스러운 전사. 이도류에 능통하며, 신속하게 적을 처리한다."
 ClassDescription,"Keepers of cosmic secrets, who derive their sacred powers from the spirit realms hidden from mortal eyes. They are compelled by dark forces and are adept at bending the material world to their will.","우주의 비밀을 수호하는 자. 인간의 눈에 가려진 영혼의 세계로부터 신성한 힘을 끌어낸다. 어둠의 힘을 따라 움직이며, 물질 세계를 자기 마음대로 구부릴 수 있다."
+ClassDescription,"Keepers of old hexes and older grudges, more at home among gravestones and cauldrons than decent company. They do not hurl fire; they unmake their enemies' luck, strength and flesh by degrees.",
 ClassDescription,"Noble savages, hardened to battle by generations of survival in the unforgiving wilderness. They are not strangers to death's call; legends tell of their incredible strength and battle prowess with heavy weapons.","혹독한 황야에서 생존을 위한 전투로 다져진 고결한 야만인. 죽음은 그의 동반자며, 그들의 강력한 힘과 거대한 무기로 싸우는 기량은 전설로 내려온다."
 ClassDescription,"Obsessed with blurring the line between life and death, these meddlers of dark forces prefer to associate with cadavers over the living. To some, the rituals are grotesque, but they see pure majesty in the manipulation of the natural order.","삶과 죽음의 흐릿한 경계에 사로잡혀 망자와 어울리는 어둠의 훼방꾼. 누군가에게는 기괴한 의식으로 보이지만, 그들은 자연의 질서를 뒤트는 것으로부터 장엄함을 느낀다."
 ClassDescription,"Pious scholars, oath-bound to their scripture. Although altruistic and good-natured, they are trained in martial arts so as to protect themselves and the canon they live by.","경전의 서약으로 묶인 독실한 수행자. 선하고 이타적이지만, 자신과 자신의 규범을 지키기 위해 무술을 수행했다."
@@ -729,11 +1002,16 @@ ClassDescription,Questionably pious individuals from an ancient religious and mi
 ClassDescription,"Quintessential scientific researchers and dauntless historical investigators. Both brash and debonair, they seek out knowledge and accolades alike. They are curiously fond of whips and share a perplexing hatred towards serpents.","전형적인 과학 연구자이자 불굴의 역사 탐구자. 당당하고 자신만만하며, 지식과 명예를 모두 추구한다. 이상하게 채찍을 선호하고, 이해할 수 없지만 뱀을 싫어한다."
 ClassDescription,"Restless desperados, driven by wanderlust and troubled by the haunting memories of those they could not protect. They are sly masters of lead and steel, hellbent on redemption and retribution.","지키지 못한 자들의 기억에 괴로워하고 떠돌며 안식을 얻지 못하는 무법자. 납과 강철을 정교하게 잘 다루며, 구원과 복수를 위해 질주한다."
 ClassDescription,"Righteous clergymen, dedicated to a life of sacrifice and spreading the word of their almighty deities. Well-versed in divine magic and the judicial delivery of violence to those deemed unworthy of salvation.",삶을 전능한 신의 말씀을 전파하고 희생하는 것에 봉헌한 충직한 성직자. 신성 마법과 구원의 가치가 없는 자들을 심판하는 정의로운 폭력에 정통하다.
+ClassDescription,"Scholars who bound their fate to raw elemental force rather than the slower disciplines of wizardry. Fire and frost answer their call in equal measure, a duality most mages never dare attempt.",
+ClassDescription,"Self-taught chemists of the underworld, forever mixing, tasting and bottling the unknown. What they lack in swordsmanship they make up for with a satchel of volatile solutions and a hard-won immunity to their own mistakes.",
 ClassDescription,"Strongly built, tough and industrious workers who are more than capable in dangerous situations. Traditional practices and heavy tools are used to overcome obstacles in their pursuit of valuable gemstones.",위험한 상황에서의 작업에 전문인 튼튼하고 강인한 건설 노동자. 진귀한 보석을 찾는 여정에 방해물이 있으면 공구를 동원해 제거한다.
 ClassDescription,"Sworn to uphold justice, these righteous warriors are dogmatic in pursuit of their sacred work. Classical martial skills are complemented by magical powers to protect the innocent and smite the wicked.","정의를 지키고자 맹세하고, 신성한 책무를 독단적으로 이행하는 의로운 전사. 사악한 자를 벌하고 무고한 자를 보호하기 위해 고전적 무술을 마법적 힘으로 보완한다."
 ClassDescription,"Venerable men-at-arms clad in gleaming armour, renowned for their unyielding chivalry and conviction. They are high-born and are educated to be strategists and capable leaders on any battlefront.","빛나는 명품 갑옷을 입은 덕망 있는 전사. 굳센 기사도와 신념으로 유명하다. 그는 고상하며, 어떤 전선에서도 유능한 전략가이자 지휘관이 되도록 전술을 익혔다."
 ClassDescription,"Warrior slaves compelled to battle for the entertainment of raucous crowds, often to the death. Those that can survive this cauldron are trained into the most brutal of pit fighters.","시끄러운 대중을 기쁘게 하기 위해 전투를 강요받는 노예 전사. 전투 중 죽을 수도 있으며, 이 투기장에서 살아남는 자는 가장 무자비한 투사로 훈련받는다."
 ClassDescription,"Wilderness sentinels who understand the true balance of the universe. With bow in hand, they have devoted their lives to protecting the forces of nature from the corrupting touch of civilisation.","우주의 진정한 균형을 이해하는 황야의 감시자. 활을 손에 들고, 문명의 타락한 손길에서 자연의 힘을 보호하는 것에 생을 바쳤다."
+ClassName,apothecary//female,
+ClassName,apothecary//male,
+ClassName,apothecary//non-binary,
 ClassName,barbarian//female,바바리안
 ClassName,barbarian//male,바바리안
 ClassName,barbarian//non-binary,바바리안
@@ -749,6 +1027,9 @@ ClassName,convict//non-binary,죄수
 ClassName,druid//female,드루이드
 ClassName,druid//male,드루이드
 ClassName,druid//non-binary,드루이드
+ClassName,elementalist//female,
+ClassName,elementalist//male,
+ClassName,elementalist//non-binary,
 ClassName,explorer//female,탐험가
 ClassName,explorer//male,탐험가
 ClassName,explorer//non-binary,탐험가
@@ -782,6 +1063,9 @@ ClassName,mystic//non-binary,신비술사
 ClassName,necromancer//female,강령술사
 ClassName,necromancer//male,강령술사
 ClassName,necromancer//non-binary,강령술사
+ClassName,nightblade//female,
+ClassName,nightblade//male,
+ClassName,nightblade//non-binary,
 ClassName,ninja//female,닌자
 ClassName,ninja//male,닌자
 ClassName,ninja//non-binary,닌자
@@ -809,6 +1093,9 @@ ClassName,samurai//non-binary,사무라이
 ClassName,shaman//female,주술사
 ClassName,shaman//male,주술사
 ClassName,shaman//non-binary,주술사
+ClassName,slayer//female,
+ClassName,slayer//male,
+ClassName,slayer//non-binary,
 ClassName,templar//female,성전사
 ClassName,templar//male,성전사
 ClassName,templar//non-binary,성전사
@@ -821,18 +1108,26 @@ ClassName,tourist//non-binary,관광객
 ClassName,valkyrie//female,발키리
 ClassName,valkyrie//male,발키리
 ClassName,valkyrie//non-binary,발키리
+ClassName,witch//female,
+ClassName,witch//male,
+ClassName,witch//non-binary,
 ClassName,wizard//female,마법사
 ClassName,wizard//male,마법사
 ClassName,wizard//non-binary,마법사
+CompanionName,almiraj,
+CompanionName,astral puppy,
 CompanionName,bird,새
+CompanionName,blink puppy,
 CompanionName,cat,고양이
 CompanionName,dog,개
 CompanionName,egg,알
 CompanionName,ghoul,구울
+CompanionName,hamster,
 CompanionName,horse,말
 CompanionName,imp,임프
 CompanionName,monkey,원숭이
 CompanionName,rat,쥐
+CompanionName,raven,
 CounterName,afflictions,감염
 CounterName,animations,생동화
 CounterName,anoints,바름
@@ -925,8 +1220,10 @@ DeviceName,fire trap,화염 함정
 DeviceName,grease trap,기름 함정
 DeviceName,hallucination trap,환각 함정
 DeviceName,hole,구멍
+DeviceName,humantrap,
 DeviceName,hunger trap,배고픔 함정
 DeviceName,ice trap,얼음 함정
+DeviceName,ink pool,
 DeviceName,level teleporter,레벨 텔레포터
 DeviceName,lightning trap,전격 함정
 DeviceName,noxious pool,유독성 웅덩이
@@ -941,6 +1238,7 @@ DeviceName,sleeping gas trap,수면 가스 함정
 DeviceName,spear trap,창 함정
 DeviceName,spiked pit,가시난 구덩이
 DeviceName,squeaky board,삐걱이는 판자
+DeviceName,statue trap,
 DeviceName,teleporter,텔레포터
 DeviceName,toxic trap,독성 함정
 DeviceName,trapdoor,트랩도어
@@ -1007,15 +1305,68 @@ EncumbranceName,stressed,부담됨
 EncumbranceName,unencumbered,지장없음
 EngulfmentName,engulfed,사로잡힘
 EngulfmentName,swallowed,삼켜짐
+EntityDescription,"A blink dog pup, already able to flicker away from danger before it lands a bite.",
+EntityDescription,A bulbous fungus that bursts into a hissing cloud of acid when disturbed.,
+EntityDescription,"A cave bear whose pelt has gone grey as cinders, hardened by years sheltered in a live volcano's roots.",
+EntityDescription,"A cave spider drained of all colour by lightless generations, hunting by web-thrum alone.",
+EntityDescription,"A cobra pale as hoarfrost, coiled in the ice caves where warm-blooded prey seeks shelter.",
+EntityDescription,"A coyote with a static-charged coat, drawn down from the high plains after a lightning storm.",
+EntityDescription,"A dead tree animated by rot and old malice, its bark split open where a jaw shouldn't be.",
+EntityDescription,"A dragon steeped in high magic, said to hoard grimoires as jealously as gold.",
+EntityDescription,A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.,
+EntityDescription,A dwarf of a mountain clan so far north the forge-fires burn blue; one of its twin mattocks bites like the wind off the peak.,
+EntityDescription,A fey hound that flickers between here and elsewhere; it fights alongside anyone it trusts.,
+EntityDescription,"A giant bat with clouded, sightless eyes, navigating wholly by the shriek of its own echo.",
+EntityDescription,"A giant beetle with a carapace of blue-white chitin, breath steaming with cold in the deep dark.",
+EntityDescription,"A giant caked grey with volcanic ash, walking down from a smoking peak with a club still smoking at the tip.",
+EntityDescription,"A giant of the high glaciers, sheathed in rime; its breath alone can flash-freeze a puddle solid.",
+EntityDescription,"A gila monster whose beaded hide glows dull orange along the seams, as if lit from beneath.",
+EntityDescription,"A gnome who never left the deep tunnels, pale and stooped, at ease chewing through rock with a pickaxe.",
+EntityDescription,"A golem cast from bronze rather than raw iron; where its cousin only staggers under a lightning strike, this one drinks the current and spits it back.",
+EntityDescription,"A hound of the Astral plane, half-seen even when it stands still; it does not breathe or bleed.",
+EntityDescription,"A jackal wasted by sickness, its ribs showing through a mangy hide; its bite festers.",
+EntityDescription,A jelly black as a starless sky; things it touches for too long forget how alive they were.,
+EntityDescription,A jelly that glows faintly like a coal; fire only makes it swell larger and angrier.,
+EntityDescription,A jelly that reeks of rot; it dissolves flesh and gear alike to feed itself.,
+EntityDescription,"A jelly the colour of a bruise, faintly crackling; touching it feels like brushing a doorknob after crossing a carpet in winter.",
+EntityDescription,"A jelly the colour of glacier ice, cold to the touch and colder still if it touches back.",
+EntityDescription,"A kobold camouflaged in mottled green, more comfortable in the canopy than underground; it spits venom from a hollow reed.",
+EntityDescription,"A long worm that burrows through permafrost, its segmented hide crusted with rime.",
+EntityDescription,"A lynx with a rime-white winter coat, breath fogging even in a warm room.",
 EntityDescription,A medium-sized creature prone to great ambition. Short-lived but ubiquitous; they are not to be underestimated.,"야망이 큰 중간 크기의 생명체. 수명은 짧으나, 어디서나 볼 수 있다. 절대 과소평가해서는 안 된다."
+EntityDescription,"A panther whose black coat smoulders at the edges, leaving smoking pawprints on stone.",
+EntityDescription,"A plump waterfowl, unbothered by dungeons so long as there is a puddle nearby.",
+EntityDescription,"A pudding of black, viscid tar that oozes and smoulders at once; anything it swallows comes out cindered.",
+EntityDescription,"A raven with feathers like beaten iron, riding the thunderheads and stooping with a crack of static.",
+EntityDescription,"A rodent the size of a dog, cheek pouches bulging with whatever it last found on the floor.",
+EntityDescription,"A sewer rat gone pure white and pink-eyed, blind from generations in unlit tunnels.",
+EntityDescription,"A shade gone pale and crystalline, trailing frost wherever it drifts; the cold pours off it before it ever draws near.",
+EntityDescription,A shambling corpse wrapped in weeping buboes; the sickness that killed it did not stop working when it died.,
+EntityDescription,"A shark bred to lightless ocean trenches, its eyes filmed over and useless.",
+EntityDescription,"A skeleton picked clean by something worse than time; its bones are black at the joints, and its touch draws the warmth out of the living.",
+EntityDescription,A small heap of coins that isn't quite finished counting itself.,
+EntityDescription,"A small, quick-witted dragon out of the fey courts, more prankster than predator.",
+EntityDescription,"A spitting beetle whose glands have gone volcanic, hawking gobbets of burning pitch.",
+EntityDescription,"A standing wave of brackish swamp water, thick with algae and old poison; nothing in it is fresh, and nothing about touching it is safe.",
+EntityDescription,"A troll that wandered too near a volcano and came out the other side wrong: its hide is cracked magma-rock, glowing at every seam.",
+EntityDescription,"A water moccasin gone jet black, all but invisible against a night-flooded cave pool.",
+EntityDescription,"A weathered chest, until its lid splits open into a maw ringed with teeth.",
+EntityDescription,"A young astral dog, still learning to keep all four paws on the material plane at once.",
+EntityDescription,"A young mimic, its shapeshifting still crude — usually just a box that bites back.",
 EntityDescription,"Amorphous beings who have no typical shape but often take on a translucent humanoid form. While unmistakable for anything other than a plasma-like ooze, this form enables the use of clothing and tools.",무정형 생물체들은 딱히 정해진 모양은 없지만 대게 투명한 인간의 모습을 하고있다. 물론 이것은 여전히 플라스마 비슷한 액체처럼 보이지만 이런 모습은 옷을 입는것과 장비를 쓰는것을 가능하게한다.
 EntityDescription,"An ancient race of towering recluses. Their terrifying size gives them immense strength, supplemented by a voracious diet of meats and minerals.",은둔한 고대의 거대 종족. 고기와 광물을 게걸스럽게 먹어치우며 엄청난 힘의 원천인 압도적인 덩치를 유지한다.
+EntityDescription,"An ape with a crackling, wire-taut hide, native to the thunderheads above the high peaks.",
+EntityDescription,"An elf of the sunlit dunes, skin bronzed and eyes narrowed; its arrows are fletched with fire-hardened reed and fly burning.",
+EntityDescription,"An ogre gone half-feral in the fens, its skin sallow and slick; its claws carry a rot no wound-dressing can clean.",
+EntityDescription,An orc mummy exhumed from a barrow sealed under a cinder-field; its wrappings are charred and its grip sears whatever it holds.,
+EntityDescription,"An orc that has made its home in the marshlands, its blade notched and slicked with venom drawn from swamp adders.",
 EntityDescription,"Astral beings who are a vessel for the indomitable spirit of a vanquished adventurer. Having no motivations of their own, they are glad to permit the possession; for the deceased adventurer, it is a second chance at revenge or redemption. Born from astral matter, they are slightly built, translucent and can move freely through physical obstacles.","스러진 모험가의 불굴의 영혼을 담는 영적인 그릇. 스스로는 움직이지 않으며, 모험가의 영혼에게 기꺼이 몸을 내어 복수 또는 속죄를 위한 두 번째 기회를 준다. 영적 물질로 만들어진 자그마한 몸은 투명하며 물리적 장애물을 통과할 수 있다."
 EntityDescription,"Beautiful, otherworldly beings characterised by their signature halo and feathered wings. Strongly attuned to the struggle between good and evil, they sense the divinity within anything they hold.",빛나는 후광과 깃털난 날개가 특징인 아름다운 초월적 존재. 선과 악의 대결에 단련된 그들은 손에 쥐는 모든 것들에서 성스러움을 느낀다.
 EntityDescription,Beware this clockwork machine of war.,이 시계테엽으로 만들어진 전쟁기계를 조심하라.
 EntityDescription,Bipedal mechanical automatons with nearly unbounded artificial intelligence. Powered by a molten core engine that requires a constant supply of raw metals and is susceptible to water damage.,"거의 제한이 없는 인공지능을 탑재한 이족 보행 기계 자동인형. 지속적인 금속 공급이 필요한 융해 코어 엔진으로 구동되며, 침수 피해에 취약하다."
 EntityDescription,"Fey creatures linked by powerful nature spirits to fuel their antics. They are stocky with furry lower bodies, cloven hooves of a goat and curled horns of a ram. Ribald and clever, they cheerfully lead hedonistic escapades of drinking, dancing and fighting.","자연의 강력한 정령과 이어져 있는 익살스러운 장난꾼. 다부진 하반신은 털로 덮여 있고, 염소의 발굽과 양의 뿔을 가졌다. 상스럽고 영리한 이들은 마시고, 춤추고, 싸우며 경쾌하게 향락을 즐긴다."
 EntityDescription,"Imposing and heavily built, they resemble humanoid dragons with a snout, scaly hide and functional wings.","위압적이고 다부진 체격의 이들은 주둥이와 비늘 가죽, 그리고 실제로 비행이 가능한 날개를 가진 인간형 용을 닮았다."
+EntityDescription,"It waits among the headstones shaped like one more grave marker, patient as the dead around it.",
 EntityDescription,"Large, omnivorous reptilians whose bestial ancestors dominated the world long before the birth of civilisation. They are fearsome predators, capable of leaping impressive distances and warding off many attacks with their thick scaly hides.","거대한 육식 도마뱀. 그들의 흉포한 조상은 문명이 탄생하기 훨씬 전에 세상을 지배했었다. 무시무시한 포식자인 그들은, 상당한 거리를 도약할 수 있고 두꺼운 비늘로 수많은 공격을 막을 수 있다."
 EntityDescription,Monstrous creatures with the head and tail of a bull and the body of a man.,"황소의 머리와 꼬리, 그리고 인간의 몸을 가진 괴물 같은 생명체."
 EntityDescription,"Perverse creatures of many aberrations but always with crimson skin and horns. Their mere presence compels others to act out their darkest, most violent desires.",핏빛 피부와 뿔이 달린 매우 기괴하고 뒤틀린 생명체. 존재 만으로도 타인을 가장 어둡고 폭력적인 욕망에 따라 움직이게 만든다.
@@ -1033,7 +1384,11 @@ EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",식인의 습성을 가진 못생기고 야만적인 생명체들. 이 전쟁에 미친 종족들은 인상적인 힘과 수준낮은 지능으로 유명하다.
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.","엄청나게 겁이 많은데다 매우 약한 종족이다, 이 작은 파충류는 자신의 신체적인 약점을 사악하고 교활한 전략으로 극복한다."
 EntityName,abbot,수도원장
+EntityName,abyssal shark,
 EntityName,acid blob,산성 방울
+EntityName,acid elemental,
+EntityName,acid sphere,
+EntityName,acid spore,
 EntityName,acid worm,산성 벌레
 EntityName,acolyte,수행사제
 EntityName,adamantine golem,아다만티움 골렘
@@ -1049,8 +1404,15 @@ EntityName,adult shimmering dragon,성체 쉬머링 드래곤
 EntityName,adult silver dragon,성체 실버 드래곤
 EntityName,adult white dragon,성체 화이트 드래곤
 EntityName,adult yellow dragon,성체 옐로 드래곤
+EntityName,air binder,
 EntityName,air elemental,공기 정령
+EntityName,air maker,
+EntityName,air seeker,
+EntityName,air sphere,
+EntityName,albino rat,
+EntityName,alchemist,
 EntityName,Aleax,알릭스
+EntityName,almiraj,
 EntityName,ancient black dragon,고대 블랙 드래곤
 EntityName,ancient blue dragon,고대 블루 드래곤
 EntityName,ancient deep dragon,고대 딥 드래곤
@@ -1063,6 +1425,7 @@ EntityName,ancient silver dragon,고대 실버 드래곤
 EntityName,ancient white dragon,고대 화이트 드래곤
 EntityName,ancient yellow dragon,고대 옐로 드래곤
 EntityName,angel,천사
+EntityName,angel warrior,
 EntityName,animate object,생동화 사물
 EntityName,ape,유인원
 EntityName,Aphrodite,아프로디테
@@ -1070,17 +1433,30 @@ EntityName,apprentice,견습생
 EntityName,arc bug,방전 벌레
 EntityName,arch-lich,아크리치
 EntityName,archangel,대천사
+EntityName,archeologist,
 EntityName,Archmage Dirachi,대마법사 디라키
 EntityName,Archmage Flaynn,대마법사 플레인
 EntityName,archon,집정관
 EntityName,Archpriest Avvakrum,대사제 아바크룸
+EntityName,army captain,
+EntityName,army lieutenant,
+EntityName,army sergeant,
+EntityName,army soldier,
 EntityName,artisan,장인
+EntityName,ash elemental,
+EntityName,ash giant,
+EntityName,ashen cave bear,
+EntityName,ashen mummy,
 EntityName,Ashikaga Takauji,아시카가 타카우지
 EntityName,Asmodeus,아스모데우스
 EntityName,asphynx,어스핑크스
+EntityName,assassin,
 EntityName,assassin bug,암살 벌레
 EntityName,Assassin Mortimer,암살자 모티머
 EntityName,astral deva,아스트랄 데바
+EntityName,astral dog,
+EntityName,astral dragon,
+EntityName,astral puppy,
 EntityName,athol,아훌
 EntityName,attendant,수행원
 EntityName,Baalzebub,바알제붑
@@ -1092,6 +1468,7 @@ EntityName,baby deep dragon,새끼 딥 드래곤
 EntityName,baby gold dragon,새끼 골드 드래곤
 EntityName,baby green dragon,새끼 그린 드래곤
 EntityName,baby long worm,새끼 긴 벌레
+EntityName,baby mimic,
 EntityName,baby orange dragon,새끼 오렌지 드래곤
 EntityName,baby purple worm,새끼 보라색 벌레
 EntityName,baby red dragon,새끼 레드 드래곤
@@ -1111,8 +1488,10 @@ EntityName,basilisk,바실리스크
 EntityName,bat,박쥐
 EntityName,bearded devil,수염난 악마
 EntityName,beholder,비홀더
+EntityName,berserker,
 EntityName,bile worm,담즙 벌레
 EntityName,bile worm tail,담즙 벌레 꼬리
+EntityName,bishop,
 EntityName,black light,검은 빛
 EntityName,black marketeer,암거래상
 EntityName,black mould,검은 곰팡이
@@ -1123,26 +1502,37 @@ EntityName,black rat,검은 쥐
 EntityName,black troll,검은 트롤
 EntityName,black unicorn,흑색 유니콘
 EntityName,black wasp,검정 말벌
+EntityName,blind cave bat,
+EntityName,blink dog,
+EntityName,blink puppy,
 EntityName,blinking eye,깜박이는 눈
 EntityName,blood imp,핏빛 임프
 EntityName,bloodshot eye,충혈된 눈
 EntityName,bloodworm,피벌레
 EntityName,blue jelly,푸른 젤리
 EntityName,blue light,푸른 빛
+EntityName,bog ogre,
 EntityName,bone devil,해골 악마
+EntityName,bone reaper,
+EntityName,brine elemental,
+EntityName,bronze golem,
 EntityName,brown mould,갈색 곰팡이
 EntityName,brown pudding,갈색 푸딩
 EntityName,brownie,브라우니
 EntityName,bugbear,버그베어
 EntityName,bull,황소
+EntityName,buraq,
 EntityName,burbling blob,거품 방울
+EntityName,bushi,
 EntityName,byakhee,비야키
+EntityName,Byakko,
 EntityName,captain,대위
 EntityName,carnivorous ape,육식성 유인원
 EntityName,carrion crawler,송장 벌레
 EntityName,caterwaul,캐터와울
 EntityName,catoblepas,캐토블레파스
 EntityName,cave bear,동굴곰
+EntityName,cave gnome,
 EntityName,cave spider,동굴 거미
 EntityName,cave troll,동굴 트롤
 EntityName,centipede,지네
@@ -1151,6 +1541,7 @@ EntityName,chameleon,카멜레온
 EntityName,changeling,체인질링
 EntityName,Charon,카론
 EntityName,chasme,캐즈미
+EntityName,cherubim,
 EntityName,chickatrice,치카트리스
 EntityName,chicken,닭
 EntityName,chief yeoman warder,요우먼 간수장
@@ -1170,6 +1561,7 @@ EntityName,crocodile,악어
 EntityName,Croesus,크로이소스
 EntityName,crystal golem,수정 골렘
 EntityName,Cthulhu,크툴루
+EntityName,cyan jelly,
 EntityName,cyclops,사이클롭스
 EntityName,dao,다오
 EntityName,dark cleric,어둠의 사제
@@ -1201,7 +1593,12 @@ EntityName,dracon,용인
 EntityName,dragon king,드래곤 킹
 EntityName,dretch,드레치
 EntityName,drow,드로우
+EntityName,drow mage,
+EntityName,drow monk,
+EntityName,drow priestess,
+EntityName,drow thief,
 EntityName,dryad,드라이어드
+EntityName,duck,
 EntityName,duergar,듀에르가
 EntityName,dung worm,줄지렁이
 EntityName,dust vortex,먼지 소용돌이
@@ -1220,6 +1617,7 @@ EntityName,earth seeker,대지 탐색자
 EntityName,earth sphere,대지 구체
 EntityName,echo,메아리
 EntityName,efreeti,이프리트
+EntityName,elder wizard,
 EntityName,electric eel,전기 뱀장어
 EntityName,elephant,코끼리
 EntityName,elf,엘프
@@ -1229,16 +1627,24 @@ EntityName,elf mummy,엘프 미라
 EntityName,elf zombie,엘프 좀비
 EntityName,Elwing,엘윙
 EntityName,embalmer,미라 제작자
+EntityName,ember panther,
+EntityName,ember spitting beetle,
 EntityName,emerald golem,에메랄드 골렘
+EntityName,energy elemental,
 EntityName,energy vortex,에너지 소용돌이
 EntityName,erinys,에리니에스
+EntityName,eshim,
 EntityName,ettin,에틴
 EntityName,ettin mummy,에틴 미라
 EntityName,ettin zombie,에틴 좀비
+EntityName,explosive elemental,
+EntityName,explosive sphere,
 EntityName,exterminator,말살자
+EntityName,fae dragon,
 EntityName,fairy,요정
 EntityName,Famine,기근
 EntityName,Father Dagon,아버지 다곤
+EntityName,female demon,
 EntityName,fiend,마귀
 EntityName,fire ant,화염 개미
 EntityName,fire elemental,화염 정령
@@ -1257,16 +1663,24 @@ EntityName,fog cloud,안개 구름
 EntityName,forest centaur,숲 켄타우로스
 EntityName,fox,여우
 EntityName,Frankenstein's Monster,프랑켄슈타인의 괴물
+EntityName,frost beetle,
 EntityName,frost binder,서리 구속자
+EntityName,frost cobra,
+EntityName,frost dwarf,
 EntityName,frost giant,서리 거인
+EntityName,frost long worm,
+EntityName,frost lynx,
 EntityName,frost maker,서리 발생자
 EntityName,frost seeker,서리 탐색자
 EntityName,frost sphere,서리 구체
+EntityName,frost wraith,
+EntityName,galgalim,
 EntityName,gargoyle,가고일
 EntityName,garter snake,가터뱀
 EntityName,gas spore,가스 포자
 EntityName,gecko,도마뱀붙이
 EntityName,gelatinous cube,젤라틴 큐브
+EntityName,General Breetai,
 EntityName,genetic engineer,유전 공학자
 EntityName,Geryon,게리온
 EntityName,ghast,가스트
@@ -1284,6 +1698,7 @@ EntityName,giant crab,거대 게
 EntityName,giant eel,거대 뱀장어
 EntityName,giant flea,거대 벼륙
 EntityName,giant frog,거대 개구리
+EntityName,giant hamster,
 EntityName,giant king,거인 왕
 EntityName,giant louse,거대 진디
 EntityName,giant mimic,거대 미믹
@@ -1297,6 +1712,7 @@ EntityName,giant termite,거대 흰개미
 EntityName,giant tick,거대 진드기
 EntityName,giant wasp,거대 말벌
 EntityName,giant zombie,거인 좀비
+EntityName,Gianta Klaus,
 EntityName,gibberling,지버링
 EntityName,gila monster,독도마뱀
 EntityName,Girtab,기르타브
@@ -1321,8 +1737,10 @@ EntityName,goblin king,고블린 왕
 EntityName,gold golem,금 골렘
 EntityName,golden naga,금색 나가
 EntityName,golden naga hatchling,새끼 금색 나가
+EntityName,grave mimic,
 EntityName,great orc,거대 오크
 EntityName,green elf,그린 엘프
+EntityName,green jelly,
 EntityName,green mould,녹색 곰팡이
 EntityName,green slime,녹색 슬라임
 EntityName,gremlin,그렘린
@@ -1338,7 +1756,10 @@ EntityName,guide,가이드
 EntityName,Guildmaster Vaughn,길드마스터 보근
 EntityName,Guru Quilion,구루 퀼리온
 EntityName,gypsy,집시
+EntityName,hag,
 EntityName,halfling,하플링
+EntityName,halfling female caveman,
+EntityName,halfling male caveman,
 EntityName,harpy,하피
 EntityName,hell hound,헬하운드
 EntityName,hell hound pup,새끼 헬하운드
@@ -1363,9 +1784,11 @@ EntityName,human,인간
 EntityName,human king,인간 왕
 EntityName,human mummy,인간 미라
 EntityName,human zombie,인간 좀비
+EntityName,huntress,
 EntityName,hydra,히드라
 EntityName,ice devil,얼음 악마
 EntityName,ice elemental,얼음 정령
+EntityName,ice giant,
 EntityName,ice troll,얼음 트롤
 EntityName,ice vortex,얼음 소용돌이
 EntityName,iguana,이구아나
@@ -1381,8 +1804,10 @@ EntityName,jackalwere,인간자칼
 EntityName,jaguar,재규어
 EntityName,jellyfish,해파리
 EntityName,jiggling blob,흔들리는 방울
+EntityName,journeyman wizard,
 EntityName,juggernaut,저거넛
 EntityName,Juiblex,쥬블렉스
+EntityName,jungle kobold,
 EntityName,juvenile raven,어린 큰까마귀
 EntityName,Kaloi Thrym,어둠의 군주
 EntityName,kamadan,카마단
@@ -1408,6 +1833,7 @@ EntityName,kobold warrior,코볼트 전사
 EntityName,kobold zombie,코볼트 좀비
 EntityName,komodo dragon,코모도 도마뱀
 EntityName,kraken,크라켄
+EntityName,Krull,
 EntityName,lamb,새끼 양
 EntityName,Lareth,라레스
 EntityName,large cat,큰 고양이
@@ -1418,6 +1844,7 @@ EntityName,large mimic,큰 미믹
 EntityName,large pile of killer coins,큰 살인 동전더미
 EntityName,larva,애벌레
 EntityName,lava blob,용암 방울
+EntityName,lava troll,
 EntityName,leather golem,가죽 골렘
 EntityName,lemure,레무어
 EntityName,leocrotta,레오크로타
@@ -1434,6 +1861,7 @@ EntityName,lizardman,리자드맨
 EntityName,lizardman berserker,리자드맨 광전사
 EntityName,lizardman chieftain,리자드맨 족장
 EntityName,lizardman mage,리자드맨 마법사
+EntityName,lizardman samurai,
 EntityName,lizardman shaman,리자드맨 주술사
 EntityName,lizardman warrior,리자드맨 전사
 EntityName,Lolth,롤쓰
@@ -1456,18 +1884,24 @@ EntityName,master mind flayer,마스터 마인드 플레이어
 EntityName,mastodon,마스토돈
 EntityName,Maugneshaagar,마우그네샤가
 EntityName,medusa,메두사
+EntityName,melanistic moccasin,
 EntityName,mellified man,밀인
 EntityName,merchant,상인
+EntityName,Merdude,
 EntityName,Metamorphius,메타모르피우스
+EntityName,midnight jelly,
 EntityName,migo drone,미고
 EntityName,migo queen,미고 여왕
 EntityName,migo warrior,미고 전사
+EntityName,mimic,
+EntityName,mimic coins,
 EntityName,mind flayer,마인드 플레이어
 EntityName,minotaur,미노타우로스
 EntityName,minotaur lord,미노타우로스 군주
 EntityName,mist wolf,안개 늑대
 EntityName,mithril golem,미스릴 골렘
 EntityName,mobat,모뱃
+EntityName,molten gila monster,
 EntityName,monadic deva,모나딕 데바
 EntityName,mongbat,몽뱃
 EntityName,monkey,원숭이
@@ -1478,6 +1912,7 @@ EntityName,mountain nymph,산악 님프
 EntityName,movanic deva,모바닉 데바
 EntityName,mugger,노상강도
 EntityName,mumak,무막
+EntityName,mystical dragon,
 EntityName,nabassu,나바수
 EntityName,nalfeshnee,낼페쉬니
 EntityName,Nalzok,낼족
@@ -1488,9 +1923,12 @@ EntityName,newt,영원
 EntityName,nickelpede,니켈피드
 EntityName,nightgaunt,나이트건트
 EntityName,nightmare,나이트메어
+EntityName,noble elf,
 EntityName,Norn,노른
+EntityName,nun,
 EntityName,nupperibo,너퍼리보
 EntityName,nurse,간호사
+EntityName,Nymph Princess,
 EntityName,occultist,비술사
 EntityName,ochre jelly,황토색 젤리
 EntityName,ogre,오우거
@@ -1507,6 +1945,7 @@ EntityName,orc grunt,오크 보병
 EntityName,orc king,오크 왕
 EntityName,orc mummy,오크 미라
 EntityName,orc shaman,오크 주술사
+EntityName,orc thief,
 EntityName,orc warrior,오크 전사
 EntityName,orc zombie,오크 좀비
 EntityName,Orcus,오르커스
@@ -1514,6 +1953,7 @@ EntityName,Orion,오리온
 EntityName,owlbear,아울베어
 EntityName,pack rat,주머니쥐
 EntityName,page,종자
+EntityName,pale cave spider,
 EntityName,panther,표범
 EntityName,pantherwere,인간표범
 EntityName,paper golem,종이 골렘
@@ -1524,6 +1964,10 @@ EntityName,Pelias,펠리아스
 EntityName,Pestilence,역병
 EntityName,phase spider,위상변환 거미
 EntityName,phase worm,위상변환 벌레
+EntityName,pheral khit,
+EntityName,pheral pharaoh,
+EntityName,pheral sentinel,
+EntityName,pheral vizier,
 EntityName,pig,돼지
 EntityName,pile of killer coins,살인 동전더미
 EntityName,piranha,피라냐
@@ -1531,10 +1975,13 @@ EntityName,pit bull,핏불 테리어
 EntityName,pit fiend,구덩이 악마
 EntityName,pit viper,구덩이 살모사
 EntityName,pixie,픽시
+EntityName,plague jackal,
+EntityName,plague zombie,
 EntityName,plains centaur,평원 켄타우로스
 EntityName,Planetar,플레네타
 EntityName,plasmoid,플라스마이드
 EntityName,plastic golem,플라스틱 골렘
+EntityName,poison alchemist,
 EntityName,pony,조랑말
 EntityName,proudfoot,프라우드풋
 EntityName,purple worm,보라색 벌레
@@ -1554,6 +2001,7 @@ EntityName,rancid jelly,썩은 젤리
 EntityName,rat king,쥐 대왕
 EntityName,ratwere,인간쥐
 EntityName,recluse spider,은둔거미
+EntityName,red jelly,
 EntityName,red light,붉은 빛
 EntityName,red mould,적색 곰팡이
 EntityName,red naga,적색 나가
@@ -1561,6 +2009,10 @@ EntityName,red naga hatchling,새끼 적색 나가
 EntityName,rhaumbusun,람부선
 EntityName,rhumbat,럼뱃
 EntityName,robot,로봇
+EntityName,robot female,
+EntityName,robot male vampire gunslinger,
+EntityName,robot sentry,
+EntityName,robot singer,
 EntityName,rock kobold,바위 코볼트
 EntityName,rock mole,바위 두더지
 EntityName,rock piercer,바위 피어서
@@ -1570,6 +2022,7 @@ EntityName,roshi,노사
 EntityName,rot worm,부패한 벌레
 EntityName,rothé,로세
 EntityName,ruby golem,루비 골렘
+EntityName,runicorn,
 EntityName,rust monster,녹 괴물
 EntityName,rutterkin,러터킨
 EntityName,sabre-toothed cat,검치호랑이
@@ -1578,10 +2031,13 @@ EntityName,sandestin,산데스틴
 EntityName,sapphire golem,사파이어 골렘
 EntityName,sasquatch,사스쿼치
 EntityName,satyr,사티로스
+EntityName,savage brute,
+EntityName,savage stalker,
 EntityName,scorpion,전갈
 EntityName,Scorpius,스콜피우스
 EntityName,scramper,스크램퍼
 EntityName,seal,물개
+EntityName,seraphim,
 EntityName,sergeant,병장
 EntityName,sewer rat,시궁쥐
 EntityName,shade,그늘
@@ -1589,6 +2045,7 @@ EntityName,shadow,그림자
 EntityName,shadow ogre,그림자 오거
 EntityName,shadow wolf,그림자 늑대
 EntityName,Shaman Karnov,무당 카노브
+EntityName,shaolin monk,
 EntityName,shark,상어
 EntityName,sheep,양
 EntityName,shifter,시프터
@@ -1599,6 +2056,7 @@ EntityName,shock seeker,전격 탐색자
 EntityName,shock sphere,전격 구체
 EntityName,shoggoth,쇼거스
 EntityName,shrieker,비명 괴물
+EntityName,silver golem,
 EntityName,Sir Lorimar,로리마 경
 EntityName,skeleton,해골
 EntityName,small mimic,작은 미믹
@@ -1610,6 +2068,9 @@ EntityName,snow orc,눈 오크
 EntityName,Solar,솔라
 EntityName,soldier,병사
 EntityName,soldier ant,병정 개미
+EntityName,sonic elemental,
+EntityName,sonic sphere,
+EntityName,Soul Summoner,
 EntityName,spark bug,스파크 벌레
 EntityName,spider queen,여왕 거미
 EntityName,spiderwere,인간거미
@@ -1623,24 +2084,36 @@ EntityName,static blob,정전기 방울
 EntityName,steam vortex,증기 소용돌이
 EntityName,stone giant,암석 거인
 EntityName,stone golem,암석 골렘
+EntityName,storm ape,
+EntityName,storm coyote,
 EntityName,storm giant,폭풍 거인
+EntityName,storm raven,
 EntityName,straw golem,밀짚 골렘
 EntityName,student,학생
 EntityName,succubus,서큐버스
+EntityName,sun elf,
 EntityName,swamp kobold,늪 코볼트
+EntityName,swamp orc,
+EntityName,tar pudding,
+EntityName,tempter,
+EntityName,temptress,
 EntityName,tengu,텐구
+EntityName,thief,
 EntityName,Thorin,토린
 EntityName,Thoth Amon,토트 아몬
 EntityName,thug,깡패
 EntityName,tiger,호랑이
 EntityName,tigerwere,인간호랑이
+EntityName,tin golem,
 EntityName,titan,타이탄
 EntityName,titanothere,티타노테레
 EntityName,topaz golem,토파즈 골렘
 EntityName,tortle,토틀
 EntityName,tracker,사냥꾼
+EntityName,trader,
 EntityName,transmuter,변환술사
 EntityName,trapper,트래퍼
+EntityName,traveller,
 EntityName,treant,트렌트
 EntityName,troll,트롤
 EntityName,troll mummy,트롤 미라
@@ -1658,6 +2131,7 @@ EntityName,vampire mage,뱀파이어 마법사
 EntityName,Van Helsing,반 헬싱
 EntityName,Vecna,베크나
 EntityName,violet fungus,보라색 곰팡이
+EntityName,violet jelly,
 EntityName,vorpal jabberwock,보팔 재버워크
 EntityName,vrock,브록
 EntityName,war orc,워 오크
@@ -1687,6 +2161,7 @@ EntityName,weretiger,호랑이인간
 EntityName,werewolf,늑대인간
 EntityName,white unicorn,백색 유니콘
 EntityName,wight,와이트
+EntityName,wind sphere,
 EntityName,winged gargoyle,날개 달린 가고일
 EntityName,winter wolf,겨울 늑대
 EntityName,winter wolf cub,새끼 겨울 늑대
@@ -1722,6 +2197,7 @@ EntityName,young shimmering dragon,어린 쉬머링 드래곤
 EntityName,young silver dragon,어린 실버 드래곤
 EntityName,young white dragon,어린 화이트 드래곤
 EntityName,young yellow dragon,어린 옐로 드래곤
+EntityName,zombietree,
 EntityName,zruty,즈루티
 EquipAction,employ,고용하기
 EquipAction,purse,지갑에 담기
@@ -1763,9 +2239,15 @@ FeatureName,bed,침대
 FeatureName,fountain,분수
 FeatureName,grave,묘비
 FeatureName,pentagram,오망성
+FeatureName,pyramid,
 FeatureName,sarcophagus,석관
+FeatureName,sink,
 FeatureName,stall,노점
 FeatureName,throne,왕좌
+FeatureName,toilet,
+FeatureName,wooden sign,
+FeatureName,wooden stool,
+FeatureName,wooden table,
 FeatureName,workbench,작업대
 FormatText,{ActionCount} action,{ActionCount} 행동
 FormatText,{ActionCount} actions,{ActionCount} 행동
@@ -2056,13 +2538,17 @@ GradeName,exotic,특별한
 GradeName,standard,일반
 GroundDescription,The cool stone surface has immaculate craftsmanship but is marked by damage and time.,이 차가운 돌 표면은 뛰어난 솜씨로 만들어졌지만 세월이 지나면서 손상되었다.
 GroundName,cave floor,동굴 바닥
+GroundName,cave path,
 GroundName,chasm,갈라진 틈
+GroundName,cloud,
+GroundName,deep water,
 GroundName,dirt,흙 바닥
 GroundName,gold floor,황금 바닥
 GroundName,granite floor,화강암 바닥
 GroundName,grass,풀밭
 GroundName,hive floor,벌집 바닥
 GroundName,ice,얼음
+GroundName,lattice floor,
 GroundName,lava,용암
 GroundName,marble floor,대리석 바닥
 GroundName,metal floor,금속 바닥
@@ -2070,33 +2556,51 @@ GroundName,moss,이끼
 GroundName,obsidian floor,흑요석 바닥
 GroundName,sand,모래
 GroundName,sewer floor,하수도 바닥
+GroundName,shallow water,
 GroundName,snow,눈
 GroundName,stone floor,석재 바닥
 GroundName,stone path,석재 복도
 GroundName,water,물
 GroundName,wooden floor,나무 바닥
+HordeName,acid foundry,
+HordeName,air foundry,
+HordeName,albino rat,
+HordeName,angelic choir,
 HordeName,ant,개미
 HordeName,ape,유인원
+HordeName,army patrol,
+HordeName,army platoon,
+HordeName,army squad,
+HordeName,ash foundry,
+HordeName,astral dog,
 HordeName,bat,박쥐
 HordeName,bee,벌
 HordeName,beetle,딱장벌레
+HordeName,blink dog,
+HordeName,brine foundry,
 HordeName,cockroach,바퀴벌레
 HordeName,couatl,코아틀
 HordeName,coyote,코요테
 HordeName,demon,악마
 HordeName,drow,드로우
+HordeName,drow enclave,
 HordeName,dwarf,드워프
 HordeName,electric bug,전기 버그
 HordeName,elf,엘프
+HordeName,energy foundry,
+HordeName,explosive foundry,
 HordeName,flea,벼룩
 HordeName,garter snake,가터뱀
 HordeName,gibberling,지버링
 HordeName,gnome,노움
 HordeName,goblin,고블린
+HordeName,golem workshop,
 HordeName,grimlock,그림록
 HordeName,harpy,하피
+HordeName,heavenly host,
 HordeName,hell hound,헬하운드
 HordeName,jackal,자칼
+HordeName,jelly cistern,
 HordeName,keystone,키스톤
 HordeName,kobold,코볼트
 HordeName,lemure,레무어
@@ -2105,14 +2609,20 @@ HordeName,louse,진디
 HordeName,mane,마네스
 HordeName,mangler,도살자
 HordeName,migo,미고
+HordeName,mimic nest,
 HordeName,mould,곰팡이
 HordeName,ogre,오우거
 HordeName,orc,오크
+HordeName,pheral tomb,
+HordeName,plague jackal,
 HordeName,rat,쥐
 HordeName,rothé,로세
 HordeName,scorpion,전갈
+HordeName,sonic foundry,
 HordeName,spider,거미
 HordeName,spore,포자
+HordeName,storm coyote,
+HordeName,tar pudding,
 HordeName,termite,흰개미
 HordeName,tick,진드기
 HordeName,tsetse fly,체체파리
@@ -2124,15 +2634,36 @@ HordeName,wolf,늑대
 HordeName,worm,벌레
 HordeName,yeoman,요우먼
 HordeName,zombie,좀비
+ItemDescription,"A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.",
+ItemDescription,"A barbed iron hook on a long coil of rope, thrown out and hauled back in.",
+ItemDescription,"A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.",
+ItemDescription,"A branched silver candle-holder, its every arm lit at once.",
+ItemDescription,"A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.",
+ItemDescription,"A canvas roll of bandages, salves and sutures for treating wounds in the field.",
+ItemDescription,"A ceremonial double-bitted axe, its twin blades curved like a crescent moon.",
+ItemDescription,"A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.",
+ItemDescription,"A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.",
 ItemDescription,A cloth mask that completely obstructs the wearer's vision.,착용자의 시야를 완전히 가리는 천 마스크.
 ItemDescription,"A collection of utensils, including empty tins and butchering tools, for packing corpses so as to condense them.",시체를 압축해서 담기 위한 빈 통과 정육 도구등의 식기 모음.
 ItemDescription,A compact hand-held firearm.,휴대용 소형 화기.
+ItemDescription,"A crudely hammered throwing disc with a jagged, uneven rim, more likely to tear than to cut cleanly.",
+ItemDescription,"A curved funerary blade inlaid with gold, once carried by a pharaonic guardian charged with keeping the dead in their tombs.",
+ItemDescription,"A curved single-edged blade mounted on a long oaken shaft, prized by the warrior monks of the far east.",
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.",기병들이 주로 사용하는 구부러진 외날검. 지하세계의 존재들에게 특히 효과적이다.
 ItemDescription,A curved single-edged blade often used by cavalry.,기병들이 주로 사용하는 구부러진 외날검
 ItemDescription,A curved yellow fruit and a great source of fibre.,훌륭한 섬유질 공급원인 구부러진 노란 과일.
+ItemDescription,A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.,
+ItemDescription,A fine-grained stone for putting an edge back on a tired blade.,
+ItemDescription,"A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.",
+ItemDescription,A flat black stone used since antiquity to tell real gemstones from paste and glass.,
+ItemDescription,A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.,
 ItemDescription,"A flat throwing weapon made of wood, often used for hunting.",나무로 만든 납작한 투척 무기. 주로 사냥에 사용된다.
 ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.","납작하고 동그란 케이크. 알고 있었겠지만, 팬으로 요리해서 만들었다."
+ItemDescription,"A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.",
 ItemDescription,A foreign device which creates perfect visual depictions of reality.,현실의 시각적 정보를 매우 완벽하게 담아내는 이계의 장치.
+ItemDescription,"A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.",
+ItemDescription,"A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.",
+ItemDescription,"A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.",
 ItemDescription,A hand-held brass horn.,휴대용 놋쇠 뿔나팔.
 ItemDescription,"A hard rock, smooth and therefore aerodynamic.",매끈해서 공기 역학적으로 생긴 단단한 돌.
 ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,"단단한 나무 막대. 이렇게 보여도, 훈련된 자가 들면 무시무시한 무기가 된다."
@@ -2140,10 +2671,16 @@ ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.","푸
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.","무겁고 긴 양날검. 롱소드와 비슷하지만, 양손으로 사용하기 위해 특별히 크기를 키웠다."
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,근접전투를 상정해 만들어진 무거운 강철 망치.
 ItemDescription,A heavy suit of armour made up of many strips of metal.,수많은 금속 조각으로 만들어진 중갑옷.
+ItemDescription,"A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.",
 ItemDescription,"A horizontal, mechanically-aided bow and arrow with a shoulder stock.",어깨에 견착할 수 있도록 만들어진 기계식 수평 활.
 ItemDescription,A key designed to open all mundane locks.,모든 일반적인 잠금장치를 열 수 있게 만들어진 열쇠.
+ItemDescription,"A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.",
 ItemDescription,"A leather pouch set between two cords, meant for launching small projectiles.","작은 발사체를 쏠 수 있도록, 두 끈 사이에 가죽 주머니가 달려있다."
+ItemDescription,"A length of sturdy rope with a clasp, for keeping a tame animal close at hand.",
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.","나무에 금속으로 보강된, 가벼운 팔뚝 보호대."
+ItemDescription,"A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.",
+ItemDescription,A long cane rod strung with line and hook. Best used beside open water.,
+ItemDescription,"A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.","던질 수 있도록 무게가 잘 잡힌, 길쭉한 금속 칼."
 ItemDescription,A long pipe meant for shooting darts through force of breath.,숨을 뱉어 다트를 발사할 수 있도록 만들어진 길쭉한 파이프.
 ItemDescription,A long thrusting polearm best suited to mounted combat.,"마상 전투에 최적화된, 찌르기용 길쭉한 폴암."
@@ -2151,68 +2688,110 @@ ItemDescription,A long-shafted arrow with a distinctive tip.,독특한 촉이 �
 ItemDescription,"A long, flexible leather thong. Unexpectedly sharp.",길고 유연한 가죽 끈. 의외로 날카롭다.
 ItemDescription,"A long, flowing garment, with long sleeves and a hood.",긴 소매와 후드가 달린 헐렁하고 긴 옷.
 ItemDescription,A mace that is spiked on its head.,머리에 뾰족한 가시가 돋친 메이스.
+ItemDescription,"A massive adamantine maul, its head as large as a barrel stave, that shrugs off the recoil of its own swing.",
+ItemDescription,"A massive, mithril-shod maul, its head as large as a barrel stave.",
 ItemDescription,A meal made from the stomach lining of an animal.,동물의 위나 내장으로 만든 음식물.
+ItemDescription,"A miniature crossbow of elven design, light enough to be drawn and fired one-handed without a stirrup.",
+ItemDescription,"A monstrous greatsword forged with three parallel blades fused along a single spine, each edge catching the light at a different angle.",
 ItemDescription,"A package of preserved meats, all dried and chewy.",말려서 보관하는 고기 꾸러미. 꼭꼭 씹어 먹어야 한다.
+ItemDescription,"A pair of gauntlets ringed with jagged knuckle-spikes, made to turn a punch into a wound.",
+ItemDescription,A pair of solid iron-plated boots that guard the shin and instep at the cost of a good deal of weight.,
 ItemDescription,A pair of sturdy leather boots which extend upward until just below the knee.,무릎 바로 아래까지 오는 튼튼한 가죽 부츠 한 켤레.
 ItemDescription,A pair of sturdy leather boots which extend upwards to just above the ankle.,발목 바로 위까지 오는 튼튼한 가죽 부츠 한 켤레.
+ItemDescription,"A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.",
+ItemDescription,"A physician's instrument for listening to a heartbeat -- yours, or something else's.",
+ItemDescription,"A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.",
+ItemDescription,"A plain, undyed shirt of woven cloth, worn under armour or on its own.",
 ItemDescription,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.",단단한 나무 손잡이에 수직으로 뾰족한 쇠막대기가 달려 있어 딱딱한 표면을 꿰뚫는 데 사용된다.
 ItemDescription,A pointed metal cylinder meant to be discharged from a firearm.,화기에서 발사되는 뾰족한 금속 원통.
+ItemDescription,A polished sheet of silvered glass. Some things recoil from their own reflection.,
 ItemDescription,A portable source of light fashioned out of copper and fuelled by oil.,기름을 연료로 사용하고 구리로 된 휴대용 광원.
 ItemDescription,A projectile consisting of a wooden shaft with a sharp metal tip at its front and stabilising fins at its rear.,"나무막대기의 앞에는 날카로운 금속 촉이, 뒤에는 균형을 잡는 깃이 달린 발사체."
+ItemDescription,"A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.",
 ItemDescription,A righteous sword forged by a revered blacksmith many years ago who set out to hone his craft and to create the ultimate blade. The noble intent of its creator lingers in this weapon to cut down the wicked and protect the innocent.,오래전 완벽한 날을 만들기 위해 끊임없이 노력한 장인이 제작한 정의의 검. 악을 베고 죄 없는 사람을 지키려는 장인의 의지가 담겨있다.
+ItemDescription,A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.,
 ItemDescription,"A sanctimonious biscuit. A miracle to the meek, a scourge to the undead.","신성한 비스킷. 온순한 자들에겐 기적이요, 언데드에게는 재앙이다."
 ItemDescription,"A semi-rigid weapon made up of a notched wooden shaft with a drawstring attached to both ends, used to launch arrows.","화살을 쏠때 사용하는, 휘어진 나무 자루의 양 끝에 활시위가 이어진 유연한 무기."
+ItemDescription,"A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.",
 ItemDescription,A sharp iron wedge fashioned to a sturdy handle.,날카로운 철제 쐐기가 튼튼한 손잡이에 달려있다.
 ItemDescription,"A sharp metal throwing weapon, smaller than a hand and shaped like a star.","손바닥보다 작은, 별 모양의 날카로운 금속 투척 무기."
 ItemDescription,A short and light double-edged blade.,짧고 가벼운 양날검.
+ItemDescription,"A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.",
+ItemDescription,"A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.",
+ItemDescription,"A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.",
 ItemDescription,"A slimy, scaly sea creature, in its entirety. Good for a meal.",끈적끈적한 비늘투성이 바다 생명체. 좋은 먹을거리다.
 ItemDescription,A small cutting utensil made of metal with a wooden handle.,나무 손잡이가 달린 금속으로 된 작은 절삭 기구.
+ItemDescription,A small glass vial holding a captive mote of light.,
+ItemDescription,A small hooked blade made for prying the lid off a sealed tin.,
 ItemDescription,A small iron tool designed for opening all sorts of locks.,모든 종류의 자물쇠를 열 수 있도록 만들어진 금속 도구.
 ItemDescription,A small missile with a pointed tip meant for throwing.,던질 수 있게 만들어진 끝이 뾰족한 작은 발사체.
 ItemDescription,A small missile with a reservoir of liquid delivered through a hollow pointed tip.,액체를 담아 구멍 난 끝으로 내보낼 수 있는 작은 발사체.
+ItemDescription,"A small, chalky tablet of uncertain origin. Best swallowed quickly.",
+ItemDescription,"A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.",
+ItemDescription,"A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.",
 ItemDescription,"A soft-brimmed hat, somewhat out of fashion.",약간 촌스러운 부드러운 챙이 달린 모자.
 ItemDescription,A sophisticated bludgeon with a heavy iron head.,육중한 무쇠 머리가 달린 세련된 몽둥이.
 ItemDescription,A spacious bag made of incredibly stretchy cotton.,믿을 수 없을 정도로 신축성이 좋은 천으로 만든 넓은 가방.
 ItemDescription,A spacious cloth bag.,널찍한 천 가방.
+ItemDescription,"A staff of living, unworked rock. What shapes matter cannot itself be unmade.",
 ItemDescription,A stick of cured meat.,보존된 고기 막대.
 ItemDescription,"A stick of highly explosive material, with a short fuse on one end.","한쪽 끝에 도화선이 달린, 폭발성 강한 재료로 된 막대기."
+ItemDescription,A stone infused with restorative magic. It crumbles a little more each time it is used.,
+ItemDescription,A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.,
+ItemDescription,"A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.",
 ItemDescription,"A straight, double-edged and often cruciform blade.",십자가 모양으로 생긴 곧은 양날검.
+ItemDescription,"A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.",
 ItemDescription,A sturdy and solid mineral.,견고하고 단단한 광물.
 ItemDescription,A suit of armour made from metal rings sewn onto a foundation of leather or cloth.,가죽이나 천 위에 금속 고리를 기워서 만든 갑옷
+ItemDescription,"A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.",
 ItemDescription,"A surviving portion of the legendary wall of Verimurus, an ancient elven city said to have lasted since time immemorial. However, not even the mightiest walls could withstand the endless onslaught of the dragons. Now the enchanted walls stand alone over the land that once held them.",태고적부터 있었다 전해지는 고대 엘프 도시의 전설적인 벽 베리무루스의 남아 있는 부분. 하지만 가장 튼튼한 벽조차도 드래곤들의 끝없는 맹공을 견딜 수 없었다. 지금은 한때 뿌리박고 있었던 대지 위에 외로이 서 있을 뿐이다.
 ItemDescription,"A sweet citrus fruit, coloured eponymously.",이름과 같은 색깔인 달콤한 시트러스 과일.
 ItemDescription,"A sweet custard-filled pie with a thin crust, topped with whipped cream.",휘핑 크림을 얹은 얇은 껍질의 커스타드 파이.
 ItemDescription,"A sweet, round fruit, of the red variety. Reportedly a great supplement to your physical health.",붉고 달콤한 둥근 과일. 건강에 아주 좋은 영양분 공급원이라 알려져있다.
+ItemDescription,"A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.",
 ItemDescription,"A tall, asymmetric bow.",길고 비대칭인 활.
+ItemDescription,"A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.",
 ItemDescription,"A thick leather coat, constructed to withstand weather and wear.",바래거나 해어지지 않게 만들어진 두꺼운 가죽 코트.
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.",두꺼운 나무 몽둥이. 폼은 안나지만 쓸만하다.
+ItemDescription,"A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,찌르는 것에 특화된 가늘고 날렵한 칼.
+ItemDescription,A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.,
 ItemDescription,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.",소규모 사냥에 사용되는 어깨에 견착할 수 있는 양손화기. 꽤 큰 타격을 준다.
 ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.","드워프의 뛰어난 기술과 장인정신으로 만들어졌지만, 오크들이 훔쳐서 다른 용도로 사용하고 있다. 긴 손잡이를 가진 이 기구는 말이나 와로그 위에서 가공할만한 위력을 발휘한다. 이 재앙같은 무기의 앞길을 막는 자에게 드릴을 가동시키는 전기가 방출되기도 한다."
+ItemDescription,"A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.",
 ItemDescription,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,길고 굽은 칼날과 각진 손잡이로 이루어진 농기구.
 ItemDescription,An ambiguous curiosity. It seems edible.,애매모호한 호기심 덩어리. 먹을 수 있어보인다.
 ItemDescription,An article of leather clothing covering the torso that hangs around the neck and on the shoulders.,목과 어깨에 걸쳐 몸통을 덮는 가죽 의상.
 ItemDescription,An article of waterproof cotton clothing covering the torso that hangs around the neck and on the shoulders.,목과 어깨에 걸쳐 몸통을 덮는 방수 의상
+ItemDescription,"An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.",
 ItemDescription,An elven travel food. It is incredibly satiating.,엘프들의 여행용 식량. 엄청난 포만감을 준다.
+ItemDescription,"An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.",
 ItemDescription,An extremely sharp little blade used for precise incisions.,정밀한 절개를 위해 사용되는 아주 날카로운 작은 칼.
 ItemDescription,An inconspicuous snack that tells deep secrets.,심오한 비밀을 알려주는 흔한 과자.
 ItemDescription,An iron projectile made up of a shaft with a sharpened square-pyramid tip.,날카로운 사각뿔 촉이 달린 철제 발사체.
+ItemDescription,"An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.",
 ItemDescription,"An orange root-vegetable, commonly believed to improve eyesight.",눈에 좋다고 알려져 있는 주황색 뿌리 채소.
+ItemDescription,"An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.",
 ItemDescription,"Boiled leather, moulded into a bodily shape to be donned as light armour.",삶은 가죽으로 몸에 딱 맞게 만든 가벼운 갑옷
 ItemDescription,"Bold, or just tacky?","대담한 것인가, 아니면 그냥 엉성한 것인가?"
 ItemDescription,Chain mail consists of a mesh of metal rings interlinked to form a flexible armour.,체인메일은 쇠고리를 그물처럼 엮은 유연한 갑옷이다.
+ItemDescription,"Fate itself bends around the wearer, keeping them exactly where the blow cannot land.",
 ItemDescription,"Forged deep underground by dwarven hands, this blade was made to slay the scaled beasts who sought to steal their treasures. Throughout the long years this blade has bathed in the blood of its winged prey. Now almost forgotten, it yearns again for the taste of dragon flesh.","보물을 훔쳐 가는 비늘달린 짐승을 죽이기 위해 지하세계에서 드워프들이 만든 칼. 오랜 세월 동안 날개 달린 먹잇감의 피에 적셔졌다. 지금은 거의 잊혀진 칼이지만, 다시금 용고기의 맛을 그리워하고 있다."
 ItemDescription,"Gazing into its crimson depths you can see the concentrated life essence of countless victims swirling inside of it. The artifact was completed in the moment of the creators' death, as his soul was claimed by his creation. Now residing among the souls of his former victims, his essence as an alchemist provides the stone with ultimate transmutative powers.","핏빛 심연 속에서 수많은 희생자들의 응축된 생명의 정수가 소용돌이 치는 것이 보인다. 이 무기는 제작자의 영혼을 빨아들여 그의 죽음으로 완성되었다. 이제 그가 희생시킨 다른 영혼들과 뒤섞여서, 그 연금술사의 정수가 이 돌에게 궁극의 변환 능력을 주었다."
+ItemDescription,"Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.",
 ItemDescription,Its high-quality elvish manufacture makes for an effective close combat weapon.,이 양질의 엘프제 무기는 근접전에 매우 효과적이다.
 ItemDescription,Leather armour with close-set studs so as to offer more protection.,보호 기능을 향상시키기 위해 징이 박혀있는 가죽 갑옷.
 ItemDescription,"Like a smaller variant of the katana, often used as a side-arm.",주로 부무장으로 사용되는 작은 카타나.
+ItemDescription,"Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.",
 ItemDescription,One segment of a particularly pungent and bulbous herb.,톡 쏘는 맛의 둥글납작한 뿌리 향신료의 한 조각.
 ItemDescription,Standard issue protective metal headgear.,표준형 금속 헤드기어.
+ItemDescription,"Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.",
 ItemDescription,"Sturdy leather garments fitted firm onto the hands, sheathing each finger individually.",손가락마다 따로 나누어 만들어서 손에 꼭 맞는 튼튼한 가죽 장갑.
 ItemDescription,The final sword forged by a once respected blacksmith who lost himself in the depths of the dungeon. His warped soul now inhabits this blade and lusts for blood. It is said that the one who wields this sword is coerced into cutting down friend and foe alike.,"던전 깊은 곳에서 사망한, 한때 존경받던 대장장이가 마지막으로 벼려낸 검. 대장장이의 뒤틀린 영혼이 이 검에 담긴 채 피에 목말라 있다. 이 검을 휘두루는 자는 적과 친구를 모두 베어내게 된다고 한다."
 ItemDescription,The head of a ranseur consists of a spear-tip affixed with a cross hilt at its base.,란서의 끝쪽에는 십자가 모양으로 창날이 붙어 있다.
 ItemDescription,The only coin that can be found and spent in the dungeon.,던전에서만 통용되는 유일한 화폐이다.
 ItemDescription,The snipped segment of a plant known for its antilycanthropic properties.,늑대인간 퇴치용으로 알려진 식물을 꺾은 가지.
+ItemDescription,"The spiral horn of a unicorn, its magic bound permanently into the artifact rather than spent in a single burst.",
 ItemDescription,The wearer will occasionally fly into uncontrollable rage lashing out at both friend and foe.,착용자는 이따금씩 통제할 수 없는 분노에 휩싸여 피아구분 없이 분노를 표출한다.
 ItemDescription,This ancient artifact is a marvel to behold with exquisite craftsmanship and unbridled digging power.,위대한 장인정신으로 만들어진 이 유물은 땅을 파고 바위를 쪼갤 때 막강한 위력을 발휘한다.
 ItemDescription,"This axe is specifically designed to facilitate deep, grievous wounds in combat. This large weapon is wielded in both hands.",이 도끼는 전투중에 깊고 심각한 상처를 입히기 위해 특별히 제작되었다. 이 커다란 무기는 양손으로 쥐어야 한다.
@@ -2221,6 +2800,7 @@ ItemDescription,This convenient vial of ink can be used to replenish your marker
 ItemDescription,This crudely made blade is still an effective throwing weapon.,이 칼은 조악할지 모르지만 여전히 효과적인 투척 무기이다.
 ItemDescription,This curious artifact somehow chastens those it strikes and submits them to your will.,이 수상한 유물은 적들을 꾸짖어서 당신의 의지에 따르게 한다.
 ItemDescription,This dwarvish manufactured sword is sturdy and suited to being wielded in the offhand.,이 드워프제 검은 단단하고 부무장으로 쓰기에 적합하다.
+ItemDescription,"This dwarvish punching blade is forged thicker than most, its crossbar reinforced to survive a full-strength thrust.",
 ItemDescription,This gemstone is made from hardened tree sap.,이 보석은 굳어서 단단해진 나무 수액으로 만들어졌다.
 ItemDescription,This glowing looking glass reveals glimpses of the future and corrupts your soul.,이 빛나는 유리는 미래의 한 순간을 보여주고 영혼을 타락시킨다.
 ItemDescription,This hammer is a four-pronged head mounted atop a long polearm stick. It bears a long spike on its reverse and an even longer spike extending from the very top. It proves effective at puncturing or smashing armour as well as dismounting riders.,"긴 장대에 네 갈래로 갈라진 망치 머리가 달려있다. 끝과 뒤에는 긴 가시가 나 갑옷을 부수거나 꿰뚫는 데에는 물론, 승마한 적을 떨어뜨리는 데에도 유용하다."
@@ -2250,6 +2830,7 @@ ItemDescription,This weapon consists of a spearhead mounted on a long wooden sha
 ItemDescription,"This weapon is a curved blade attached to a pole by binding the lower two-thirds of the blade to the side of the pole, to form a sort of axe.",이 무기의 옆에는 구부러진 칼의 2/3정도가 붙어 있어 도끼와 같은 형상을 하고 있다.
 ItemDescription,This withered hand is the last remnant of an ancient and powerful lich.,이 말라비틀어진 손은 고대의 강력한 리치의 마지막 잔재이다.
 ItemDescription,Tiny metal spikes thrown to the ground to impede mobility.,바닥에 뿌려서 이동을 방해하도록 만들어진 작은 금속 가시.
+ItemDescription,"Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.",
 ItemDescription,Winged sandals made of imperishable gold which fly the wearer swiftly and silently.,착용자를 빠르고 조용히 날게 하는 불변의 황금으로 만들어진 날개달린 샌들.
 ItemDescription,Zapping it at a wall creates a big tunnel.,벽에 사용하면 큰 터널이 생긴다.
 ItemName,adamantine arrow,아다만티움 화살
@@ -2257,16 +2838,25 @@ ItemName,adamantine axe,아다만티움 도끼
 ItemName,adamantine bident,아다만티움 이지창
 ItemName,adamantine bow,아다만티움 활
 ItemName,adamantine bullet,아다만티움 총알
+ItemName,adamantine crossbow bolt,
 ItemName,adamantine dagger,아다만티움 단검
 ItemName,adamantine dart,아다만티움 다트
 ItemName,adamantine greataxe,아다만티움 전투도끼
+ItemName,adamantine greatmace,
 ItemName,adamantine greatsword,아다만티움 대검
 ItemName,adamantine hatchet,아다만티움 손도끼
+ItemName,adamantine helm,
+ItemName,adamantine helmet,
+ItemName,adamantine katana,
+ItemName,adamantine lance,
 ItemName,adamantine long sword,아다만티움 롱소드
 ItemName,adamantine plate mail,아다만티움 판금 갑옷
+ItemName,adamantine poleaxe,
+ItemName,adamantine quarterstaff,
 ItemName,adamantine rapier,아다만티움 레이피어
 ItemName,adamantine sabre,아다만티움 세이버
 ItemName,adamantine short sword,아다만티움 숏소드
+ItemName,adamantine shuriken,
 ItemName,adamantine spear,아다만티움 창
 ItemName,adamantine two-handed sword,아다만티움 양손검
 ItemName,agate,마노
@@ -2300,8 +2890,10 @@ ItemName,Backpack,배낭
 ItemName,bag of holding,백 오브 홀딩
 ItemName,bag of tricks,속임수의 가방
 ItemName,banana,바나나
+ItemName,bandage,
 ItemName,banded mail,띠 갑옷
 ItemName,bardiche,바디시
+ItemName,baseball bat,
 ItemName,battle robe,전투 로브
 ItemName,battle staff,전투 지팡이
 ItemName,battle-axe,전투 도끼
@@ -2322,68 +2914,229 @@ ItemName,blowgun,블로우건
 ItemName,blue dragon scale mail,청색 용비늘 갑옷
 ItemName,blue dragon scales,청색 용비늘 가죽
 ItemName,blue glass bauble,파란색 싸구려 유리보석
+ItemName,book of acid splash,
 ItemName,book of acid stream,산성 줄기의 책
 ItemName,book of animate dead,사자소생의 책
 ItemName,book of animate object,사물 생동화의 책
+ItemName,book of arc conduit,
+ItemName,book of arcane blight,
+ItemName,book of arcane whetstone,
+ItemName,book of arcing bolt,
+ItemName,book of artificer's exchange,
+ItemName,book of atonement,
+ItemName,book of augury,
+ItemName,book of bane,
+ItemName,book of banshee wail,
+ItemName,book of barring ward,
+ItemName,book of battle fury,
 ItemName,book of bind undead,언데드 구속의 책
+ItemName,book of binding sphere,
+ItemName,book of black ice patch,
+ItemName,book of black plague,
+ItemName,book of blade blessing,
 ItemName,book of blank paper,빈 공책
+ItemName,book of bless,
 ItemName,book of blinking,점멸의 책
+ItemName,book of blurred form,
+ItemName,book of call of the pack,
+ItemName,book of calm,
+ItemName,book of caltrop swarm,
 ItemName,book of cancellation,무효화의 책
+ItemName,book of causeway,
+ItemName,book of chain lightning,
+ItemName,book of changeless ward,
 ItemName,book of charm,매혹의 책
+ItemName,book of chill grasp,
+ItemName,book of chromatic orb,
 ItemName,book of clairvoyance,투시의 책
+ItemName,book of claybind touch,
+ItemName,book of clear sight,
+ItemName,book of clouded mind,
+ItemName,book of command,
+ItemName,book of commune,
+ItemName,book of concussive blast,
 ItemName,book of cone of cold,냉기 원뿔의 책
 ItemName,book of confusion,혼란의 책
+ItemName,book of conjure barricade,
+ItemName,book of conjure boulder,
+ItemName,book of conjure guardian,
+ItemName,book of conjure homunculus,
+ItemName,book of conjure mount,
+ItemName,book of conjured pit,
+ItemName,book of consecration,
+ItemName,book of contagion,
+ItemName,book of corpse explosion,
+ItemName,book of corroding ray,
 ItemName,book of create familiar,패밀리어 생성의 책
+ItemName,book of creeping palsy,
+ItemName,book of crimson ichor lance,
 ItemName,book of crushing sphere,부서지는 구체의 책
 ItemName,book of curing,질병 치료의 책
+ItemName,book of danger sense,
 ItemName,book of darkness,어둠의 책
+ItemName,book of daze,
+ItemName,book of death ward,
+ItemName,book of death's bargain,
+ItemName,book of deathwatch,
 ItemName,book of deflection,굴절의 책
 ItemName,book of detect food,음식 탐지의 책
+ItemName,book of detect metal,
 ItemName,book of detect monsters,몬스터 탐지의 책
 ItemName,book of detect treasure,보물 탐지의 책
+ItemName,book of detect undead,
 ItemName,book of detect unseen,투명 탐지의 책
 ItemName,book of dig,굴착의 책
+ItemName,book of disarming ward,
+ItemName,book of discord,
 ItemName,book of disintegrate,분해의 책
+ItemName,book of dispel magic,
+ItemName,book of displacement,
+ItemName,book of divine favor,
+ItemName,book of divine intervention,
+ItemName,book of dominate mind,
 ItemName,book of drain life,생명력 흡수의 책
+ItemName,book of earthen colossus,
+ItemName,book of elemental servant,
+ItemName,book of elemental warding,
+ItemName,book of ember lance,
+ItemName,book of enlarge,
+ItemName,book of entangling vines,
+ItemName,book of entropic siphon,
 ItemName,book of extra healing,향상된 치유의 책
+ItemName,book of false life,
 ItemName,book of fear,공포의 책
+ItemName,book of find doors,
+ItemName,book of find traps,
 ItemName,book of finger of death,죽음의 손가락 책
 ItemName,book of fireball,화염구의 책
 ItemName,book of flaming sphere,타오르는 구체의 책
 ItemName,book of force bolt,포스 볼트의 책
+ItemName,book of foreknowledge,
+ItemName,book of freedom,
+ItemName,book of freedom of movement,
 ItemName,book of freezing sphere,얼어붙는 구체의 책
+ItemName,book of frost breath,
 ItemName,book of full healing,완전 회복의 책
+ItemName,book of gate,
+ItemName,book of gilding touch,
+ItemName,book of glacial spike,
+ItemName,book of grasping mind,
+ItemName,book of grave rot,
+ItemName,book of gravity well,
+ItemName,book of guided path,
+ItemName,book of harvest of souls,
 ItemName,book of haste,가속의 책
+ItemName,book of hazard sense,
 ItemName,book of healing,치유의 책
+ItemName,book of hex,
+ItemName,book of hexbind,
+ItemName,book of hideous laughter,
+ItemName,book of hold monster,
+ItemName,book of hold person,
+ItemName,book of holy word,
 ItemName,book of ice storm,얼음 폭풍의 책
 ItemName,book of identify,감정의 책
+ItemName,book of inner calm,
 ItemName,book of invisibility,투명화의 책
+ItemName,book of iron will,
+ItemName,book of ironbind door,
+ItemName,book of juggernaut ray,
 ItemName,book of jumping,도약의 책
+ItemName,book of keen search,
 ItemName,book of knock,노크의 책
+ItemName,book of legion of bone,
 ItemName,book of levitation,공중부양의 책
 ItemName,book of light,빛의 책
 ItemName,book of lightning bolt,번개의 책
 ItemName,book of living wall,살아있는 벽의 책
 ItemName,book of magic mapping,매직 매핑의 책
 ItemName,book of magic missile,매직 미사일의 책
+ItemName,book of meteoric cataclysm,
+ItemName,book of mind ken,
+ItemName,book of mind link,
+ItemName,book of mind spike,
+ItemName,book of mindrend,
+ItemName,book of mirror ward,
+ItemName,book of neutralize poison,
+ItemName,book of oracle's eye,
+ItemName,book of owl eyes,
+ItemName,book of petrifying touch,
 ItemName,book of phasing,투과의 책
+ItemName,book of planar anchor,
+ItemName,book of planar swap,
 ItemName,book of poison blast,독 분사의 책
 ItemName,book of polymorph,폴리모프의 책
+ItemName,book of porter's reach,
+ItemName,book of prayer,
+ItemName,book of premonition,
+ItemName,book of prismatic spray,
+ItemName,book of psychic shove,
 ItemName,book of raise dead,부활의 책
+ItemName,book of rally cry,
+ItemName,book of ray of enfeeblement,
+ItemName,book of reap,
 ItemName,book of regenerate,재생의 책
 ItemName,book of remove curse,저주 해제의 책
+ItemName,book of repelling ward,
+ItemName,book of repulsion,
 ItemName,book of restoration,능력치 복구의 책
+ItemName,book of revelation,
+ItemName,book of sanctuary,
+ItemName,book of scalding cloud,
+ItemName,book of searing light,
+ItemName,book of sense curse,
+ItemName,book of sense the restless,
+ItemName,book of sentinel ward,
+ItemName,book of shimmer shield,
 ItemName,book of shocking sphere,찌릿한 구체의 책
+ItemName,book of shrink,
+ItemName,book of silence,
+ItemName,book of simulacrum,
 ItemName,book of sleep,수면의 책
+ItemName,book of slick detonation,
+ItemName,book of slipping free,
 ItemName,book of slow,감속의 책
 ItemName,book of soaking sphere,적시는 구체의 책
+ItemName,book of song of discord,
+ItemName,book of spark bolt,
+ItemName,book of spectral shroud,
+ItemName,book of spirit leech,
+ItemName,book of spirit shield,
+ItemName,book of starfall,
+ItemName,book of steadfast ward,
+ItemName,book of stone to flesh,
+ItemName,book of stoneskin,
 ItemName,book of summoning,소환의 책
+ItemName,book of sunburst smite,
+ItemName,book of sunder gear,
+ItemName,book of swoon,
 ItemName,book of telekinesis,염동력의 책
+ItemName,book of telekinetic shove,
 ItemName,book of teleport away,텔레포트의 책
+ItemName,book of thunderclap,
+ItemName,book of timed combustion,
+ItemName,book of tongue tied,
 ItemName,book of toxic spray,맹독 분사
+ItemName,book of transmuter's mastery,
+ItemName,book of true appraisal,
 ItemName,book of turn undead,언데드 퇴치의 책
+ItemName,book of unbinding,
+ItemName,book of undying ward,
+ItemName,book of unseen hand,
+ItemName,book of vampiric feast,
+ItemName,book of veil of shadows,
+ItemName,book of wall breach,
+ItemName,book of wall of thorns,
 ItemName,book of walling,벽 건설의 책
+ItemName,book of ward of return,
+ItemName,book of warning ward,
+ItemName,book of web snare,
+ItemName,book of whispers of madness,
+ItemName,book of wildfire brand,
+ItemName,book of wither,
+ItemName,book of withering ray,
 ItemName,book of wizard lock,위저드 락의 책
+ItemName,book of world vision,
 ItemName,boomerang,부메랑
 ItemName,bow,활
 ItemName,brass bugle,황동 나팔
@@ -2397,9 +3150,13 @@ ItemName,bullwhip,가죽 채찍
 ItemName,c-ration,C형 전투식량
 ItemName,caltrops,마름쇠
 ItemName,can of grease,윤활유 통
+ItemName,candelabrum,
 ItemName,candy bar,초콜릿
 ItemName,Carapace,등껍질 갑옷
 ItemName,carrot,당근
+ItemName,Celestial Doom,
+ItemName,Celestial Kismet,
+ItemName,Celestial Portent,
 ItemName,chain barding,사슬 마갑
 ItemName,chain mail,체인메일
 ItemName,chakram,차크람
@@ -2415,6 +3172,7 @@ ItemName,cloak of deflection,굴절의 망토
 ItemName,cloak of displacement,변위의 망토
 ItemName,cloak of invisibility,투명화 망토
 ItemName,cloak of magic resistance,마법 저항 망토
+ItemName,cloth shirt,
 ItemName,clove of garlic,마늘 쪽
 ItemName,club,몽둥이
 ItemName,Colossal Excavator,대지 파괴자
@@ -2422,18 +3180,22 @@ ItemName,cornuthaum,마법사 모자
 ItemName,costume earrings,귀걸이 의상
 ItemName,cram ration,크램 전투식량
 ItemName,cream pie,크림 파이
+ItemName,credit card,
 ItemName,Creeping Sprout,기어오르는 새싹
+ItemName,crimson cloak,
 ItemName,crossbow,석궁
 ItemName,crossbow bolt,석궁 화살
 ItemName,crysknife,크리스나이프
 ItemName,crystal ball,수정구
 ItemName,crystal plate mail,수정 판금 갑옷
 ItemName,dagger,단검
+ItemName,darkstone,
 ItemName,dart,다트
 ItemName,Deadwood,고목나무 가지
 ItemName,Deagle,데저트 이글
 ItemName,deep dragon scale mail,자색 용비늘 갑옷
 ItemName,deep dragon scales,자색 용비늘 가죽
+ItemName,Demiurge,
 ItemName,dented pot,찌그러진 냄비
 ItemName,detonation key,기폭 열쇠
 ItemName,diamond,다이아몬드
@@ -2441,6 +3203,8 @@ ItemName,dilithium crystal,딜리시움 수정
 ItemName,dimension key,차원 열쇠
 ItemName,Dire Needle,흡혈의 송곳
 ItemName,disencumbrance boots,무제약의 부츠
+ItemName,doublet,
+ItemName,dragon horn,
 ItemName,Dragonbane,용살자
 ItemName,dread staff,공포의 지팡이
 ItemName,Drilanze,드릴란체
@@ -2453,6 +3217,7 @@ ItemName,drum of earthquake,지진의 드럼
 ItemName,dunce cap,바보 모자
 ItemName,dwarvish cloak,드워프제 망토
 ItemName,dwarvish iron helm,드워프제 철 투구
+ItemName,dwarvish katar,
 ItemName,dwarvish mattock,드워프제 곡괭이
 ItemName,dwarvish mithril-coat,드워프제 미스릴 갑옷
 ItemName,dwarvish roundshield,드워프제 원형 방패
@@ -2465,8 +3230,10 @@ ItemName,elven arrow,엘프제 화살
 ItemName,elven boots,엘프제 부츠
 ItemName,elven bow,엘프제 활
 ItemName,elven broadsword,엘프제 브로드소드
+ItemName,elven chakram,
 ItemName,elven cloak,엘프제 망토
 ItemName,elven dagger,엘프제 단검
+ItemName,elven hand crossbow,
 ItemName,elven leather helm,엘프제 가죽 투구
 ItemName,elven mithril-coat,엘프제 미스릴 갑옷
 ItemName,elven shield,엘프제 방패
@@ -2477,11 +3244,14 @@ ItemName,Escapist,도피자
 ItemName,eucalyptus leaf,유칼립투스 잎사귀
 ItemName,expensive camera,비싼 카메라
 ItemName,Eye of Aethiopica,에티오피카의 눈
+ItemName,eyeball,
 ItemName,Eyes of Ra,라의 눈
+ItemName,fancy boots,
 ItemName,fauchard,포샤르
 ItemName,fedora,중절모
 ItemName,fire horn,화염의 뿔
 ItemName,fish,생선
+ItemName,fishing pole,
 ItemName,flail,도리깨
 ItemName,flash staff,섬광의 지팡이
 ItemName,fleet robe,신속의 로브
@@ -2491,6 +3261,7 @@ ItemName,fly swatter,파리채
 ItemName,food ration,전투식량
 ItemName,fortune cookie,포춘 쿠키
 ItemName,frag grenade,파쇄 수류탄
+ItemName,frisbee,
 ItemName,frost horn,냉기의 뿔
 ItemName,fumble boots,실수의 장화
 ItemName,garnet,석류석
@@ -2501,10 +3272,26 @@ ItemName,gauntlets of phasing,투과의 건틀렛
 ItemName,gauntlets of power,힘의 건틀렛
 ItemName,Giantslayer,거인 학살자
 ItemName,glaive,글레이브
+ItemName,gold axe,
+ItemName,gold chakram,
 ItemName,gold coin,금화
+ItemName,gold dagger,
+ItemName,gold double vajra,
 ItemName,gold dragon scale mail,금색 용비늘 갑옷
 ItemName,gold dragon scales,금색 용비늘 가죽
+ItemName,gold flail,
 ItemName,Gold Key,황금 열쇠
+ItemName,gold khanda,
+ItemName,gold labrys,
+ItemName,gold longsword,
+ItemName,gold plate mail,
+ItemName,gold single vajra,
+ItemName,gold spade,
+ItemName,gold trident,
+ItemName,gold twohanded sword,
+ItemName,gold urumi,
+ItemName,gold whistle,
+ItemName,grappling hook,
 ItemName,great dagger,그레이트 대거
 ItemName,green dragon scale mail,녹색 용비늘 갑옷
 ItemName,green dragon scales,녹색 용비늘 가죽
@@ -2512,10 +3299,12 @@ ItemName,green glass bauble,초록색 싸구려 유리보석
 ItemName,grenade launcher,유탄 발사기
 ItemName,Grimtooth,그림투스
 ItemName,guisarme,귀사르메
+ItemName,Gungnir,
 ItemName,halberd,할버드
 ItemName,Harbalest,하발레스트
 ItemName,hatchet,손도끼
 ItemName,hawaiian shirt,하와이언 티셔츠
+ItemName,healthstone,
 ItemName,heavy hammer,무거운 망치
 ItemName,heavy iron ball,무거운 철구
 ItemName,heavy machine gun,중기관총
@@ -2548,6 +3337,7 @@ ItemName,kanabo,금쇄봉
 ItemName,katana,카타나
 ItemName,katar,카타르
 ItemName,kelp frond,해초 잎
+ItemName,khopesh,
 ItemName,knife,나이프
 ItemName,lab coat,실험복
 ItemName,lance,랜스
@@ -2556,6 +3346,7 @@ ItemName,lantern,랜턴
 ItemName,large box,큰 상자
 ItemName,large shield,큰 방패
 ItemName,Lashing Tongue,꾸짖는 혓바닥
+ItemName,leash,
 ItemName,leather armour,가죽 갑옷
 ItemName,leather barding,가죽 마갑
 ItemName,leather cloak,가죽 망토
@@ -2565,10 +3356,12 @@ ItemName,leather jacket,가죽 재킷
 ItemName,lembas wafer,렘바스 빵
 ItemName,lenses,렌즈
 ItemName,levitation boots,공중부양 부츠
+ItemName,loadstone,
 ItemName,lock pick,락픽
 ItemName,long sword,롱 소드
 ItemName,low boots,단화
 ItemName,lucern hammer,루체른 해머
+ItemName,luckstone,
 ItemName,lump of royal jelly,로얄 젤리
 ItemName,mace,메이스
 ItemName,magic bugle,마법 나팔
@@ -2588,32 +3381,48 @@ ItemName,Maulfrost,서리메
 ItemName,meat ring,고기 반지
 ItemName,meat stick,고기 막대
 ItemName,meatball,미트볼
+ItemName,medical kit,
 ItemName,melon,멜론
+ItemName,mirror,
 ItemName,Mirrorbright,미러브라이트
 ItemName,Miserus,미세루스
 ItemName,mithril arrow,미스릴 화살
+ItemName,mithril axe,
 ItemName,mithril barding,미스릴 마갑
 ItemName,mithril battle-axe,미스릴 전투 도끼
 ItemName,mithril bullet,미스릴 총알
 ItemName,mithril crossbow bolt,미스릴 석궁 화살
 ItemName,mithril dagger,미스릴 단검
 ItemName,mithril dart,미스릴 다트
+ItemName,mithril gauntlets,
+ItemName,mithril greatmace,
+ItemName,mithril greatsword,
+ItemName,mithril hatchet,
 ItemName,mithril helmet,미스릴 헬멧
+ItemName,mithril katana,
 ItemName,mithril katar,미스릴 카타르
 ItemName,mithril lance,미스릴 랜스
 ItemName,mithril long sword,미스릴 롱소드
 ItemName,mithril plate mail,미스릴 판금 갑옷
+ItemName,mithril poleaxe,
+ItemName,mithril rapier,
 ItemName,mithril sabre,미스릴 세이버
 ItemName,mithril shield,미스릴 방패
 ItemName,mithril short sword,미스릴 숏소드
+ItemName,mithril shuriken,
 ItemName,mithril spear,미스릴 창
+ItemName,mithril trident,
 ItemName,mithril two-handed sword,미스릴 양손검
 ItemName,mithril whip,미스릴 채찍
+ItemName,mooshroom,
 ItemName,morning star,모닝스타
+ItemName,Mournblade,
 ItemName,mummy wrapping,미라 붕대
 ItemName,Muramasa,무라마사
 ItemName,mushroom,버섯
 ItemName,mute earrings,음소거 귀걸이
+ItemName,naginata,
+ItemName,Nonagon Infinity,
 ItemName,nunchaku,쌍절곤
 ItemName,obsidian,흑요석
 ItemName,oil lamp,기름 램프
@@ -2626,6 +3435,7 @@ ItemName,orange glass bauble,주황색 싸구려 유리보석
 ItemName,orcish arrow,오크제 화살
 ItemName,orcish bow,오크제 활
 ItemName,orcish chain mail,오크제 체인메일
+ItemName,orcish chakram,
 ItemName,orcish cloak,오크제 망토
 ItemName,orcish dagger,오크제 단검
 ItemName,orcish helm,오크제 투구
@@ -2640,9 +3450,13 @@ ItemName,partisan,파르티잔
 ItemName,pear,배
 ItemName,pearl,진주
 ItemName,phantom key,유령 열쇠
+ItemName,phial,
 ItemName,Philosophers Stone,현자의 돌
 ItemName,pick-axe,곡괭이
+ItemName,pill,
 ItemName,pistol,권총
+ItemName,plastic bat,
+ItemName,plastic hammer,
 ItemName,plastic sword,플라스틱 검
 ItemName,plate barding,판금 마갑
 ItemName,plate mail,판금 갑옷
@@ -2679,10 +3493,13 @@ ItemName,potion of see invisible,투명 탐지 물약
 ItemName,potion of sickness,질병 물약
 ItemName,potion of sleeping,수면 물약
 ItemName,potion of speed,신속 물약
+ItemName,potion of sustenance,
+ItemName,potion of warning,
 ItemName,potion of water,물
 ItemName,proof earrings,입증의 귀걸이
 ItemName,Prudentia,프루덴시아
 ItemName,quarterstaff,육척봉
+ItemName,railgun,
 ItemName,ranseur,란서
 ItemName,rapier,레이피어
 ItemName,Ravenbow,까마귀 활
@@ -2698,6 +3515,7 @@ ItemName,ring of cold resistance,냉기 저항의 반지
 ItemName,ring of conflict,분쟁의 반지
 ItemName,ring of constitution,건강의 반지
 ItemName,ring of dexterity,민첩의 반지
+ItemName,ring of energy,
 ItemName,ring of fire resistance,화염 저항의 반지
 ItemName,ring of free action,자유 행동의 반지
 ItemName,ring of hunger,굶주림의 반지
@@ -2705,6 +3523,7 @@ ItemName,ring of impact,타격의 반지
 ItemName,ring of intelligence,지능의 반지
 ItemName,ring of invisibility,투명화의 반지
 ItemName,ring of levitation,공중 부양의 반지
+ItemName,ring of marksmanship,
 ItemName,ring of naught,쓸모없는 반지
 ItemName,ring of poison resistance,독 저항의 반지
 ItemName,ring of polymorph,폴리모프의 반지
@@ -2728,11 +3547,24 @@ ItemName,robe,로브
 ItemName,rock,돌
 ItemName,rocket,로켓
 ItemName,rocket launcher,로켓 발사기
+ItemName,rose axe,
+ItemName,rose battleaxe,
+ItemName,rose bident,
+ItemName,rose dagger,
+ItemName,rose greatsword,
+ItemName,rose hatchet,
+ItemName,rose long sword,
+ItemName,rose rapier,
+ItemName,rose ring,
+ItemName,rose sabre,
+ItemName,rose short sword,
+ItemName,rose spear,
 ItemName,Rosenthral,사로잡는 장미
 ItemName,rubber hose,고무 호스
 ItemName,ruby,루비
 ItemName,Ruby Key,루비 열쇠
 ItemName,Runesword,룬소드
+ItemName,Runicorn Horn,
 ItemName,sabre,세이버
 ItemName,sack,자루
 ItemName,saddle,안장
@@ -2779,6 +3611,7 @@ ItemName,scythe,대낫
 ItemName,shades,선글라스
 ItemName,Shadow Key,그림자 열쇠
 ItemName,shield of reflection,반사의 방패
+ItemName,Shillelagh,
 ItemName,shimmering dragon scale mail,반짝이는 용비늘 갑옷
 ItemName,shimmering dragon scales,반짝이는 용비늘 가죽
 ItemName,short sword,숏소드
@@ -2798,6 +3631,7 @@ ItemName,Silver Key,은 열쇠
 ItemName,silver lance,은제 랜스
 ItemName,silver long sword,은제 롱소드
 ItemName,silver mace,은제 메이스
+ItemName,silver rapier,
 ItemName,silver sabre,은제 세이버
 ItemName,silver short sword,은제 숏소드
 ItemName,silver spear,은제 창
@@ -2805,6 +3639,7 @@ ItemName,silver two-handed sword,은제 양손검
 ItemName,skeleton key,만능 열쇠
 ItemName,slime mould,슬라임 몰드
 ItemName,sling,슬링
+ItemName,sling staff,
 ItemName,small shield,작은 방패
 ItemName,sniper rifle,저격 소총
 ItemName,spear,창
@@ -2814,29 +3649,40 @@ ItemName,spetum,스페텀
 ItemName,splint mail,스플린트메일
 ItemName,sprig of wolfsbane,투구꽃 잔가지
 ItemName,Stamped Letter,우표붙은 편지
+ItemName,steel boots,
+ItemName,stethoscope,
 ItemName,stick of dynamite,다이너마이트
 ItemName,stiletto,스틸레토
 ItemName,stone club,바위 몽둥이
+ItemName,Stormbringer,
+ItemName,strange object,
 ItemName,studded leather armour,징박힌 가죽 갑옷
 ItemName,submachine gun,기관단총
+ItemName,Sudarshana Chakra,
 ItemName,Sunsword,태양의 검
 ItemName,t-shirt,티셔츠
+ItemName,tabard,
 ItemName,Talaria,탈라리아
 ItemName,The Hero,영웅
 ItemName,thunder staff,천둥의 지팡이
 ItemName,tin,통조림
+ItemName,tin opener,
 ItemName,tin whistle,주석 호루라기
 ItemName,tinning kit,통조림 키트
 ItemName,tooled horn,가공된 뿔
 ItemName,topaz,토파즈
 ItemName,torch,횃불
 ItemName,tortilla,또띠아
+ItemName,touchstone,
+ItemName,towel,
 ItemName,trident,삼지창
 ItemName,tripe ration,사료
+ItemName,triplesword,
 ItemName,tsurugi,츠루기
 ItemName,turquoise,터키석
 ItemName,two-handed sword,양손검
 ItemName,unicorn horn,유니콘 뿔
+ItemName,Vajra,
 ItemName,vegetable corpse,식물 시체
 ItemName,Verimurus,베리무루스
 ItemName,violet glass bauble,보라색 싸구려 유리보석
@@ -2847,6 +3693,7 @@ ItemName,wakizashi,와키자시
 ItemName,wand of animation,생동화의 마법봉
 ItemName,wand of cancellation,무효화의 마법봉
 ItemName,wand of cold,냉기의 마법봉
+ItemName,wand of confusion,
 ItemName,wand of create horde,군단 소환의 마법봉
 ItemName,wand of death,즉사의 마법봉
 ItemName,wand of digging,굴착의 마법봉
@@ -2858,6 +3705,8 @@ ItemName,wand of fireball,화염구의 마법봉
 ItemName,wand of haste,가속의 마법봉
 ItemName,wand of healing,치유의 마법봉
 ItemName,wand of iceball,냉기 구체의 마법봉
+ItemName,wand of jumping,
+ItemName,wand of levitation,
 ItemName,wand of light,빛의 마법봉
 ItemName,wand of lightning,전격의 마법봉
 ItemName,wand of locking,잠금의 마법봉
@@ -2873,12 +3722,17 @@ ItemName,wand of sleep,수면의 마법봉
 ItemName,wand of slow,감속의 마법봉
 ItemName,wand of striking,타격의 마법봉
 ItemName,wand of summoning,소환의 마법봉
+ItemName,wand of telekinesis,
 ItemName,wand of teleportation,텔레포트의 마법봉
 ItemName,wand of theft,도둑질의 마법봉
 ItemName,wand of undead turning,언데드 퇴치의 마법봉
 ItemName,war club,전투용 곤봉
 ItemName,war hammer,워해머
+ItemName,war maul,
 ItemName,wax candle,밀랍 양초
+ItemName,Wepwawet's Fang,
+ItemName,wheellock pistol,
+ItemName,whetstone,
 ItemName,white dragon scale mail,백색 용비늘 갑옷
 ItemName,white dragon scales,백색 용비늘 가죽
 ItemName,white glass bauble,하얀색 싸구려 유리보석
@@ -2893,8 +3747,10 @@ ItemName,yellow dragon scale mail,황색 용비늘 갑옷
 ItemName,yellow dragon scales,황색 용비늘 가죽
 ItemName,yellow glass bauble,노란색 싸구려 유리보석
 ItemName,yellowish brown glass bauble,황갈색 싸구려 유리보석
+ItemName,yoyo,
 ItemName,yumi,유미
 ItemName,zircon,지르콘
+ItemName,Zweihänder,
 ItemType,amulet,아뮬렛
 ItemType,bag,가방
 ItemType,barding,마갑
@@ -4440,13 +5296,17 @@ SchoolName,necromancy,사령술
 SchoolName,transmutation,변환술
 ServiceDescription,detect traps in the surrounding area.,주변 구역의 함정을 감지한다.
 ServiceDescription,identify one item in your inventory.,인벤토리에 있는 아이템 한개를 식별한다.
+ServiceDescription,learn how to cast a random spell.,
+ServiceDescription,learn how to cast two random spells.,
 ServiceDescription,magic mapping for the surrounding area.,주변구역을 매직 매핑한다.
 ServiceDescription,refresh the shop with new items for sale.,새로운 물건들을 들여와 상점을 채운다.
 ServiceDescription,remove a curse from one item in your inventory.,인벤토리에 있는 아이템 하나를 저주 해제한다.
+ServiceName,advanced tuition,
 ServiceName,curse removal,저주 해제
 ServiceName,identification,식별
 ServiceName,magic mapping,매직 매핑
 ServiceName,restock shop,상품 입고
+ServiceName,spell tuition,
 ServiceName,trap detection,함정 감지
 ShopName,antique weapons outlet,골동품 무기상
 ShopName,delicatessen,식품점
@@ -4462,9 +5322,14 @@ ShopName,second-hand stationery store,문방구
 ShopName,used armour dealership,중고 방어구 상점
 ShrineName,craft station,제작소
 ShrineName,dark sepulchre,사악한 제단
+ShrineName,elemental forge,
+ShrineName,fae chapel,
 ShrineName,holy shrine,성스러운 제단
+ShrineName,martial temple,
 ShrineName,mystic coven,신비의 마녀회
+ShrineName,pheral vault,
 ShrineName,sacred grove,성스러운 숲
+ShrineName,star observatory,
 SizeName,gargantuan,초대형
 SizeName,huge,특대형
 SizeName,large,대형
@@ -4670,101 +5535,290 @@ SonicName,write,쓰기
 SpecialDescription,Aristocrats who enjoy all the privilege that comes with wealth and wonder why everyone hates them.,왜 모두가 자신을 싫어하는지 모르는 채 돈이 주는 온갖 특권을 즐기는 상류층.
 SpecialDescription,"Being unusually short and slight, they are more nimble but not as effective in combat.",당신의 종족 중에서 특출나게 작고 가냘파 싸움은 잘 하지 못해도 날렵하다.
 SpecialDescription,"Being unusually tall and heavy, they move a bit slower but are more resilient.",당신의 종족 중에서 특출나게 크고 무거워 느리지만 강인하다.
+SpecialDescription,"Bound by an infernal pact to a patron whose power flows through them, whether they will it or not.",
+SpecialDescription,"Changeling blood runs through their veins, granting them an otherworldly grace, but cold iron burns them like acid.",
+SpecialDescription,"Cursed with visions of what is to come, they see danger before it arrives, but the visions are slowly undoing their mind.",
+SpecialDescription,"Escaped from a laboratory before the experiment concluded, their body still bears the unstable mark of what was done to them.",
 SpecialDescription,"Forever cursed with lycanthropy, these beings can transform themselves into monstrous wolf forms.",라이칸스로프의 저주에 걸려 괴기한 괴물로 모습을 바꿀 수 있다.
 SpecialDescription,Forsaken creature that subsists by feeding on the vital essence of the living.,산 자의 생명력을 먹으며 사는 잊혀진 생물
 SpecialDescription,Gifted with extrasensory perception to identify entities otherwise hidden from the normal senses but at the cost of a gnawing hunger.,"극심한 굶주림을 대가로, 보통의 감각으로는 느낄 수 없는 존재를 감지하는 초감각을 타고남."
+SpecialDescription,"Hardened by a lifetime of campaigns, they strike with brutal efficiency but carry old wounds that never fully healed.",
 SpecialDescription,"Highly attuned servants of elemental earth, they can conjure exploding spheres to destroy their enemies.","고도로 숙련된 대지 원소의 종복, 적을 분쇄하는 폭발성 구체를 소환할 수 있다."
 SpecialDescription,"Highly attuned servants of elemental flame, they can conjure exploding spheres to destroy their enemies.","고도로 숙련된 화염 원소의 종복, 적을 분쇄하는 폭발성 구체를 소환할 수 있다."
 SpecialDescription,"Highly attuned servants of elemental frost, they can conjure exploding spheres to destroy their enemies.","고도로 숙련된 서리 원소의 종복, 적을 분쇄하는 폭발성 구체를 소환할 수 있다."
 SpecialDescription,"Highly attuned servants of elemental shock, they can conjure exploding spheres to destroy their enemies.","고도로 숙련된 전격 원소의 종복, 적을 분쇄하는 폭발성 구체를 소환할 수 있다."
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.","고도로 숙련된 수분 원소의 종복, 적을 분쇄하는 폭발성 구체를 소환할 수 있다."
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,평생에 걸친 공부 덕에 신체능력을 대가로 책에 더 집중할 수 있었다.
+SpecialDescription,"Made a living prying open tombs that were meant to stay shut, and picked up a rare set of skills along the way; the dead have not forgiven them.",
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,플롯 아머에 의존하는 주인공 증후군 환자. 현실의 벽을 마주할 운명이다.
+SpecialDescription,"More at home among beasts than people, they ride and bond with animals expertly but rely on their companions more than their own blade.",
+SpecialDescription,"Newly turned by an elder vampire's bite, they crave blood but have not yet mastered the strengths of the curse.",
+SpecialDescription,"One of the few to survive a great plague, their blood now resists poison but their body was left frail and their nearby creatures keep their distance.",
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.","당신의 위치가 불확실해지며, 당신은 어디에나 항상 존재하고 있는것이 당연하게 된다."
+SpecialDescription,"Pulled under by the sea and cursed to return, their lungs have made an uneasy peace with water while their waterlogged flesh dries out on land.",
+SpecialDescription,"Raised outside civilisation among beasts, they are quick and keen-eyed but never learned the discipline of formal combat.",
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,"당신은 살아있는 유리로 재작되어 에너지를 반사하고 빛을 반사한다, 당신은 완벽하지만 깨지기쉬운 태생이 당신의 선천적인 약점이다."
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.",살이 없어서 진정한 삶이라고는 할 수 없지만 나름의 장점을 가지고 어떻게든 살아 있는 존재.
 SpecialDescription,The habitually drunk make for brazen yet slightly unsteady adventurers; just don't ask them to recite the alphabet backwards.,"습관적으로 항상 술에 취해 뻔뻔하고 불안한 모험가다,일단 그들에게 알파벳을 거꾸로 말하라고는 하면 안됄것같다."
+SpecialDescription,"Touched by the animating art of golem-crafters, their flesh has hardened toward stone, granting resilience at the cost of grace.",
+SpecialDescription,"Trained in the one-on-one blade duel, every strike is precise, but a lifetime spent perfecting offence left little time to master defence.",
+SpecialDescription,"Trained since childhood in a monastic order, their body is a honed weapon but their vows forbid armour and forsake worldly learning.",
 SpecialDescription,"Whether innocent or guilty of their accused crimes, these individuals are desperate to escape custody.",죄의 유무와 무관하게 억류에서 벗어나고자 하는 이들.
+SpecialName,ascetic,
 SpecialName,colossus,초거대
+SpecialName,construct,
+SpecialName,drowned,
 SpecialName,drunkard,주정뱅이
+SpecialName,duelist,
 SpecialName,earth,대지
+SpecialName,feral,
+SpecialName,fey,
 SpecialName,flame,화염
 SpecialName,frost,서리
 SpecialName,fugitive,도망자
 SpecialName,glass,유리
+SpecialName,graverobber,
 SpecialName,midget,난쟁이
 SpecialName,noble,귀족
+SpecialName,plagued,
+SpecialName,prophet,
 SpecialName,protagonist,주인공
 SpecialName,psychic,초능력자
 SpecialName,quantum,양자
 SpecialName,scholar,학자
 SpecialName,shock,전격
 SpecialName,skeleton,해골
+SpecialName,spawn,
+SpecialName,specimen,
+SpecialName,tamer,
 SpecialName,vampire,뱀파이어
+SpecialName,veteran,
+SpecialName,warlock,
 SpecialName,water,수분
 SpecialName,werewolf,늑대인간
 SpellDescription,Projects a ball of energy that impacts on both monsters and objects.,몬스터 및 물체에 충격을 가하는 에너지의 구를 발사한다.
+SpellName,acid splash,
 SpellName,acid stream,산성 줄기
 SpellName,animate dead,사자소생
 SpellName,animate object,사물 생동화
+SpellName,arc conduit,
+SpellName,arcane blight,
+SpellName,arcane whetstone,
+SpellName,arcing bolt,
+SpellName,artificer's exchange,
+SpellName,atonement,
+SpellName,augury,
+SpellName,bane,
+SpellName,banshee wail,
+SpellName,barring ward,
+SpellName,battle fury,
 SpellName,bind undead,언데드 구속
+SpellName,binding sphere,
+SpellName,black ice patch,
+SpellName,black plague,
+SpellName,blade blessing,
+SpellName,bless,
 SpellName,blinking,점멸
+SpellName,blurred form,
+SpellName,call of the pack,
+SpellName,calm,
+SpellName,caltrop swarm,
 SpellName,cancellation,무효화
+SpellName,causeway,
+SpellName,chain lightning,
+SpellName,changeless ward,
 SpellName,charm,매혹
+SpellName,chill grasp,
+SpellName,chromatic orb,
 SpellName,clairvoyance,투시
+SpellName,claybind touch,
+SpellName,clear sight,
+SpellName,clouded mind,
+SpellName,command,
+SpellName,commune,
+SpellName,concussive blast,
 SpellName,cone of cold,냉기 원뿔
 SpellName,confusion,혼란
+SpellName,conjure barricade,
+SpellName,conjure boulder,
+SpellName,conjure guardian,
+SpellName,conjure homunculus,
+SpellName,conjure mount,
+SpellName,conjured pit,
+SpellName,consecration,
+SpellName,contagion,
+SpellName,corpse explosion,
+SpellName,corroding ray,
 SpellName,create familiar,패밀리어 생성
+SpellName,creeping palsy,
+SpellName,crimson ichor lance,
 SpellName,crushing sphere,부서지는 구체
 SpellName,curing,질병 치료
+SpellName,danger sense,
 SpellName,darkness,어둠
+SpellName,daze,
+SpellName,death ward,
+SpellName,death's bargain,
+SpellName,deathwatch,
 SpellName,deflection,굴절
 SpellName,detect food,음식 탐지
+SpellName,detect metal,
 SpellName,detect monsters,몬스터 탐지
 SpellName,detect treasure,보물 탐지
+SpellName,detect undead,
 SpellName,detect unseen,투명화 탐지
 SpellName,dig,굴착
+SpellName,disarming ward,
+SpellName,discord,
 SpellName,disintegrate,분해
+SpellName,dispel magic,
+SpellName,displacement,
+SpellName,divine favor,
+SpellName,divine intervention,
+SpellName,dominate mind,
 SpellName,drain life,생명력 흡수
+SpellName,earthen colossus,
+SpellName,elemental servant,
+SpellName,elemental warding,
+SpellName,ember lance,
+SpellName,enlarge,
+SpellName,entangling vines,
+SpellName,entropic siphon,
 SpellName,extra healing,향상된 치유
+SpellName,false life,
 SpellName,fear,공포
+SpellName,find doors,
+SpellName,find traps,
 SpellName,finger of death,죽음의 손가락
 SpellName,fireball,화염구
 SpellName,flaming sphere,타오르는 구체
 SpellName,force bolt,포스 볼트
+SpellName,foreknowledge,
+SpellName,freedom,
+SpellName,freedom of movement,
 SpellName,freezing sphere,얼어붙는 구체
+SpellName,frost breath,
 SpellName,full healing,완전 회복
+SpellName,gate,
+SpellName,gilding touch,
+SpellName,glacial spike,
+SpellName,grasping mind,
+SpellName,grave rot,
+SpellName,gravity well,
+SpellName,guided path,
+SpellName,harvest of souls,
 SpellName,haste,가속
+SpellName,hazard sense,
 SpellName,healing,치유
+SpellName,hex,
+SpellName,hexbind,
+SpellName,hideous laughter,
+SpellName,hold monster,
+SpellName,hold person,
+SpellName,holy word,
 SpellName,ice storm,얼음 폭풍
 SpellName,identify,감정
+SpellName,inner calm,
 SpellName,invisibility,투명화
+SpellName,iron will,
+SpellName,ironbind door,
+SpellName,juggernaut ray,
 SpellName,jumping,도약
+SpellName,keen search,
 SpellName,knock,노크
+SpellName,legion of bone,
 SpellName,levitation,공중부양
 SpellName,light,빛
 SpellName,lightning bolt,번개 화살
 SpellName,living wall,살아있는 벽
 SpellName,magic mapping,매직 매핑
 SpellName,magic missile,마법 화살
+SpellName,meteoric cataclysm,
+SpellName,mind ken,
+SpellName,mind link,
+SpellName,mind spike,
+SpellName,mindrend,
+SpellName,mirror ward,
+SpellName,neutralize poison,
+SpellName,oracle's eye,
+SpellName,owl eyes,
+SpellName,petrifying touch,
 SpellName,phasing,투과
+SpellName,planar anchor,
+SpellName,planar swap,
 SpellName,poison blast,독 분사
 SpellName,polymorph,폴리모프
+SpellName,porter's reach,
+SpellName,prayer,
+SpellName,premonition,
+SpellName,prismatic spray,
+SpellName,psychic shove,
 SpellName,raise dead,부활
+SpellName,rally cry,
+SpellName,ray of enfeeblement,
+SpellName,reap,
 SpellName,regenerate,재생
 SpellName,remove curse,저주 해제
+SpellName,repelling ward,
+SpellName,repulsion,
 SpellName,restoration,능력치 복구
+SpellName,revelation,
+SpellName,sanctuary,
+SpellName,scalding cloud,
+SpellName,searing light,
+SpellName,sense curse,
+SpellName,sense the restless,
+SpellName,sentinel ward,
+SpellName,shimmer shield,
 SpellName,shocking sphere,찌릿한 구체
+SpellName,shrink,
+SpellName,silence,
+SpellName,simulacrum,
 SpellName,sleep,수면
+SpellName,slick detonation,
+SpellName,slipping free,
 SpellName,slow,감속
 SpellName,soaking sphere,적시는 구체
+SpellName,song of discord,
+SpellName,spark bolt,
+SpellName,spectral shroud,
+SpellName,spirit leech,
+SpellName,spirit shield,
+SpellName,starfall,
+SpellName,steadfast ward,
+SpellName,stone to flesh,
+SpellName,stoneskin,
 SpellName,summoning,소환
+SpellName,sunburst smite,
+SpellName,sunder gear,
+SpellName,swoon,
 SpellName,telekinesis,염동력
+SpellName,telekinetic shove,
 SpellName,teleport away,텔레포트
+SpellName,thunderclap,
+SpellName,timed combustion,
+SpellName,tongue tied,
 SpellName,toxic spray,산성 분출
+SpellName,transmuter's mastery,
+SpellName,true appraisal,
 SpellName,turn undead,언데드 퇴치
+SpellName,unbinding,
+SpellName,undying ward,
+SpellName,unseen hand,
+SpellName,vampiric feast,
+SpellName,veil of shadows,
+SpellName,wall breach,
+SpellName,wall of thorns,
 SpellName,walling,벽 건설
+SpellName,ward of return,
+SpellName,warning ward,
+SpellName,web snare,
+SpellName,whispers of madness,
+SpellName,wildfire brand,
+SpellName,wither,
+SpellName,withering ray,
 SpellName,wizard lock,위저드 락
+SpellName,world vision,
 StandingName,damned,저주받은
 StandingName,doomed,불운한
 StandingName,doubtful,의심스러운
@@ -4815,19 +5869,31 @@ VolatileName,blaze,불
 VolatileName,blood,피
 VolatileName,electricity,전기
 VolatileName,freeze,얼음
+VolatileName,oil,
 VolatileName,steam,증기
 WallStructureName,illusionary,환상
 WallStructureName,permanent,영구
 WallStructureName,solid,견고
+ZooName,angelic sanctuary,
 ZooName,ant hole,개미 굴
+ZooName,astral kennel,
 ZooName,barracks,병영
 ZooName,bee hive,벌집
 ZooName,cocknest,닭장
 ZooName,college of wizardry,마법 학교
 ZooName,dragon nest,용의 둥지
+ZooName,dragon rookery,
+ZooName,drow stronghold,
+ZooName,elemental foundry,
+ZooName,golem forge,
 ZooName,graveyard,묘지
 ZooName,gremlin pit,그렘린 구덩이
+ZooName,jelly vat,
 ZooName,leprechaun hall,레프리콘 홀
+ZooName,military camp,
+ZooName,mimic den,
+ZooName,monster greenhouse,
+ZooName,pheral crypt,
 ZooName,salty pool,해수욕장
 ZooName,science lab,실험실
 ZooName,slumber party,파자마 파티

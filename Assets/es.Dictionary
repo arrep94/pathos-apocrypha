@@ -1,4 +1,5 @@
 ﻿AfflictionDescription,Deadly venom courses through your veins.,Un veneno mortal fluye por tus venas.
+AfflictionDescription,Groteseque changes are happening to your body.,
 AfflictionDescription,Something deeply unsettling is happening... down there.,Algo profundamente inquietante está pasando... allá abajo.
 AfflictionDescription,There is a gnawing sensation from deep inside your stomach.,Hay una sensación de remordimiento dentro de tu estómago.
 AfflictionDescription,This viral disease causes inflammation of the brain and is spread by infected animals.,Esta enfermedad viral causa inflamación del cerebro y se transmite a través de los animales infectados.
@@ -6,6 +7,7 @@ AfflictionDescription,You feel unclean and everything itches.,Te sientes sucio y
 AfflictionDescription,You have a dreadful case of stomach acid.,Tienes un horrible caso de acidez estomacal.
 AfflictionDescription,Your skin is sickly green and something is very wrong inside your stomach.,Tu piel tiene un color verdoso y algo va muy mal dentro de tu estómago.
 AfflictionName,crabs,cangrejos
+AfflictionName,mutation,
 AfflictionName,nits,liendres
 AfflictionName,poisoning,envenenamiento
 AfflictionName,rabies,rabia
@@ -43,76 +45,136 @@ AppearanceDescription,A short but sturdy looking coat of mithril armour.,Una arm
 AppearanceDescription,A slender and delicate looking coat of mithril armour.,Una armadura de mithril de apariencia fina y delicada.
 AppearanceDescription,A slender and glossy looking coat of mithril armour.,Una armadura de mithril de apariencia fina y lustrosa.
 AppearanceDescription,This classic wizard accessory is a pointed hat decorated with moons and stars.,Este clásico accesorio de mago es un gorro puntiagudo decorado con lunas y estrellas.
+AppearanceName,acrid book,
 AppearanceName,adamantine slug,perdigón de adamantina
 AppearanceName,adamantine staff,bastón de adamantina
 AppearanceName,agate ring,anillo de ágata
+AppearanceName,alabaster book,
 AppearanceName,aluminium wand,varita de aluminio
+AppearanceName,amber book,
+AppearanceName,ancient book,
 AppearanceName,angled poleaxe,alabarda curvada
+AppearanceName,antique book,
+AppearanceName,arcane book,
+AppearanceName,arcing book,
+AppearanceName,argent book,
+AppearanceName,ashen book,
 AppearanceName,backwards book,libro al revés
 AppearanceName,bag,bolsa
 AppearanceName,balsa wand,varita de balsa
 AppearanceName,bamboo arrow,flecha de bambú
 AppearanceName,bamboo wand,varita de bambú
+AppearanceName,banded book,
+AppearanceName,barbed ring,
+AppearanceName,basalt book,
+AppearanceName,battered book,
+AppearanceName,beaded book,
 AppearanceName,beaked polearm,asta de pico
 AppearanceName,bell,campana
 AppearanceName,big book,libro grande
+AppearanceName,bilious book,
+AppearanceName,birch book,
 AppearanceName,black book,libro negro
+AppearanceName,black bound book,
 AppearanceName,black gem,gema negra
 AppearanceName,black gloves,guantes negros
 AppearanceName,black onyx ring,anillo de ónice negro
 AppearanceName,black potion,poción negra
+AppearanceName,black stone,
 AppearanceName,black wand,varita negra
+AppearanceName,blackened book,
+AppearanceName,bloodstained book,
 AppearanceName,bloody potion,poción sangrienta
 AppearanceName,blue and green shield,escudo azul y verde
 AppearanceName,blue gem,gema azul
 AppearanceName,blue robe,túnica azul
+AppearanceName,bone book,
+AppearanceName,bone bound book,
 AppearanceName,bone earrings,pendientes de hueso
 AppearanceName,bone staff,bastón de hueso
+AppearanceName,bone white book,
+AppearanceName,boulder bound book,
+AppearanceName,bramble book,
+AppearanceName,brass book,
+AppearanceName,brass bound book,
+AppearanceName,brass clasped book,
 AppearanceName,brass ring,anillo de latón
 AppearanceName,brass wand,varita de latón
 AppearanceName,brilliant blue potion,poción azul brillante
+AppearanceName,brittle book,
+AppearanceName,broad katar,
 AppearanceName,broad pick,pico ancho
 AppearanceName,broad short sword,espada corta ancha
 AppearanceName,bronze book,libro de bronce
 AppearanceName,bronze ring,anillo de bronce
 AppearanceName,bronze wand,varita de bronce
+AppearanceName,bronzed book,
 AppearanceName,brown potion,poción marrón
 AppearanceName,bubbly potion,poción burbujeante
+AppearanceName,buckled book,
 AppearanceName,bugle,trompeta
+AppearanceName,burnished book,
 AppearanceName,candle,vela
 AppearanceName,canvas book,libro de lienzos
+AppearanceName,celestial book,
 AppearanceName,ceramic wand,varita de cerámica
+AppearanceName,chained book,
+AppearanceName,chalkstone book,
+AppearanceName,charcoal book,
+AppearanceName,charnel book,
+AppearanceName,charred book,
+AppearanceName,cinder book,
+AppearanceName,cindered book,
 AppearanceName,circular amulet,amuleto circular
+AppearanceName,clasped book,
+AppearanceName,clay bound book,
 AppearanceName,clay ring,anillo de arcilla
 AppearanceName,clear potion,poción cristalina
+AppearanceName,clockwork gun,
 AppearanceName,cloth book,libro de tela
 AppearanceName,cloudy potion,poción turbia
 AppearanceName,coarse mantelet,manta gruesa
+AppearanceName,cobalt book,
+AppearanceName,cobblestone book,
+AppearanceName,coiled gun,
 AppearanceName,colourful book,libro colorido
 AppearanceName,combat boots,botas de combate
 AppearanceName,compact gun,arma compacta
+AppearanceName,compass bound book,
 AppearanceName,concave amulet,amuleto cóncavo
 AppearanceName,conical hat,sombrero cónico
+AppearanceName,consecrated book,
 AppearanceName,convex amulet,amuleto convexo
 AppearanceName,copper book,libro de cobre
 AppearanceName,copper ring,anillo de cobre
 AppearanceName,copper wand,varita de cobre
+AppearanceName,coral book,
 AppearanceName,coral ring,anillo de coral
+AppearanceName,corded book,
+AppearanceName,cracked book,
+AppearanceName,cratered book,
 AppearanceName,crested helmet,casco crestado
+AppearanceName,crimson book,
 AppearanceName,crude arrow,flecha tosca
 AppearanceName,crude bow,arco tosco
 AppearanceName,crude chain mail,cota de malla tosca
 AppearanceName,crude dagger,daga tosca
+AppearanceName,crude disc,
 AppearanceName,crude ring mail,malla de anillos tosca
 AppearanceName,crude short sword,espada corta tosca
 AppearanceName,crude spear,lanza tosca
+AppearanceName,crumbling book,
+AppearanceName,crystal book,
 AppearanceName,crystal staff,bastón de cristal
 AppearanceName,crystal wand,varita de cristal
+AppearanceName,crystalline book,
 AppearanceName,curved polearm,arma de asta curvada
 AppearanceName,curved sword,espada curvada
 AppearanceName,curved wand,varita curvada
+AppearanceName,cut glass book,
 AppearanceName,cyan book,libro cían
 AppearanceName,cyan potion,poción cían
+AppearanceName,damascened book,
 AppearanceName,dark blue book,libro azul oscuro
 AppearanceName,dark brown book,libro marrón oscuro
 AppearanceName,dark green book,libro verde oscuro
@@ -122,27 +184,43 @@ AppearanceName,deep book,libro profundo
 AppearanceName,diamond ring,anillo de diamante
 AppearanceName,dirty rag,trapo sucio
 AppearanceName,dog eared book,libro desgastado
+AppearanceName,dolomite book,
 AppearanceName,double-headed axe,hacha de doble filo
+AppearanceName,dove grey book,
+AppearanceName,dress boots,
 AppearanceName,drum,tambor
 AppearanceName,dull book,libro opaco
+AppearanceName,dusk blue book,
 AppearanceName,dusty book,libro polvoriento
 AppearanceName,ebony wand,varita de ébano
+AppearanceName,eelskin book,
 AppearanceName,effervescent potion,poción efervescente
+AppearanceName,ember book,
 AppearanceName,emerald potion,poción esmeralda
 AppearanceName,emerald ring,anillo de esmeralda
 AppearanceName,engagement ring,anillo de matrimonio
+AppearanceName,etched book,
 AppearanceName,etched helmet,casco grabado
+AppearanceName,eternity ring,
 AppearanceName,exotic two-pointed polearm,arma de asta exótica de dos puntas
 AppearanceName,faded book,libro desteñido
 AppearanceName,faded pall,capa desteñida
+AppearanceName,feldspar book,
 AppearanceName,fencing gloves,guantes de esgrima
 AppearanceName,figurine,figurita
 AppearanceName,fine mithril-coat,capa fina de mithril
 AppearanceName,fizzy potion,poción gaseosa
+AppearanceName,flint book,
 AppearanceName,flute,flauta
 AppearanceName,forked polearm,lanza de asta bifurcada
+AppearanceName,forked wand,
+AppearanceName,frostbitten book,
+AppearanceName,frosted book,
 AppearanceName,fur boots,botas de piel
 AppearanceName,fuzzy book,libro borroso
+AppearanceName,gale book,
+AppearanceName,gilded book,
+AppearanceName,glass bound book,
 AppearanceName,glass orb,orbe de vidrio
 AppearanceName,glass ring,anillo de vidrio
 AppearanceName,glass wand,varita de vidrio
@@ -153,13 +231,21 @@ AppearanceName,glossy arrow,flecha negra con runas
 AppearanceName,glossy bow,arco negro con runas
 AppearanceName,glossy dagger,daga negra con runas
 AppearanceName,glossy mithril-coat,capa lustrosa de mithril
+AppearanceName,glossy potion,
 AppearanceName,glossy short sword,espada corta negra con runas
+AppearanceName,gloved book,
+AppearanceName,gneiss book,
 AppearanceName,gold book,libro de oro
 AppearanceName,gold earrings,pendientes de oro
 AppearanceName,gold ring,anillo de oro
 AppearanceName,gold wand,varita de oro
 AppearanceName,golden potion,poción dorada
+AppearanceName,gossamer book,
+AppearanceName,granite book,
 AppearanceName,granite ring,anillo de granito
+AppearanceName,graphite book,
+AppearanceName,grave bound book,
+AppearanceName,gravel book,
 AppearanceName,green gem,gema verde
 AppearanceName,green robe,túnica verde
 AppearanceName,grey book,libro gris
@@ -168,38 +254,54 @@ AppearanceName,hard hat,sombrero duro
 AppearanceName,hard shoes,zapatos duros
 AppearanceName,hardcover book,libro de tapa dura
 AppearanceName,harp,arpa
+AppearanceName,hazel book,
 AppearanceName,heavy barrelled gun,arma de cañón pesado
 AppearanceName,heavy gun,arma pesada
 AppearanceName,hexagonal amulet,amuleto hexagonal
 AppearanceName,hexagonal wand,varita hexagonal
+AppearanceName,hide bound book,
 AppearanceName,hiking boots,botas de montañero
 AppearanceName,hilted polearm,lanza de asta con empuñadura
+AppearanceName,hoarfrost book,
+AppearanceName,hollow book,
 AppearanceName,hooded cloak,capa con capucha
 AppearanceName,hooked polearm,arma de asta con gancho
+AppearanceName,hooked sword,
 AppearanceName,horn,cuerno
 AppearanceName,horseshoe,herradura
 AppearanceName,humongous book,libro enorme
 AppearanceName,icy potion,poción helada
+AppearanceName,incandescent book,
 AppearanceName,indigo book,libro índigo
 AppearanceName,iridium wand,varita de iridio
+AppearanceName,iron bound book,
 AppearanceName,iron ring,anillo de hierro
 AppearanceName,iron skull cap,gorro de hierro
 AppearanceName,iron wand,varita de hierro
+AppearanceName,ivory book,
 AppearanceName,ivory ring,anillo de marfil
 AppearanceName,jackboots,botas altas
+AppearanceName,jade book,
 AppearanceName,jade ring,anillo de jade
+AppearanceName,jewelled book,
 AppearanceName,jewelled wand,varita enjoyada
 AppearanceName,jungle boots,botas de la jungla
+AppearanceName,keening book,
 AppearanceName,key,llave
+AppearanceName,khaki potion,
 AppearanceName,lamp,lámpara
 AppearanceName,large gun,arma grande
 AppearanceName,large round shield,escudo redondo grande
+AppearanceName,leaden book,
 AppearanceName,leather apron,delantal de cuero
 AppearanceName,leather book,libro de cuero
 AppearanceName,leather hat,sombrero de cuero
 AppearanceName,light blue book,libro celeste
 AppearanceName,light brown book,libro marrón claro
 AppearanceName,light green book,libro verde claro
+AppearanceName,limestone book,
+AppearanceName,linen book,
+AppearanceName,loam book,
 AppearanceName,long barrelled gun,arma de cañón largo
 AppearanceName,long book,libro largo
 AppearanceName,long bow,arco largo
@@ -211,13 +313,18 @@ AppearanceName,luminescent potion,poción luminiscente
 AppearanceName,magenta book,libro magenta
 AppearanceName,magenta potion,poción magenta
 AppearanceName,maple wand,varita de arce
+AppearanceName,marble book,
 AppearanceName,marble wand,varita de mármol
 AppearanceName,marker,marcador
+AppearanceName,marlstone book,
 AppearanceName,medallion amulet,amuleto medallón
 AppearanceName,metal canister,recipiente de metal
 AppearanceName,metal pineapple,piña de metal
 AppearanceName,metal slug,perdigón de metal
+AppearanceName,mica book,
+AppearanceName,mildewed book,
 AppearanceName,milky potion,poción lechosa
+AppearanceName,millstone book,
 AppearanceName,mithril boots,botas de acero
 AppearanceName,mithril ring,anillo de mithril
 AppearanceName,mithril slug,perdigón de mithril
@@ -225,70 +332,109 @@ AppearanceName,mithril staff,bastón de mithril
 AppearanceName,mood ring,anillo de humor
 AppearanceName,moonstone ring,anillo de piedra lunar
 AppearanceName,mortar gun,arma de mortero
+AppearanceName,mossy book,
+AppearanceName,moth eaten book,
 AppearanceName,mottled book,libro veteado
 AppearanceName,mud boots,botas para barro
 AppearanceName,muddy potion,poción lodosa
 AppearanceName,murky potion,poción opaca
+AppearanceName,murmuring book,
+AppearanceName,muted book,
 AppearanceName,mysterious gadget,dispositivo misterioso
+AppearanceName,notched book,
 AppearanceName,oak wand,varita de roble
+AppearanceName,obsidian book,
 AppearanceName,obsidian ring,anillo de obsidiana
 AppearanceName,ochre book,libro ocre
 AppearanceName,octagonal amulet,amuleto octogonal
 AppearanceName,octagonal wand,varita octogonal
 AppearanceName,old gloves,guantes viejos
+AppearanceName,olive branch book,
+AppearanceName,onyx book,
+AppearanceName,opal book,
 AppearanceName,opal ring,anillo de ópalo
+AppearanceName,opaline book,
 AppearanceName,opera cloak,capa de ópera
 AppearanceName,orange book,libro naranja
 AppearanceName,orange gem,gema naranja
 AppearanceName,orange potion,poción naranja
 AppearanceName,orange robe,túnica naranja
 AppearanceName,ornamental cope,capa ornamental
+AppearanceName,ossuary book,
 AppearanceName,oval amulet,amuleto ovalado
 AppearanceName,padded gloves,guantes acolchados
+AppearanceName,pale book,
 AppearanceName,papyrus book,libro de papiro
 AppearanceName,parchment book,libro de pergamino
 AppearanceName,pearl earrings,pendientes de perla
 AppearanceName,pearl ring,anillo perlado
+AppearanceName,phoenix down book,
 AppearanceName,piece of cloth,trozo de tela
+AppearanceName,pine wand,
 AppearanceName,pink book,libro rosa
 AppearanceName,pink potion,poción rosa
+AppearanceName,pitted book,
+AppearanceName,plague ridden book,
 AppearanceName,plaid book,libro con tapa a cuadros
 AppearanceName,plain book,libro sencillo
 AppearanceName,plain ring,anillo sencillo
 AppearanceName,plain robe,túnica sencilla
 AppearanceName,plastic slug,perdigón de plástico
 AppearanceName,plastic stick,palo de plástico
+AppearanceName,plastic wand,
 AppearanceName,platinum wand,varita de platino
 AppearanceName,plumed helmet,casco emplumado
+AppearanceName,pocked book,
 AppearanceName,pole cleaver,cuchilla de carnicero de asta
 AppearanceName,pole sickle,arma de asta en hoz
 AppearanceName,polished silver shield,escudo de plata pulida
+AppearanceName,porphyry book,
+AppearanceName,prismatic book,
 AppearanceName,pronged polearm,arma de asta prolongada
 AppearanceName,pruning hook,gancho de poda
+AppearanceName,psalm book,
 AppearanceName,puce potion,poción pardo rojizo
+AppearanceName,pumice book,
 AppearanceName,purple book,libro púrpura
 AppearanceName,purple-red potion,poción púrpura rojiza
 AppearanceName,pyramidal amulet,amuleto piramidal
+AppearanceName,quartzite book,
+AppearanceName,quicksilver book,
+AppearanceName,radiant book,
 AppearanceName,ragged book,libro rasgado
 AppearanceName,rainbow book,libro arcoiris
 AppearanceName,red book,libro rojo
 AppearanceName,red gem,gema roja
 AppearanceName,red robe,túnica roja
+AppearanceName,red stone,
 AppearanceName,red-eyed shield,escudo de ojo rojo
 AppearanceName,riding boots,botas de montar
 AppearanceName,riding gloves,guantes de montar
+AppearanceName,rimed book,
+AppearanceName,riveted book,
 AppearanceName,ruby potion,poción rubí
 AppearanceName,ruby ring,anillo de rubí
 AppearanceName,runed arrow,flecha con runas
+AppearanceName,runed book,
 AppearanceName,runed bow,arco con runas
 AppearanceName,runed broadsword,espada ancha con runas
 AppearanceName,runed dagger,daga con runas
+AppearanceName,runed disc,
 AppearanceName,runed short sword,espada corta con runas
 AppearanceName,runed spear,lanza con runas
 AppearanceName,runed wand,varita con runas
+AppearanceName,russet book,
+AppearanceName,rusted book,
 AppearanceName,rusty wand,varita oxidada
+AppearanceName,sable book,
+AppearanceName,saddle book,
+AppearanceName,sallow book,
 AppearanceName,samurai sword,espada samurai
+AppearanceName,sanguine book,
+AppearanceName,sapphire book,
 AppearanceName,sapphire ring,anillo de zafiro
+AppearanceName,scalded book,
+AppearanceName,schist book,
 AppearanceName,scoped long gun,arma larga con mira telescópica
 AppearanceName,scroll labelled ANDOVA BEGARIN,pergamino titulado ANDOVA BEGARIN
 AppearanceName,scroll labelled AZZGAZ,pergamino titulado AZZGAZ
@@ -321,36 +467,56 @@ AppearanceName,scroll labelled XALICH UDED,pergamino titulado XALICH UDED
 AppearanceName,scroll labelled XIXAXA XOXAXA XUXAXA,pergamino titulado XIXAXA XOXAXA XUXAXA
 AppearanceName,scroll labelled YUM YUM,pergamino titulado YUM YUM
 AppearanceName,scroll labelled ZELGO MER,pergamino titulado ZELGO MER
+AppearanceName,sepia book,
+AppearanceName,sepulchral book,
 AppearanceName,shadow book,libro de sombras
+AppearanceName,shale book,
+AppearanceName,shimmering book,
 AppearanceName,shining book,libro brillante
 AppearanceName,shiny ring,anillo brillante
 AppearanceName,short barrelled gun,arma de cañón corto
 AppearanceName,short samurai sword,espada samurái
 AppearanceName,short wand,varita corta
 AppearanceName,shoulder gun,arma de hombro
+AppearanceName,shrapnel book,
+AppearanceName,silk book,
+AppearanceName,silken book,
+AppearanceName,silly wand,
 AppearanceName,silver book,libro de plata
 AppearanceName,silver ring,anillo de plata
 AppearanceName,silver slug,bala de plata
 AppearanceName,silver wand,varita de plata
+AppearanceName,silvered book,
 AppearanceName,single-edged polearm,arma de asta de un solo filo
 AppearanceName,sky blue potion,poción azul cielo
+AppearanceName,slate book,
 AppearanceName,slippery cloak,capa resbaladiza
 AppearanceName,small gun,arma pequeña
+AppearanceName,small horizontal bow,
 AppearanceName,smoky potion,poción humosa
 AppearanceName,snow boots,botas de nieve
+AppearanceName,solar book,
+AppearanceName,sooty book,
+AppearanceName,soul bound book,
 AppearanceName,sparkling potion,poción centelleante
 AppearanceName,spherical amulet,amuleto esférico
 AppearanceName,spiked wand,varita puntiaguda
 AppearanceName,spotted book,libro moteado
 AppearanceName,square amulet,amuleto cuadrado
 AppearanceName,stained book,libro manchado
+AppearanceName,starless book,
+AppearanceName,starlit book,
+AppearanceName,static book,
 AppearanceName,steel ring,anillo de acero
 AppearanceName,steel wand,varita de acero
 AppearanceName,sticky glob,sustancia pegajosa
+AppearanceName,storm wracked book,
 AppearanceName,stout mithril-coat,capa robusta de mithril
 AppearanceName,stout spear,lanza robusta
 AppearanceName,studded samurai stick,palo samurái con picos
 AppearanceName,stylish book,libro elegante
+AppearanceName,sundered book,
+AppearanceName,sunlit book,
 AppearanceName,swirly potion,poción con remolinos
 AppearanceName,tan book,libro quemado
 AppearanceName,tattered book,libro raiso
@@ -365,35 +531,51 @@ AppearanceName,throwing disc,disco arrojadizo
 AppearanceName,throwing spear,lanza arrojadiza
 AppearanceName,throwing star,estrella arrojadiza
 AppearanceName,throwing stick,palo para lanzar
+AppearanceName,thunderous book,
 AppearanceName,tiger eye ring,anillo de ojo de tigre
 AppearanceName,tin wand,varita de estaño
 AppearanceName,tiny book,libro diminuto
+AppearanceName,topaz book,
 AppearanceName,topaz ring,anillo de topacio
 AppearanceName,torn book,libro desgarrado
+AppearanceName,toy bat,
+AppearanceName,toy hammer,
 AppearanceName,toy sword,espada de juguete
 AppearanceName,triangular amulet,amuleto triangular
 AppearanceName,turquoise book,libro turquesa
 AppearanceName,twisted ring,anillo retorcido
+AppearanceName,umber book,
+AppearanceName,unbound book,
 AppearanceName,unlabelled scroll,pergamino sin rotular
 AppearanceName,uranium wand,varita de uranio
+AppearanceName,veiled book,
 AppearanceName,vellum book,libro de vitela
 AppearanceName,velvet book,libro de terciopelo
+AppearanceName,verdigris book,
 AppearanceName,violet book,libro violeta
 AppearanceName,violet gem,gema violeta
 AppearanceName,visored helmet,casco con visera
+AppearanceName,voltaic book,
 AppearanceName,vulgar polearm,arma de asta vulgar
 AppearanceName,walking shoes,zapatos de caminar
 AppearanceName,warped amulet,amuleto deformado
+AppearanceName,warped book,
+AppearanceName,waxen book,
 AppearanceName,wedding ring,anillo de boda
+AppearanceName,welded book,
+AppearanceName,whispering book,
 AppearanceName,whistle,silbato
 AppearanceName,white book,libro blanco
 AppearanceName,white coat,capa blanca
 AppearanceName,white gem,gema blanca
 AppearanceName,white potion,poción blanca
 AppearanceName,wide book,libro ancho
+AppearanceName,wilted book,
 AppearanceName,winged missile,misil alado
 AppearanceName,wire ring,anillo de alambre
+AppearanceName,withered book,
 AppearanceName,wooden ring,anillo de madera
+AppearanceName,wormwood book,
 AppearanceName,wrinkled book,libro arrugado
 AppearanceName,yellow book,libro amarillo
 AppearanceName,yellow gem,gema amarilla
@@ -489,62 +671,116 @@ BlockName,statue,estatua
 BlockName,stone boulder,roca de piedra
 BlockName,trophy,trofeo
 BlockName,wooden barrel,barril de madera
+BoonDescription,"A darker resurrection than the temples offer: certain to succeed, but the dead come back enraged.",
+BoonDescription,"A generous healing gift, fae-touched: your hands will not be quite steady later.",
 BoonDescription,Ask for a unicorn to join your party.,Pídele a un unicornio que se una a tu grupo.
+BoonDescription,Ask the fae for a favour. What you get is entirely up to her mood.,
+BoonDescription,"Bathe in the etching vats. It burns, but you rise with a hide the acid cannot bite.",
 BoonDescription,Bless one item in your inventory or on the ground.,Bendice un objeto en tu inventario o en el suelo.
 BoonDescription,Brew a random potion into your bottle of water.,Prepara una poción al azar en tu botella de agua.
 BoonDescription,Butcher a corpse into an easy to carry container.,Despieza un cadáver y lo prepara dentro de un contenedor fácil de transportar
 BoonDescription,Call upon the undead to fight for you.,Llama a los no-muertos para que luchen por ti.
+BoonDescription,Consult the observatory's charts for the full layout of this level.,
 BoonDescription,Convert one item into a random alternative of the same type.,Convierte un artículo en otro aleatorio del mismo tipo.
 BoonDescription,Determine the enchantment and charges of all carried items.,Determina el encantamiento y las cargas de todos los objetos transportados.
+BoonDescription,"Drill under the captain's eye. You may be quickened, or you may be worn out.",
+BoonDescription,Drink the warrior's drink and fight in a berserker rage. It does not spare your allies.,
+BoonDescription,"Eat at the fae table. You will not go hungry, but the wine shows you things that are not there.",
 BoonDescription,"Erase the magic from a potion, scroll or book.","Elimina la magia de una poción, pergamino o libro."
+BoonDescription,Fall into a trance and see through walls and floors for a time.,
 BoonDescription,Hatch an egg and become a parent.,Incuba un huevo y conviértete en padre.
+BoonDescription,Have the efreeti bind a captive elemental to your service.,
+BoonDescription,"Have the temple armour smiths put a keener edge on one weapon, magical or not.",
+BoonDescription,Have the wizard read the true nature of everything you carry.,
+BoonDescription,"Have your destiny read from the stars, hastening your growth.",
 BoonDescription,Heal damage and recover mana for yourself and your steed if mounted.,Cura daño y recupera maná para ti y tu corcel si estás montado.
 BoonDescription,Learn how to cast a random spell.,Aprende cómo usar un hechizo al azar.
 BoonDescription,Learn the divine status of all carried items.,Descubre el estado divino de todos los objetos que cargas.
 BoonDescription,Learn the name of one random unknown item.,Aprende el nombre de un objeto desconocido al azar.
 BoonDescription,Make an imitation copy of an item.,Crea una copia de imitación de un objeto.
 BoonDescription,Partially recharge a spent item.,Recarga parcialmente un objeto gastado.
+BoonDescription,Petition the vizier for a spectral cat to guard you as it once guarded the tomb.,
 BoonDescription,Place a curse on one equipped or carried item.,Coloca una maldición en un objeto equipado o que cargues.
+BoonDescription,"Plunge into the quenching trough. It burns with cold, but you rise proof against it.",
 BoonDescription,Reanimate a corpse as a loyal revenant.,Reanima un cadáver como un leal renacido.
+BoonDescription,Receive the linen wrappings used to prepare the dead for the afterlife.,
 BoonDescription,Remove all magic from an item.,Elimina toda la magia de un objeto.
 BoonDescription,Remove the curse on one equipped or carried item.,Elimina la maldición de un objeto equipado o que cargues.
 BoonDescription,Rename an item for vanity and as a small protection against cancellation.,Cambia el nombre de un objeto por vanidad y como una pequeña protección contra el desencanto.
 BoonDescription,Request a fresh corpse with no questions asked.,Solicita un cadáver fresco sin preguntas.
 BoonDescription,Request one cast of the polymorph spell.,Solicita un lanzamiento del hechizo de polimorfismo.
+BoonDescription,Requisition soldiers from the garrison to march at your side.,
 BoonDescription,Restore any lost ability and remove any negative transient conditions.,Recupera cualquier habilidad perdida y quita cualquier condición negativa transitoria.
 BoonDescription,Return a corpse back to life.,Devuelve la vida a un cadáver.
+BoonDescription,Stand in the temple square and receive the captain's defensive blessing.,
+BoonDescription,"Step into the forge fire. It burns, but you rise with fire in your blood.",
 BoonDescription,Summon a powerful steed from the underworld.,Invoca un poderoso corcel del inframundo.
 BoonDescription,Summon a tame forest beast as your ally.,Invoca una bestia del bosque como tu aliado.
+BoonDescription,Summon an escort from the pharaoh's retinue to walk beside you.,
+BoonDescription,The princess trades you a measure of charm. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of grace. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of wit. Something else must give way for it.,
+BoonDescription,Toss a coal on the forge fire and take whatever ward it grants you.,
+BoonDescription,Train under a veteran until a weapon or armour discipline sticks.,
 BoonDescription,Upgrade an item or increase its power.,Mejora un objeto o aumenta su poder.
 BoonDescription,Use nature magic to grow the power of your ally.,Usa la magia de la naturaleza para aumentar el poder de tu aliado.
+BoonDescription,Watch the level through the great lens and mark every creature on it.,
+BoonDescription,Whisper a question into the vault. The dead do not always tell the truth.,
 BoonDescription,Write a random scroll onto your blank paper.,Escribe un pergamino al azar en tu papel blanco.
 BoonName,animate dead,revivir muertos
 BoonName,assess,evaluar
+BoonName,banquet of the fae,
+BoonName,battle fury,
+BoonName,black rite of revival,
 BoonName,bless,bendecir
+BoonName,bound elemental,
 BoonName,brew,preparar
+BoonName,call the escort,
 BoonName,cancel,cancelar
+BoonName,capricious wish,
+BoonName,chart the level,
+BoonName,clairvoyant trance,
+BoonName,commune with the dead,
 BoonName,corpse wish,deseo de cadáver
+BoonName,court of the underworld,
 BoonName,divine,divino
+BoonName,drill,
 BoonName,enchant,encantar
 BoonName,enlighten,iluminar
 BoonName,erase,borrar
+BoonName,fae cunning,
+BoonName,fae grace,
+BoonName,fae guile,
 BoonName,fantastical beast,bestia fantástica
+BoonName,forced march,
+BoonName,godmother's blessing,
 BoonName,grow,crecer
 BoonName,hatch,incubar
+BoonName,identify all,
+BoonName,map the ranks,
 BoonName,nightmare steed,corcel de pesadilla
+BoonName,ordeal of embers,
 BoonName,place curse,colocar maldición
 BoonName,polymorph,polimorfismo
 BoonName,purify,purificar
 BoonName,raise dead,reanimar muertos
+BoonName,read your destiny,
 BoonName,recharge,recargar
 BoonName,reforge,reforjar
 BoonName,rejuvenate,rejuvenecer
 BoonName,remove curse,quitar maldición
 BoonName,rename,renombrar
 BoonName,replicate,replicar
+BoonName,sacred wrappings,
 BoonName,scribe,escribir
+BoonName,sharpen blade,
+BoonName,shield wall,
 BoonName,teach spell,enseñar hechizo
+BoonName,temper in acid,
+BoonName,temper in flame,
+BoonName,temper in frost,
 BoonName,tinned meat,carne enlatada
+BoonName,tomb guardian,
 BoonName,undead army,ejército de no-muertos
 BoonName,unicorn friend,unicornio amigo
 CalendarText,d MMMM yyyy,d MMMM yyyy
@@ -560,7 +796,11 @@ CharacterName,Bason,Bason
 CharacterName,Belietha,Belietha
 CharacterName,Bok,Bok
 CharacterName,Bolan,Bolan
+CharacterName,Bones,
+CharacterName,Borgrim,
+CharacterName,Briar,
 CharacterName,Brouwer,Brouwer
+CharacterName,Buckshot,
 CharacterName,Cailie,Cailie
 CharacterName,Capo,Capo
 CharacterName,Carthyre,Carthyre
@@ -581,18 +821,25 @@ CharacterName,Emina,Emina
 CharacterName,Enlan,Enlan
 CharacterName,Ericendrick,Ericendrick
 CharacterName,Eybrinde,Eybrinde
+CharacterName,Fangs,
 CharacterName,Faraze,Faraze
 CharacterName,Fenlas,Fenlas
 CharacterName,Fenraymond,Fenraymond
+CharacterName,Fern,
 CharacterName,Floki,Floki
 CharacterName,Forro,Forro
 CharacterName,Franzia,Franzia
 CharacterName,Galday,Galday
 CharacterName,Gasberg,Gasberg
+CharacterName,Gearwing,
+CharacterName,Ghrenna,
+CharacterName,Giggles,
 CharacterName,Gleichman,Gleichman
 CharacterName,Gmima,Gmima
 CharacterName,Gohu,Gohu
 CharacterName,Gomack,Gomack
+CharacterName,Grakna,
+CharacterName,Grum,
 CharacterName,Grytt,Grytt
 CharacterName,Haelom,Haelom
 CharacterName,Haique,Haique
@@ -615,34 +862,41 @@ CharacterName,Kevugo,Kevugo
 CharacterName,Kierantha,Kierantha
 CharacterName,Kira,Kira
 CharacterName,Kneller,Kneller
+CharacterName,Korrath,
 CharacterName,Lagratha,Lagratha
 CharacterName,Lanetwalz,Lanetwalz
 CharacterName,Lant,Lant
 CharacterName,Lesha,Lesha
 CharacterName,Luickean,Luickean
+CharacterName,Lyric,
 CharacterName,Lzay,Lzay
 CharacterName,Malasuth,Malasuth
+CharacterName,Malgrim,
 CharacterName,Marisa,Marisa
 CharacterName,Melchai,Melchai
 CharacterName,Meloty,Meloty
 CharacterName,Miller,Miller
 CharacterName,Misteph,Misteph
 CharacterName,Nichaeltoy,Nichaeltoy
+CharacterName,Nihlus,
 CharacterName,Ninerma,Ninerma
 CharacterName,Ninhart,Ninhart
 CharacterName,Ninny,Ninny
 CharacterName,Nodin,Nodin
 CharacterName,Norbant,Norbant
+CharacterName,Nugget,
 CharacterName,Okennwood,Okennwood
 CharacterName,Ollac,Ollac
 CharacterName,Omdarro,Omdarro
 CharacterName,Orankin,Orankin
 CharacterName,Oscae,Oscae
 CharacterName,Paltrick,Paltrick
+CharacterName,Panderos,
 CharacterName,Pauwinner,Pauwinner
 CharacterName,Penevieve,Penevieve
 CharacterName,Perceval,Perceval
 CharacterName,Pinkerton,Pinkerton
+CharacterName,Pip,
 CharacterName,Plegg,Plegg
 CharacterName,Pleyson,Pleyson
 CharacterName,Pnerfa,Pnerfa
@@ -660,16 +914,26 @@ CharacterName,Rebenna,Rebenna
 CharacterName,Renorber,Renorber
 CharacterName,Rokiju,Rokiju
 CharacterName,Rupley,Rupley
+CharacterName,Rustbeard,
 CharacterName,Sarlia,Sarlia
+CharacterName,Scraps,
+CharacterName,Sentinel,
+CharacterName,Serathiel,
+CharacterName,Shadow,
 CharacterName,Shinaas,Shinaas
+CharacterName,Sissik,
+CharacterName,Skrix,
 CharacterName,Smither,Smither
+CharacterName,Sprocket,
 CharacterName,Stevere,Stevere
 CharacterName,Stewite,Stewite
 CharacterName,Sully,Sully
 CharacterName,Talon,Talon
 CharacterName,Tanyacka,Tanyacka
 CharacterName,Thakuline,Thakuline
+CharacterName,Thokk,
 CharacterName,Threepo,Threepo
+CharacterName,Tillie,
 CharacterName,Timonen,Timonen
 CharacterName,Trank,Trank
 CharacterName,Udfoot,Udfoot
@@ -677,7 +941,10 @@ CharacterName,Uffle,Uffle
 CharacterName,Ujopayne,Ujopayne
 CharacterName,Umazi,Umazi
 CharacterName,Urenval,Urenval
+CharacterName,Vaelithra,
+CharacterName,Valor,
 CharacterName,Valorn,Valorn
+CharacterName,Vashti,
 CharacterName,Vekincarc,Vekincarc
 CharacterName,Vidar,Vidar
 CharacterName,Vikethome,Vikethome
@@ -687,7 +954,9 @@ CharacterName,Wallison,Wallison
 CharacterName,Waltis,Waltis
 CharacterName,Walzen,Walzen
 CharacterName,Wendry,Wendry
+CharacterName,Wisp,
 CharacterName,Wollet,Wollet
+CharacterName,Wraith,
 CharacterName,Xamarin,Xamarin
 CharacterName,Xandries,Xandries
 CharacterName,Xank,Xank
@@ -699,6 +968,7 @@ CharacterName,Yassage,Yassage
 CharacterName,Yorque,Yorque
 CharacterName,Yral,Yral
 CharacterName,Yuvaloren,Yuvaloren
+CharacterName,Zathrik,
 CharacterName,Zean,Zean
 CharacterName,Zerbarry,Zerbarry
 CharacterName,Zimn,Zimn
@@ -709,16 +979,19 @@ ClassDescription,"Benevolent caretakers, always willing to lend a helping hand t
 ClassDescription,"Champions of the winter realms, fierce and proud. Hardy and strong, they will boldly face any challenger until they meet a glorious death.","Campeones de los reinos del invierno, feroces y orgullosos. Resistentes y fuertes, se enfrentarán audazmente a cualquier rival hasta encontrar una muerte gloriosa."
 ClassDescription,"Charming minstrels, making their way through the world with their songs and stories. They are jacks-of-all-trades; alongside their troubadour talents, they dabble in both martial skills and spellcraft.","Encantadores juglares, se abren paso por el mundo con sus canciones e historias. Son aprendices de todo; junto con su talento de trovador, tienen algo de experiencia tanto en habilidades marciales como en hechicería."
 ClassDescription,"Conductors of natural energies, these uniquely attuned spell casters derive their powers from the living world. Peaceful until threatened, they are unafraid to respond with animalistic savagery.","Místicos de las energías naturales, estos hechiceros únicos obtienen sus poderes del mundo vivo. Pacíficos hasta que se les amenaza, no tienen miedo de responder de manera animal y salvaje."
+ClassDescription,"Contract killers trained to strike once, from the dark, and vanish before the body is found. They favour poisoned steel over honest combat and trust no blade they have not sharpened themselves.",
 ClassDescription,"Corrupt and hateful souls, who are motivated by causing carnage and spreading chaos. Subject to uncontrollable bouts of rage, they bring doom and destruction to friend and foe alike.","Esta alma corrupta y odiosa está motivada solo por la carnicería y el caos. Sujeto a ataques incontrolables de rabia, traen el caos y la destrucción al amigo y enemigo por igual."
 ClassDescription,"Daft harlequins, always carrying a trick up their sleeves. Eclectic and eccentric; they are unassuming masters of chaos, adept in many bewildering talents.","Locos arlequines, siempre tienen un truco bajo la manga. Eclécticos y excéntricos; son amos del caos sin pretensiones, adeptos de muchos talentos desconcertantes."
 ClassDescription,"Deft miscreants, conniving and quick with their wits. Through trial and error, they have learned that their best chance in avoiding the clutches of death is to stick to the shadows and outmanoeuvre their pursuers.","Hábiles malhechores, intrigantes y rápidos con su ingenio. A través del ensayo y el error, han aprendido que su mejor oportunidad para evitar las garras de la muerte es aferrarse a las sombras y superar en táctica a sus perseguidores."
 ClassDescription,"Devoted to understanding the essence of magic and the marvel of engineering, these adept craftsman crave both knowledge and resources. Whether directed by madness or genius, they are a capable adversary and a tenacious survivor.","Dedicado a entender la esencia de la magia y la maravilla de la ingeniería, este artista adepto anhela tanto el conocimiento como los recursos. Ya sea dirigido por la locura o el genio, son adversarios capaces y supervivientes tenaces."
 ClassDescription,Escaped criminals who have spent so much of their life incarcerated that any trace of who or what they once were has all but vanished.,"Criminales fugados que han pasado gran parte de su vida encarcelados, hasta haber desaparecido cualquier rastro de quién o qué fueron alguna vez."
 ClassDescription,"Freebooting buccaneers, sailing the high seas and plundering many a merchant's vessel in their endless pursuit of riches and infamy. They are murderous cutthroats with little regard for anything but gold.","Bucaneros saqueadores, navegan en alta mar y saquean a muchos buques mercantes en su interminable búsqueda de riquezas e infamia. Son asesinos despiadados con poca consideración por cualquier cosa que no sea oro."
+ClassDescription,"Grim oath-bound hunters who court death against the mightiest foes, undead and monstrous alike. What they lack in subtlety they make up for with unrelenting rage and a body built to shrug off ruin.",
 ClassDescription,"Happy-go-lucky travellers, committed to only the most authentic experiences. Quixotic and brave, they meticulously prepare with a wide variety of paraphernalia - yet remain ill-equipped for the perils they will soon face.","Viajeros despreocupados, comprometidos con las experiencias más auténticas. Quijotescos y valientes, se preparan meticulosamente con una amplia variedad de parafernalias, pero siguen estando mal equipados para los peligros que pronto enfrentarán."
 ClassDescription,"Hidden agents, fleet-footed and schooled in many ancient arts of assassination. When all else fails, they are indubitably prepared to make swift escapes.","Agentes ocultos, con pies ágiles y educados en muchas de las antiguas artes del asesinato. Cuando todo lo demás falla, están indudablemente preparados para escapar con rapidez."
 ClassDescription,"Honourable warriors, who have dedicated their lives to an ancient code. Skilled in art of dual-wielding blades, they make fast work of their enemies.","Honorables guerreros, que han dedicado sus vidas a un antiguo código. Habilidosos en el arte de portar armas duales, acaban rápidamente con sus enemigos."
 ClassDescription,"Keepers of cosmic secrets, who derive their sacred powers from the spirit realms hidden from mortal eyes. They are compelled by dark forces and are adept at bending the material world to their will.","Guardianes de secretos cósmicos, que derivan sus poderes sagrados de los reinos espirituales ocultos a los ojos mortales. Están impulsados por fuerzas oscuras y son expertos en doblar el mundo material a su voluntad."
+ClassDescription,"Keepers of old hexes and older grudges, more at home among gravestones and cauldrons than decent company. They do not hurl fire; they unmake their enemies' luck, strength and flesh by degrees.",
 ClassDescription,"Noble savages, hardened to battle by generations of survival in the unforgiving wilderness. They are not strangers to death's call; legends tell of their incredible strength and battle prowess with heavy weapons.","Nobles salvajes, endurecidos para la batalla por generaciones de supervivencia en la implacable naturaleza salvaje. No son ajenos a la llamada de la muerte; las leyendas hablan de su increíble fuerza y destreza de combate con armas pesadas."
 ClassDescription,"Obsessed with blurring the line between life and death, these meddlers of dark forces prefer to associate with cadavers over the living. To some, the rituals are grotesque, but they see pure majesty in the manipulation of the natural order.","Obsesionados con desdibujar la línea entre la vida y la muerte, estos entrometidos de las fuerzas oscuras prefieren asociarse con cadáveres sobre los vivos. Para algunos, los rituales son grotescos, pero ven pura majestad en la manipulación del orden natural."
 ClassDescription,"Pious scholars, oath-bound to their scripture. Although altruistic and good-natured, they are trained in martial arts so as to protect themselves and the canon they live by.","Piadosos eruditos, comprometidos con sus escrituras. Aunque son altruistas y bondadosos, están entrenados en artes marciales para protegerse a sí mismos y a las reglas por las que viven."
@@ -729,11 +1002,16 @@ ClassDescription,Questionably pious individuals from an ancient religious and mi
 ClassDescription,"Quintessential scientific researchers and dauntless historical investigators. Both brash and debonair, they seek out knowledge and accolades alike. They are curiously fond of whips and share a perplexing hatred towards serpents.","Investigadores científicos por excelencia e intrépidos investigadores históricos. Tan descarados como caballerosos, buscan el conocimiento y los elogios por igual. Curiosamente les gustan los látigos y comparten un odio desconcertante hacia las serpientes."
 ClassDescription,"Restless desperados, driven by wanderlust and troubled by the haunting memories of those they could not protect. They are sly masters of lead and steel, hellbent on redemption and retribution.","Temerarios criminales, impulsados por el espíritu viajero y afligidos por los recuerdos inquietantes de aquellos que no pudieron proteger. Son astutos maestros del plomo y el acero, empeñados en la redención y el castigo."
 ClassDescription,"Righteous clergymen, dedicated to a life of sacrifice and spreading the word of their almighty deities. Well-versed in divine magic and the judicial delivery of violence to those deemed unworthy of salvation.","Clérigos justos, dedicados a una vida de sacrificio y difusión de la palabra de sus todopoderosas deidades. Están muy versados en la magia divina y en aplicar justicia violenta a aquellos que consideran indignos de la salvación."
+ClassDescription,"Scholars who bound their fate to raw elemental force rather than the slower disciplines of wizardry. Fire and frost answer their call in equal measure, a duality most mages never dare attempt.",
+ClassDescription,"Self-taught chemists of the underworld, forever mixing, tasting and bottling the unknown. What they lack in swordsmanship they make up for with a satchel of volatile solutions and a hard-won immunity to their own mistakes.",
 ClassDescription,"Strongly built, tough and industrious workers who are more than capable in dangerous situations. Traditional practices and heavy tools are used to overcome obstacles in their pursuit of valuable gemstones.","De fuerte complexión, estos robustos y trabajadores son más que capaces en situaciones peligrosas. Las prácticas tradicionales y las herramientas pesadas se utilizan para superar los obstáculos en su búsqueda de piedras preciosas."
 ClassDescription,"Sworn to uphold justice, these righteous warriors are dogmatic in pursuit of their sacred work. Classical martial skills are complemented by magical powers to protect the innocent and smite the wicked.","Defensores de la justicia, estos guerreros justos son dogmáticos en busca de su trabajo sagrado. Las habilidades marciales clásicas se complementan con los poderes mágicos para proteger a los inocentes y aplastar el mal."
 ClassDescription,"Venerable men-at-arms clad in gleaming armour, renowned for their unyielding chivalry and conviction. They are high-born and are educated to be strategists and capable leaders on any battlefront.","Venerables hombres de armas ataviados con una armadura reluciente, reconocidos por su inquebrantable caballerosidad y convicción. Nacidos en alta cuna, son educados para ser estrategas y líderes capaces en cualquier frente de batalla."
 ClassDescription,"Warrior slaves compelled to battle for the entertainment of raucous crowds, often to the death. Those that can survive this cauldron are trained into the most brutal of pit fighters.","Esclavos guerreros obligados a luchar por el entretenimiento de las multitudes ruidosas, a menudo a muerte. Aquellos que pueden sobrevivir a estos combates son entrenados como los más brutales combatientes del pozo."
 ClassDescription,"Wilderness sentinels who understand the true balance of the universe. With bow in hand, they have devoted their lives to protecting the forces of nature from the corrupting touch of civilisation.","Centinelas de la naturaleza salvaje que entienden el verdadero equilibrio del universo. Con el arco en la mano, han dedicado sus vidas a proteger las fuerzas de la naturaleza del toque corruptor de la civilización."
+ClassName,apothecary//female,
+ClassName,apothecary//male,
+ClassName,apothecary//non-binary,
 ClassName,barbarian//female,bárbara
 ClassName,barbarian//male,bárbaro
 ClassName,barbarian//non-binary,bárbaro
@@ -749,6 +1027,9 @@ ClassName,convict//non-binary,convicto
 ClassName,druid//female,druida
 ClassName,druid//male,druida
 ClassName,druid//non-binary,druida
+ClassName,elementalist//female,
+ClassName,elementalist//male,
+ClassName,elementalist//non-binary,
 ClassName,explorer//female,exploradora
 ClassName,explorer//male,explorador
 ClassName,explorer//non-binary,explorador
@@ -782,6 +1063,9 @@ ClassName,mystic//non-binary,místico
 ClassName,necromancer//female,nigromante
 ClassName,necromancer//male,nigromante
 ClassName,necromancer//non-binary,nigromante
+ClassName,nightblade//female,
+ClassName,nightblade//male,
+ClassName,nightblade//non-binary,
 ClassName,ninja//female,ninja
 ClassName,ninja//male,ninja
 ClassName,ninja//non-binary,ninja
@@ -809,6 +1093,9 @@ ClassName,samurai//non-binary,samurai
 ClassName,shaman//female,chamán
 ClassName,shaman//male,chamán
 ClassName,shaman//non-binary,chamán
+ClassName,slayer//female,
+ClassName,slayer//male,
+ClassName,slayer//non-binary,
 ClassName,templar//female,templaria
 ClassName,templar//male,templario
 ClassName,templar//non-binary,templario
@@ -821,18 +1108,26 @@ ClassName,tourist//non-binary,turista
 ClassName,valkyrie//female,valquiria
 ClassName,valkyrie//male,valquiria
 ClassName,valkyrie//non-binary,valquiria
+ClassName,witch//female,
+ClassName,witch//male,
+ClassName,witch//non-binary,
 ClassName,wizard//female,maga
 ClassName,wizard//male,mago
 ClassName,wizard//non-binary,mago
+CompanionName,almiraj,
+CompanionName,astral puppy,
 CompanionName,bird,ave
+CompanionName,blink puppy,
 CompanionName,cat,gato
 CompanionName,dog,perro
 CompanionName,egg,huevo
 CompanionName,ghoul,necrófago
+CompanionName,hamster,
 CompanionName,horse,caballo
 CompanionName,imp,diablillo
 CompanionName,monkey,mono
 CompanionName,rat,rata
+CompanionName,raven,
 CounterName,afflictions,aflicciones
 CounterName,animations,animaciones
 CounterName,anoints,unciones
@@ -925,8 +1220,10 @@ DeviceName,fire trap,trampa de fuego
 DeviceName,grease trap,trampa de grasa
 DeviceName,hallucination trap,trampa alucinógena
 DeviceName,hole,agujero
+DeviceName,humantrap,
 DeviceName,hunger trap,trampa de hambre
 DeviceName,ice trap,trampa de hielo
+DeviceName,ink pool,
 DeviceName,level teleporter,teletransportador de nivel
 DeviceName,lightning trap,trampa de relámpago
 DeviceName,noxious pool,piscina nociva
@@ -941,6 +1238,7 @@ DeviceName,sleeping gas trap,trampa de gas para dormir
 DeviceName,spear trap,trampa de lanzas
 DeviceName,spiked pit,pozo con púas
 DeviceName,squeaky board,tabla ruidosa
+DeviceName,statue trap,
 DeviceName,teleporter,teletransportador
 DeviceName,toxic trap,trampa tóxica
 DeviceName,trapdoor,puerta trampa
@@ -1007,15 +1305,68 @@ EncumbranceName,stressed,estresado
 EncumbranceName,unencumbered,sin carga
 EngulfmentName,engulfed,tragado
 EngulfmentName,swallowed,engullido
+EntityDescription,"A blink dog pup, already able to flicker away from danger before it lands a bite.",
+EntityDescription,A bulbous fungus that bursts into a hissing cloud of acid when disturbed.,
+EntityDescription,"A cave bear whose pelt has gone grey as cinders, hardened by years sheltered in a live volcano's roots.",
+EntityDescription,"A cave spider drained of all colour by lightless generations, hunting by web-thrum alone.",
+EntityDescription,"A cobra pale as hoarfrost, coiled in the ice caves where warm-blooded prey seeks shelter.",
+EntityDescription,"A coyote with a static-charged coat, drawn down from the high plains after a lightning storm.",
+EntityDescription,"A dead tree animated by rot and old malice, its bark split open where a jaw shouldn't be.",
+EntityDescription,"A dragon steeped in high magic, said to hoard grimoires as jealously as gold.",
+EntityDescription,A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.,
+EntityDescription,A dwarf of a mountain clan so far north the forge-fires burn blue; one of its twin mattocks bites like the wind off the peak.,
+EntityDescription,A fey hound that flickers between here and elsewhere; it fights alongside anyone it trusts.,
+EntityDescription,"A giant bat with clouded, sightless eyes, navigating wholly by the shriek of its own echo.",
+EntityDescription,"A giant beetle with a carapace of blue-white chitin, breath steaming with cold in the deep dark.",
+EntityDescription,"A giant caked grey with volcanic ash, walking down from a smoking peak with a club still smoking at the tip.",
+EntityDescription,"A giant of the high glaciers, sheathed in rime; its breath alone can flash-freeze a puddle solid.",
+EntityDescription,"A gila monster whose beaded hide glows dull orange along the seams, as if lit from beneath.",
+EntityDescription,"A gnome who never left the deep tunnels, pale and stooped, at ease chewing through rock with a pickaxe.",
+EntityDescription,"A golem cast from bronze rather than raw iron; where its cousin only staggers under a lightning strike, this one drinks the current and spits it back.",
+EntityDescription,"A hound of the Astral plane, half-seen even when it stands still; it does not breathe or bleed.",
+EntityDescription,"A jackal wasted by sickness, its ribs showing through a mangy hide; its bite festers.",
+EntityDescription,A jelly black as a starless sky; things it touches for too long forget how alive they were.,
+EntityDescription,A jelly that glows faintly like a coal; fire only makes it swell larger and angrier.,
+EntityDescription,A jelly that reeks of rot; it dissolves flesh and gear alike to feed itself.,
+EntityDescription,"A jelly the colour of a bruise, faintly crackling; touching it feels like brushing a doorknob after crossing a carpet in winter.",
+EntityDescription,"A jelly the colour of glacier ice, cold to the touch and colder still if it touches back.",
+EntityDescription,"A kobold camouflaged in mottled green, more comfortable in the canopy than underground; it spits venom from a hollow reed.",
+EntityDescription,"A long worm that burrows through permafrost, its segmented hide crusted with rime.",
+EntityDescription,"A lynx with a rime-white winter coat, breath fogging even in a warm room.",
 EntityDescription,A medium-sized creature prone to great ambition. Short-lived but ubiquitous; they are not to be underestimated.,Una criatura mediana propensa a grandes ambiciones. Corta vida pero ubicua; no deben ser subestimados.
+EntityDescription,"A panther whose black coat smoulders at the edges, leaving smoking pawprints on stone.",
+EntityDescription,"A plump waterfowl, unbothered by dungeons so long as there is a puddle nearby.",
+EntityDescription,"A pudding of black, viscid tar that oozes and smoulders at once; anything it swallows comes out cindered.",
+EntityDescription,"A raven with feathers like beaten iron, riding the thunderheads and stooping with a crack of static.",
+EntityDescription,"A rodent the size of a dog, cheek pouches bulging with whatever it last found on the floor.",
+EntityDescription,"A sewer rat gone pure white and pink-eyed, blind from generations in unlit tunnels.",
+EntityDescription,"A shade gone pale and crystalline, trailing frost wherever it drifts; the cold pours off it before it ever draws near.",
+EntityDescription,A shambling corpse wrapped in weeping buboes; the sickness that killed it did not stop working when it died.,
+EntityDescription,"A shark bred to lightless ocean trenches, its eyes filmed over and useless.",
+EntityDescription,"A skeleton picked clean by something worse than time; its bones are black at the joints, and its touch draws the warmth out of the living.",
+EntityDescription,A small heap of coins that isn't quite finished counting itself.,
+EntityDescription,"A small, quick-witted dragon out of the fey courts, more prankster than predator.",
+EntityDescription,"A spitting beetle whose glands have gone volcanic, hawking gobbets of burning pitch.",
+EntityDescription,"A standing wave of brackish swamp water, thick with algae and old poison; nothing in it is fresh, and nothing about touching it is safe.",
+EntityDescription,"A troll that wandered too near a volcano and came out the other side wrong: its hide is cracked magma-rock, glowing at every seam.",
+EntityDescription,"A water moccasin gone jet black, all but invisible against a night-flooded cave pool.",
+EntityDescription,"A weathered chest, until its lid splits open into a maw ringed with teeth.",
+EntityDescription,"A young astral dog, still learning to keep all four paws on the material plane at once.",
+EntityDescription,"A young mimic, its shapeshifting still crude — usually just a box that bites back.",
 EntityDescription,"Amorphous beings who have no typical shape but often take on a translucent humanoid form. While unmistakable for anything other than a plasma-like ooze, this form enables the use of clothing and tools.","Seres amorfos que carecen de una forma típica, pero a menudo adoptan una forma translúcida similar a la de un humanoide. Aunque son inconfundibles por cualquier cosa que no sea una masa similar al plasma, esta forma les permite usar ropa y herramientas."
 EntityDescription,"An ancient race of towering recluses. Their terrifying size gives them immense strength, supplemented by a voracious diet of meats and minerals.","Una antigua raza de imponentes reclusos. Su tamaño aterrador les da una fuerza inmensa, complementada por una dieta voraz de carnes y minerales."
+EntityDescription,"An ape with a crackling, wire-taut hide, native to the thunderheads above the high peaks.",
+EntityDescription,"An elf of the sunlit dunes, skin bronzed and eyes narrowed; its arrows are fletched with fire-hardened reed and fly burning.",
+EntityDescription,"An ogre gone half-feral in the fens, its skin sallow and slick; its claws carry a rot no wound-dressing can clean.",
+EntityDescription,An orc mummy exhumed from a barrow sealed under a cinder-field; its wrappings are charred and its grip sears whatever it holds.,
+EntityDescription,"An orc that has made its home in the marshlands, its blade notched and slicked with venom drawn from swamp adders.",
 EntityDescription,"Astral beings who are a vessel for the indomitable spirit of a vanquished adventurer. Having no motivations of their own, they are glad to permit the possession; for the deceased adventurer, it is a second chance at revenge or redemption. Born from astral matter, they are slightly built, translucent and can move freely through physical obstacles.","Entidades astrales que contienen el indomable espiritu de aventureros derrotados. Al no tener motivaciones propias, se alegran de permitir la posesión. Para el aventurero fallecido, es una segunda oportunidad de venganza o redención. Nacidos de materia astral, están ligeramente armados fisicamente, son translúcidos y pueden moverse libremente a través de obstáculos físicos."
 EntityDescription,"Beautiful, otherworldly beings characterised by their signature halo and feathered wings. Strongly attuned to the struggle between good and evil, they sense the divinity within anything they hold.","Hermosos seres de otro mundo caracterizados por su peculiar halo y sus alas emplumadas. Fuertemente adaptados al conflicto entre el bien y el mal, sienten la divinidad dentro de todo lo que poseen."
 EntityDescription,Beware this clockwork machine of war.,Cuidado con esta máquina de guerra relojesca.
 EntityDescription,Bipedal mechanical automatons with nearly unbounded artificial intelligence. Powered by a molten core engine that requires a constant supply of raw metals and is susceptible to water damage.,"Automatas, mecanicos y bípedos con una casi ilimitada inteligencia artificial. Funcionando bajo el impulso de un núcleo de motor fundido que requiere del constante sustento de metales crudos, mas son vulnerables a recibir daños con el simple tacto del agua."
 EntityDescription,"Fey creatures linked by powerful nature spirits to fuel their antics. They are stocky with furry lower bodies, cloven hooves of a goat and curled horns of a ram. Ribald and clever, they cheerfully lead hedonistic escapades of drinking, dancing and fighting.","Criaturas mágicas vinculadas por poderosos espíritus de la naturaleza para alimentar sus payasadas. Son fornidos con la parte inferior del cuerpo peludo, pezuñas hendidas de cabra y cuernos de carnero enroscados. Atrevidos e inteligentes, lideran alegremente escapadas hedonistas de bebidas, bailes y peleas."
 EntityDescription,"Imposing and heavily built, they resemble humanoid dragons with a snout, scaly hide and functional wings.","Imponentes y fornidos, se asemejan a dragones humanoides con caracteristicas reptilianas incluyendo la piel escamosa, hocico y garras afiladas."
+EntityDescription,"It waits among the headstones shaped like one more grave marker, patient as the dead around it.",
 EntityDescription,"Large, omnivorous reptilians whose bestial ancestors dominated the world long before the birth of civilisation. They are fearsome predators, capable of leaping impressive distances and warding off many attacks with their thick scaly hides.","Grandes reptiles carnívoros cuyos bestiales antepasados dominaron el mundo mucho antes del nacimiento de la civilización. Son depredadores temibles, capaces de saltar distancias impresionantes y evitar muchos ataques con sus gruesas pieles escamosas."
 EntityDescription,Monstrous creatures with the head and tail of a bull and the body of a man.,"Criaturas monstruosas, con la cola y cabeza de un toro, pero con el cuerpo de un hombre. Fueron condenados a vagar por la mazmorra desde que sus ancestros se revelaran contra los dioses, maldecidos con una rabia incontrolable que viene casi siempre en los peores momentos."
 EntityDescription,"Perverse creatures of many aberrations but always with crimson skin and horns. Their mere presence compels others to act out their darkest, most violent desires.","Criaturas perversas de muchas aberraciones, pero siempre con piel y cuernos carmesí. Su mera presencia obliga a otros a exteriorizar sus deseos más oscuros y violentos."
@@ -1033,7 +1384,11 @@ EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",Criaturas feas y brutales con tendencias caníbales; esta raza guerrera es conocida por su impresionante fuerza e incapacidades intelectuales.
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.","Injustamente caracterizadas como cobardes y débiles, estas diminutas criaturas reptilianas superan sus limitaciones físicas mediante el empleo de estrategias viciosas y astutas."
 EntityName,abbot,abad
+EntityName,abyssal shark,
 EntityName,acid blob,masa amorfa ácida
+EntityName,acid elemental,
+EntityName,acid sphere,
+EntityName,acid spore,
 EntityName,acid worm,gusano ácido
 EntityName,acolyte,acólito
 EntityName,adamantine golem,golem de adamantina
@@ -1049,8 +1404,15 @@ EntityName,adult shimmering dragon,dragón centelleante adulto
 EntityName,adult silver dragon,dragón plateado adulto
 EntityName,adult white dragon,dragón blanco adulto
 EntityName,adult yellow dragon,dragón amarillo adulto
+EntityName,air binder,
 EntityName,air elemental,elemental de aire
+EntityName,air maker,
+EntityName,air seeker,
+EntityName,air sphere,
+EntityName,albino rat,
+EntityName,alchemist,
 EntityName,Aleax,Aleax
+EntityName,almiraj,
 EntityName,ancient black dragon,antiguo dragón negro
 EntityName,ancient blue dragon,antiguo dragón azul
 EntityName,ancient deep dragon,antiguo dragón oscuro
@@ -1063,6 +1425,7 @@ EntityName,ancient silver dragon,antiguo dragón plateado
 EntityName,ancient white dragon,antiguo dragón blanco
 EntityName,ancient yellow dragon,antiguo dragón amarillo
 EntityName,angel,ángel
+EntityName,angel warrior,
 EntityName,animate object,objeto animado
 EntityName,ape,simio
 EntityName,Aphrodite,Afrodita
@@ -1070,17 +1433,30 @@ EntityName,apprentice,aprendiz
 EntityName,arc bug,insecto de arco voltaico
 EntityName,arch-lich,archiliche
 EntityName,archangel,arcángel
+EntityName,archeologist,
 EntityName,Archmage Dirachi,Alto Mago de Hielo
 EntityName,Archmage Flaynn,Alto Mago de Fuego
 EntityName,archon,arconte
 EntityName,Archpriest Avvakrum,Arcipreste
+EntityName,army captain,
+EntityName,army lieutenant,
+EntityName,army sergeant,
+EntityName,army soldier,
 EntityName,artisan,artesano
+EntityName,ash elemental,
+EntityName,ash giant,
+EntityName,ashen cave bear,
+EntityName,ashen mummy,
 EntityName,Ashikaga Takauji,Ashikaga Takauji
 EntityName,Asmodeus,Asmodeus
 EntityName,asphynx,esfinge
+EntityName,assassin,
 EntityName,assassin bug,insecto asesino
 EntityName,Assassin Mortimer,Asesino Maestro
 EntityName,astral deva,deva astral
+EntityName,astral dog,
+EntityName,astral dragon,
+EntityName,astral puppy,
 EntityName,athol,athol
 EntityName,attendant,asistente
 EntityName,Baalzebub,Belcebú
@@ -1092,6 +1468,7 @@ EntityName,baby deep dragon,dragón profundo bebé
 EntityName,baby gold dragon,dragón dorado bebé
 EntityName,baby green dragon,dragón verde bebé
 EntityName,baby long worm,lombriz larga bebé
+EntityName,baby mimic,
 EntityName,baby orange dragon,dragón naranja bebé
 EntityName,baby purple worm,lombriz púrpura bebé
 EntityName,baby red dragon,dragón rojo bebé
@@ -1111,8 +1488,10 @@ EntityName,basilisk,basilisco
 EntityName,bat,murciélago
 EntityName,bearded devil,demonio barbudo
 EntityName,beholder,observador
+EntityName,berserker,
 EntityName,bile worm,gusano de la bilis
 EntityName,bile worm tail,cola de gusano de la bilis
+EntityName,bishop,
 EntityName,black light,luz negra
 EntityName,black marketeer,mercader negro
 EntityName,black mould,moho negro
@@ -1123,26 +1502,37 @@ EntityName,black rat,rata negra
 EntityName,black troll,troll negro
 EntityName,black unicorn,unicornio negro
 EntityName,black wasp,avispa negra
+EntityName,blind cave bat,
+EntityName,blink dog,
+EntityName,blink puppy,
 EntityName,blinking eye,ojo parpadeante
 EntityName,blood imp,diablillo de sangre
 EntityName,bloodshot eye,ojo sangriento
 EntityName,bloodworm,gusano de sangre
 EntityName,blue jelly,gelatina azul
 EntityName,blue light,luz azul
+EntityName,bog ogre,
 EntityName,bone devil,demonio de huesos
+EntityName,bone reaper,
+EntityName,brine elemental,
+EntityName,bronze golem,
 EntityName,brown mould,moho marrón
 EntityName,brown pudding,pudín marrón
 EntityName,brownie,brownie
 EntityName,bugbear,osgo
 EntityName,bull,toro
+EntityName,buraq,
 EntityName,burbling blob,masa amorfa burbujeante
+EntityName,bushi,
 EntityName,byakhee,byakhee
+EntityName,Byakko,
 EntityName,captain,capitán
 EntityName,carnivorous ape,simio carnívoro
 EntityName,carrion crawler,carroñero rastrero
 EntityName,caterwaul,caterwaul
 EntityName,catoblepas,catóblepon
 EntityName,cave bear,oso de cueva
+EntityName,cave gnome,
 EntityName,cave spider,araña de cueva
 EntityName,cave troll,troll de cueva
 EntityName,centipede,cienpiés
@@ -1151,6 +1541,7 @@ EntityName,chameleon,camaleón
 EntityName,changeling,pequeño cambiaformas
 EntityName,Charon,Caronte
 EntityName,chasme,chasme
+EntityName,cherubim,
 EntityName,chickatrice,gallotriz
 EntityName,chicken,gallina
 EntityName,chief yeoman warder,jefe guardián de la hacienda
@@ -1170,6 +1561,7 @@ EntityName,crocodile,cocodrilo
 EntityName,Croesus,Creso
 EntityName,crystal golem,golem de cristal
 EntityName,Cthulhu,Cthulhu
+EntityName,cyan jelly,
 EntityName,cyclops,cíclope
 EntityName,dao,dao
 EntityName,dark cleric,clérigo oscuro
@@ -1201,7 +1593,12 @@ EntityName,dracon,dracónido
 EntityName,dragon king,dragón rey
 EntityName,dretch,dretch
 EntityName,drow,elfo oscuro
+EntityName,drow mage,
+EntityName,drow monk,
+EntityName,drow priestess,
+EntityName,drow thief,
 EntityName,dryad,dríada
+EntityName,duck,
 EntityName,duergar,enano gris
 EntityName,dung worm,gusano de excremento
 EntityName,dust vortex,remolino de polvo
@@ -1220,6 +1617,7 @@ EntityName,earth seeker,buscador de la tierra
 EntityName,earth sphere,esfera de tierra
 EntityName,echo,eco
 EntityName,efreeti,ifrit
+EntityName,elder wizard,
 EntityName,electric eel,anguila eléctrica
 EntityName,elephant,elefante
 EntityName,elf,elfo
@@ -1229,16 +1627,24 @@ EntityName,elf mummy,momia elfo
 EntityName,elf zombie,elfo zombi
 EntityName,Elwing,Elwing
 EntityName,embalmer,embalsamador
+EntityName,ember panther,
+EntityName,ember spitting beetle,
 EntityName,emerald golem,golem de esmeralda
+EntityName,energy elemental,
 EntityName,energy vortex,remolino de energía
 EntityName,erinys,erinia
+EntityName,eshim,
 EntityName,ettin,ettin
 EntityName,ettin mummy,momia ettin
 EntityName,ettin zombie,ettin zombi
+EntityName,explosive elemental,
+EntityName,explosive sphere,
 EntityName,exterminator,exterminador
+EntityName,fae dragon,
 EntityName,fairy,hada
 EntityName,Famine,Hambre
 EntityName,Father Dagon,Padre Dagon
+EntityName,female demon,
 EntityName,fiend,desalmado
 EntityName,fire ant,hormiga de fuego
 EntityName,fire elemental,elemental de fuego
@@ -1257,16 +1663,24 @@ EntityName,fog cloud,nube de niebla
 EntityName,forest centaur,centauro del bosque
 EntityName,fox,zorro
 EntityName,Frankenstein's Monster,Monstruo de Frankenstein
+EntityName,frost beetle,
 EntityName,frost binder,congelador
+EntityName,frost cobra,
+EntityName,frost dwarf,
 EntityName,frost giant,gigante de hielo
+EntityName,frost long worm,
+EntityName,frost lynx,
 EntityName,frost maker,mago del hielo
 EntityName,frost seeker,buscador del hielo
 EntityName,frost sphere,esfera congeladora
+EntityName,frost wraith,
+EntityName,galgalim,
 EntityName,gargoyle,gárgola
 EntityName,garter snake,culebra
 EntityName,gas spore,espora de gas
 EntityName,gecko,lagarto
 EntityName,gelatinous cube,cubo gelatinoso
+EntityName,General Breetai,
 EntityName,genetic engineer,ingeniero genético
 EntityName,Geryon,Gerión
 EntityName,ghast,aparición
@@ -1284,6 +1698,7 @@ EntityName,giant crab,cangrejo gigante
 EntityName,giant eel,anguila gigante
 EntityName,giant flea,pulga gigante
 EntityName,giant frog,sapo gigante
+EntityName,giant hamster,
 EntityName,giant king,rey gigante
 EntityName,giant louse,piojo gigante
 EntityName,giant mimic,mímico gigante
@@ -1297,6 +1712,7 @@ EntityName,giant termite,termita gigante
 EntityName,giant tick,garrapata gigante
 EntityName,giant wasp,avispa gigante
 EntityName,giant zombie,zombi gigante
+EntityName,Gianta Klaus,
 EntityName,gibberling,balbuceante
 EntityName,gila monster,monstruo de Gila
 EntityName,Girtab,Girtab
@@ -1321,8 +1737,10 @@ EntityName,goblin king,rey goblin
 EntityName,gold golem,golem de oro
 EntityName,golden naga,naga dorada
 EntityName,golden naga hatchling,cría de naga dorada
+EntityName,grave mimic,
 EntityName,great orc,gran orco
 EntityName,green elf,elfo verde
+EntityName,green jelly,
 EntityName,green mould,moho verde
 EntityName,green slime,baba verde
 EntityName,gremlin,gremlin
@@ -1338,7 +1756,10 @@ EntityName,guide,guía
 EntityName,Guildmaster Vaughn,Maestro de los Ladrones
 EntityName,Guru Quilion,Gran Maestro
 EntityName,gypsy,gitana
+EntityName,hag,
 EntityName,halfling,mediano
+EntityName,halfling female caveman,
+EntityName,halfling male caveman,
 EntityName,harpy,harpía
 EntityName,hell hound,sabueso infernal
 EntityName,hell hound pup,cachorro de sabueso infernal
@@ -1363,9 +1784,11 @@ EntityName,human,humano
 EntityName,human king,rey humano
 EntityName,human mummy,momia humana
 EntityName,human zombie,humano zombi
+EntityName,huntress,
 EntityName,hydra,hidra
 EntityName,ice devil,demonio de hielo
 EntityName,ice elemental,elemental de hielo
+EntityName,ice giant,
 EntityName,ice troll,troll de hielo
 EntityName,ice vortex,remolino de hielo
 EntityName,iguana,iguana
@@ -1381,8 +1804,10 @@ EntityName,jackalwere,chacal monstruoso
 EntityName,jaguar,jaguar
 EntityName,jellyfish,medusa
 EntityName,jiggling blob,masa amorfa tambaleante
+EntityName,journeyman wizard,
 EntityName,juggernaut,automata devastador
 EntityName,Juiblex,Juiblex
+EntityName,jungle kobold,
 EntityName,juvenile raven,cuervo juvenil
 EntityName,Kaloi Thrym,Señor Oscuro
 EntityName,kamadan,kamadan
@@ -1408,6 +1833,7 @@ EntityName,kobold warrior,guerrero kobold
 EntityName,kobold zombie,kobold zombi
 EntityName,komodo dragon,dragón de Komodo
 EntityName,kraken,kraken
+EntityName,Krull,
 EntityName,lamb,cordero
 EntityName,Lareth,Lareth
 EntityName,large cat,gato grande
@@ -1418,6 +1844,7 @@ EntityName,large mimic,mímico grande
 EntityName,large pile of killer coins,pila grande de monedas asesinas
 EntityName,larva,larva
 EntityName,lava blob,masa amorfa de lava
+EntityName,lava troll,
 EntityName,leather golem,golem de cuero
 EntityName,lemure,lémur
 EntityName,leocrotta,leocrotta
@@ -1434,6 +1861,7 @@ EntityName,lizardman,hombre lagarto
 EntityName,lizardman berserker,berserker hombre lagarto
 EntityName,lizardman chieftain,caudillo hombre lagarto
 EntityName,lizardman mage,mago hombre lagarto
+EntityName,lizardman samurai,
 EntityName,lizardman shaman,chamán hombre lagarto
 EntityName,lizardman warrior,guerrero hombre lagarto
 EntityName,Lolth,Lolth
@@ -1456,18 +1884,24 @@ EntityName,master mind flayer,desollamentes maestro
 EntityName,mastodon,mastodonte
 EntityName,Maugneshaagar,Maugneshaagar
 EntityName,medusa,Medusa
+EntityName,melanistic moccasin,
 EntityName,mellified man,hombre mellificado
 EntityName,merchant,mercader
+EntityName,Merdude,
 EntityName,Metamorphius,Cambiante Maestro
+EntityName,midnight jelly,
 EntityName,migo drone,mi-go dron
 EntityName,migo queen,reina mi-go
 EntityName,migo warrior,guerrero mi-go
+EntityName,mimic,
+EntityName,mimic coins,
 EntityName,mind flayer,ilícido
 EntityName,minotaur,minotauro
 EntityName,minotaur lord,señor minotauro
 EntityName,mist wolf,lobo de la niebla
 EntityName,mithril golem,golem de mithril
 EntityName,mobat,chilliciélago
+EntityName,molten gila monster,
 EntityName,monadic deva,deva monádico
 EntityName,mongbat,mongociélago
 EntityName,monkey,mono
@@ -1478,6 +1912,7 @@ EntityName,mountain nymph,ninfa de las montañas
 EntityName,movanic deva,deva movánico
 EntityName,mugger,asaltador
 EntityName,mumak,olifante
+EntityName,mystical dragon,
 EntityName,nabassu,nabassu
 EntityName,nalfeshnee,nalfeshnee
 EntityName,Nalzok,Nalzok
@@ -1488,9 +1923,12 @@ EntityName,newt,tritón
 EntityName,nickelpede,quinientospies
 EntityName,nightgaunt,noctívago demacrado
 EntityName,nightmare,caballo de pesadilla
+EntityName,noble elf,
 EntityName,Norn,Norna
+EntityName,nun,
 EntityName,nupperibo,nupperibo
 EntityName,nurse,enfermera
+EntityName,Nymph Princess,
 EntityName,occultist,ocultista
 EntityName,ochre jelly,gelatina ocre
 EntityName,ogre,ogro
@@ -1507,6 +1945,7 @@ EntityName,orc grunt,orco gruñón
 EntityName,orc king,rey orco
 EntityName,orc mummy,momia orco
 EntityName,orc shaman,orco chamán
+EntityName,orc thief,
 EntityName,orc warrior,orco guerrero
 EntityName,orc zombie,orco zombi
 EntityName,Orcus,Orcus
@@ -1514,6 +1953,7 @@ EntityName,Orion,Orión
 EntityName,owlbear,oso búho
 EntityName,pack rat,manada de ratas
 EntityName,page,paje
+EntityName,pale cave spider,
 EntityName,panther,pantera
 EntityName,pantherwere,pantera monstruosa
 EntityName,paper golem,golem de papel
@@ -1524,6 +1964,10 @@ EntityName,Pelias,Pelias
 EntityName,Pestilence,Pestilencia
 EntityName,phase spider,araña de fase
 EntityName,phase worm,gusano de fase
+EntityName,pheral khit,
+EntityName,pheral pharaoh,
+EntityName,pheral sentinel,
+EntityName,pheral vizier,
 EntityName,pig,cerdo
 EntityName,pile of killer coins,pila de monedas asesinas
 EntityName,piranha,piraña
@@ -1531,10 +1975,13 @@ EntityName,pit bull,perro pit bull
 EntityName,pit fiend,demonio de pozo
 EntityName,pit viper,víbora de pozo
 EntityName,pixie,duendecillo
+EntityName,plague jackal,
+EntityName,plague zombie,
 EntityName,plains centaur,centauro de las llanuras
 EntityName,Planetar,Planetar
 EntityName,plasmoid,plasmóide
 EntityName,plastic golem,golem de plástico
+EntityName,poison alchemist,
 EntityName,pony,poni
 EntityName,proudfoot,proudfoot
 EntityName,purple worm,gusano púrpura
@@ -1554,6 +2001,7 @@ EntityName,rancid jelly,gelatina rancia
 EntityName,rat king,rey rata
 EntityName,ratwere,rata monstruosa
 EntityName,recluse spider,araña reclusa
+EntityName,red jelly,
 EntityName,red light,luz roja
 EntityName,red mould,moho rojo
 EntityName,red naga,naga roja
@@ -1561,6 +2009,10 @@ EntityName,red naga hatchling,cría de naga roja
 EntityName,rhaumbusun,rhaumbusun
 EntityName,rhumbat,ronciélago
 EntityName,robot,robot
+EntityName,robot female,
+EntityName,robot male vampire gunslinger,
+EntityName,robot sentry,
+EntityName,robot singer,
 EntityName,rock kobold,kobold de roca
 EntityName,rock mole,topo de roca
 EntityName,rock piercer,perforador de roca
@@ -1570,6 +2022,7 @@ EntityName,roshi,roshi
 EntityName,rot worm,gusano de la pobredumbre
 EntityName,rothé,rothé
 EntityName,ruby golem,golem de rubí
+EntityName,runicorn,
 EntityName,rust monster,monstruo comeoxido
 EntityName,rutterkin,rutterkin
 EntityName,sabre-toothed cat,tigre dientes de sable
@@ -1578,10 +2031,13 @@ EntityName,sandestin,sandestin
 EntityName,sapphire golem,golem de zafiro
 EntityName,sasquatch,sasquatch
 EntityName,satyr,sátiro
+EntityName,savage brute,
+EntityName,savage stalker,
 EntityName,scorpion,escorpión
 EntityName,Scorpius,Scorpius
 EntityName,scramper,scramper
 EntityName,seal,fica
+EntityName,seraphim,
 EntityName,sergeant,sargento
 EntityName,sewer rat,rata de alcantarilla
 EntityName,shade,sombra menor
@@ -1589,6 +2045,7 @@ EntityName,shadow,sombra
 EntityName,shadow ogre,ogro de sombras
 EntityName,shadow wolf,lobo de sombras
 EntityName,Shaman Karnov,Chamán Karnov
+EntityName,shaolin monk,
 EntityName,shark,tiburón
 EntityName,sheep,oveja
 EntityName,shifter,cambiante
@@ -1599,6 +2056,7 @@ EntityName,shock seeker,buscador de la electricidad
 EntityName,shock sphere,esfera eléctrica
 EntityName,shoggoth,shoggoth
 EntityName,shrieker,aullador
+EntityName,silver golem,
 EntityName,Sir Lorimar,Sir Lorimar
 EntityName,skeleton,esqueleto
 EntityName,small mimic,mímico pequeño
@@ -1610,6 +2068,9 @@ EntityName,snow orc,orco de nieve
 EntityName,Solar,Solar
 EntityName,soldier,soldado
 EntityName,soldier ant,hormiga soldado
+EntityName,sonic elemental,
+EntityName,sonic sphere,
+EntityName,Soul Summoner,
 EntityName,spark bug,insecto chispa
 EntityName,spider queen,reina araña
 EntityName,spiderwere,araña monstruosa
@@ -1623,24 +2084,36 @@ EntityName,static blob,masa amorfa estática
 EntityName,steam vortex,remolino de vapor
 EntityName,stone giant,gigante de piedra
 EntityName,stone golem,golem de piedra
+EntityName,storm ape,
+EntityName,storm coyote,
 EntityName,storm giant,gigante de tormenta
+EntityName,storm raven,
 EntityName,straw golem,golem de paja
 EntityName,student,estudiante
 EntityName,succubus,súcubo
+EntityName,sun elf,
 EntityName,swamp kobold,kobold de pantano
+EntityName,swamp orc,
+EntityName,tar pudding,
+EntityName,tempter,
+EntityName,temptress,
 EntityName,tengu,tengu
+EntityName,thief,
 EntityName,Thorin,Thorin
 EntityName,Thoth Amon,Thoth Amon
 EntityName,thug,matón
 EntityName,tiger,tigre
 EntityName,tigerwere,tigre monstruoso
+EntityName,tin golem,
 EntityName,titan,titán
 EntityName,titanothere,titanotérido
 EntityName,topaz golem,golem de topacio
 EntityName,tortle,tortuga
 EntityName,tracker,cazador
+EntityName,trader,
 EntityName,transmuter,transmutador
 EntityName,trapper,trampero
+EntityName,traveller,
 EntityName,treant,treant
 EntityName,troll,troll
 EntityName,troll mummy,troll momia
@@ -1658,6 +2131,7 @@ EntityName,vampire mage,mago vampiro
 EntityName,Van Helsing,Van Helsing
 EntityName,Vecna,Vecna
 EntityName,violet fungus,hongo violeta
+EntityName,violet jelly,
 EntityName,vorpal jabberwock,jabberwock vorpal
 EntityName,vrock,vrock
 EntityName,war orc,orco de guerra
@@ -1687,6 +2161,7 @@ EntityName,weretiger,hombre tigre
 EntityName,werewolf,hombre lobo
 EntityName,white unicorn,unicornio blanco
 EntityName,wight,alma en pena
+EntityName,wind sphere,
 EntityName,winged gargoyle,gárgola alada
 EntityName,winter wolf,lobo de invierno
 EntityName,winter wolf cub,cachorro de lobo de invierno
@@ -1722,6 +2197,7 @@ EntityName,young shimmering dragon,dragón reluciente juvenil
 EntityName,young silver dragon,dragón plateado juvenil
 EntityName,young white dragon,dragón blanco juvenil
 EntityName,young yellow dragon,dragón amarillo juvenil
+EntityName,zombietree,
 EntityName,zruty,zruti
 EquipAction,employ,emplear
 EquipAction,purse,guardar en el monedero
@@ -1763,9 +2239,15 @@ FeatureName,bed,cama
 FeatureName,fountain,fuente
 FeatureName,grave,tumba
 FeatureName,pentagram,pentagrama
+FeatureName,pyramid,
 FeatureName,sarcophagus,sarcofago
+FeatureName,sink,
 FeatureName,stall,puesto
 FeatureName,throne,trono
+FeatureName,toilet,
+FeatureName,wooden sign,
+FeatureName,wooden stool,
+FeatureName,wooden table,
 FeatureName,workbench,mesa de trabajo
 FormatText,{ActionCount} action,{ActionCount} acción
 FormatText,{ActionCount} actions,{ActionCount} acciones
@@ -2056,13 +2538,17 @@ GradeName,exotic,exótico
 GradeName,standard,estándard
 GroundDescription,The cool stone surface has immaculate craftsmanship but is marked by damage and time.,La fría piedra fue inmaculadamente elaborada pero está marcada por el daño y el tiempo.
 GroundName,cave floor,suelo de cueva
+GroundName,cave path,
 GroundName,chasm,abismo
+GroundName,cloud,
+GroundName,deep water,
 GroundName,dirt,suelo de tierra
 GroundName,gold floor,suelo de oro
 GroundName,granite floor,suelo de granito
 GroundName,grass,hierba
 GroundName,hive floor,suelo de colmena
 GroundName,ice,hielo
+GroundName,lattice floor,
 GroundName,lava,lava
 GroundName,marble floor,suelo de mármol
 GroundName,metal floor,piso de metal
@@ -2070,33 +2556,51 @@ GroundName,moss,musgo
 GroundName,obsidian floor,suelo de obsidiana
 GroundName,sand,arena
 GroundName,sewer floor,suelo de alcantarilla
+GroundName,shallow water,
 GroundName,snow,nieve
 GroundName,stone floor,suelo de piedra
 GroundName,stone path,pasillo de piedra
 GroundName,water,agua
 GroundName,wooden floor,suelo de madera
+HordeName,acid foundry,
+HordeName,air foundry,
+HordeName,albino rat,
+HordeName,angelic choir,
 HordeName,ant,hormiga
 HordeName,ape,simio
+HordeName,army patrol,
+HordeName,army platoon,
+HordeName,army squad,
+HordeName,ash foundry,
+HordeName,astral dog,
 HordeName,bat,murciélago
 HordeName,bee,abeja
 HordeName,beetle,escarabajo
+HordeName,blink dog,
+HordeName,brine foundry,
 HordeName,cockroach,cucaracha
 HordeName,couatl,couatl
 HordeName,coyote,coyote
 HordeName,demon,demonio
 HordeName,drow,elfo oscuro
+HordeName,drow enclave,
 HordeName,dwarf,enano
 HordeName,electric bug,insecto electrico
 HordeName,elf,elfo
+HordeName,energy foundry,
+HordeName,explosive foundry,
 HordeName,flea,pulga
 HordeName,garter snake,culebra
 HordeName,gibberling,balbuceante
 HordeName,gnome,gnomo
 HordeName,goblin,goblin
+HordeName,golem workshop,
 HordeName,grimlock,grimlock
 HordeName,harpy,harpía
+HordeName,heavenly host,
 HordeName,hell hound,sabueso infernal
 HordeName,jackal,chacál
+HordeName,jelly cistern,
 HordeName,keystone,keystone
 HordeName,kobold,kobold
 HordeName,lemure,lémur
@@ -2105,14 +2609,20 @@ HordeName,louse,piojo
 HordeName,mane,humanoide endemoniado
 HordeName,mangler,aberracion quadrupeda
 HordeName,migo,mi-go
+HordeName,mimic nest,
 HordeName,mould,moho
 HordeName,ogre,ogro
 HordeName,orc,orco
+HordeName,pheral tomb,
+HordeName,plague jackal,
 HordeName,rat,rata
 HordeName,rothé,rothé
 HordeName,scorpion,escorpión
+HordeName,sonic foundry,
 HordeName,spider,araña
 HordeName,spore,espora
+HordeName,storm coyote,
+HordeName,tar pudding,
 HordeName,termite,termita
 HordeName,tick,garrapata
 HordeName,tsetse fly,mosca tsé-tsé
@@ -2124,15 +2634,36 @@ HordeName,wolf,lobo
 HordeName,worm,gusano
 HordeName,yeoman,guardia de la hacienda
 HordeName,zombie,zombi
+ItemDescription,"A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.",
+ItemDescription,"A barbed iron hook on a long coil of rope, thrown out and hauled back in.",
+ItemDescription,"A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.",
+ItemDescription,"A branched silver candle-holder, its every arm lit at once.",
+ItemDescription,"A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.",
+ItemDescription,"A canvas roll of bandages, salves and sutures for treating wounds in the field.",
+ItemDescription,"A ceremonial double-bitted axe, its twin blades curved like a crescent moon.",
+ItemDescription,"A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.",
+ItemDescription,"A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.",
 ItemDescription,A cloth mask that completely obstructs the wearer's vision.,Una máscara de tela que obstruye completamente la visión del usuario.
 ItemDescription,"A collection of utensils, including empty tins and butchering tools, for packing corpses so as to condense them.","Una colección de utensilios, incluidas latas vacías y herramientas de despiece, para empaquetar cadáveres."
 ItemDescription,A compact hand-held firearm.,Un arma de mano compacta.
+ItemDescription,"A crudely hammered throwing disc with a jagged, uneven rim, more likely to tear than to cut cleanly.",
+ItemDescription,"A curved funerary blade inlaid with gold, once carried by a pharaonic guardian charged with keeping the dead in their tombs.",
+ItemDescription,"A curved single-edged blade mounted on a long oaken shaft, prized by the warrior monks of the far east.",
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.","Una hoja curvada de un solo filo, utilizada a menudo por la caballería, especialmente efectiva contra las criaturas del inframundo."
 ItemDescription,A curved single-edged blade often used by cavalry.,una hoja curva de un solo filo usualmente usada por la caballeria
 ItemDescription,A curved yellow fruit and a great source of fibre.,"Una fruta amarilla curvada, y una gran fuente de fibra."
+ItemDescription,A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.,
+ItemDescription,A fine-grained stone for putting an edge back on a tired blade.,
+ItemDescription,"A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.",
+ItemDescription,A flat black stone used since antiquity to tell real gemstones from paste and glass.,
+ItemDescription,A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.,
 ItemDescription,"A flat throwing weapon made of wood, often used for hunting.","Un arma arrojadiza plana hecha de madera, a menudo utilizada para la caza."
 ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.","Un pastel plano y redondo. Cocinado en una sartén, como puedes suponer."
+ItemDescription,"A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.",
 ItemDescription,A foreign device which creates perfect visual depictions of reality.,Un dispositivo extraño que crea representaciones visuales perfectas de la realidad.
+ItemDescription,"A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.",
+ItemDescription,"A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.",
+ItemDescription,"A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.",
 ItemDescription,A hand-held brass horn.,Un cuerno de mano de latón.
 ItemDescription,"A hard rock, smooth and therefore aerodynamic.","Una roca dura, lisa y aerodinámica."
 ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,Un palo de madera dura. Es un arma modesta pero formidable en manos entrenadas.
@@ -2140,10 +2671,16 @@ ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.","Una
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.","Una espada de doble filo pesada y larga. Similar a una espada larga, aumentada específicamente para uso a dos manos."
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,Un pesado martillo de hierro diseñado específicamente para su uso en combate cuerpo a cuerpo.
 ItemDescription,A heavy suit of armour made up of many strips of metal.,Una armadura pesada compuesta por muchas tiras de metal.
+ItemDescription,"A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.",
 ItemDescription,"A horizontal, mechanically-aided bow and arrow with a shoulder stock.","Un arco y una flecha horizontales, asistidos mecánicamente, con culata para apoyar en el hombro."
 ItemDescription,A key designed to open all mundane locks.,Una llave diseñada para abrir todas las cerraduras mundanas.
+ItemDescription,"A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.",
 ItemDescription,"A leather pouch set between two cords, meant for launching small projectiles.","Una bolsa de cuero colocada entre dos cuerdas, destinada al lanzamiento de pequeños proyectiles."
+ItemDescription,"A length of sturdy rope with a clasp, for keeping a tame animal close at hand.",
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.","Un panel protector liviano atado al antebrazo, hecho de madera con refuerzo de metal."
+ItemDescription,"A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.",
+ItemDescription,A long cane rod strung with line and hook. Best used beside open water.,
+ItemDescription,"A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.",Un largo cuchillo de hierro que tiene un contrapeso para que pueda ser lanzado con la mano.
 ItemDescription,A long pipe meant for shooting darts through force of breath.,Un tubo largo destinado a disparar dardos mediante la fuerza de la respiración.
 ItemDescription,A long thrusting polearm best suited to mounted combat.,"Un palo largo, parecido a una lanza, que se maneja mejor estando montado."
@@ -2151,68 +2688,110 @@ ItemDescription,A long-shafted arrow with a distinctive tip.,Una flecha de eje l
 ItemDescription,"A long, flexible leather thong. Unexpectedly sharp.",Una correa de cuero larga y flexible. Inesperadamente afilada.
 ItemDescription,"A long, flowing garment, with long sleeves and a hood.","Una prenda larga, fluida, con mangas largas y capucha."
 ItemDescription,A mace that is spiked on its head.,Una maza con la cabeza claveteada.
+ItemDescription,"A massive adamantine maul, its head as large as a barrel stave, that shrugs off the recoil of its own swing.",
+ItemDescription,"A massive, mithril-shod maul, its head as large as a barrel stave.",
 ItemDescription,A meal made from the stomach lining of an animal.,Una comida hecha del revestimiento del estómago de un animal.
+ItemDescription,"A miniature crossbow of elven design, light enough to be drawn and fired one-handed without a stirrup.",
+ItemDescription,"A monstrous greatsword forged with three parallel blades fused along a single spine, each edge catching the light at a different angle.",
 ItemDescription,"A package of preserved meats, all dried and chewy.","Un paquete de carne en conserva, seca y difícil de masticar."
+ItemDescription,"A pair of gauntlets ringed with jagged knuckle-spikes, made to turn a punch into a wound.",
+ItemDescription,A pair of solid iron-plated boots that guard the shin and instep at the cost of a good deal of weight.,
 ItemDescription,A pair of sturdy leather boots which extend upward until just below the knee.,Un par de botas de cuero resistentes que se extienden hacia arriba hasta justo debajo de la rodilla.
 ItemDescription,A pair of sturdy leather boots which extend upwards to just above the ankle.,Un par de botas de cuero resistentes que se extienden hacia arriba justo por encima del tobillo.
+ItemDescription,"A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.",
+ItemDescription,"A physician's instrument for listening to a heartbeat -- yours, or something else's.",
+ItemDescription,"A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.",
+ItemDescription,"A plain, undyed shirt of woven cloth, worn under armour or on its own.",
 ItemDescription,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.","Una barra de hierro puntiaguda unida en ángulo recto a un mango de madera resistente, que se utiliza para perforar superficies duras."
 ItemDescription,A pointed metal cylinder meant to be discharged from a firearm.,Un cilindro de metal puntiagudo destinado a ser disparado desde un arma de fuego.
+ItemDescription,A polished sheet of silvered glass. Some things recoil from their own reflection.,
 ItemDescription,A portable source of light fashioned out of copper and fuelled by oil.,Una fuente de luz portátil hecha de cobre y alimentada por petróleo.
 ItemDescription,A projectile consisting of a wooden shaft with a sharp metal tip at its front and stabilising fins at its rear.,Un proyectil que consiste en un eje de madera con una punta metálica afilada en la parte delantera y aletas estabilizadoras en la parte posterior.
+ItemDescription,"A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.",
 ItemDescription,A righteous sword forged by a revered blacksmith many years ago who set out to hone his craft and to create the ultimate blade. The noble intent of its creator lingers in this weapon to cut down the wicked and protect the innocent.,Una espada justiciera forjada por un herrero venerado hace muchos años que se propuso perfeccionar su oficio y crear la espada definitiva. La noble intención de su creador persiste en esta arma para acabar con los malvados y proteger a los inocentes.
+ItemDescription,A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.,
 ItemDescription,"A sanctimonious biscuit. A miracle to the meek, a scourge to the undead.","Una oblea sagrada. Un milagro para los mansos, un azote para los no-muertos."
 ItemDescription,"A semi-rigid weapon made up of a notched wooden shaft with a drawstring attached to both ends, used to launch arrows.","Un arma semirrígida compuesta por un eje de madera con un cordón unido a ambos extremos, que se utiliza para lanzar flechas."
+ItemDescription,"A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.",
 ItemDescription,A sharp iron wedge fashioned to a sturdy handle.,Una cuña de hierro afilada unida a un mango resistente.
 ItemDescription,"A sharp metal throwing weapon, smaller than a hand and shaped like a star.","Un arma arrojadiza afilada de metal, más pequeña que una mano y con forma de estrella."
 ItemDescription,A short and light double-edged blade.,Una hoja corta y ligera de doble filo.
+ItemDescription,"A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.",
+ItemDescription,"A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.",
+ItemDescription,"A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.",
 ItemDescription,"A slimy, scaly sea creature, in its entirety. Good for a meal.",Una criatura marina escamosa y viscosa en su totalidad. Buena para una comida.
 ItemDescription,A small cutting utensil made of metal with a wooden handle.,Un pequeño utensilio de corte de metal con mango de madera.
+ItemDescription,A small glass vial holding a captive mote of light.,
+ItemDescription,A small hooked blade made for prying the lid off a sealed tin.,
 ItemDescription,A small iron tool designed for opening all sorts of locks.,Una pequeña herramienta de hierro diseñada para abrir todo tipo de cerraduras.
 ItemDescription,A small missile with a pointed tip meant for throwing.,Un pequeño misil con punta puntiaguda destinado a ser lanzado.
 ItemDescription,A small missile with a reservoir of liquid delivered through a hollow pointed tip.,Un pequeño misil con un depósito de líquido entregado a través de una punta hueca puntiaguda.
+ItemDescription,"A small, chalky tablet of uncertain origin. Best swallowed quickly.",
+ItemDescription,"A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.",
+ItemDescription,"A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.",
 ItemDescription,"A soft-brimmed hat, somewhat out of fashion.","Un sombrero de ala suave, algo pasado de moda."
 ItemDescription,A sophisticated bludgeon with a heavy iron head.,Un sofisticado garrote con una pesada cabeza de hierro.
 ItemDescription,A spacious bag made of incredibly stretchy cotton.,Una bolsa espaciosa hecha de algodón increíblemente elástico.
 ItemDescription,A spacious cloth bag.,Una bolsa de tela espaciosa.
+ItemDescription,"A staff of living, unworked rock. What shapes matter cannot itself be unmade.",
 ItemDescription,A stick of cured meat.,Un palo de carne curada.
 ItemDescription,"A stick of highly explosive material, with a short fuse on one end.","Un palo de material altamente explosivo, con una mecha corta en un extremo."
+ItemDescription,A stone infused with restorative magic. It crumbles a little more each time it is used.,
+ItemDescription,A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.,
+ItemDescription,"A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.",
 ItemDescription,"A straight, double-edged and often cruciform blade.","Una espada recta, de doble filo y, a menudo, cruciforme."
+ItemDescription,"A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.",
 ItemDescription,A sturdy and solid mineral.,Un mineral robusto y sólido.
 ItemDescription,A suit of armour made from metal rings sewn onto a foundation of leather or cloth.,Una malla de anillos consistente en una base de tela o cuero sobre la que se adhieren los anillos.
+ItemDescription,"A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.",
 ItemDescription,"A surviving portion of the legendary wall of Verimurus, an ancient elven city said to have lasted since time immemorial. However, not even the mightiest walls could withstand the endless onslaught of the dragons. Now the enchanted walls stand alone over the land that once held them.","Las ruinas de la legendaria muralla de Verimurus, una ancestral ciudad elfica que se dice que sobrevivió desde tiempos inmemoriables. Sin embargo, incluso las murallas más resistentes son incapaces de resistir la interminable ira de los dragones.Ahora las encantadas murallas se mantienen solitarias sobre la tierra que alguna vez las sostuvo."
 ItemDescription,"A sweet citrus fruit, coloured eponymously.","Una fruta cítrica dulce, coloreada del mismo nombre."
 ItemDescription,"A sweet custard-filled pie with a thin crust, topped with whipped cream.","Un pastel dulce relleno de natillas con una corteza delgada, cubierto con crema batida."
 ItemDescription,"A sweet, round fruit, of the red variety. Reportedly a great supplement to your physical health.","Una fruta dulce, redonda, de la variedad roja. Se dice que es un excelente complemento para la salud física."
+ItemDescription,"A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.",
 ItemDescription,"A tall, asymmetric bow.",Un arco alto y asimétrico.
+ItemDescription,"A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.",
 ItemDescription,"A thick leather coat, constructed to withstand weather and wear.","Un grueso abrigo de cuero, construido para soportar el clima y el desgaste."
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.","Un grueso garrote de madera. Lo que le falta en estilo, lo compensa en funcionalidad."
+ItemDescription,"A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,Una espada delgada y ágil destinada casi exclusivamente para la estocada.
+ItemDescription,A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.,
 ItemDescription,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.","Una arma de fuego a dos manos, apoyada en el hombro, a menudo utilizada en la caza menor. Tiene un gran impacto."
 ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.","Una maravilla del ingenio enano y la artesanía, robada y reutilizada por los orcos. Montada en un eje largo, esta herramienta es un arma formidable a caballo o en retroceso. La corriente eléctrica que impulsa su taladro ocasionalmente se descargará sobre quien esté dispuesto a interponerse en el camino de esta monstruosidad."
+ItemDescription,"A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.",
 ItemDescription,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,Un implemento de la agricultura que consiste de una larga hoja curva sobre un mango curvado.
 ItemDescription,An ambiguous curiosity. It seems edible.,Una curiosidad ambigua. Parece comestible.
 ItemDescription,An article of leather clothing covering the torso that hangs around the neck and on the shoulders.,Un artículo de ropa de cuero que cubre el torso y cuelga alrededor del cuello y los hombros.
 ItemDescription,An article of waterproof cotton clothing covering the torso that hangs around the neck and on the shoulders.,Un artículo de ropa de algodón impermeable que cubre el torso y cuelga alrededor del cuello y los hombros.
+ItemDescription,"An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.",
 ItemDescription,An elven travel food. It is incredibly satiating.,Una comida élfica de viaje. Es increíblemente saciante.
+ItemDescription,"An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.",
 ItemDescription,An extremely sharp little blade used for precise incisions.,Una pequeña cuchilla extremadamente afilada utilizada para incisiones precisas.
 ItemDescription,An inconspicuous snack that tells deep secrets.,Un aperitivo discreto que cuenta profundos secretos.
 ItemDescription,An iron projectile made up of a shaft with a sharpened square-pyramid tip.,Un proyectil de hierro formado por un eje con una punta afilada de pirámide cuadrada.
+ItemDescription,"An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.",
 ItemDescription,"An orange root-vegetable, commonly believed to improve eyesight.","Una verdura de raíz naranja, comúnmente se cree que mejora la vista."
+ItemDescription,"An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.",
 ItemDescription,"Boiled leather, moulded into a bodily shape to be donned as light armour.","Cuero hervido, moldeado en una forma corporal para ser usado como armadura ligera."
 ItemDescription,"Bold, or just tacky?",¿Audaz? ¿O simplemente hortera?.
 ItemDescription,Chain mail consists of a mesh of metal rings interlinked to form a flexible armour.,La cota de malla consiste de una red de anillos de metal entrelazados para formar una armadura flexible.
+ItemDescription,"Fate itself bends around the wearer, keeping them exactly where the blow cannot land.",
 ItemDescription,"Forged deep underground by dwarven hands, this blade was made to slay the scaled beasts who sought to steal their treasures. Throughout the long years this blade has bathed in the blood of its winged prey. Now almost forgotten, it yearns again for the taste of dragon flesh.","Forjada en el subsuelo por manos enanas, esta espada fue hecha para matar a las bestias escamadas que buscaban robar sus tesoros. A lo largo de los largos años, esta espada se ha bañado en la sangre de su presa alada. Ahora casi olvidada, anhela nuevamente el sabor de carne de dragón."
 ItemDescription,"Gazing into its crimson depths you can see the concentrated life essence of countless victims swirling inside of it. The artifact was completed in the moment of the creators' death, as his soul was claimed by his creation. Now residing among the souls of his former victims, his essence as an alchemist provides the stone with ultimate transmutative powers.","Mirando en sus profundidades carmesí se puede ver la esencia concentrada de la vida de innumerables víctimas girando dentro de él. El artefacto se completó en el momento de la muerte de los creadores, ya que su alma fue reclamada por su creación. Ahora reside entre las almas de su ex víctimas, su esencia como alquimista proporciona a la piedra los poderes transmutativos definitivos."
+ItemDescription,"Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.",
 ItemDescription,Its high-quality elvish manufacture makes for an effective close combat weapon.,Su manufactura élfica de alta calidad la convierte en una efectiva arma de combate cuerpo a cuerpo.
 ItemDescription,Leather armour with close-set studs so as to offer more protection.,Armadura de cuero con tachuelas ajustadas para ofrecer más protección.
 ItemDescription,"Like a smaller variant of the katana, often used as a side-arm.","Como una variante más pequeña de la katana, a menudo utilizada como segunda empuñadura."
+ItemDescription,"Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.",
 ItemDescription,One segment of a particularly pungent and bulbous herb.,Un segmento de una hierba particularmente olorosa y bulbosa.
 ItemDescription,Standard issue protective metal headgear.,Casco protector de metal estándar.
+ItemDescription,"Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.",
 ItemDescription,"Sturdy leather garments fitted firm onto the hands, sheathing each finger individually.","Prenda de cuero resistente que se ajusta firmemente a las manos, cubriendo cada dedo individualmente."
 ItemDescription,The final sword forged by a once respected blacksmith who lost himself in the depths of the dungeon. His warped soul now inhabits this blade and lusts for blood. It is said that the one who wields this sword is coerced into cutting down friend and foe alike.,La espada final forjada por un herrero una vez respetado que se perdió en las profundidades de la mazmorra. Su alma deformada ahora habita esta espada y ansía sangre. Se dice que el que empuña esta espada es obligado a matar amigos y enemigos por igual.
 ItemDescription,The head of a ranseur consists of a spear-tip affixed with a cross hilt at its base.,La cabeza de una rocona consiste en una punta de lanza con una empuñadura cruzada en su base.
 ItemDescription,The only coin that can be found and spent in the dungeon.,La única moneda que puede ser encontrada y gastada en el calabozo.
 ItemDescription,The snipped segment of a plant known for its antilycanthropic properties.,El segmento cortado de una planta conocida por sus propiedades antilicántrópicas.
+ItemDescription,"The spiral horn of a unicorn, its magic bound permanently into the artifact rather than spent in a single burst.",
 ItemDescription,The wearer will occasionally fly into uncontrollable rage lashing out at both friend and foe.,El usuario ocasionalmente entrará en una ira incontrolable atacando tanto a enemigos como a compañeros.
 ItemDescription,This ancient artifact is a marvel to behold with exquisite craftsmanship and unbridled digging power.,Este antiguo artefacto es una maravilla para la vista con una exquisita artesanía y un poder de excavación impresionante.
 ItemDescription,"This axe is specifically designed to facilitate deep, grievous wounds in combat. This large weapon is wielded in both hands.",Esta hacha está especialmente diseñada para provocar profundas y dolorosas heridas en combate. Debe ser empuñada con ambas manos.
@@ -2221,6 +2800,7 @@ ItemDescription,This convenient vial of ink can be used to replenish your marker
 ItemDescription,This crudely made blade is still an effective throwing weapon.,Esta tosca cuchilla sirve como una efectiva arma arrojadiza.
 ItemDescription,This curious artifact somehow chastens those it strikes and submits them to your will.,Este curisos artefacto de alguna manera encanta a quienes golpea y los somete a tus órdenes.
 ItemDescription,This dwarvish manufactured sword is sturdy and suited to being wielded in the offhand.,Esta espada enana es resistente e ideal para ser empuñada en la mano izquierda.
+ItemDescription,"This dwarvish punching blade is forged thicker than most, its crossbar reinforced to survive a full-strength thrust.",
 ItemDescription,This gemstone is made from hardened tree sap.,Esta gema está hecha de savia de árbol endurecida.
 ItemDescription,This glowing looking glass reveals glimpses of the future and corrupts your soul.,Este espejo resplandeciente revela destellos del futuro y corrompe tu alma.
 ItemDescription,This hammer is a four-pronged head mounted atop a long polearm stick. It bears a long spike on its reverse and an even longer spike extending from the very top. It proves effective at puncturing or smashing armour as well as dismounting riders.,Este martillo está compuesto de una cabeza con cuatro puntas montada en un palo de lanza. Tiene una punta larga en su reverso y una incluso más larga punta extendiéndose desde lo más alto. Es efectiva agujereando o aplastando armadura así como desmontando jinetes.
@@ -2250,6 +2830,7 @@ ItemDescription,This weapon consists of a spearhead mounted on a long wooden sha
 ItemDescription,"This weapon is a curved blade attached to a pole by binding the lower two-thirds of the blade to the side of the pole, to form a sort of axe.","Este arma es una cuchilla curva montada en un asta a través de clavar dos tercios de la misma en el lado del asta, para formar una especie de hacha."
 ItemDescription,This withered hand is the last remnant of an ancient and powerful lich.,Esta mano estropeada es el último remanente de un antiguo y poderoso liche.
 ItemDescription,Tiny metal spikes thrown to the ground to impede mobility.,Pequeñas puntas de metal arrojadas al suelo para dificultar la movilidad.
+ItemDescription,"Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.",
 ItemDescription,Winged sandals made of imperishable gold which fly the wearer swiftly and silently.,Sandalias aladas hechas de oro imperecedero que hacen volar al usuario rápida y silenciosamente.
 ItemDescription,Zapping it at a wall creates a big tunnel.,Utilizarla en una pared crea un gran túnel.
 ItemName,adamantine arrow,flecha de adamantina
@@ -2257,16 +2838,25 @@ ItemName,adamantine axe,hacha de adamantina
 ItemName,adamantine bident,bidente de adamantina
 ItemName,adamantine bow,arco de adamantina
 ItemName,adamantine bullet,bala de adamantina
+ItemName,adamantine crossbow bolt,
 ItemName,adamantine dagger,daga de adamantina
 ItemName,adamantine dart,dardo de adamantina
 ItemName,adamantine greataxe,gran hacha de adamantina
+ItemName,adamantine greatmace,
 ItemName,adamantine greatsword,gran espada de adamantina
 ItemName,adamantine hatchet,hachuela de adamantina
+ItemName,adamantine helm,
+ItemName,adamantine helmet,
+ItemName,adamantine katana,
+ItemName,adamantine lance,
 ItemName,adamantine long sword,espada larga de adamantina
 ItemName,adamantine plate mail,malla de placas de adamantina
+ItemName,adamantine poleaxe,
+ItemName,adamantine quarterstaff,
 ItemName,adamantine rapier,estoque de adamantina
 ItemName,adamantine sabre,sable de adamantina
 ItemName,adamantine short sword,espada corta de adamantina
+ItemName,adamantine shuriken,
 ItemName,adamantine spear,lanza de adamantina
 ItemName,adamantine two-handed sword,espada a dos manos de adamantina
 ItemName,agate,ágata
@@ -2300,8 +2890,10 @@ ItemName,Backpack,mochila
 ItemName,bag of holding,bolsa de contención
 ItemName,bag of tricks,bolso de trucos
 ItemName,banana,banana
+ItemName,bandage,
 ItemName,banded mail,malla de bandas
 ItemName,bardiche,bardiche
+ItemName,baseball bat,
 ItemName,battle robe,tunica de combate
 ItemName,battle staff,bastón de guerra
 ItemName,battle-axe,hacha de guerra
@@ -2322,68 +2914,229 @@ ItemName,blowgun,cerbatana
 ItemName,blue dragon scale mail,malla de escamas de dragón azul
 ItemName,blue dragon scales,escamas de dragón azul
 ItemName,blue glass bauble,baratija de vidrio azul
+ItemName,book of acid splash,
 ItemName,book of acid stream,libro de torrente ácido
 ItemName,book of animate dead,libro de reanimar muertos
 ItemName,book of animate object,libro de animar objeto
+ItemName,book of arc conduit,
+ItemName,book of arcane blight,
+ItemName,book of arcane whetstone,
+ItemName,book of arcing bolt,
+ItemName,book of artificer's exchange,
+ItemName,book of atonement,
+ItemName,book of augury,
+ItemName,book of bane,
+ItemName,book of banshee wail,
+ItemName,book of barring ward,
+ItemName,book of battle fury,
 ItemName,book of bind undead,libro de doblegar muertos vivientes
+ItemName,book of binding sphere,
+ItemName,book of black ice patch,
+ItemName,book of black plague,
+ItemName,book of blade blessing,
 ItemName,book of blank paper,libro en blanco
+ItemName,book of bless,
 ItemName,book of blinking,libro de salto de parpadeo
+ItemName,book of blurred form,
+ItemName,book of call of the pack,
+ItemName,book of calm,
+ItemName,book of caltrop swarm,
 ItemName,book of cancellation,libro de cancelación
+ItemName,book of causeway,
+ItemName,book of chain lightning,
+ItemName,book of changeless ward,
 ItemName,book of charm,libro de encanto
+ItemName,book of chill grasp,
+ItemName,book of chromatic orb,
 ItemName,book of clairvoyance,libro de clarividencia
+ItemName,book of claybind touch,
+ItemName,book of clear sight,
+ItemName,book of clouded mind,
+ItemName,book of command,
+ItemName,book of commune,
+ItemName,book of concussive blast,
 ItemName,book of cone of cold,libro de cono de frío
 ItemName,book of confusion,libro de confusión
+ItemName,book of conjure barricade,
+ItemName,book of conjure boulder,
+ItemName,book of conjure guardian,
+ItemName,book of conjure homunculus,
+ItemName,book of conjure mount,
+ItemName,book of conjured pit,
+ItemName,book of consecration,
+ItemName,book of contagion,
+ItemName,book of corpse explosion,
+ItemName,book of corroding ray,
 ItemName,book of create familiar,libro de crear familiar
+ItemName,book of creeping palsy,
+ItemName,book of crimson ichor lance,
 ItemName,book of crushing sphere,esfera destructora
 ItemName,book of curing,libro de curación
+ItemName,book of danger sense,
 ItemName,book of darkness,libro de oscuridad
+ItemName,book of daze,
+ItemName,book of death ward,
+ItemName,book of death's bargain,
+ItemName,book of deathwatch,
 ItemName,book of deflection,libro de protección
 ItemName,book of detect food,libro de detectar comida
+ItemName,book of detect metal,
 ItemName,book of detect monsters,libro de detectar monstruos
 ItemName,book of detect treasure,libro de detectar tesoros
+ItemName,book of detect undead,
 ItemName,book of detect unseen,libro de detectar lo oculto
 ItemName,book of dig,libro de excavación
+ItemName,book of disarming ward,
+ItemName,book of discord,
 ItemName,book of disintegrate,libro de desintegración
+ItemName,book of dispel magic,
+ItemName,book of displacement,
+ItemName,book of divine favor,
+ItemName,book of divine intervention,
+ItemName,book of dominate mind,
 ItemName,book of drain life,libro de drenaje de vida
+ItemName,book of earthen colossus,
+ItemName,book of elemental servant,
+ItemName,book of elemental warding,
+ItemName,book of ember lance,
+ItemName,book of enlarge,
+ItemName,book of entangling vines,
+ItemName,book of entropic siphon,
 ItemName,book of extra healing,libro de sanación extra
+ItemName,book of false life,
 ItemName,book of fear,libro del miedo
+ItemName,book of find doors,
+ItemName,book of find traps,
 ItemName,book of finger of death,libro del dedo de la muerte
 ItemName,book of fireball,libro de bola de fuego
 ItemName,book of flaming sphere,libro de esfera llameante
 ItemName,book of force bolt,libro de rayo de fuerza
+ItemName,book of foreknowledge,
+ItemName,book of freedom,
+ItemName,book of freedom of movement,
 ItemName,book of freezing sphere,libro de esfera congelante
+ItemName,book of frost breath,
 ItemName,book of full healing,libro de curación completa
+ItemName,book of gate,
+ItemName,book of gilding touch,
+ItemName,book of glacial spike,
+ItemName,book of grasping mind,
+ItemName,book of grave rot,
+ItemName,book of gravity well,
+ItemName,book of guided path,
+ItemName,book of harvest of souls,
 ItemName,book of haste,libro de celeridad
+ItemName,book of hazard sense,
 ItemName,book of healing,libro de sanación
+ItemName,book of hex,
+ItemName,book of hexbind,
+ItemName,book of hideous laughter,
+ItemName,book of hold monster,
+ItemName,book of hold person,
+ItemName,book of holy word,
 ItemName,book of ice storm,libro de tormenta de hielo
 ItemName,book of identify,libro de identificación
+ItemName,book of inner calm,
 ItemName,book of invisibility,libro de invisibilidad
+ItemName,book of iron will,
+ItemName,book of ironbind door,
+ItemName,book of juggernaut ray,
 ItemName,book of jumping,libro de salto
+ItemName,book of keen search,
 ItemName,book of knock,libro de golpe
+ItemName,book of legion of bone,
 ItemName,book of levitation,libro de levitación
 ItemName,book of light,libro de luz
 ItemName,book of lightning bolt,libro de relámpago
 ItemName,book of living wall,libro de muro viviente
 ItemName,book of magic mapping,libro de mapeo mágico
 ItemName,book of magic missile,libro de misíl mágico
+ItemName,book of meteoric cataclysm,
+ItemName,book of mind ken,
+ItemName,book of mind link,
+ItemName,book of mind spike,
+ItemName,book of mindrend,
+ItemName,book of mirror ward,
+ItemName,book of neutralize poison,
+ItemName,book of oracle's eye,
+ItemName,book of owl eyes,
+ItemName,book of petrifying touch,
 ItemName,book of phasing,libro de fases
+ItemName,book of planar anchor,
+ItemName,book of planar swap,
 ItemName,book of poison blast,libro de explosión de veneno
 ItemName,book of polymorph,libro de polimorfismo
+ItemName,book of porter's reach,
+ItemName,book of prayer,
+ItemName,book of premonition,
+ItemName,book of prismatic spray,
+ItemName,book of psychic shove,
 ItemName,book of raise dead,libro de levantar los muertos
+ItemName,book of rally cry,
+ItemName,book of ray of enfeeblement,
+ItemName,book of reap,
 ItemName,book of regenerate,libro de la regeneración
 ItemName,book of remove curse,libro de remover maldición
+ItemName,book of repelling ward,
+ItemName,book of repulsion,
 ItemName,book of restoration,libro de restauración
+ItemName,book of revelation,
+ItemName,book of sanctuary,
+ItemName,book of scalding cloud,
+ItemName,book of searing light,
+ItemName,book of sense curse,
+ItemName,book of sense the restless,
+ItemName,book of sentinel ward,
+ItemName,book of shimmer shield,
 ItemName,book of shocking sphere,libro de esfera impactante
+ItemName,book of shrink,
+ItemName,book of silence,
+ItemName,book of simulacrum,
 ItemName,book of sleep,libro de sueño
+ItemName,book of slick detonation,
+ItemName,book of slipping free,
 ItemName,book of slow,libro de lentitud
 ItemName,book of soaking sphere,esfera diluvia
+ItemName,book of song of discord,
+ItemName,book of spark bolt,
+ItemName,book of spectral shroud,
+ItemName,book of spirit leech,
+ItemName,book of spirit shield,
+ItemName,book of starfall,
+ItemName,book of steadfast ward,
+ItemName,book of stone to flesh,
+ItemName,book of stoneskin,
 ItemName,book of summoning,libro de invocación
+ItemName,book of sunburst smite,
+ItemName,book of sunder gear,
+ItemName,book of swoon,
 ItemName,book of telekinesis,libro de telequinesia
+ItemName,book of telekinetic shove,
 ItemName,book of teleport away,libro de teletransportación
+ItemName,book of thunderclap,
+ItemName,book of timed combustion,
+ItemName,book of tongue tied,
 ItemName,book of toxic spray,libro de spray tóxico
+ItemName,book of transmuter's mastery,
+ItemName,book of true appraisal,
 ItemName,book of turn undead,libro de expulsar muertos vivientes
+ItemName,book of unbinding,
+ItemName,book of undying ward,
+ItemName,book of unseen hand,
+ItemName,book of vampiric feast,
+ItemName,book of veil of shadows,
+ItemName,book of wall breach,
+ItemName,book of wall of thorns,
 ItemName,book of walling,libro de muros
+ItemName,book of ward of return,
+ItemName,book of warning ward,
+ItemName,book of web snare,
+ItemName,book of whispers of madness,
+ItemName,book of wildfire brand,
+ItemName,book of wither,
+ItemName,book of withering ray,
 ItemName,book of wizard lock,libro de candado mágico
+ItemName,book of world vision,
 ItemName,boomerang,bumerang
 ItemName,bow,arco
 ItemName,brass bugle,trompeta de latón
@@ -2397,9 +3150,13 @@ ItemName,bullwhip,látigo
 ItemName,c-ration,ración-c
 ItemName,caltrops,abrojo
 ItemName,can of grease,lata de lubricante
+ItemName,candelabrum,
 ItemName,candy bar,barra de caramelo
 ItemName,Carapace,Caparazón
 ItemName,carrot,zanahoria
+ItemName,Celestial Doom,
+ItemName,Celestial Kismet,
+ItemName,Celestial Portent,
 ItemName,chain barding,barda de cota de malla
 ItemName,chain mail,cota de malla
 ItemName,chakram,chakram
@@ -2415,6 +3172,7 @@ ItemName,cloak of deflection,capa de protección
 ItemName,cloak of displacement,capa de ilusion
 ItemName,cloak of invisibility,capa de invisibilidad
 ItemName,cloak of magic resistance,capa de resistencia mágica
+ItemName,cloth shirt,
 ItemName,clove of garlic,diente de ajo
 ItemName,club,garrote
 ItemName,Colossal Excavator,Excavadora Colosal
@@ -2422,18 +3180,22 @@ ItemName,cornuthaum,cuernotaumo
 ItemName,costume earrings,pendientes de disfraz
 ItemName,cram ration,ración atiborrante
 ItemName,cream pie,tarta de crema
+ItemName,credit card,
 ItemName,Creeping Sprout,Brote Trepador
+ItemName,crimson cloak,
 ItemName,crossbow,ballesta
 ItemName,crossbow bolt,flecha de ballesta
 ItemName,crysknife,navaja de colmillo animal
 ItemName,crystal ball,bola de cristal
 ItemName,crystal plate mail,malla de placas de cristal
 ItemName,dagger,daga
+ItemName,darkstone,
 ItemName,dart,dardo
 ItemName,Deadwood,Maderamuerta
 ItemName,Deagle,Deagle
 ItemName,deep dragon scale mail,malla de escamas de dragón profundo
 ItemName,deep dragon scales,escamas de dragón profundo
+ItemName,Demiurge,
 ItemName,dented pot,olla abollada
 ItemName,detonation key,llave detonante
 ItemName,diamond,diamante
@@ -2441,6 +3203,8 @@ ItemName,dilithium crystal,cristal de dilitio
 ItemName,dimension key,llave dimensional
 ItemName,Dire Needle,Aguja Sanguinaria
 ItemName,disencumbrance boots,botas de descarga
+ItemName,doublet,
+ItemName,dragon horn,
 ItemName,Dragonbane,Rebanadragones
 ItemName,dread staff,bastón aterrador
 ItemName,Drilanze,Lanzaladro
@@ -2453,6 +3217,7 @@ ItemName,drum of earthquake,tambor de terremoto
 ItemName,dunce cap,capirote
 ItemName,dwarvish cloak,capa enana
 ItemName,dwarvish iron helm,casco de hierro enano
+ItemName,dwarvish katar,
 ItemName,dwarvish mattock,piqueta enana
 ItemName,dwarvish mithril-coat,capa de mithril enana
 ItemName,dwarvish roundshield,escudo redondo enano
@@ -2465,8 +3230,10 @@ ItemName,elven arrow,flecha élfica
 ItemName,elven boots,botas élficas
 ItemName,elven bow,arco élfico
 ItemName,elven broadsword,espada ancha élfica
+ItemName,elven chakram,
 ItemName,elven cloak,capa élfica
 ItemName,elven dagger,daga élfica
+ItemName,elven hand crossbow,
 ItemName,elven leather helm,casco de cuero élfico
 ItemName,elven mithril-coat,capa de mithril élfica
 ItemName,elven shield,escudo élfico
@@ -2477,11 +3244,14 @@ ItemName,Escapist,Escapista
 ItemName,eucalyptus leaf,hoja de eucalipto
 ItemName,expensive camera,cámara costosa
 ItemName,Eye of Aethiopica,Ojo de Aethiopica
+ItemName,eyeball,
 ItemName,Eyes of Ra,Ojos de Ra
+ItemName,fancy boots,
 ItemName,fauchard,fauchard
 ItemName,fedora,sombrero de fieltro
 ItemName,fire horn,cuerno de fuego
 ItemName,fish,pez
+ItemName,fishing pole,
 ItemName,flail,mayal
 ItemName,flash staff,bara de luz
 ItemName,fleet robe,bata de celeridad
@@ -2491,6 +3261,7 @@ ItemName,fly swatter,matamoscas
 ItemName,food ration,ración de comida
 ItemName,fortune cookie,galleta de la fortuna
 ItemName,frag grenade,granada de fragmentación
+ItemName,frisbee,
 ItemName,frost horn,cuerno de escarcha
 ItemName,fumble boots,botas de torpeza
 ItemName,garnet,granate
@@ -2501,10 +3272,26 @@ ItemName,gauntlets of phasing,guanteletes cambio de fase
 ItemName,gauntlets of power,guanteletes de poder
 ItemName,Giantslayer,Cazagigantes
 ItemName,glaive,guja
+ItemName,gold axe,
+ItemName,gold chakram,
 ItemName,gold coin,moneda de oro
+ItemName,gold dagger,
+ItemName,gold double vajra,
 ItemName,gold dragon scale mail,malla de escamas de dragón dorado
 ItemName,gold dragon scales,escamas de dragón dorado
+ItemName,gold flail,
 ItemName,Gold Key,llave de oro
+ItemName,gold khanda,
+ItemName,gold labrys,
+ItemName,gold longsword,
+ItemName,gold plate mail,
+ItemName,gold single vajra,
+ItemName,gold spade,
+ItemName,gold trident,
+ItemName,gold twohanded sword,
+ItemName,gold urumi,
+ItemName,gold whistle,
+ItemName,grappling hook,
 ItemName,great dagger,gran daga
 ItemName,green dragon scale mail,malla de escamas de dragón verde
 ItemName,green dragon scales,escamas de dragón verde
@@ -2512,10 +3299,12 @@ ItemName,green glass bauble,baratija de vidrio verde
 ItemName,grenade launcher,lanzagranadas
 ItemName,Grimtooth,Colmillo Sombrío
 ItemName,guisarme,lanza-alabarda
+ItemName,Gungnir,
 ItemName,halberd,alabarda
 ItemName,Harbalest,Arbalesta
 ItemName,hatchet,hachuela
 ItemName,hawaiian shirt,camisa hawaiana
+ItemName,healthstone,
 ItemName,heavy hammer,martillo pesado
 ItemName,heavy iron ball,bola de hierro pesada
 ItemName,heavy machine gun,ametralladora pesada
@@ -2548,6 +3337,7 @@ ItemName,kanabo,kanabo
 ItemName,katana,katana
 ItemName,katar,katar
 ItemName,kelp frond,fronda de alga
+ItemName,khopesh,
 ItemName,knife,cuchillo
 ItemName,lab coat,bata de laboratorio
 ItemName,lance,lanza con rosquete
@@ -2556,6 +3346,7 @@ ItemName,lantern,linterna
 ItemName,large box,caja grande
 ItemName,large shield,escudo grande
 ItemName,Lashing Tongue,Atalenguas
+ItemName,leash,
 ItemName,leather armour,armadura de cuero
 ItemName,leather barding,barda de cuero
 ItemName,leather cloak,capa de cuero
@@ -2565,10 +3356,12 @@ ItemName,leather jacket,chaqueta de cuero
 ItemName,lembas wafer,oblea de lembas
 ItemName,lenses,lentes
 ItemName,levitation boots,botas de levitación
+ItemName,loadstone,
 ItemName,lock pick,ganzúa
 ItemName,long sword,espada larga
 ItemName,low boots,botas bajas
 ItemName,lucern hammer,martillo de lucerna
+ItemName,luckstone,
 ItemName,lump of royal jelly,trozo de jalea real
 ItemName,mace,maza
 ItemName,magic bugle,trompeta mágica
@@ -2588,32 +3381,48 @@ ItemName,Maulfrost,Mazo Escarchado
 ItemName,meat ring,anillo de carne
 ItemName,meat stick,palo de carne
 ItemName,meatball,albóndiga
+ItemName,medical kit,
 ItemName,melon,melón
+ItemName,mirror,
 ItemName,Mirrorbright,Espejo Reluciente.
 ItemName,Miserus,Miserus
 ItemName,mithril arrow,flecha de mithril
+ItemName,mithril axe,
 ItemName,mithril barding,barda de mithril
 ItemName,mithril battle-axe,hacha de batalla de mithril
 ItemName,mithril bullet,bala de mithril
 ItemName,mithril crossbow bolt,flecha de ballesta de mithril
 ItemName,mithril dagger,daga de mithril
 ItemName,mithril dart,dardo de mithril
+ItemName,mithril gauntlets,
+ItemName,mithril greatmace,
+ItemName,mithril greatsword,
+ItemName,mithril hatchet,
 ItemName,mithril helmet,casco de mithril
+ItemName,mithril katana,
 ItemName,mithril katar,katar de mithril
 ItemName,mithril lance,lanza de caballería de mithril
 ItemName,mithril long sword,espada larga de mithril
 ItemName,mithril plate mail,malla de placas de mithril
+ItemName,mithril poleaxe,
+ItemName,mithril rapier,
 ItemName,mithril sabre,sable de mithril
 ItemName,mithril shield,escudo de mithril
 ItemName,mithril short sword,espada corta de mithril
+ItemName,mithril shuriken,
 ItemName,mithril spear,lanza de mithril
+ItemName,mithril trident,
 ItemName,mithril two-handed sword,espada a dos manos de mithril
 ItemName,mithril whip,látigo de mithril
+ItemName,mooshroom,
 ItemName,morning star,lucero del alba
+ItemName,Mournblade,
 ItemName,mummy wrapping,envolturas de momia
 ItemName,Muramasa,Muramasa
 ItemName,mushroom,hongo
 ItemName,mute earrings,pendientes de mudez
+ItemName,naginata,
+ItemName,Nonagon Infinity,
 ItemName,nunchaku,nunchaku
 ItemName,obsidian,obsidiana
 ItemName,oil lamp,lámpara de aceite
@@ -2626,6 +3435,7 @@ ItemName,orange glass bauble,baratija de vidrio naranja
 ItemName,orcish arrow,flecha orca
 ItemName,orcish bow,arco orco
 ItemName,orcish chain mail,cota de malla orca
+ItemName,orcish chakram,
 ItemName,orcish cloak,capa orca
 ItemName,orcish dagger,daga orca
 ItemName,orcish helm,casco orco
@@ -2640,9 +3450,13 @@ ItemName,partisan,partesana
 ItemName,pear,pera
 ItemName,pearl,perla
 ItemName,phantom key,llave fantasmal
+ItemName,phial,
 ItemName,Philosophers Stone,Piedra Filosofal
 ItemName,pick-axe,pico
+ItemName,pill,
 ItemName,pistol,pistola
+ItemName,plastic bat,
+ItemName,plastic hammer,
 ItemName,plastic sword,espada de plástico
 ItemName,plate barding,barda de placas de acero
 ItemName,plate mail,malla de placas de acero
@@ -2679,10 +3493,13 @@ ItemName,potion of see invisible,poción para ver lo invisible
 ItemName,potion of sickness,poción de enfermedad
 ItemName,potion of sleeping,poción de sueño
 ItemName,potion of speed,poción de velocidad
+ItemName,potion of sustenance,
+ItemName,potion of warning,
 ItemName,potion of water,poción de agua
 ItemName,proof earrings,pendientes de protección
 ItemName,Prudentia,Prudencia
 ItemName,quarterstaff,bastón de combate
+ItemName,railgun,
 ItemName,ranseur,roncona
 ItemName,rapier,estoque
 ItemName,Ravenbow,Arcograjo
@@ -2698,6 +3515,7 @@ ItemName,ring of cold resistance,anillo de resistencia al frío
 ItemName,ring of conflict,anillo de conflicto
 ItemName,ring of constitution,anillo de constitución
 ItemName,ring of dexterity,anillo de destreza
+ItemName,ring of energy,
 ItemName,ring of fire resistance,anillo de resistencia al fuego
 ItemName,ring of free action,anillo de libre acción
 ItemName,ring of hunger,anillo de hambruna
@@ -2705,6 +3523,7 @@ ItemName,ring of impact,anillo de impacto
 ItemName,ring of intelligence,anillo de inteligencia
 ItemName,ring of invisibility,anillo de invisibilidad
 ItemName,ring of levitation,anillo de levitación
+ItemName,ring of marksmanship,
 ItemName,ring of naught,anillo de anulación
 ItemName,ring of poison resistance,anillo de resistencia a pociones
 ItemName,ring of polymorph,anillo de polimorfismo
@@ -2728,11 +3547,24 @@ ItemName,robe,túnica
 ItemName,rock,roca
 ItemName,rocket,cohete
 ItemName,rocket launcher,lanzamisiles
+ItemName,rose axe,
+ItemName,rose battleaxe,
+ItemName,rose bident,
+ItemName,rose dagger,
+ItemName,rose greatsword,
+ItemName,rose hatchet,
+ItemName,rose long sword,
+ItemName,rose rapier,
+ItemName,rose ring,
+ItemName,rose sabre,
+ItemName,rose short sword,
+ItemName,rose spear,
 ItemName,Rosenthral,Vallerrosa
 ItemName,rubber hose,manguera de goma
 ItemName,ruby,rubí
 ItemName,Ruby Key,llave de rubí
 ItemName,Runesword,Espada Rúnica
+ItemName,Runicorn Horn,
 ItemName,sabre,sable
 ItemName,sack,saco
 ItemName,saddle,montura
@@ -2779,6 +3611,7 @@ ItemName,scythe,guadaña
 ItemName,shades,gafas de sol
 ItemName,Shadow Key,llave de sombra
 ItemName,shield of reflection,escudo de reflexión
+ItemName,Shillelagh,
 ItemName,shimmering dragon scale mail,malla de escamas de dragón reluciente
 ItemName,shimmering dragon scales,escamas de dragón reluciente
 ItemName,short sword,espada corta
@@ -2798,6 +3631,7 @@ ItemName,Silver Key,llave de plata
 ItemName,silver lance,lanza de caballería de plata
 ItemName,silver long sword,espada larga plateada
 ItemName,silver mace,maza plateada
+ItemName,silver rapier,
 ItemName,silver sabre,sable plateado
 ItemName,silver short sword,espada corta plateada
 ItemName,silver spear,lanza de plata
@@ -2805,6 +3639,7 @@ ItemName,silver two-handed sword,espada de dos manos de plata
 ItemName,skeleton key,llave esqueleto
 ItemName,slime mould,moho baboso
 ItemName,sling,honda
+ItemName,sling staff,
 ItemName,small shield,escudo pequeño
 ItemName,sniper rifle,rifle de francotirador
 ItemName,spear,lanza
@@ -2814,29 +3649,40 @@ ItemName,spetum,espetón de guerra
 ItemName,splint mail,malla de férulas
 ItemName,sprig of wolfsbane,ramita de acónito
 ItemName,Stamped Letter,carta estampada
+ItemName,steel boots,
+ItemName,stethoscope,
 ItemName,stick of dynamite,cartucho de dinamita
 ItemName,stiletto,estilete
 ItemName,stone club,mazo de piedra
+ItemName,Stormbringer,
+ItemName,strange object,
 ItemName,studded leather armour,armadura de cuero tachonada
 ItemName,submachine gun,pistola ametralladora
+ItemName,Sudarshana Chakra,
 ItemName,Sunsword,Espada Solar
 ItemName,t-shirt,camiseta
+ItemName,tabard,
 ItemName,Talaria,Talaria
 ItemName,The Hero,El Héroe
 ItemName,thunder staff,bastón del trueno
 ItemName,tin,estaño
+ItemName,tin opener,
 ItemName,tin whistle,silbato de estaño
 ItemName,tinning kit,kit de enlatar
 ItemName,tooled horn,cuerno labrado
 ItemName,topaz,topacio
 ItemName,torch,antorcha
 ItemName,tortilla,tortilla
+ItemName,touchstone,
+ItemName,towel,
 ItemName,trident,tridente
 ItemName,tripe ration,ración triple
+ItemName,triplesword,
 ItemName,tsurugi,tsurugi
 ItemName,turquoise,turquesa
 ItemName,two-handed sword,espada a dos manos
 ItemName,unicorn horn,cuerno de unicornio
+ItemName,Vajra,
 ItemName,vegetable corpse,cadaver vegetal
 ItemName,Verimurus,Verimurus
 ItemName,violet glass bauble,baratija de vidrio violeta
@@ -2847,6 +3693,7 @@ ItemName,wakizashi,wakizashi
 ItemName,wand of animation,varita de animación
 ItemName,wand of cancellation,varita de cancelación
 ItemName,wand of cold,varita de frío
+ItemName,wand of confusion,
 ItemName,wand of create horde,varita de crear horda
 ItemName,wand of death,varita de muerte
 ItemName,wand of digging,varita de excavación
@@ -2858,6 +3705,8 @@ ItemName,wand of fireball,varita de bola de fuego
 ItemName,wand of haste,varita de celeridad
 ItemName,wand of healing,varita sanadora
 ItemName,wand of iceball,varita de bola helada
+ItemName,wand of jumping,
+ItemName,wand of levitation,
 ItemName,wand of light,varita de luz
 ItemName,wand of lightning,varita relámpago
 ItemName,wand of locking,varita de bloqueo
@@ -2873,12 +3722,17 @@ ItemName,wand of sleep,varita de sueño
 ItemName,wand of slow,varita de lentitud
 ItemName,wand of striking,varita de choque
 ItemName,wand of summoning,varita de invocación
+ItemName,wand of telekinesis,
 ItemName,wand of teleportation,varita de teletransportación
 ItemName,wand of theft,varita de robo
 ItemName,wand of undead turning,varita de expulsar no-muertos
 ItemName,war club,garrote de guerra
 ItemName,war hammer,martillo de guerra
+ItemName,war maul,
 ItemName,wax candle,vela de cera
+ItemName,Wepwawet's Fang,
+ItemName,wheellock pistol,
+ItemName,whetstone,
 ItemName,white dragon scale mail,malla de escamas de dragón blanco
 ItemName,white dragon scales,escamas de dragón blanco
 ItemName,white glass bauble,baratija de vidrio blanco
@@ -2893,8 +3747,10 @@ ItemName,yellow dragon scale mail,malla de escamas de dragón amarillo
 ItemName,yellow dragon scales,escamas de dragón amarillo
 ItemName,yellow glass bauble,baratija de vidrio amarillo
 ItemName,yellowish brown glass bauble,baratija de vidrio marrón amarillento
+ItemName,yoyo,
 ItemName,yumi,yumi
 ItemName,zircon,zircón
+ItemName,Zweihänder,
 ItemType,amulet,amuleto
 ItemType,bag,bolso
 ItemType,barding,barda
@@ -4440,13 +5296,17 @@ SchoolName,necromancy,nigromancia
 SchoolName,transmutation,transmutación
 ServiceDescription,detect traps in the surrounding area.,detectar trampas por los alrededores.
 ServiceDescription,identify one item in your inventory.,identificar un objeto en tu inventario.
+ServiceDescription,learn how to cast a random spell.,
+ServiceDescription,learn how to cast two random spells.,
 ServiceDescription,magic mapping for the surrounding area.,mapeado mágico de los alrededores.
 ServiceDescription,refresh the shop with new items for sale.,recarga la tienda con nuevos artículos para la venta.
 ServiceDescription,remove a curse from one item in your inventory.,elimina una maldición de un objeto de tu inventario.
+ServiceName,advanced tuition,
 ServiceName,curse removal,eliminación de maldiciones
 ServiceName,identification,identificación
 ServiceName,magic mapping,mapeado mágico
 ServiceName,restock shop,reabastecer tienda
+ServiceName,spell tuition,
 ServiceName,trap detection,detección de trampas
 ShopName,antique weapons outlet,venta de armas antiguas
 ShopName,delicatessen,exquisiteces
@@ -4462,9 +5322,14 @@ ShopName,second-hand stationery store,papelería de segunda mano
 ShopName,used armour dealership,concesionario de armaduras usadas
 ShrineName,craft station,estación de elaboración
 ShrineName,dark sepulchre,sepulcro oscuro
+ShrineName,elemental forge,
+ShrineName,fae chapel,
 ShrineName,holy shrine,templo sagrado
+ShrineName,martial temple,
 ShrineName,mystic coven,aquelarre místico
+ShrineName,pheral vault,
 ShrineName,sacred grove,arboleda sagrada
+ShrineName,star observatory,
 SizeName,gargantuan,gigantesco
 SizeName,huge,enorme
 SizeName,large,grande
@@ -4670,101 +5535,290 @@ SonicName,write,escribir
 SpecialDescription,Aristocrats who enjoy all the privilege that comes with wealth and wonder why everyone hates them.,Aristócratas que disfrutan de todo su privilegio y se preguntan del por qué todo el mundo los odia.
 SpecialDescription,"Being unusually short and slight, they are more nimble but not as effective in combat.","Siendo de más baja estatura y tamaño de lo normal, son más ágiles pero menos efectivos en el combate."
 SpecialDescription,"Being unusually tall and heavy, they move a bit slower but are more resilient.","Siendo más alto y grande de lo normal, se mueven más lentamente pero son más resistentes."
+SpecialDescription,"Bound by an infernal pact to a patron whose power flows through them, whether they will it or not.",
+SpecialDescription,"Changeling blood runs through their veins, granting them an otherworldly grace, but cold iron burns them like acid.",
+SpecialDescription,"Cursed with visions of what is to come, they see danger before it arrives, but the visions are slowly undoing their mind.",
+SpecialDescription,"Escaped from a laboratory before the experiment concluded, their body still bears the unstable mark of what was done to them.",
 SpecialDescription,"Forever cursed with lycanthropy, these beings can transform themselves into monstrous wolf forms.","Eternamente maldecido con licantropía, estos seres pueden transformarse en formas mounstrosas del lobo."
 SpecialDescription,Forsaken creature that subsists by feeding on the vital essence of the living.,Criatura olvidada que subsiste alimentándose de la esencia vital de los vivos.
 SpecialDescription,Gifted with extrasensory perception to identify entities otherwise hidden from the normal senses but at the cost of a gnawing hunger.,"Siendo bendecidos con el don de persepción extra-sensorial para identificar entidades ocultas a los sentidos normales, sufren de una voráz hambre."
+SpecialDescription,"Hardened by a lifetime of campaigns, they strike with brutal efficiency but carry old wounds that never fully healed.",
 SpecialDescription,"Highly attuned servants of elemental earth, they can conjure exploding spheres to destroy their enemies.","Altamente ascendidos servidores del elemento de tierra, pueden conjurar esferas explosivas a sus enemigos"
 SpecialDescription,"Highly attuned servants of elemental flame, they can conjure exploding spheres to destroy their enemies.","Altamente ascendidos servidores de el elemento de fuego, pueden conjurar esferas explosivas a sus enemigos"
 SpecialDescription,"Highly attuned servants of elemental frost, they can conjure exploding spheres to destroy their enemies.","Altamente ascendidos servidores del elemento de hielo, pueden conjurar esferas explosivas a sus enemigos"
 SpecialDescription,"Highly attuned servants of elemental shock, they can conjure exploding spheres to destroy their enemies.","Altamente ascendidos servidores de el elemento de electricidad, pueden conjurar esferas explosivas a sus enemigos"
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.","Altamente ascendidos servidores de el elemento de agua, pueden conjurar esferas explosivas a sus enemigos"
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,Una vida dedicada al estudio centrado aprendizaje en los libros a costa de otros pasatiempos y su forma física.
+SpecialDescription,"Made a living prying open tombs that were meant to stay shut, and picked up a rare set of skills along the way; the dead have not forgiven them.",
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,"El síndrome del personaje principal ha resultado en una fuerte dependencia en la armadura de trama, pero están destinados a vérselas con la vida real."
+SpecialDescription,"More at home among beasts than people, they ride and bond with animals expertly but rely on their companions more than their own blade.",
+SpecialDescription,"Newly turned by an elder vampire's bite, they crave blood but have not yet mastered the strengths of the curse.",
+SpecialDescription,"One of the few to survive a great plague, their blood now resists poison but their body was left frail and their nearby creatures keep their distance.",
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.","Inseguro de tu posición, estas acostumbrado a estar en todas partes al mismo tiempo."
+SpecialDescription,"Pulled under by the sea and cursed to return, their lungs have made an uneasy peace with water while their waterlogged flesh dries out on land.",
+SpecialDescription,"Raised outside civilisation among beasts, they are quick and keen-eyed but never learned the discipline of formal combat.",
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,"Esculpido en vidrio vivo que refleja la energia y refracta la luz, es una emulación perfecta pero delicada de tu contraparte natural."
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.","Todavía vivos por alguna razón, aunque no tienen la carne necesaria para estar realmente vivos, esta peculiar existencia tiene sus ventajas."
 SpecialDescription,The habitually drunk make for brazen yet slightly unsteady adventurers; just don't ask them to recite the alphabet backwards.,Los habitualmente borrachos son aventureros valientes pero ligeramente inestables; simplemente no les pidas que reciten el alfabeto al revés.
+SpecialDescription,"Touched by the animating art of golem-crafters, their flesh has hardened toward stone, granting resilience at the cost of grace.",
+SpecialDescription,"Trained in the one-on-one blade duel, every strike is precise, but a lifetime spent perfecting offence left little time to master defence.",
+SpecialDescription,"Trained since childhood in a monastic order, their body is a honed weapon but their vows forbid armour and forsake worldly learning.",
 SpecialDescription,"Whether innocent or guilty of their accused crimes, these individuals are desperate to escape custody.","Ya sean culpables o inocentes de sus crímenes, estos individuos están desesperados por escapar de su custodia."
+SpecialName,ascetic,
 SpecialName,colossus,coloso
+SpecialName,construct,
+SpecialName,drowned,
 SpecialName,drunkard,borracho
+SpecialName,duelist,
 SpecialName,earth,tierra
+SpecialName,feral,
+SpecialName,fey,
 SpecialName,flame,fuego
 SpecialName,frost,hielo
 SpecialName,fugitive,fugitivo
 SpecialName,glass,vidrio
+SpecialName,graverobber,
 SpecialName,midget,pequeño
 SpecialName,noble,noble
+SpecialName,plagued,
+SpecialName,prophet,
 SpecialName,protagonist,protagonista
 SpecialName,psychic,psíquico
 SpecialName,quantum,cuántico
 SpecialName,scholar,erudito
 SpecialName,shock,eléctrico
 SpecialName,skeleton,esqueleto
+SpecialName,spawn,
+SpecialName,specimen,
+SpecialName,tamer,
 SpecialName,vampire,vampiro
+SpecialName,veteran,
+SpecialName,warlock,
 SpecialName,water,agua
 SpecialName,werewolf,hombre lobo
 SpellDescription,Projects a ball of energy that impacts on both monsters and objects.,Proyecta una bola de energía que impacta tanto en monstruos como en objetos.
+SpellName,acid splash,
 SpellName,acid stream,chorro de ácido
 SpellName,animate dead,animar muerto
 SpellName,animate object,animar objeto
+SpellName,arc conduit,
+SpellName,arcane blight,
+SpellName,arcane whetstone,
+SpellName,arcing bolt,
+SpellName,artificer's exchange,
+SpellName,atonement,
+SpellName,augury,
+SpellName,bane,
+SpellName,banshee wail,
+SpellName,barring ward,
+SpellName,battle fury,
 SpellName,bind undead,doblegar muertos vivientes
+SpellName,binding sphere,
+SpellName,black ice patch,
+SpellName,black plague,
+SpellName,blade blessing,
+SpellName,bless,
 SpellName,blinking,salto de parpadeo
+SpellName,blurred form,
+SpellName,call of the pack,
+SpellName,calm,
+SpellName,caltrop swarm,
 SpellName,cancellation,cancelación
+SpellName,causeway,
+SpellName,chain lightning,
+SpellName,changeless ward,
 SpellName,charm,encanto
+SpellName,chill grasp,
+SpellName,chromatic orb,
 SpellName,clairvoyance,clarividencia
+SpellName,claybind touch,
+SpellName,clear sight,
+SpellName,clouded mind,
+SpellName,command,
+SpellName,commune,
+SpellName,concussive blast,
 SpellName,cone of cold,cono de frío
 SpellName,confusion,confusión
+SpellName,conjure barricade,
+SpellName,conjure boulder,
+SpellName,conjure guardian,
+SpellName,conjure homunculus,
+SpellName,conjure mount,
+SpellName,conjured pit,
+SpellName,consecration,
+SpellName,contagion,
+SpellName,corpse explosion,
+SpellName,corroding ray,
 SpellName,create familiar,crear familiar
+SpellName,creeping palsy,
+SpellName,crimson ichor lance,
 SpellName,crushing sphere,esfera destructora
 SpellName,curing,curación
+SpellName,danger sense,
 SpellName,darkness,oscuridad
+SpellName,daze,
+SpellName,death ward,
+SpellName,death's bargain,
+SpellName,deathwatch,
 SpellName,deflection,protección
 SpellName,detect food,detectar comida
+SpellName,detect metal,
 SpellName,detect monsters,detectar monstruos
 SpellName,detect treasure,detectar tesoros
+SpellName,detect undead,
 SpellName,detect unseen,detectar invisible
 SpellName,dig,cavar
+SpellName,disarming ward,
+SpellName,discord,
 SpellName,disintegrate,desintegrar
+SpellName,dispel magic,
+SpellName,displacement,
+SpellName,divine favor,
+SpellName,divine intervention,
+SpellName,dominate mind,
 SpellName,drain life,drenar vida
+SpellName,earthen colossus,
+SpellName,elemental servant,
+SpellName,elemental warding,
+SpellName,ember lance,
+SpellName,enlarge,
+SpellName,entangling vines,
+SpellName,entropic siphon,
 SpellName,extra healing,sanación extra
+SpellName,false life,
 SpellName,fear,miedo
+SpellName,find doors,
+SpellName,find traps,
 SpellName,finger of death,dedo de la muerte
 SpellName,fireball,bola de fuego
 SpellName,flaming sphere,esfera llameante
 SpellName,force bolt,rayo de fuerza
+SpellName,foreknowledge,
+SpellName,freedom,
+SpellName,freedom of movement,
 SpellName,freezing sphere,esfera congelada
+SpellName,frost breath,
 SpellName,full healing,sanación completa
+SpellName,gate,
+SpellName,gilding touch,
+SpellName,glacial spike,
+SpellName,grasping mind,
+SpellName,grave rot,
+SpellName,gravity well,
+SpellName,guided path,
+SpellName,harvest of souls,
 SpellName,haste,prisa
+SpellName,hazard sense,
 SpellName,healing,sanación
+SpellName,hex,
+SpellName,hexbind,
+SpellName,hideous laughter,
+SpellName,hold monster,
+SpellName,hold person,
+SpellName,holy word,
 SpellName,ice storm,tormenta de hielo
 SpellName,identify,identificar
+SpellName,inner calm,
 SpellName,invisibility,invisivilidad
+SpellName,iron will,
+SpellName,ironbind door,
+SpellName,juggernaut ray,
 SpellName,jumping,salto
+SpellName,keen search,
 SpellName,knock,golpe
+SpellName,legion of bone,
 SpellName,levitation,levitación
 SpellName,light,luz
 SpellName,lightning bolt,rayo
 SpellName,living wall,muro viviente
 SpellName,magic mapping,mapeado mágico
 SpellName,magic missile,misil mágico
+SpellName,meteoric cataclysm,
+SpellName,mind ken,
+SpellName,mind link,
+SpellName,mind spike,
+SpellName,mindrend,
+SpellName,mirror ward,
+SpellName,neutralize poison,
+SpellName,oracle's eye,
+SpellName,owl eyes,
+SpellName,petrifying touch,
 SpellName,phasing,cambio de fase
+SpellName,planar anchor,
+SpellName,planar swap,
 SpellName,poison blast,explosión venenosa
 SpellName,polymorph,polimorfismo
+SpellName,porter's reach,
+SpellName,prayer,
+SpellName,premonition,
+SpellName,prismatic spray,
+SpellName,psychic shove,
 SpellName,raise dead,levantar a los muertos
+SpellName,rally cry,
+SpellName,ray of enfeeblement,
+SpellName,reap,
 SpellName,regenerate,regeneración
 SpellName,remove curse,remover maldición
+SpellName,repelling ward,
+SpellName,repulsion,
 SpellName,restoration,restauración
+SpellName,revelation,
+SpellName,sanctuary,
+SpellName,scalding cloud,
+SpellName,searing light,
+SpellName,sense curse,
+SpellName,sense the restless,
+SpellName,sentinel ward,
+SpellName,shimmer shield,
 SpellName,shocking sphere,esfera de choque
+SpellName,shrink,
+SpellName,silence,
+SpellName,simulacrum,
 SpellName,sleep,sueño
+SpellName,slick detonation,
+SpellName,slipping free,
 SpellName,slow,retardar
 SpellName,soaking sphere,esfera diluvia
+SpellName,song of discord,
+SpellName,spark bolt,
+SpellName,spectral shroud,
+SpellName,spirit leech,
+SpellName,spirit shield,
+SpellName,starfall,
+SpellName,steadfast ward,
+SpellName,stone to flesh,
+SpellName,stoneskin,
 SpellName,summoning,invocación
+SpellName,sunburst smite,
+SpellName,sunder gear,
+SpellName,swoon,
 SpellName,telekinesis,telequinesia
+SpellName,telekinetic shove,
 SpellName,teleport away,huida teletransporte
+SpellName,thunderclap,
+SpellName,timed combustion,
+SpellName,tongue tied,
 SpellName,toxic spray,spray tóxico
+SpellName,transmuter's mastery,
+SpellName,true appraisal,
 SpellName,turn undead,convertir no-muertos
+SpellName,unbinding,
+SpellName,undying ward,
+SpellName,unseen hand,
+SpellName,vampiric feast,
+SpellName,veil of shadows,
+SpellName,wall breach,
+SpellName,wall of thorns,
 SpellName,walling,muros
+SpellName,ward of return,
+SpellName,warning ward,
+SpellName,web snare,
+SpellName,whispers of madness,
+SpellName,wildfire brand,
+SpellName,wither,
+SpellName,withering ray,
 SpellName,wizard lock,cerradura mágica
+SpellName,world vision,
 StandingName,damned,maldito
 StandingName,doomed,condenado
 StandingName,doubtful,dudoso
@@ -4815,19 +5869,31 @@ VolatileName,blaze,ardiente
 VolatileName,blood,sangre
 VolatileName,electricity,electricidad
 VolatileName,freeze,congelar
+VolatileName,oil,
 VolatileName,steam,evaporado
 WallStructureName,illusionary,ilusionaria
 WallStructureName,permanent,permanente
 WallStructureName,solid,sólida
+ZooName,angelic sanctuary,
 ZooName,ant hole,hormiguero
+ZooName,astral kennel,
 ZooName,barracks,cuartel
 ZooName,bee hive,colmena
 ZooName,cocknest,nido del gallo
 ZooName,college of wizardry,colegio de hechicería
 ZooName,dragon nest,nido de dragón
+ZooName,dragon rookery,
+ZooName,drow stronghold,
+ZooName,elemental foundry,
+ZooName,golem forge,
 ZooName,graveyard,cementerio
 ZooName,gremlin pit,foso de gremlin
+ZooName,jelly vat,
 ZooName,leprechaun hall,salón de los duendes
+ZooName,military camp,
+ZooName,mimic den,
+ZooName,monster greenhouse,
+ZooName,pheral crypt,
 ZooName,salty pool,piscina salada
 ZooName,science lab,laboratorio de ciencia
 ZooName,slumber party,fiesta de pijamas

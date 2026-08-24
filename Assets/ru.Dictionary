@@ -1,4 +1,5 @@
 ﻿AfflictionDescription,Deadly venom courses through your veins.,Смертельный яд течёт по вашим венам.
+AfflictionDescription,Groteseque changes are happening to your body.,
 AfflictionDescription,Something deeply unsettling is happening... down there.,"Что-то очень тревожное происходит... там, внизу."
 AfflictionDescription,There is a gnawing sensation from deep inside your stomach.,Вы чувствуете в глубине своего желудка беспокойство.
 AfflictionDescription,This viral disease causes inflammation of the brain and is spread by infected animals.,"Это вирусное заболевание, распространяемое больными животными, вызывает воспаление головного мозга."
@@ -6,6 +7,7 @@ AfflictionDescription,You feel unclean and everything itches.,Вы чувств�
 AfflictionDescription,You have a dreadful case of stomach acid.,У вас ужасный случай желудочной кислоты.
 AfflictionDescription,Your skin is sickly green and something is very wrong inside your stomach.,"Ваша кожа болезненно зелёная, и что-то очень плохое происходит в вашем желудке."
 AfflictionName,crabs,крабы
+AfflictionName,mutation,
 AfflictionName,nits,вши
 AfflictionName,poisoning,отравление
 AfflictionName,rabies,бешенство
@@ -43,76 +45,136 @@ AppearanceDescription,A short but sturdy looking coat of mithril armour.,"Миф
 AppearanceDescription,A slender and delicate looking coat of mithril armour.,Мифрильный доспех с тонким и изящным покрытием.
 AppearanceDescription,A slender and glossy looking coat of mithril armour.,Мифрильный доспех с тонким и блестящим покрытием.
 AppearanceDescription,This classic wizard accessory is a pointed hat decorated with moons and stars.,Эта классическая часть наряда волшебника — остроконечная шляпа украшенная луной и звёздами.
+AppearanceName,acrid book,
 AppearanceName,adamantine slug,адамантиновая пуля
 AppearanceName,adamantine staff,адамантиновый посох
 AppearanceName,agate ring,агатовое кольцо
+AppearanceName,alabaster book,
 AppearanceName,aluminium wand,алюминиевая палочка
+AppearanceName,amber book,
+AppearanceName,ancient book,
 AppearanceName,angled poleaxe,выпуклая секира
+AppearanceName,antique book,
+AppearanceName,arcane book,
+AppearanceName,arcing book,
+AppearanceName,argent book,
+AppearanceName,ashen book,
 AppearanceName,backwards book,книга наоборот
 AppearanceName,bag,сумка
 AppearanceName,balsa wand,бальзовая палочка
 AppearanceName,bamboo arrow,бамбуковая стрела
 AppearanceName,bamboo wand,бамбуковая палочка
+AppearanceName,banded book,
+AppearanceName,barbed ring,
+AppearanceName,basalt book,
+AppearanceName,battered book,
+AppearanceName,beaded book,
 AppearanceName,beaked polearm,древко с клювообразным молотом
 AppearanceName,bell,бронзовый колокольчик
 AppearanceName,big book,большая книга
+AppearanceName,bilious book,
+AppearanceName,birch book,
 AppearanceName,black book,чёрная книга
+AppearanceName,black bound book,
 AppearanceName,black gem,чёрный самоцвет
 AppearanceName,black gloves,чёрные перчатки
 AppearanceName,black onyx ring,кольцо с чёрным ониксом
 AppearanceName,black potion,чёрное зелье
+AppearanceName,black stone,
 AppearanceName,black wand,чёрная палочка
+AppearanceName,blackened book,
+AppearanceName,bloodstained book,
 AppearanceName,bloody potion,кровавое зелье
 AppearanceName,blue and green shield,сине-зелёный щит
 AppearanceName,blue gem,синий самоцвет
 AppearanceName,blue robe,синия роба
+AppearanceName,bone book,
+AppearanceName,bone bound book,
 AppearanceName,bone earrings,костяные серьги
 AppearanceName,bone staff,костяной посох
+AppearanceName,bone white book,
+AppearanceName,boulder bound book,
+AppearanceName,bramble book,
+AppearanceName,brass book,
+AppearanceName,brass bound book,
+AppearanceName,brass clasped book,
 AppearanceName,brass ring,латунное кольцо
 AppearanceName,brass wand,латунная палочка
 AppearanceName,brilliant blue potion,бриллиантово-синее зелье
+AppearanceName,brittle book,
+AppearanceName,broad katar,
 AppearanceName,broad pick,широкая кирка
 AppearanceName,broad short sword,широкий короткий меч
 AppearanceName,bronze book,бронзовая книга
 AppearanceName,bronze ring,бронзовое кольцо
 AppearanceName,bronze wand,бронзовая палочка
+AppearanceName,bronzed book,
 AppearanceName,brown potion,коричневое зелье
 AppearanceName,bubbly potion,пузырчатое зелье
+AppearanceName,buckled book,
 AppearanceName,bugle,труба
+AppearanceName,burnished book,
 AppearanceName,candle,свеча
 AppearanceName,canvas book,холщовая книга
+AppearanceName,celestial book,
 AppearanceName,ceramic wand,керамическая палочка
+AppearanceName,chained book,
+AppearanceName,chalkstone book,
+AppearanceName,charcoal book,
+AppearanceName,charnel book,
+AppearanceName,charred book,
+AppearanceName,cinder book,
+AppearanceName,cindered book,
 AppearanceName,circular amulet,округлый амулет
+AppearanceName,clasped book,
+AppearanceName,clay bound book,
 AppearanceName,clay ring,глиняное кольцо
 AppearanceName,clear potion,прозрачное зелье
+AppearanceName,clockwork gun,
 AppearanceName,cloth book,тканевая книга
 AppearanceName,cloudy potion,туманное зелье
 AppearanceName,coarse mantelet,грубая мантия
+AppearanceName,cobalt book,
+AppearanceName,cobblestone book,
+AppearanceName,coiled gun,
 AppearanceName,colourful book,разноцветная книга
 AppearanceName,combat boots,боевые сапоги
 AppearanceName,compact gun,компактное оружие
+AppearanceName,compass bound book,
 AppearanceName,concave amulet,вогнутый амулет
 AppearanceName,conical hat,коническая шапка
+AppearanceName,consecrated book,
 AppearanceName,convex amulet,выпуклый амулет
 AppearanceName,copper book,медная книга
 AppearanceName,copper ring,медное кольцо
 AppearanceName,copper wand,медная палочка
+AppearanceName,coral book,
 AppearanceName,coral ring,коралловое кольцо
+AppearanceName,corded book,
+AppearanceName,cracked book,
+AppearanceName,cratered book,
 AppearanceName,crested helmet,шлем с гребнем
+AppearanceName,crimson book,
 AppearanceName,crude arrow,грубая стрела
 AppearanceName,crude bow,грубый лук
 AppearanceName,crude chain mail,грубая кольчуга
 AppearanceName,crude dagger,грубый кинжал
+AppearanceName,crude disc,
 AppearanceName,crude ring mail,грубая байдана
 AppearanceName,crude short sword,грубый короткий меч
 AppearanceName,crude spear,грубое копьё
+AppearanceName,crumbling book,
+AppearanceName,crystal book,
 AppearanceName,crystal staff,кристаллический посох
 AppearanceName,crystal wand,кристаллическая палочка
+AppearanceName,crystalline book,
 AppearanceName,curved polearm,изогнутое древко
 AppearanceName,curved sword,изогнутый меч
 AppearanceName,curved wand,изогнутая палочка
+AppearanceName,cut glass book,
 AppearanceName,cyan book,сине-зелёная книга
 AppearanceName,cyan potion,сине-зелёное зелье
+AppearanceName,damascened book,
 AppearanceName,dark blue book,тёмно-синяя книга
 AppearanceName,dark brown book,тёмно-коричневая книга
 AppearanceName,dark green book,тёмно-зелёная книга
@@ -122,27 +184,43 @@ AppearanceName,deep book,таинственная книга
 AppearanceName,diamond ring,алмазное кольцо
 AppearanceName,dirty rag,грязные лохмотья
 AppearanceName,dog eared book,потрёпанная книга
+AppearanceName,dolomite book,
 AppearanceName,double-headed axe,двусторонний топор
+AppearanceName,dove grey book,
+AppearanceName,dress boots,
 AppearanceName,drum,барабан
 AppearanceName,dull book,бледная книга
+AppearanceName,dusk blue book,
 AppearanceName,dusty book,запылённая книга
 AppearanceName,ebony wand,эбеновая палочка
+AppearanceName,eelskin book,
 AppearanceName,effervescent potion,шипучее зелье
+AppearanceName,ember book,
 AppearanceName,emerald potion,изумрудное зелье
 AppearanceName,emerald ring,кольцо с изумрудом
 AppearanceName,engagement ring,помолвочное кольцо
+AppearanceName,etched book,
 AppearanceName,etched helmet,гравированный шлем
+AppearanceName,eternity ring,
 AppearanceName,exotic two-pointed polearm,экзотическое двуконечное древко
 AppearanceName,faded book,выцветшая книга
 AppearanceName,faded pall,выцветшая мантия
+AppearanceName,feldspar book,
 AppearanceName,fencing gloves,фехтовальные перчатки
 AppearanceName,figurine,фигурка
 AppearanceName,fine mithril-coat,прекрасный мифрильный доспех
 AppearanceName,fizzy potion,пенящееся зелье
+AppearanceName,flint book,
 AppearanceName,flute,флейта
 AppearanceName,forked polearm,древко с вилообразным клинком
+AppearanceName,forked wand,
+AppearanceName,frostbitten book,
+AppearanceName,frosted book,
 AppearanceName,fur boots,меховые сапоги
 AppearanceName,fuzzy book,ворсистая книга
+AppearanceName,gale book,
+AppearanceName,gilded book,
+AppearanceName,glass bound book,
 AppearanceName,glass orb,стеклянный шар
 AppearanceName,glass ring,стеклянное кольцо
 AppearanceName,glass wand,стеклянная палочка
@@ -153,13 +231,21 @@ AppearanceName,glossy arrow,чёрная руническая стрела
 AppearanceName,glossy bow,чёрный рунический лук
 AppearanceName,glossy dagger,чёрный рунический кинжал
 AppearanceName,glossy mithril-coat,блестящий мифрильный доспех
+AppearanceName,glossy potion,
 AppearanceName,glossy short sword,чёрный рунический короткий меч
+AppearanceName,gloved book,
+AppearanceName,gneiss book,
 AppearanceName,gold book,золотая книга
 AppearanceName,gold earrings,золотые серьги
 AppearanceName,gold ring,золотое кольцо
 AppearanceName,gold wand,золотая палочка
 AppearanceName,golden potion,золотистое зелье
+AppearanceName,gossamer book,
+AppearanceName,granite book,
 AppearanceName,granite ring,гранитное кольцо
+AppearanceName,graphite book,
+AppearanceName,grave bound book,
+AppearanceName,gravel book,
 AppearanceName,green gem,зелёный самоцвет
 AppearanceName,green robe,зелёная роба
 AppearanceName,grey book,серая книга
@@ -168,38 +254,54 @@ AppearanceName,hard hat,шлем-каска
 AppearanceName,hard shoes,прочные ботинки
 AppearanceName,hardcover book,книга в твёрдой обложке
 AppearanceName,harp,арфа
+AppearanceName,hazel book,
 AppearanceName,heavy barrelled gun,оружие с толстостенным стволом
 AppearanceName,heavy gun,крупнокалиберное оружие
 AppearanceName,hexagonal amulet,шестигранный амулет
 AppearanceName,hexagonal wand,шестигранная палочка
+AppearanceName,hide bound book,
 AppearanceName,hiking boots,походные ботинки
 AppearanceName,hilted polearm,древко с наконечниками
+AppearanceName,hoarfrost book,
+AppearanceName,hollow book,
 AppearanceName,hooded cloak,плащ с капюшоном
 AppearanceName,hooked polearm,древко с крючковатым клинком
+AppearanceName,hooked sword,
 AppearanceName,horn,горн
 AppearanceName,horseshoe,подкова
 AppearanceName,humongous book,гигантская книга
 AppearanceName,icy potion,ледяное зелье
+AppearanceName,incandescent book,
 AppearanceName,indigo book,книга цвета индиго
 AppearanceName,iridium wand,иридиевая палочка
+AppearanceName,iron bound book,
 AppearanceName,iron ring,железное кольцо
 AppearanceName,iron skull cap,железный цервельер
 AppearanceName,iron wand,железная палочка
+AppearanceName,ivory book,
 AppearanceName,ivory ring,кольцо из слоновой кости
 AppearanceName,jackboots,ботфорты
+AppearanceName,jade book,
 AppearanceName,jade ring,кольцо с нефритом
+AppearanceName,jewelled book,
 AppearanceName,jewelled wand,инкрустированная драгоценностями палочка
 AppearanceName,jungle boots,ботинки джунглей
+AppearanceName,keening book,
 AppearanceName,key,ключ
+AppearanceName,khaki potion,
 AppearanceName,lamp,лампа
 AppearanceName,large gun,тяжёлое оружие
 AppearanceName,large round shield,большой круглый щит
+AppearanceName,leaden book,
 AppearanceName,leather apron,кожаный фартук
 AppearanceName,leather book,кожаная книга
 AppearanceName,leather hat,кожаная шляпа
 AppearanceName,light blue book,голубая книга
 AppearanceName,light brown book,светло-коричневая книга
 AppearanceName,light green book,светло-зелёная книга
+AppearanceName,limestone book,
+AppearanceName,linen book,
+AppearanceName,loam book,
 AppearanceName,long barrelled gun,длинноствольное оружие
 AppearanceName,long book,длинная книга
 AppearanceName,long bow,длинный лук
@@ -211,13 +313,18 @@ AppearanceName,luminescent potion,светящееся зелье
 AppearanceName,magenta book,маджентовая книга
 AppearanceName,magenta potion,маджентовое зелье
 AppearanceName,maple wand,кленовая палочка
+AppearanceName,marble book,
 AppearanceName,marble wand,мраморная палочка
 AppearanceName,marker,маркер
+AppearanceName,marlstone book,
 AppearanceName,medallion amulet,медальон-оберег
 AppearanceName,metal canister,металлическая канистра
 AppearanceName,metal pineapple,металлическая лимонка
 AppearanceName,metal slug,металлическая пуля
+AppearanceName,mica book,
+AppearanceName,mildewed book,
 AppearanceName,milky potion,молочное зелье
+AppearanceName,millstone book,
 AppearanceName,mithril boots,мифрильные ботинки
 AppearanceName,mithril ring,мифрильное кольцо
 AppearanceName,mithril slug,мифрильная пуля
@@ -225,70 +332,109 @@ AppearanceName,mithril staff,мифрильный посох
 AppearanceName,mood ring,кольцо настроения
 AppearanceName,moonstone ring,кольцо с лунным камнем
 AppearanceName,mortar gun,мортира
+AppearanceName,mossy book,
+AppearanceName,moth eaten book,
 AppearanceName,mottled book,пёстрая книга
 AppearanceName,mud boots,грязные сапоги
 AppearanceName,muddy potion,мутное зелье
 AppearanceName,murky potion,густое зелье
+AppearanceName,murmuring book,
+AppearanceName,muted book,
 AppearanceName,mysterious gadget,мистический прибор
+AppearanceName,notched book,
 AppearanceName,oak wand,дубовая палочка
+AppearanceName,obsidian book,
 AppearanceName,obsidian ring,обсидиановое кольцо
 AppearanceName,ochre book,золотистая книга
 AppearanceName,octagonal amulet,восьмигранный амулет
 AppearanceName,octagonal wand,восьмигранная палочка
 AppearanceName,old gloves,старые перчатки
+AppearanceName,olive branch book,
+AppearanceName,onyx book,
+AppearanceName,opal book,
 AppearanceName,opal ring,кольцо с опалом
+AppearanceName,opaline book,
 AppearanceName,opera cloak,накидка
 AppearanceName,orange book,оранжевая книга
 AppearanceName,orange gem,оранжевый самоцвет
 AppearanceName,orange potion,оранжевое зелье
 AppearanceName,orange robe,оранжевая роба
 AppearanceName,ornamental cope,мантия украшенная орнаментом
+AppearanceName,ossuary book,
 AppearanceName,oval amulet,овальный амулет
 AppearanceName,padded gloves,стёганые перчатки
+AppearanceName,pale book,
 AppearanceName,papyrus book,папирусная книга
 AppearanceName,parchment book,пергаментная книга
 AppearanceName,pearl earrings,жемчужные серьги
 AppearanceName,pearl ring,кольцо с жемчужиной
+AppearanceName,phoenix down book,
 AppearanceName,piece of cloth,кусок сукна
+AppearanceName,pine wand,
 AppearanceName,pink book,розовая книга
 AppearanceName,pink potion,розовое зелье
+AppearanceName,pitted book,
+AppearanceName,plague ridden book,
 AppearanceName,plaid book,клетчатая книга
 AppearanceName,plain book,гладкая книга
 AppearanceName,plain ring,гладкое кольцо
 AppearanceName,plain robe,гладкая роба
 AppearanceName,plastic slug,пластиковая пуля
 AppearanceName,plastic stick,пластиковая палка
+AppearanceName,plastic wand,
 AppearanceName,platinum wand,платиновая палочка
 AppearanceName,plumed helmet,шлем с плюмажем
+AppearanceName,pocked book,
 AppearanceName,pole cleaver,древко с клинком секиры
 AppearanceName,pole sickle,древко с серповидным клинком
 AppearanceName,polished silver shield,полированный серебряный щит
+AppearanceName,porphyry book,
+AppearanceName,prismatic book,
 AppearanceName,pronged polearm,древко с зубчатым молотком
 AppearanceName,pruning hook,древко с кривым клинком
+AppearanceName,psalm book,
 AppearanceName,puce potion,красновато-коричневое зелье
+AppearanceName,pumice book,
 AppearanceName,purple book,пурпурная книга
 AppearanceName,purple-red potion,пурпурно-красное зелье
 AppearanceName,pyramidal amulet,амулет в форме пирамиды
+AppearanceName,quartzite book,
+AppearanceName,quicksilver book,
+AppearanceName,radiant book,
 AppearanceName,ragged book,истрёпанная книга
 AppearanceName,rainbow book,радужная книга
 AppearanceName,red book,красная книга
 AppearanceName,red gem,красный самоцвет
 AppearanceName,red robe,красная роба
+AppearanceName,red stone,
 AppearanceName,red-eyed shield,щит с красным глазом
 AppearanceName,riding boots,ездовые сапоги
 AppearanceName,riding gloves,ездовые перчатки
+AppearanceName,rimed book,
+AppearanceName,riveted book,
 AppearanceName,ruby potion,рубиновое зелье
 AppearanceName,ruby ring,кольцо с рубином
 AppearanceName,runed arrow,руническая стрела
+AppearanceName,runed book,
 AppearanceName,runed bow,рунический лук
 AppearanceName,runed broadsword,рунический палаш
 AppearanceName,runed dagger,рунический кинжал
+AppearanceName,runed disc,
 AppearanceName,runed short sword,рунический короткий меч
 AppearanceName,runed spear,руническое копьё
 AppearanceName,runed wand,руническая палочка
+AppearanceName,russet book,
+AppearanceName,rusted book,
 AppearanceName,rusty wand,ржавая палочка
+AppearanceName,sable book,
+AppearanceName,saddle book,
+AppearanceName,sallow book,
 AppearanceName,samurai sword,самурайский меч
+AppearanceName,sanguine book,
+AppearanceName,sapphire book,
 AppearanceName,sapphire ring,кольцо с сапфиром
+AppearanceName,scalded book,
+AppearanceName,schist book,
 AppearanceName,scoped long gun,длинноствольное оружие с прицелом
 AppearanceName,scroll labelled ANDOVA BEGARIN,свиток с ярлыком ANDOVA BEGARIN
 AppearanceName,scroll labelled AZZGAZ,свиток с ярлыком AZZGAZ
@@ -321,36 +467,56 @@ AppearanceName,scroll labelled XALICH UDED,свиток с ярлыком XALICH
 AppearanceName,scroll labelled XIXAXA XOXAXA XUXAXA,свиток с ярлыком XIXAXA XOXAXA XUXAXA
 AppearanceName,scroll labelled YUM YUM,свиток с ярлыком YUM YUM
 AppearanceName,scroll labelled ZELGO MER,свиток с ярлыком ZELGO MER
+AppearanceName,sepia book,
+AppearanceName,sepulchral book,
 AppearanceName,shadow book,теневая книга
+AppearanceName,shale book,
+AppearanceName,shimmering book,
 AppearanceName,shining book,блестящая книга
 AppearanceName,shiny ring,сияющее кольцо
 AppearanceName,short barrelled gun,короткоствольное оружие
 AppearanceName,short samurai sword,короткий самурайский меч
 AppearanceName,short wand,короткая палочка
 AppearanceName,shoulder gun,оружие с прикладом
+AppearanceName,shrapnel book,
+AppearanceName,silk book,
+AppearanceName,silken book,
+AppearanceName,silly wand,
 AppearanceName,silver book,серебряная книга
 AppearanceName,silver ring,серебряное кольцо
 AppearanceName,silver slug,серебряная пуля
 AppearanceName,silver wand,серебряная палочка
+AppearanceName,silvered book,
 AppearanceName,single-edged polearm,древко с клинком
 AppearanceName,sky blue potion,небесно-синее зелье
+AppearanceName,slate book,
 AppearanceName,slippery cloak,гладкий плащ
 AppearanceName,small gun,маленькое оружие
+AppearanceName,small horizontal bow,
 AppearanceName,smoky potion,дымчатое зелье
 AppearanceName,snow boots,зимние сапоги
+AppearanceName,solar book,
+AppearanceName,sooty book,
+AppearanceName,soul bound book,
 AppearanceName,sparkling potion,игристое зелье
 AppearanceName,spherical amulet,сферический амулет
 AppearanceName,spiked wand,шипастая палочка
 AppearanceName,spotted book,крапчатая книга
 AppearanceName,square amulet,квадратный амулет
 AppearanceName,stained book,запятнанная книга
+AppearanceName,starless book,
+AppearanceName,starlit book,
+AppearanceName,static book,
 AppearanceName,steel ring,стальное кольцо
 AppearanceName,steel wand,стальная палочка
 AppearanceName,sticky glob,липкий шарик
+AppearanceName,storm wracked book,
 AppearanceName,stout mithril-coat,крепкий мифрильный доспех
 AppearanceName,stout spear,крепкое копьё
 AppearanceName,studded samurai stick,шипованная самурайская палка
 AppearanceName,stylish book,изящная книга
+AppearanceName,sundered book,
+AppearanceName,sunlit book,
 AppearanceName,swirly potion,вихрящееся зелье
 AppearanceName,tan book,желтовато-коричневая книга
 AppearanceName,tattered book,истерзанная книга
@@ -365,35 +531,51 @@ AppearanceName,throwing disc,метательный диск
 AppearanceName,throwing spear,метательное копьё
 AppearanceName,throwing star,метательная звёздочка
 AppearanceName,throwing stick,метательная палка
+AppearanceName,thunderous book,
 AppearanceName,tiger eye ring,кольцо с тигровым глазом
 AppearanceName,tin wand,оловянная палочка
 AppearanceName,tiny book,крохотная книга
+AppearanceName,topaz book,
 AppearanceName,topaz ring,кольцо с топазом
 AppearanceName,torn book,изорванная книга
+AppearanceName,toy bat,
+AppearanceName,toy hammer,
 AppearanceName,toy sword,игрушечный меч
 AppearanceName,triangular amulet,треугольный амулет
 AppearanceName,turquoise book,бирюзовая книга
 AppearanceName,twisted ring,витое кольцо
+AppearanceName,umber book,
+AppearanceName,unbound book,
 AppearanceName,unlabelled scroll,свиток без ярлыка
 AppearanceName,uranium wand,урановая палочка
+AppearanceName,veiled book,
 AppearanceName,vellum book,веленевая книга
 AppearanceName,velvet book,вельветовая книга
+AppearanceName,verdigris book,
 AppearanceName,violet book,фиолетовая книга
 AppearanceName,violet gem,фиолетовый самоцвет
 AppearanceName,visored helmet,шлем с забралом
+AppearanceName,voltaic book,
 AppearanceName,vulgar polearm,древко с плоским наконечником
 AppearanceName,walking shoes,прогулочные ботинки
 AppearanceName,warped amulet,искривлённый амулет
+AppearanceName,warped book,
+AppearanceName,waxen book,
 AppearanceName,wedding ring,обручальное кольцо
+AppearanceName,welded book,
+AppearanceName,whispering book,
 AppearanceName,whistle,свисток
 AppearanceName,white book,белая книга
 AppearanceName,white coat,белый халат
 AppearanceName,white gem,белый самоцвет
 AppearanceName,white potion,белое зелье
 AppearanceName,wide book,широкая книга
+AppearanceName,wilted book,
 AppearanceName,winged missile,крылатый снаряд
 AppearanceName,wire ring,проволочное кольцо
+AppearanceName,withered book,
 AppearanceName,wooden ring,деревянное кольцо
+AppearanceName,wormwood book,
 AppearanceName,wrinkled book,ребристая книга
 AppearanceName,yellow book,жёлтая книга
 AppearanceName,yellow gem,жёлтый самоцвет
@@ -489,62 +671,116 @@ BlockName,statue,статуя
 BlockName,stone boulder,каменный валун
 BlockName,trophy,трофей
 BlockName,wooden barrel,деревянная бочка
+BoonDescription,"A darker resurrection than the temples offer: certain to succeed, but the dead come back enraged.",
+BoonDescription,"A generous healing gift, fae-touched: your hands will not be quite steady later.",
 BoonDescription,Ask for a unicorn to join your party.,Попросить единорога присоединиться к вашему отряду.
+BoonDescription,Ask the fae for a favour. What you get is entirely up to her mood.,
+BoonDescription,"Bathe in the etching vats. It burns, but you rise with a hide the acid cannot bite.",
 BoonDescription,Bless one item in your inventory or on the ground.,Благословить одну вещь в сумке или на земле.
 BoonDescription,Brew a random potion into your bottle of water.,Сварить случайное зелье из зелья воды.
 BoonDescription,Butcher a corpse into an easy to carry container.,Разделанный труп легче переносить в контейнере.
 BoonDescription,Call upon the undead to fight for you.,Призвать нежить которая будет сражаться за вас.
+BoonDescription,Consult the observatory's charts for the full layout of this level.,
 BoonDescription,Convert one item into a random alternative of the same type.,Преобразовать одну вещь в случайную вещь того же типа.
 BoonDescription,Determine the enchantment and charges of all carried items.,Определить чары и количество зарядов всех несомых вещей.
+BoonDescription,"Drill under the captain's eye. You may be quickened, or you may be worn out.",
+BoonDescription,Drink the warrior's drink and fight in a berserker rage. It does not spare your allies.,
+BoonDescription,"Eat at the fae table. You will not go hungry, but the wine shows you things that are not there.",
 BoonDescription,"Erase the magic from a potion, scroll or book.","Очистить от магии зелье, свиток или книгу."
+BoonDescription,Fall into a trance and see through walls and floors for a time.,
 BoonDescription,Hatch an egg and become a parent.,Вывести из яйца и стать родителем.
+BoonDescription,Have the efreeti bind a captive elemental to your service.,
+BoonDescription,"Have the temple armour smiths put a keener edge on one weapon, magical or not.",
+BoonDescription,Have the wizard read the true nature of everything you carry.,
+BoonDescription,"Have your destiny read from the stars, hastening your growth.",
 BoonDescription,Heal damage and recover mana for yourself and your steed if mounted.,Вылечить полученный вами и вашим скакуном (если верхом) урон.
 BoonDescription,Learn how to cast a random spell.,Научиться накладывать одно случайное заклинание.
 BoonDescription,Learn the divine status of all carried items.,Узнать духовный статус всех несомых вещей.
 BoonDescription,Learn the name of one random unknown item.,Узнать название одного случайного неизвестного вам предмета.
 BoonDescription,Make an imitation copy of an item.,Создать имитационную копию вещи.
 BoonDescription,Partially recharge a spent item.,Частично перезарядить израсходованную вещь.
+BoonDescription,Petition the vizier for a spectral cat to guard you as it once guarded the tomb.,
 BoonDescription,Place a curse on one equipped or carried item.,Наложить проклятие на одну надетую или несомую вещь.
+BoonDescription,"Plunge into the quenching trough. It burns with cold, but you rise proof against it.",
 BoonDescription,Reanimate a corpse as a loyal revenant.,Оживить труп как верного восставшего.
+BoonDescription,Receive the linen wrappings used to prepare the dead for the afterlife.,
 BoonDescription,Remove all magic from an item.,Удалить всю магию из вещи.
 BoonDescription,Remove the curse on one equipped or carried item.,Снять проклятие с одной надетой или несомой вещи.
 BoonDescription,Rename an item for vanity and as a small protection against cancellation.,Переименовать вещь ради самолюбия и как небольшой защиты от очищения с неё.
 BoonDescription,Request a fresh corpse with no questions asked.,Попросить свежий труп без лишних вопросов.
 BoonDescription,Request one cast of the polymorph spell.,Попросить наложить заклинание превращения.
+BoonDescription,Requisition soldiers from the garrison to march at your side.,
 BoonDescription,Restore any lost ability and remove any negative transient conditions.,Восстановить любую утраченную характеристику и снять любые временные негативные эффекты.
 BoonDescription,Return a corpse back to life.,Вернуть труп к жизни.
+BoonDescription,Stand in the temple square and receive the captain's defensive blessing.,
+BoonDescription,"Step into the forge fire. It burns, but you rise with fire in your blood.",
 BoonDescription,Summon a powerful steed from the underworld.,Призвать могучего скакуна из преисподней.
 BoonDescription,Summon a tame forest beast as your ally.,Призвать приручённого зверя как вашего союзника.
+BoonDescription,Summon an escort from the pharaoh's retinue to walk beside you.,
+BoonDescription,The princess trades you a measure of charm. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of grace. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of wit. Something else must give way for it.,
+BoonDescription,Toss a coal on the forge fire and take whatever ward it grants you.,
+BoonDescription,Train under a veteran until a weapon or armour discipline sticks.,
 BoonDescription,Upgrade an item or increase its power.,Улучшите предмет или увеличьте его силу.
 BoonDescription,Use nature magic to grow the power of your ally.,"Использовать магию природы, чтобы развить силу вашего союзника."
+BoonDescription,Watch the level through the great lens and mark every creature on it.,
+BoonDescription,Whisper a question into the vault. The dead do not always tell the truth.,
 BoonDescription,Write a random scroll onto your blank paper.,Написать случайное заклинание на чистом свитке.
 BoonName,animate dead,оживление мертвецов
 BoonName,assess,определение
+BoonName,banquet of the fae,
+BoonName,battle fury,
+BoonName,black rite of revival,
 BoonName,bless,благословение
+BoonName,bound elemental,
 BoonName,brew,зельеварение
+BoonName,call the escort,
 BoonName,cancel,стереть магию
+BoonName,capricious wish,
+BoonName,chart the level,
+BoonName,clairvoyant trance,
+BoonName,commune with the dead,
 BoonName,corpse wish,прошение трупа
+BoonName,court of the underworld,
 BoonName,divine,определение духовности
+BoonName,drill,
 BoonName,enchant,зачаровывание
 BoonName,enlighten,передача знаний
 BoonName,erase,очищение
+BoonName,fae cunning,
+BoonName,fae grace,
+BoonName,fae guile,
 BoonName,fantastical beast,фантастический зверь
+BoonName,forced march,
+BoonName,godmother's blessing,
 BoonName,grow,развитие
 BoonName,hatch,вылупление
+BoonName,identify all,
+BoonName,map the ranks,
 BoonName,nightmare steed,скакун ужаса
+BoonName,ordeal of embers,
 BoonName,place curse,наложение проклятия
 BoonName,polymorph,превращение
 BoonName,purify,обряд очищения
 BoonName,raise dead,возвращение к жизни
+BoonName,read your destiny,
 BoonName,recharge,перезарядка
 BoonName,reforge,перековка
 BoonName,rejuvenate,восстановление
 BoonName,remove curse,снятие проклятия
 BoonName,rename,переименование
 BoonName,replicate,копирование
+BoonName,sacred wrappings,
 BoonName,scribe,написание
+BoonName,sharpen blade,
+BoonName,shield wall,
 BoonName,teach spell,обучение магии
+BoonName,temper in acid,
+BoonName,temper in flame,
+BoonName,temper in frost,
 BoonName,tinned meat,консервация мяса
+BoonName,tomb guardian,
 BoonName,undead army,армия нежити
 BoonName,unicorn friend,друг единорога
 CalendarText,d MMMM yyyy,d MMMM yyyy
@@ -560,7 +796,11 @@ CharacterName,Bason,Бэйсон
 CharacterName,Belietha,Белиета
 CharacterName,Bok,Бок
 CharacterName,Bolan,Болан
+CharacterName,Bones,
+CharacterName,Borgrim,
+CharacterName,Briar,
 CharacterName,Brouwer,Брауэр
+CharacterName,Buckshot,
 CharacterName,Cailie,Кейли
 CharacterName,Capo,Капо
 CharacterName,Carthyre,Карфайр
@@ -581,18 +821,25 @@ CharacterName,Emina,Эмина
 CharacterName,Enlan,Энлан
 CharacterName,Ericendrick,Эрикендрик
 CharacterName,Eybrinde,Эйбринд
+CharacterName,Fangs,
 CharacterName,Faraze,Фараз
 CharacterName,Fenlas,Фенлас
 CharacterName,Fenraymond,Фенраймонд
+CharacterName,Fern,
 CharacterName,Floki,Флоки
 CharacterName,Forro,Форро
 CharacterName,Franzia,Франзия
 CharacterName,Galday,Галдай
 CharacterName,Gasberg,Гасберг
+CharacterName,Gearwing,
+CharacterName,Ghrenna,
+CharacterName,Giggles,
 CharacterName,Gleichman,Глейхман
 CharacterName,Gmima,Гмима
 CharacterName,Gohu,Гоху
 CharacterName,Gomack,Гомак
+CharacterName,Grakna,
+CharacterName,Grum,
 CharacterName,Grytt,Гритт
 CharacterName,Haelom,Хаелом
 CharacterName,Haique,Хайкве
@@ -615,34 +862,41 @@ CharacterName,Kevugo,Кевуго
 CharacterName,Kierantha,Киранта
 CharacterName,Kira,Кира
 CharacterName,Kneller,Кнеллер
+CharacterName,Korrath,
 CharacterName,Lagratha,Лаграта
 CharacterName,Lanetwalz,Ланетвальз
 CharacterName,Lant,Лэнт
 CharacterName,Lesha,Леша
 CharacterName,Luickean,Луикеан
+CharacterName,Lyric,
 CharacterName,Lzay,Лзай
 CharacterName,Malasuth,Маласус
+CharacterName,Malgrim,
 CharacterName,Marisa,Мариса
 CharacterName,Melchai,Мелчай
 CharacterName,Meloty,Мелоти
 CharacterName,Miller,Миллер
 CharacterName,Misteph,Мистеф
 CharacterName,Nichaeltoy,Нихельтой
+CharacterName,Nihlus,
 CharacterName,Ninerma,Нинерма
 CharacterName,Ninhart,Нинхарт
 CharacterName,Ninny,Нинни
 CharacterName,Nodin,Нодин
 CharacterName,Norbant,Норбант
+CharacterName,Nugget,
 CharacterName,Okennwood,Океннвуд
 CharacterName,Ollac,Оллак
 CharacterName,Omdarro,Омдарро
 CharacterName,Orankin,Оранкин
 CharacterName,Oscae,Оскае
 CharacterName,Paltrick,Палтрик
+CharacterName,Panderos,
 CharacterName,Pauwinner,Пауиннер
 CharacterName,Penevieve,Пеневьева
 CharacterName,Perceval,Персеваль
 CharacterName,Pinkerton,Пинкертон
+CharacterName,Pip,
 CharacterName,Plegg,Плегг
 CharacterName,Pleyson,Плейсон
 CharacterName,Pnerfa,Пнерфа
@@ -660,16 +914,26 @@ CharacterName,Rebenna,Ребенна
 CharacterName,Renorber,Ренорбер
 CharacterName,Rokiju,Рокию
 CharacterName,Rupley,Руплей
+CharacterName,Rustbeard,
 CharacterName,Sarlia,Сарлия
+CharacterName,Scraps,
+CharacterName,Sentinel,
+CharacterName,Serathiel,
+CharacterName,Shadow,
 CharacterName,Shinaas,Шинаас
+CharacterName,Sissik,
+CharacterName,Skrix,
 CharacterName,Smither,Смитер
+CharacterName,Sprocket,
 CharacterName,Stevere,Стивер
 CharacterName,Stewite,Стюит
 CharacterName,Sully,Салли
 CharacterName,Talon,Талон
 CharacterName,Tanyacka,Таньяка
 CharacterName,Thakuline,Такулин
+CharacterName,Thokk,
 CharacterName,Threepo,Трипо
+CharacterName,Tillie,
 CharacterName,Timonen,Тимонен
 CharacterName,Trank,Трэнк
 CharacterName,Udfoot,Удфут
@@ -677,7 +941,10 @@ CharacterName,Uffle,Уффли
 CharacterName,Ujopayne,Уджопейн
 CharacterName,Umazi,Умази
 CharacterName,Urenval,Уренваль
+CharacterName,Vaelithra,
+CharacterName,Valor,
 CharacterName,Valorn,Валорн
+CharacterName,Vashti,
 CharacterName,Vekincarc,Векинкарк
 CharacterName,Vidar,Видар
 CharacterName,Vikethome,Викетхом
@@ -687,7 +954,9 @@ CharacterName,Wallison,Уоллисон
 CharacterName,Waltis,Уолтис
 CharacterName,Walzen,Вальзен
 CharacterName,Wendry,Вендри
+CharacterName,Wisp,
 CharacterName,Wollet,Воллет
+CharacterName,Wraith,
 CharacterName,Xamarin,Ксамарин
 CharacterName,Xandries,Ксандрис
 CharacterName,Xank,Ксанк
@@ -699,6 +968,7 @@ CharacterName,Yassage,Яссаге
 CharacterName,Yorque,Ёркве
 CharacterName,Yral,Ярал
 CharacterName,Yuvaloren,Ювалорен
+CharacterName,Zathrik,
 CharacterName,Zean,Зеан
 CharacterName,Zerbarry,Зербарри
 CharacterName,Zimn,Зимн
@@ -709,16 +979,19 @@ ClassDescription,"Benevolent caretakers, always willing to lend a helping hand t
 ClassDescription,"Champions of the winter realms, fierce and proud. Hardy and strong, they will boldly face any challenger until they meet a glorious death.","Чемпионы зимних земель, свирепые и гордые, отважные и сильные. Они смело встретят любого соперника, пока не встретят славную смерть."
 ClassDescription,"Charming minstrels, making their way through the world with their songs and stories. They are jacks-of-all-trades; alongside their troubadour talents, they dabble in both martial skills and spellcraft.","Очаровательные менестрели, прокладывающие свой путь по миру с песнями и историями. Они мастера на все руки. Наряду с талантами трубадура, они увлекаются боевыми навыками и колдовством."
 ClassDescription,"Conductors of natural energies, these uniquely attuned spell casters derive their powers from the living world. Peaceful until threatened, they are unafraid to respond with animalistic savagery.","Мистики природных энергий, эти уникально настроенные заклинатели черпают свои силы из живого мира. Мирные до тех пор, пока им не угрожает опасность, они не боятся отвечать звериной жестокостью."
+ClassDescription,"Contract killers trained to strike once, from the dark, and vanish before the body is found. They favour poisoned steel over honest combat and trust no blade they have not sharpened themselves.",
 ClassDescription,"Corrupt and hateful souls, who are motivated by causing carnage and spreading chaos. Subject to uncontrollable bouts of rage, they bring doom and destruction to friend and foe alike.","Эта испорченная и ненавистная душа мотивирована только кровопролитием и хаосом. Испытывая неконтролируемые приступы ярости, они приносят смерть и разрушения как друзьям, так и врагам."
 ClassDescription,"Daft harlequins, always carrying a trick up their sleeves. Eclectic and eccentric; they are unassuming masters of chaos, adept in many bewildering talents.","Безумные арлекины, вечно припрятавшие какой-нибудь фокус в рукавах. Многоликие и чудаковатые. Они скромные мастера хаоса, обладающие многими удивительными талантами."
 ClassDescription,"Deft miscreants, conniving and quick with their wits. Through trial and error, they have learned that their best chance in avoiding the clutches of death is to stick to the shadows and outmanoeuvre their pursuers.","Ловкие негодяи, коварные и сообразительные. Методом проб и ошибок они узнали, что их лучший шанс избежать лап смерти — это держаться в тени и перехитрить преследователей."
 ClassDescription,"Devoted to understanding the essence of magic and the marvel of engineering, these adept craftsman crave both knowledge and resources. Whether directed by madness or genius, they are a capable adversary and a tenacious survivor.","Посвятив себя пониманию сущности магии и чудес инженерной мысли, эти искусные мастера стремятся к знаниям и ресурсам. Они способные противники и стойкие выживальщики, будь они управляемые безумием или гениальностью."
 ClassDescription,Escaped criminals who have spent so much of their life incarcerated that any trace of who or what they once were has all but vanished.,"Сбежавшие преступники, которые провели так много времени в заключении, что любые следы того, кем или чем они когда-то были, почти исчезли."
 ClassDescription,"Freebooting buccaneers, sailing the high seas and plundering many a merchant's vessel in their endless pursuit of riches and infamy. They are murderous cutthroats with little regard for anything but gold.","Пираты-разорители, плавающие в открытом море и грабящие множество торговых судов в своей бесконечной погоне за богатством и позором. Это кровожадные головорезы, которые не ценят ничего, кроме золота."
+ClassDescription,"Grim oath-bound hunters who court death against the mightiest foes, undead and monstrous alike. What they lack in subtlety they make up for with unrelenting rage and a body built to shrug off ruin.",
 ClassDescription,"Happy-go-lucky travellers, committed to only the most authentic experiences. Quixotic and brave, they meticulously prepare with a wide variety of paraphernalia - yet remain ill-equipped for the perils they will soon face.","Беспечные путешественники, приверженные только самым подлинным впечатлениям. Донкихотские и храбрые, они тщательно готовят большое количество снаряжения и всё же остаются плохо подготовленными к опасностям, с которыми они скоро столкнутся."
 ClassDescription,"Hidden agents, fleet-footed and schooled in many ancient arts of assassination. When all else fails, they are indubitably prepared to make swift escapes.","Тайные агенты, быстроногие и обученные многим древним искусствам убийства. Когда все остальные усилия оказываются безуспешными, они, бесспорно, готовы быстро ускользнуть."
 ClassDescription,"Honourable warriors, who have dedicated their lives to an ancient code. Skilled in art of dual-wielding blades, they make fast work of their enemies.","Благородные воины, посвятившие свою жизнь древнему кодексу. Искусные в обращении парным оружием, они быстро расправляются со своими врагами."
 ClassDescription,"Keepers of cosmic secrets, who derive their sacred powers from the spirit realms hidden from mortal eyes. They are compelled by dark forces and are adept at bending the material world to their will.","Хранители космических тайн, черпающие свои сакральные силы из духовных сфер скрытых от глаз смертных. Они покорили тёмные силы и умеют подчинять материальный мир своей воле."
+ClassDescription,"Keepers of old hexes and older grudges, more at home among gravestones and cauldrons than decent company. They do not hurl fire; they unmake their enemies' luck, strength and flesh by degrees.",
 ClassDescription,"Noble savages, hardened to battle by generations of survival in the unforgiving wilderness. They are not strangers to death's call; legends tell of their incredible strength and battle prowess with heavy weapons.","Статные варвары, закалённые в битвах поколениями выживших в беспощадной пустыне. Им не чужды призывы к смерти. Легенды рассказывают об их невероятной силе и боевом мастерстве в обращении с тяжёлым оружием."
 ClassDescription,"Obsessed with blurring the line between life and death, these meddlers of dark forces prefer to associate with cadavers over the living. To some, the rituals are grotesque, but they see pure majesty in the manipulation of the natural order.","Одержимые стремлением стереть грань между жизнью и смертью, эти посредники тёмных сил предпочитают общаться с мертвецами, а не с живыми. Для некоторых их ритуалы нелепы, но они видят чистое величие в манипуляции естественным порядком."
 ClassDescription,"Pious scholars, oath-bound to their scripture. Although altruistic and good-natured, they are trained in martial arts so as to protect themselves and the canon they live by.","Набожные учёные, связанные клятвой к своему священному писанию. Несмотря на их альтруизм и добродушие, они обучены боевым искусствам для защиты себя и канонов, по которым они живут."
@@ -729,11 +1002,16 @@ ClassDescription,Questionably pious individuals from an ancient religious and mi
 ClassDescription,"Quintessential scientific researchers and dauntless historical investigators. Both brash and debonair, they seek out knowledge and accolades alike. They are curiously fond of whips and share a perplexing hatred towards serpents.","Воплощение учёных-исследователей и смелых историков. Нахальные и вежливые, они одинаково ищут знаний и почестей. Они необычайно любят кнуты и питают непонятную ненависть к змеям."
 ClassDescription,"Restless desperados, driven by wanderlust and troubled by the haunting memories of those they could not protect. They are sly masters of lead and steel, hellbent on redemption and retribution.","Неугомонные сорвиголовы, гонимые жаждой странствий и преследуемые воспоминаниями о тех, кого они не смогли защитить. Они ловкие мастера свинца и стали, одержимые жаждой искупления и возмездия."
 ClassDescription,"Righteous clergymen, dedicated to a life of sacrifice and spreading the word of their almighty deities. Well-versed in divine magic and the judicial delivery of violence to those deemed unworthy of salvation.","Праведные священнослужители, посвятившие свою жизнь самопожертвованию и распространяющие слово своих всемогущих божеств. Они сведущи в божественной магии и в вершении правосудия над теми, кого посчитали недостойными спасения."
+ClassDescription,"Scholars who bound their fate to raw elemental force rather than the slower disciplines of wizardry. Fire and frost answer their call in equal measure, a duality most mages never dare attempt.",
+ClassDescription,"Self-taught chemists of the underworld, forever mixing, tasting and bottling the unknown. What they lack in swordsmanship they make up for with a satchel of volatile solutions and a hard-won immunity to their own mistakes.",
 ClassDescription,"Strongly built, tough and industrious workers who are more than capable in dangerous situations. Traditional practices and heavy tools are used to overcome obstacles in their pursuit of valuable gemstones.","Эти крепко сложённые, суровые и трудолюбивые работники талантливы в преодолении опасных ситуаций. Традиционные методы и тяжёлые инструменты используются ими для преодоления препятствий в поисках драгоценных камней."
 ClassDescription,"Sworn to uphold justice, these righteous warriors are dogmatic in pursuit of their sacred work. Classical martial skills are complemented by magical powers to protect the innocent and smite the wicked.","Эти праведные воины, клятвенно отстаиваемые справедливость, догматичны в выполнении своего священного дела. Классические боевые навыки дополняются магическими силами, чтобы защитить невинных и поразить нечестивых."
 ClassDescription,"Venerable men-at-arms clad in gleaming armour, renowned for their unyielding chivalry and conviction. They are high-born and are educated to be strategists and capable leaders on any battlefront.","Почтенные братья по оружию, облачённые в сверкающие доспехи, славящиеся своей непоколебимой рыцарственностью и убеждённостью. Они знатного происхождения и образованы, чтобы быть стратегами и умелыми лидерами на любом поле боя."
 ClassDescription,"Warrior slaves compelled to battle for the entertainment of raucous crowds, often to the death. Those that can survive this cauldron are trained into the most brutal of pit fighters.","Рабы-воины, вынужденные сражаться до смерти развлекая шумные толпы. Тех, кто может выжить в этом котле, обучают в самых жестоких бойцов из ямы."
 ClassDescription,"Wilderness sentinels who understand the true balance of the universe. With bow in hand, they have devoted their lives to protecting the forces of nature from the corrupting touch of civilisation.","Стражи дикой природы, которые понимают истинное равновесие вселенной. С луком в руках, они посвятили свою жизнь защите сил природы от разрушающего прикосновения цивилизации."
+ClassName,apothecary//female,
+ClassName,apothecary//male,
+ClassName,apothecary//non-binary,
 ClassName,barbarian//female,варвар
 ClassName,barbarian//male,варвар
 ClassName,barbarian//non-binary,варвар
@@ -749,6 +1027,9 @@ ClassName,convict//non-binary,каторжанин
 ClassName,druid//female,друид
 ClassName,druid//male,друид
 ClassName,druid//non-binary,друид
+ClassName,elementalist//female,
+ClassName,elementalist//male,
+ClassName,elementalist//non-binary,
 ClassName,explorer//female,искатель
 ClassName,explorer//male,искатель
 ClassName,explorer//non-binary,искатель
@@ -782,6 +1063,9 @@ ClassName,mystic//non-binary,мистик
 ClassName,necromancer//female,некромант
 ClassName,necromancer//male,некромант
 ClassName,necromancer//non-binary,некромант
+ClassName,nightblade//female,
+ClassName,nightblade//male,
+ClassName,nightblade//non-binary,
 ClassName,ninja//female,ниндзя
 ClassName,ninja//male,ниндзя
 ClassName,ninja//non-binary,ниндзя
@@ -809,6 +1093,9 @@ ClassName,samurai//non-binary,самурай
 ClassName,shaman//female,шаман
 ClassName,shaman//male,шаман
 ClassName,shaman//non-binary,шаман
+ClassName,slayer//female,
+ClassName,slayer//male,
+ClassName,slayer//non-binary,
 ClassName,templar//female,храмовник
 ClassName,templar//male,храмовник
 ClassName,templar//non-binary,храмовник
@@ -821,18 +1108,26 @@ ClassName,tourist//non-binary,турист
 ClassName,valkyrie//female,валькирия
 ClassName,valkyrie//male,валькирия
 ClassName,valkyrie//non-binary,валькирия
+ClassName,witch//female,
+ClassName,witch//male,
+ClassName,witch//non-binary,
 ClassName,wizard//female,волшебник
 ClassName,wizard//male,волшебник
 ClassName,wizard//non-binary,волшебник
+CompanionName,almiraj,
+CompanionName,astral puppy,
 CompanionName,bird,птица
+CompanionName,blink puppy,
 CompanionName,cat,кошка
 CompanionName,dog,собака
 CompanionName,egg,яйцо
 CompanionName,ghoul,гуль
+CompanionName,hamster,
 CompanionName,horse,конь
 CompanionName,imp,бес
 CompanionName,monkey,мартышка
 CompanionName,rat,крыса
+CompanionName,raven,
 CounterName,afflictions,болезни
 CounterName,animations,оживления
 CounterName,anoints,помазания
@@ -925,8 +1220,10 @@ DeviceName,fire trap,огненная ловушка
 DeviceName,grease trap,скользкая ловушка
 DeviceName,hallucination trap,галлюциногенная ловушка
 DeviceName,hole,дыра
+DeviceName,humantrap,
 DeviceName,hunger trap,ловушка голода
 DeviceName,ice trap,ледяная ловушка
+DeviceName,ink pool,
 DeviceName,level teleporter,уровневый телепортер
 DeviceName,lightning trap,молниевая ловушка
 DeviceName,noxious pool,ядовитая лужа
@@ -941,6 +1238,7 @@ DeviceName,sleeping gas trap,ловушка с сонным газом
 DeviceName,spear trap,ловушка с копьём
 DeviceName,spiked pit,яма с кольями
 DeviceName,squeaky board,скрипучая доска
+DeviceName,statue trap,
 DeviceName,teleporter,телепорт
 DeviceName,toxic trap,токсичная ловушка
 DeviceName,trapdoor,люк в полу
@@ -1007,15 +1305,68 @@ EncumbranceName,stressed,отягощён
 EncumbranceName,unencumbered,налегке
 EngulfmentName,engulfed,охвачен
 EngulfmentName,swallowed,проглочен
+EntityDescription,"A blink dog pup, already able to flicker away from danger before it lands a bite.",
+EntityDescription,A bulbous fungus that bursts into a hissing cloud of acid when disturbed.,
+EntityDescription,"A cave bear whose pelt has gone grey as cinders, hardened by years sheltered in a live volcano's roots.",
+EntityDescription,"A cave spider drained of all colour by lightless generations, hunting by web-thrum alone.",
+EntityDescription,"A cobra pale as hoarfrost, coiled in the ice caves where warm-blooded prey seeks shelter.",
+EntityDescription,"A coyote with a static-charged coat, drawn down from the high plains after a lightning storm.",
+EntityDescription,"A dead tree animated by rot and old malice, its bark split open where a jaw shouldn't be.",
+EntityDescription,"A dragon steeped in high magic, said to hoard grimoires as jealously as gold.",
+EntityDescription,A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.,
+EntityDescription,A dwarf of a mountain clan so far north the forge-fires burn blue; one of its twin mattocks bites like the wind off the peak.,
+EntityDescription,A fey hound that flickers between here and elsewhere; it fights alongside anyone it trusts.,
+EntityDescription,"A giant bat with clouded, sightless eyes, navigating wholly by the shriek of its own echo.",
+EntityDescription,"A giant beetle with a carapace of blue-white chitin, breath steaming with cold in the deep dark.",
+EntityDescription,"A giant caked grey with volcanic ash, walking down from a smoking peak with a club still smoking at the tip.",
+EntityDescription,"A giant of the high glaciers, sheathed in rime; its breath alone can flash-freeze a puddle solid.",
+EntityDescription,"A gila monster whose beaded hide glows dull orange along the seams, as if lit from beneath.",
+EntityDescription,"A gnome who never left the deep tunnels, pale and stooped, at ease chewing through rock with a pickaxe.",
+EntityDescription,"A golem cast from bronze rather than raw iron; where its cousin only staggers under a lightning strike, this one drinks the current and spits it back.",
+EntityDescription,"A hound of the Astral plane, half-seen even when it stands still; it does not breathe or bleed.",
+EntityDescription,"A jackal wasted by sickness, its ribs showing through a mangy hide; its bite festers.",
+EntityDescription,A jelly black as a starless sky; things it touches for too long forget how alive they were.,
+EntityDescription,A jelly that glows faintly like a coal; fire only makes it swell larger and angrier.,
+EntityDescription,A jelly that reeks of rot; it dissolves flesh and gear alike to feed itself.,
+EntityDescription,"A jelly the colour of a bruise, faintly crackling; touching it feels like brushing a doorknob after crossing a carpet in winter.",
+EntityDescription,"A jelly the colour of glacier ice, cold to the touch and colder still if it touches back.",
+EntityDescription,"A kobold camouflaged in mottled green, more comfortable in the canopy than underground; it spits venom from a hollow reed.",
+EntityDescription,"A long worm that burrows through permafrost, its segmented hide crusted with rime.",
+EntityDescription,"A lynx with a rime-white winter coat, breath fogging even in a warm room.",
 EntityDescription,A medium-sized creature prone to great ambition. Short-lived but ubiquitous; they are not to be underestimated.,"Существо средних размеров, склонное к огромным амбициям. Живут недолго, но многочисленны. Их нельзя недооценивать."
+EntityDescription,"A panther whose black coat smoulders at the edges, leaving smoking pawprints on stone.",
+EntityDescription,"A plump waterfowl, unbothered by dungeons so long as there is a puddle nearby.",
+EntityDescription,"A pudding of black, viscid tar that oozes and smoulders at once; anything it swallows comes out cindered.",
+EntityDescription,"A raven with feathers like beaten iron, riding the thunderheads and stooping with a crack of static.",
+EntityDescription,"A rodent the size of a dog, cheek pouches bulging with whatever it last found on the floor.",
+EntityDescription,"A sewer rat gone pure white and pink-eyed, blind from generations in unlit tunnels.",
+EntityDescription,"A shade gone pale and crystalline, trailing frost wherever it drifts; the cold pours off it before it ever draws near.",
+EntityDescription,A shambling corpse wrapped in weeping buboes; the sickness that killed it did not stop working when it died.,
+EntityDescription,"A shark bred to lightless ocean trenches, its eyes filmed over and useless.",
+EntityDescription,"A skeleton picked clean by something worse than time; its bones are black at the joints, and its touch draws the warmth out of the living.",
+EntityDescription,A small heap of coins that isn't quite finished counting itself.,
+EntityDescription,"A small, quick-witted dragon out of the fey courts, more prankster than predator.",
+EntityDescription,"A spitting beetle whose glands have gone volcanic, hawking gobbets of burning pitch.",
+EntityDescription,"A standing wave of brackish swamp water, thick with algae and old poison; nothing in it is fresh, and nothing about touching it is safe.",
+EntityDescription,"A troll that wandered too near a volcano and came out the other side wrong: its hide is cracked magma-rock, glowing at every seam.",
+EntityDescription,"A water moccasin gone jet black, all but invisible against a night-flooded cave pool.",
+EntityDescription,"A weathered chest, until its lid splits open into a maw ringed with teeth.",
+EntityDescription,"A young astral dog, still learning to keep all four paws on the material plane at once.",
+EntityDescription,"A young mimic, its shapeshifting still crude — usually just a box that bites back.",
 EntityDescription,"Amorphous beings who have no typical shape but often take on a translucent humanoid form. While unmistakable for anything other than a plasma-like ooze, this form enables the use of clothing and tools.","Аморфные существа, которые не имеют характерной формы, но часто принимают полупрозрачную гуманоидную форму. Несмотря на то, что его нельзя спутать ни с чем, кроме плазмоподобной жижи, эта форма позволяет использовать одежду и инструменты."
 EntityDescription,"An ancient race of towering recluses. Their terrifying size gives them immense strength, supplemented by a voracious diet of meats and minerals.",Древняя раса исполинских отшельников. Их ужасающий размер даёт им огромную силу и дополняет ненасытной диетой из мяса и минералов.
+EntityDescription,"An ape with a crackling, wire-taut hide, native to the thunderheads above the high peaks.",
+EntityDescription,"An elf of the sunlit dunes, skin bronzed and eyes narrowed; its arrows are fletched with fire-hardened reed and fly burning.",
+EntityDescription,"An ogre gone half-feral in the fens, its skin sallow and slick; its claws carry a rot no wound-dressing can clean.",
+EntityDescription,An orc mummy exhumed from a barrow sealed under a cinder-field; its wrappings are charred and its grip sears whatever it holds.,
+EntityDescription,"An orc that has made its home in the marshlands, its blade notched and slicked with venom drawn from swamp adders.",
 EntityDescription,"Astral beings who are a vessel for the indomitable spirit of a vanquished adventurer. Having no motivations of their own, they are glad to permit the possession; for the deceased adventurer, it is a second chance at revenge or redemption. Born from astral matter, they are slightly built, translucent and can move freely through physical obstacles.","Астральные существа, которые являются сосудом для неукротимого духа побеждённого приключенца. Не имея собственных мотивов, они рады разрешить овладеть собой. Для умершего приключенца это второй шанс отомстить или искупить свою вину. Рождённые из астральной материи, они слабо сложены, полупрозрачны и могут свободно перемещаться через физические препятствия."
 EntityDescription,"Beautiful, otherworldly beings characterised by their signature halo and feathered wings. Strongly attuned to the struggle between good and evil, they sense the divinity within anything they hold.","Прекрасные, потусторонние существа, отличающиеся своим характерным ореолом и оперёнными крыльями. Будучи твёрдо приверженными борьбе между добром и злом, они чувствуют божественность внутри всего, что они держат."
 EntityDescription,Beware this clockwork machine of war.,Бойтесь этой заводной машины войны.
 EntityDescription,Bipedal mechanical automatons with nearly unbounded artificial intelligence. Powered by a molten core engine that requires a constant supply of raw metals and is susceptible to water damage.,"Прямоходящие механические автоматоны с с практически неограниченным исскуственным интеллектом. Питаются от двигателя с расплавленным сердечником, который требует постоянного притока металла для функционирования и уязвим к воде."
 EntityDescription,"Fey creatures linked by powerful nature spirits to fuel their antics. They are stocky with furry lower bodies, cloven hooves of a goat and curled horns of a ram. Ribald and clever, they cheerfully lead hedonistic escapades of drinking, dancing and fighting.","Могущественные духи природы, связанные с этими волшебными существами, подпитывают их шалости. Они коренастые, с мохнатой нижней частью тела, раздвоенными копытами козла и загнутыми рогами барана. Грубые и умные, они весело проводят шалости с выпивкой, танцами и драками."
 EntityDescription,"Imposing and heavily built, they resemble humanoid dragons with a snout, scaly hide and functional wings.","Внушительные и массивные, они похожи на гуманоидных драконов с мордой, чешуйчатым покровом и рабочими крыльями."
+EntityDescription,"It waits among the headstones shaped like one more grave marker, patient as the dead around it.",
 EntityDescription,"Large, omnivorous reptilians whose bestial ancestors dominated the world long before the birth of civilisation. They are fearsome predators, capable of leaping impressive distances and warding off many attacks with their thick scaly hides.","Крупные, плотоядные рептилии, чьи дикие предки господствовали в мире задолго до рождения цивилизации. Это страшные хищники, способные прыгать на внушительные расстояния и отражать множество атак своими толстыми чешуйчатыми шкурами."
 EntityDescription,Monstrous creatures with the head and tail of a bull and the body of a man.,Чудовищные существа с головой и хвостом быка и телом человека.
 EntityDescription,"Perverse creatures of many aberrations but always with crimson skin and horns. Their mere presence compels others to act out their darkest, most violent desires.","Извращённые существа многих аберраций, но всегда с багровой кожей и рогами. Само их присутствие заставляет других действовать в своих самых мрачных, самых жестоких желаниях."
@@ -1033,7 +1384,11 @@ EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.","Уродливые, жестокие существа с людоедскими наклонностями. Эта воинственная раса известна своей впечатляющей силой и отсутствующим умственным потенциалом."
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.","Несправедливо считающиеся трусливыми и слабыми, эти маленькие рептилоидные существа преодолевают свои физические ограничения, используя злобные и хитрые тактики."
 EntityName,abbot,аббат
+EntityName,abyssal shark,
 EntityName,acid blob,кислотный пузырь
+EntityName,acid elemental,
+EntityName,acid sphere,
+EntityName,acid spore,
 EntityName,acid worm,кислотный червь
 EntityName,acolyte,прислужник
 EntityName,adamantine golem,адамантиновый голем
@@ -1049,8 +1404,15 @@ EntityName,adult shimmering dragon,взрослый мерцающий драк�
 EntityName,adult silver dragon,взрослый серебряный дракон
 EntityName,adult white dragon,взрослый белый дракон
 EntityName,adult yellow dragon,взрослый жёлтый дракон
+EntityName,air binder,
 EntityName,air elemental,воздушный элементаль
+EntityName,air maker,
+EntityName,air seeker,
+EntityName,air sphere,
+EntityName,albino rat,
+EntityName,alchemist,
 EntityName,Aleax,Эликс
+EntityName,almiraj,
 EntityName,ancient black dragon,древний чёрный дракон
 EntityName,ancient blue dragon,древний синий дракон
 EntityName,ancient deep dragon,древний глубинный дракон
@@ -1063,6 +1425,7 @@ EntityName,ancient silver dragon,древний серебряный драко�
 EntityName,ancient white dragon,древний белый дракон
 EntityName,ancient yellow dragon,древний жёлтый дракон
 EntityName,angel,ангел
+EntityName,angel warrior,
 EntityName,animate object,оживший предмет
 EntityName,ape,обезьяна
 EntityName,Aphrodite,Афродита
@@ -1070,17 +1433,30 @@ EntityName,apprentice,ученик
 EntityName,arc bug,электрожук
 EntityName,arch-lich,архилич
 EntityName,archangel,архангел
+EntityName,archeologist,
 EntityName,Archmage Dirachi,Верховный маг Дирачи
 EntityName,Archmage Flaynn,Верховный маг Флинн
 EntityName,archon,архонт
 EntityName,Archpriest Avvakrum,Первосвященник Аввакрум
+EntityName,army captain,
+EntityName,army lieutenant,
+EntityName,army sergeant,
+EntityName,army soldier,
 EntityName,artisan,ремесленник
+EntityName,ash elemental,
+EntityName,ash giant,
+EntityName,ashen cave bear,
+EntityName,ashen mummy,
 EntityName,Ashikaga Takauji,Асикага Такаудзи
 EntityName,Asmodeus,Асмодей
 EntityName,asphynx,асфинкс
+EntityName,assassin,
 EntityName,assassin bug,жук-хищник
 EntityName,Assassin Mortimer,Ассасин Мортимер
 EntityName,astral deva,астральная дева
+EntityName,astral dog,
+EntityName,astral dragon,
+EntityName,astral puppy,
 EntityName,athol,атол
 EntityName,attendant,санитар
 EntityName,Baalzebub,Вельзевул
@@ -1092,6 +1468,7 @@ EntityName,baby deep dragon,глубинный дракончик
 EntityName,baby gold dragon,золотой дракончик
 EntityName,baby green dragon,зелёный дракончик
 EntityName,baby long worm,длинный червячок
+EntityName,baby mimic,
 EntityName,baby orange dragon,оранжевый дракончик
 EntityName,baby purple worm,пурпурный червячок
 EntityName,baby red dragon,красный дракончик
@@ -1111,8 +1488,10 @@ EntityName,basilisk,василиск
 EntityName,bat,нетопырь
 EntityName,bearded devil,бородатый дьявол
 EntityName,beholder,злобоглаз
+EntityName,berserker,
 EntityName,bile worm,желчный червь
 EntityName,bile worm tail,хвост желчного червя
+EntityName,bishop,
 EntityName,black light,чёрный свет
 EntityName,black marketeer,барыга
 EntityName,black mould,чёрная плесень
@@ -1123,26 +1502,37 @@ EntityName,black rat,чёрная крыса
 EntityName,black troll,чёрный тролль
 EntityName,black unicorn,чёрный единорог
 EntityName,black wasp,чёрная оса
+EntityName,blind cave bat,
+EntityName,blink dog,
+EntityName,blink puppy,
 EntityName,blinking eye,мерцающий глаз
 EntityName,blood imp,кровавый бес
 EntityName,bloodshot eye,кровавый глаз
 EntityName,bloodworm,кровавый червь
 EntityName,blue jelly,синий студень
 EntityName,blue light,синий свет
+EntityName,bog ogre,
 EntityName,bone devil,костяной дьявол
+EntityName,bone reaper,
+EntityName,brine elemental,
+EntityName,bronze golem,
 EntityName,brown mould,бурая плесень
 EntityName,brown pudding,бурая масса
 EntityName,brownie,брауни
 EntityName,bugbear,медвежатник
 EntityName,bull,бык
+EntityName,buraq,
 EntityName,burbling blob,булькающий пузырь
+EntityName,bushi,
 EntityName,byakhee,бьяки
+EntityName,Byakko,
 EntityName,captain,капитан
 EntityName,carnivorous ape,хищная обезьяна
 EntityName,carrion crawler,ползающий падальщик
 EntityName,caterwaul,кошачий вой
 EntityName,catoblepas,катоблепас
 EntityName,cave bear,пещерный медведь
+EntityName,cave gnome,
 EntityName,cave spider,пещерный паук
 EntityName,cave troll,пещерный тролль
 EntityName,centipede,многоножка
@@ -1151,6 +1541,7 @@ EntityName,chameleon,хамелеон
 EntityName,changeling,перевёртыш
 EntityName,Charon,Харон
 EntityName,chasme,чазм
+EntityName,cherubim,
 EntityName,chickatrice,цыполиск
 EntityName,chicken,курица
 EntityName,chief yeoman warder,йомен-начальник стражи
@@ -1170,6 +1561,7 @@ EntityName,crocodile,крокодил
 EntityName,Croesus,Крёз
 EntityName,crystal golem,кристальный голем
 EntityName,Cthulhu,Ктулху
+EntityName,cyan jelly,
 EntityName,cyclops,циклоп
 EntityName,dao,дао
 EntityName,dark cleric,тёмный жрец
@@ -1201,7 +1593,12 @@ EntityName,dracon,драконоид
 EntityName,dragon king,царь драконов
 EntityName,dretch,дретч
 EntityName,drow,дроу
+EntityName,drow mage,
+EntityName,drow monk,
+EntityName,drow priestess,
+EntityName,drow thief,
 EntityName,dryad,дриада
+EntityName,duck,
 EntityName,duergar,дуэргар
 EntityName,dung worm,навозный червь
 EntityName,dust vortex,пыльный вихрь
@@ -1220,6 +1617,7 @@ EntityName,earth seeker,искатель земли
 EntityName,earth sphere,земляная сфера
 EntityName,echo,подражатель
 EntityName,efreeti,ифрит
+EntityName,elder wizard,
 EntityName,electric eel,электрический угорь
 EntityName,elephant,слон
 EntityName,elf,эльф
@@ -1229,16 +1627,24 @@ EntityName,elf mummy,мумия-эльф
 EntityName,elf zombie,зомби-эльф
 EntityName,Elwing,Эльвинг
 EntityName,embalmer,бальзамировщик
+EntityName,ember panther,
+EntityName,ember spitting beetle,
 EntityName,emerald golem,изумрудный голем
+EntityName,energy elemental,
 EntityName,energy vortex,энергетический вихрь
 EntityName,erinys,эриния
+EntityName,eshim,
 EntityName,ettin,эттин
 EntityName,ettin mummy,мумия-эттин
 EntityName,ettin zombie,зомби-эттин
+EntityName,explosive elemental,
+EntityName,explosive sphere,
 EntityName,exterminator,уничтожитель
+EntityName,fae dragon,
 EntityName,fairy,фея
 EntityName,Famine,Голод
 EntityName,Father Dagon,Отец Дагон
+EntityName,female demon,
 EntityName,fiend,чудовище
 EntityName,fire ant,огненный муравей
 EntityName,fire elemental,огненный элементаль
@@ -1257,16 +1663,24 @@ EntityName,fog cloud,туманное облако
 EntityName,forest centaur,лесной кентавр
 EntityName,fox,лиса
 EntityName,Frankenstein's Monster,Монстр Франкенштейна
+EntityName,frost beetle,
 EntityName,frost binder,связыватель льда
+EntityName,frost cobra,
+EntityName,frost dwarf,
 EntityName,frost giant,ледяной великан
+EntityName,frost long worm,
+EntityName,frost lynx,
 EntityName,frost maker,созидатель льда
 EntityName,frost seeker,искатель льда
 EntityName,frost sphere,ледяная сфера
+EntityName,frost wraith,
+EntityName,galgalim,
 EntityName,gargoyle,гаргулья
 EntityName,garter snake,подвязочная змея
 EntityName,gas spore,газовая спора
 EntityName,gecko,геккон
 EntityName,gelatinous cube,желеобразный куб
+EntityName,General Breetai,
 EntityName,genetic engineer,генный инженер
 EntityName,Geryon,Герион
 EntityName,ghast,вурдалак
@@ -1284,6 +1698,7 @@ EntityName,giant crab,гигантский краб
 EntityName,giant eel,гигантский угорь
 EntityName,giant flea,гигантская блоха
 EntityName,giant frog,гигантская лягушка
+EntityName,giant hamster,
 EntityName,giant king,великан-король
 EntityName,giant louse,гигантская вошь
 EntityName,giant mimic,гигантский мимик
@@ -1297,6 +1712,7 @@ EntityName,giant termite,гигантский термит
 EntityName,giant tick,гигантский клещ
 EntityName,giant wasp,гигантская оса
 EntityName,giant zombie,зомби-великан
+EntityName,Gianta Klaus,
 EntityName,gibberling,гибберлинг
 EntityName,gila monster,ядозуб
 EntityName,Girtab,Гиртаб
@@ -1321,8 +1737,10 @@ EntityName,goblin king,гоблин-король
 EntityName,gold golem,золотой голем
 EntityName,golden naga,золотая нага
 EntityName,golden naga hatchling,детёныш золотой наги
+EntityName,grave mimic,
 EntityName,great orc,огромный орк
 EntityName,green elf,зелёный эльф
+EntityName,green jelly,
 EntityName,green mould,зелёная плесень
 EntityName,green slime,зелёная слизь
 EntityName,gremlin,гремлин
@@ -1338,7 +1756,10 @@ EntityName,guide,гид
 EntityName,Guildmaster Vaughn,Гильдмастер Вон
 EntityName,Guru Quilion,Гуру Квилон
 EntityName,gypsy,цыган
+EntityName,hag,
 EntityName,halfling,полурослик
+EntityName,halfling female caveman,
+EntityName,halfling male caveman,
 EntityName,harpy,гарпия
 EntityName,hell hound,адская гончая
 EntityName,hell hound pup,щенок адской гончей
@@ -1363,9 +1784,11 @@ EntityName,human,человек
 EntityName,human king,король людей
 EntityName,human mummy,мумия-человек
 EntityName,human zombie,зомби-человек
+EntityName,huntress,
 EntityName,hydra,гидра
 EntityName,ice devil,ледяной дьявол
 EntityName,ice elemental,ледяной элементаль
+EntityName,ice giant,
 EntityName,ice troll,ледяной тролль
 EntityName,ice vortex,ледяной вихрь
 EntityName,iguana,игуана
@@ -1381,8 +1804,10 @@ EntityName,jackalwere,шакал-оборотень
 EntityName,jaguar,ягуар
 EntityName,jellyfish,медуза
 EntityName,jiggling blob,колыхающийся пузырь
+EntityName,journeyman wizard,
 EntityName,juggernaut,джаггернаут
 EntityName,Juiblex,Джуиблекс
+EntityName,jungle kobold,
 EntityName,juvenile raven,юный ворон
 EntityName,Kaloi Thrym,Калой Трим
 EntityName,kamadan,камадан
@@ -1408,6 +1833,7 @@ EntityName,kobold warrior,кобольд-воин
 EntityName,kobold zombie,зомби-кобольд
 EntityName,komodo dragon,комодский дракон
 EntityName,kraken,кракен
+EntityName,Krull,
 EntityName,lamb,ягнёнок
 EntityName,Lareth,Ларет
 EntityName,large cat,большая кошка
@@ -1418,6 +1844,7 @@ EntityName,large mimic,большой мимик
 EntityName,large pile of killer coins,большая горсть монет-убийц
 EntityName,larva,личинка
 EntityName,lava blob,лавовый пузырь
+EntityName,lava troll,
 EntityName,leather golem,кожаный голем
 EntityName,lemure,лемур
 EntityName,leocrotta,леокротта
@@ -1434,6 +1861,7 @@ EntityName,lizardman,людоящер
 EntityName,lizardman berserker,людоящер-берсерк
 EntityName,lizardman chieftain,людоящер-вождь
 EntityName,lizardman mage,людоящер-маг
+EntityName,lizardman samurai,
 EntityName,lizardman shaman,людоящер-шаман
 EntityName,lizardman warrior,людоящер-воин
 EntityName,Lolth,Лолс
@@ -1456,18 +1884,24 @@ EntityName,master mind flayer,мастер свежеватель разума
 EntityName,mastodon,мастодонт
 EntityName,Maugneshaagar,Могнешаагар
 EntityName,medusa,Медуза
+EntityName,melanistic moccasin,
 EntityName,mellified man,медовый человек
 EntityName,merchant,торговец
+EntityName,Merdude,
 EntityName,Metamorphius,Метаморфий
+EntityName,midnight jelly,
 EntityName,migo drone,ми-го-трутень
 EntityName,migo queen,ми-го-королева
 EntityName,migo warrior,ми-го-воин
+EntityName,mimic,
+EntityName,mimic coins,
 EntityName,mind flayer,свежеватель разума
 EntityName,minotaur,минотавр
 EntityName,minotaur lord,минотавр-лорд
 EntityName,mist wolf,туманный волк
 EntityName,mithril golem,мифрильный голем
 EntityName,mobat,мотопырь
+EntityName,molten gila monster,
 EntityName,monadic deva,монадическая дива
 EntityName,mongbat,монгтопырь
 EntityName,monkey,мартышка
@@ -1478,6 +1912,7 @@ EntityName,mountain nymph,горная нимфа
 EntityName,movanic deva,мованическая дива
 EntityName,mugger,грабитель
 EntityName,mumak,мумак
+EntityName,mystical dragon,
 EntityName,nabassu,набассу
 EntityName,nalfeshnee,нальфешни
 EntityName,Nalzok,Налзок
@@ -1488,9 +1923,12 @@ EntityName,newt,тритон
 EntityName,nickelpede,грошеножка
 EntityName,nightgaunt,найтгонт
 EntityName,nightmare,кошмар
+EntityName,noble elf,
 EntityName,Norn,Норна
+EntityName,nun,
 EntityName,nupperibo,напперибо
 EntityName,nurse,медсестра
+EntityName,Nymph Princess,
 EntityName,occultist,оккультист
 EntityName,ochre jelly,золотистый студень
 EntityName,ogre,огр
@@ -1507,6 +1945,7 @@ EntityName,orc grunt,орк-пехотинец
 EntityName,orc king,орк-вождь
 EntityName,orc mummy,мумия-орк
 EntityName,orc shaman,орк-шаман
+EntityName,orc thief,
 EntityName,orc warrior,орк-воин
 EntityName,orc zombie,зомби-орк
 EntityName,Orcus,Оркус
@@ -1514,6 +1953,7 @@ EntityName,Orion,Орион
 EntityName,owlbear,совомед
 EntityName,pack rat,крыса-воровка
 EntityName,page,паж
+EntityName,pale cave spider,
 EntityName,panther,пантера
 EntityName,pantherwere,пантера-оборотень
 EntityName,paper golem,бумажный голем
@@ -1524,6 +1964,10 @@ EntityName,Pelias,Пелий
 EntityName,Pestilence,Мор
 EntityName,phase spider,исчезающий паук
 EntityName,phase worm,исчезающий червь
+EntityName,pheral khit,
+EntityName,pheral pharaoh,
+EntityName,pheral sentinel,
+EntityName,pheral vizier,
 EntityName,pig,свинья
 EntityName,pile of killer coins,горсть монет-убийц
 EntityName,piranha,пиранья
@@ -1531,10 +1975,13 @@ EntityName,pit bull,питбуль
 EntityName,pit fiend,исчадие преисподней
 EntityName,pit viper,гремучая змея
 EntityName,pixie,пикси
+EntityName,plague jackal,
+EntityName,plague zombie,
 EntityName,plains centaur,равнинный кентавр
 EntityName,Planetar,Планетар
 EntityName,plasmoid,плазмоид
 EntityName,plastic golem,пластиковый голем
+EntityName,poison alchemist,
 EntityName,pony,пони
 EntityName,proudfoot,большеног
 EntityName,purple worm,пурпурный червь
@@ -1554,6 +2001,7 @@ EntityName,rancid jelly,тухлый студень
 EntityName,rat king,крысиный король
 EntityName,ratwere,крыса-оборотень
 EntityName,recluse spider,паук-отшельник
+EntityName,red jelly,
 EntityName,red light,красный свет
 EntityName,red mould,красная плесень
 EntityName,red naga,красная нага
@@ -1561,6 +2009,10 @@ EntityName,red naga hatchling,детёныш красной наги
 EntityName,rhaumbusun,ромбусун
 EntityName,rhumbat,румтопырь
 EntityName,robot,робот
+EntityName,robot female,
+EntityName,robot male vampire gunslinger,
+EntityName,robot sentry,
+EntityName,robot singer,
 EntityName,rock kobold,скальный кобольд
 EntityName,rock mole,скальный крот
 EntityName,rock piercer,скальный пронзатель
@@ -1570,6 +2022,7 @@ EntityName,roshi,роси
 EntityName,rot worm,гнильный червь
 EntityName,rothé,роте
 EntityName,ruby golem,рубиновый голем
+EntityName,runicorn,
 EntityName,rust monster,ржавник
 EntityName,rutterkin,раттеркин
 EntityName,sabre-toothed cat,саблезубая кошка
@@ -1578,10 +2031,13 @@ EntityName,sandestin,сандестин
 EntityName,sapphire golem,сапфировый голем
 EntityName,sasquatch,снежный человек
 EntityName,satyr,сатир
+EntityName,savage brute,
+EntityName,savage stalker,
 EntityName,scorpion,скорпион
 EntityName,Scorpius,Скорпиус
 EntityName,scramper,скрампер
 EntityName,seal,тюлень
+EntityName,seraphim,
 EntityName,sergeant,сержант
 EntityName,sewer rat,канализационная крыса
 EntityName,shade,сумрак
@@ -1589,6 +2045,7 @@ EntityName,shadow,тень
 EntityName,shadow ogre,теневой огр
 EntityName,shadow wolf,теневой волк
 EntityName,Shaman Karnov,шаман Карнов
+EntityName,shaolin monk,
 EntityName,shark,акула
 EntityName,sheep,овца
 EntityName,shifter,ловкач
@@ -1599,6 +2056,7 @@ EntityName,shock seeker,искатель разряда
 EntityName,shock sphere,шоковая сфера
 EntityName,shoggoth,шоггот
 EntityName,shrieker,гриб-визгун
+EntityName,silver golem,
 EntityName,Sir Lorimar,Сэр Лоримар
 EntityName,skeleton,скелет
 EntityName,small mimic,малый мимик
@@ -1610,6 +2068,9 @@ EntityName,snow orc,снежный орк
 EntityName,Solar,Солар
 EntityName,soldier,рядовой
 EntityName,soldier ant,муравей-солдат
+EntityName,sonic elemental,
+EntityName,sonic sphere,
+EntityName,Soul Summoner,
 EntityName,spark bug,искровой жук
 EntityName,spider queen,паук-королева
 EntityName,spiderwere,паук-оборотень
@@ -1623,24 +2084,36 @@ EntityName,static blob,статичный пузырь
 EntityName,steam vortex,паровой вихрь
 EntityName,stone giant,каменный великан
 EntityName,stone golem,каменный голем
+EntityName,storm ape,
+EntityName,storm coyote,
 EntityName,storm giant,штормовой великан
+EntityName,storm raven,
 EntityName,straw golem,соломенный голем
 EntityName,student,студент
 EntityName,succubus,суккуб
+EntityName,sun elf,
 EntityName,swamp kobold,болотный кобольд
+EntityName,swamp orc,
+EntityName,tar pudding,
+EntityName,tempter,
+EntityName,temptress,
 EntityName,tengu,тэнгу
+EntityName,thief,
 EntityName,Thorin,Торин
 EntityName,Thoth Amon,Тот Амон
 EntityName,thug,бандит
 EntityName,tiger,тигр
 EntityName,tigerwere,тигр-оборотень
+EntityName,tin golem,
 EntityName,titan,титан
 EntityName,titanothere,титанотерий
 EntityName,topaz golem,топазовый голем
 EntityName,tortle,тортл
 EntityName,tracker,преследователь
+EntityName,trader,
 EntityName,transmuter,превращатель
 EntityName,trapper,ловец
+EntityName,traveller,
 EntityName,treant,трент
 EntityName,troll,тролль
 EntityName,troll mummy,мумия-тролль
@@ -1658,6 +2131,7 @@ EntityName,vampire mage,вампир-маг
 EntityName,Van Helsing,Ван Хельсинг
 EntityName,Vecna,Векна
 EntityName,violet fungus,фиолетовый гриб
+EntityName,violet jelly,
 EntityName,vorpal jabberwock,стрижающий бармаглот
 EntityName,vrock,врок
 EntityName,war orc,орк войны
@@ -1687,6 +2161,7 @@ EntityName,weretiger,вертигр
 EntityName,werewolf,верволк
 EntityName,white unicorn,белый единорог
 EntityName,wight,уайт
+EntityName,wind sphere,
 EntityName,winged gargoyle,крылатая гаргулья
 EntityName,winter wolf,полярный волк
 EntityName,winter wolf cub,щенок полярного волка
@@ -1722,6 +2197,7 @@ EntityName,young shimmering dragon,молодой мерцающий драко�
 EntityName,young silver dragon,молодой серебряный дракон
 EntityName,young white dragon,молодой белый дракон
 EntityName,young yellow dragon,молодой жёлтый дракон
+EntityName,zombietree,
 EntityName,zruty,зрути
 EquipAction,employ,применить
 EquipAction,purse,кошелёк
@@ -1763,9 +2239,15 @@ FeatureName,bed,кровать
 FeatureName,fountain,фонтан
 FeatureName,grave,могила
 FeatureName,pentagram,пентаграмма
+FeatureName,pyramid,
 FeatureName,sarcophagus,саркофаг
+FeatureName,sink,
 FeatureName,stall,палатка
 FeatureName,throne,трон
+FeatureName,toilet,
+FeatureName,wooden sign,
+FeatureName,wooden stool,
+FeatureName,wooden table,
 FeatureName,workbench,верстак
 FormatText,{ActionCount} action,{ActionCount} действие
 FormatText,{ActionCount} actions,{ActionCount} действий
@@ -2056,13 +2538,17 @@ GradeName,exotic,необычный
 GradeName,standard,обычный
 GroundDescription,The cool stone surface has immaculate craftsmanship but is marked by damage and time.,"Прохладная каменная поверхность создана с безукоризненным мастерством, но изувечена разными повреждениями и временем."
 GroundName,cave floor,пол пещеры
+GroundName,cave path,
 GroundName,chasm,пропасть
+GroundName,cloud,
+GroundName,deep water,
 GroundName,dirt,земляной пол
 GroundName,gold floor,золотой пол
 GroundName,granite floor,гранитный пол
 GroundName,grass,трава
 GroundName,hive floor,пол улья
 GroundName,ice,лёд
+GroundName,lattice floor,
 GroundName,lava,лава
 GroundName,marble floor,мраморный пол
 GroundName,metal floor,металлический пол
@@ -2070,33 +2556,51 @@ GroundName,moss,мох
 GroundName,obsidian floor,обсидиановый пол
 GroundName,sand,песок
 GroundName,sewer floor,пол канализации
+GroundName,shallow water,
 GroundName,snow,снег
 GroundName,stone floor,каменный пол
 GroundName,stone path,каменный коридор
 GroundName,water,вода
 GroundName,wooden floor,деревянный пол
+HordeName,acid foundry,
+HordeName,air foundry,
+HordeName,albino rat,
+HordeName,angelic choir,
 HordeName,ant,муравьи
 HordeName,ape,обезьяны
+HordeName,army patrol,
+HordeName,army platoon,
+HordeName,army squad,
+HordeName,ash foundry,
+HordeName,astral dog,
 HordeName,bat,нетопыри
 HordeName,bee,пчёлы
 HordeName,beetle,жуки
+HordeName,blink dog,
+HordeName,brine foundry,
 HordeName,cockroach,тараканы
 HordeName,couatl,коатли
 HordeName,coyote,койоты
 HordeName,demon,демоны
 HordeName,drow,дроу
+HordeName,drow enclave,
 HordeName,dwarf,дварфы
 HordeName,electric bug,электрический жуки
 HordeName,elf,эльфы
+HordeName,energy foundry,
+HordeName,explosive foundry,
 HordeName,flea,блохи
 HordeName,garter snake,подвязочные змеи
 HordeName,gibberling,гибберлинг
 HordeName,gnome,гномы
 HordeName,goblin,гоблины
+HordeName,golem workshop,
 HordeName,grimlock,гримлок
 HordeName,harpy,гарпии
+HordeName,heavenly host,
 HordeName,hell hound,адские гончие
 HordeName,jackal,шакалы
+HordeName,jelly cistern,
 HordeName,keystone,недотёпы
 HordeName,kobold,кобольды
 HordeName,lemure,лемуры
@@ -2105,14 +2609,20 @@ HordeName,louse,вши
 HordeName,mane,мэйны
 HordeName,mangler,кромсатели
 HordeName,migo,ми-го
+HordeName,mimic nest,
 HordeName,mould,плесень
 HordeName,ogre,огры
 HordeName,orc,орки
+HordeName,pheral tomb,
+HordeName,plague jackal,
 HordeName,rat,крысы
 HordeName,rothé,роте
 HordeName,scorpion,скорпионы
+HordeName,sonic foundry,
 HordeName,spider,пауки
 HordeName,spore,споры
+HordeName,storm coyote,
+HordeName,tar pudding,
 HordeName,termite,термиты
 HordeName,tick,клещи
 HordeName,tsetse fly,мухи цеце
@@ -2124,15 +2634,36 @@ HordeName,wolf,волки
 HordeName,worm,черви
 HordeName,yeoman,йомены
 HordeName,zombie,зомби
+ItemDescription,"A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.",
+ItemDescription,"A barbed iron hook on a long coil of rope, thrown out and hauled back in.",
+ItemDescription,"A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.",
+ItemDescription,"A branched silver candle-holder, its every arm lit at once.",
+ItemDescription,"A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.",
+ItemDescription,"A canvas roll of bandages, salves and sutures for treating wounds in the field.",
+ItemDescription,"A ceremonial double-bitted axe, its twin blades curved like a crescent moon.",
+ItemDescription,"A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.",
+ItemDescription,"A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.",
 ItemDescription,A cloth mask that completely obstructs the wearer's vision.,"Тканевая маска, которая полностью блокирует зрение владельца."
 ItemDescription,"A collection of utensils, including empty tins and butchering tools, for packing corpses so as to condense them.","Набор предметов для консервирования и упаковки трупов, состоящий из пустых банок и инструментов для разделки."
 ItemDescription,A compact hand-held firearm.,Компактное огнестрельное оружие.
+ItemDescription,"A crudely hammered throwing disc with a jagged, uneven rim, more likely to tear than to cut cleanly.",
+ItemDescription,"A curved funerary blade inlaid with gold, once carried by a pharaonic guardian charged with keeping the dead in their tombs.",
+ItemDescription,"A curved single-edged blade mounted on a long oaken shaft, prized by the warrior monks of the far east.",
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.","Изогнутый однолезвийный клинок, нередко используемый кавалерией, особенно эффективен против существ из преисподней."
 ItemDescription,A curved single-edged blade often used by cavalry.,"Изогнутый однолезвийный клинок, нередко используемый кавалерией."
 ItemDescription,A curved yellow fruit and a great source of fibre.,Изогнутый жёлтый фрукт является отличным источником клетчатки.
+ItemDescription,A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.,
+ItemDescription,A fine-grained stone for putting an edge back on a tired blade.,
+ItemDescription,"A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.",
+ItemDescription,A flat black stone used since antiquity to tell real gemstones from paste and glass.,
+ItemDescription,A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.,
 ItemDescription,"A flat throwing weapon made of wood, often used for hunting.","Плоское метательное оружие из дерева, часто используемое для охоты."
 ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.",Плоский круглый торт. Представьте себе — готовится на сковороде.
+ItemDescription,"A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.",
 ItemDescription,A foreign device which creates perfect visual depictions of reality.,"Нездешнее устройство, создающее идеальные визуальные изображения реальности."
+ItemDescription,"A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.",
+ItemDescription,"A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.",
+ItemDescription,"A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.",
 ItemDescription,A hand-held brass horn.,Ручная медная труба.
 ItemDescription,"A hard rock, smooth and therefore aerodynamic.","Твёрдый, гладкий минерал и потому обтекаемый."
 ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,"Древко из твёрдой древесины. Это обычное, но грозное оружие в натренированных руках."
@@ -2140,10 +2671,16 @@ ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.","С�
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.","Тяжёлый и длинный обоюдоострый клинок. Похож на длинный меч, увеличенный специально для двуручного использования."
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,"Тяжёлый железный молот, разработанный специально для ближнего боя."
 ItemDescription,A heavy suit of armour made up of many strips of metal.,"Тяжёлый доспех, состоящий из множества металлических пластин."
+ItemDescription,"A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.",
 ItemDescription,"A horizontal, mechanically-aided bow and arrow with a shoulder stock.","Оружие, представляющее собой лук с плечевым прикладом и оснащённое механизмами взведения и спуска тетивы."
 ItemDescription,A key designed to open all mundane locks.,"Ключ, предназначенный для открытия всех обычных замков."
+ItemDescription,"A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.",
 ItemDescription,"A leather pouch set between two cords, meant for launching small projectiles.","Кожаный мешок между двумя шнурами, предназначенный для запуска небольших снарядов."
+ItemDescription,"A length of sturdy rope with a clasp, for keeping a tame animal close at hand.",
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.","Лёгкий оборонительный щит, крепящаяся к предплечью, сделан из дерева и укреплён металлом."
+ItemDescription,"A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.",
+ItemDescription,A long cane rod strung with line and hook. Best used beside open water.,
+ItemDescription,"A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.","Длинный железный нож, хорошо сбалансированный для метания."
 ItemDescription,A long pipe meant for shooting darts through force of breath.,"Длинная трубка, предназначенная для стрельбы дротиками, приводимая в движение выдуваемым воздухом."
 ItemDescription,A long thrusting polearm best suited to mounted combat.,"Копьё с длинным древком, наиболее пригодное для боя верхом."
@@ -2151,68 +2688,110 @@ ItemDescription,A long-shafted arrow with a distinctive tip.,Стрела с д�
 ItemDescription,"A long, flexible leather thong. Unexpectedly sharp.",Длинный плетёный кожаный ремень. Неожиданно быстрый.
 ItemDescription,"A long, flowing garment, with long sleeves and a hood.",Длинная струящаяся одежда с длинными рукавами и капюшоном.
 ItemDescription,A mace that is spiked on its head.,Булава с шипами на навершии.
+ItemDescription,"A massive adamantine maul, its head as large as a barrel stave, that shrugs off the recoil of its own swing.",
+ItemDescription,"A massive, mithril-shod maul, its head as large as a barrel stave.",
 ItemDescription,A meal made from the stomach lining of an animal.,"Еда, приготовленная из внутренностей животного."
+ItemDescription,"A miniature crossbow of elven design, light enough to be drawn and fired one-handed without a stirrup.",
+ItemDescription,"A monstrous greatsword forged with three parallel blades fused along a single spine, each edge catching the light at a different angle.",
 ItemDescription,"A package of preserved meats, all dried and chewy.","Пакет консервированного мяса, всё сушёное и жевательное."
+ItemDescription,"A pair of gauntlets ringed with jagged knuckle-spikes, made to turn a punch into a wound.",
+ItemDescription,A pair of solid iron-plated boots that guard the shin and instep at the cost of a good deal of weight.,
 ItemDescription,A pair of sturdy leather boots which extend upward until just below the knee.,Пара крепких кожаных сапог до колена.
 ItemDescription,A pair of sturdy leather boots which extend upwards to just above the ankle.,Пара крепких кожаных сапог по щиколотку.
+ItemDescription,"A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.",
+ItemDescription,"A physician's instrument for listening to a heartbeat -- yours, or something else's.",
+ItemDescription,"A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.",
+ItemDescription,"A plain, undyed shirt of woven cloth, worn under armour or on its own.",
 ItemDescription,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.","Заострённый железный прут, присоединённый под прямым углом к древку, используемый для пробивания прочных предметов."
 ItemDescription,A pointed metal cylinder meant to be discharged from a firearm.,"Заострённый металлический цилиндр, предназначенный для стрельбы из огнестрельного оружия."
+ItemDescription,A polished sheet of silvered glass. Some things recoil from their own reflection.,
 ItemDescription,A portable source of light fashioned out of copper and fuelled by oil.,"Портативный источник света, сделанный из меди и питаемый маслом."
 ItemDescription,A projectile consisting of a wooden shaft with a sharp metal tip at its front and stabilising fins at its rear.,"Снаряд, состоящий из древка с острым металлическим наконечником спереди и стабилизирующими рёбрами сзади."
+ItemDescription,"A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.",
 ItemDescription,A righteous sword forged by a revered blacksmith many years ago who set out to hone his craft and to create the ultimate blade. The noble intent of its creator lingers in this weapon to cut down the wicked and protect the innocent.,"Праведный меч, выкованный уважаемым кузнецом много лет назад, который намеревался отточить своё мастерство и создать идеальный клинок. Благородное намерение его создателя заключено в этом оружии, чтобы сокрушать нечестивых и защищать невинных."
+ItemDescription,A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.,
 ItemDescription,"A sanctimonious biscuit. A miracle to the meek, a scourge to the undead.","Святошный бисквит. Чудо кротким, бич неживым."
 ItemDescription,"A semi-rigid weapon made up of a notched wooden shaft with a drawstring attached to both ends, used to launch arrows.","Полужёсткое оружие, используемое для запуска стрел, состоящее из зазубренного древка с завязками и прикреплёнными к обоим концам."
+ItemDescription,"A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.",
 ItemDescription,A sharp iron wedge fashioned to a sturdy handle.,Острый железный клин с крепкой рукояткой.
 ItemDescription,"A sharp metal throwing weapon, smaller than a hand and shaped like a star.","Остроконечное металлическое метательное оружие, размером меньше ладони и формой напоминающее звезду."
 ItemDescription,A short and light double-edged blade.,Короткий и лёгкий обоюдоострый клинок.
+ItemDescription,"A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.",
+ItemDescription,"A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.",
+ItemDescription,"A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.",
 ItemDescription,"A slimy, scaly sea creature, in its entirety. Good for a meal.","Скользкое, чешуйчатое морское существо, целиком и полностью. Хорош для еды."
 ItemDescription,A small cutting utensil made of metal with a wooden handle.,Небольшой режущий столовый прибор из металла с деревянной ручкой.
+ItemDescription,A small glass vial holding a captive mote of light.,
+ItemDescription,A small hooked blade made for prying the lid off a sealed tin.,
 ItemDescription,A small iron tool designed for opening all sorts of locks.,"Небольшой железный инструмент, предназначенный для открывания всевозможных замков."
 ItemDescription,A small missile with a pointed tip meant for throwing.,"Маленький снаряд с заострённым наконечником, предназначенный для метания."
 ItemDescription,A small missile with a reservoir of liquid delivered through a hollow pointed tip.,"Маленький снаряд с ёмкостью для жидкости, выпускаемая через полый заострённый наконечник."
+ItemDescription,"A small, chalky tablet of uncertain origin. Best swallowed quickly.",
+ItemDescription,"A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.",
+ItemDescription,"A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.",
 ItemDescription,"A soft-brimmed hat, somewhat out of fashion.","Шляпа с мягкими полями, несколько вышедшая из моды."
 ItemDescription,A sophisticated bludgeon with a heavy iron head.,Искусная булава с увесистой железной верхушкой.
 ItemDescription,A spacious bag made of incredibly stretchy cotton.,Просторная сумка из невероятно эластичного хлопка.
 ItemDescription,A spacious cloth bag.,Просторный тканевый мешок.
+ItemDescription,"A staff of living, unworked rock. What shapes matter cannot itself be unmade.",
 ItemDescription,A stick of cured meat.,Палочка вяленого мяса.
 ItemDescription,"A stick of highly explosive material, with a short fuse on one end.",Палка из взрывоопасного материала с коротким фитилём на конце.
+ItemDescription,A stone infused with restorative magic. It crumbles a little more each time it is used.,
+ItemDescription,A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.,
+ItemDescription,"A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.",
 ItemDescription,"A straight, double-edged and often cruciform blade.","Прямой, обоюдоострый и часто крестообразный клинок."
+ItemDescription,"A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.",
 ItemDescription,A sturdy and solid mineral.,Прочный и твёрдый минерал.
 ItemDescription,A suit of armour made from metal rings sewn onto a foundation of leather or cloth.,"Кольчуга, состоящая из тканевой или кожаной основы, на которую поштучно крепятся металлические кольца."
+ItemDescription,"A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.",
 ItemDescription,"A surviving portion of the legendary wall of Verimurus, an ancient elven city said to have lasted since time immemorial. However, not even the mightiest walls could withstand the endless onslaught of the dragons. Now the enchanted walls stand alone over the land that once held them.","Сохранившаяся часть легендарной стены Веримуруса, древнего эльфийского города, который, как говорят, существовал с незапамятных времён. Однако даже самые мощные стены не могли противостоять бесконечному натиску драконов. Теперь заколдованные стены одиноко стоят над землёй, которая когда-то держала их."
 ItemDescription,"A sweet citrus fruit, coloured eponymously.","Сладкий цитрусовый фрукт, окрашенный в одноимённый цвет."
 ItemDescription,"A sweet custard-filled pie with a thin crust, topped with whipped cream.","Сладкий пирог с заварным кремом и тонкой корочкой, покрытый взбитыми сливками."
 ItemDescription,"A sweet, round fruit, of the red variety. Reportedly a great supplement to your physical health.",Сладкий круглый фрукт красного цвета. Считается отличным дополнением к вашему физическому здоровью.
+ItemDescription,"A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.",
 ItemDescription,"A tall, asymmetric bow.",Длинный асимметричный лук.
+ItemDescription,"A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.",
 ItemDescription,"A thick leather coat, constructed to withstand weather and wear.","Толстая кожаная куртка, созданная для того, чтобы выдерживать непогоду и изнашивание."
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.",Толстая дубинка. Недостаток стиля компенсируется функциональностью.
+ItemDescription,"A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,Тонкий и гибкий меч предназначен исключительно для колющих ударов.
+ItemDescription,A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.,
 ItemDescription,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.","Двуручное огнестрельное оружие, опирающееся на плечо, часто используемое при охоте на мелкую дичь. Оно обладает отличной огневой мощью."
 ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.","Чудо дварфской изобретательности и мастерства, украденное и переделанное орками. Установленный на длинном древке, этот инструмент является грозным оружием на лошади или на спине варга. Электрический ток, питающий его дрель, будет время от времени разряжаться на тех, кто захочет встать на пути этого чудовища."
+ItemDescription,"A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.",
 ItemDescription,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,"Сельскохозяйственное орудие, состоящее из длинного изогнутого лезвия и закреплённого на угловой рукоятке."
 ItemDescription,An ambiguous curiosity. It seems edible.,Неоднозначное любопытство. Кажется съедобным.
 ItemDescription,An article of leather clothing covering the torso that hangs around the neck and on the shoulders.,"Изделие из кожаной одежды, покрывающий туловище и ниспадающий на шею и плечи."
 ItemDescription,An article of waterproof cotton clothing covering the torso that hangs around the neck and on the shoulders.,"Изделие из водонепроницаемой хлопковой одежды, покрывающий туловище и ниспадающий на шею и плечи."
+ItemDescription,"An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.",
 ItemDescription,An elven travel food. It is incredibly satiating.,Эльфийская дорожная еда. Это невероятно насыщает.
+ItemDescription,"An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.",
 ItemDescription,An extremely sharp little blade used for precise incisions.,"Очень острое маленькое лезвие, используемое для точных надрезов."
 ItemDescription,An inconspicuous snack that tells deep secrets.,"Неприметная закуска, раскрывающая глубокие тайны."
 ItemDescription,An iron projectile made up of a shaft with a sharpened square-pyramid tip.,"Железный снаряд, состоящий из древка с заострённым квадратно-пирамидальным наконечником."
+ItemDescription,"An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.",
 ItemDescription,"An orange root-vegetable, commonly believed to improve eyesight.","Оранжевый корнеплод, общепринято считается улучшающим зрение."
+ItemDescription,"An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.",
 ItemDescription,"Boiled leather, moulded into a bodily shape to be donned as light armour.","Варёная кожа, отлитая в форму тела, носится как лёгкая броня."
 ItemDescription,"Bold, or just tacky?","Смело, или просто безвкусица?"
 ItemDescription,Chain mail consists of a mesh of metal rings interlinked to form a flexible armour.,"Кольчуга, состоящая из связанных между собой металлических колец, образующих гибкую броню."
+ItemDescription,"Fate itself bends around the wearer, keeping them exactly where the blow cannot land.",
 ItemDescription,"Forged deep underground by dwarven hands, this blade was made to slay the scaled beasts who sought to steal their treasures. Throughout the long years this blade has bathed in the blood of its winged prey. Now almost forgotten, it yearns again for the taste of dragon flesh.","Выкованный глубоко под землёй руками дварфов, этот клинок был создан для того, чтобы убивать чешуйчатых тварей, которые пытались украсть их сокровища. На протяжении долгих лет этот клинок омывался кровью своих крылатых жертв. Теперь почти забытый, он снова тоскует по вкусу драконьей плоти."
 ItemDescription,"Gazing into its crimson depths you can see the concentrated life essence of countless victims swirling inside of it. The artifact was completed in the moment of the creators' death, as his soul was claimed by his creation. Now residing among the souls of his former victims, his essence as an alchemist provides the stone with ultimate transmutative powers.","Вглядываясь в его багровые глубины, можно увидеть концентрированную жизненную сущность бесчисленных жертв, кружащихся внутри него. Артефакт был завершён в момент смерти создателя, так как его душа была востребована его творением. Теперь, пребывая среди душ своих прежних жертв, его сущность как алхимика наделяет камень высшей трансмутативной силой."
+ItemDescription,"Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.",
 ItemDescription,Its high-quality elvish manufacture makes for an effective close combat weapon.,Высококлассные эльфийские мастера создали это эффективное в ближнем бою оружие.
 ItemDescription,Leather armour with close-set studs so as to offer more protection.,"Кожаная броня с плотно прилегающими шипами, чтобы обеспечить большую защиту."
 ItemDescription,"Like a smaller variant of the katana, often used as a side-arm.","Меньший вариант катаны, часто носимое оружие на боку."
+ItemDescription,"Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.",
 ItemDescription,One segment of a particularly pungent and bulbous herb.,Долька особо острого луковичного растения.
 ItemDescription,Standard issue protective metal headgear.,Типовой вид защитного металлического шлема.
+ItemDescription,"Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.",
 ItemDescription,"Sturdy leather garments fitted firm onto the hands, sheathing each finger individually.","Прочная кожаная одежда плотно облегающая руки, обтягивая каждый палец по отдельности."
 ItemDescription,The final sword forged by a once respected blacksmith who lost himself in the depths of the dungeon. His warped soul now inhabits this blade and lusts for blood. It is said that the one who wields this sword is coerced into cutting down friend and foe alike.,"Последний меч, выкованный некогда уважаемым кузнецом, который затерялся в глубинах подземелья. Его извращённая душа теперь обитает в этом клинке и жаждет крови. Говорят, что тот, кто владеет этим мечом, вынужден рубить как друзей, так и врагов."
 ItemDescription,The head of a ranseur consists of a spear-tip affixed with a cross hilt at its base.,"Верхушка рунки состоит из лезвия копья, закреплённой на поперечной рукояти."
 ItemDescription,The only coin that can be found and spent in the dungeon.,В подземелье можно найти и потратить только монеты.
 ItemDescription,The snipped segment of a plant known for its antilycanthropic properties.,"Срезанный росток растения, известного своими антиликантропными свойствами."
+ItemDescription,"The spiral horn of a unicorn, its magic bound permanently into the artifact rather than spent in a single burst.",
 ItemDescription,The wearer will occasionally fly into uncontrollable rage lashing out at both friend and foe.,"Носящий будет время от времени бросаться в ярости на окружающих, будь то друзья или враги."
 ItemDescription,This ancient artifact is a marvel to behold with exquisite craftsmanship and unbridled digging power.,Этот чудесный древний артефакт демонстрирует искусную работу мастеров и необузданную мощь при копании.
 ItemDescription,"This axe is specifically designed to facilitate deep, grievous wounds in combat. This large weapon is wielded in both hands.","Этот топор специально разработан для того, чтобы наносить чудовищные и глубокие раны в бою. Это большое оружие удерживается двумя руками."
@@ -2221,6 +2800,7 @@ ItemDescription,This convenient vial of ink can be used to replenish your marker
 ItemDescription,This crudely made blade is still an effective throwing weapon.,Это грубо сделанное лезвие по-прежнему является эффективным метательным оружием.
 ItemDescription,This curious artifact somehow chastens those it strikes and submits them to your will.,"Этот интересный артефакт как-то наказывает тех, кого поражает, и предоставляет их вашей воле."
 ItemDescription,This dwarvish manufactured sword is sturdy and suited to being wielded in the offhand.,"Этот меч, изготовленный дварфами, надёжный и хорошо подходит для парного ношения."
+ItemDescription,"This dwarvish punching blade is forged thicker than most, its crossbar reinforced to survive a full-strength thrust.",
 ItemDescription,This gemstone is made from hardened tree sap.,Этот драгоценный камень сформировался из затвердевшей древесной смолы.
 ItemDescription,This glowing looking glass reveals glimpses of the future and corrupts your soul.,Это сияющее зеркало показывает мимолётные видения о будущем и развращает вашу душу.
 ItemDescription,This hammer is a four-pronged head mounted atop a long polearm stick. It bears a long spike on its reverse and an even longer spike extending from the very top. It proves effective at puncturing or smashing armour as well as dismounting riders.,"Этот молот состоит из головки с четырьмя остриями, установленной на длинной рукояти. На обратной стороне находится длинный шип и другой, ещё более длинный шип, как продолжение рукояти. Это оружие очень эффективно при пробитии или разбиванию брони, или же при сбрасывании всадников с седла."
@@ -2250,6 +2830,7 @@ ItemDescription,This weapon consists of a spearhead mounted on a long wooden sha
 ItemDescription,"This weapon is a curved blade attached to a pole by binding the lower two-thirds of the blade to the side of the pole, to form a sort of axe.","Это оружие представляет собой изогнутое лезвие, установленного на шест, продлевающийся на две третьих лезвия, образуя форму, схожую с топором."
 ItemDescription,This withered hand is the last remnant of an ancient and powerful lich.,Эта иссохшая рука — последние останки древнего могущественного лича.
 ItemDescription,Tiny metal spikes thrown to the ground to impede mobility.,"Крохотные металлические шипы, брошенные на землю препятствуют передвижению."
+ItemDescription,"Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.",
 ItemDescription,Winged sandals made of imperishable gold which fly the wearer swiftly and silently.,"Крылатые сандалии из нерушимого золота, которые летают быстро и бесшумно."
 ItemDescription,Zapping it at a wall creates a big tunnel.,Взмах этим в сторону стены создаст большой тоннель.
 ItemName,adamantine arrow,адамантиновая стрела
@@ -2257,16 +2838,25 @@ ItemName,adamantine axe,адамантиновый топор
 ItemName,adamantine bident,адамантиновый двузубец
 ItemName,adamantine bow,адамантиновый лук
 ItemName,adamantine bullet,адамантиновая пуля
+ItemName,adamantine crossbow bolt,
 ItemName,adamantine dagger,адамантиновый кинжал
 ItemName,adamantine dart,адамантиновый дротик
 ItemName,adamantine greataxe,адамантиновая секира
+ItemName,adamantine greatmace,
 ItemName,adamantine greatsword,адамантиновый большой меч
 ItemName,adamantine hatchet,адамантиновый топорик
+ItemName,adamantine helm,
+ItemName,adamantine helmet,
+ItemName,adamantine katana,
+ItemName,adamantine lance,
 ItemName,adamantine long sword,адамантиновый длинный меч
 ItemName,adamantine plate mail,адамантиновые латы
+ItemName,adamantine poleaxe,
+ItemName,adamantine quarterstaff,
 ItemName,adamantine rapier,адамантиновая рапира
 ItemName,adamantine sabre,адамантиновая сабля
 ItemName,adamantine short sword,адамантиновый короткий меч
+ItemName,adamantine shuriken,
 ItemName,adamantine spear,адамантиновое копьё
 ItemName,adamantine two-handed sword,адамантиновый двуручный меч
 ItemName,agate,агат
@@ -2300,8 +2890,10 @@ ItemName,Backpack,Рюкзак
 ItemName,bag of holding,сумка хранения
 ItemName,bag of tricks,сумка фокусов
 ItemName,banana,банан
+ItemName,bandage,
 ItemName,banded mail,ламеллярный доспех
 ItemName,bardiche,бердыш
+ItemName,baseball bat,
 ItemName,battle robe,боевая роба
 ItemName,battle staff,боевой посох
 ItemName,battle-axe,боевой топор
@@ -2322,68 +2914,229 @@ ItemName,blowgun,духовое ружьё
 ItemName,blue dragon scale mail,доспех из чешуи синего дракона
 ItemName,blue dragon scales,чешуя синего дракона
 ItemName,blue glass bauble,синяя стеклянная безделушка
+ItemName,book of acid splash,
 ItemName,book of acid stream,книга потока кислоты
 ItemName,book of animate dead,книга оживления мертвецов
 ItemName,book of animate object,книга оживления предметов
+ItemName,book of arc conduit,
+ItemName,book of arcane blight,
+ItemName,book of arcane whetstone,
+ItemName,book of arcing bolt,
+ItemName,book of artificer's exchange,
+ItemName,book of atonement,
+ItemName,book of augury,
+ItemName,book of bane,
+ItemName,book of banshee wail,
+ItemName,book of barring ward,
+ItemName,book of battle fury,
 ItemName,book of bind undead,книга подчинения нежити
+ItemName,book of binding sphere,
+ItemName,book of black ice patch,
+ItemName,book of black plague,
+ItemName,book of blade blessing,
 ItemName,book of blank paper,книга с пустыми страницами
+ItemName,book of bless,
 ItemName,book of blinking,книга мерцания
+ItemName,book of blurred form,
+ItemName,book of call of the pack,
+ItemName,book of calm,
+ItemName,book of caltrop swarm,
 ItemName,book of cancellation,книга очищения
+ItemName,book of causeway,
+ItemName,book of chain lightning,
+ItemName,book of changeless ward,
 ItemName,book of charm,книга очарования
+ItemName,book of chill grasp,
+ItemName,book of chromatic orb,
 ItemName,book of clairvoyance,книга подсматривания
+ItemName,book of claybind touch,
+ItemName,book of clear sight,
+ItemName,book of clouded mind,
+ItemName,book of command,
+ItemName,book of commune,
+ItemName,book of concussive blast,
 ItemName,book of cone of cold,книга конуса холода
 ItemName,book of confusion,книга смятения
+ItemName,book of conjure barricade,
+ItemName,book of conjure boulder,
+ItemName,book of conjure guardian,
+ItemName,book of conjure homunculus,
+ItemName,book of conjure mount,
+ItemName,book of conjured pit,
+ItemName,book of consecration,
+ItemName,book of contagion,
+ItemName,book of corpse explosion,
+ItemName,book of corroding ray,
 ItemName,book of create familiar,книга создания фамильяра
+ItemName,book of creeping palsy,
+ItemName,book of crimson ichor lance,
 ItemName,book of crushing sphere,книга земляной сферы
 ItemName,book of curing,книга исцеления
+ItemName,book of danger sense,
 ItemName,book of darkness,книга тьмы
+ItemName,book of daze,
+ItemName,book of death ward,
+ItemName,book of death's bargain,
+ItemName,book of deathwatch,
 ItemName,book of deflection,книга отклонения
 ItemName,book of detect food,книга обнаружения еды
+ItemName,book of detect metal,
 ItemName,book of detect monsters,книга обнаружения монстров
 ItemName,book of detect treasure,книга обнаружения сокровищ
+ItemName,book of detect undead,
 ItemName,book of detect unseen,книга обнаружения невидимого
 ItemName,book of dig,книга копания
+ItemName,book of disarming ward,
+ItemName,book of discord,
 ItemName,book of disintegrate,книга распада
+ItemName,book of dispel magic,
+ItemName,book of displacement,
+ItemName,book of divine favor,
+ItemName,book of divine intervention,
+ItemName,book of dominate mind,
 ItemName,book of drain life,книга вытягивания жизни
+ItemName,book of earthen colossus,
+ItemName,book of elemental servant,
+ItemName,book of elemental warding,
+ItemName,book of ember lance,
+ItemName,book of enlarge,
+ItemName,book of entangling vines,
+ItemName,book of entropic siphon,
 ItemName,book of extra healing,книга большого лечения
+ItemName,book of false life,
 ItemName,book of fear,книга ужаса
+ItemName,book of find doors,
+ItemName,book of find traps,
 ItemName,book of finger of death,книга перста смерти
 ItemName,book of fireball,книга огненных шаров
 ItemName,book of flaming sphere,книга пылающих сфер
 ItemName,book of force bolt,книга силового снаряда
+ItemName,book of foreknowledge,
+ItemName,book of freedom,
+ItemName,book of freedom of movement,
 ItemName,book of freezing sphere,книга ледяных сфер
+ItemName,book of frost breath,
 ItemName,book of full healing,книга полного лечения
+ItemName,book of gate,
+ItemName,book of gilding touch,
+ItemName,book of glacial spike,
+ItemName,book of grasping mind,
+ItemName,book of grave rot,
+ItemName,book of gravity well,
+ItemName,book of guided path,
+ItemName,book of harvest of souls,
 ItemName,book of haste,книга ускорения
+ItemName,book of hazard sense,
 ItemName,book of healing,книга лечения
+ItemName,book of hex,
+ItemName,book of hexbind,
+ItemName,book of hideous laughter,
+ItemName,book of hold monster,
+ItemName,book of hold person,
+ItemName,book of holy word,
 ItemName,book of ice storm,книга ледяного шторма
 ItemName,book of identify,книга опознания
+ItemName,book of inner calm,
 ItemName,book of invisibility,книга невидимости
+ItemName,book of iron will,
+ItemName,book of ironbind door,
+ItemName,book of juggernaut ray,
 ItemName,book of jumping,книга прыжков
+ItemName,book of keen search,
 ItemName,book of knock,книга открывания
+ItemName,book of legion of bone,
 ItemName,book of levitation,книга левитации
 ItemName,book of light,книга света
 ItemName,book of lightning bolt,книга молний
 ItemName,book of living wall,книга живой стены
 ItemName,book of magic mapping,книга волшебной картографии
 ItemName,book of magic missile,книга волшебных стрел
+ItemName,book of meteoric cataclysm,
+ItemName,book of mind ken,
+ItemName,book of mind link,
+ItemName,book of mind spike,
+ItemName,book of mindrend,
+ItemName,book of mirror ward,
+ItemName,book of neutralize poison,
+ItemName,book of oracle's eye,
+ItemName,book of owl eyes,
+ItemName,book of petrifying touch,
 ItemName,book of phasing,книга фазирования
+ItemName,book of planar anchor,
+ItemName,book of planar swap,
 ItemName,book of poison blast,книга ядовитого заряда
 ItemName,book of polymorph,книга превращения
+ItemName,book of porter's reach,
+ItemName,book of prayer,
+ItemName,book of premonition,
+ItemName,book of prismatic spray,
+ItemName,book of psychic shove,
 ItemName,book of raise dead,книга оживления
+ItemName,book of rally cry,
+ItemName,book of ray of enfeeblement,
+ItemName,book of reap,
 ItemName,book of regenerate,книга регенерации
 ItemName,book of remove curse,книга снятия проклятия
+ItemName,book of repelling ward,
+ItemName,book of repulsion,
 ItemName,book of restoration,книга восстановления
+ItemName,book of revelation,
+ItemName,book of sanctuary,
+ItemName,book of scalding cloud,
+ItemName,book of searing light,
+ItemName,book of sense curse,
+ItemName,book of sense the restless,
+ItemName,book of sentinel ward,
+ItemName,book of shimmer shield,
 ItemName,book of shocking sphere,книга шоковых сфер
+ItemName,book of shrink,
+ItemName,book of silence,
+ItemName,book of simulacrum,
 ItemName,book of sleep,книга усыпления
+ItemName,book of slick detonation,
+ItemName,book of slipping free,
 ItemName,book of slow,книга замедления
 ItemName,book of soaking sphere,книга водяной сферы
+ItemName,book of song of discord,
+ItemName,book of spark bolt,
+ItemName,book of spectral shroud,
+ItemName,book of spirit leech,
+ItemName,book of spirit shield,
+ItemName,book of starfall,
+ItemName,book of steadfast ward,
+ItemName,book of stone to flesh,
+ItemName,book of stoneskin,
 ItemName,book of summoning,книга призыва
+ItemName,book of sunburst smite,
+ItemName,book of sunder gear,
+ItemName,book of swoon,
 ItemName,book of telekinesis,книга телекинеза
+ItemName,book of telekinetic shove,
 ItemName,book of teleport away,книга телепортации
+ItemName,book of thunderclap,
+ItemName,book of timed combustion,
+ItemName,book of tongue tied,
 ItemName,book of toxic spray,книга токсичных брызг
+ItemName,book of transmuter's mastery,
+ItemName,book of true appraisal,
 ItemName,book of turn undead,книга отпугивания нежити
+ItemName,book of unbinding,
+ItemName,book of undying ward,
+ItemName,book of unseen hand,
+ItemName,book of vampiric feast,
+ItemName,book of veil of shadows,
+ItemName,book of wall breach,
+ItemName,book of wall of thorns,
 ItemName,book of walling,книга возведения стен
+ItemName,book of ward of return,
+ItemName,book of warning ward,
+ItemName,book of web snare,
+ItemName,book of whispers of madness,
+ItemName,book of wildfire brand,
+ItemName,book of wither,
+ItemName,book of withering ray,
 ItemName,book of wizard lock,книга волшебного замка
+ItemName,book of world vision,
 ItemName,boomerang,бумеранг
 ItemName,bow,лук
 ItemName,brass bugle,медная труба
@@ -2397,9 +3150,13 @@ ItemName,bullwhip,кнут
 ItemName,c-ration,солдатский паёк
 ItemName,caltrops,шипы
 ItemName,can of grease,банка со смазкой
+ItemName,candelabrum,
 ItemName,candy bar,шоколадный батончик
 ItemName,Carapace,Панцирь
 ItemName,carrot,морковь
+ItemName,Celestial Doom,
+ItemName,Celestial Kismet,
+ItemName,Celestial Portent,
 ItemName,chain barding,кольчужный бард
 ItemName,chain mail,кольчуга
 ItemName,chakram,чакра
@@ -2415,6 +3172,7 @@ ItemName,cloak of deflection,плащ отклонения
 ItemName,cloak of displacement,плащ ускользания
 ItemName,cloak of invisibility,плащ невидимости
 ItemName,cloak of magic resistance,плащ магического сопротивления
+ItemName,cloth shirt,
 ItemName,clove of garlic,зубчик чеснока
 ItemName,club,дубина
 ItemName,Colossal Excavator,Великий Землекоп
@@ -2422,18 +3180,22 @@ ItemName,cornuthaum,корнутхаум
 ItemName,costume earrings,костюмные серьги
 ItemName,cram ration,сухой паёк
 ItemName,cream pie,кремовый пирог
+ItemName,credit card,
 ItemName,Creeping Sprout,Ползучий побег
+ItemName,crimson cloak,
 ItemName,crossbow,арбалет
 ItemName,crossbow bolt,арбалетный болт
 ItemName,crysknife,нож из зуба червя
 ItemName,crystal ball,кристальный шар
 ItemName,crystal plate mail,кристальные латы
 ItemName,dagger,кинжал
+ItemName,darkstone,
 ItemName,dart,дротик
 ItemName,Deadwood,Дедвуд
 ItemName,Deagle,Дигл
 ItemName,deep dragon scale mail,доспех из чешуи глубинного дракона
 ItemName,deep dragon scales,чешуя глубинного дракона
+ItemName,Demiurge,
 ItemName,dented pot,котелок
 ItemName,detonation key,подрывной ключ
 ItemName,diamond,алмаз
@@ -2441,6 +3203,8 @@ ItemName,dilithium crystal,кристалл дилития
 ItemName,dimension key,переносящий ключ
 ItemName,Dire Needle,Игла Ужаса
 ItemName,disencumbrance boots,сапоги снятия обременения
+ItemName,doublet,
+ItemName,dragon horn,
 ItemName,Dragonbane,Бич драконов
 ItemName,dread staff,посох ужаса
 ItemName,Drilanze,Дриланц
@@ -2453,6 +3217,7 @@ ItemName,drum of earthquake,барабан землетрясения
 ItemName,dunce cap,дурацкий колпак
 ItemName,dwarvish cloak,дварфский плащ
 ItemName,dwarvish iron helm,дварфский железный шлем
+ItemName,dwarvish katar,
 ItemName,dwarvish mattock,дварфская кирка
 ItemName,dwarvish mithril-coat,дварфский мифрильный доспех
 ItemName,dwarvish roundshield,дварфский круглый щит
@@ -2465,8 +3230,10 @@ ItemName,elven arrow,эльфийская стрела
 ItemName,elven boots,эльфийские сапоги
 ItemName,elven bow,эльфийский лук
 ItemName,elven broadsword,эльфийский палаш
+ItemName,elven chakram,
 ItemName,elven cloak,эльфийский плащ
 ItemName,elven dagger,эльфийский кинжал
+ItemName,elven hand crossbow,
 ItemName,elven leather helm,эльфийский кожаный шлем
 ItemName,elven mithril-coat,эльфийский мифрильный доспех
 ItemName,elven shield,эльфийский щит
@@ -2477,11 +3244,14 @@ ItemName,Escapist,Эскапист
 ItemName,eucalyptus leaf,лист эвкалипта
 ItemName,expensive camera,дорогой фотоаппарат
 ItemName,Eye of Aethiopica,Глаз Эфиопики
+ItemName,eyeball,
 ItemName,Eyes of Ra,Глаза Ра
+ItemName,fancy boots,
 ItemName,fauchard,фальшарда
 ItemName,fedora,фетровая шляпа
 ItemName,fire horn,огненный рог
 ItemName,fish,рыба
+ItemName,fishing pole,
 ItemName,flail,цеп
 ItemName,flash staff,посох слепоты
 ItemName,fleet robe,роба проворства
@@ -2491,6 +3261,7 @@ ItemName,fly swatter,мухобойка
 ItemName,food ration,продуктовый паёк
 ItemName,fortune cookie,печенье с предсказанием
 ItemName,frag grenade,осколочная граната
+ItemName,frisbee,
 ItemName,frost horn,морозный рог
 ItemName,fumble boots,сапоги неуклюжести
 ItemName,garnet,гранат
@@ -2501,10 +3272,26 @@ ItemName,gauntlets of phasing,рукавицы фазирования
 ItemName,gauntlets of power,рукавицы мощи
 ItemName,Giantslayer,Убийца Великанов
 ItemName,glaive,глефа
+ItemName,gold axe,
+ItemName,gold chakram,
 ItemName,gold coin,золотая монета
+ItemName,gold dagger,
+ItemName,gold double vajra,
 ItemName,gold dragon scale mail,доспех из чешуи золотого дракона
 ItemName,gold dragon scales,чешуя золотого дракона
+ItemName,gold flail,
 ItemName,Gold Key,Золотой ключ
+ItemName,gold khanda,
+ItemName,gold labrys,
+ItemName,gold longsword,
+ItemName,gold plate mail,
+ItemName,gold single vajra,
+ItemName,gold spade,
+ItemName,gold trident,
+ItemName,gold twohanded sword,
+ItemName,gold urumi,
+ItemName,gold whistle,
+ItemName,grappling hook,
 ItemName,great dagger,большой кинжал
 ItemName,green dragon scale mail,доспех из чешуи зелёного дракона
 ItemName,green dragon scales,чешуя зелёного дракона
@@ -2512,10 +3299,12 @@ ItemName,green glass bauble,зелёная стеклянная безделуш
 ItemName,grenade launcher,гранатомёт
 ItemName,Grimtooth,Могильный Клык
 ItemName,guisarme,гвизарма
+ItemName,Gungnir,
 ItemName,halberd,алебарда
 ItemName,Harbalest,Харбалест
 ItemName,hatchet,топорик
 ItemName,hawaiian shirt,гавайская рубашка
+ItemName,healthstone,
 ItemName,heavy hammer,тяжёлый молот
 ItemName,heavy iron ball,тяжёлый железный шар
 ItemName,heavy machine gun,тяжёлый пулемёт
@@ -2548,6 +3337,7 @@ ItemName,kanabo,канабо
 ItemName,katana,катана
 ItemName,katar,катар
 ItemName,kelp frond,лист водоросли
+ItemName,khopesh,
 ItemName,knife,нож
 ItemName,lab coat,лабораторный халат
 ItemName,lance,длинное копьё
@@ -2556,6 +3346,7 @@ ItemName,lantern,фонарь
 ItemName,large box,большой ящик
 ItemName,large shield,большой щит
 ItemName,Lashing Tongue,Язык Упрёка
+ItemName,leash,
 ItemName,leather armour,кожаный доспех
 ItemName,leather barding,кожаный бард
 ItemName,leather cloak,кожаный плащ
@@ -2565,10 +3356,12 @@ ItemName,leather jacket,кожаный пиджак
 ItemName,lembas wafer,вафельный лембас
 ItemName,lenses,линзы
 ItemName,levitation boots,сапоги левитации
+ItemName,loadstone,
 ItemName,lock pick,отмычка
 ItemName,long sword,длинный меч
 ItemName,low boots,низкие сапоги
 ItemName,lucern hammer,люцернский молот
+ItemName,luckstone,
 ItemName,lump of royal jelly,комок королевского желе
 ItemName,mace,булава
 ItemName,magic bugle,волшебная труба
@@ -2588,32 +3381,48 @@ ItemName,Maulfrost,Молот Мороза
 ItemName,meat ring,мясное колечко
 ItemName,meat stick,мясная палочка
 ItemName,meatball,мясной шарик
+ItemName,medical kit,
 ItemName,melon,дыня
+ItemName,mirror,
 ItemName,Mirrorbright,Зеркальный Блеск
 ItemName,Miserus,Мизерус
 ItemName,mithril arrow,мифрильная стрела
+ItemName,mithril axe,
 ItemName,mithril barding,мифрильный бард
 ItemName,mithril battle-axe,мифрильный боевой топор
 ItemName,mithril bullet,мифрильная пуля
 ItemName,mithril crossbow bolt,мифрильный арбалетный болт
 ItemName,mithril dagger,мифрильный кинжал
 ItemName,mithril dart,мифрильный дротик
+ItemName,mithril gauntlets,
+ItemName,mithril greatmace,
+ItemName,mithril greatsword,
+ItemName,mithril hatchet,
 ItemName,mithril helmet,мифрильный шлем
+ItemName,mithril katana,
 ItemName,mithril katar,мифрильный катар
 ItemName,mithril lance,мифрильное длинное копьё
 ItemName,mithril long sword,мифрильный длинный меч
 ItemName,mithril plate mail,мифрильные латы
+ItemName,mithril poleaxe,
+ItemName,mithril rapier,
 ItemName,mithril sabre,мифрильная сабля
 ItemName,mithril shield,мифрильный щит
 ItemName,mithril short sword,мифрильный короткий меч
+ItemName,mithril shuriken,
 ItemName,mithril spear,мифрильное копьё
+ItemName,mithril trident,
 ItemName,mithril two-handed sword,мифрильный двуручный меч
 ItemName,mithril whip,мифрильный кнут
+ItemName,mooshroom,
 ItemName,morning star,моргенштерн
+ItemName,Mournblade,
 ItemName,mummy wrapping,бинты мумии
 ItemName,Muramasa,Мурамаса
 ItemName,mushroom,гриб
 ItemName,mute earrings,серьги тишины
+ItemName,naginata,
+ItemName,Nonagon Infinity,
 ItemName,nunchaku,нунчаки
 ItemName,obsidian,обсидиан
 ItemName,oil lamp,масляная лампа
@@ -2626,6 +3435,7 @@ ItemName,orange glass bauble,оранжевая стеклянная безде�
 ItemName,orcish arrow,орочья стрела
 ItemName,orcish bow,орочий лук
 ItemName,orcish chain mail,орочья кольчуга
+ItemName,orcish chakram,
 ItemName,orcish cloak,орочий плащ
 ItemName,orcish dagger,орочий кинжал
 ItemName,orcish helm,орочий шлем
@@ -2640,9 +3450,13 @@ ItemName,partisan,протазан
 ItemName,pear,груша
 ItemName,pearl,жемчужина
 ItemName,phantom key,призрачный ключ
+ItemName,phial,
 ItemName,Philosophers Stone,Философский Камень
 ItemName,pick-axe,кирка
+ItemName,pill,
 ItemName,pistol,пистолет
+ItemName,plastic bat,
+ItemName,plastic hammer,
 ItemName,plastic sword,пластмассовый меч
 ItemName,plate barding,пластинчатый бард
 ItemName,plate mail,латы
@@ -2679,10 +3493,13 @@ ItemName,potion of see invisible,зелье видения невидимого
 ItemName,potion of sickness,зелье яда
 ItemName,potion of sleeping,зелье сна
 ItemName,potion of speed,зелье скорости
+ItemName,potion of sustenance,
+ItemName,potion of warning,
 ItemName,potion of water,зелье воды
 ItemName,proof earrings,серьги оценки
 ItemName,Prudentia,Пруденция
 ItemName,quarterstaff,посох
+ItemName,railgun,
 ItemName,ranseur,рунка
 ItemName,rapier,рапира
 ItemName,Ravenbow,Лук Ворона
@@ -2698,6 +3515,7 @@ ItemName,ring of cold resistance,кольцо сопротивления хол�
 ItemName,ring of conflict,кольцо конфликтности
 ItemName,ring of constitution,кольцо телосложения
 ItemName,ring of dexterity,кольцо ловкости
+ItemName,ring of energy,
 ItemName,ring of fire resistance,кольцо сопротивления огню
 ItemName,ring of free action,кольцо свободы действий
 ItemName,ring of hunger,кольцо голода
@@ -2705,6 +3523,7 @@ ItemName,ring of impact,кольцо импульса
 ItemName,ring of intelligence,кольцо смышлёности
 ItemName,ring of invisibility,кольцо невидимости
 ItemName,ring of levitation,кольцо левитации
+ItemName,ring of marksmanship,
 ItemName,ring of naught,кольцо бесполезности
 ItemName,ring of poison resistance,кольцо сопротивления яду
 ItemName,ring of polymorph,кольцо превращения
@@ -2728,11 +3547,24 @@ ItemName,robe,роба
 ItemName,rock,камень
 ItemName,rocket,ракета
 ItemName,rocket launcher,ракетомёт
+ItemName,rose axe,
+ItemName,rose battleaxe,
+ItemName,rose bident,
+ItemName,rose dagger,
+ItemName,rose greatsword,
+ItemName,rose hatchet,
+ItemName,rose long sword,
+ItemName,rose rapier,
+ItemName,rose ring,
+ItemName,rose sabre,
+ItemName,rose short sword,
+ItemName,rose spear,
 ItemName,Rosenthral,Розентраль
 ItemName,rubber hose,резиновый шланг
 ItemName,ruby,рубин
 ItemName,Ruby Key,Рубиновый ключ
 ItemName,Runesword,Рунный меч
+ItemName,Runicorn Horn,
 ItemName,sabre,сабля
 ItemName,sack,мешок
 ItemName,saddle,седло
@@ -2779,6 +3611,7 @@ ItemName,scythe,коса
 ItemName,shades,тёмные очки
 ItemName,Shadow Key,Теневой ключ
 ItemName,shield of reflection,щит отражения
+ItemName,Shillelagh,
 ItemName,shimmering dragon scale mail,доспех из чешуи мерцающего дракона
 ItemName,shimmering dragon scales,чешуя мерцающего дракона
 ItemName,short sword,короткий меч
@@ -2798,6 +3631,7 @@ ItemName,Silver Key,Серебряный ключ
 ItemName,silver lance,серебряное длинное копьё
 ItemName,silver long sword,серебряный длинный меч
 ItemName,silver mace,серебряная булава
+ItemName,silver rapier,
 ItemName,silver sabre,серебряная сабля
 ItemName,silver short sword,серебряный короткий меч
 ItemName,silver spear,серебряное копьё
@@ -2805,6 +3639,7 @@ ItemName,silver two-handed sword,серебряный двуручный меч
 ItemName,skeleton key,скелетный ключ
 ItemName,slime mould,слизевик
 ItemName,sling,праща
+ItemName,sling staff,
 ItemName,small shield,маленький щит
 ItemName,sniper rifle,снайперская винтовка
 ItemName,spear,копьё
@@ -2814,29 +3649,40 @@ ItemName,spetum,спетум
 ItemName,splint mail,пластинчатый доспех
 ItemName,sprig of wolfsbane,росток аконита
 ItemName,Stamped Letter,Письмо с печатью
+ItemName,steel boots,
+ItemName,stethoscope,
 ItemName,stick of dynamite,динамит
 ItemName,stiletto,стилет
 ItemName,stone club,каменная дубина
+ItemName,Stormbringer,
+ItemName,strange object,
 ItemName,studded leather armour,клёпанный кожаный доспех
 ItemName,submachine gun,пистолет-пулемёт
+ItemName,Sudarshana Chakra,
 ItemName,Sunsword,Меч Солнца
 ItemName,t-shirt,футболка
+ItemName,tabard,
 ItemName,Talaria,Таларии
 ItemName,The Hero,Герой
 ItemName,thunder staff,посох грома
 ItemName,tin,консервы
+ItemName,tin opener,
 ItemName,tin whistle,оловянный свисток
 ItemName,tinning kit,набор для консервирования
 ItemName,tooled horn,тиснёный горн
 ItemName,topaz,топаз
 ItemName,torch,факел
 ItemName,tortilla,тортилья
+ItemName,touchstone,
+ItemName,towel,
 ItemName,trident,трезубец
 ItemName,tripe ration,требуха
+ItemName,triplesword,
 ItemName,tsurugi,цуруги
 ItemName,turquoise,бирюза
 ItemName,two-handed sword,двуручный меч
 ItemName,unicorn horn,рог единорога
+ItemName,Vajra,
 ItemName,vegetable corpse,растительный труп
 ItemName,Verimurus,Веримурус
 ItemName,violet glass bauble,фиолетовая стеклянная безделушка
@@ -2847,6 +3693,7 @@ ItemName,wakizashi,вакидзаси
 ItemName,wand of animation,палочка оживления вещей
 ItemName,wand of cancellation,палочка очищения
 ItemName,wand of cold,палочка холода
+ItemName,wand of confusion,
 ItemName,wand of create horde,палочка создания орды
 ItemName,wand of death,палочка смерти
 ItemName,wand of digging,палочка копания
@@ -2858,6 +3705,8 @@ ItemName,wand of fireball,палочка огненных шаров
 ItemName,wand of haste,палочка ускорения
 ItemName,wand of healing,палочка лечения
 ItemName,wand of iceball,палочка ледяных шаров
+ItemName,wand of jumping,
+ItemName,wand of levitation,
 ItemName,wand of light,палочка света
 ItemName,wand of lightning,палочка молний
 ItemName,wand of locking,палочка запирания
@@ -2873,12 +3722,17 @@ ItemName,wand of sleep,палочка сна
 ItemName,wand of slow,палочка замедления
 ItemName,wand of striking,палочка нанесения ударов
 ItemName,wand of summoning,палочка призыва
+ItemName,wand of telekinesis,
 ItemName,wand of teleportation,палочка телепортации
 ItemName,wand of theft,палочка воровства
 ItemName,wand of undead turning,палочка отпугивания нежити
 ItemName,war club,палица
 ItemName,war hammer,боевой молот
+ItemName,war maul,
 ItemName,wax candle,восковая свеча
+ItemName,Wepwawet's Fang,
+ItemName,wheellock pistol,
+ItemName,whetstone,
 ItemName,white dragon scale mail,доспех из чешуи белого дракона
 ItemName,white dragon scales,чешуя белого дракона
 ItemName,white glass bauble,белая стеклянная безделушка
@@ -2893,8 +3747,10 @@ ItemName,yellow dragon scale mail,доспех из чешуи жёлтого д
 ItemName,yellow dragon scales,чешуя жёлтого дракона
 ItemName,yellow glass bauble,жёлтая стеклянная безделушка
 ItemName,yellowish brown glass bauble,желтовато-коричневая стеклянная безделушка
+ItemName,yoyo,
 ItemName,yumi,юми
 ItemName,zircon,циркон
+ItemName,Zweihänder,
 ItemType,amulet,амулет
 ItemType,bag,сумка
 ItemType,barding,бард
@@ -4440,13 +5296,17 @@ SchoolName,necromancy,некромантия
 SchoolName,transmutation,преобразование
 ServiceDescription,detect traps in the surrounding area.,найти ловушки рядом.
 ServiceDescription,identify one item in your inventory.,опознать одну вещь в инвентаре.
+ServiceDescription,learn how to cast a random spell.,
+ServiceDescription,learn how to cast two random spells.,
 ServiceDescription,magic mapping for the surrounding area.,магически картографировать ближайшую область.
 ServiceDescription,refresh the shop with new items for sale.,обновить ассортимент товаров в магазине.
 ServiceDescription,remove a curse from one item in your inventory.,снять проклятие с одной вещи в инвентаре.
+ServiceName,advanced tuition,
 ServiceName,curse removal,снятие проклятия
 ServiceName,identification,распознавание
 ServiceName,magic mapping,волшебная картография
 ServiceName,restock shop,пополнение запасов магазина
+ServiceName,spell tuition,
 ServiceName,trap detection,обнаружение ловушек
 ShopName,antique weapons outlet,лавка антикварного оружия
 ShopName,delicatessen,гастрономическая лавка
@@ -4462,9 +5322,14 @@ ShopName,second-hand stationery store,писчебумажный магазин
 ShopName,used armour dealership,магазин поддержанной брони
 ShrineName,craft station,ремесленная мастерская
 ShrineName,dark sepulchre,мрачная гробница
+ShrineName,elemental forge,
+ShrineName,fae chapel,
 ShrineName,holy shrine,святой храм
+ShrineName,martial temple,
 ShrineName,mystic coven,мистический ковен
+ShrineName,pheral vault,
 ShrineName,sacred grove,священная роща
+ShrineName,star observatory,
 SizeName,gargantuan,гигантский
 SizeName,huge,огромный
 SizeName,large,большой
@@ -4670,101 +5535,290 @@ SonicName,write,написание
 SpecialDescription,Aristocrats who enjoy all the privilege that comes with wealth and wonder why everyone hates them.,"Аристократы, привыкшие пользоваться всеми благами богатства и власти, недоумевают, отчего же народ относится к ним с неприязнью и ненавистью."
 SpecialDescription,"Being unusually short and slight, they are more nimble but not as effective in combat.","Ваш небольшой рост и лёгкость делают вас удивительно проворным, однако уменьшают физическую мощь."
 SpecialDescription,"Being unusually tall and heavy, they move a bit slower but are more resilient.","Ваш необычный рост и массивность снижают скорость передвижения, но компенсируются повышенной физической устойчивостью."
+SpecialDescription,"Bound by an infernal pact to a patron whose power flows through them, whether they will it or not.",
+SpecialDescription,"Changeling blood runs through their veins, granting them an otherworldly grace, but cold iron burns them like acid.",
+SpecialDescription,"Cursed with visions of what is to come, they see danger before it arrives, but the visions are slowly undoing their mind.",
+SpecialDescription,"Escaped from a laboratory before the experiment concluded, their body still bears the unstable mark of what was done to them.",
 SpecialDescription,"Forever cursed with lycanthropy, these beings can transform themselves into monstrous wolf forms.","Навеки проклятые ликантропией, они обречены превращаться в ужасающих зверей-волков."
 SpecialDescription,Forsaken creature that subsists by feeding on the vital essence of the living.,"Отрёкшийся от прежнего бытия, ныне оно поддерживает своё существование, поглощая жизненную энергию живых существ."
 SpecialDescription,Gifted with extrasensory perception to identify entities otherwise hidden from the normal senses but at the cost of a gnawing hunger.,"Вам дано уникальное экстрасенсорное восприятие, позволяющее обнаруживать существа, скрытые от обыденного взгляда, но эта сила обходится дорогой ценой — постоянным и изнурительным чувством голода."
+SpecialDescription,"Hardened by a lifetime of campaigns, they strike with brutal efficiency but carry old wounds that never fully healed.",
 SpecialDescription,"Highly attuned servants of elemental earth, they can conjure exploding spheres to destroy their enemies.","Очень чуткие прислужники стихии земли, они могут призывать взрывные сферы, чтобы уничтожать своих врагов."
 SpecialDescription,"Highly attuned servants of elemental flame, they can conjure exploding spheres to destroy their enemies.","Очень чуткие прислужники стихии пламени, они могут призывать взрывные сферы, чтобы уничтожать своих врагов."
 SpecialDescription,"Highly attuned servants of elemental frost, they can conjure exploding spheres to destroy their enemies.","Очень чуткие прислужники стихии мороза, они могут призывать взрывные сферы, чтобы уничтожать своих врагов."
 SpecialDescription,"Highly attuned servants of elemental shock, they can conjure exploding spheres to destroy their enemies.","Очень чуткие прислужники стихии разряда, они могут призывать взрывные сферы, чтобы уничтожать своих врагов."
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.","Очень чуткие прислужники стихии воды, они могут призывать взрывные сферы, чтобы уничтожать своих врагов."
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,"Всю свою жизнь вы посвятили изучению книг, пренебрегая физическими упражнениями и прочими развлечениями."
+SpecialDescription,"Made a living prying open tombs that were meant to stay shut, and picked up a rare set of skills along the way; the dead have not forgiven them.",
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,"Синдром главного героя заставил вас поверить в неуязвимую силу сюжета, но судьба приготовила вам суровое испытание реальной жизнью."
+SpecialDescription,"More at home among beasts than people, they ride and bond with animals expertly but rely on their companions more than their own blade.",
+SpecialDescription,"Newly turned by an elder vampire's bite, they crave blood but have not yet mastered the strengths of the curse.",
+SpecialDescription,"One of the few to survive a great plague, their blood now resists poison but their body was left frail and their nearby creatures keep their distance.",
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.","Не имея точного представления о своём месте в пространстве, вы обрели способность находиться и ощущать себя одновременно повсюду."
+SpecialDescription,"Pulled under by the sea and cursed to return, their lungs have made an uneasy peace with water while their waterlogged flesh dries out on land.",
+SpecialDescription,"Raised outside civilisation among beasts, they are quick and keen-eyed but never learned the discipline of formal combat.",
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,"Вы сотворены из живого стекла, впитывающее и отражающее окружающую энергию. Ваша сущность является совершенной, точной копией оригинала, однако отличается исключительной хрупкостью и уязвимостью."
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.","Несмотря на потерю телесной оболочки, необходимой для настоящей жизни, существо ухитряется сохранять некое подобие существования, которое, впрочем, открывает перед ним уникальные возможности."
 SpecialDescription,The habitually drunk make for brazen yet slightly unsteady adventurers; just don't ask them to recite the alphabet backwards.,"Пьяницы часто становятся смелыми и отважными авантюристами, однако их поступки нередко бывают непредсказуемыми. Но вот попросить их произнести буквы алфавита задом наперёд — дело заведомо проигрышное."
+SpecialDescription,"Touched by the animating art of golem-crafters, their flesh has hardened toward stone, granting resilience at the cost of grace.",
+SpecialDescription,"Trained in the one-on-one blade duel, every strike is precise, but a lifetime spent perfecting offence left little time to master defence.",
+SpecialDescription,"Trained since childhood in a monastic order, their body is a honed weapon but their vows forbid armour and forsake worldly learning.",
 SpecialDescription,"Whether innocent or guilty of their accused crimes, these individuals are desperate to escape custody.","Неважно, заслуженно или незаслуженно обвинённые в совершённых преступлениях, эти люди всеми силами стремятся уйти от наказания и остаться на свободе."
+SpecialName,ascetic,
 SpecialName,colossus,гигант
+SpecialName,construct,
+SpecialName,drowned,
 SpecialName,drunkard,пьяница
+SpecialName,duelist,
 SpecialName,earth,почва
+SpecialName,feral,
+SpecialName,fey,
 SpecialName,flame,пламя
 SpecialName,frost,мороз
 SpecialName,fugitive,беглец
 SpecialName,glass,стекло
+SpecialName,graverobber,
 SpecialName,midget,карлик
 SpecialName,noble,знатный
+SpecialName,plagued,
+SpecialName,prophet,
 SpecialName,protagonist,протагонист
 SpecialName,psychic,медиум
 SpecialName,quantum,квант
 SpecialName,scholar,учёный
 SpecialName,shock,разряд
 SpecialName,skeleton,скелет
+SpecialName,spawn,
+SpecialName,specimen,
+SpecialName,tamer,
 SpecialName,vampire,вампир
+SpecialName,veteran,
+SpecialName,warlock,
 SpecialName,water,вода
 SpecialName,werewolf,оборотень
 SpellDescription,Projects a ball of energy that impacts on both monsters and objects.,"Шарообразный заряд энергии взаимодействующий как с предметами, так и с живыми существами."
+SpellName,acid splash,
 SpellName,acid stream,поток кислоты
 SpellName,animate dead,оживление мертвецов
 SpellName,animate object,оживление предметов
+SpellName,arc conduit,
+SpellName,arcane blight,
+SpellName,arcane whetstone,
+SpellName,arcing bolt,
+SpellName,artificer's exchange,
+SpellName,atonement,
+SpellName,augury,
+SpellName,bane,
+SpellName,banshee wail,
+SpellName,barring ward,
+SpellName,battle fury,
 SpellName,bind undead,подчинение нежити
+SpellName,binding sphere,
+SpellName,black ice patch,
+SpellName,black plague,
+SpellName,blade blessing,
+SpellName,bless,
 SpellName,blinking,мерцание
+SpellName,blurred form,
+SpellName,call of the pack,
+SpellName,calm,
+SpellName,caltrop swarm,
 SpellName,cancellation,очищение
+SpellName,causeway,
+SpellName,chain lightning,
+SpellName,changeless ward,
 SpellName,charm,очарование
+SpellName,chill grasp,
+SpellName,chromatic orb,
 SpellName,clairvoyance,подсматривание
+SpellName,claybind touch,
+SpellName,clear sight,
+SpellName,clouded mind,
+SpellName,command,
+SpellName,commune,
+SpellName,concussive blast,
 SpellName,cone of cold,конус холода
 SpellName,confusion,смятение
+SpellName,conjure barricade,
+SpellName,conjure boulder,
+SpellName,conjure guardian,
+SpellName,conjure homunculus,
+SpellName,conjure mount,
+SpellName,conjured pit,
+SpellName,consecration,
+SpellName,contagion,
+SpellName,corpse explosion,
+SpellName,corroding ray,
 SpellName,create familiar,создание фамильяра
+SpellName,creeping palsy,
+SpellName,crimson ichor lance,
 SpellName,crushing sphere,земляная сфера
 SpellName,curing,исцеление
+SpellName,danger sense,
 SpellName,darkness,тьма
+SpellName,daze,
+SpellName,death ward,
+SpellName,death's bargain,
+SpellName,deathwatch,
 SpellName,deflection,отклонение
 SpellName,detect food,обнаружение еды
+SpellName,detect metal,
 SpellName,detect monsters,обнаружение монстров
 SpellName,detect treasure,обнаружение сокровищ
+SpellName,detect undead,
 SpellName,detect unseen,обнаружение невидимого
 SpellName,dig,копание
+SpellName,disarming ward,
+SpellName,discord,
 SpellName,disintegrate,распад
+SpellName,dispel magic,
+SpellName,displacement,
+SpellName,divine favor,
+SpellName,divine intervention,
+SpellName,dominate mind,
 SpellName,drain life,вытягивание жизни
+SpellName,earthen colossus,
+SpellName,elemental servant,
+SpellName,elemental warding,
+SpellName,ember lance,
+SpellName,enlarge,
+SpellName,entangling vines,
+SpellName,entropic siphon,
 SpellName,extra healing,большое лечение
+SpellName,false life,
 SpellName,fear,ужас
+SpellName,find doors,
+SpellName,find traps,
 SpellName,finger of death,перст смерти
 SpellName,fireball,огненный шар
 SpellName,flaming sphere,пылающая сфера
 SpellName,force bolt,силовой снаряд
+SpellName,foreknowledge,
+SpellName,freedom,
+SpellName,freedom of movement,
 SpellName,freezing sphere,ледяная сфера
+SpellName,frost breath,
 SpellName,full healing,полное лечение
+SpellName,gate,
+SpellName,gilding touch,
+SpellName,glacial spike,
+SpellName,grasping mind,
+SpellName,grave rot,
+SpellName,gravity well,
+SpellName,guided path,
+SpellName,harvest of souls,
 SpellName,haste,ускорение
+SpellName,hazard sense,
 SpellName,healing,лечение
+SpellName,hex,
+SpellName,hexbind,
+SpellName,hideous laughter,
+SpellName,hold monster,
+SpellName,hold person,
+SpellName,holy word,
 SpellName,ice storm,ледяной шторм
 SpellName,identify,опознание
+SpellName,inner calm,
 SpellName,invisibility,невидимость
+SpellName,iron will,
+SpellName,ironbind door,
+SpellName,juggernaut ray,
 SpellName,jumping,прыжок
+SpellName,keen search,
 SpellName,knock,открывание
+SpellName,legion of bone,
 SpellName,levitation,левитация
 SpellName,light,свет
 SpellName,lightning bolt,удар молнии
 SpellName,living wall,живая стена
 SpellName,magic mapping,волшебная картография
 SpellName,magic missile,волшебная стрела
+SpellName,meteoric cataclysm,
+SpellName,mind ken,
+SpellName,mind link,
+SpellName,mind spike,
+SpellName,mindrend,
+SpellName,mirror ward,
+SpellName,neutralize poison,
+SpellName,oracle's eye,
+SpellName,owl eyes,
+SpellName,petrifying touch,
 SpellName,phasing,фазирование
+SpellName,planar anchor,
+SpellName,planar swap,
 SpellName,poison blast,ядовитый заряд
 SpellName,polymorph,превращение
+SpellName,porter's reach,
+SpellName,prayer,
+SpellName,premonition,
+SpellName,prismatic spray,
+SpellName,psychic shove,
 SpellName,raise dead,возвращение к жизни
+SpellName,rally cry,
+SpellName,ray of enfeeblement,
+SpellName,reap,
 SpellName,regenerate,регенерация
 SpellName,remove curse,снятие проклятия
+SpellName,repelling ward,
+SpellName,repulsion,
 SpellName,restoration,восстановление
+SpellName,revelation,
+SpellName,sanctuary,
+SpellName,scalding cloud,
+SpellName,searing light,
+SpellName,sense curse,
+SpellName,sense the restless,
+SpellName,sentinel ward,
+SpellName,shimmer shield,
 SpellName,shocking sphere,шоковая сфера
+SpellName,shrink,
+SpellName,silence,
+SpellName,simulacrum,
 SpellName,sleep,усыпление
+SpellName,slick detonation,
+SpellName,slipping free,
 SpellName,slow,замедление
 SpellName,soaking sphere,водяная сфера
+SpellName,song of discord,
+SpellName,spark bolt,
+SpellName,spectral shroud,
+SpellName,spirit leech,
+SpellName,spirit shield,
+SpellName,starfall,
+SpellName,steadfast ward,
+SpellName,stone to flesh,
+SpellName,stoneskin,
 SpellName,summoning,призыв
+SpellName,sunburst smite,
+SpellName,sunder gear,
+SpellName,swoon,
 SpellName,telekinesis,телекинез
+SpellName,telekinetic shove,
 SpellName,teleport away,телепортация
+SpellName,thunderclap,
+SpellName,timed combustion,
+SpellName,tongue tied,
 SpellName,toxic spray,токсичные брызги
+SpellName,transmuter's mastery,
+SpellName,true appraisal,
 SpellName,turn undead,отпугивание нежити
+SpellName,unbinding,
+SpellName,undying ward,
+SpellName,unseen hand,
+SpellName,vampiric feast,
+SpellName,veil of shadows,
+SpellName,wall breach,
+SpellName,wall of thorns,
 SpellName,walling,возведение стены
+SpellName,ward of return,
+SpellName,warning ward,
+SpellName,web snare,
+SpellName,whispers of madness,
+SpellName,wildfire brand,
+SpellName,wither,
+SpellName,withering ray,
 SpellName,wizard lock,волшебный замок
+SpellName,world vision,
 StandingName,damned,проклятый
 StandingName,doomed,обречённый
 StandingName,doubtful,сомневающийся
@@ -4815,19 +5869,31 @@ VolatileName,blaze,пламя
 VolatileName,blood,кровь
 VolatileName,electricity,электричество
 VolatileName,freeze,мороз
+VolatileName,oil,
 VolatileName,steam,пар
 WallStructureName,illusionary,иллюзия
 WallStructureName,permanent,не рушимая
 WallStructureName,solid,твёрдая
+ZooName,angelic sanctuary,
 ZooName,ant hole,муравейник
+ZooName,astral kennel,
 ZooName,barracks,бараки
 ZooName,bee hive,пчелиный улей
 ZooName,cocknest,курятник
 ZooName,college of wizardry,академия волшебства
 ZooName,dragon nest,драконье гнездо
+ZooName,dragon rookery,
+ZooName,drow stronghold,
+ZooName,elemental foundry,
+ZooName,golem forge,
 ZooName,graveyard,кладбище
 ZooName,gremlin pit,яма гремлинов
+ZooName,jelly vat,
 ZooName,leprechaun hall,зал лепреконов
+ZooName,military camp,
+ZooName,mimic den,
+ZooName,monster greenhouse,
+ZooName,pheral crypt,
 ZooName,salty pool,солёный бассейн
 ZooName,science lab,научная лаборатория
 ZooName,slumber party,девичник

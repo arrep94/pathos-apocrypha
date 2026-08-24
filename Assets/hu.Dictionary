@@ -1,4 +1,5 @@
 ﻿AfflictionDescription,Deadly venom courses through your veins.,Halálos méreg folyik az ereidben.
+AfflictionDescription,Groteseque changes are happening to your body.,
 AfflictionDescription,Something deeply unsettling is happening... down there.,Valami mélyen felkavaró történik... odalent.
 AfflictionDescription,There is a gnawing sensation from deep inside your stomach.,Hasad gyötrő éhségtől szenved.
 AfflictionDescription,This viral disease causes inflammation of the brain and is spread by infected animals.,"Ez a vírus okozta kór fertőzött állatokon keresztül terjed, és gyulladást okoz az agyban."
@@ -6,6 +7,7 @@ AfflictionDescription,You feel unclean and everything itches.,Tisztátalannak é
 AfflictionDescription,You have a dreadful case of stomach acid.,Borzasztó gyomorsavtól szenvedsz.
 AfflictionDescription,Your skin is sickly green and something is very wrong inside your stomach.,A bőröd betegesen zöld és valami nagyon rossz történik a hasadban.
 AfflictionName,crabs,rákosodás
+AfflictionName,mutation,
 AfflictionName,nits,tetvesedés
 AfflictionName,poisoning,mérgezés
 AfflictionName,rabies,veszettség
@@ -43,76 +45,136 @@ AppearanceDescription,A short but sturdy looking coat of mithril armour.,"Egy r�
 AppearanceDescription,A slender and delicate looking coat of mithril armour.,Egy karcsú és kényesnek tűnő mithrilpáncélzat.
 AppearanceDescription,A slender and glossy looking coat of mithril armour.,Egy keskeny és fényes mithrilpáncélzat.
 AppearanceDescription,This classic wizard accessory is a pointed hat decorated with moons and stars.,"Ez a csúcsos, holdakkal és csillagokkal dekorált sapka klasszikus varázslókelléknek számít."
+AppearanceName,acrid book,
 AppearanceName,adamantine slug,
 AppearanceName,adamantine staff,
 AppearanceName,agate ring,achátgyűrű
+AppearanceName,alabaster book,
 AppearanceName,aluminium wand,alumíniumpálca
+AppearanceName,amber book,
+AppearanceName,ancient book,
 AppearanceName,angled poleaxe,hajlított csatabárd
+AppearanceName,antique book,
+AppearanceName,arcane book,
+AppearanceName,arcing book,
+AppearanceName,argent book,
+AppearanceName,ashen book,
 AppearanceName,backwards book,ellentettkönyv
 AppearanceName,bag,zsák
 AppearanceName,balsa wand,balsafa pálca
 AppearanceName,bamboo arrow,bambusz nyílvessző
 AppearanceName,bamboo wand,bambuszpálca
+AppearanceName,banded book,
+AppearanceName,barbed ring,
+AppearanceName,basalt book,
+AppearanceName,battered book,
+AppearanceName,beaded book,
 AppearanceName,beaked polearm,horgas alabárd
 AppearanceName,bell,bronzharang
 AppearanceName,big book,nagy könyv
+AppearanceName,bilious book,
+AppearanceName,birch book,
 AppearanceName,black book,fekete könyv
+AppearanceName,black bound book,
 AppearanceName,black gem,fekete drágakő
 AppearanceName,black gloves,fekete kesztyűk
 AppearanceName,black onyx ring,fekete ónixgyűrű
 AppearanceName,black potion,fekete főzet
+AppearanceName,black stone,
 AppearanceName,black wand,fekete pálca
+AppearanceName,blackened book,
+AppearanceName,bloodstained book,
 AppearanceName,bloody potion,véres főzet
 AppearanceName,blue and green shield,kék és zöld pajzs
 AppearanceName,blue gem,kék drágakő
 AppearanceName,blue robe,kék köpeny
+AppearanceName,bone book,
+AppearanceName,bone bound book,
 AppearanceName,bone earrings,csontfülbevaló
 AppearanceName,bone staff,csontbot
+AppearanceName,bone white book,
+AppearanceName,boulder bound book,
+AppearanceName,bramble book,
+AppearanceName,brass book,
+AppearanceName,brass bound book,
+AppearanceName,brass clasped book,
 AppearanceName,brass ring,sárgaréz qyűrű
 AppearanceName,brass wand,sárgaréz pálca
 AppearanceName,brilliant blue potion,brilliantkék főzet
+AppearanceName,brittle book,
+AppearanceName,broad katar,
 AppearanceName,broad pick,széles csákány
 AppearanceName,broad short sword,széles rövid kard
 AppearanceName,bronze book,bronzbarna könyv
 AppearanceName,bronze ring,bronzqyűrű
 AppearanceName,bronze wand,bronzpálca
+AppearanceName,bronzed book,
 AppearanceName,brown potion,barna főzet
 AppearanceName,bubbly potion,pezsgő főzet
+AppearanceName,buckled book,
 AppearanceName,bugle,kürt
+AppearanceName,burnished book,
 AppearanceName,candle,gyertya
 AppearanceName,canvas book,vászonkönyv
+AppearanceName,celestial book,
 AppearanceName,ceramic wand,kerámiapálca
+AppearanceName,chained book,
+AppearanceName,chalkstone book,
+AppearanceName,charcoal book,
+AppearanceName,charnel book,
+AppearanceName,charred book,
+AppearanceName,cinder book,
+AppearanceName,cindered book,
 AppearanceName,circular amulet,kerek amulett
+AppearanceName,clasped book,
+AppearanceName,clay bound book,
 AppearanceName,clay ring,agyaggyűrű
 AppearanceName,clear potion,tiszta főzet
+AppearanceName,clockwork gun,
 AppearanceName,cloth book,szövet könyv
 AppearanceName,cloudy potion,felhős főzet
 AppearanceName,coarse mantelet,közönséges rövid köpeny
+AppearanceName,cobalt book,
+AppearanceName,cobblestone book,
+AppearanceName,coiled gun,
 AppearanceName,colourful book,színes könyv
 AppearanceName,combat boots,harci csizma
 AppearanceName,compact gun,kompakt fegyver
+AppearanceName,compass bound book,
 AppearanceName,concave amulet,homorú amulett
 AppearanceName,conical hat,kúp alakú kalap
+AppearanceName,consecrated book,
 AppearanceName,convex amulet,domború amulett
 AppearanceName,copper book,rézvörös könyv
 AppearanceName,copper ring,vörösréz gyűrű
 AppearanceName,copper wand,vörösréz pálca
+AppearanceName,coral book,
 AppearanceName,coral ring,korallgyűrű
+AppearanceName,corded book,
+AppearanceName,cracked book,
+AppearanceName,cratered book,
 AppearanceName,crested helmet,címeres sisak
+AppearanceName,crimson book,
 AppearanceName,crude arrow,durva nyílvessző
 AppearanceName,crude bow,durva íj
 AppearanceName,crude chain mail,durva páncéling
 AppearanceName,crude dagger,durva tőr
+AppearanceName,crude disc,
 AppearanceName,crude ring mail,durva gyűrűs páncél
 AppearanceName,crude short sword,durva rövid kard
 AppearanceName,crude spear,durva lándzsa
+AppearanceName,crumbling book,
+AppearanceName,crystal book,
 AppearanceName,crystal staff,kristálybot
 AppearanceName,crystal wand,kristálypálca
+AppearanceName,crystalline book,
 AppearanceName,curved polearm,görbe alabárd
 AppearanceName,curved sword,görbe kard
 AppearanceName,curved wand,görbe pálca
+AppearanceName,cut glass book,
 AppearanceName,cyan book,ciánkék könyv
 AppearanceName,cyan potion,ciánkék főzet
+AppearanceName,damascened book,
 AppearanceName,dark blue book,sötétkék könyv
 AppearanceName,dark brown book,sötétbarna könyv
 AppearanceName,dark green book,sötétzöd könyv
@@ -122,27 +184,43 @@ AppearanceName,deep book,mély könyv
 AppearanceName,diamond ring,gyémántgyűrű
 AppearanceName,dirty rag,koszos rongy
 AppearanceName,dog eared book,szamárfüles könyv
+AppearanceName,dolomite book,
 AppearanceName,double-headed axe,kétfejű balta
+AppearanceName,dove grey book,
+AppearanceName,dress boots,
 AppearanceName,drum,dob
 AppearanceName,dull book,fakó könyv
+AppearanceName,dusk blue book,
 AppearanceName,dusty book,poros könyv
 AppearanceName,ebony wand,ébenfa pálca
+AppearanceName,eelskin book,
 AppearanceName,effervescent potion,bugyborékoló főzet
+AppearanceName,ember book,
 AppearanceName,emerald potion,smaragdzöld főzet
 AppearanceName,emerald ring,smaragdgyűrű
 AppearanceName,engagement ring,eljegyzési gyűrű
+AppearanceName,etched book,
 AppearanceName,etched helmet,mart sisak
+AppearanceName,eternity ring,
 AppearanceName,exotic two-pointed polearm,
 AppearanceName,faded book,kifakult könyv
 AppearanceName,faded pall,kifakult lepel
+AppearanceName,feldspar book,
 AppearanceName,fencing gloves,vívókesztyű
 AppearanceName,figurine,szobrocska
 AppearanceName,fine mithril-coat,pompás mithrilpáncél
 AppearanceName,fizzy potion,szénsavas főzet
+AppearanceName,flint book,
 AppearanceName,flute,furulya
 AppearanceName,forked polearm,villás alabárd
+AppearanceName,forked wand,
+AppearanceName,frostbitten book,
+AppearanceName,frosted book,
 AppearanceName,fur boots,szőrmecsizma
 AppearanceName,fuzzy book,rojtos könyv
+AppearanceName,gale book,
+AppearanceName,gilded book,
+AppearanceName,glass bound book,
 AppearanceName,glass orb,üveggömb
 AppearanceName,glass ring,üveggyűrű
 AppearanceName,glass wand,üvegpálca
@@ -153,13 +231,21 @@ AppearanceName,glossy arrow,fekete rúnás nyílvessző
 AppearanceName,glossy bow,fekete rúnás íj
 AppearanceName,glossy dagger,fekete rúnás tőr
 AppearanceName,glossy mithril-coat,fényes mithrilpáncél
+AppearanceName,glossy potion,
 AppearanceName,glossy short sword,fekete rúnás rövid kard
+AppearanceName,gloved book,
+AppearanceName,gneiss book,
 AppearanceName,gold book,aranykönyv
 AppearanceName,gold earrings,aranyfülbevaló
 AppearanceName,gold ring,aranygyűrű
 AppearanceName,gold wand,aranypálca
 AppearanceName,golden potion,arany főzet
+AppearanceName,gossamer book,
+AppearanceName,granite book,
 AppearanceName,granite ring,gránitgyűrű
+AppearanceName,graphite book,
+AppearanceName,grave bound book,
+AppearanceName,gravel book,
 AppearanceName,green gem,zöld drágakő
 AppearanceName,green robe,zöld köpeny
 AppearanceName,grey book,szürke könyv
@@ -168,38 +254,54 @@ AppearanceName,hard hat,keménykalap
 AppearanceName,hard shoes,kemény cipő
 AppearanceName,hardcover book,keményfedeles könyv
 AppearanceName,harp,hárfa
+AppearanceName,hazel book,
 AppearanceName,heavy barrelled gun,nehéz lőfegyver
 AppearanceName,heavy gun,nehézfegyver
 AppearanceName,hexagonal amulet,hatszögű amulett
 AppearanceName,hexagonal wand,hatszögű pálca
+AppearanceName,hide bound book,
 AppearanceName,hiking boots,túrabakancs
 AppearanceName,hilted polearm,matkolatos alabárd
+AppearanceName,hoarfrost book,
+AppearanceName,hollow book,
 AppearanceName,hooded cloak,kapucnis köpönyeg
 AppearanceName,hooked polearm,kampós alabárd
+AppearanceName,hooked sword,
 AppearanceName,horn,szarv
 AppearanceName,horseshoe,patkó
 AppearanceName,humongous book,hatalmas könyv
 AppearanceName,icy potion,jeges főzet
+AppearanceName,incandescent book,
 AppearanceName,indigo book,indigó könyv
 AppearanceName,iridium wand,irídiumpálca
+AppearanceName,iron bound book,
 AppearanceName,iron ring,vasgyűrű
 AppearanceName,iron skull cap,kerek vassapka
 AppearanceName,iron wand,vaspálca
+AppearanceName,ivory book,
 AppearanceName,ivory ring,elefántcsont gyűrű
 AppearanceName,jackboots,csizma
+AppearanceName,jade book,
 AppearanceName,jade ring,jádegyűrű
+AppearanceName,jewelled book,
 AppearanceName,jewelled wand,ékköves pálca
 AppearanceName,jungle boots,dzsungelcipő
+AppearanceName,keening book,
 AppearanceName,key,kulcs
+AppearanceName,khaki potion,
 AppearanceName,lamp,lámpa
 AppearanceName,large gun,nagy fegyver
 AppearanceName,large round shield,nagy kerek pajzs
+AppearanceName,leaden book,
 AppearanceName,leather apron,bőrkötény
 AppearanceName,leather book,bőrkönyv
 AppearanceName,leather hat,bőrkalap
 AppearanceName,light blue book,világoskék könyv
 AppearanceName,light brown book,világosbarna könyv
 AppearanceName,light green book,világoszöld könyv
+AppearanceName,limestone book,
+AppearanceName,linen book,
+AppearanceName,loam book,
 AppearanceName,long barrelled gun,hosszú csövű puska
 AppearanceName,long book,hosszú könyv
 AppearanceName,long bow,hosszúíj
@@ -211,13 +313,18 @@ AppearanceName,luminescent potion,foszforeszkáló főzet
 AppearanceName,magenta book,magenta könyv
 AppearanceName,magenta potion,magenta főzet
 AppearanceName,maple wand,juharfa pálca
+AppearanceName,marble book,
 AppearanceName,marble wand,márványpálca
 AppearanceName,marker,filctoll
+AppearanceName,marlstone book,
 AppearanceName,medallion amulet,medalion amulett
 AppearanceName,metal canister,fémtartály
 AppearanceName,metal pineapple,kézigránát
 AppearanceName,metal slug,fémgolyó
+AppearanceName,mica book,
+AppearanceName,mildewed book,
 AppearanceName,milky potion,tejes főzet
+AppearanceName,millstone book,
 AppearanceName,mithril boots,acélcsizma
 AppearanceName,mithril ring,mithrilgyűrű
 AppearanceName,mithril slug,mithrilgolyó
@@ -225,70 +332,109 @@ AppearanceName,mithril staff,mithrilbot
 AppearanceName,mood ring,hangulatgyűrű
 AppearanceName,moonstone ring,holdköves gyűrű
 AppearanceName,mortar gun,aknavető
+AppearanceName,mossy book,
+AppearanceName,moth eaten book,
 AppearanceName,mottled book,pettyes könyv
 AppearanceName,mud boots,gumicsizma
 AppearanceName,muddy potion,saras főzet
 AppearanceName,murky potion,homályos főzet
+AppearanceName,murmuring book,
+AppearanceName,muted book,
 AppearanceName,mysterious gadget,rejtélyes szerkentyű
+AppearanceName,notched book,
 AppearanceName,oak wand,tölgyfapálca
+AppearanceName,obsidian book,
 AppearanceName,obsidian ring,obszidiángyűrű
 AppearanceName,ochre book,okkersárga könyv
 AppearanceName,octagonal amulet,nyolcszögű amulett
 AppearanceName,octagonal wand,nyolcszögű pálca
 AppearanceName,old gloves,öreg kesztyű
+AppearanceName,olive branch book,
+AppearanceName,onyx book,
+AppearanceName,opal book,
 AppearanceName,opal ring,opálgyűrű
+AppearanceName,opaline book,
 AppearanceName,opera cloak,operaköpönyeg
 AppearanceName,orange book,narancssárga könyv
 AppearanceName,orange gem,narancssárga drágakő
 AppearanceName,orange potion,narancssárga főzet
 AppearanceName,orange robe,narancssárga köpeny
 AppearanceName,ornamental cope,díszes palást
+AppearanceName,ossuary book,
 AppearanceName,oval amulet,ovális amulett
 AppearanceName,padded gloves,bélelt kesztyű
+AppearanceName,pale book,
 AppearanceName,papyrus book,papiruszkönyv
 AppearanceName,parchment book,pergamenkönyv
 AppearanceName,pearl earrings,gyöngyfülbevaló
 AppearanceName,pearl ring,gyöngygyűrű
+AppearanceName,phoenix down book,
 AppearanceName,piece of cloth,szövetdarab
+AppearanceName,pine wand,
 AppearanceName,pink book,rózsaszín könyv
 AppearanceName,pink potion,rózsaszín főzet
+AppearanceName,pitted book,
+AppearanceName,plague ridden book,
 AppearanceName,plaid book,kockás könyv
 AppearanceName,plain book,sima könyv
 AppearanceName,plain ring,sima gyűrű
 AppearanceName,plain robe,sima köpeny
 AppearanceName,plastic slug,műanyag golyó
 AppearanceName,plastic stick,műanyag bot
+AppearanceName,plastic wand,
 AppearanceName,platinum wand,platinapálca
 AppearanceName,plumed helmet,tollas sisak
+AppearanceName,pocked book,
 AppearanceName,pole cleaver,hosszú nyelű bárd
 AppearanceName,pole sickle,hosszú nyelű sarló
 AppearanceName,polished silver shield,fényesített ezüstpajzs
+AppearanceName,porphyry book,
+AppearanceName,prismatic book,
 AppearanceName,pronged polearm,fogazott alabárd
 AppearanceName,pruning hook,metszőkés
+AppearanceName,psalm book,
 AppearanceName,puce potion,rozsdavörös főzet
+AppearanceName,pumice book,
 AppearanceName,purple book,lila könyv
 AppearanceName,purple-red potion,lilásvörös főzet
 AppearanceName,pyramidal amulet,gúla alakú amulett
+AppearanceName,quartzite book,
+AppearanceName,quicksilver book,
+AppearanceName,radiant book,
 AppearanceName,ragged book,rongyos könyv
 AppearanceName,rainbow book,szivárványos könyv
 AppearanceName,red book,vörös könyv
 AppearanceName,red gem,vörös drágakő
 AppearanceName,red robe,vörös köpeny
+AppearanceName,red stone,
 AppearanceName,red-eyed shield,vörösz szemes pajzs
 AppearanceName,riding boots,lovaglócsizma
 AppearanceName,riding gloves,lovaglókesztyű
+AppearanceName,rimed book,
+AppearanceName,riveted book,
 AppearanceName,ruby potion,rubinvörös főzet
 AppearanceName,ruby ring,rubintgyűrű
 AppearanceName,runed arrow,rúnás nyílvessző
+AppearanceName,runed book,
 AppearanceName,runed bow,rúnás íj
 AppearanceName,runed broadsword,rúnás széleskard
 AppearanceName,runed dagger,rúnás tőr
+AppearanceName,runed disc,
 AppearanceName,runed short sword,rúnás rövidkard
 AppearanceName,runed spear,rúnás lándzsa
 AppearanceName,runed wand,rúnás pálca
+AppearanceName,russet book,
+AppearanceName,rusted book,
 AppearanceName,rusty wand,rozsdás pálca
+AppearanceName,sable book,
+AppearanceName,saddle book,
+AppearanceName,sallow book,
 AppearanceName,samurai sword,szamurájkard
+AppearanceName,sanguine book,
+AppearanceName,sapphire book,
 AppearanceName,sapphire ring,zafírgyűrű
+AppearanceName,scalded book,
+AppearanceName,schist book,
 AppearanceName,scoped long gun,távcsöves hosszú puska
 AppearanceName,scroll labelled ANDOVA BEGARIN,ANDOVA BEGARIN feliratú tekercs
 AppearanceName,scroll labelled AZZGAZ,AZZGAZ feliratú tekercs
@@ -321,36 +467,56 @@ AppearanceName,scroll labelled XALICH UDED,XALICH UDED feliratú tekercs
 AppearanceName,scroll labelled XIXAXA XOXAXA XUXAXA,XIXAXA XOXAXA XUXAXA feliratú tekercs
 AppearanceName,scroll labelled YUM YUM,YUM YUM feliratú tekercs
 AppearanceName,scroll labelled ZELGO MER,ZELGO MER feliratú tekercs
+AppearanceName,sepia book,
+AppearanceName,sepulchral book,
 AppearanceName,shadow book,árnyékkönyv
+AppearanceName,shale book,
+AppearanceName,shimmering book,
 AppearanceName,shining book,ragyogó könyv
 AppearanceName,shiny ring,csillogó gyűrű
 AppearanceName,short barrelled gun,rövid csövű fegyver
 AppearanceName,short samurai sword,rövid szamurájkard
 AppearanceName,short wand,rövid pálca
 AppearanceName,shoulder gun,vállfegyver
+AppearanceName,shrapnel book,
+AppearanceName,silk book,
+AppearanceName,silken book,
+AppearanceName,silly wand,
 AppearanceName,silver book,ezüstszín könyv
 AppearanceName,silver ring,ezüstgyűrű
 AppearanceName,silver slug,ezüstgolyó
 AppearanceName,silver wand,ezüstpálca
+AppearanceName,silvered book,
 AppearanceName,single-edged polearm,egyélű alabárd
 AppearanceName,sky blue potion,égszínkék főzet
+AppearanceName,slate book,
 AppearanceName,slippery cloak,csúszós köpönyeg
 AppearanceName,small gun,kis fegyver
+AppearanceName,small horizontal bow,
 AppearanceName,smoky potion,füstös főzet
 AppearanceName,snow boots,hótaposó
+AppearanceName,solar book,
+AppearanceName,sooty book,
+AppearanceName,soul bound book,
 AppearanceName,sparkling potion,habzó főzet
 AppearanceName,spherical amulet,gömbölyű amulett
 AppearanceName,spiked wand,hegyes pálca
 AppearanceName,spotted book,pöttyös könyv
 AppearanceName,square amulet,négyszögletű amulett
 AppearanceName,stained book,foltos könyv
+AppearanceName,starless book,
+AppearanceName,starlit book,
+AppearanceName,static book,
 AppearanceName,steel ring,acélgyűrű
 AppearanceName,steel wand,acélpálca
 AppearanceName,sticky glob,ragadós csepp
+AppearanceName,storm wracked book,
 AppearanceName,stout mithril-coat,erős mithrilpáncél
 AppearanceName,stout spear,erős lándzsa
 AppearanceName,studded samurai stick,szöges szamurájbot
 AppearanceName,stylish book,ízléses könyv
+AppearanceName,sundered book,
+AppearanceName,sunlit book,
 AppearanceName,swirly potion,örvénylő főzet
 AppearanceName,tan book,barnás könyv
 AppearanceName,tattered book,szakadt könyv
@@ -365,35 +531,51 @@ AppearanceName,throwing disc,
 AppearanceName,throwing spear,dobólándzsa
 AppearanceName,throwing star,dobócsillag
 AppearanceName,throwing stick,hajítófa
+AppearanceName,thunderous book,
 AppearanceName,tiger eye ring,tigrisszem gyűrű
 AppearanceName,tin wand,bádogpálca
 AppearanceName,tiny book,apró könyv
+AppearanceName,topaz book,
 AppearanceName,topaz ring,topázgyűrű
 AppearanceName,torn book,szaggatott könyv
+AppearanceName,toy bat,
+AppearanceName,toy hammer,
 AppearanceName,toy sword,
 AppearanceName,triangular amulet,háromszögletű amulett
 AppearanceName,turquoise book,türkiz könyv
 AppearanceName,twisted ring,sodrott gyűrű
+AppearanceName,umber book,
+AppearanceName,unbound book,
 AppearanceName,unlabelled scroll,felirat nélküli tekercs
 AppearanceName,uranium wand,uránpálca
+AppearanceName,veiled book,
 AppearanceName,vellum book,pergamenbőr könyv
 AppearanceName,velvet book,bársonykönyv
+AppearanceName,verdigris book,
 AppearanceName,violet book,ibolya könyv
 AppearanceName,violet gem,ibolya drágakő
 AppearanceName,visored helmet,rostélysisak
+AppearanceName,voltaic book,
 AppearanceName,vulgar polearm,közönséges alabárd
 AppearanceName,walking shoes,utcai cipő
 AppearanceName,warped amulet,torz amulett
+AppearanceName,warped book,
+AppearanceName,waxen book,
 AppearanceName,wedding ring,jegygyűrű
+AppearanceName,welded book,
+AppearanceName,whispering book,
 AppearanceName,whistle,síp
 AppearanceName,white book,fehér könyv
 AppearanceName,white coat,fehér kabát
 AppearanceName,white gem,fehér drágakő
 AppearanceName,white potion,fehér főzet
 AppearanceName,wide book,széles könyv
+AppearanceName,wilted book,
 AppearanceName,winged missile,szárnyas lövedék
 AppearanceName,wire ring,drótgyűrű
+AppearanceName,withered book,
 AppearanceName,wooden ring,fagyűrű
+AppearanceName,wormwood book,
 AppearanceName,wrinkled book,gyűrött könyv
 AppearanceName,yellow book,sárga könyv
 AppearanceName,yellow gem,sárga drágakő
@@ -489,62 +671,116 @@ BlockName,statue,szobor
 BlockName,stone boulder,kősziklatömb
 BlockName,trophy,
 BlockName,wooden barrel,fahordó
+BoonDescription,"A darker resurrection than the temples offer: certain to succeed, but the dead come back enraged.",
+BoonDescription,"A generous healing gift, fae-touched: your hands will not be quite steady later.",
 BoonDescription,Ask for a unicorn to join your party.,Kérj a csapatodba egy egyszarvút.
+BoonDescription,Ask the fae for a favour. What you get is entirely up to her mood.,
+BoonDescription,"Bathe in the etching vats. It burns, but you rise with a hide the acid cannot bite.",
 BoonDescription,Bless one item in your inventory or on the ground.,Áldj meg egy tárgyat a leltáradban vagy a padlón.
 BoonDescription,Brew a random potion into your bottle of water.,Töltsd fel vizespalackodat egy véletlenszerű főzettel.
 BoonDescription,Butcher a corpse into an easy to carry container.,Apríts fel egy tetemet és helyezd egy könnyen hordozható tárolóba.
 BoonDescription,Call upon the undead to fight for you.,Harcolj élőholtakkal az oldaladon.
+BoonDescription,Consult the observatory's charts for the full layout of this level.,
 BoonDescription,Convert one item into a random alternative of the same type.,Alakíts át egy tárgyat annak véletlenszerű alternatívájává.
 BoonDescription,Determine the enchantment and charges of all carried items.,Állapítsd meg a hordozott tárgyak igézéseit és töltését.
+BoonDescription,"Drill under the captain's eye. You may be quickened, or you may be worn out.",
+BoonDescription,Drink the warrior's drink and fight in a berserker rage. It does not spare your allies.,
+BoonDescription,"Eat at the fae table. You will not go hungry, but the wine shows you things that are not there.",
 BoonDescription,"Erase the magic from a potion, scroll or book.","Távolítsd el a mágiát egy főzetről, tekercsről vagy könyvről."
+BoonDescription,Fall into a trance and see through walls and floors for a time.,
 BoonDescription,Hatch an egg and become a parent.,Kelts ki egy tojást és válj szülővé.
+BoonDescription,Have the efreeti bind a captive elemental to your service.,
+BoonDescription,"Have the temple armour smiths put a keener edge on one weapon, magical or not.",
+BoonDescription,Have the wizard read the true nature of everything you carry.,
+BoonDescription,"Have your destiny read from the stars, hastening your growth.",
 BoonDescription,Heal damage and recover mana for yourself and your steed if mounted.,Gyógyíts sérüléseket és nyerj vissza manát magadnak és megült hátasodnak.
 BoonDescription,Learn how to cast a random spell.,Tanulj meg véletlenszerűen varázsolni.
 BoonDescription,Learn the divine status of all carried items.,"Jöjj rá egy tárgy valódi természetére azáltal, hogy felveszed."
 BoonDescription,Learn the name of one random unknown item.,"Tudd meg egy véletlenszerű, ismeretlen tárgy nevét."
 BoonDescription,Make an imitation copy of an item.,Készíts utánzatot egy tárgyról.
 BoonDescription,Partially recharge a spent item.,Egy kimerült tárgyat részben újratölt.
+BoonDescription,Petition the vizier for a spectral cat to guard you as it once guarded the tomb.,
 BoonDescription,Place a curse on one equipped or carried item.,Átkozz el egy felszerelt vagy hordozott tárgyat.
+BoonDescription,"Plunge into the quenching trough. It burns with cold, but you rise proof against it.",
 BoonDescription,Reanimate a corpse as a loyal revenant.,"Kelts életre egy tetemet, aki így hűséges kísértetként fog szolgálni téged."
+BoonDescription,Receive the linen wrappings used to prepare the dead for the afterlife.,
 BoonDescription,Remove all magic from an item.,Távolítsd el az összes mágiát egy tárgyról.
 BoonDescription,Remove the curse on one equipped or carried item.,Vegyél le átkot egy felszerelt vagy hordozott tárgyról.
 BoonDescription,Rename an item for vanity and as a small protection against cancellation.,"Nevezz át egy tárgyat a hiúság kedvéért, és kismértékű érvénytelenítés elleni védelemért."
 BoonDescription,Request a fresh corpse with no questions asked.,"Kérj egy friss tetemet anélkül, hogy bárki kérdezősködne."
 BoonDescription,Request one cast of the polymorph spell.,Kérd az átváltozásvarázslat egyszeri használatát.
+BoonDescription,Requisition soldiers from the garrison to march at your side.,
 BoonDescription,Restore any lost ability and remove any negative transient conditions.,"Állíts vissza bármilyen elvesztett adottságot, és távolíts el minden a negatív átmeneti hatást."
 BoonDescription,Return a corpse back to life.,Kelts életre egy tetemet.
+BoonDescription,Stand in the temple square and receive the captain's defensive blessing.,
+BoonDescription,"Step into the forge fire. It burns, but you rise with fire in your blood.",
 BoonDescription,Summon a powerful steed from the underworld.,"Idézz meg egy erős, pokoli paripát."
 BoonDescription,Summon a tame forest beast as your ally.,Hívj szövetségesedül egy szelíd erdei vadat.
+BoonDescription,Summon an escort from the pharaoh's retinue to walk beside you.,
+BoonDescription,The princess trades you a measure of charm. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of grace. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of wit. Something else must give way for it.,
+BoonDescription,Toss a coal on the forge fire and take whatever ward it grants you.,
+BoonDescription,Train under a veteran until a weapon or armour discipline sticks.,
 BoonDescription,Upgrade an item or increase its power.,Fejlessz egy tárgyat vagy növeld meg erejét.
 BoonDescription,Use nature magic to grow the power of your ally.,"Használd a természet mágiáját, hogy megnöveld szövetségesed erejét."
+BoonDescription,Watch the level through the great lens and mark every creature on it.,
+BoonDescription,Whisper a question into the vault. The dead do not always tell the truth.,
 BoonDescription,Write a random scroll onto your blank paper.,Készíts véletlenszerű tekercset üres papírból.
 BoonName,animate dead,holtélesztés
 BoonName,assess,értékelés
+BoonName,banquet of the fae,
+BoonName,battle fury,
+BoonName,black rite of revival,
 BoonName,bless,megáldás
+BoonName,bound elemental,
 BoonName,brew,főzés
+BoonName,call the escort,
 BoonName,cancel,visszavonás
+BoonName,capricious wish,
+BoonName,chart the level,
+BoonName,clairvoyant trance,
+BoonName,commune with the dead,
 BoonName,corpse wish,tetemvágy
+BoonName,court of the underworld,
 BoonName,divine,megfejtés
+BoonName,drill,
 BoonName,enchant,igézés
 BoonName,enlighten,felvilágosítás
 BoonName,erase,eltávolítás
+BoonName,fae cunning,
+BoonName,fae grace,
+BoonName,fae guile,
 BoonName,fantastical beast,fantasztikus fenevad
+BoonName,forced march,
+BoonName,godmother's blessing,
 BoonName,grow,növelés
 BoonName,hatch,kikeltés
+BoonName,identify all,
+BoonName,map the ranks,
 BoonName,nightmare steed,pokoli paripa
+BoonName,ordeal of embers,
 BoonName,place curse,megátkozás
 BoonName,polymorph,átváltozás
 BoonName,purify,megtisztulás
 BoonName,raise dead,halott-támasztás
+BoonName,read your destiny,
 BoonName,recharge,újratöltés
 BoonName,reforge,újrakovácsolás
 BoonName,rejuvenate,megfiatalítás
 BoonName,remove curse,átoklevétel
 BoonName,rename,átnevezés
 BoonName,replicate,lemásolás
+BoonName,sacred wrappings,
 BoonName,scribe,írástudás
+BoonName,sharpen blade,
+BoonName,shield wall,
 BoonName,teach spell,varázslat megtanítás
+BoonName,temper in acid,
+BoonName,temper in flame,
+BoonName,temper in frost,
 BoonName,tinned meat,konzervhús
+BoonName,tomb guardian,
 BoonName,undead army,élőholtak serege
 BoonName,unicorn friend,unikornis barát
 CalendarText,d MMMM yyyy,yyyy MMMM d
@@ -560,7 +796,11 @@ CharacterName,Bason,Bason
 CharacterName,Belietha,Belietha
 CharacterName,Bok,Bok
 CharacterName,Bolan,Bolan
+CharacterName,Bones,
+CharacterName,Borgrim,
+CharacterName,Briar,
 CharacterName,Brouwer,Brouwer
+CharacterName,Buckshot,
 CharacterName,Cailie,Cailie
 CharacterName,Capo,Capo
 CharacterName,Carthyre,Carthyre
@@ -581,18 +821,25 @@ CharacterName,Emina,Emina
 CharacterName,Enlan,Enlan
 CharacterName,Ericendrick,Ericendrick
 CharacterName,Eybrinde,Eybrinde
+CharacterName,Fangs,
 CharacterName,Faraze,Faraze
 CharacterName,Fenlas,Fenlas
 CharacterName,Fenraymond,Fenraymond
+CharacterName,Fern,
 CharacterName,Floki,Floki
 CharacterName,Forro,Forro
 CharacterName,Franzia,Franzia
 CharacterName,Galday,Galday
 CharacterName,Gasberg,Gasberg
+CharacterName,Gearwing,
+CharacterName,Ghrenna,
+CharacterName,Giggles,
 CharacterName,Gleichman,Gleichman
 CharacterName,Gmima,Gmima
 CharacterName,Gohu,Gohu
 CharacterName,Gomack,Gomack
+CharacterName,Grakna,
+CharacterName,Grum,
 CharacterName,Grytt,Grytt
 CharacterName,Haelom,Haelom
 CharacterName,Haique,Haique
@@ -615,34 +862,41 @@ CharacterName,Kevugo,Kevugo
 CharacterName,Kierantha,Kierantha
 CharacterName,Kira,Kira
 CharacterName,Kneller,Kneller
+CharacterName,Korrath,
 CharacterName,Lagratha,Lagratha
 CharacterName,Lanetwalz,Lanetwalz
 CharacterName,Lant,Lant
 CharacterName,Lesha,Lesha
 CharacterName,Luickean,Luickean
+CharacterName,Lyric,
 CharacterName,Lzay,Lzay
 CharacterName,Malasuth,Malasuth
+CharacterName,Malgrim,
 CharacterName,Marisa,Marisa
 CharacterName,Melchai,Melchai
 CharacterName,Meloty,Meloty
 CharacterName,Miller,Miller
 CharacterName,Misteph,Misteph
 CharacterName,Nichaeltoy,Nichaeltoy
+CharacterName,Nihlus,
 CharacterName,Ninerma,Ninerma
 CharacterName,Ninhart,Ninhart
 CharacterName,Ninny,Ninny
 CharacterName,Nodin,Nodin
 CharacterName,Norbant,Norbant
+CharacterName,Nugget,
 CharacterName,Okennwood,Okennwood
 CharacterName,Ollac,Ollac
 CharacterName,Omdarro,Omdarro
 CharacterName,Orankin,Orankin
 CharacterName,Oscae,Oscae
 CharacterName,Paltrick,Paltrick
+CharacterName,Panderos,
 CharacterName,Pauwinner,Pauwinner
 CharacterName,Penevieve,Penevieve
 CharacterName,Perceval,Perceval
 CharacterName,Pinkerton,Pinkerton
+CharacterName,Pip,
 CharacterName,Plegg,Plegg
 CharacterName,Pleyson,Pleyson
 CharacterName,Pnerfa,Pnerfa
@@ -660,16 +914,26 @@ CharacterName,Rebenna,Rebenna
 CharacterName,Renorber,Renorber
 CharacterName,Rokiju,Rokiju
 CharacterName,Rupley,Rupley
+CharacterName,Rustbeard,
 CharacterName,Sarlia,Sarlia
+CharacterName,Scraps,
+CharacterName,Sentinel,
+CharacterName,Serathiel,
+CharacterName,Shadow,
 CharacterName,Shinaas,Shinaas
+CharacterName,Sissik,
+CharacterName,Skrix,
 CharacterName,Smither,Smither
+CharacterName,Sprocket,
 CharacterName,Stevere,Stevere
 CharacterName,Stewite,Stewite
 CharacterName,Sully,Sully
 CharacterName,Talon,Talon
 CharacterName,Tanyacka,Tanyacka
 CharacterName,Thakuline,Thakuline
+CharacterName,Thokk,
 CharacterName,Threepo,Threepo
+CharacterName,Tillie,
 CharacterName,Timonen,Timonen
 CharacterName,Trank,Trank
 CharacterName,Udfoot,Udfoot
@@ -677,7 +941,10 @@ CharacterName,Uffle,Uffle
 CharacterName,Ujopayne,Ujopayne
 CharacterName,Umazi,Umazi
 CharacterName,Urenval,Urenval
+CharacterName,Vaelithra,
+CharacterName,Valor,
 CharacterName,Valorn,Valorn
+CharacterName,Vashti,
 CharacterName,Vekincarc,Vekincarc
 CharacterName,Vidar,Vidar
 CharacterName,Vikethome,Vikethome
@@ -687,7 +954,9 @@ CharacterName,Wallison,Wallison
 CharacterName,Waltis,Waltis
 CharacterName,Walzen,Walzen
 CharacterName,Wendry,Wendry
+CharacterName,Wisp,
 CharacterName,Wollet,Wollet
+CharacterName,Wraith,
 CharacterName,Xamarin,Xamarin
 CharacterName,Xandries,Xandries
 CharacterName,Xank,Xank
@@ -699,6 +968,7 @@ CharacterName,Yassage,Yassage
 CharacterName,Yorque,Yorque
 CharacterName,Yral,Yral
 CharacterName,Yuvaloren,Yuvaloren
+CharacterName,Zathrik,
 CharacterName,Zean,Zean
 CharacterName,Zerbarry,Zerbarry
 CharacterName,Zimn,Zimn
@@ -709,16 +979,19 @@ ClassDescription,"Benevolent caretakers, always willing to lend a helping hand t
 ClassDescription,"Champions of the winter realms, fierce and proud. Hardy and strong, they will boldly face any challenger until they meet a glorious death.","A tél birodalmának heves és büszke bajnokai. Szívósak és erősek, bármilyen kihívóval bátran szembeszállnak, míg utol nem éri őket a dicső halál."
 ClassDescription,"Charming minstrels, making their way through the world with their songs and stories. They are jacks-of-all-trades; alongside their troubadour talents, they dabble in both martial skills and spellcraft.","Elbűvölő dalnokok, kik dalaikkal és történeteikkel járják be a nagyvilágot. Mindenhez értenek, énekesi tehetségük mellett a harcművészetben, és a varázslásban is egyaránt jártasak."
 ClassDescription,"Conductors of natural energies, these uniquely attuned spell casters derive their powers from the living world. Peaceful until threatened, they are unafraid to respond with animalistic savagery.","A természetes energiák használóiként ezen egyedi érzékekkel rendelkező varázslók az élővilágból szerzik erejüket. Alapvetően békések, viszont a fenyegetésre nem félnek állatias kegyetlenséggel válaszolni."
+ClassDescription,"Contract killers trained to strike once, from the dark, and vanish before the body is found. They favour poisoned steel over honest combat and trust no blade they have not sharpened themselves.",
 ClassDescription,"Corrupt and hateful souls, who are motivated by causing carnage and spreading chaos. Subject to uncontrollable bouts of rage, they bring doom and destruction to friend and foe alike.",Ezt a romlott és gyűlölködő lelket csak a vérengzés és a káosz motiválja. Irányíthatatlan dühkitörései pusztítást hoznak barát és ellenség számára egyaránt.
 ClassDescription,"Daft harlequins, always carrying a trick up their sleeves. Eclectic and eccentric; they are unassuming masters of chaos, adept in many bewildering talents.","Bolondos bohócok, akiknek mindig van egy-két trükk a tarsolyában. Ezen sokszínű különcök a káosz szerény mesterei, akik sok zavarba ejtő képességben birtokában vannak."
 ClassDescription,"Deft miscreants, conniving and quick with their wits. Through trial and error, they have learned that their best chance in avoiding the clutches of death is to stick to the shadows and outmanoeuvre their pursuers.","Elbűvölő és ügyes gazfickók, akiknek gyorsan vág az esze. A múlt tévedésein és megpróbáltatásain keresztül megtanulták, hogy üldözőik és a halál karmai közül csak az árnyékban megbújva menekülhetnek meg."
 ClassDescription,"Devoted to understanding the essence of magic and the marvel of engineering, these adept craftsman crave both knowledge and resources. Whether directed by madness or genius, they are a capable adversary and a tenacious survivor.","Hogy megértsék a varázslat esszenciáját és a mérnöki munka csodáit, ezek az ügyes mesteremberek szüntelenül a tudás és az erőforrások után sóvárognak. Irányítsa őket őrület vagy zsenialitás, méltó ellenfelei bárkinek és képesek a végsőkig küzdeni a túlélés érdekében."
 ClassDescription,Escaped criminals who have spent so much of their life incarcerated that any trace of who or what they once were has all but vanished.,"Szökött bűnözők, akik életük akkora hányadát töltötték bebörtönözve, hogy mára teljesen nyoma veszett korábbi énjüknek."
 ClassDescription,"Freebooting buccaneers, sailing the high seas and plundering many a merchant's vessel in their endless pursuit of riches and infamy. They are murderous cutthroats with little regard for anything but gold.","Tengeri rablók, akik a nyílt vízen hajózva fosztogatják kereskedők hajóit, hajthatatlanul hajhászva a gazdagságot és a hírnevet. Vérengző gyilkosok, akik az aranyon kívül másra nemigen vannak tekintettel."
+ClassDescription,"Grim oath-bound hunters who court death against the mightiest foes, undead and monstrous alike. What they lack in subtlety they make up for with unrelenting rage and a body built to shrug off ruin.",
 ClassDescription,"Happy-go-lucky travellers, committed to only the most authentic experiences. Quixotic and brave, they meticulously prepare with a wide variety of paraphernalia - yet remain ill-equipped for the perils they will soon face.","Életvidám utazók, akik csak a legautentikusabb élményeknek adják át magukat. Lovagiasak és bátrak, alaposan felkészülnek a legkülönfélébb kellékekkel - mégis, a most rájuk leselkedő veszélyekkel szemben ez vajmi keveset fog érni."
 ClassDescription,"Hidden agents, fleet-footed and schooled in many ancient arts of assassination. When all else fails, they are indubitably prepared to make swift escapes.","Fürge, rejtőzködő ügynökök, akik jártasak a merényletek ősi művészetében. Amikor minden más kudarcot vallott, nem restek gyorsan menekülőre fogni."
 ClassDescription,"Honourable warriors, who have dedicated their lives to an ancient code. Skilled in art of dual-wielding blades, they make fast work of their enemies.","Tiszteletreméltó harcosok, akik életüket egy ősi kódexnek szentelik. Mivel jártasak a kétkezes pengék használatában, gyorsan móresre tudják tanítani ellenségeiket."
 ClassDescription,"Keepers of cosmic secrets, who derive their sacred powers from the spirit realms hidden from mortal eyes. They are compelled by dark forces and are adept at bending the material world to their will.","Kozmikus titkok őrzői, akik szent erejüket a halandó szem elől rejtett szellembirodalmakból nyerik. Sötét erők hatása alatt állnak, és ügyesen alakítják az anyagi világot akaratuknak megfelelően."
+ClassDescription,"Keepers of old hexes and older grudges, more at home among gravestones and cauldrons than decent company. They do not hurl fire; they unmake their enemies' luck, strength and flesh by degrees.",
 ClassDescription,"Noble savages, hardened to battle by generations of survival in the unforgiving wilderness. They are not strangers to death's call; legends tell of their incredible strength and battle prowess with heavy weapons.","Nemes vademberek, akiket a kietlen pusztaság ellen vívott, generációkon át tartó küzdelem tett harcedzetté. Nem idegen számukra a halál hívása; legendák szólnak hihetetlen erejükről, és jártasságukról a nehéz fegyverek használatában."
 ClassDescription,"Obsessed with blurring the line between life and death, these meddlers of dark forces prefer to associate with cadavers over the living. To some, the rituals are grotesque, but they see pure majesty in the manipulation of the natural order.","A sötét erők ezen használói szívesebben érintkeznek a holtakkal, mint az élőkkel, köszönhetően annak, hogy megszállottan el szeretnék elhomályosítani az élet és halál közti határt. Egyesek számára rituáléik groteszknek hathatnak, viszont a szellemidézők a természet rendjének manipulálását fenségesnek találják."
 ClassDescription,"Pious scholars, oath-bound to their scripture. Although altruistic and good-natured, they are trained in martial arts so as to protect themselves and the canon they live by.","Jámbor tudósok, kiket eskü köt szentírásukhoz. Bár önzetlenek és jó természetűek, képzett harcművészek révén bármikor készek megvédeni magukat és az életük alapjául szolgáló kánont."
@@ -729,11 +1002,16 @@ ClassDescription,Questionably pious individuals from an ancient religious and mi
 ClassDescription,"Quintessential scientific researchers and dauntless historical investigators. Both brash and debonair, they seek out knowledge and accolades alike. They are curiously fond of whips and share a perplexing hatred towards serpents.","A tudományok és a történelem rettenthetetlen kutatói. Rámenősek, de udvariasak, akik egyaránt keresik a tudást és az elismerést. Kiváltképp kedvelik az ostort, és zsigeri gyűlöletet éreznek a kígyók iránt."
 ClassDescription,"Restless desperados, driven by wanderlust and troubled by the haunting memories of those they could not protect. They are sly masters of lead and steel, hellbent on redemption and retribution.","Kalandvágy vezérelte, nyughatatlan banditák, kiket a meg nem védettek emléke gyötör. Ólom és acél agyafúrt mesterei, életüket a megváltás és megtorlás iránti vágy hajtja."
 ClassDescription,"Righteous clergymen, dedicated to a life of sacrifice and spreading the word of their almighty deities. Well-versed in divine magic and the judicial delivery of violence to those deemed unworthy of salvation.","Igazságos egyházi személyek, kiknek léte sok áldozattal jár, és életüket mindenható istenségeik igéinek hirdetésére szentelték. Nem hozza őket zavarba az isteni mágia és az erőszak használata azokon, akiket méltatlannak tartanak az üdvösségre."
+ClassDescription,"Scholars who bound their fate to raw elemental force rather than the slower disciplines of wizardry. Fire and frost answer their call in equal measure, a duality most mages never dare attempt.",
+ClassDescription,"Self-taught chemists of the underworld, forever mixing, tasting and bottling the unknown. What they lack in swordsmanship they make up for with a satchel of volatile solutions and a hard-won immunity to their own mistakes.",
 ClassDescription,"Strongly built, tough and industrious workers who are more than capable in dangerous situations. Traditional practices and heavy tools are used to overcome obstacles in their pursuit of valuable gemstones.","Erősen testfelépítésének köszönhetően ez a szívós és szorgalmas munkás több mint alkalmas a veszélyes helyzetek kezelésére. Hagyományos módszerek és nehéz szerszámok segítenek neki leküzdeni az akadályokat, amik az értékes drágakövek üldözése közbe elé gördülnek."
 ClassDescription,"Sworn to uphold justice, these righteous warriors are dogmatic in pursuit of their sacred work. Classical martial skills are complemented by magical powers to protect the innocent and smite the wicked.","Ezek a harcosok ellentmondást nem tűrően végzik munkájukat, az igazság szolgálatára felesküdve. A klasszikus harci képességeket mágikus erővel egészítik ki, így lesújtva a gonoszra az ártatlanok védelmében."
 ClassDescription,"Venerable men-at-arms clad in gleaming armour, renowned for their unyielding chivalry and conviction. They are high-born and are educated to be strategists and capable leaders on any battlefront.","Tiszteletreméltó, csillogó páncélba öltözött fegyveresek, kik rendíthetetlen lovagiasságukról és elhivatottságukról híresek. Származásuk előkelő, képzésük célja az volt, hogy stratégákká és hozzáértő vezetőkké váljanak, akik bármilyen csatatéren megállják a helyüket."
 ClassDescription,"Warrior slaves compelled to battle for the entertainment of raucous crowds, often to the death. Those that can survive this cauldron are trained into the most brutal of pit fighters.","Harcos rabszolgák, akik kénytelenek gyakran halálig tartó küzdelembe bocsátkozni a lármás tömegek szórakoztatásáért. Azokat, akik képesek túlélni ezt a katlant, a legbrutálisabb harcosokká képezik ki."
 ClassDescription,"Wilderness sentinels who understand the true balance of the universe. With bow in hand, they have devoted their lives to protecting the forces of nature from the corrupting touch of civilisation.","A vadon őrszemei, akik megértik a világegyetem valódi egyensúlyát. Íjjal a kezükben, a természet erejét megrontó civilizáció elleni harcnak szentelték életüket."
+ClassName,apothecary//female,
+ClassName,apothecary//male,
+ClassName,apothecary//non-binary,
 ClassName,barbarian//female,barbár
 ClassName,barbarian//male,barbár
 ClassName,barbarian//non-binary,barbár
@@ -749,6 +1027,9 @@ ClassName,convict//non-binary,fegyenc
 ClassName,druid//female,druida
 ClassName,druid//male,druida
 ClassName,druid//non-binary,druida
+ClassName,elementalist//female,
+ClassName,elementalist//male,
+ClassName,elementalist//non-binary,
 ClassName,explorer//female,felfedező
 ClassName,explorer//male,felfedező
 ClassName,explorer//non-binary,felfedező
@@ -782,6 +1063,9 @@ ClassName,mystic//non-binary,misztikus
 ClassName,necromancer//female,szellemidéző
 ClassName,necromancer//male,szellemidéző
 ClassName,necromancer//non-binary,szellemidéző
+ClassName,nightblade//female,
+ClassName,nightblade//male,
+ClassName,nightblade//non-binary,
 ClassName,ninja//female,nindzsa
 ClassName,ninja//male,nindzsa
 ClassName,ninja//non-binary,nindzsa
@@ -809,6 +1093,9 @@ ClassName,samurai//non-binary,szamuráj
 ClassName,shaman//female,sámán
 ClassName,shaman//male,sámán
 ClassName,shaman//non-binary,sámán
+ClassName,slayer//female,
+ClassName,slayer//male,
+ClassName,slayer//non-binary,
 ClassName,templar//female,templomos
 ClassName,templar//male,templomos
 ClassName,templar//non-binary,templomos
@@ -821,18 +1108,26 @@ ClassName,tourist//non-binary,turista
 ClassName,valkyrie//female,valkűr
 ClassName,valkyrie//male,valkűr
 ClassName,valkyrie//non-binary,valkűr
+ClassName,witch//female,
+ClassName,witch//male,
+ClassName,witch//non-binary,
 ClassName,wizard//female,varázsló
 ClassName,wizard//male,varázsló
 ClassName,wizard//non-binary,varázsló
+CompanionName,almiraj,
+CompanionName,astral puppy,
 CompanionName,bird,madár
+CompanionName,blink puppy,
 CompanionName,cat,macska
 CompanionName,dog,kutya
 CompanionName,egg,tojás
 CompanionName,ghoul,gúl
+CompanionName,hamster,
 CompanionName,horse,ló
 CompanionName,imp,kis ördög
 CompanionName,monkey,majom
 CompanionName,rat,patkány
+CompanionName,raven,
 CounterName,afflictions,sújtások
 CounterName,animations,felélesztések
 CounterName,anoints,felszentelések
@@ -925,8 +1220,10 @@ DeviceName,fire trap,tűzcsapda
 DeviceName,grease trap,olajcsapda
 DeviceName,hallucination trap,hallucinációs csapda
 DeviceName,hole,lyuk
+DeviceName,humantrap,
 DeviceName,hunger trap,éhségcsapda
 DeviceName,ice trap,jégcsapda
+DeviceName,ink pool,
 DeviceName,level teleporter,szintteleportáló
 DeviceName,lightning trap,villámcsapda
 DeviceName,noxious pool,veszedelmes pocsolya
@@ -941,6 +1238,7 @@ DeviceName,sleeping gas trap,altatógáz-csapda
 DeviceName,spear trap,lándzsacsapda
 DeviceName,spiked pit,tüskés verem
 DeviceName,squeaky board,nyikorgó deszka
+DeviceName,statue trap,
 DeviceName,teleporter,teleport
 DeviceName,toxic trap,mérgcsapda
 DeviceName,trapdoor,csapóajtó
@@ -1007,15 +1305,68 @@ EncumbranceName,stressed,igénybevett
 EncumbranceName,unencumbered,tehermentes
 EngulfmentName,engulfed,elnyelte
 EngulfmentName,swallowed,lenyelte
+EntityDescription,"A blink dog pup, already able to flicker away from danger before it lands a bite.",
+EntityDescription,A bulbous fungus that bursts into a hissing cloud of acid when disturbed.,
+EntityDescription,"A cave bear whose pelt has gone grey as cinders, hardened by years sheltered in a live volcano's roots.",
+EntityDescription,"A cave spider drained of all colour by lightless generations, hunting by web-thrum alone.",
+EntityDescription,"A cobra pale as hoarfrost, coiled in the ice caves where warm-blooded prey seeks shelter.",
+EntityDescription,"A coyote with a static-charged coat, drawn down from the high plains after a lightning storm.",
+EntityDescription,"A dead tree animated by rot and old malice, its bark split open where a jaw shouldn't be.",
+EntityDescription,"A dragon steeped in high magic, said to hoard grimoires as jealously as gold.",
+EntityDescription,A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.,
+EntityDescription,A dwarf of a mountain clan so far north the forge-fires burn blue; one of its twin mattocks bites like the wind off the peak.,
+EntityDescription,A fey hound that flickers between here and elsewhere; it fights alongside anyone it trusts.,
+EntityDescription,"A giant bat with clouded, sightless eyes, navigating wholly by the shriek of its own echo.",
+EntityDescription,"A giant beetle with a carapace of blue-white chitin, breath steaming with cold in the deep dark.",
+EntityDescription,"A giant caked grey with volcanic ash, walking down from a smoking peak with a club still smoking at the tip.",
+EntityDescription,"A giant of the high glaciers, sheathed in rime; its breath alone can flash-freeze a puddle solid.",
+EntityDescription,"A gila monster whose beaded hide glows dull orange along the seams, as if lit from beneath.",
+EntityDescription,"A gnome who never left the deep tunnels, pale and stooped, at ease chewing through rock with a pickaxe.",
+EntityDescription,"A golem cast from bronze rather than raw iron; where its cousin only staggers under a lightning strike, this one drinks the current and spits it back.",
+EntityDescription,"A hound of the Astral plane, half-seen even when it stands still; it does not breathe or bleed.",
+EntityDescription,"A jackal wasted by sickness, its ribs showing through a mangy hide; its bite festers.",
+EntityDescription,A jelly black as a starless sky; things it touches for too long forget how alive they were.,
+EntityDescription,A jelly that glows faintly like a coal; fire only makes it swell larger and angrier.,
+EntityDescription,A jelly that reeks of rot; it dissolves flesh and gear alike to feed itself.,
+EntityDescription,"A jelly the colour of a bruise, faintly crackling; touching it feels like brushing a doorknob after crossing a carpet in winter.",
+EntityDescription,"A jelly the colour of glacier ice, cold to the touch and colder still if it touches back.",
+EntityDescription,"A kobold camouflaged in mottled green, more comfortable in the canopy than underground; it spits venom from a hollow reed.",
+EntityDescription,"A long worm that burrows through permafrost, its segmented hide crusted with rime.",
+EntityDescription,"A lynx with a rime-white winter coat, breath fogging even in a warm room.",
 EntityDescription,A medium-sized creature prone to great ambition. Short-lived but ubiquitous; they are not to be underestimated.,"Egy közepes méretű, nagy becsvágyra hajlamos lény. Élettartama rövid, de mindenütt előfordulhat; nem szabad alábecsülni."
+EntityDescription,"A panther whose black coat smoulders at the edges, leaving smoking pawprints on stone.",
+EntityDescription,"A plump waterfowl, unbothered by dungeons so long as there is a puddle nearby.",
+EntityDescription,"A pudding of black, viscid tar that oozes and smoulders at once; anything it swallows comes out cindered.",
+EntityDescription,"A raven with feathers like beaten iron, riding the thunderheads and stooping with a crack of static.",
+EntityDescription,"A rodent the size of a dog, cheek pouches bulging with whatever it last found on the floor.",
+EntityDescription,"A sewer rat gone pure white and pink-eyed, blind from generations in unlit tunnels.",
+EntityDescription,"A shade gone pale and crystalline, trailing frost wherever it drifts; the cold pours off it before it ever draws near.",
+EntityDescription,A shambling corpse wrapped in weeping buboes; the sickness that killed it did not stop working when it died.,
+EntityDescription,"A shark bred to lightless ocean trenches, its eyes filmed over and useless.",
+EntityDescription,"A skeleton picked clean by something worse than time; its bones are black at the joints, and its touch draws the warmth out of the living.",
+EntityDescription,A small heap of coins that isn't quite finished counting itself.,
+EntityDescription,"A small, quick-witted dragon out of the fey courts, more prankster than predator.",
+EntityDescription,"A spitting beetle whose glands have gone volcanic, hawking gobbets of burning pitch.",
+EntityDescription,"A standing wave of brackish swamp water, thick with algae and old poison; nothing in it is fresh, and nothing about touching it is safe.",
+EntityDescription,"A troll that wandered too near a volcano and came out the other side wrong: its hide is cracked magma-rock, glowing at every seam.",
+EntityDescription,"A water moccasin gone jet black, all but invisible against a night-flooded cave pool.",
+EntityDescription,"A weathered chest, until its lid splits open into a maw ringed with teeth.",
+EntityDescription,"A young astral dog, still learning to keep all four paws on the material plane at once.",
+EntityDescription,"A young mimic, its shapeshifting still crude — usually just a box that bites back.",
 EntityDescription,"Amorphous beings who have no typical shape but often take on a translucent humanoid form. While unmistakable for anything other than a plasma-like ooze, this form enables the use of clothing and tools.",
 EntityDescription,"An ancient race of towering recluses. Their terrifying size gives them immense strength, supplemented by a voracious diet of meats and minerals.","Toronymagas remeték ősi fajtája. Félelmetes méretük hatalmas erőt kölcsönöz nekik, amit kiegészít a húsokból és ásványi anyagokból álló, falánk étrendjük."
+EntityDescription,"An ape with a crackling, wire-taut hide, native to the thunderheads above the high peaks.",
+EntityDescription,"An elf of the sunlit dunes, skin bronzed and eyes narrowed; its arrows are fletched with fire-hardened reed and fly burning.",
+EntityDescription,"An ogre gone half-feral in the fens, its skin sallow and slick; its claws carry a rot no wound-dressing can clean.",
+EntityDescription,An orc mummy exhumed from a barrow sealed under a cinder-field; its wrappings are charred and its grip sears whatever it holds.,
+EntityDescription,"An orc that has made its home in the marshlands, its blade notched and slicked with venom drawn from swamp adders.",
 EntityDescription,"Astral beings who are a vessel for the indomitable spirit of a vanquished adventurer. Having no motivations of their own, they are glad to permit the possession; for the deceased adventurer, it is a second chance at revenge or redemption. Born from astral matter, they are slightly built, translucent and can move freely through physical obstacles.","Asztrális lények, akik egy legyőzött kalandor rettenthetetlen szellemének hordozói. Saját indíttatás híján örömmel ajánlják fel a testük feletti uralmat másoknak, így helyezve az elhunyt kalandor kezébe a bosszú vagy a megváltás második esélyét. Asztrális anyagból születtek, termetük vékony. Áttetszők és képesek szabadon áthaladni bármilyen fizikai akadályon."
 EntityDescription,"Beautiful, otherworldly beings characterised by their signature halo and feathered wings. Strongly attuned to the struggle between good and evil, they sense the divinity within anything they hold.","Gyönyörű, nem e világi lények, kik jellemző glóriával és tollakkal borított szárnyaikkal rendelkeznek. Ezek a lények erősen ráhangolódtak a jó és a gonosz közötti szüntelen harcra, és emiatt képesek érzékelni az üdvösséget bármiben, ami csak a kezük ügyébe kerül."
 EntityDescription,Beware this clockwork machine of war.,Óvakodj ettől a kíméletlen halálosztótól.
 EntityDescription,Bipedal mechanical automatons with nearly unbounded artificial intelligence. Powered by a molten core engine that requires a constant supply of raw metals and is susceptible to water damage.,
 EntityDescription,"Fey creatures linked by powerful nature spirits to fuel their antics. They are stocky with furry lower bodies, cloven hooves of a goat and curled horns of a ram. Ribald and clever, they cheerfully lead hedonistic escapades of drinking, dancing and fighting.","Túlvilági lények, kiket erőteljes természeti szellemek kötnek össze, hogy hóbortjaikat táplálják. Zömök, szőrös alsó testtel, a kecskééhez hasonló patával és a kosokra jellemző csavart szarvval rendelkeznek. Trágár és okos lények, akik vidám vezérei az ivás, a tánc és a harc hedonista kalandjainak."
 EntityDescription,"Imposing and heavily built, they resemble humanoid dragons with a snout, scaly hide and functional wings.",
+EntityDescription,"It waits among the headstones shaped like one more grave marker, patient as the dead around it.",
 EntityDescription,"Large, omnivorous reptilians whose bestial ancestors dominated the world long before the birth of civilisation. They are fearsome predators, capable of leaping impressive distances and warding off many attacks with their thick scaly hides.","Nagy, húsevő hüllők, kiknek vad ősei már jóval a civilizáció születése előtt uralták a világot. Félelmetes ragadozók, akik képesek lenyűgöző távolságokra ugrani, valamint vastag és pikkelyes bőrükkel támadások sokaságát elhárítani."
 EntityDescription,Monstrous creatures with the head and tail of a bull and the body of a man.,
 EntityDescription,"Perverse creatures of many aberrations but always with crimson skin and horns. Their mere presence compels others to act out their darkest, most violent desires.","Perverz, aberrált, bíborszín bőrű, fejükön szarvakat viselő lények. Puszta jelenlétük arra kényszeríti a körülöttük lévőket, hogy legsötétebb és legerőszakosabb vágyaiknak tegyenek eleget."
@@ -1033,7 +1384,11 @@ EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.","Ronda, érzéketlen lények, kannibál hajlamokkal; ez a harcias faj lenyűgöző erejéről és visszamaradott szellemi képességeiről ismert."
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.",
 EntityName,abbot,apát
+EntityName,abyssal shark,
 EntityName,acid blob,savas paca
+EntityName,acid elemental,
+EntityName,acid sphere,
+EntityName,acid spore,
 EntityName,acid worm,savas féreg
 EntityName,acolyte,ministráns
 EntityName,adamantine golem,
@@ -1049,8 +1404,15 @@ EntityName,adult shimmering dragon,kifejlett csillogósárkány
 EntityName,adult silver dragon,kifejlett ezüstsárkány
 EntityName,adult white dragon,kifejlett fehérsárkány
 EntityName,adult yellow dragon,kifejlett sárgasárkány
+EntityName,air binder,
 EntityName,air elemental,légelementál
+EntityName,air maker,
+EntityName,air seeker,
+EntityName,air sphere,
+EntityName,albino rat,
+EntityName,alchemist,
 EntityName,Aleax,Aleax
+EntityName,almiraj,
 EntityName,ancient black dragon,ősöreg feketesárkány
 EntityName,ancient blue dragon,ősöreg kéksárkány
 EntityName,ancient deep dragon,ősöreg lilasárkány
@@ -1063,6 +1425,7 @@ EntityName,ancient silver dragon,ősöreg ezüstsárkány
 EntityName,ancient white dragon,ősöreg fehérsárkány
 EntityName,ancient yellow dragon,ősöreg sárgasárkány
 EntityName,angel,angyal
+EntityName,angel warrior,
 EntityName,animate object,felélesztett tárgy
 EntityName,ape,majom
 EntityName,Aphrodite,Afrodité
@@ -1070,17 +1433,30 @@ EntityName,apprentice,tanonc
 EntityName,arc bug,íveshátú bogár
 EntityName,arch-lich,lícs vezető
 EntityName,archangel,arkangyal
+EntityName,archeologist,
 EntityName,Archmage Dirachi,Fő Jégmágus
 EntityName,Archmage Flaynn,Fő Lángmágus
 EntityName,archon,arkhón
 EntityName,Archpriest Avvakrum,Főpap
+EntityName,army captain,
+EntityName,army lieutenant,
+EntityName,army sergeant,
+EntityName,army soldier,
 EntityName,artisan,iparos
+EntityName,ash elemental,
+EntityName,ash giant,
+EntityName,ashen cave bear,
+EntityName,ashen mummy,
 EntityName,Ashikaga Takauji,Asikaga Takaudzsi
 EntityName,Asmodeus,Asmodeus
 EntityName,asphynx,asphynx
+EntityName,assassin,
 EntityName,assassin bug,orgyilkos bogár
 EntityName,Assassin Mortimer,Orgyilkos Mester
 EntityName,astral deva,asztrál déva
+EntityName,astral dog,
+EntityName,astral dragon,
+EntityName,astral puppy,
 EntityName,athol,ahool
 EntityName,attendant,kísérő
 EntityName,Baalzebub,Belzebub
@@ -1092,6 +1468,7 @@ EntityName,baby deep dragon,lilasárkány-bébi
 EntityName,baby gold dragon,arany sárkány-bébi
 EntityName,baby green dragon,zöldsárkány-bébi
 EntityName,baby long worm,bébi galandféreg
+EntityName,baby mimic,
 EntityName,baby orange dragon,narancssárgasárkány-bébi
 EntityName,baby purple worm,bébi óriásféreg
 EntityName,baby red dragon,vörössárkány-bébi
@@ -1111,8 +1488,10 @@ EntityName,basilisk,baziliszkus
 EntityName,bat,denevér
 EntityName,bearded devil,szakállas ördög
 EntityName,beholder,szemlélő
+EntityName,berserker,
 EntityName,bile worm,epeféreg
 EntityName,bile worm tail,epeféregfarok
+EntityName,bishop,
 EntityName,black light,fekete fény
 EntityName,black marketeer,zugárus
 EntityName,black mould,feketepenész
@@ -1123,26 +1502,37 @@ EntityName,black rat,fekete patkány
 EntityName,black troll,fekete troll
 EntityName,black unicorn,fekete unikornis
 EntityName,black wasp,fekete darázs
+EntityName,blind cave bat,
+EntityName,blink dog,
+EntityName,blink puppy,
 EntityName,blinking eye,pislogó szem
 EntityName,blood imp,vér kis ördög
 EntityName,bloodshot eye,bevérzett szem
 EntityName,bloodworm,vérféreg
 EntityName,blue jelly,kéknyálka
 EntityName,blue light,
+EntityName,bog ogre,
 EntityName,bone devil,csontördög
+EntityName,bone reaper,
+EntityName,brine elemental,
+EntityName,bronze golem,
 EntityName,brown mould,barnapenész
 EntityName,brown pudding,barnapuding
 EntityName,brownie,tündérke
 EntityName,bugbear,mumus
 EntityName,bull,bika
+EntityName,buraq,
 EntityName,burbling blob,morgó paca
+EntityName,bushi,
 EntityName,byakhee,byakhee
+EntityName,Byakko,
 EntityName,captain,kapitány
 EntityName,carnivorous ape,húsevő majom
 EntityName,carrion crawler,dögféreg
 EntityName,caterwaul,nyávogó
 EntityName,catoblepas,catoblepas
 EntityName,cave bear,barlangi medve
+EntityName,cave gnome,
 EntityName,cave spider,barlangi pók
 EntityName,cave troll,barlangi troll
 EntityName,centipede,százlábú
@@ -1151,6 +1541,7 @@ EntityName,chameleon,kaméleon
 EntityName,changeling,elcserélt gyermek
 EntityName,Charon,Kharón
 EntityName,chasme,kazma
+EntityName,cherubim,
 EntityName,chickatrice,chickatrice
 EntityName,chicken,csirke
 EntityName,chief yeoman warder,felügyelőfőnök
@@ -1170,6 +1561,7 @@ EntityName,crocodile,krokodil
 EntityName,Croesus,Kroiszosz
 EntityName,crystal golem,kristálygólem
 EntityName,Cthulhu,Cthulhu
+EntityName,cyan jelly,
 EntityName,cyclops,küklopsz
 EntityName,dao,dao
 EntityName,dark cleric,sötét pap
@@ -1201,7 +1593,12 @@ EntityName,dracon,
 EntityName,dragon king,sárkánykirály
 EntityName,dretch,dretch
 EntityName,drow,sötét elf
+EntityName,drow mage,
+EntityName,drow monk,
+EntityName,drow priestess,
+EntityName,drow thief,
 EntityName,dryad,driád
+EntityName,duck,
 EntityName,duergar,dérbőrű
 EntityName,dung worm,ganajféreg
 EntityName,dust vortex,homokörvény
@@ -1220,6 +1617,7 @@ EntityName,earth seeker,földkutató
 EntityName,earth sphere,földgömb
 EntityName,echo,ekhó
 EntityName,efreeti,efrít
+EntityName,elder wizard,
 EntityName,electric eel,elektromos angolna
 EntityName,elephant,elefánt
 EntityName,elf,elf
@@ -1229,16 +1627,24 @@ EntityName,elf mummy,elfmúmia
 EntityName,elf zombie,zombielf
 EntityName,Elwing,Elwing
 EntityName,embalmer,balzsamozó
+EntityName,ember panther,
+EntityName,ember spitting beetle,
 EntityName,emerald golem,
+EntityName,energy elemental,
 EntityName,energy vortex,energiaörvény
 EntityName,erinys,erinyes
+EntityName,eshim,
 EntityName,ettin,kétfejű
 EntityName,ettin mummy,kétfejű múmia
 EntityName,ettin zombie,zombikétfejű
+EntityName,explosive elemental,
+EntityName,explosive sphere,
 EntityName,exterminator,kivégző
+EntityName,fae dragon,
 EntityName,fairy,tündér
 EntityName,Famine,Famine
 EntityName,Father Dagon,Dagon Apa
+EntityName,female demon,
 EntityName,fiend,ördög
 EntityName,fire ant,tűzhangya
 EntityName,fire elemental,tűzelementál
@@ -1257,16 +1663,24 @@ EntityName,fog cloud,füstfelhő
 EntityName,forest centaur,erdei kentaur
 EntityName,fox,róka
 EntityName,Frankenstein's Monster,Frankenstein szörnye
+EntityName,frost beetle,
 EntityName,frost binder,jégbűbájos
+EntityName,frost cobra,
+EntityName,frost dwarf,
 EntityName,frost giant,jégóriás
+EntityName,frost long worm,
+EntityName,frost lynx,
 EntityName,frost maker,jégmágus
 EntityName,frost seeker,jégkutató
 EntityName,frost sphere,dermesztő gömb
+EntityName,frost wraith,
+EntityName,galgalim,
 EntityName,gargoyle,vízköpő
 EntityName,garter snake,szalagoskígyó
 EntityName,gas spore,spóra
 EntityName,gecko,gekkó
 EntityName,gelatinous cube,zselékocka
+EntityName,General Breetai,
 EntityName,genetic engineer,genetikus
 EntityName,Geryon,Geryon
 EntityName,ghast,ghast
@@ -1284,6 +1698,7 @@ EntityName,giant crab,óriásrák
 EntityName,giant eel,óriásangolna
 EntityName,giant flea,óriásbolha
 EntityName,giant frog,óriásbéka
+EntityName,giant hamster,
 EntityName,giant king,óriáskirály
 EntityName,giant louse,óriástetű
 EntityName,giant mimic,óriásmímelő
@@ -1297,6 +1712,7 @@ EntityName,giant termite,óriástermesz
 EntityName,giant tick,óriásatka
 EntityName,giant wasp,óriásdarázs
 EntityName,giant zombie,zombióriás
+EntityName,Gianta Klaus,
 EntityName,gibberling,gibberling
 EntityName,gila monster,gila
 EntityName,Girtab,Girtab
@@ -1321,8 +1737,10 @@ EntityName,goblin king,goblinkirály
 EntityName,gold golem,aranygólem
 EntityName,golden naga,aranynaga
 EntityName,golden naga hatchling,aranynaga-fióka
+EntityName,grave mimic,
 EntityName,great orc,nagy ork
 EntityName,green elf,zöld elf
+EntityName,green jelly,
 EntityName,green mould,zöldpenész
 EntityName,green slime,zöld paca
 EntityName,gremlin,gremlin
@@ -1338,7 +1756,10 @@ EntityName,guide,idegenvezető
 EntityName,Guildmaster Vaughn,Tolvajok Mestere
 EntityName,Guru Quilion,Nagymester
 EntityName,gypsy,cigány
+EntityName,hag,
 EntityName,halfling,félszerzet
+EntityName,halfling female caveman,
+EntityName,halfling male caveman,
 EntityName,harpy,hárpia
 EntityName,hell hound,pokolkutya
 EntityName,hell hound pup,pokolkutyakölyök
@@ -1363,9 +1784,11 @@ EntityName,human,ember
 EntityName,human king,emberkirály
 EntityName,human mummy,embermúmia
 EntityName,human zombie,zombiember
+EntityName,huntress,
 EntityName,hydra,hidra
 EntityName,ice devil,jégördög
 EntityName,ice elemental,jégelementál
+EntityName,ice giant,
 EntityName,ice troll,jégtroll
 EntityName,ice vortex,jégörvény
 EntityName,iguana,iguána
@@ -1381,8 +1804,10 @@ EntityName,jackalwere,sakálfajzat
 EntityName,jaguar,jaguár
 EntityName,jellyfish,medúza
 EntityName,jiggling blob,ugráló paca
+EntityName,journeyman wizard,
 EntityName,juggernaut,buldózer
 EntityName,Juiblex,Juiblex
+EntityName,jungle kobold,
 EntityName,juvenile raven,fiatal holló
 EntityName,Kaloi Thrym,Sötét Úr
 EntityName,kamadan,kamadan
@@ -1408,6 +1833,7 @@ EntityName,kobold warrior,koboldharcos
 EntityName,kobold zombie,zombikobold
 EntityName,komodo dragon,komodói varánusz
 EntityName,kraken,kraken
+EntityName,Krull,
 EntityName,lamb,bárány
 EntityName,Lareth,Lareth
 EntityName,large cat,nagy macska
@@ -1418,6 +1844,7 @@ EntityName,large mimic,nagy mímelő
 EntityName,large pile of killer coins,egy nagy halom gyilkos érme
 EntityName,larva,lárva
 EntityName,lava blob,lávapaca
+EntityName,lava troll,
 EntityName,leather golem,bőrgólem
 EntityName,lemure,kárhozott
 EntityName,leocrotta,leocrotta
@@ -1434,6 +1861,7 @@ EntityName,lizardman,gyíkember
 EntityName,lizardman berserker,gyíkemberberzerker
 EntityName,lizardman chieftain,gyíkembertörzsfőnök
 EntityName,lizardman mage,gyíkermbermágus
+EntityName,lizardman samurai,
 EntityName,lizardman shaman,gyíkembersámán
 EntityName,lizardman warrior,gyíkemberharcos
 EntityName,Lolth,Lolth
@@ -1456,18 +1884,24 @@ EntityName,master mind flayer,illithid mester
 EntityName,mastodon,masztodon
 EntityName,Maugneshaagar,Maugneshaagar
 EntityName,medusa,medúza
+EntityName,melanistic moccasin,
 EntityName,mellified man,
 EntityName,merchant,kereskedő
+EntityName,Merdude,
 EntityName,Metamorphius,Alakváltó Mester
+EntityName,midnight jelly,
 EntityName,migo drone,mi-go here
 EntityName,migo queen,mi-go királynő
 EntityName,migo warrior,mi-go harcos
+EntityName,mimic,
+EntityName,mimic coins,
 EntityName,mind flayer,illithid
 EntityName,minotaur,minotaurusz
 EntityName,minotaur lord,
 EntityName,mist wolf,ködfarkas
 EntityName,mithril golem,mithrilgólem
 EntityName,mobat,mobat
+EntityName,molten gila monster,
 EntityName,monadic deva,monadikus déva
 EntityName,mongbat,mongbat
 EntityName,monkey,majom
@@ -1478,6 +1912,7 @@ EntityName,mountain nymph,hegyi nimfa
 EntityName,movanic deva,movanikus déva
 EntityName,mugger,rabló
 EntityName,mumak,mumak
+EntityName,mystical dragon,
 EntityName,nabassu,nabassu
 EntityName,nalfeshnee,nalfeshnee
 EntityName,Nalzok,Nalzok
@@ -1488,9 +1923,12 @@ EntityName,newt,gőte
 EntityName,nickelpede,nikkellábú
 EntityName,nightgaunt,éji huhogány
 EntityName,nightmare,rémparipa
+EntityName,noble elf,
 EntityName,Norn,Norn
+EntityName,nun,
 EntityName,nupperibo,nupperibo
 EntityName,nurse,ápoló
+EntityName,Nymph Princess,
 EntityName,occultist,okkultista
 EntityName,ochre jelly,okkersárga nyálka
 EntityName,ogre,ogre
@@ -1507,6 +1945,7 @@ EntityName,orc grunt,orkgyalogos
 EntityName,orc king,orkkirály
 EntityName,orc mummy,orkmúmia
 EntityName,orc shaman,orksámán
+EntityName,orc thief,
 EntityName,orc warrior,orkharcos
 EntityName,orc zombie,zombiork
 EntityName,Orcus,Orcus
@@ -1514,6 +1953,7 @@ EntityName,Orion,Orion
 EntityName,owlbear,bagolymedve
 EntityName,pack rat,bozótpatkány
 EntityName,page,apród
+EntityName,pale cave spider,
 EntityName,panther,párduc
 EntityName,pantherwere,párducfajzat
 EntityName,paper golem,papírgólem
@@ -1524,6 +1964,10 @@ EntityName,Pelias,Pelias
 EntityName,Pestilence,Pestilence
 EntityName,phase spider,térugró pók
 EntityName,phase worm,térugró féreg
+EntityName,pheral khit,
+EntityName,pheral pharaoh,
+EntityName,pheral sentinel,
+EntityName,pheral vizier,
 EntityName,pig,disznó
 EntityName,pile of killer coins,egy halom gyilkos érme
 EntityName,piranha,pirája
@@ -1531,10 +1975,13 @@ EntityName,pit bull,pitbull
 EntityName,pit fiend,veremlakó
 EntityName,pit viper,mangrovevipera
 EntityName,pixie,manó
+EntityName,plague jackal,
+EntityName,plague zombie,
 EntityName,plains centaur,alföldi kentaur
 EntityName,Planetar,Plantear
 EntityName,plasmoid,
 EntityName,plastic golem,műanyaggólem
+EntityName,poison alchemist,
 EntityName,pony,póni
 EntityName,proudfoot,büszkeláb
 EntityName,purple worm,óriásféreg
@@ -1554,6 +2001,7 @@ EntityName,rancid jelly,avas nyálka
 EntityName,rat king,patkánykirály
 EntityName,ratwere,patkányfajzat
 EntityName,recluse spider,remetepók
+EntityName,red jelly,
 EntityName,red light,
 EntityName,red mould,vöröspenész
 EntityName,red naga,vörösnaga
@@ -1561,6 +2009,10 @@ EntityName,red naga hatchling,vörösnaga-fióka
 EntityName,rhaumbusun,rhaumbusun
 EntityName,rhumbat,rhumbat
 EntityName,robot,
+EntityName,robot female,
+EntityName,robot male vampire gunslinger,
+EntityName,robot sentry,
+EntityName,robot singer,
 EntityName,rock kobold,kőkobold
 EntityName,rock mole,kőzetvakond
 EntityName,rock piercer,kőfúró
@@ -1570,6 +2022,7 @@ EntityName,roshi,mester
 EntityName,rot worm,rothadó féreg
 EntityName,rothé,rothé
 EntityName,ruby golem,rubintgólem
+EntityName,runicorn,
 EntityName,rust monster,rozsdaszörny
 EntityName,rutterkin,rutterkin
 EntityName,sabre-toothed cat,kardfogú tigris
@@ -1578,10 +2031,13 @@ EntityName,sandestin,sandestin
 EntityName,sapphire golem,zafírgólem
 EntityName,sasquatch,sasquatch
 EntityName,satyr,szatír
+EntityName,savage brute,
+EntityName,savage stalker,
 EntityName,scorpion,skorpió
 EntityName,Scorpius,Scorpius
 EntityName,scramper,scramper
 EntityName,seal,
+EntityName,seraphim,
 EntityName,sergeant,őrmester
 EntityName,sewer rat,csatornapatkány
 EntityName,shade,árny
@@ -1589,6 +2045,7 @@ EntityName,shadow,árnyék
 EntityName,shadow ogre,árnyékogre
 EntityName,shadow wolf,árnyékfarkas
 EntityName,Shaman Karnov,Karnov Sámán
+EntityName,shaolin monk,
 EntityName,shark,cápa
 EntityName,sheep,birka
 EntityName,shifter,alakváltó
@@ -1599,6 +2056,7 @@ EntityName,shock seeker,sokk-kutató
 EntityName,shock sphere,sokkoló gömb
 EntityName,shoggoth,shoggoth
 EntityName,shrieker,sikoltó gomba
+EntityName,silver golem,
 EntityName,Sir Lorimar,Sir Lorimar
 EntityName,skeleton,csontváz
 EntityName,small mimic,kis mímelő
@@ -1610,6 +2068,9 @@ EntityName,snow orc,hóork
 EntityName,Solar,Szolár
 EntityName,soldier,katona
 EntityName,soldier ant,katona hangya
+EntityName,sonic elemental,
+EntityName,sonic sphere,
+EntityName,Soul Summoner,
 EntityName,spark bug,csillogó bogár
 EntityName,spider queen,pókkirálynő
 EntityName,spiderwere,pókfajzat
@@ -1623,24 +2084,36 @@ EntityName,static blob,statikus paca
 EntityName,steam vortex,gőzörvény
 EntityName,stone giant,kőóriás
 EntityName,stone golem,kőgólem
+EntityName,storm ape,
+EntityName,storm coyote,
 EntityName,storm giant,viharóriás
+EntityName,storm raven,
 EntityName,straw golem,szalmagólem
 EntityName,student,tanuló
 EntityName,succubus,succubus
+EntityName,sun elf,
 EntityName,swamp kobold,mocsári kobold
+EntityName,swamp orc,
+EntityName,tar pudding,
+EntityName,tempter,
+EntityName,temptress,
 EntityName,tengu,tengu
+EntityName,thief,
 EntityName,Thorin,Thorin
 EntityName,Thoth Amon,Thoth Amon
 EntityName,thug,bandita
 EntityName,tiger,tigris
 EntityName,tigerwere,tigrisfajzat
+EntityName,tin golem,
 EntityName,titan,titán
 EntityName,titanothere,megacerops
 EntityName,topaz golem,
 EntityName,tortle,
 EntityName,tracker,vadász
+EntityName,trader,
 EntityName,transmuter,átalakító
 EntityName,trapper,csapdázó
+EntityName,traveller,
 EntityName,treant,treant
 EntityName,troll,troll
 EntityName,troll mummy,trollmúmia
@@ -1658,6 +2131,7 @@ EntityName,vampire mage,vámpírmágus
 EntityName,Van Helsing,Van Helsing
 EntityName,Vecna,Vecna
 EntityName,violet fungus,ibolya gomba
+EntityName,violet jelly,
 EntityName,vorpal jabberwock,vorpal-szajkóhukk
 EntityName,vrock,verok
 EntityName,war orc,csataork
@@ -1687,6 +2161,7 @@ EntityName,weretiger,vértigris
 EntityName,werewolf,vérfarkas
 EntityName,white unicorn,fehér unikornis
 EntityName,wight,rém
+EntityName,wind sphere,
 EntityName,winged gargoyle,szárnyas vízköpő
 EntityName,winter wolf,dérfarkas
 EntityName,winter wolf cub,dérfarkaskölyök
@@ -1722,6 +2197,7 @@ EntityName,young shimmering dragon,fiatal csillogósárkány
 EntityName,young silver dragon,fiatal ezüstsárkány
 EntityName,young white dragon,fiatal fehérsárkány
 EntityName,young yellow dragon,fiatal sárgasárkány
+EntityName,zombietree,
 EntityName,zruty,zruty
 EquipAction,employ,használ
 EquipAction,purse,összeszed
@@ -1763,9 +2239,15 @@ FeatureName,bed,ágy
 FeatureName,fountain,forrás
 FeatureName,grave,sír
 FeatureName,pentagram,pentagram
+FeatureName,pyramid,
 FeatureName,sarcophagus,szarkofág
+FeatureName,sink,
 FeatureName,stall,istálló
 FeatureName,throne,trón
+FeatureName,toilet,
+FeatureName,wooden sign,
+FeatureName,wooden stool,
+FeatureName,wooden table,
 FeatureName,workbench,munkapad
 FormatText,{ActionCount} action,{ActionCount} cselekvés
 FormatText,{ActionCount} actions,{ActionCount} cselekvés
@@ -2056,13 +2538,17 @@ GradeName,exotic,
 GradeName,standard,
 GroundDescription,The cool stone surface has immaculate craftsmanship but is marked by damage and time.,"Ez a kőfelület igazi, makulátlan mestermunka, annak ellenére, hogy az idő vasfogának nyomát hordozza magán."
 GroundName,cave floor,
+GroundName,cave path,
 GroundName,chasm,üresség
+GroundName,cloud,
+GroundName,deep water,
 GroundName,dirt,földpadló
 GroundName,gold floor,
 GroundName,granite floor,
 GroundName,grass,fű
 GroundName,hive floor,kaptárpadló
 GroundName,ice,jég
+GroundName,lattice floor,
 GroundName,lava,láva
 GroundName,marble floor,márványpadló
 GroundName,metal floor,fémpadló
@@ -2070,33 +2556,51 @@ GroundName,moss,moha
 GroundName,obsidian floor,obszidiánpadló
 GroundName,sand,homok
 GroundName,sewer floor,
+GroundName,shallow water,
 GroundName,snow,
 GroundName,stone floor,kőpadló
 GroundName,stone path,kőfolyosó
 GroundName,water,víz
 GroundName,wooden floor,fapadló
+HordeName,acid foundry,
+HordeName,air foundry,
+HordeName,albino rat,
+HordeName,angelic choir,
 HordeName,ant,hangya
 HordeName,ape,majom
+HordeName,army patrol,
+HordeName,army platoon,
+HordeName,army squad,
+HordeName,ash foundry,
+HordeName,astral dog,
 HordeName,bat,denevér
 HordeName,bee,méhkas
 HordeName,beetle,
+HordeName,blink dog,
+HordeName,brine foundry,
 HordeName,cockroach,csótány
 HordeName,couatl,tollaskígyó
 HordeName,coyote,prérifarkas
 HordeName,demon,démon
 HordeName,drow,sötét elf
+HordeName,drow enclave,
 HordeName,dwarf,törp
 HordeName,electric bug,elektromos bogár
 HordeName,elf,elf
+HordeName,energy foundry,
+HordeName,explosive foundry,
 HordeName,flea,bolha
 HordeName,garter snake,szalagoskígyó
 HordeName,gibberling,gibberling
 HordeName,gnome,gnóm
 HordeName,goblin,goblin
+HordeName,golem workshop,
 HordeName,grimlock,grimlock
 HordeName,harpy,hárpia
+HordeName,heavenly host,
 HordeName,hell hound,pokolkutya
 HordeName,jackal,sakál
+HordeName,jelly cistern,
 HordeName,keystone,rendőr
 HordeName,kobold,kobold
 HordeName,lemure,kárhozott
@@ -2105,14 +2609,20 @@ HordeName,louse,tetű
 HordeName,mane,mane
 HordeName,mangler,marcangoló
 HordeName,migo,mi-go
+HordeName,mimic nest,
 HordeName,mould,penész
 HordeName,ogre,ogre
 HordeName,orc,ork
+HordeName,pheral tomb,
+HordeName,plague jackal,
 HordeName,rat,patkány
 HordeName,rothé,rothé
 HordeName,scorpion,
+HordeName,sonic foundry,
 HordeName,spider,pók
 HordeName,spore,spóra
+HordeName,storm coyote,
+HordeName,tar pudding,
 HordeName,termite,termesz
 HordeName,tick,atka
 HordeName,tsetse fly,cecelégy
@@ -2124,15 +2634,36 @@ HordeName,wolf,farkas
 HordeName,worm,féreg
 HordeName,yeoman,felgyügyelő
 HordeName,zombie,zombi
+ItemDescription,"A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.",
+ItemDescription,"A barbed iron hook on a long coil of rope, thrown out and hauled back in.",
+ItemDescription,"A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.",
+ItemDescription,"A branched silver candle-holder, its every arm lit at once.",
+ItemDescription,"A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.",
+ItemDescription,"A canvas roll of bandages, salves and sutures for treating wounds in the field.",
+ItemDescription,"A ceremonial double-bitted axe, its twin blades curved like a crescent moon.",
+ItemDescription,"A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.",
+ItemDescription,"A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.",
 ItemDescription,A cloth mask that completely obstructs the wearer's vision.,"Egy szövetmaszk, amely teljesen megakadályozza viselőjét a látásban."
 ItemDescription,"A collection of utensils, including empty tins and butchering tools, for packing corpses so as to condense them.","A tetemek tömörítéséhez használt eszközök gyűjteménye, ideértve az üres konzervdobozokat és a henteseszközöket."
 ItemDescription,A compact hand-held firearm.,Egy kompakt kézi lőfegyver.
+ItemDescription,"A crudely hammered throwing disc with a jagged, uneven rim, more likely to tear than to cut cleanly.",
+ItemDescription,"A curved funerary blade inlaid with gold, once carried by a pharaonic guardian charged with keeping the dead in their tombs.",
+ItemDescription,"A curved single-edged blade mounted on a long oaken shaft, prized by the warrior monks of the far east.",
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.","Egy, a lovasság által gyakran használt, ívelt, egyélű penge, amely különösen hatékony az alvilág lényei ellen."
 ItemDescription,A curved single-edged blade often used by cavalry.,
 ItemDescription,A curved yellow fruit and a great source of fibre.,"Egy ívelt alakú, rostokban gazdag sárga gyümölcs."
+ItemDescription,A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.,
+ItemDescription,A fine-grained stone for putting an edge back on a tired blade.,
+ItemDescription,"A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.",
+ItemDescription,A flat black stone used since antiquity to tell real gemstones from paste and glass.,
+ItemDescription,A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.,
 ItemDescription,"A flat throwing weapon made of wood, often used for hunting.","Fából készült, lapos dobófegyver, amelyet gyakran vadászatra használnak."
 ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.","Egy lapos, kerek étel, amit - magától értetődően - serpenyőben készítenek."
+ItemDescription,"A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.",
 ItemDescription,A foreign device which creates perfect visual depictions of reality.,"Egy idegen eszköz, amely tökéletes képet ad a valóságról."
+ItemDescription,"A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.",
+ItemDescription,"A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.",
+ItemDescription,"A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.",
 ItemDescription,A hand-held brass horn.,Egy kézi rézkürt.
 ItemDescription,"A hard rock, smooth and therefore aerodynamic.","Egy kemény kő, amely simaságából adódóan aerodinamikus."
 ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,"Egy igénytelen, keményfa-bot, amely hozzáértő kezekben félelmetes fegyverré válik."
@@ -2140,10 +2671,16 @@ ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.","Egy
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.","Egy nehéz és hosszú kétélű penge, melyet a hosszúkardhoz hasnolóan, kifejezetten kétkezes használatra méreteztek."
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,"Egy erős, kifejezetten közelharci használatra tervezett vaskalapács."
 ItemDescription,A heavy suit of armour made up of many strips of metal.,"Nehéz, sok fémsávból álló páncélruha."
+ItemDescription,"A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.",
 ItemDescription,"A horizontal, mechanically-aided bow and arrow with a shoulder stock.","Vízszintes, mechanikusan segített íj, válltámasszal."
 ItemDescription,A key designed to open all mundane locks.,Szokványos zárak kinyitására tervezett kulcs.
+ItemDescription,"A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.",
 ItemDescription,"A leather pouch set between two cords, meant for launching small projectiles.","Két zsinór közé erősített bőrdarab, kis lövedékek kilövésére."
+ItemDescription,"A length of sturdy rope with a clasp, for keeping a tame animal close at hand.",
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.","Alkarra rögzíthető, könnyű súlyú védőlemez fából, fém megerősítéssel."
+ItemDescription,"A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.",
+ItemDescription,A long cane rod strung with line and hook. Best used beside open water.,
+ItemDescription,"A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.","Hosszú, dobásra súlyozott, hegyes vaskés."
 ItemDescription,A long pipe meant for shooting darts through force of breath.,"Hosszú cső, melyből nyilakat fúvással lehet kilőni."
 ItemDescription,A long thrusting polearm best suited to mounted combat.,"Hosszú, döfésre alkalmas alabárd, amely hátason használva a leghatékonyabb."
@@ -2151,68 +2688,110 @@ ItemDescription,A long-shafted arrow with a distinctive tip.,"Hosszú szárú ny
 ItemDescription,"A long, flexible leather thong. Unexpectedly sharp.","Hosszú, rugalmas és meglepően éles bőrkorbács."
 ItemDescription,"A long, flowing garment, with long sleeves and a hood.","Hosszú, leomló ruha, hosszú ujjal és kapucnival."
 ItemDescription,A mace that is spiked on its head.,Egy tüskés fejű buzogány.
+ItemDescription,"A massive adamantine maul, its head as large as a barrel stave, that shrugs off the recoil of its own swing.",
+ItemDescription,"A massive, mithril-shod maul, its head as large as a barrel stave.",
 ItemDescription,A meal made from the stomach lining of an animal.,"Egy étel, melyet állati gyomorból készítenek."
+ItemDescription,"A miniature crossbow of elven design, light enough to be drawn and fired one-handed without a stirrup.",
+ItemDescription,"A monstrous greatsword forged with three parallel blades fused along a single spine, each edge catching the light at a different angle.",
 ItemDescription,"A package of preserved meats, all dried and chewy.",Egy csomag szárított és rágós tartósított hús.
+ItemDescription,"A pair of gauntlets ringed with jagged knuckle-spikes, made to turn a punch into a wound.",
+ItemDescription,A pair of solid iron-plated boots that guard the shin and instep at the cost of a good deal of weight.,
 ItemDescription,A pair of sturdy leather boots which extend upward until just below the knee.,"Egy pár erős bőrcsizma, amely egészen a térd aljáig ér."
 ItemDescription,A pair of sturdy leather boots which extend upwards to just above the ankle.,"Egy pár erős bőrcsizma, amely egészen a boka tetejéig ér."
+ItemDescription,"A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.",
+ItemDescription,"A physician's instrument for listening to a heartbeat -- yours, or something else's.",
+ItemDescription,"A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.",
+ItemDescription,"A plain, undyed shirt of woven cloth, worn under armour or on its own.",
 ItemDescription,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.","Egy erős fanyélhez derékszögben rögzített hegyes vasrúd, amelyet kemény felületek átütésére használnak."
 ItemDescription,A pointed metal cylinder meant to be discharged from a firearm.,"Hegyes, lőfegyverből kilőtt fémhenger."
+ItemDescription,A polished sheet of silvered glass. Some things recoil from their own reflection.,
 ItemDescription,A portable source of light fashioned out of copper and fuelled by oil.,"Rézből készült, olajjal működő, hordozható fényforrás."
 ItemDescription,A projectile consisting of a wooden shaft with a sharp metal tip at its front and stabilising fins at its rear.,"Egy falövedék, melynek elejét éles fémheggyel, végét pedig stabilizáló tollakkal látták el."
+ItemDescription,"A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.",
 ItemDescription,A righteous sword forged by a revered blacksmith many years ago who set out to hone his craft and to create the ultimate blade. The noble intent of its creator lingers in this weapon to cut down the wicked and protect the innocent.,"Egy legendás kard, amelyet sok évvel ezelőtt egy nagyra becsült kovács készített el, kinek célja a tökéletes penge megalkotása volt. Alkotójának nemes szándéka mai napig a fegyverben pihen, így megvédve az ártatlanokat, és felvéve a harcot a gonosszal."
+ItemDescription,A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.,
 ItemDescription,"A sanctimonious biscuit. A miracle to the meek, a scourge to the undead.","Egy felszentelt ostya, mely csoda a szelídeknek, és csapás az élőholtaknak."
 ItemDescription,"A semi-rigid weapon made up of a notched wooden shaft with a drawstring attached to both ends, used to launch arrows.","Nyilak kilövéséra használt félmerev fegyver, amely egy rovátkázott faszárból és a két végéhez rögzített húzózsinórból áll."
+ItemDescription,"A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.",
 ItemDescription,A sharp iron wedge fashioned to a sturdy handle.,Erős nyéllel ellátott éles vasék.
 ItemDescription,"A sharp metal throwing weapon, smaller than a hand and shaped like a star.","Éles, kéznél kisebb, csillag alakú fém dobófegyver."
 ItemDescription,A short and light double-edged blade.,Rövid és könnyű kétélű penge.
+ItemDescription,"A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.",
+ItemDescription,"A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.",
+ItemDescription,"A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.",
 ItemDescription,"A slimy, scaly sea creature, in its entirety. Good for a meal.",Egy nyálkás és pikkelyes tengeri élőlény. Élelemnek megfelelő.
 ItemDescription,A small cutting utensil made of metal with a wooden handle.,"Kis fém eszköz, fából készült nyéllel."
+ItemDescription,A small glass vial holding a captive mote of light.,
+ItemDescription,A small hooked blade made for prying the lid off a sealed tin.,
 ItemDescription,A small iron tool designed for opening all sorts of locks.,"Kicsi, bármilyen zár feltörésére tervezett vaseszköz."
 ItemDescription,A small missile with a pointed tip meant for throwing.,"Kicsi, hegyes, dobásra szánt lövedék."
 ItemDescription,A small missile with a reservoir of liquid delivered through a hollow pointed tip.,"Kis lövedék, amely a benne rejlő folyadékot üreges hegyén keresztül juttatja ki."
+ItemDescription,"A small, chalky tablet of uncertain origin. Best swallowed quickly.",
+ItemDescription,"A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.",
+ItemDescription,"A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.",
 ItemDescription,"A soft-brimmed hat, somewhat out of fashion.","Puha karimájú, kissé divatjamúlt kalap."
 ItemDescription,A sophisticated bludgeon with a heavy iron head.,Igényes és nehéz vasfejű bunkósbot.
 ItemDescription,A spacious bag made of incredibly stretchy cotton.,Egy tágas zsák hihetetlenül rugalmas pamutból.
 ItemDescription,A spacious cloth bag.,Egy tágas szövetzsák.
+ItemDescription,"A staff of living, unworked rock. What shapes matter cannot itself be unmade.",
 ItemDescription,A stick of cured meat.,Egy rúd tartósított hús.
 ItemDescription,"A stick of highly explosive material, with a short fuse on one end.","Erősen robbanásveszélyes anyagból készült rúd, egyik végén rövid kanóccal."
+ItemDescription,A stone infused with restorative magic. It crumbles a little more each time it is used.,
+ItemDescription,A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.,
+ItemDescription,"A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.",
 ItemDescription,"A straight, double-edged and often cruciform blade.","Egyenes, kétélű és gyakran kereszt alakú penge."
+ItemDescription,"A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.",
 ItemDescription,A sturdy and solid mineral.,Erős és szilárd ásvány.
 ItemDescription,A suit of armour made from metal rings sewn onto a foundation of leather or cloth.,"Bőr- vagy szövetalapra varrt, fémgyűrűkből készült páncélruha."
+ItemDescription,"A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.",
 ItemDescription,"A surviving portion of the legendary wall of Verimurus, an ancient elven city said to have lasted since time immemorial. However, not even the mightiest walls could withstand the endless onslaught of the dragons. Now the enchanted walls stand alone over the land that once held them.","Az ősidők óta álló elfváros, Verimurus legendás falának megmaradt része, mely arról tanúskodik, hogy a sárkányok végtelen rohamainak még a leghatalmasabb falak sem tudnak örökre ellenállni. Most az elvarázsolt romok magányosan merednek a földre, mely egykoron otthonukként szolgált."
 ItemDescription,"A sweet citrus fruit, coloured eponymously.","Egy édes citrusféle, melynek neve színéből adódik."
 ItemDescription,"A sweet custard-filled pie with a thin crust, topped with whipped cream.","Egy édes, krémmel töltött pite, tejszínhabbal a tetején."
 ItemDescription,"A sweet, round fruit, of the red variety. Reportedly a great supplement to your physical health.","Egy kerek, édes gyümölcs piros színű változata, amely nagyon egészséges."
+ItemDescription,"A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.",
 ItemDescription,"A tall, asymmetric bow.","Hosszú, aszimmetrikus íj."
+ItemDescription,"A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.",
 ItemDescription,"A thick leather coat, constructed to withstand weather and wear.","Vastag bőrkabát, amely ellenáll az időjárásnak és a használatnak."
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.","Vastag, fa bunkósbot. Ami stílusában hiányzik, azt funkciójában pótolja."
+ItemDescription,"A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,"Vékony és fürge kard, amely szinte csakis kizárólag döfésre használható."
+ItemDescription,A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.,
 ItemDescription,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.","Kétkezes lőfegyver, válltámasszal, melyet gyakran apróvadak vadászatára használnak. Elég ütős."
 ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.","A törp ötletesség és szaktudás csodája, orkok által ellopva, újragondolt köntösben. Hosszú nyelének köszönhetően ez az eszköz félelmetes fegyver ló- vagy warg-háton. A fúrógépét működtető elektromos áram időnként kisüléssel fenyegeti azokat, akik elég merészek útját állni ennek a borzalomnak."
+ItemDescription,"A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.",
 ItemDescription,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,"Mezőgazdasági eszköz, amely egy szögletes nyélhez rögzített hosszú, ívelt pengéből áll."
 ItemDescription,An ambiguous curiosity. It seems edible.,Egy érdekes ritkaság. Ehetőnek tűnik.
 ItemDescription,An article of leather clothing covering the torso that hangs around the neck and on the shoulders.,"Törzset borító bőrruházat, amely a nyak körül és a vállakon függ."
 ItemDescription,An article of waterproof cotton clothing covering the torso that hangs around the neck and on the shoulders.,"Törzset borító vízhatlan pamutruházat, amely a nyak körül és a vállakon függ."
+ItemDescription,"An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.",
 ItemDescription,An elven travel food. It is incredibly satiating.,"Egy elf étel, mely tökéletes az utazásokhoz. Elképesztően laktató."
+ItemDescription,"An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.",
 ItemDescription,An extremely sharp little blade used for precise incisions.,"Egy rendkívül éles és kicsi, precíz metszésekhez használt penge."
 ItemDescription,An inconspicuous snack that tells deep secrets.,"Egy jelentéktelennek tűnő harapnivaló, amely sötét titkok birtokában van."
 ItemDescription,An iron projectile made up of a shaft with a sharpened square-pyramid tip.,Szárból és éles piramiscsúcsú hegyből álló vaslövedék.
+ItemDescription,"An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.",
 ItemDescription,"An orange root-vegetable, commonly believed to improve eyesight.","Egy narancssárga gyökérzöldség, amelynek elfogyasztása a közhiedelem szerint javítja a látást."
+ItemDescription,"An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.",
 ItemDescription,"Boiled leather, moulded into a bodily shape to be donned as light armour.","Gőzölt bőr, testre formázva, könnyű páncélként."
 ItemDescription,"Bold, or just tacky?","Merész, vagy csak ciki?"
 ItemDescription,Chain mail consists of a mesh of metal rings interlinked to form a flexible armour.,"Fémgyűrűk egymáshoz kapcsolódó hálójából álló, rugalmas páncéling."
+ItemDescription,"Fate itself bends around the wearer, keeping them exactly where the blow cannot land.",
 ItemDescription,"Forged deep underground by dwarven hands, this blade was made to slay the scaled beasts who sought to steal their treasures. Throughout the long years this blade has bathed in the blood of its winged prey. Now almost forgotten, it yearns again for the taste of dragon flesh.","Ezt az ereklyét törpök, a föld mélyén azon célból kovácsolták, hogy végezzenek a pikkelyes fenevadakkal, akik megpróbálták ellopni kincseiket. Hosszú éveken át fürdött ez a penge a szárnyas bestiák vérében, és most, a feledés homályának határán ismét a sárkányhús íze után sóvárog."
 ItemDescription,"Gazing into its crimson depths you can see the concentrated life essence of countless victims swirling inside of it. The artifact was completed in the moment of the creators' death, as his soul was claimed by his creation. Now residing among the souls of his former victims, his essence as an alchemist provides the stone with ultimate transmutative powers.","Ha bíborszín mélységébe tekintünk, áldozatainak kavargó életesszenciáját láthatjuk. Ezen ereklye az alkotója halálának pillanatában készült el, és magába zárta teremtőjének lelkét. Az egykori áldozatok lelkei között lakó alkimista esszenciája hatalmas transzmutációs erővel ruházza fel a követ."
+ItemDescription,"Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.",
 ItemDescription,Its high-quality elvish manufacture makes for an effective close combat weapon.,"Kiváló minőségű, hatékony közelharci fegyver az elf kivitelezésnek köszönhetően."
 ItemDescription,Leather armour with close-set studs so as to offer more protection.,"Bőrpáncélhoz szorosan rögzített szegecsek, a nagyobb védelem érdekében."
 ItemDescription,"Like a smaller variant of the katana, often used as a side-arm.",Akár a katana egy kisebb változatának is nevezhetjük; gyakran használják szúrófegyverként.
+ItemDescription,"Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.",
 ItemDescription,One segment of a particularly pungent and bulbous herb.,Egy kifejezetten karakteres ízű gumós gyógynövény egy gerezdje.
 ItemDescription,Standard issue protective metal headgear.,"Szokványos, védelemre szolgáló fém fejfedő."
+ItemDescription,"Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.",
 ItemDescription,"Sturdy leather garments fitted firm onto the hands, sheathing each finger individually.","Masszív bőr ruhadarabok, melyek szilárdan illeszkednek a kezekhez, külön-külön burkolva minden egyes ujjat."
 ItemDescription,The final sword forged by a once respected blacksmith who lost himself in the depths of the dungeon. His warped soul now inhabits this blade and lusts for blood. It is said that the one who wields this sword is coerced into cutting down friend and foe alike.,"Egy hajdanán nagy tiszteletnek örvendő kovács utolsó munkája. Készítője a kazamata mélyén vesztette el önmagát, és eltorzult lelke most ebben a pengében lakozik, vérre szomjazva. Úgy tartják, hogy aki ezen kardot forgatja, arra kényszerül, hogy barátait és ellenségeit egyaránt lekaszabolja."
 ItemDescription,The head of a ranseur consists of a spear-tip affixed with a cross hilt at its base.,"A ranseur feje egy lándzsahegyből áll, melyet a tövében egy keresztmarkolat rögzít."
 ItemDescription,The only coin that can be found and spent in the dungeon.,"Az egyetlen érme, amely megtalálható és elkölthető a kazamatában."
 ItemDescription,The snipped segment of a plant known for its antilycanthropic properties.,"Egy olyan növény lemetszett része, melyet a likantrópia tünetei elleni szoktak felhasználni."
+ItemDescription,"The spiral horn of a unicorn, its magic bound permanently into the artifact rather than spent in a single burst.",
 ItemDescription,The wearer will occasionally fly into uncontrollable rage lashing out at both friend and foe.,"Viselője időnként irányíthatatlan, kitörő dühvel megy neki mind barátainak, mind ellenségeinek."
 ItemDescription,This ancient artifact is a marvel to behold with exquisite craftsmanship and unbridled digging power.,Ez az ősi ereklye csodálatos kivitelezéssel és féktelen ásóerővel rendelkezik.
 ItemDescription,"This axe is specifically designed to facilitate deep, grievous wounds in combat. This large weapon is wielded in both hands.","Ezt a fejszét kifejezetten arra tervezték, hogy harc közben mély és súlyos sebeket okozzanak vele. Termetes méretéből adódóan két kézzel kell forgatni."
@@ -2221,6 +2800,7 @@ ItemDescription,This convenient vial of ink can be used to replenish your marker
 ItemDescription,This crudely made blade is still an effective throwing weapon.,Ez a durvára készített penge még mindig hatékony dobófegyver.
 ItemDescription,This curious artifact somehow chastens those it strikes and submits them to your will.,"Ez a különös ereklye képes megzabolázni azokat, akiket eltalál, így alávetve őket akaratodnak."
 ItemDescription,This dwarvish manufactured sword is sturdy and suited to being wielded in the offhand.,"Ez az erős, törpök által készített kard ideális a másodlagos fegyverként való használatra."
+ItemDescription,"This dwarvish punching blade is forged thicker than most, its crossbar reinforced to survive a full-strength thrust.",
 ItemDescription,This gemstone is made from hardened tree sap.,Ez a drágakő megkeményedett fanedvből készül.
 ItemDescription,This glowing looking glass reveals glimpses of the future and corrupts your soul.,Ez az izzónak tűnő üveg bepillantást enged a jövőbe és megrontja lelket.
 ItemDescription,This hammer is a four-pronged head mounted atop a long polearm stick. It bears a long spike on its reverse and an even longer spike extending from the very top. It proves effective at puncturing or smashing armour as well as dismounting riders.,"Ez a kalapács egy hosszú alabárdnyélre felszerelt, négyágú fejjel rendelkezik. Hosszú tüske helyezkedik el a hátulján, és egy még hosszabb nyúlik ki a tetejéből. Hatékonynak bizonyul a páncélok átszúrásában vagy szétverésében, valamint a lovasok leszedésében a hátasukról."
@@ -2250,6 +2830,7 @@ ItemDescription,This weapon consists of a spearhead mounted on a long wooden sha
 ItemDescription,"This weapon is a curved blade attached to a pole by binding the lower two-thirds of the blade to the side of the pole, to form a sort of axe.","Ez a fegyver egy ívelt pengéből áll, melynek alsó kétharmada egy rúd oldalához van rögzítve, így egyfajta fejszét alkotva."
 ItemDescription,This withered hand is the last remnant of an ancient and powerful lich.,Ez az elszáradt kéz egy ősi és hatalmas lícs utolsó maradványa.
 ItemDescription,Tiny metal spikes thrown to the ground to impede mobility.,"Apró, a mozgás akadályozására szolgáló, földre szórt fémtüskék."
+ItemDescription,"Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.",
 ItemDescription,Winged sandals made of imperishable gold which fly the wearer swiftly and silently.,"Elpusztíthatatlan aranyból készült szárnyas szandál, amely gyorsan és csendesen repíti viselőjét."
 ItemDescription,Zapping it at a wall creates a big tunnel.,Falon használva nagy alagutat hoz létre.
 ItemName,adamantine arrow,
@@ -2257,16 +2838,25 @@ ItemName,adamantine axe,
 ItemName,adamantine bident,
 ItemName,adamantine bow,
 ItemName,adamantine bullet,
+ItemName,adamantine crossbow bolt,
 ItemName,adamantine dagger,
 ItemName,adamantine dart,
 ItemName,adamantine greataxe,
+ItemName,adamantine greatmace,
 ItemName,adamantine greatsword,
 ItemName,adamantine hatchet,
+ItemName,adamantine helm,
+ItemName,adamantine helmet,
+ItemName,adamantine katana,
+ItemName,adamantine lance,
 ItemName,adamantine long sword,
 ItemName,adamantine plate mail,
+ItemName,adamantine poleaxe,
+ItemName,adamantine quarterstaff,
 ItemName,adamantine rapier,
 ItemName,adamantine sabre,
 ItemName,adamantine short sword,
+ItemName,adamantine shuriken,
 ItemName,adamantine spear,
 ItemName,adamantine two-handed sword,
 ItemName,agate,agátkő
@@ -2300,8 +2890,10 @@ ItemName,Backpack,hátizsák
 ItemName,bag of holding,tulajdon zsákja
 ItemName,bag of tricks,trükkök zsákja
 ItemName,banana,banán
+ItemName,bandage,
 ItemName,banded mail,pántos vért
 ItemName,bardiche,bardiche
+ItemName,baseball bat,
 ItemName,battle robe,csataköpeny
 ItemName,battle staff,
 ItemName,battle-axe,csatafejsze
@@ -2322,68 +2914,229 @@ ItemName,blowgun,fúvócső
 ItemName,blue dragon scale mail,kéksárkánypikkely-vért
 ItemName,blue dragon scales,kéksárkány-pikkely
 ItemName,blue glass bauble,kék üvegékszer
+ItemName,book of acid splash,
 ItemName,book of acid stream,savas folyó könyve
 ItemName,book of animate dead,holtélesztés könyve
 ItemName,book of animate object,tárgyélesztés könyve
+ItemName,book of arc conduit,
+ItemName,book of arcane blight,
+ItemName,book of arcane whetstone,
+ItemName,book of arcing bolt,
+ItemName,book of artificer's exchange,
+ItemName,book of atonement,
+ItemName,book of augury,
+ItemName,book of bane,
+ItemName,book of banshee wail,
+ItemName,book of barring ward,
+ItemName,book of battle fury,
 ItemName,book of bind undead,élőholt kötelezésének könyve
+ItemName,book of binding sphere,
+ItemName,book of black ice patch,
+ItemName,book of black plague,
+ItemName,book of blade blessing,
 ItemName,book of blank paper,üres papír könyve
+ItemName,book of bless,
 ItemName,book of blinking,elillanás könyve
+ItemName,book of blurred form,
+ItemName,book of call of the pack,
+ItemName,book of calm,
+ItemName,book of caltrop swarm,
 ItemName,book of cancellation,érvénytelenítés könyve
+ItemName,book of causeway,
+ItemName,book of chain lightning,
+ItemName,book of changeless ward,
 ItemName,book of charm,vonzerő könyve
+ItemName,book of chill grasp,
+ItemName,book of chromatic orb,
 ItemName,book of clairvoyance,látnoki képesség könyve
+ItemName,book of claybind touch,
+ItemName,book of clear sight,
+ItemName,book of clouded mind,
+ItemName,book of command,
+ItemName,book of commune,
+ItemName,book of concussive blast,
 ItemName,book of cone of cold,hideg csapásának könyve
 ItemName,book of confusion,zavartság könyve
+ItemName,book of conjure barricade,
+ItemName,book of conjure boulder,
+ItemName,book of conjure guardian,
+ItemName,book of conjure homunculus,
+ItemName,book of conjure mount,
+ItemName,book of conjured pit,
+ItemName,book of consecration,
+ItemName,book of contagion,
+ItemName,book of corpse explosion,
+ItemName,book of corroding ray,
 ItemName,book of create familiar,bizalmaskodás könyve
+ItemName,book of creeping palsy,
+ItemName,book of crimson ichor lance,
 ItemName,book of crushing sphere,zúzó gömb könyve
 ItemName,book of curing,orvoslás könyve
+ItemName,book of danger sense,
 ItemName,book of darkness,sötétség könyve
+ItemName,book of daze,
+ItemName,book of death ward,
+ItemName,book of death's bargain,
+ItemName,book of deathwatch,
 ItemName,book of deflection,eltérítés könyve
 ItemName,book of detect food,élelem érzékelésének könyve
+ItemName,book of detect metal,
 ItemName,book of detect monsters,szörnyek érzékelésének könyve
 ItemName,book of detect treasure,kincs érzékelésének könyve
+ItemName,book of detect undead,
 ItemName,book of detect unseen,láthatatlanok érzékelésének könyve
 ItemName,book of dig,ásás könyve
+ItemName,book of disarming ward,
+ItemName,book of discord,
 ItemName,book of disintegrate,bomlás könyve
+ItemName,book of dispel magic,
+ItemName,book of displacement,
+ItemName,book of divine favor,
+ItemName,book of divine intervention,
+ItemName,book of dominate mind,
 ItemName,book of drain life,élet elszívásának könyve
+ItemName,book of earthen colossus,
+ItemName,book of elemental servant,
+ItemName,book of elemental warding,
+ItemName,book of ember lance,
+ItemName,book of enlarge,
+ItemName,book of entangling vines,
+ItemName,book of entropic siphon,
 ItemName,book of extra healing,extra gyógyítás könyve
+ItemName,book of false life,
 ItemName,book of fear,félelem könyve
+ItemName,book of find doors,
+ItemName,book of find traps,
 ItemName,book of finger of death,halál ujjának könyve
 ItemName,book of fireball,tűzgolyó könyve
 ItemName,book of flaming sphere,lángoló gömb könyve
 ItemName,book of force bolt,erőcsapás könyve
+ItemName,book of foreknowledge,
+ItemName,book of freedom,
+ItemName,book of freedom of movement,
 ItemName,book of freezing sphere,dermesztő gömb könyve
+ItemName,book of frost breath,
 ItemName,book of full healing,teljes gyógyítás könyve
+ItemName,book of gate,
+ItemName,book of gilding touch,
+ItemName,book of glacial spike,
+ItemName,book of grasping mind,
+ItemName,book of grave rot,
+ItemName,book of gravity well,
+ItemName,book of guided path,
+ItemName,book of harvest of souls,
 ItemName,book of haste,gyorsítás könyve
+ItemName,book of hazard sense,
 ItemName,book of healing,gyógyítás könyve
+ItemName,book of hex,
+ItemName,book of hexbind,
+ItemName,book of hideous laughter,
+ItemName,book of hold monster,
+ItemName,book of hold person,
+ItemName,book of holy word,
 ItemName,book of ice storm,jégvihar könyve
 ItemName,book of identify,azonosítás könyve
+ItemName,book of inner calm,
 ItemName,book of invisibility,láthatatlanság könyve
+ItemName,book of iron will,
+ItemName,book of ironbind door,
+ItemName,book of juggernaut ray,
 ItemName,book of jumping,ugrás könyve
+ItemName,book of keen search,
 ItemName,book of knock,ütés könyve
+ItemName,book of legion of bone,
 ItemName,book of levitation,lebegés könyve
 ItemName,book of light,fény könyve
 ItemName,book of lightning bolt,villámlás könyve
 ItemName,book of living wall,élő fal könyve
 ItemName,book of magic mapping,mágikus feltérképezés könyve
 ItemName,book of magic missile,mágikus lövedék könyve
+ItemName,book of meteoric cataclysm,
+ItemName,book of mind ken,
+ItemName,book of mind link,
+ItemName,book of mind spike,
+ItemName,book of mindrend,
+ItemName,book of mirror ward,
+ItemName,book of neutralize poison,
+ItemName,book of oracle's eye,
+ItemName,book of owl eyes,
+ItemName,book of petrifying touch,
 ItemName,book of phasing,térugrás könyve
+ItemName,book of planar anchor,
+ItemName,book of planar swap,
 ItemName,book of poison blast,méregrobbanás könyve
 ItemName,book of polymorph,átváltozás könyve
+ItemName,book of porter's reach,
+ItemName,book of prayer,
+ItemName,book of premonition,
+ItemName,book of prismatic spray,
+ItemName,book of psychic shove,
 ItemName,book of raise dead,halott-támasztás könyve
+ItemName,book of rally cry,
+ItemName,book of ray of enfeeblement,
+ItemName,book of reap,
 ItemName,book of regenerate,regenerálódás könyve
 ItemName,book of remove curse,átoklevétel könyve
+ItemName,book of repelling ward,
+ItemName,book of repulsion,
 ItemName,book of restoration,helyreállítás könyve
+ItemName,book of revelation,
+ItemName,book of sanctuary,
+ItemName,book of scalding cloud,
+ItemName,book of searing light,
+ItemName,book of sense curse,
+ItemName,book of sense the restless,
+ItemName,book of sentinel ward,
+ItemName,book of shimmer shield,
 ItemName,book of shocking sphere,sokkoló gömb könyve
+ItemName,book of shrink,
+ItemName,book of silence,
+ItemName,book of simulacrum,
 ItemName,book of sleep,alvás könyve
+ItemName,book of slick detonation,
+ItemName,book of slipping free,
 ItemName,book of slow,lassúság könyve
 ItemName,book of soaking sphere,áztató gömb könyve
+ItemName,book of song of discord,
+ItemName,book of spark bolt,
+ItemName,book of spectral shroud,
+ItemName,book of spirit leech,
+ItemName,book of spirit shield,
+ItemName,book of starfall,
+ItemName,book of steadfast ward,
+ItemName,book of stone to flesh,
+ItemName,book of stoneskin,
 ItemName,book of summoning,megidézés könyve
+ItemName,book of sunburst smite,
+ItemName,book of sunder gear,
+ItemName,book of swoon,
 ItemName,book of telekinesis,telekinézis könyve
+ItemName,book of telekinetic shove,
 ItemName,book of teleport away,elteleportálás könyve
+ItemName,book of thunderclap,
+ItemName,book of timed combustion,
+ItemName,book of tongue tied,
 ItemName,book of toxic spray,méregpermet könyve
+ItemName,book of transmuter's mastery,
+ItemName,book of true appraisal,
 ItemName,book of turn undead,élőholttá válás könyve
+ItemName,book of unbinding,
+ItemName,book of undying ward,
+ItemName,book of unseen hand,
+ItemName,book of vampiric feast,
+ItemName,book of veil of shadows,
+ItemName,book of wall breach,
+ItemName,book of wall of thorns,
 ItemName,book of walling,falazás könyve
+ItemName,book of ward of return,
+ItemName,book of warning ward,
+ItemName,book of web snare,
+ItemName,book of whispers of madness,
+ItemName,book of wildfire brand,
+ItemName,book of wither,
+ItemName,book of withering ray,
 ItemName,book of wizard lock,mágikus zárás könyve
+ItemName,book of world vision,
 ItemName,boomerang,bumeráng
 ItemName,bow,íj
 ItemName,brass bugle,sárgaréz kürt
@@ -2397,9 +3150,13 @@ ItemName,bullwhip,korbács
 ItemName,c-ration,kicsi élelmiszercsomag
 ItemName,caltrops,vassulyom
 ItemName,can of grease,zsírosbödön
+ItemName,candelabrum,
 ItemName,candy bar,édesség
 ItemName,Carapace,Carapace
 ItemName,carrot,répa
+ItemName,Celestial Doom,
+ItemName,Celestial Kismet,
+ItemName,Celestial Portent,
 ItemName,chain barding,vas lópáncél
 ItemName,chain mail,páncéling
 ItemName,chakram,
@@ -2415,6 +3172,7 @@ ItemName,cloak of deflection,eltérítés köpönyege
 ItemName,cloak of displacement,elmozdulás köpönyege
 ItemName,cloak of invisibility,láthatatlanság köpönyege
 ItemName,cloak of magic resistance,mágikus ellenállás köpönyege
+ItemName,cloth shirt,
 ItemName,clove of garlic,fokhagymagerezed
 ItemName,club,bunkósbot
 ItemName,Colossal Excavator,Kolosszális Exkavátor
@@ -2422,18 +3180,22 @@ ItemName,cornuthaum,cornuthaum
 ItemName,costume earrings,divatos fülbevaló
 ItemName,cram ration,nagy élelmiszercsomag
 ItemName,cream pie,krémes pite
+ItemName,credit card,
 ItemName,Creeping Sprout,Kúszó Hajtás
+ItemName,crimson cloak,
 ItemName,crossbow,számszeríj
 ItemName,crossbow bolt,számszeríjvessző
 ItemName,crysknife,kriszkés
 ItemName,crystal ball,kristálygömb
 ItemName,crystal plate mail,kristálypáncél
 ItemName,dagger,tőr
+ItemName,darkstone,
 ItemName,dart,nyíl
 ItemName,Deadwood,Holtfa
 ItemName,Deagle,Deagle
 ItemName,deep dragon scale mail,lilasárkánypikkely-vért
 ItemName,deep dragon scales,lilasárkány-pikkely
+ItemName,Demiurge,
 ItemName,dented pot,behorpadt edény
 ItemName,detonation key,detonációs kulcs
 ItemName,diamond,gyémánt
@@ -2441,6 +3203,8 @@ ItemName,dilithium crystal,dilithium-kristály
 ItemName,dimension key,dimenziókulcs
 ItemName,Dire Needle,Végzetes Tű
 ItemName,disencumbrance boots,strapabíró csizma
+ItemName,doublet,
+ItemName,dragon horn,
 ItemName,Dragonbane,Sárkányölő
 ItemName,dread staff,rémisztő bot
 ItemName,Drilanze,Drilanze
@@ -2453,6 +3217,7 @@ ItemName,drum of earthquake,földrengés dobja
 ItemName,dunce cap,fajankók sapkája
 ItemName,dwarvish cloak,törp köpeny
 ItemName,dwarvish iron helm,törp vassisak
+ItemName,dwarvish katar,
 ItemName,dwarvish mattock,törp csákány
 ItemName,dwarvish mithril-coat,törp mithrilpáncél
 ItemName,dwarvish roundshield,törp kerek pajzs
@@ -2465,8 +3230,10 @@ ItemName,elven arrow,elf nyílvessző
 ItemName,elven boots,elf csizma
 ItemName,elven bow,elf íj
 ItemName,elven broadsword,elf széleskard
+ItemName,elven chakram,
 ItemName,elven cloak,elf köpeny
 ItemName,elven dagger,elf tőr
+ItemName,elven hand crossbow,
 ItemName,elven leather helm,elf bőrsisak
 ItemName,elven mithril-coat,elf mithrilpáncél
 ItemName,elven shield,elf pajzs
@@ -2477,11 +3244,14 @@ ItemName,Escapist,Eszképista
 ItemName,eucalyptus leaf,eukaliptusz levél
 ItemName,expensive camera,drága fényképezőgép
 ItemName,Eye of Aethiopica,Aethiopica szeme
+ItemName,eyeball,
 ItemName,Eyes of Ra,Ra szeme
+ItemName,fancy boots,
 ItemName,fauchard,harci villa
 ItemName,fedora,fedora
 ItemName,fire horn,tűzkürt
 ItemName,fish,hal
+ItemName,fishing pole,
 ItemName,flail,csép
 ItemName,flash staff,villanó bot
 ItemName,fleet robe,hálóköntös
@@ -2491,6 +3261,7 @@ ItemName,fly swatter,légycsapó
 ItemName,food ration,gazdag élelmiszercsomag
 ItemName,fortune cookie,szerencsesüti
 ItemName,frag grenade,gránát
+ItemName,frisbee,
 ItemName,frost horn,fagykürt
 ItemName,fumble boots,ügyetlenség csizmája
 ItemName,garnet,gránátkő
@@ -2501,10 +3272,26 @@ ItemName,gauntlets of phasing,térugrás kesztyűje
 ItemName,gauntlets of power,erő kesztyűje
 ItemName,Giantslayer,Óriásölő
 ItemName,glaive,pallos
+ItemName,gold axe,
+ItemName,gold chakram,
 ItemName,gold coin,aranyérme
+ItemName,gold dagger,
+ItemName,gold double vajra,
 ItemName,gold dragon scale mail,arany sárkánypikkely-vért
 ItemName,gold dragon scales,arany sárkány-pikkely
+ItemName,gold flail,
 ItemName,Gold Key,aranykulcs
+ItemName,gold khanda,
+ItemName,gold labrys,
+ItemName,gold longsword,
+ItemName,gold plate mail,
+ItemName,gold single vajra,
+ItemName,gold spade,
+ItemName,gold trident,
+ItemName,gold twohanded sword,
+ItemName,gold urumi,
+ItemName,gold whistle,
+ItemName,grappling hook,
 ItemName,great dagger,nagy tőr
 ItemName,green dragon scale mail,zöldsárkánypikkely-vért
 ItemName,green dragon scales,zöldsárkány-pikkely
@@ -2512,10 +3299,12 @@ ItemName,green glass bauble,zöld üvegékszer
 ItemName,grenade launcher,gránátvető
 ItemName,Grimtooth,Zordfog
 ItemName,guisarme,guisarme
+ItemName,Gungnir,
 ItemName,halberd,alabárd
 ItemName,Harbalest,Harbalest
 ItemName,hatchet,balta
 ItemName,hawaiian shirt,hawaii ing
+ItemName,healthstone,
 ItemName,heavy hammer,pöröly
 ItemName,heavy iron ball,nehéz vasgolyó
 ItemName,heavy machine gun,nehézgéppuska
@@ -2548,6 +3337,7 @@ ItemName,kanabo,kanabo
 ItemName,katana,katana
 ItemName,katar,katar
 ItemName,kelp frond,hínár
+ItemName,khopesh,
 ItemName,knife,kés
 ItemName,lab coat,laborköpeny
 ItemName,lance,kopja
@@ -2556,6 +3346,7 @@ ItemName,lantern,lámpás
 ItemName,large box,nagy láda
 ItemName,large shield,nagy pajzs
 ItemName,Lashing Tongue,Zabolázó
+ItemName,leash,
 ItemName,leather armour,bőrpáncél
 ItemName,leather barding,bőr lópáncél
 ItemName,leather cloak,bőrköpönyeg
@@ -2565,10 +3356,12 @@ ItemName,leather jacket,bőrkabát
 ItemName,lembas wafer,lembas-ostya
 ItemName,lenses,lencsék
 ItemName,levitation boots,lebegés csizmája
+ItemName,loadstone,
 ItemName,lock pick,tolvajkulcs
 ItemName,long sword,hosszúkard
 ItemName,low boots,alacsony szárú csizma
 ItemName,lucern hammer,lucerne kalapács
+ItemName,luckstone,
 ItemName,lump of royal jelly,méhpempődarab
 ItemName,mace,buzogány
 ItemName,magic bugle,mágikus kürt
@@ -2588,32 +3381,48 @@ ItemName,Maulfrost,Jégkalapács
 ItemName,meat ring,húsgyűrű
 ItemName,meat stick,húsrúd
 ItemName,meatball,húsgolyó
+ItemName,medical kit,
 ItemName,melon,dinnye
+ItemName,mirror,
 ItemName,Mirrorbright,Tükörfény
 ItemName,Miserus,
 ItemName,mithril arrow,mithrilnyílvessző
+ItemName,mithril axe,
 ItemName,mithril barding,mithrillópáncél
 ItemName,mithril battle-axe,mithril csatafejsze
 ItemName,mithril bullet,mithrilgolyó
 ItemName,mithril crossbow bolt,mithril számszeríjvessző
 ItemName,mithril dagger,mithriltőr
 ItemName,mithril dart,
+ItemName,mithril gauntlets,
+ItemName,mithril greatmace,
+ItemName,mithril greatsword,
+ItemName,mithril hatchet,
 ItemName,mithril helmet,
+ItemName,mithril katana,
 ItemName,mithril katar,mithrilkatar
 ItemName,mithril lance,mithrilkopja
 ItemName,mithril long sword,mithril hosszúkard
 ItemName,mithril plate mail,mithrilpáncél
+ItemName,mithril poleaxe,
+ItemName,mithril rapier,
 ItemName,mithril sabre,mithrilszablya
 ItemName,mithril shield,mithrilpajzs
 ItemName,mithril short sword,mithril rövidkard
+ItemName,mithril shuriken,
 ItemName,mithril spear,minthrillándzsa
+ItemName,mithril trident,
 ItemName,mithril two-handed sword,mithril kétkezes kard
 ItemName,mithril whip,mithrilostor
+ItemName,mooshroom,
 ItemName,morning star,csillagos buzogány
+ItemName,Mournblade,
 ItemName,mummy wrapping,múmiapólya
 ItemName,Muramasa,Muramasza
 ItemName,mushroom,gomba
 ItemName,mute earrings,némaság fülbevalója
+ItemName,naginata,
+ItemName,Nonagon Infinity,
 ItemName,nunchaku,
 ItemName,obsidian,obszidián
 ItemName,oil lamp,olajlámpa
@@ -2626,6 +3435,7 @@ ItemName,orange glass bauble,narancssárga üvegékszer
 ItemName,orcish arrow,ork nyílvessző
 ItemName,orcish bow,ork íj
 ItemName,orcish chain mail,ork páncéling
+ItemName,orcish chakram,
 ItemName,orcish cloak,ork köpönyeg
 ItemName,orcish dagger,ork tőr
 ItemName,orcish helm,ork sisak
@@ -2640,9 +3450,13 @@ ItemName,partisan,partizán
 ItemName,pear,körte
 ItemName,pearl,
 ItemName,phantom key,fantomkulcs
+ItemName,phial,
 ItemName,Philosophers Stone,Bölcsek köve
 ItemName,pick-axe,csákány
+ItemName,pill,
 ItemName,pistol,pisztoly
+ItemName,plastic bat,
+ItemName,plastic hammer,
 ItemName,plastic sword,
 ItemName,plate barding,lemez lópáncél
 ItemName,plate mail,lemezpáncél
@@ -2679,10 +3493,13 @@ ItemName,potion of see invisible,láthatatlanok látásának főzete
 ItemName,potion of sickness,betegség főzete
 ItemName,potion of sleeping,alvás főzete
 ItemName,potion of speed,sebesség főzete
+ItemName,potion of sustenance,
+ItemName,potion of warning,
 ItemName,potion of water,víz főzete
 ItemName,proof earrings,bizonyosság fülbevalója
 ItemName,Prudentia,Prudencia
 ItemName,quarterstaff,párbajbot
+ItemName,railgun,
 ItemName,ranseur,ranseur
 ItemName,rapier,vívótőr
 ItemName,Ravenbow,Holló íj
@@ -2698,6 +3515,7 @@ ItemName,ring of cold resistance,hidegellenállás gyűrűje
 ItemName,ring of conflict,konfliktus gyűrűje
 ItemName,ring of constitution,alkat gyűrűje
 ItemName,ring of dexterity,ügyesség gyűrűje
+ItemName,ring of energy,
 ItemName,ring of fire resistance,tűzellenállás gyűrűje
 ItemName,ring of free action,szabad cselekvés
 ItemName,ring of hunger,éhség gyűrűje
@@ -2705,6 +3523,7 @@ ItemName,ring of impact,hatás gyűrűje
 ItemName,ring of intelligence,intelligencia gyűrűje
 ItemName,ring of invisibility,láthatatlanság gyűrűje
 ItemName,ring of levitation,lebegés gyűrűje
+ItemName,ring of marksmanship,
 ItemName,ring of naught,semmi gyűrűje
 ItemName,ring of poison resistance,méregellenállás gyűrűje
 ItemName,ring of polymorph,átváltozás gyűrűje
@@ -2728,11 +3547,24 @@ ItemName,robe,köpeny
 ItemName,rock,kő
 ItemName,rocket,rakéta
 ItemName,rocket launcher,rakétavető
+ItemName,rose axe,
+ItemName,rose battleaxe,
+ItemName,rose bident,
+ItemName,rose dagger,
+ItemName,rose greatsword,
+ItemName,rose hatchet,
+ItemName,rose long sword,
+ItemName,rose rapier,
+ItemName,rose ring,
+ItemName,rose sabre,
+ItemName,rose short sword,
+ItemName,rose spear,
 ItemName,Rosenthral,Rosenthral
 ItemName,rubber hose,gumislag
 ItemName,ruby,rubint
 ItemName,Ruby Key,rubintkulcs
 ItemName,Runesword,Rúnakard
+ItemName,Runicorn Horn,
 ItemName,sabre,
 ItemName,sack,zsák
 ItemName,saddle,nyereg
@@ -2779,6 +3611,7 @@ ItemName,scythe,kasza
 ItemName,shades,napszemüveg
 ItemName,Shadow Key,árnyékkulcs
 ItemName,shield of reflection,visszaverődés pajzsa
+ItemName,Shillelagh,
 ItemName,shimmering dragon scale mail,csillogósárkánypikkely-vért
 ItemName,shimmering dragon scales,csillogósárkány-pikkely
 ItemName,short sword,rövidkard
@@ -2798,6 +3631,7 @@ ItemName,Silver Key,ezüstkulcs
 ItemName,silver lance,ezüszkopja
 ItemName,silver long sword,ezüst hosszúkard
 ItemName,silver mace,ezüstbuzogány
+ItemName,silver rapier,
 ItemName,silver sabre,ezüstszablya
 ItemName,silver short sword,ezüst rövidkard
 ItemName,silver spear,ezüstlándzsa
@@ -2805,6 +3639,7 @@ ItemName,silver two-handed sword,ezüst kétkezes kard
 ItemName,skeleton key,csontkulcs
 ItemName,slime mould,nyálkagomba
 ItemName,sling,parittya
+ItemName,sling staff,
 ItemName,small shield,kis pajzs
 ItemName,sniper rifle,mesterlövész puska
 ItemName,spear,lándzsa
@@ -2814,29 +3649,40 @@ ItemName,spetum,spétum
 ItemName,splint mail,lemezvért
 ItemName,sprig of wolfsbane,sisakvirág hajtása
 ItemName,Stamped Letter,bélyeges papír
+ItemName,steel boots,
+ItemName,stethoscope,
 ItemName,stick of dynamite,dinamitrúd
 ItemName,stiletto,stiletto
 ItemName,stone club,kőbunkó
+ItemName,Stormbringer,
+ItemName,strange object,
 ItemName,studded leather armour,szegecselt bőrpáncél
 ItemName,submachine gun,géppisztoly
+ItemName,Sudarshana Chakra,
 ItemName,Sunsword,Napkard
 ItemName,t-shirt,póló
+ItemName,tabard,
 ItemName,Talaria,Talaria
 ItemName,The Hero,A Hős
 ItemName,thunder staff,villámbot
 ItemName,tin,konzerv
+ItemName,tin opener,
 ItemName,tin whistle,bádogsíp
 ItemName,tinning kit,konzerváló készlet
 ItemName,tooled horn,díszes kürt
 ItemName,topaz,topáz
 ItemName,torch,fáklya
 ItemName,tortilla,tortilla
+ItemName,touchstone,
+ItemName,towel,
 ItemName,trident,háromágú szigony
 ItemName,tripe ration,belsőség
+ItemName,triplesword,
 ItemName,tsurugi,tsurugi
 ItemName,turquoise,türkiz
 ItemName,two-handed sword,kétkezes kard
 ItemName,unicorn horn,unikornisszarv
+ItemName,Vajra,
 ItemName,vegetable corpse,zöldségtetem
 ItemName,Verimurus,Verimurus
 ItemName,violet glass bauble,ibolya üvegékszer
@@ -2847,6 +3693,7 @@ ItemName,wakizashi,vakizasi
 ItemName,wand of animation,élesztés pálcája
 ItemName,wand of cancellation,érvénytelenítés pálcája
 ItemName,wand of cold,hidegség pálcája
+ItemName,wand of confusion,
 ItemName,wand of create horde,horda létrehozásának pálcája
 ItemName,wand of death,halál pálcája
 ItemName,wand of digging,ásás pálcája
@@ -2858,6 +3705,8 @@ ItemName,wand of fireball,tűzlabda pálcája
 ItemName,wand of haste,gyorsítás pálcája
 ItemName,wand of healing,gyógyítás pálcája
 ItemName,wand of iceball,jéglabda pálcája
+ItemName,wand of jumping,
+ItemName,wand of levitation,
 ItemName,wand of light,fény pálcája
 ItemName,wand of lightning,villámlás pálcája
 ItemName,wand of locking,bezárás pálcája
@@ -2873,12 +3722,17 @@ ItemName,wand of sleep,alvás pálcája
 ItemName,wand of slow,lassúság pálcája
 ItemName,wand of striking,támadás pálcája
 ItemName,wand of summoning,megidézés pálcája
+ItemName,wand of telekinesis,
 ItemName,wand of teleportation,teleportálás pálcája
 ItemName,wand of theft,tolvajlás pálcája
 ItemName,wand of undead turning,élőholttá változtatás pálcája
 ItemName,war club,harci bunkó
 ItemName,war hammer,harci kalapács
+ItemName,war maul,
 ItemName,wax candle,viaszgyertya
+ItemName,Wepwawet's Fang,
+ItemName,wheellock pistol,
+ItemName,whetstone,
 ItemName,white dragon scale mail,fehérsárkánypikkely-vért
 ItemName,white dragon scales,fehérsárkány-pikkely
 ItemName,white glass bauble,fehér üvegékszer
@@ -2893,8 +3747,10 @@ ItemName,yellow dragon scale mail,sárgasárkánypikkely-vért
 ItemName,yellow dragon scales,sárgasárkány-pikkely
 ItemName,yellow glass bauble,sárga üvegékszer
 ItemName,yellowish brown glass bauble,sárgásbarna üvegékszer
+ItemName,yoyo,
 ItemName,yumi,yumi
 ItemName,zircon,
+ItemName,Zweihänder,
 ItemType,amulet,amulett
 ItemType,bag,zsák
 ItemType,barding,lópáncél
@@ -4440,13 +5296,17 @@ SchoolName,necromancy,halálmágia
 SchoolName,transmutation,átalakulás
 ServiceDescription,detect traps in the surrounding area.,észleld a környezetedben lévő csapdákat
 ServiceDescription,identify one item in your inventory.,azonosíts egy tárgyat a leltáradban
+ServiceDescription,learn how to cast a random spell.,
+ServiceDescription,learn how to cast two random spells.,
 ServiceDescription,magic mapping for the surrounding area.,a környező terület mágikus feltérképezés
 ServiceDescription,refresh the shop with new items for sale.,bolt kínálatának frissítése
 ServiceDescription,remove a curse from one item in your inventory.,átok eltávolítása leltárad egyik tárgyáról
+ServiceName,advanced tuition,
 ServiceName,curse removal,átokeltávolítás
 ServiceName,identification,azonosítás
 ServiceName,magic mapping,mágikus feltérképezés
 ServiceName,restock shop,boltfeltöltés
+ServiceName,spell tuition,
 ServiceName,trap detection,csapdaészlelés
 ShopName,antique weapons outlet,antik fegyverkereskedés
 ShopName,delicatessen,csemegekereskedés
@@ -4462,9 +5322,14 @@ ShopName,second-hand stationery store,használtpapíráru-bolt
 ShopName,used armour dealership,használtpáncél-kereskedés
 ShrineName,craft station,átalakító állomás
 ShrineName,dark sepulchre,sötét sírbolt
+ShrineName,elemental forge,
+ShrineName,fae chapel,
 ShrineName,holy shrine,szent kegyhely
+ShrineName,martial temple,
 ShrineName,mystic coven,titokzatos gyülekezet
+ShrineName,pheral vault,
 ShrineName,sacred grove,szent liget
+ShrineName,star observatory,
 SizeName,gargantuan,óriási
 SizeName,huge,hatalmas
 SizeName,large,nagy
@@ -4670,101 +5535,290 @@ SonicName,write,írás
 SpecialDescription,Aristocrats who enjoy all the privilege that comes with wealth and wonder why everyone hates them.,"A gazdagság kiváltságait élvező arisztokraták, akik csodálkoznak azon, hogy mindenki utálja őket."
 SpecialDescription,"Being unusually short and slight, they are more nimble but not as effective in combat.","Gyorsasága ellenére, fajtájának méreteihez képest szokatlanul alacsony és gyenge, ennek következtében a harcban sem számít hatékonynak."
 SpecialDescription,"Being unusually tall and heavy, they move a bit slower but are more resilient.","Bár fajtájához képest szokatlanul magas, nehéz és kicsit lassabban mozog, azonban annál ellenállóbb."
+SpecialDescription,"Bound by an infernal pact to a patron whose power flows through them, whether they will it or not.",
+SpecialDescription,"Changeling blood runs through their veins, granting them an otherworldly grace, but cold iron burns them like acid.",
+SpecialDescription,"Cursed with visions of what is to come, they see danger before it arrives, but the visions are slowly undoing their mind.",
+SpecialDescription,"Escaped from a laboratory before the experiment concluded, their body still bears the unstable mark of what was done to them.",
 SpecialDescription,"Forever cursed with lycanthropy, these beings can transform themselves into monstrous wolf forms.","Örök likantrópiával átkozott lények, akik képesek rettenetes farkasalakot ölteni."
 SpecialDescription,Forsaken creature that subsists by feeding on the vital essence of the living.,"Nyomorúságos sorsú teremtmény, amely az élők életesszenciájából táplálkozik."
 SpecialDescription,Gifted with extrasensory perception to identify entities otherwise hidden from the normal senses but at the cost of a gnawing hunger.,"Telepatikus képességek gazdái, akik képesek azonosítani a közönséges érzékszervek számára láthatatlan entitásokat. Ezen készségüknek azonban ára van: szűnni nem akaró, emésztő éhséggel kell küszködniük."
+SpecialDescription,"Hardened by a lifetime of campaigns, they strike with brutal efficiency but carry old wounds that never fully healed.",
 SpecialDescription,"Highly attuned servants of elemental earth, they can conjure exploding spheres to destroy their enemies.","A föld elemének szolgálói, akik képesek robbanó gömböket megidézni ellenségeik elpusztítására."
 SpecialDescription,"Highly attuned servants of elemental flame, they can conjure exploding spheres to destroy their enemies.","A tűz elemének szolgálói, akik képesek robbanó gömböket megidézni ellenségeik elpusztítására."
 SpecialDescription,"Highly attuned servants of elemental frost, they can conjure exploding spheres to destroy their enemies.","A fagy elemének szolgálói, akik képesek robbanó gömböket megidézni ellenségeik elpusztítására."
 SpecialDescription,"Highly attuned servants of elemental shock, they can conjure exploding spheres to destroy their enemies.","Az elektromosság elemének szolgálói, akik képesek robbanó gömböket megidézni ellenségeik elpusztítására."
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.","A víz elemének szolgálói, akik képesek robbanó gömböket megidézni ellenségeik elpusztítására."
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,A könyvek egész életen át tartó tanulmányozása a fitnesz és egyéb hobbik rovására ment.
+SpecialDescription,"Made a living prying open tombs that were meant to stay shut, and picked up a rare set of skills along the way; the dead have not forgiven them.",
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,"A főszereplő-szindróma következtében azt hiszik, hogy sosem halhatnak meg, azonban nemsokára szembe kell nézniük a valósággal."
+SpecialDescription,"More at home among beasts than people, they ride and bond with animals expertly but rely on their companions more than their own blade.",
+SpecialDescription,"Newly turned by an elder vampire's bite, they crave blood but have not yet mastered the strengths of the curse.",
+SpecialDescription,"One of the few to survive a great plague, their blood now resists poison but their body was left frail and their nearby creatures keep their distance.",
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.",
+SpecialDescription,"Pulled under by the sea and cursed to return, their lungs have made an uneasy peace with water while their waterlogged flesh dries out on land.",
+SpecialDescription,"Raised outside civilisation among beasts, they are quick and keen-eyed but never learned the discipline of formal combat.",
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.","Valamilyen okból kifolyólag életben vannak, bár mindezt az igazi élethez szükséges porhüvely nélkül teszik. Ennek a különös létnek is kétségkívül megvannak a maga előnyei."
 SpecialDescription,The habitually drunk make for brazen yet slightly unsteady adventurers; just don't ask them to recite the alphabet backwards.,
+SpecialDescription,"Touched by the animating art of golem-crafters, their flesh has hardened toward stone, granting resilience at the cost of grace.",
+SpecialDescription,"Trained in the one-on-one blade duel, every strike is precise, but a lifetime spent perfecting offence left little time to master defence.",
+SpecialDescription,"Trained since childhood in a monastic order, their body is a honed weapon but their vows forbid armour and forsake worldly learning.",
 SpecialDescription,"Whether innocent or guilty of their accused crimes, these individuals are desperate to escape custody.","Legyenek ártatlanok vagy bűnösök, ezek a személyek kétségbeesetten próbálnak megszökni a felügyelet alól."
+SpecialName,ascetic,
 SpecialName,colossus,kolosszus
+SpecialName,construct,
+SpecialName,drowned,
 SpecialName,drunkard,
+SpecialName,duelist,
 SpecialName,earth,föld
+SpecialName,feral,
+SpecialName,fey,
 SpecialName,flame,láng
 SpecialName,frost,fagy
 SpecialName,fugitive,szökevény
 SpecialName,glass,
+SpecialName,graverobber,
 SpecialName,midget,törpe
 SpecialName,noble,nemes
+SpecialName,plagued,
+SpecialName,prophet,
 SpecialName,protagonist,főhős
 SpecialName,psychic,lélek
 SpecialName,quantum,
 SpecialName,scholar,tudós
 SpecialName,shock,sokk
 SpecialName,skeleton,csontváz
+SpecialName,spawn,
+SpecialName,specimen,
+SpecialName,tamer,
 SpecialName,vampire,vámpír
+SpecialName,veteran,
+SpecialName,warlock,
 SpecialName,water,víz
 SpecialName,werewolf,vérfarkas
 SpellDescription,Projects a ball of energy that impacts on both monsters and objects.,"Létrehoz egy energiagömböt, ami egyaránt hatással van szörnyekre és tárgyakra is."
+SpellName,acid splash,
 SpellName,acid stream,savlövellés
 SpellName,animate dead,holtélesztés
 SpellName,animate object,tárgyélesztés
+SpellName,arc conduit,
+SpellName,arcane blight,
+SpellName,arcane whetstone,
+SpellName,arcing bolt,
+SpellName,artificer's exchange,
+SpellName,atonement,
+SpellName,augury,
+SpellName,bane,
+SpellName,banshee wail,
+SpellName,barring ward,
+SpellName,battle fury,
 SpellName,bind undead,élőholt kötelezése
+SpellName,binding sphere,
+SpellName,black ice patch,
+SpellName,black plague,
+SpellName,blade blessing,
+SpellName,bless,
 SpellName,blinking,elillanás
+SpellName,blurred form,
+SpellName,call of the pack,
+SpellName,calm,
+SpellName,caltrop swarm,
 SpellName,cancellation,érvénytelenítés
+SpellName,causeway,
+SpellName,chain lightning,
+SpellName,changeless ward,
 SpellName,charm,elbűvölés
+SpellName,chill grasp,
+SpellName,chromatic orb,
 SpellName,clairvoyance,látnoki képesség
+SpellName,claybind touch,
+SpellName,clear sight,
+SpellName,clouded mind,
+SpellName,command,
+SpellName,commune,
+SpellName,concussive blast,
 SpellName,cone of cold,dértölcsér
 SpellName,confusion,zavartság
+SpellName,conjure barricade,
+SpellName,conjure boulder,
+SpellName,conjure guardian,
+SpellName,conjure homunculus,
+SpellName,conjure mount,
+SpellName,conjured pit,
+SpellName,consecration,
+SpellName,contagion,
+SpellName,corpse explosion,
+SpellName,corroding ray,
 SpellName,create familiar,bizalmaskodás
+SpellName,creeping palsy,
+SpellName,crimson ichor lance,
 SpellName,crushing sphere,zúzó gömb
 SpellName,curing,orvoslás
+SpellName,danger sense,
 SpellName,darkness,sötétség
+SpellName,daze,
+SpellName,death ward,
+SpellName,death's bargain,
+SpellName,deathwatch,
 SpellName,deflection,eltérítés
 SpellName,detect food,ételérzékelés
+SpellName,detect metal,
 SpellName,detect monsters,szörnyek érzékelés
 SpellName,detect treasure,kincsérzékelés
+SpellName,detect undead,
 SpellName,detect unseen,láthatatlanok érzékelése
 SpellName,dig,ásás
+SpellName,disarming ward,
+SpellName,discord,
 SpellName,disintegrate,bomlasztás
+SpellName,dispel magic,
+SpellName,displacement,
+SpellName,divine favor,
+SpellName,divine intervention,
+SpellName,dominate mind,
 SpellName,drain life,életelszívás
+SpellName,earthen colossus,
+SpellName,elemental servant,
+SpellName,elemental warding,
+SpellName,ember lance,
+SpellName,enlarge,
+SpellName,entangling vines,
+SpellName,entropic siphon,
 SpellName,extra healing,extra gyógyítás
+SpellName,false life,
 SpellName,fear,félelem
+SpellName,find doors,
+SpellName,find traps,
 SpellName,finger of death,halál ujja
 SpellName,fireball,tűzlabda
 SpellName,flaming sphere,lángoló gömb
 SpellName,force bolt,erőcsapás
+SpellName,foreknowledge,
+SpellName,freedom,
+SpellName,freedom of movement,
 SpellName,freezing sphere,fagyos gömb
+SpellName,frost breath,
 SpellName,full healing,teljes gyógyítás
+SpellName,gate,
+SpellName,gilding touch,
+SpellName,glacial spike,
+SpellName,grasping mind,
+SpellName,grave rot,
+SpellName,gravity well,
+SpellName,guided path,
+SpellName,harvest of souls,
 SpellName,haste,gyorsítás
+SpellName,hazard sense,
 SpellName,healing,gyógyítás
+SpellName,hex,
+SpellName,hexbind,
+SpellName,hideous laughter,
+SpellName,hold monster,
+SpellName,hold person,
+SpellName,holy word,
 SpellName,ice storm,jégvihar
 SpellName,identify,azonosítás
+SpellName,inner calm,
 SpellName,invisibility,láthatatlanság
+SpellName,iron will,
+SpellName,ironbind door,
+SpellName,juggernaut ray,
 SpellName,jumping,ugrás
+SpellName,keen search,
 SpellName,knock,ütés
+SpellName,legion of bone,
 SpellName,levitation,lebegés
 SpellName,light,fény
 SpellName,lightning bolt,villámcsapás
 SpellName,living wall,élő fal
 SpellName,magic mapping,mágikus feltérképezés
 SpellName,magic missile,mágikus lövedék
+SpellName,meteoric cataclysm,
+SpellName,mind ken,
+SpellName,mind link,
+SpellName,mind spike,
+SpellName,mindrend,
+SpellName,mirror ward,
+SpellName,neutralize poison,
+SpellName,oracle's eye,
+SpellName,owl eyes,
+SpellName,petrifying touch,
 SpellName,phasing,térugrás
+SpellName,planar anchor,
+SpellName,planar swap,
 SpellName,poison blast,méregrobbanás
 SpellName,polymorph,átváltozás
+SpellName,porter's reach,
+SpellName,prayer,
+SpellName,premonition,
+SpellName,prismatic spray,
+SpellName,psychic shove,
 SpellName,raise dead,halott-támasztás
+SpellName,rally cry,
+SpellName,ray of enfeeblement,
+SpellName,reap,
 SpellName,regenerate,regenerálódás
 SpellName,remove curse,átoklevétel
+SpellName,repelling ward,
+SpellName,repulsion,
 SpellName,restoration,helyreállítás
+SpellName,revelation,
+SpellName,sanctuary,
+SpellName,scalding cloud,
+SpellName,searing light,
+SpellName,sense curse,
+SpellName,sense the restless,
+SpellName,sentinel ward,
+SpellName,shimmer shield,
 SpellName,shocking sphere,sokkoló gömb
+SpellName,shrink,
+SpellName,silence,
+SpellName,simulacrum,
 SpellName,sleep,alvás
+SpellName,slick detonation,
+SpellName,slipping free,
 SpellName,slow,lassúság
 SpellName,soaking sphere,áztató gömb
+SpellName,song of discord,
+SpellName,spark bolt,
+SpellName,spectral shroud,
+SpellName,spirit leech,
+SpellName,spirit shield,
+SpellName,starfall,
+SpellName,steadfast ward,
+SpellName,stone to flesh,
+SpellName,stoneskin,
 SpellName,summoning,megidézés
+SpellName,sunburst smite,
+SpellName,sunder gear,
+SpellName,swoon,
 SpellName,telekinesis,telekinézis
+SpellName,telekinetic shove,
 SpellName,teleport away,elteleportálás
+SpellName,thunderclap,
+SpellName,timed combustion,
+SpellName,tongue tied,
 SpellName,toxic spray,méregpermet
+SpellName,transmuter's mastery,
+SpellName,true appraisal,
 SpellName,turn undead,élőholttá változtatás
+SpellName,unbinding,
+SpellName,undying ward,
+SpellName,unseen hand,
+SpellName,vampiric feast,
+SpellName,veil of shadows,
+SpellName,wall breach,
+SpellName,wall of thorns,
 SpellName,walling,falazás
+SpellName,ward of return,
+SpellName,warning ward,
+SpellName,web snare,
+SpellName,whispers of madness,
+SpellName,wildfire brand,
+SpellName,wither,
+SpellName,withering ray,
 SpellName,wizard lock,mágikus zárás
+SpellName,world vision,
 StandingName,damned,átkozott
 StandingName,doomed,kudarcra ítélt
 StandingName,doubtful,bizonytalan
@@ -4815,19 +5869,31 @@ VolatileName,blaze,
 VolatileName,blood,
 VolatileName,electricity,
 VolatileName,freeze,
+VolatileName,oil,
 VolatileName,steam,
 WallStructureName,illusionary,illúzió
 WallStructureName,permanent,állandó
 WallStructureName,solid,szilárd
+ZooName,angelic sanctuary,
 ZooName,ant hole,hangyaboly
+ZooName,astral kennel,
 ZooName,barracks,barakk
 ZooName,bee hive,méhkas
 ZooName,cocknest,fészek
 ZooName,college of wizardry,varázslás iskolája
 ZooName,dragon nest,sárkányfészek
+ZooName,dragon rookery,
+ZooName,drow stronghold,
+ZooName,elemental foundry,
+ZooName,golem forge,
 ZooName,graveyard,sírkert
 ZooName,gremlin pit,gremlinverem
+ZooName,jelly vat,
 ZooName,leprechaun hall,leprikón csarnok
+ZooName,military camp,
+ZooName,mimic den,
+ZooName,monster greenhouse,
+ZooName,pheral crypt,
 ZooName,salty pool,sós tó
 ZooName,science lab,labor
 ZooName,slumber party,ottalvós buli

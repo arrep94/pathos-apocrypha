@@ -1,12 +1,15 @@
 008 | Deliarne
 010 | Huhetotl, Maugneshaagar, Nalzok
 012 | Oracle
-015 | Colonel Blood, Count Dracula, Lareth, Lord Surtur, Thoth Amon
-018 | Doctor Frankenstein, Frankenstein's Monster
-020 | Aphrodite, Earendil, Elwing, Hippocrates, Lycaon, Metamorphius, Neferet, Norn, Orion, Pelias, Thorin
-022 | Girtab, Lolth, Scorpius
+015 | Colonel Blood, Count Dracula, Krull, Lareth, Lord Surtur, Thoth Amon
+017 | Byakko
+018 | Doctor Frankenstein, Frankenstein's Monster, General Breetai
+019 | Gianta Klaus
+020 | Aphrodite, Earendil, Elwing, Hippocrates, Lycaon, Metamorphius, Neferet, Norn, Orion, Pelias, Soul Summoner, Thorin
+022 | Girtab, Lolth, Nymph Princess, Scorpius
 025 | Archpriest Avvakrum, Guildmaster Vaughn, Guru Quilion, Lord Carnarvon, Lord Sato, Master Kaen, Shaman Karnov, Sir Lorimar
 030 | Ashikaga Takauji, Assassin Mortimer, Croesus, Twoflower, Van Helsing
+034 | Merdude
 035 | Ixoth, Vecna
 040 | Archmage Dirachi, Archmage Flaynn
 045 | Cerberus, Charon, Death, Famine, Pestilence

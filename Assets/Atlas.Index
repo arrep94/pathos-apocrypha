@@ -1,3 +1,4 @@
+Al Mi raj
 Aleax
 Ancient Katana
 Aphrodite
@@ -12,7 +13,11 @@ Baalzebub
 Backpack
 Blinderag
 Brumstyk
+Byakko
 Carapace
+Celestial Doom
+Celestial Kismet
+Celestial Portent
 Cerberus
 Chaoshammer
 Charon
@@ -28,6 +33,7 @@ Deadwood
 Deagle
 Death
 Deliarne
+Demiurge
 Demogorgon
 Dire Needle
 Dispater
@@ -42,12 +48,15 @@ Eyes of Ra
 Famine
 Father Dagon
 Frankensteins Monster
+General Breetai
 Geryon
+Gianta Klaus
 Giantslayer
 Girtab
 Gold Key
 Grimtooth
 Guildmaster Vaughn
+Gungir
 Guru Quilion
 Harbalest
 Hippocrates
@@ -57,6 +66,7 @@ Ixoth
 Jade Key
 Juiblex
 Kaloi Thrym
+Krull
 Lareth
 Lashing Tongue
 Lolth
@@ -70,14 +80,18 @@ Master Kaen
 Master Key
 Maugneshaagar
 Maulfrost
+Merdude
 Metamorphius
 Mirrorbright
 Miserus
 Mother Hydra
+Mournblade
 Muramasa
 Nalzok
 Neferet
+Nonagon Infinity
 Norn
+Nymph Princess
 Oracle
 Orcus
 Orion
@@ -91,19 +105,27 @@ Ravenbow
 Rosenthral
 Ruby Key
 Runesword
+Runicorn
+Runicorn Horn
 Scorpius
 Shadow Key
 Shaman Karnov
+Shillelagh
 Silver Key
 Sir Lorimar
 Solar
+Soul Summoner
 Stamped Letter
+Stormbringer
+Sudarshana Chakra
 Sunsword
 Talaria
+Tempter
 The Hero
 Thorin
 Thoth Amon
 Twoflower
+Vajra
 Van Helsing
 Vecna
 Verimurus
@@ -111,13 +133,16 @@ Voltaic
 Vorpal Blade
 Witherloch
 Yeenoghu
+Zweihander
 abbot
+abyssal shark
 acid beam backward slant
 acid beam forward slant
 acid beam horizontal
 acid beam vertical
 acid blob
 acid element
+acid elemental
 acid explosion bottom center
 acid explosion bottom left
 acid explosion bottom right
@@ -127,28 +152,41 @@ acid explosion middle right
 acid explosion top center
 acid explosion top left
 acid explosion top right
+acid sphere
+acid splash spell
+acid spore
 acid stream spell
 acid strike
 acid trap
 acid worm
 acolyte
+acrid book
 actions icon
 adamantine arrow
 adamantine axe
 adamantine bident
 adamantine bow
 adamantine bullet
+adamantine crossbow bolt
 adamantine dagger
 adamantine dart
 adamantine golem
 adamantine greataxe
+adamantine greatmace
 adamantine greatsword
 adamantine hatchet
+adamantine helm
+adamantine helmet
+adamantine katana
+adamantine lance
 adamantine long sword
 adamantine plate mail
+adamantine poleaxe
+adamantine quarterstaff
 adamantine rapier
 adamantine sabre
 adamantine short sword
+adamantine shuriken
 adamantine spear
 adamantine staff
 adamantine twohanded sword
@@ -166,17 +204,25 @@ adult white dragon
 adult yellow dragon
 agate ring
 aggravation property
+air binder
 air elemental
+air maker
+air seeker
+air sphere
 aklys
+alabaster book
 alarm trap
+albino rat
 alchemy smock
 altar
 altar broken
 aluminium wand
+amber book
 amnesia trap
 amulet stock
 ancient black dragon
 ancient blue dragon
+ancient book
 ancient deep dragon
 ancient gold dragon
 ancient green dragon
@@ -203,6 +249,7 @@ angel male reaver
 angel nonbinary bard
 angel nonbinary healer
 angel nonbinary paladin
+angel warrior
 animal corpse
 animate dead spell
 animate object
@@ -210,29 +257,54 @@ animate object spell
 animation trap
 ant hole
 antimagic field
+antique book
 ape
 appetite
 apple
 appraisal property
 apprentice
 arc bug
+arc conduit spell
+arcane blight spell
+arcane book
+arcane whetstone spell
 archangel
+archeologist
 archlich
 archon
+arcing bolt spell
+arcing book
+argent book
 armour stock
+army captain
+army lieutenant
+army sergeant
+army soldier
 arrow
 arrow trap
 artifact icon
+artificers exchange spell
 artisan
+ash elemental
+ash giant
+ashen book
+ashen cave bear
+ashen mummy
 asphynx
+assassin
 assassin bug
 assault rifle
 assets icon
 astral deva
+astral dog
+astral dragon
+astral puppy
 athame
 athol
+atonement spell
 attack icon
 attendant
+augury spell
 auto shotgun
 axe
 babau
@@ -243,6 +315,7 @@ baby deep dragon
 baby gold dragon
 baby green dragon
 baby long worm
+baby mimic
 baby orange dragon
 baby purple worm
 baby red dragon
@@ -261,17 +334,28 @@ balsa wand
 baluchitherium
 bamboo wand
 banana
+bandage
+banded book
 banded mail
+bane spell
 banshee
+banshee wail spell
 barbed devil
+barbed ring
 bardiche
 barking spider
 barlgura
 barrier icon
+barring ward spell
 barrow wight
+basalt book
+baseball bat
 basilisk
 bat
+battered book
+battle fury spell
 battleaxe
+beaded book
 bear trap
 bearded devil
 beartrap
@@ -285,23 +369,31 @@ bell of harmony
 bell of resources
 bell of secrets
 bell of strife
+berserker
 berserking property
 big book
 bile worm
 bile worm tail
+bilious book
 billguisarme
 bind undead spell
+binding sphere spell
+birch book
+bishop
 black book
+black bound book
 black dragon scale mail
 black dragon scales
 black gem
 black gloves
+black ice patch spell
 black light
 black marketeer
 black mould
 black naga
 black naga hatchling
 black onyx ring
+black plague spell
 black potion
 black pudding
 black rat
@@ -310,15 +402,22 @@ black unicorn
 black wand
 black warning
 black wasp
+blackened book
+blade blessing spell
 blaze
+bless spell
+blind cave bat
 blindfold
 blindness property
+blink dog
+blink puppy
 blinking eye
 blinking property
 blinking spell
 blood
 blood imp
 bloodshot eye
+bloodstained book
 bloodworm
 bloody potion
 blowgun
@@ -328,41 +427,64 @@ blue gem
 blue jelly
 blue light
 blue robe
+blurred form spell
+bog ogre
 bolt trap
+bone book
+bone bound book
 bone devil
 bone earrings
+bone reaper
 bone staff
+bone white book
 book stock
 boomerang
 boost strike
+boulder bound book
 boulder icon
 bow
+bramble book
+brass book
+brass bound book
 brass bugle
+brass clasped book
 brass knuckles
 brass ring
 brass wand
 brilliant blue potion
+brine elemental
+brittle book
 broadsword
 bronze bell
 bronze book
+bronze golem
 bronze plate mail
 bronze ring
 bronze wand
+bronzed book
 brown mould
 brown potion
 brown pudding
 brownie
 bubbly potion
+buckled book
 bugbear
 bull
 bullet
 bullwhip
+buraq
 burbling blob
+burnished book
+bushi
 byakhee
+call of the pack spell
+calm spell
+caltrop swarm spell
 caltrop trap
 caltrops
 can of grease
 cancellation spell
+candelabrum
 candy bar
 cannibalism property
 canvas book
@@ -373,8 +495,11 @@ carrot
 cast icon
 caterwaul
 catoblepas
+causeway spell
 cave bear
 cave floor
+cave gnome
+cave path
 cave spider
 cave troll
 cave wall bottom left corner
@@ -393,19 +518,28 @@ cave wall tee up
 cave wall top left corner
 cave wall top right corner
 cave wall vertical
+celestial book
 centipede
 ceramic wand
 chain barding
+chain lightning spell
 chain mail
+chained book
 chakram
+chalkstone book
 chameleon
+changeless ward spell
 changeling
 changeling male healer
 character icon
+charcoal book
 charm spell
+charnel book
+charred book
 chasm
 chasme
 cheese
+cherubim
 chest broken
 chest closed
 chest empty
@@ -415,22 +549,35 @@ chickatrice
 chicken
 chief yeoman warder
 chieftain
+chill grasp spell
 chromatic dragon
+chromatic orb spell
+cinder book
+cindered book
 circular amulet
 clairvoyance property
 clairvoyance spell
 clarity property
+clasped book
 clay boulder
+clay bound book
 clay golem
 clay ring
 clay staircase down
 clay staircase up
+claybind touch spell
 clear jelly
 clear potion
+clear sight spell
 cloth book
+cloth shirt
+cloud
+clouded mind spell
 cloudy potion
 clove of garlic
 club
+cobalt book
+cobblestone book
 cobra
 cockatoo
 cockatrice
@@ -442,34 +589,60 @@ cold element
 colossus
 colourful book
 combat boots
+command spell
+commune spell
+compass bound book
 concave amulet
+concussive blast spell
 cone of cold spell
 conflict property
 confusion property
 confusion spell
 conical hat
+conjure barricade spell
+conjure boulder spell
+conjure guardian spell
+conjure homunculus spell
+conjure mount spell
+conjured pit spell
+consecrated book
+consecration spell
+contagion spell
 continue icon
 convex amulet
 copper book
 copper ring
 copper wand
+coral book
 coral ring
+corded book
+corpse explosion spell
+corroding ray spell
 couatl
 cow
 coyote
 crabs affliction
+cracked book
 craft station
 cram ration
+cratered book
 cration
 cream pie
 create familiar spell
+credit card
+creeping palsy spell
 crested helmet
+crimson book
+crimson cloak
+crimson ichor lance spell
 crocodile
 crossbow
 crossbow bolt
+crumbling book
 crushing sphere spell
 crysknife
 crystal ball
+crystal book
 crystal boulder
 crystal bridge horizontal
 crystal bridge vertical
@@ -486,14 +659,19 @@ crystal golem
 crystal plate mail
 crystal staff
 crystal wand
+crystalline book
 curing spell
 curved wand
 custom icon
+cut glass book
 cut icon
 cyan book
+cyan jelly
 cyan potion
 cyclops
 dagger
+damascened book
+danger sense spell
 dao
 dark blue book
 dark brown book
@@ -513,8 +691,10 @@ dark potion
 dark sepulchre
 dark vision property
 darkness spell
+darkstone
 dart
 dart trap
+daze spell
 deafness property
 death beam backward slant
 death beam forward slant
@@ -531,11 +711,15 @@ death explosion top center
 death explosion top left
 death explosion top right
 death strike
+death ward spell
+deaths bargain spell
+deathwatch spell
 deep book
 deep dragon scale mail
 deep dragon scales
 deep gnome
 deep one
+deep water
 deeper one
 deepest one
 defence icon
@@ -591,8 +775,10 @@ demon orc
 dented pot
 depth icon
 detect food spell
+detect metal spell
 detect monsters spell
 detect treasure spell
+detect undead spell
 detect unseen spell
 detonation key
 device icon
@@ -606,6 +792,8 @@ dingo
 dingo puppy
 dirt
 dirty rag
+disarming ward spell
+discord spell
 disenchanter
 disgusting mould
 disintegrate element
@@ -615,12 +803,20 @@ disintegration beam forward slant
 disintegration beam horizontal
 disintegration beam vertical
 disintegrator
+dispel magic spell
 displacement property
+displacement spell
 displacer beast
+divine favor spell
+divine intervention spell
 djinni
 dog
 dog eared book
+dolomite book
+dominate mind spell
 doppelganger
+doublet
+dove grey book
 dracolich
 dracon
 dracon female druid
@@ -637,6 +833,7 @@ dracon male reaver
 dracon male rogue
 dracon male valkyrie
 dracon male wizard
+dragon horn
 dragon king
 drain element
 drain life spell
@@ -645,14 +842,20 @@ drow
 drow arrow
 drow bow
 drow dagger
+drow mage
 drow mithrilcoat
+drow monk
+drow priestess
 drow short sword
+drow thief
 drum of earthquake
 dryad
+duck
 duergar
 dull book
 dung worm
 duration icon
+dusk blue book
 dust vortex
 dusty book
 dwarf
@@ -698,6 +901,7 @@ dwarf warrior
 dwarf zombie
 dwarvish cloak
 dwarvish iron helm
+dwarvish katar
 dwarvish mattock
 dwarvish mithrilcoat
 dwarvish roundshield
@@ -709,6 +913,7 @@ earth elemental
 earth maker
 earth seeker
 earth sphere
+earthen colossus spell
 ebony wand
 echo
 echo male gunslinger
@@ -717,9 +922,11 @@ echo male mystic
 echo male necromancer
 echo male templar
 echo male wizard
+eelskin book
 effervescent potion
 efreeti
 egg
+elder wizard
 electric eel
 electric explosion bottom center
 electric explosion bottom left
@@ -731,6 +938,8 @@ electric explosion top center
 electric explosion top left
 electric explosion top right
 electricity
+elemental servant spell
+elemental warding spell
 elephant
 elf
 elf female barbarian
@@ -754,22 +963,32 @@ elf zombie
 elven arrow
 elven bow
 elven broadsword
+elven chakram
 elven cloak
 elven dagger
+elven hand crossbow
 elven leather helm
 elven mithrilcoat
 elven shield
 elven short sword
 elven spear
 embalmer
+ember book
+ember lance spell
+ember panther
+ember spitting beetle
 emerald golem
 emerald potion
 emerald ring
 encumbrance icon
+energy elemental
 energy strike
 energy vortex
 engagement ring
+enlarge spell
+entangling vines spell
 entity icon
+entropic siphon spell
 entropy trap
 equip amulet
 equip barding
@@ -791,17 +1010,24 @@ equip right ring
 equip shirt
 equip suit
 erinys
+eshim
+etched book
 etched helmet
+eternity ring
 ettin
 ettin mummy
 ettin zombie
 eucalyptus leaf
 expensive camera
+explosive elemental
+explosive sphere
 explosive trap
 exterminator
 extinction icon
 extra healing spell
+eyeball
 faded book
+fae dragon
 fainting property
 fairy
 fairy female barbarian
@@ -836,15 +1062,20 @@ fairy male valkyrie
 fairy male wizard
 falling boulder trap
 falling rock trap
+false life spell
 fame icon
+fancy boots
 fauchard
 fear property
 fear spell
 fedora
+feldspar book
+female alchemist
 female barbarian
 female bard
 female caveman
 female convict
+female demon
 female druid
 female explorer
 female gladiator
@@ -865,6 +1096,7 @@ female ranger
 female reaver
 female rogue
 female samurai
+female savage
 female shaman
 female templar
 female tinker
@@ -883,6 +1115,8 @@ fiery explosion top center
 fiery explosion top left
 fiery explosion top right
 figurine
+find doors spell
+find traps spell
 finger of death spell
 fire ant
 fire beam backward slant
@@ -900,6 +1134,7 @@ fire vortex
 firearm stock
 fireball spell
 fish
+fishing pole
 fixture icon
 fizzy potion
 flail
@@ -914,6 +1149,7 @@ fledgling raven
 flesh golem
 flight property
 flint
+flint book
 floating eye
 floor icon
 fly swatter
@@ -924,22 +1160,36 @@ food stock
 force bolt spell
 force element
 force strike
+foreknowledge spell
 forest centaur
+forked wand
 fortune cookie
 fountain
 fountain broken
 fox
 frag grenade
 free action property
+freedom of movement spell
+freedom spell
 freeze
 freezing sphere spell
+frisbee
+frost beetle
 frost binder
+frost breath spell
+frost cobra
+frost dwarf
 frost giant
 frost horn
+frost long worm
+frost lynx
 frost maker
 frost seeker
 frost sphere
 frost strike
+frost wraith
+frostbitten book
+frosted book
 frosty explosion bottom center
 frosty explosion bottom left
 frosty explosion bottom right
@@ -954,12 +1204,15 @@ full healing spell
 fumbling property
 fur boots
 fuzzy book
+gale book
+galgalim
 gargoyle
 garter snake
 gas grenade
 gas spore
 gas strike
 gate icon
+gate spell
 gecko
 gelatinous cube
 gem stock
@@ -1010,6 +1263,7 @@ giant female valkyrie
 giant female wizard
 giant flea
 giant frog
+giant hamster
 giant king
 giant louse
 giant male barbarian
@@ -1055,15 +1309,22 @@ giant wasp
 giant zombie
 gibberling
 gila monster
+gilded book
+gilding touch spell
+glacial spike spell
 glaive
+glass bound book
 glass golem
 glass piercer
 glass ring
 glass wand
 glittering book
 gloomy potion
+glossy potion
+gloved book
 glowing eye
 gluttony punishment
+gneiss book
 gnoll
 gnoll chieftain
 gnoll shaman
@@ -1122,9 +1383,12 @@ gnomish wizard
 goat
 goblin
 goblin king
+gold axe
 gold book
 gold boulder
+gold chakram
 gold coin
+gold dagger
 gold door broken
 gold door closed horizontal
 gold door closed vertical
@@ -1134,21 +1398,43 @@ gold door open horizontal
 gold door open vertical
 gold door trapped horizontal
 gold door trapped vertical
+gold double vajra
 gold dragon scale mail
 gold dragon scales
 gold earrings
+gold flail
 gold floor
 gold golem
+gold khanda
+gold labrys
+gold longsword
+gold plate mail
 gold ring
+gold single vajra
+gold spade
+gold trident
+gold twohanded sword
+gold urumi
 gold wand
+gold whistle
 golden naga
 golden naga hatchling
 golden potion
+gossamer book
+granite book
 granite floor
 granite ring
+graphite book
+grappling hook
+grasping mind spell
 grass
 grave
+grave bound book
 grave broken
+grave mimic
+grave rot spell
+gravel book
+gravity well spell
 grease trap
 great dagger
 great orc
@@ -1156,6 +1442,7 @@ green dragon scale mail
 green dragon scales
 green elf
 green gem
+green jelly
 green mould
 green robe
 green slime
@@ -1171,21 +1458,29 @@ guardian naga
 guardian naga hatchling
 gug
 guide
+guided path spell
 guisarme
 gypsy
+hag
 halberd
 halfling
+halfling female caveman
 halfling female reaver
+halfling male caveman
 halfling male knight
 halfling male reaver
 hallucination property
 hallucination trap
 hardcover book
 harpy
+harvest of souls spell
 haste spell
 hatchet
 hawaiian shirt
+hazard sense spell
+hazel book
 healing spell
+healthstone
 heavy hammer
 heavy iron ball
 heavy machine gun
@@ -1211,9 +1506,13 @@ hellbat
 hellcat
 hellrat
 help icon
+hex spell
 hexagonal amulet
 hexagonal wand
+hexbind spell
 hezrou
+hide bound book
+hideous laughter spell
 high boots
 high elf
 high priest
@@ -1221,12 +1520,17 @@ hiking boots
 hill giant
 hill orc
 hive floor
+hoarfrost book
 hobgoblin
+hold monster spell
+hold person spell
 hole
+hollow book
 holy cleric
 holy shrine
 holy strike
 holy wafer
+holy word spell
 homunculus
 horn of plenty
 horned devil
@@ -1239,15 +1543,18 @@ human
 human king
 human mummy
 human zombie
+humantrap
 humongous book
 hunger property
 hunger trap
 hunting rifle
+huntress
 hydra
 ice
 ice box
 ice devil
 ice elemental
+ice giant
 ice storm spell
 ice trap
 ice troll
@@ -1258,9 +1565,12 @@ ignoramus punishment
 iguana
 illiteracy punishment
 imp
+incandescent book
 incubus
 indigo book
 inebriation property
+ink pool
+inner calm spell
 intern
 interrupt
 inventory icon
@@ -1268,6 +1578,7 @@ invisibility property
 invisibility spell
 iridium wand
 iron bars
+iron bound book
 iron chain
 iron door broken
 iron door closed horizontal
@@ -1284,10 +1595,14 @@ iron ration
 iron ring
 iron shoes
 iron wand
+iron will spell
+ironbind door spell
+ivory book
 ivory ring
 jabberwock
 jackal
 jackalwere
+jade book
 jade ladder down
 jade ladder up
 jade ring
@@ -1310,21 +1625,29 @@ jade wall vertical
 jaguar
 javelin
 jellyfish
+jewelled book
 jewelled wand
 jiggling blob
 journal icon
 juggernaut
+juggernaut ray spell
 jumping property
 jumping spell
 jungle boots
+jungle kobold
 juvenile raven
 kamadan
 kanabo
 katana
 katar
+keen search spell
+keening book
 kelp frond
 key
 keystone kop
+khaki potion
+khopesh
+khopesh artifact
 killer bee
 killer beetle
 killer food ration
@@ -1372,8 +1695,12 @@ large mimic
 large pile of killer coins
 large shield
 larva
+lattice floor
 lava
 lava blob
+lava troll
+leaden book
+leash
 leather armour
 leather barding
 leather book
@@ -1382,6 +1709,7 @@ leather drum
 leather gloves
 leather golem
 leather jacket
+legion of bone spell
 lembas wafer
 lemure
 lenses
@@ -1419,6 +1747,8 @@ lightning beam vertical
 lightning bolt spell
 lightning bug
 lightning trap
+limestone book
+linen book
 little dog
 living wall
 living wall spell
@@ -1458,8 +1788,11 @@ lizardman male samurai
 lizardman male shaman
 lizardman male valkyrie
 lizardman male wizard
+lizardman samurai
 lizardman shaman
 lizardman warrior
+loadstone
+loam book
 lock pick
 long book
 long sword
@@ -1468,6 +1801,7 @@ long worm
 long worm tail
 low boots
 lucern hammer
+luckstone
 luminescent potion
 lump of royal jelly
 lurker above
@@ -1502,6 +1836,7 @@ magical explosion top center
 magical explosion top left
 magical explosion top right
 main gauche
+male alchemist
 male barbarian
 male bard
 male caveman
@@ -1526,6 +1861,7 @@ male ranger
 male reaver
 male rogue
 male samurai
+male savage
 male shaman
 male templar
 male tinker
@@ -1539,10 +1875,12 @@ manes
 mangler
 map icon
 maple wand
+marble book
 marble floor
 marble wand
 marid
 marilith
+marlstone book
 master lich
 master mind flayer
 mastodon
@@ -1550,18 +1888,31 @@ meat ring
 meat stick
 meatball
 medallion amulet
+medical kit
 medusa
+melanistic moccasin
 mellified man
 melon
 merchant
 metal floor
+meteoric cataclysm spell
+mica book
 midas touch punishment
 midget
+midnight jelly
 migo drone
 migo queen
 migo warrior
+mildewed book
 milky potion
+millstone book
+mimic
+mimic coins
 mind flayer
+mind ken spell
+mind link spell
+mind spike spell
+mindrend spell
 minotaur
 minotaur lord
 minotaur male barbarian
@@ -1576,8 +1927,11 @@ minotaur male ranger
 minotaur male templar
 minotaur male tourist
 minotaur male wizard
+mirror
+mirror ward spell
 mist wolf
 mithril arrow
+mithril axe
 mithril barding
 mithril battleaxe
 mithril boots
@@ -1585,29 +1939,42 @@ mithril bullet
 mithril crossbow bolt
 mithril dagger
 mithril dart
+mithril gauntlets
 mithril golem
+mithril greatmace
+mithril greatsword
+mithril hatchet
 mithril helmet
+mithril katana
 mithril katar
 mithril lance
 mithril long sword
 mithril plate mail
+mithril poleaxe
+mithril rapier
 mithril ring
 mithril sabre
 mithril shield
 mithril short sword
+mithril shuriken
 mithril spear
 mithril staff
+mithril trident
 mithril twohanded sword
 mithril whip
 mobat
+molten gila monster
 monadic deva
 mongbat
 monkey
 mood ring
 moonstone ring
+mooshroom
 more icon
 morning star
 moss
+mossy book
+moth eaten book
 mottled book
 mouldy pudding
 mountain centaur
@@ -1628,25 +1995,35 @@ mugger
 mumak
 mummy wrapping
 murky potion
+murmuring book
 mushroom
+mutation affliction
+muted book
 mystic coven
+mystical dragon
 nabassu
+naginata
 nalfeshnee
 narcolepsy property
 nazgul
 neanderthal
 necrotic element
+neutralize poison spell
 newt
 nickelpede
 nightgaunt
 nightmare
 nits affliction
 noble
+noble elf
+notched book
 noxious pool
+nun
 nunchaku
 nupperibo
 nurse
 oak wand
+obsidian book
 obsidian floor
 obsidian ring
 occultist
@@ -1658,11 +2035,17 @@ ogre
 ogre king
 ogre lord
 ogre mage
+oil
 oil lamp
 oilskin cloak
+olive branch book
 ologhai
+onyx book
+opal book
 opal ring
+opaline book
 opera cloak
+oracles eye spell
 orange
 orange book
 orange dragon scale mail
@@ -1702,11 +2085,13 @@ orc male shaman
 orc male wizard
 orc mummy
 orc shaman
+orc thief
 orc warrior
 orc zombie
 orcish arrow
 orcish bow
 orcish chain mail
+orcish chakram
 orcish cloak
 orcish dagger
 orcish helm
@@ -1715,11 +2100,15 @@ orcish shield
 orcish short sword
 orcish spear
 ornamental cope
+ossuary book
 oval amulet
+owl eyes spell
 owlbear
 pack rat
 padded gloves
 page
+pale book
+pale cave spider
 palette icon
 pancake
 panther
@@ -1742,16 +2131,25 @@ pentagram
 pentagram broken
 petrify element
 petrifying property
+petrifying touch spell
 phantom key
 phase spider
 phase worm
 phasing property
 phasing spell
+pheral khit
+pheral pharaoh
+pheral sentinel
+pheral vizier
+phial
+phoenix down book
 physical element
 pickaxe
 piece of cloth
 pig
 pile of killer coins
+pill
+pine wand
 pink book
 pink potion
 pink warning
@@ -1761,22 +2159,32 @@ pit
 pit bull
 pit fiend
 pit viper
+pitted book
 pixie
+plague jackal
+plague ridden book
+plague zombie
 plaid book
 plain book
 plain ring
 plain robe
 plains centaur
+planar anchor spell
+planar swap spell
 plasmoid
 plasmoid nonbinary tinker
+plastic bat
 plastic golem
+plastic hammer
 plastic sword
+plastic wand
 plate barding
 plate mail
 platform icon
 platinum wand
 play icon
 plumed helmet
+pocked book
 poison beam backward slant
 poison beam forward slant
 poison beam horizontal
@@ -1791,26 +2199,37 @@ polymorph property
 polymorph spell
 polymorph trap
 pony
+porphyry book
 portal icon
 porter
+porters reach spell
 portrait icon
 potion stock
+prayer spell
+premonition spell
 pressure plate
+prismatic book
+prismatic spray spell
 protagonist
 proudfoot
+psalm book
+psychic shove spell
 psychic strike
 psychosis punishment
 puce potion
+pumice book
 purple book
 purple warning
 purple worm
 purple worm tail
 purplered potion
+pyramid
 pyramidal amulet
 pyrolisk
 python
 quantum mechanic
 quarterstaff
+quartzite book
 quasit
 queen bee
 quick attack
@@ -1845,6 +2264,7 @@ quick turnbased
 quick wait
 quickling
 quickness property
+quicksilver book
 quiver icon
 quivering blob
 rabbit
@@ -1852,20 +2272,26 @@ rabid rabbit
 rabid rat
 rabid wolf
 rabies affliction
+radiant book
 rage property
 ragged book
+railgun
 rainbow book
 raise dead spell
+rally cry spell
 rancid jelly
 ranseur
 rapier
 rat king
 ratwere
+ray of enfeeblement spell
+reap spell
 recluse spider
 red book
 red dragon scale mail
 red dragon scales
 red gem
+red jelly
 red light
 red mould
 red naga
@@ -1876,19 +2302,25 @@ reflection property
 reflux affliction
 regenerate spell
 remove curse spell
+repelling ward spell
+repulsion spell
 reroll icon
 rest icon
 restoration spell
 resurrection icon
 return icon
+revelation spell
 rhaumbusun
 rhumbat
 riding boots
 riding gloves
 rift
+rimed book
 ring mail
 ring stock
+riveted book
 robot
+robot female
 robot female bard
 robot female druid
 robot female jester
@@ -1926,7 +2358,10 @@ robot male templar
 robot male tinker
 robot male tourist
 robot male valkyrie
+robot male vampire gunslinger
 robot male wizard
+robot sentry
+robot singer
 rock
 rock kobold
 rock mole
@@ -1935,6 +2370,18 @@ rock troll
 rocket
 rocket launcher
 rope golem
+rose axe
+rose battleaxe
+rose bident
+rose dagger
+rose greatsword
+rose hatchet
+rose long sword
+rose rapier
+rose ring
+rose sabre
+rose short sword
+rose spear
 roshi
 rot worm
 rothe
@@ -1942,20 +2389,29 @@ rubber hose
 ruby golem
 ruby potion
 ruby ring
+runed book
 runed wand
+russet book
 rust monster
+rusted book
 rusty wand
 rutterkin
+sable book
 sabre
 sabretoothed cat
 sack
 sacred grove
 saddle
+saddle book
 sai
 salamander
+sallow book
+sanctuary spell
 sand
 sandestin
 sandwich
+sanguine book
+sapphire book
 sapphire golem
 sapphire ring
 sarcophagus
@@ -1998,8 +2454,11 @@ satyr male tourist
 satyr male valkyrie
 satyr male wizard
 sawnoff shotgun
+scalded book
+scalding cloud spell
 scale mail
 scalpel
+schist book
 scholar
 scimitar
 scorch
@@ -2013,7 +2472,14 @@ scything blade trap
 seal
 search icon
 searching property
+searing light spell
 see invisible property
+sense curse spell
+sense the restless spell
+sentinel ward spell
+sepia book
+sepulchral book
+seraphim
 sergeant
 sever strike
 sewer floor
@@ -2039,11 +2505,16 @@ shadow
 shadow book
 shadow ogre
 shadow wolf
+shale book
+shallow water
+shaolin monk
 shark
 sheep
 shield of reflection
 shield strike
 shifter
+shimmer shield spell
+shimmering book
 shimmering dragon scale mail
 shimmering dragon scales
 shining book
@@ -2061,7 +2532,9 @@ short sword
 short wand
 shotgun
 shotgun shell
+shrapnel book
 shrieker
+shrink spell
 shroom
 shroud
 shunning punishment
@@ -2069,7 +2542,11 @@ shuriken
 sickle
 sickness property
 silence property
+silence spell
 silence trap
+silk book
+silken book
+silly wand
 silver arrow
 silver axe
 silver book
@@ -2078,16 +2555,21 @@ silver crossbow bolt
 silver dagger
 silver dragon scale mail
 silver dragon scales
+silver golem
 silver heavy hammer
 silver lance
 silver long sword
 silver mace
+silver rapier
 silver ring
 silver sabre
 silver short sword
 silver spear
 silver twohanded sword
 silver wand
+silvered book
+simulacrum spell
+sink
 skeleton
 skeleton key
 skill abjuration
@@ -2132,6 +2614,7 @@ skill traps
 skill unarmed combat
 skill whip
 sky blue potion
+slate book
 sleep beam backward slant
 sleep beam forward slant
 sleep beam horizontal
@@ -2140,10 +2623,13 @@ sleep element
 sleep spell
 sleeping gas trap
 sleeping property
+slick detonation spell
 slime mould
 sliming affliction
 sling
+sling staff
 slippery property
+slipping free spell
 slow digestion property
 slow spell
 slowness property
@@ -2159,12 +2645,20 @@ snow boots
 snow golem
 snow orc
 soaking sphere spell
+solar book
 soldier
 soldier ant
+song of discord spell
+sonic elemental
+sonic sphere
+sooty book
+soul bound book
+spark bolt spell
 spark bug
 sparkling potion
 spear
 spear trap
+spectral shroud spell
 speed icon
 spell icon
 spetum
@@ -2174,6 +2668,8 @@ spiderwere
 spiked pit
 spiked wand
 spined devil
+spirit leech spell
+spirit shield spell
 spirit strike
 spitting beetle
 splatter A
@@ -2215,16 +2711,24 @@ stall
 stall broken
 standing
 star vampire
+starfall spell
+starless book
+starlit book
 stash icon
 static blob
+static book
 statue
 statue base
+statue trap
+steadfast ward spell
 stealth property
 steam
 steam vortex
 steed icon
+steel boots
 steel ring
 steel wand
+stethoscope
 stick of dynamite
 stiletto
 stone boulder
@@ -2235,6 +2739,7 @@ stone golem
 stone path
 stone staircase down
 stone staircase up
+stone to flesh spell
 stone wall bottom left corner
 stone wall bottom right corner
 stone wall cross
@@ -2251,7 +2756,13 @@ stone wall tee up
 stone wall top left corner
 stone wall top right corner
 stone wall vertical
+stoneskin spell
+storm ape
+storm coyote
 storm giant
+storm raven
+storm wracked book
+strange object
 straw golem
 stuck icon
 studded leather armour
@@ -2261,6 +2772,11 @@ stylish book
 submachine gun
 succubus
 summoning spell
+sun elf
+sunburst smite spell
+sunder gear spell
+sundered book
+sunlit book
 sustain ability property
 swallowed bottom center
 swallowed bottom left
@@ -2272,56 +2788,77 @@ swallowed top center
 swallowed top left
 swallowed top right
 swamp kobold
+swamp orc
 swirly potion
+swoon spell
+tabard
 tally icon
 tan book
+tar pudding
 tattered book
 tattered cape
 telekinesis property
 telekinesis spell
+telekinetic shove spell
 telepathy property
 teleport away spell
 teleport control property
 teleportation property
 teleporter
+temptress
 tengu
 thick book
+thief
 thin book
 thirst punishment
 throne
 throne broken
 thug
+thunderclap spell
+thunderous book
 tiger
 tiger eye ring
 tigerwere
+timed combustion spell
 tin
+tin golem
+tin opener
 tin wand
 tin whistle
 tinning kit
 tiny book
 titan
 titanothere
+toilet
+tongue tied spell
 tool stock
 tooled horn
+topaz book
 topaz golem
 topaz ring
 torch
 torn book
 tortilla
 tortle
+touchstone
+towel
 toxic spray spell
 toxic trap
 tracker
+trader
 transmuter
+transmuters mastery spell
 transportal
 trapdoor
 trapper
+traveller
 treant
 tree
 triangular amulet
 trident
 trigger icon
 tripe ration
+triplesword
 troll
 troll female bard
 troll female reaver
@@ -2341,6 +2878,7 @@ troll male wizard
 troll mummy
 trophy
 trophy base
+true appraisal spell
 tsetse fly
 tshirt
 tsurugi
@@ -2352,44 +2890,61 @@ turquoise book
 twisted ring
 twohanded sword
 twoheaded troll
+umber book
 umber hulk
+unbinding spell
+unbound book
 unchanging property
 undead slayer
 undo icon
+undying ward spell
 unicorn horn
 unknown icon
+unseen hand spell
 uranium wand
 vampire
 vampire bat
 vampire king
 vampire lord
 vampire mage
+vampiric feast spell
 vanity icon
 vegetable corpse
+veil of shadows spell
+veiled book
 vellum book
 velvet book
 venom strike
+verdigris book
 violet book
 violet fungus
 violet gem
+violet jelly
 visored helmet
 vitality property
 volatile icon
+voltaic book
 vorpal jabberwock
 voulge
 vrock
 wakizashi
+wall breach spell
+wall of thorns spell
 walling spell
 wand stock
 wanted punishment
 war club
 war hammer
+war maul
 war orc
+ward of return spell
 warg
 warhorse
 warlock
 warning property
+warning ward spell
 warped amulet
+warped book
 warrior
 watch captain
 watchman
@@ -2417,9 +2972,12 @@ watery explosion top left
 watery explosion top right
 wax candle
 wax golem
+waxen book
 weapon stock
 web
+web snare spell
 wedding ring
+welded book
 werejackal
 werepanther
 wererat
@@ -2427,6 +2985,10 @@ weresnake
 werespider
 weretiger
 werewolf
+wheellock pistol
+whetstone
+whispering book
+whispers of madness spell
 white book
 white dragon scale mail
 white dragon scales
@@ -2436,11 +2998,18 @@ white unicorn
 white warning
 wide book
 wight
+wildfire brand spell
+wilted book
+wind sphere
 winged gargoyle
 winter wolf
 winter wolf cub
 wire ring
 witch
+wither spell
+withered book
+withering ray spell
+wizard
 wizard lock spell
 wolf
 wolfwere
@@ -2466,7 +3035,10 @@ wooden harp
 wooden ladder down
 wooden ladder up
 wooden ring
+wooden sign
 wooden stake
+wooden stool
+wooden table
 wooden wall bottom left corner
 wooden wall bottom right corner
 wooden wall cross
@@ -2486,8 +3058,10 @@ wooden wall vertical
 woodland elf
 workbench
 workbench broken
+world vision spell
 worm tooth
 worms affliction
+wormwood book
 wraith
 wrinkled book
 wumpus
@@ -2520,8 +3094,10 @@ young shimmering dragon
 young silver dragon
 young white dragon
 young yellow dragon
+yoyo
 yumi
 zinc wand
+zombietree
 zruty
 __CustomPortrait__
 __CustomCompanionPortrait__

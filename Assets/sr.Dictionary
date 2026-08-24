@@ -1,4 +1,5 @@
 ﻿AfflictionDescription,Deadly venom courses through your veins.,Smrtonosni otrov teče kroz tvoje vene.
+AfflictionDescription,Groteseque changes are happening to your body.,
 AfflictionDescription,Something deeply unsettling is happening... down there.,Nešto duboko uznemirujuće se dešava ... tamo dole.
 AfflictionDescription,There is a gnawing sensation from deep inside your stomach.,Postoji osećaj grizenja iz dubine stomaka.
 AfflictionDescription,This viral disease causes inflammation of the brain and is spread by infected animals.,Ova virusna bolest uzrokuje upalu mozga i širi se zaraženim životinjama.
@@ -6,6 +7,7 @@ AfflictionDescription,You feel unclean and everything itches.,Osećate se nečis
 AfflictionDescription,You have a dreadful case of stomach acid.,Imate užasan slučaj želudačne kiseline.
 AfflictionDescription,Your skin is sickly green and something is very wrong inside your stomach.,Vaša koža je bolesno zelena i nešto nije u redu u stomaku.
 AfflictionName,crabs,krabe
+AfflictionName,mutation,
 AfflictionName,nits,sadržina
 AfflictionName,poisoning,trovanje
 AfflictionName,rabies,besnilo
@@ -43,76 +45,136 @@ AppearanceDescription,A short but sturdy looking coat of mithril armour.,"Kratak
 AppearanceDescription,A slender and delicate looking coat of mithril armour.,Vitak i delikatan kaput od mitrilnog oklopa.
 AppearanceDescription,A slender and glossy looking coat of mithril armour.,Vitak i sjajan kaput od mitrilnog oklopa.
 AppearanceDescription,This classic wizard accessory is a pointed hat decorated with moons and stars.,Ovaj klasični čarobnjak dodatak je šiljasti šešir ukrašen mesecima i zvezdama.
+AppearanceName,acrid book,
 AppearanceName,adamantine slug,adamantinska čaura
 AppearanceName,adamantine staff,adamantinski štap
 AppearanceName,agate ring,ahat prsten
+AppearanceName,alabaster book,
 AppearanceName,aluminium wand,aluminijumski štapić
+AppearanceName,amber book,
+AppearanceName,ancient book,
 AppearanceName,angled poleaxe,zakrivljena poleksa
+AppearanceName,antique book,
+AppearanceName,arcane book,
+AppearanceName,arcing book,
+AppearanceName,argent book,
+AppearanceName,ashen book,
 AppearanceName,backwards book,knjiga unazad
 AppearanceName,bag,torba
 AppearanceName,balsa wand,balsa štapić
 AppearanceName,bamboo arrow,bambus strela
 AppearanceName,bamboo wand,bambus štapić
+AppearanceName,banded book,
+AppearanceName,barbed ring,
+AppearanceName,basalt book,
+AppearanceName,battered book,
+AppearanceName,beaded book,
 AppearanceName,beaked polearm,kljunasto bojno koplje
 AppearanceName,bell,zvono
 AppearanceName,big book,velika knjiga
+AppearanceName,bilious book,
+AppearanceName,birch book,
 AppearanceName,black book,crna knjiga
+AppearanceName,black bound book,
 AppearanceName,black gem,crni dragulj
 AppearanceName,black gloves,crne rukavice
 AppearanceName,black onyx ring,oniks prsten
 AppearanceName,black potion,crni napitak
+AppearanceName,black stone,
 AppearanceName,black wand,crni štap
+AppearanceName,blackened book,
+AppearanceName,bloodstained book,
 AppearanceName,bloody potion,krvavi napitak
 AppearanceName,blue and green shield,plavi i zeleni štit
 AppearanceName,blue gem,plavi dragulj
 AppearanceName,blue robe,plava odora
+AppearanceName,bone book,
+AppearanceName,bone bound book,
 AppearanceName,bone earrings,koštane minđuše
 AppearanceName,bone staff,koštani štap
+AppearanceName,bone white book,
+AppearanceName,boulder bound book,
+AppearanceName,bramble book,
+AppearanceName,brass book,
+AppearanceName,brass bound book,
+AppearanceName,brass clasped book,
 AppearanceName,brass ring,mesing prsten
 AppearanceName,brass wand,mesing štapić
 AppearanceName,brilliant blue potion,briljantni plavi napitak
+AppearanceName,brittle book,
+AppearanceName,broad katar,
 AppearanceName,broad pick,široki kramp
 AppearanceName,broad short sword,široki kratki mač
 AppearanceName,bronze book,bronzana knjiga
 AppearanceName,bronze ring,bronzani prsten
 AppearanceName,bronze wand,bronzani štapić
+AppearanceName,bronzed book,
 AppearanceName,brown potion,braon napitak
 AppearanceName,bubbly potion,penušavi napitak
+AppearanceName,buckled book,
 AppearanceName,bugle,bugla
+AppearanceName,burnished book,
 AppearanceName,candle,sveća
 AppearanceName,canvas book,platno knjiga
+AppearanceName,celestial book,
 AppearanceName,ceramic wand,keramički štapić
+AppearanceName,chained book,
+AppearanceName,chalkstone book,
+AppearanceName,charcoal book,
+AppearanceName,charnel book,
+AppearanceName,charred book,
+AppearanceName,cinder book,
+AppearanceName,cindered book,
 AppearanceName,circular amulet,kružni amulet
+AppearanceName,clasped book,
+AppearanceName,clay bound book,
 AppearanceName,clay ring,glineni prsten
 AppearanceName,clear potion,čisti napitak
+AppearanceName,clockwork gun,
 AppearanceName,cloth book,tkanina knjiga
 AppearanceName,cloudy potion,oblačni napitak
 AppearanceName,coarse mantelet,grubi mantelet
+AppearanceName,cobalt book,
+AppearanceName,cobblestone book,
+AppearanceName,coiled gun,
 AppearanceName,colourful book,obojena knjiga
 AppearanceName,combat boots,borbene čizme
 AppearanceName,compact gun,kompaktan pištolj
+AppearanceName,compass bound book,
 AppearanceName,concave amulet,konkavni amulet
 AppearanceName,conical hat,konusni šešir
+AppearanceName,consecrated book,
 AppearanceName,convex amulet,konveksna amajlija
 AppearanceName,copper book,bakarna knjiga
 AppearanceName,copper ring,bakaran prsten
 AppearanceName,copper wand,bakaran štapić
+AppearanceName,coral book,
 AppearanceName,coral ring,koralni prsten
+AppearanceName,corded book,
+AppearanceName,cracked book,
+AppearanceName,cratered book,
 AppearanceName,crested helmet,odmoreni šlem
+AppearanceName,crimson book,
 AppearanceName,crude arrow,gruba strela
 AppearanceName,crude bow,grub luk
 AppearanceName,crude chain mail,grubi lančani oklop
 AppearanceName,crude dagger,grub nož
+AppearanceName,crude disc,
 AppearanceName,crude ring mail,grubi prstenasti oklop
 AppearanceName,crude short sword,grub kratki mač
 AppearanceName,crude spear,grubo koplje
+AppearanceName,crumbling book,
+AppearanceName,crystal book,
 AppearanceName,crystal staff,kristalni štap
 AppearanceName,crystal wand,kristalni štapić
+AppearanceName,crystalline book,
 AppearanceName,curved polearm,zakrivljeno bojno koplje
 AppearanceName,curved sword,zakrivljen mač
 AppearanceName,curved wand,zakrivljen štapić
+AppearanceName,cut glass book,
 AppearanceName,cyan book,cijan knjiga
 AppearanceName,cyan potion,cijan napitak
+AppearanceName,damascened book,
 AppearanceName,dark blue book,crno plava knjiga
 AppearanceName,dark brown book,crno braon knjiga
 AppearanceName,dark green book,crno zelena knjiga
@@ -122,27 +184,43 @@ AppearanceName,deep book,duboka knjiga
 AppearanceName,diamond ring,dijamantski prsten
 AppearanceName,dirty rag,prljava torba
 AppearanceName,dog eared book,knjiga sa uvrnutim stranama
+AppearanceName,dolomite book,
 AppearanceName,double-headed axe,dvoglava sekira
+AppearanceName,dove grey book,
+AppearanceName,dress boots,
 AppearanceName,drum,bubanj
 AppearanceName,dull book,dosadna knjiga
+AppearanceName,dusk blue book,
 AppearanceName,dusty book,prašnjava knjiga
 AppearanceName,ebony wand,štapić od abonosa
+AppearanceName,eelskin book,
 AppearanceName,effervescent potion,šumeći napitak
+AppearanceName,ember book,
 AppearanceName,emerald potion,smaragdni napitak
 AppearanceName,emerald ring,smaragdni prsten
 AppearanceName,engagement ring,verenički prsten
+AppearanceName,etched book,
 AppearanceName,etched helmet,urezan šlem
+AppearanceName,eternity ring,
 AppearanceName,exotic two-pointed polearm,egzotično dvokrako bojno
 AppearanceName,faded book,izbledela knjiga
 AppearanceName,faded pall,izbledeo plašt
+AppearanceName,feldspar book,
 AppearanceName,fencing gloves,rukavice za mačevanje
 AppearanceName,figurine,figurica
 AppearanceName,fine mithril-coat,elegantni mitrilni plašt
 AppearanceName,fizzy potion,gazirani napitak
+AppearanceName,flint book,
 AppearanceName,flute,flauta
 AppearanceName,forked polearm,račvasto bojno koplje
+AppearanceName,forked wand,
+AppearanceName,frostbitten book,
+AppearanceName,frosted book,
 AppearanceName,fur boots,krznene čizme
 AppearanceName,fuzzy book,knjiga sa mekanom površinom
+AppearanceName,gale book,
+AppearanceName,gilded book,
+AppearanceName,glass bound book,
 AppearanceName,glass orb,staklena kugla
 AppearanceName,glass ring,stakleni prsten
 AppearanceName,glass wand,stakleni štapić
@@ -153,13 +231,21 @@ AppearanceName,glossy arrow,crna runirana strela
 AppearanceName,glossy bow,crni runirani luk
 AppearanceName,glossy dagger,crni runirani nož
 AppearanceName,glossy mithril-coat,sjajni mitrilni kaput
+AppearanceName,glossy potion,
 AppearanceName,glossy short sword,crni runirani kratki mač
+AppearanceName,gloved book,
+AppearanceName,gneiss book,
 AppearanceName,gold book,zlatna knjiga
 AppearanceName,gold earrings,zlatne minđuše
 AppearanceName,gold ring,zlanti prsten
 AppearanceName,gold wand,zlatni štapić
 AppearanceName,golden potion,zlatni napitak
+AppearanceName,gossamer book,
+AppearanceName,granite book,
 AppearanceName,granite ring,granit prsten
+AppearanceName,graphite book,
+AppearanceName,grave bound book,
+AppearanceName,gravel book,
 AppearanceName,green gem,zeleni dragulj
 AppearanceName,green robe,zelena odora
 AppearanceName,grey book,siva knjiga
@@ -168,38 +254,54 @@ AppearanceName,hard hat,tvrda kapa
 AppearanceName,hard shoes,tvrde cipele
 AppearanceName,hardcover book,knjiga u tvrdim povezima
 AppearanceName,harp,harfu
+AppearanceName,hazel book,
 AppearanceName,heavy barrelled gun,teška cevi pištolj
 AppearanceName,heavy gun,težak pištolj
 AppearanceName,hexagonal amulet,heksagonalni amulet
 AppearanceName,hexagonal wand,heksagonalni štapić
+AppearanceName,hide bound book,
 AppearanceName,hiking boots,planinarske čizme
 AppearanceName,hilted polearm,bojno koplje sa drškom
+AppearanceName,hoarfrost book,
+AppearanceName,hollow book,
 AppearanceName,hooded cloak,plašt sa kapuljačom
 AppearanceName,hooked polearm,bojno koplje sa kukom
+AppearanceName,hooked sword,
 AppearanceName,horn,rog
 AppearanceName,horseshoe,potkovica
 AppearanceName,humongous book,ogromna knjiga
 AppearanceName,icy potion,ledeni napitak
+AppearanceName,incandescent book,
 AppearanceName,indigo book,indigo knjiga
 AppearanceName,iridium wand,iridijumski štapić
+AppearanceName,iron bound book,
 AppearanceName,iron ring,gvozdeni prsten
 AppearanceName,iron skull cap,gvozdena kosturska kapa
 AppearanceName,iron wand,gvozdeni štapić
+AppearanceName,ivory book,
 AppearanceName,ivory ring,prsten od slonovače
 AppearanceName,jackboots,čizme
+AppearanceName,jade book,
 AppearanceName,jade ring,prsten od žada
+AppearanceName,jewelled book,
 AppearanceName,jewelled wand,štapić od dragulja
 AppearanceName,jungle boots,džunglaste čizme
+AppearanceName,keening book,
 AppearanceName,key,ključ
+AppearanceName,khaki potion,
 AppearanceName,lamp,lampa
 AppearanceName,large gun,veliki pištolj
 AppearanceName,large round shield,okrugli štit
+AppearanceName,leaden book,
 AppearanceName,leather apron,kožna kecelja
 AppearanceName,leather book,kožna knjiga
 AppearanceName,leather hat,kožna kapa
 AppearanceName,light blue book,svetlo plava knjiga
 AppearanceName,light brown book,svetlo braon knjiga
 AppearanceName,light green book,svetlo zelena knjiga
+AppearanceName,limestone book,
+AppearanceName,linen book,
+AppearanceName,loam book,
 AppearanceName,long barrelled gun,dugi pištolj sa cevima
 AppearanceName,long book,duga knjiga
 AppearanceName,long bow,dugi luk
@@ -211,13 +313,18 @@ AppearanceName,luminescent potion,luminiscentni napitak
 AppearanceName,magenta book,magenta knjiga
 AppearanceName,magenta potion,magenta napitak
 AppearanceName,maple wand,javorov štapić
+AppearanceName,marble book,
 AppearanceName,marble wand,mermerni štapić
 AppearanceName,marker,označivač
+AppearanceName,marlstone book,
 AppearanceName,medallion amulet,medaljon amajlija
 AppearanceName,metal canister,metalni kanister
 AppearanceName,metal pineapple,metalni ananas
 AppearanceName,metal slug,metalna čaura
+AppearanceName,mica book,
+AppearanceName,mildewed book,
 AppearanceName,milky potion,mlečni napitak
+AppearanceName,millstone book,
 AppearanceName,mithril boots,čelične čizme
 AppearanceName,mithril ring,mitrilni prsten
 AppearanceName,mithril slug,miltrilni čaura
@@ -225,70 +332,109 @@ AppearanceName,mithril staff,miltrilni štap
 AppearanceName,mood ring,prsten raspoloženja
 AppearanceName,moonstone ring,prsten mesečevog kamena
 AppearanceName,mortar gun,minobacački pištolj
+AppearanceName,mossy book,
+AppearanceName,moth eaten book,
 AppearanceName,mottled book,šarena knjiga
 AppearanceName,mud boots,Čizme od blata
 AppearanceName,muddy potion,blatneni napitak
 AppearanceName,murky potion,mutan napitak
+AppearanceName,murmuring book,
+AppearanceName,muted book,
 AppearanceName,mysterious gadget,misteriozni gadžet
+AppearanceName,notched book,
 AppearanceName,oak wand,hrastov štapić
+AppearanceName,obsidian book,
 AppearanceName,obsidian ring,obsidijanski prsten
 AppearanceName,ochre book,oker knjiga
 AppearanceName,octagonal amulet,osmougaona amajlija
 AppearanceName,octagonal wand,osmougaoni štapić
 AppearanceName,old gloves,stare rukavice
+AppearanceName,olive branch book,
+AppearanceName,onyx book,
+AppearanceName,opal book,
 AppearanceName,opal ring,opalski prsten
+AppearanceName,opaline book,
 AppearanceName,opera cloak,operski plašt
 AppearanceName,orange book,narandžasta knjiga
 AppearanceName,orange gem,narandžasti dragulj
 AppearanceName,orange potion,narandžasti napitak
 AppearanceName,orange robe,narandžasti ogrtač
 AppearanceName,ornamental cope,ukrasni kop
+AppearanceName,ossuary book,
 AppearanceName,oval amulet,ovalna amajlija
 AppearanceName,padded gloves,podstavljene rukavice
+AppearanceName,pale book,
 AppearanceName,papyrus book,papirus knjiga
 AppearanceName,parchment book,knjiga pergamenta
 AppearanceName,pearl earrings,biserne minđuše
 AppearanceName,pearl ring,biserni prsten
+AppearanceName,phoenix down book,
 AppearanceName,piece of cloth,komad tkanine
+AppearanceName,pine wand,
 AppearanceName,pink book,roza knjiga
 AppearanceName,pink potion,rozi napitak
+AppearanceName,pitted book,
+AppearanceName,plague ridden book,
 AppearanceName,plaid book,karirana knjiga
 AppearanceName,plain book,obična knjiga
 AppearanceName,plain ring,obični prsten
 AppearanceName,plain robe,obična odora
 AppearanceName,plastic slug,plastična čaura
 AppearanceName,plastic stick,plastična grana
+AppearanceName,plastic wand,
 AppearanceName,platinum wand,platinasti štapić
 AppearanceName,plumed helmet,pernata kaciga
+AppearanceName,pocked book,
 AppearanceName,pole cleaver,polesna sekira
 AppearanceName,pole sickle,polesni srp
 AppearanceName,polished silver shield,polirani srebrni štit
+AppearanceName,porphyry book,
+AppearanceName,prismatic book,
 AppearanceName,pronged polearm,zupčasto bojno koplje
 AppearanceName,pruning hook,orezujuća kuka
+AppearanceName,psalm book,
 AppearanceName,puce potion,bordo napitak
+AppearanceName,pumice book,
 AppearanceName,purple book,ljubičasta knjiga
 AppearanceName,purple-red potion,ljubičasto crveni napitak
 AppearanceName,pyramidal amulet,piramidska amajlija
+AppearanceName,quartzite book,
+AppearanceName,quicksilver book,
+AppearanceName,radiant book,
 AppearanceName,ragged book,poderana knjiga
 AppearanceName,rainbow book,knjiga boje duge
 AppearanceName,red book,crvena knjiga
 AppearanceName,red gem,crveni dragulj
 AppearanceName,red robe,crvena odora
+AppearanceName,red stone,
 AppearanceName,red-eyed shield,crvenooki štit
 AppearanceName,riding boots,čizme za jahanje
 AppearanceName,riding gloves,rukavice za jahanje
+AppearanceName,rimed book,
+AppearanceName,riveted book,
 AppearanceName,ruby potion,rubin napitak
 AppearanceName,ruby ring,rubin prsten
 AppearanceName,runed arrow,runirana strela
+AppearanceName,runed book,
 AppearanceName,runed bow,runirani luk
 AppearanceName,runed broadsword,runirani široki mač
 AppearanceName,runed dagger,runirani nož
+AppearanceName,runed disc,
 AppearanceName,runed short sword,runirani kratki mač
 AppearanceName,runed spear,runirano koplje
 AppearanceName,runed wand,runirani štapić
+AppearanceName,russet book,
+AppearanceName,rusted book,
 AppearanceName,rusty wand,zarđali mač
+AppearanceName,sable book,
+AppearanceName,saddle book,
+AppearanceName,sallow book,
 AppearanceName,samurai sword,samurajski mač
+AppearanceName,sanguine book,
+AppearanceName,sapphire book,
 AppearanceName,sapphire ring,safirni prsten
+AppearanceName,scalded book,
+AppearanceName,schist book,
 AppearanceName,scoped long gun,dugački pištolj sa optikom
 AppearanceName,scroll labelled ANDOVA BEGARIN,svitak sa znakom ANDOVA BEGARIN
 AppearanceName,scroll labelled AZZGAZ,svitak sa znakom AZZGAZ
@@ -321,36 +467,56 @@ AppearanceName,scroll labelled XALICH UDED,svitak sa znakom XALICH UDED
 AppearanceName,scroll labelled XIXAXA XOXAXA XUXAXA,svitak sa znakom XIXAXA XOXAXA XUXAXA
 AppearanceName,scroll labelled YUM YUM,svitak sa znakom YUM YUM
 AppearanceName,scroll labelled ZELGO MER,svitak sa znakom ZELGO MER
+AppearanceName,sepia book,
+AppearanceName,sepulchral book,
 AppearanceName,shadow book,knjiga senki
+AppearanceName,shale book,
+AppearanceName,shimmering book,
 AppearanceName,shining book,sjajna knjiga
 AppearanceName,shiny ring,sjajni prsten
 AppearanceName,short barrelled gun,kratki pištolj sa cevima
 AppearanceName,short samurai sword,kratki samurajski mač
 AppearanceName,short wand,kratki štapić
 AppearanceName,shoulder gun,pištolj za rame
+AppearanceName,shrapnel book,
+AppearanceName,silk book,
+AppearanceName,silken book,
+AppearanceName,silly wand,
 AppearanceName,silver book,srebrna knjiga
 AppearanceName,silver ring,srebrni prsten
 AppearanceName,silver slug,srebrna čaura
 AppearanceName,silver wand,srebrni štapić
+AppearanceName,silvered book,
 AppearanceName,single-edged polearm,jednoivično bojno koplje
 AppearanceName,sky blue potion,nebo plavi napitak
+AppearanceName,slate book,
 AppearanceName,slippery cloak,klizavi plašt
 AppearanceName,small gun,mali pištolj
+AppearanceName,small horizontal bow,
 AppearanceName,smoky potion,dimski napitak
 AppearanceName,snow boots,čizme za sneg
+AppearanceName,solar book,
+AppearanceName,sooty book,
+AppearanceName,soul bound book,
 AppearanceName,sparkling potion,blistavi napitak
 AppearanceName,spherical amulet,sferni amulet
 AppearanceName,spiked wand,šiljasti štapić
 AppearanceName,spotted book,pegava knjiga
 AppearanceName,square amulet,kvadratna amajlija
 AppearanceName,stained book,umrljana knjiga
+AppearanceName,starless book,
+AppearanceName,starlit book,
+AppearanceName,static book,
 AppearanceName,steel ring,čeličan prsten
 AppearanceName,steel wand,čeličan štapić
 AppearanceName,sticky glob,lepljiva kugla
+AppearanceName,storm wracked book,
 AppearanceName,stout mithril-coat,krepki mitrilni kaput
 AppearanceName,stout spear,krepko koplje
 AppearanceName,studded samurai stick,samurajski štap sa klinovima
 AppearanceName,stylish book,stilska knjiga
+AppearanceName,sundered book,
+AppearanceName,sunlit book,
 AppearanceName,swirly potion,vrtložni napitak
 AppearanceName,tan book,tan knjiga
 AppearanceName,tattered book,otrcana knjiga
@@ -365,35 +531,51 @@ AppearanceName,throwing disc,disk za bacanje
 AppearanceName,throwing spear,koplje za bacanje
 AppearanceName,throwing star,šuriken
 AppearanceName,throwing stick,grana za bacanje
+AppearanceName,thunderous book,
 AppearanceName,tiger eye ring,prsten tigrovog oka
 AppearanceName,tin wand,limeni štapić
 AppearanceName,tiny book,mala knjiga
+AppearanceName,topaz book,
 AppearanceName,topaz ring,topazni prsten
 AppearanceName,torn book,pocepana knjiga
+AppearanceName,toy bat,
+AppearanceName,toy hammer,
 AppearanceName,toy sword,mač igračka
 AppearanceName,triangular amulet,trouglasta amajlija
 AppearanceName,turquoise book,tirkizna knjiga
 AppearanceName,twisted ring,uvrnut prsten
+AppearanceName,umber book,
+AppearanceName,unbound book,
 AppearanceName,unlabelled scroll,neoznačeni svitak
 AppearanceName,uranium wand,uranijumski štapić
+AppearanceName,veiled book,
 AppearanceName,vellum book,velum knjiga
 AppearanceName,velvet book,somotna knjiga
+AppearanceName,verdigris book,
 AppearanceName,violet book,purpurna knjiga
 AppearanceName,violet gem,ljubičasti dragulj
 AppearanceName,visored helmet,šlem sa vizirom
+AppearanceName,voltaic book,
 AppearanceName,vulgar polearm,vulgarno bojno koplje
 AppearanceName,walking shoes,cipele za hodanje
 AppearanceName,warped amulet,iskrivljena amajlija
+AppearanceName,warped book,
+AppearanceName,waxen book,
 AppearanceName,wedding ring,burma
+AppearanceName,welded book,
+AppearanceName,whispering book,
 AppearanceName,whistle,zviždaljka
 AppearanceName,white book,bela knjiga
 AppearanceName,white coat,beli kaput
 AppearanceName,white gem,beli dragulj
 AppearanceName,white potion,beli napitak
 AppearanceName,wide book,široka knjiga
+AppearanceName,wilted book,
 AppearanceName,winged missile,krilati projektil
 AppearanceName,wire ring,žičani prsten
+AppearanceName,withered book,
 AppearanceName,wooden ring,drveni prsten
+AppearanceName,wormwood book,
 AppearanceName,wrinkled book,naborana knjiga
 AppearanceName,yellow book,žuta knjiga
 AppearanceName,yellow gem,žuti dragulj
@@ -489,62 +671,116 @@ BlockName,statue,statua
 BlockName,stone boulder,kamena gromada
 BlockName,trophy,trofej
 BlockName,wooden barrel,drveno bure
+BoonDescription,"A darker resurrection than the temples offer: certain to succeed, but the dead come back enraged.",
+BoonDescription,"A generous healing gift, fae-touched: your hands will not be quite steady later.",
 BoonDescription,Ask for a unicorn to join your party.,Zatražite od jednoroga da se pridruži vašoj grupi.
+BoonDescription,Ask the fae for a favour. What you get is entirely up to her mood.,
+BoonDescription,"Bathe in the etching vats. It burns, but you rise with a hide the acid cannot bite.",
 BoonDescription,Bless one item in your inventory or on the ground.,Blagoslovi jednu stvar u svom inventaru ili na zemlji.
 BoonDescription,Brew a random potion into your bottle of water.,Skuvajte nasumični napitak u svoju bocu vode.
 BoonDescription,Butcher a corpse into an easy to carry container.,Isecite leš u kontejner koji je lak za nošenje.
 BoonDescription,Call upon the undead to fight for you.,Pozovite nemrtvog da se bori za vas.
+BoonDescription,Consult the observatory's charts for the full layout of this level.,
 BoonDescription,Convert one item into a random alternative of the same type.,Pretvorite jednu stavku u slučajnu alternativu istog tipa.
 BoonDescription,Determine the enchantment and charges of all carried items.,Odredite čari i naboje svih nošenih predmeta.
+BoonDescription,"Drill under the captain's eye. You may be quickened, or you may be worn out.",
+BoonDescription,Drink the warrior's drink and fight in a berserker rage. It does not spare your allies.,
+BoonDescription,"Eat at the fae table. You will not go hungry, but the wine shows you things that are not there.",
 BoonDescription,"Erase the magic from a potion, scroll or book.","Izbrišite magiju iz napitka, svitka ili knjige."
+BoonDescription,Fall into a trance and see through walls and floors for a time.,
 BoonDescription,Hatch an egg and become a parent.,Izležite jaje i postanite roditelj.
+BoonDescription,Have the efreeti bind a captive elemental to your service.,
+BoonDescription,"Have the temple armour smiths put a keener edge on one weapon, magical or not.",
+BoonDescription,Have the wizard read the true nature of everything you carry.,
+BoonDescription,"Have your destiny read from the stars, hastening your growth.",
 BoonDescription,Heal damage and recover mana for yourself and your steed if mounted.,Izlečite štetu i povratite manu za sebe i svog konja ako ste ga zajašili.
 BoonDescription,Learn how to cast a random spell.,Naučite kako da bacite neku čaroliju.
 BoonDescription,Learn the divine status of all carried items.,Naučite božanski status svih nošenih predmeta.
 BoonDescription,Learn the name of one random unknown item.,Naučite ime jedne nasumične nepoznate stavke.
 BoonDescription,Make an imitation copy of an item.,Napravite imitaciju kopije predmeta.
 BoonDescription,Partially recharge a spent item.,Delimično napunite potrošenu stvar.
+BoonDescription,Petition the vizier for a spectral cat to guard you as it once guarded the tomb.,
 BoonDescription,Place a curse on one equipped or carried item.,Stavite kletvu na jedan opremljen ili nošen predmet.
+BoonDescription,"Plunge into the quenching trough. It burns with cold, but you rise proof against it.",
 BoonDescription,Reanimate a corpse as a loyal revenant.,Reanimirajte leš kao lojalnog povratnika.
+BoonDescription,Receive the linen wrappings used to prepare the dead for the afterlife.,
 BoonDescription,Remove all magic from an item.,Uklonite svu magiju sa stavke.
 BoonDescription,Remove the curse on one equipped or carried item.,Uklonite kletvu na jednom opremljenom ili nošenom predmetu.
 BoonDescription,Rename an item for vanity and as a small protection against cancellation.,Preimenujte stavku zbog sujete i kao malu zaštitu od otkazivanja.
 BoonDescription,Request a fresh corpse with no questions asked.,Zatražite svež leš bez pitanja.
 BoonDescription,Request one cast of the polymorph spell.,Zatražite jedno bacanje polimorfne čarolije.
+BoonDescription,Requisition soldiers from the garrison to march at your side.,
 BoonDescription,Restore any lost ability and remove any negative transient conditions.,Vratite svaku izgubljenu sposobnost i uklonite sve negativne prolazne uslove.
 BoonDescription,Return a corpse back to life.,Vratite leš u život.
+BoonDescription,Stand in the temple square and receive the captain's defensive blessing.,
+BoonDescription,"Step into the forge fire. It burns, but you rise with fire in your blood.",
 BoonDescription,Summon a powerful steed from the underworld.,Pozovite moćnog konja iz podzemnog sveta.
 BoonDescription,Summon a tame forest beast as your ally.,Pozovite pitomu šumsku zver kao svog saveznika.
+BoonDescription,Summon an escort from the pharaoh's retinue to walk beside you.,
+BoonDescription,The princess trades you a measure of charm. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of grace. Something else must give way for it.,
+BoonDescription,The princess trades you a measure of wit. Something else must give way for it.,
+BoonDescription,Toss a coal on the forge fire and take whatever ward it grants you.,
+BoonDescription,Train under a veteran until a weapon or armour discipline sticks.,
 BoonDescription,Upgrade an item or increase its power.,Nadogradite stavku ili povećajte njenu snagu.
 BoonDescription,Use nature magic to grow the power of your ally.,Koristite magiju prirode da povećate moć svog saveznika.
+BoonDescription,Watch the level through the great lens and mark every creature on it.,
+BoonDescription,Whisper a question into the vault. The dead do not always tell the truth.,
 BoonDescription,Write a random scroll onto your blank paper.,Napišite nasumični svitak na svoj prazan papir.
 BoonName,animate dead,praviti se mrtav
 BoonName,assess,proceniti
+BoonName,banquet of the fae,
+BoonName,battle fury,
+BoonName,black rite of revival,
 BoonName,bless,blagosloviti
+BoonName,bound elemental,
 BoonName,brew,skuvati
+BoonName,call the escort,
 BoonName,cancel,otkazati
+BoonName,capricious wish,
+BoonName,chart the level,
+BoonName,clairvoyant trance,
+BoonName,commune with the dead,
 BoonName,corpse wish,leševa želja
+BoonName,court of the underworld,
 BoonName,divine,božanski
+BoonName,drill,
 BoonName,enchant,očarati
 BoonName,enlighten,prosvetliti
 BoonName,erase,izbrisati
+BoonName,fae cunning,
+BoonName,fae grace,
+BoonName,fae guile,
 BoonName,fantastical beast,fantastična zver
+BoonName,forced march,
+BoonName,godmother's blessing,
 BoonName,grow,rasti
 BoonName,hatch,izleći
+BoonName,identify all,
+BoonName,map the ranks,
 BoonName,nightmare steed,konj iz košmara
+BoonName,ordeal of embers,
 BoonName,place curse,postavi prokletstvo
 BoonName,polymorph,polimorf
 BoonName,purify,pročistiti
 BoonName,raise dead,dizati mrtve
+BoonName,read your destiny,
 BoonName,recharge,dopuniti
 BoonName,reforge,prekovati
 BoonName,rejuvenate,podmladiti
 BoonName,remove curse,ukloniti kletvu
 BoonName,rename,preimenovati
 BoonName,replicate,replikovati
+BoonName,sacred wrappings,
 BoonName,scribe,obeležavati
+BoonName,sharpen blade,
+BoonName,shield wall,
 BoonName,teach spell,naučiti magiju
+BoonName,temper in acid,
+BoonName,temper in flame,
+BoonName,temper in frost,
 BoonName,tinned meat,konzervirano meso
+BoonName,tomb guardian,
 BoonName,undead army,nemrtva armija
 BoonName,unicorn friend,prijatelj jednorog
 CalendarText,d MMMM yyyy,d MMMM yyyy
@@ -560,7 +796,11 @@ CharacterName,Bason,Bazon
 CharacterName,Belietha,Belida
 CharacterName,Bok,Bok
 CharacterName,Bolan,Bolan
+CharacterName,Bones,
+CharacterName,Borgrim,
+CharacterName,Briar,
 CharacterName,Brouwer,Brover
+CharacterName,Buckshot,
 CharacterName,Cailie,Kalie
 CharacterName,Capo,Kapo
 CharacterName,Carthyre,Kartir
@@ -581,18 +821,25 @@ CharacterName,Emina,Emina
 CharacterName,Enlan,Enlan
 CharacterName,Ericendrick,Erikendrik
 CharacterName,Eybrinde,Ejbrind
+CharacterName,Fangs,
 CharacterName,Faraze,Faraz
 CharacterName,Fenlas,Fenlas
 CharacterName,Fenraymond,Fenrajmond
+CharacterName,Fern,
 CharacterName,Floki,Floki
 CharacterName,Forro,Foro
 CharacterName,Franzia,Franzija
 CharacterName,Galday,Galdej
 CharacterName,Gasberg,Gasberg
+CharacterName,Gearwing,
+CharacterName,Ghrenna,
+CharacterName,Giggles,
 CharacterName,Gleichman,Glejčman
 CharacterName,Gmima,Gmima
 CharacterName,Gohu,Gohu
 CharacterName,Gomack,Gomak
+CharacterName,Grakna,
+CharacterName,Grum,
 CharacterName,Grytt,Grit
 CharacterName,Haelom,Helom
 CharacterName,Haique,Hajkve
@@ -615,34 +862,41 @@ CharacterName,Kevugo,Kevugo
 CharacterName,Kierantha,Kjeranta
 CharacterName,Kira,Kira
 CharacterName,Kneller,Kneler
+CharacterName,Korrath,
 CharacterName,Lagratha,Lagrata
 CharacterName,Lanetwalz,Lanetvalz
 CharacterName,Lant,Lant
 CharacterName,Lesha,Liša
 CharacterName,Luickean,Lujkean
+CharacterName,Lyric,
 CharacterName,Lzay,Lzaj
 CharacterName,Malasuth,Malasut
+CharacterName,Malgrim,
 CharacterName,Marisa,Marisa
 CharacterName,Melchai,Melčaj
 CharacterName,Meloty,Meloti
 CharacterName,Miller,Miler
 CharacterName,Misteph,Mistef
 CharacterName,Nichaeltoy,Nikaeltoj
+CharacterName,Nihlus,
 CharacterName,Ninerma,Ninerma
 CharacterName,Ninhart,Ninhart
 CharacterName,Ninny,Nini
 CharacterName,Nodin,Nodin
 CharacterName,Norbant,Norbant
+CharacterName,Nugget,
 CharacterName,Okennwood,Okenvud
 CharacterName,Ollac,Olak
 CharacterName,Omdarro,Omdaro
 CharacterName,Orankin,Orankin
 CharacterName,Oscae,Oska
 CharacterName,Paltrick,Paltrik
+CharacterName,Panderos,
 CharacterName,Pauwinner,Paviner
 CharacterName,Penevieve,Penevivi
 CharacterName,Perceval,Persival
 CharacterName,Pinkerton,Pinerton
+CharacterName,Pip,
 CharacterName,Plegg,Pleg
 CharacterName,Pleyson,Plejson
 CharacterName,Pnerfa,Pnerfa
@@ -660,16 +914,26 @@ CharacterName,Rebenna,Rebina
 CharacterName,Renorber,Renorber
 CharacterName,Rokiju,Rokidžu
 CharacterName,Rupley,Ruplej
+CharacterName,Rustbeard,
 CharacterName,Sarlia,Sarlija
+CharacterName,Scraps,
+CharacterName,Sentinel,
+CharacterName,Serathiel,
+CharacterName,Shadow,
 CharacterName,Shinaas,Šinas
+CharacterName,Sissik,
+CharacterName,Skrix,
 CharacterName,Smither,Smajder
+CharacterName,Sprocket,
 CharacterName,Stevere,Steveri
 CharacterName,Stewite,Stjuvit
 CharacterName,Sully,Suli
 CharacterName,Talon,Talon
 CharacterName,Tanyacka,Tanjaka
 CharacterName,Thakuline,Takulin
+CharacterName,Thokk,
 CharacterName,Threepo,Trepo
+CharacterName,Tillie,
 CharacterName,Timonen,Timonen
 CharacterName,Trank,Trank
 CharacterName,Udfoot,Udfut
@@ -677,7 +941,10 @@ CharacterName,Uffle,Ufl
 CharacterName,Ujopayne,Udžopejn
 CharacterName,Umazi,Umazi
 CharacterName,Urenval,Urenval
+CharacterName,Vaelithra,
+CharacterName,Valor,
 CharacterName,Valorn,Valorn
+CharacterName,Vashti,
 CharacterName,Vekincarc,Vekinkark
 CharacterName,Vidar,Vidar
 CharacterName,Vikethome,Vikethom
@@ -687,7 +954,9 @@ CharacterName,Wallison,Valison
 CharacterName,Waltis,Valtis
 CharacterName,Walzen,Valzen
 CharacterName,Wendry,Vendri
+CharacterName,Wisp,
 CharacterName,Wollet,Volet
+CharacterName,Wraith,
 CharacterName,Xamarin,Ksamarin
 CharacterName,Xandries,Ksandries
 CharacterName,Xank,Ksank
@@ -699,6 +968,7 @@ CharacterName,Yassage,Jasadž
 CharacterName,Yorque,Jorkve
 CharacterName,Yral,Iral
 CharacterName,Yuvaloren,Juvaloren
+CharacterName,Zathrik,
 CharacterName,Zean,Zin
 CharacterName,Zerbarry,Zerberi
 CharacterName,Zimn,Zimn
@@ -709,16 +979,19 @@ ClassDescription,"Benevolent caretakers, always willing to lend a helping hand t
 ClassDescription,"Champions of the winter realms, fierce and proud. Hardy and strong, they will boldly face any challenger until they meet a glorious death.","Šampioni zimskih carstava, žestoki i ponosni. Izdržljivi i jaki, hrabro će se suočiti sa svakim izazivačem dok ne dočekaju slavnu smrt."
 ClassDescription,"Charming minstrels, making their way through the world with their songs and stories. They are jacks-of-all-trades; alongside their troubadour talents, they dabble in both martial skills and spellcraft.","Šarmantni ministranti koji se probijaju kroz svet sa svojim pesmama i pričama. Oni su majstori za sve zanate; pored svojih trubadurskih talenata, bave se i borilačkim veštinama i čarolijama."
 ClassDescription,"Conductors of natural energies, these uniquely attuned spell casters derive their powers from the living world. Peaceful until threatened, they are unafraid to respond with animalistic savagery.","Provodnici prirodnih energija, ovi jedinstveno podešeni čarolije crpe svoje moći iz živog sveta. Mirni dok im se ne preti, oni se ne boje da odgovore životinjskim divljaštvom."
+ClassDescription,"Contract killers trained to strike once, from the dark, and vanish before the body is found. They favour poisoned steel over honest combat and trust no blade they have not sharpened themselves.",
 ClassDescription,"Corrupt and hateful souls, who are motivated by causing carnage and spreading chaos. Subject to uncontrollable bouts of rage, they bring doom and destruction to friend and foe alike.","Ova pokvarena i mrska duša je motivisana samo pokoljem i haosom. Podložni nekontrolisanim napadima besa, oni donose propast i uništenje i prijateljima i neprijateljima."
 ClassDescription,"Daft harlequins, always carrying a trick up their sleeves. Eclectic and eccentric; they are unassuming masters of chaos, adept in many bewildering talents.","Lupi arlekini, koji uvek nose trik u rukavu. Eklektični i ekscentrični; oni su skromni majstori haosa, vešti u mnogim zbunjujućim talentima."
 ClassDescription,"Deft miscreants, conniving and quick with their wits. Through trial and error, they have learned that their best chance in avoiding the clutches of death is to stick to the shadows and outmanoeuvre their pursuers.","Spretni izgrednici, poverljivi i brzi u svojoj pameti. Putem pokušaja i grešaka, naučili su da je njihova najbolja šansa da izbegnu kandže smrti da se drže senki i nadmaše svoje goniče."
 ClassDescription,"Devoted to understanding the essence of magic and the marvel of engineering, these adept craftsman crave both knowledge and resources. Whether directed by madness or genius, they are a capable adversary and a tenacious survivor.","Posvećeni razumevanju suštine magije i čuda inženjeringa, ovi vešti zanatlije žude za znanjem i resursima. Bez obzira da li ih vodi ludilo ili genije, oni su sposobni protivnici i uporni preživeli."
 ClassDescription,Escaped criminals who have spent so much of their life incarcerated that any trace of who or what they once were has all but vanished.,Pobegli kriminalci koji su proveli toliko svog života u zatvoru da je svaki trag o tome ko su ili šta su nekada bili gotovo nestao.
 ClassDescription,"Freebooting buccaneers, sailing the high seas and plundering many a merchant's vessel in their endless pursuit of riches and infamy. They are murderous cutthroats with little regard for anything but gold.","Punjari na slobodi, koji plove otvorenim morem i pljačkaju mnoga trgovačka plovila u svojoj beskrajnoj potrazi za bogatstvom i sramotom. Oni su ubice koblice koje malo obraćaju pažnju na bilo šta osim zlata."
+ClassDescription,"Grim oath-bound hunters who court death against the mightiest foes, undead and monstrous alike. What they lack in subtlety they make up for with unrelenting rage and a body built to shrug off ruin.",
 ClassDescription,"Happy-go-lucky travellers, committed to only the most authentic experiences. Quixotic and brave, they meticulously prepare with a wide variety of paraphernalia - yet remain ill-equipped for the perils they will soon face.","Srećni putnici, posvećeni samo najautentičnijim iskustvima. Donkihotski i hrabri, pedantno se pripremaju sa širokim izborom pribora - a ipak ostaju loše opremljeni za opasnosti sa kojima će se uskoro suočiti."
 ClassDescription,"Hidden agents, fleet-footed and schooled in many ancient arts of assassination. When all else fails, they are indubitably prepared to make swift escapes.","Skriveni agenti, brzi i školovani u mnogim drevnim veštinama atentata. Kada ništa drugo ne uspe, oni su nesumnjivo spremni da brzo pobegnu."
 ClassDescription,"Honourable warriors, who have dedicated their lives to an ancient code. Skilled in art of dual-wielding blades, they make fast work of their enemies.","Časni ratnici, koji su svoje živote posvetili drevnom kodeksu. Vešti u veštini sečiva sa dva oružja, oni brzo rade svoje neprijatelje."
 ClassDescription,"Keepers of cosmic secrets, who derive their sacred powers from the spirit realms hidden from mortal eyes. They are compelled by dark forces and are adept at bending the material world to their will.","Čuvari kosmičkih tajni, koji crpe svoje svete moći iz duhovnih oblasti skrivenih od očiju smrtnika. Prinuđeni su mračnim silama i vešti su da savijaju materijalni svet svojoj volji."
+ClassDescription,"Keepers of old hexes and older grudges, more at home among gravestones and cauldrons than decent company. They do not hurl fire; they unmake their enemies' luck, strength and flesh by degrees.",
 ClassDescription,"Noble savages, hardened to battle by generations of survival in the unforgiving wilderness. They are not strangers to death's call; legends tell of their incredible strength and battle prowess with heavy weapons.","Plemeniti divljaci, prekaljeni za borbu generacijama preživljavanja u nemilosrdnoj divljini. Nije im nepoznat poziv smrti; legende govore o njihovoj neverovatnoj snazi i borbenoj sposobnosti teškim oružjem."
 ClassDescription,"Obsessed with blurring the line between life and death, these meddlers of dark forces prefer to associate with cadavers over the living. To some, the rituals are grotesque, but they see pure majesty in the manipulation of the natural order.","Opsednuti zamagljivanjem granice između života i smrti, ovi mešaci mračnih sila radije se druže sa leševima nego sa živima. Nekima su rituali groteskni, ali oni vide čisto veličanstvo u manipulaciji prirodnim poretkom."
 ClassDescription,"Pious scholars, oath-bound to their scripture. Although altruistic and good-natured, they are trained in martial arts so as to protect themselves and the canon they live by.","Pobožni naučnici, zakletve vezani za svoje Sveto pismo. Iako altruistični i dobrodušni, obučeni su u borilačkim veštinama kako bi zaštitili sebe i kanon po kojem žive."
@@ -729,11 +1002,16 @@ ClassDescription,Questionably pious individuals from an ancient religious and mi
 ClassDescription,"Quintessential scientific researchers and dauntless historical investigators. Both brash and debonair, they seek out knowledge and accolades alike. They are curiously fond of whips and share a perplexing hatred towards serpents.","Izuzetni naučni istraživači i neustrašivi istorijski istraživači. I drski i bezobrazni, podjednako traže znanje i priznanja. Neobično vole bičeve i dele zbunjujuću mržnju prema zmijama."
 ClassDescription,"Restless desperados, driven by wanderlust and troubled by the haunting memories of those they could not protect. They are sly masters of lead and steel, hellbent on redemption and retribution.","Nemirni očajnici, vođeni željom za lutanjem i uznemireni proganjajućim sećanjima na one koje nisu mogli da zaštite. Oni su lukavi majstori olova i čelika, pakleni na iskupljenje i odmazdu."
 ClassDescription,"Righteous clergymen, dedicated to a life of sacrifice and spreading the word of their almighty deities. Well-versed in divine magic and the judicial delivery of violence to those deemed unworthy of salvation.","Pravedni duhovnici, posvećeni žrtvovanju i širenju reči svojih svemoćnih božanstava. Oni su dobro upućeni u božansku magiju i sudsko vršenje nasilja nad onima koje smatraju nedostojnima spasenja."
+ClassDescription,"Scholars who bound their fate to raw elemental force rather than the slower disciplines of wizardry. Fire and frost answer their call in equal measure, a duality most mages never dare attempt.",
+ClassDescription,"Self-taught chemists of the underworld, forever mixing, tasting and bottling the unknown. What they lack in swordsmanship they make up for with a satchel of volatile solutions and a hard-won immunity to their own mistakes.",
 ClassDescription,"Strongly built, tough and industrious workers who are more than capable in dangerous situations. Traditional practices and heavy tools are used to overcome obstacles in their pursuit of valuable gemstones.","Snažno izgrađen, ovaj čvrst i marljiv radnik je više nego sposoban u opasnim situacijama. Tradicionalne prakse i teški alati se koriste za prevazilaženje prepreka u potrazi za vrednim dragim kamenjem."
 ClassDescription,"Sworn to uphold justice, these righteous warriors are dogmatic in pursuit of their sacred work. Classical martial skills are complemented by magical powers to protect the innocent and smite the wicked.","Zakleti se da će podržavati pravdu, ovi pravedni ratnici su dogmatični u potrazi za svojim svetim delom. Klasične borilačke veštine su dopunjene magičnim moćima da zaštite nevine i poraze zle."
 ClassDescription,"Venerable men-at-arms clad in gleaming armour, renowned for their unyielding chivalry and conviction. They are high-born and are educated to be strategists and capable leaders on any battlefront.","Časni vojnici obučeni u blistave oklope, poznati po svom nepopustljivom viteštvu i ubeđenju. Visoko su rođeni i obrazovani su da budu stratezi i sposobni vođe na svakom frontu."
 ClassDescription,"Warrior slaves compelled to battle for the entertainment of raucous crowds, often to the death. Those that can survive this cauldron are trained into the most brutal of pit fighters.","Robovi ratnici primorani da se bore za zabavu razularenih gomila, često do smrti. Oni koji mogu da prežive ovaj kotao obučeni su u najbrutalnije borce u jame."
 ClassDescription,"Wilderness sentinels who understand the true balance of the universe. With bow in hand, they have devoted their lives to protecting the forces of nature from the corrupting touch of civilisation.","Čuvari divljine koji razumeju pravu ravnotežu univerzuma. Sa lukom u ruci, oni su svoje živote posvetili zaštiti prirodnih sila od kvarnog dodira civilizacije."
+ClassName,apothecary//female,
+ClassName,apothecary//male,
+ClassName,apothecary//non-binary,
 ClassName,barbarian//female,varvarin
 ClassName,barbarian//male,varvarin
 ClassName,barbarian//non-binary,varvarin
@@ -749,6 +1027,9 @@ ClassName,convict//non-binary,osuđenik
 ClassName,druid//female,druid
 ClassName,druid//male,druid
 ClassName,druid//non-binary,druid
+ClassName,elementalist//female,
+ClassName,elementalist//male,
+ClassName,elementalist//non-binary,
 ClassName,explorer//female,istraživačica
 ClassName,explorer//male,istraživač
 ClassName,explorer//non-binary,istraživač
@@ -782,6 +1063,9 @@ ClassName,mystic//non-binary,mistik
 ClassName,necromancer//female,nekromanser
 ClassName,necromancer//male,nekromanser
 ClassName,necromancer//non-binary,nekromanser
+ClassName,nightblade//female,
+ClassName,nightblade//male,
+ClassName,nightblade//non-binary,
 ClassName,ninja//female,nindža
 ClassName,ninja//male,nindža
 ClassName,ninja//non-binary,nindža
@@ -809,6 +1093,9 @@ ClassName,samurai//non-binary,samuraj
 ClassName,shaman//female,šamanka
 ClassName,shaman//male,šaman
 ClassName,shaman//non-binary,šaman
+ClassName,slayer//female,
+ClassName,slayer//male,
+ClassName,slayer//non-binary,
 ClassName,templar//female,templarka
 ClassName,templar//male,templar
 ClassName,templar//non-binary,templar
@@ -821,18 +1108,26 @@ ClassName,tourist//non-binary,turista
 ClassName,valkyrie//female,valkirie
 ClassName,valkyrie//male,valkirie
 ClassName,valkyrie//non-binary,valkirie
+ClassName,witch//female,
+ClassName,witch//male,
+ClassName,witch//non-binary,
 ClassName,wizard//female,čarobnica
 ClassName,wizard//male,čarobnjak
 ClassName,wizard//non-binary,čarobnjak
+CompanionName,almiraj,
+CompanionName,astral puppy,
 CompanionName,bird,ptica
+CompanionName,blink puppy,
 CompanionName,cat,mačka
 CompanionName,dog,pas
 CompanionName,egg,jaje
 CompanionName,ghoul,goul
+CompanionName,hamster,
 CompanionName,horse,konj
 CompanionName,imp,đavolčić
 CompanionName,monkey,majmun
 CompanionName,rat,pacov
+CompanionName,raven,
 CounterName,afflictions,nevolje
 CounterName,animations,animacije
 CounterName,anoints,pomazuje
@@ -925,8 +1220,10 @@ DeviceName,fire trap,vatrena zamka
 DeviceName,grease trap,hvataljka
 DeviceName,hallucination trap,zamka halucinacije
 DeviceName,hole,rupa
+DeviceName,humantrap,
 DeviceName,hunger trap,zamka gladi
 DeviceName,ice trap,ledena zamka
+DeviceName,ink pool,
 DeviceName,level teleporter,nivo teleport
 DeviceName,lightning trap,munjevita zamka
 DeviceName,noxious pool,štetni bazen
@@ -941,6 +1238,7 @@ DeviceName,sleeping gas trap,gasna zamka za spavanje
 DeviceName,spear trap,zamka sa kopljem
 DeviceName,spiked pit,šiljasta jama
 DeviceName,squeaky board,škripa daska
+DeviceName,statue trap,
 DeviceName,teleporter,teleport
 DeviceName,toxic trap,toksična zamka
 DeviceName,trapdoor,skrivena vrata
@@ -1007,15 +1305,68 @@ EncumbranceName,stressed,stresan
 EncumbranceName,unencumbered,neopterećeni
 EngulfmentName,engulfed,zahvatiti
 EngulfmentName,swallowed,progutati
+EntityDescription,"A blink dog pup, already able to flicker away from danger before it lands a bite.",
+EntityDescription,A bulbous fungus that bursts into a hissing cloud of acid when disturbed.,
+EntityDescription,"A cave bear whose pelt has gone grey as cinders, hardened by years sheltered in a live volcano's roots.",
+EntityDescription,"A cave spider drained of all colour by lightless generations, hunting by web-thrum alone.",
+EntityDescription,"A cobra pale as hoarfrost, coiled in the ice caves where warm-blooded prey seeks shelter.",
+EntityDescription,"A coyote with a static-charged coat, drawn down from the high plains after a lightning storm.",
+EntityDescription,"A dead tree animated by rot and old malice, its bark split open where a jaw shouldn't be.",
+EntityDescription,"A dragon steeped in high magic, said to hoard grimoires as jealously as gold.",
+EntityDescription,A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.,
+EntityDescription,A dwarf of a mountain clan so far north the forge-fires burn blue; one of its twin mattocks bites like the wind off the peak.,
+EntityDescription,A fey hound that flickers between here and elsewhere; it fights alongside anyone it trusts.,
+EntityDescription,"A giant bat with clouded, sightless eyes, navigating wholly by the shriek of its own echo.",
+EntityDescription,"A giant beetle with a carapace of blue-white chitin, breath steaming with cold in the deep dark.",
+EntityDescription,"A giant caked grey with volcanic ash, walking down from a smoking peak with a club still smoking at the tip.",
+EntityDescription,"A giant of the high glaciers, sheathed in rime; its breath alone can flash-freeze a puddle solid.",
+EntityDescription,"A gila monster whose beaded hide glows dull orange along the seams, as if lit from beneath.",
+EntityDescription,"A gnome who never left the deep tunnels, pale and stooped, at ease chewing through rock with a pickaxe.",
+EntityDescription,"A golem cast from bronze rather than raw iron; where its cousin only staggers under a lightning strike, this one drinks the current and spits it back.",
+EntityDescription,"A hound of the Astral plane, half-seen even when it stands still; it does not breathe or bleed.",
+EntityDescription,"A jackal wasted by sickness, its ribs showing through a mangy hide; its bite festers.",
+EntityDescription,A jelly black as a starless sky; things it touches for too long forget how alive they were.,
+EntityDescription,A jelly that glows faintly like a coal; fire only makes it swell larger and angrier.,
+EntityDescription,A jelly that reeks of rot; it dissolves flesh and gear alike to feed itself.,
+EntityDescription,"A jelly the colour of a bruise, faintly crackling; touching it feels like brushing a doorknob after crossing a carpet in winter.",
+EntityDescription,"A jelly the colour of glacier ice, cold to the touch and colder still if it touches back.",
+EntityDescription,"A kobold camouflaged in mottled green, more comfortable in the canopy than underground; it spits venom from a hollow reed.",
+EntityDescription,"A long worm that burrows through permafrost, its segmented hide crusted with rime.",
+EntityDescription,"A lynx with a rime-white winter coat, breath fogging even in a warm room.",
 EntityDescription,A medium-sized creature prone to great ambition. Short-lived but ubiquitous; they are not to be underestimated.,"Stvorenje srednje veličine sklono velikim ambicijama. Kratkotrajna, ali sveprisutna; nisu za potcenjivanje."
+EntityDescription,"A panther whose black coat smoulders at the edges, leaving smoking pawprints on stone.",
+EntityDescription,"A plump waterfowl, unbothered by dungeons so long as there is a puddle nearby.",
+EntityDescription,"A pudding of black, viscid tar that oozes and smoulders at once; anything it swallows comes out cindered.",
+EntityDescription,"A raven with feathers like beaten iron, riding the thunderheads and stooping with a crack of static.",
+EntityDescription,"A rodent the size of a dog, cheek pouches bulging with whatever it last found on the floor.",
+EntityDescription,"A sewer rat gone pure white and pink-eyed, blind from generations in unlit tunnels.",
+EntityDescription,"A shade gone pale and crystalline, trailing frost wherever it drifts; the cold pours off it before it ever draws near.",
+EntityDescription,A shambling corpse wrapped in weeping buboes; the sickness that killed it did not stop working when it died.,
+EntityDescription,"A shark bred to lightless ocean trenches, its eyes filmed over and useless.",
+EntityDescription,"A skeleton picked clean by something worse than time; its bones are black at the joints, and its touch draws the warmth out of the living.",
+EntityDescription,A small heap of coins that isn't quite finished counting itself.,
+EntityDescription,"A small, quick-witted dragon out of the fey courts, more prankster than predator.",
+EntityDescription,"A spitting beetle whose glands have gone volcanic, hawking gobbets of burning pitch.",
+EntityDescription,"A standing wave of brackish swamp water, thick with algae and old poison; nothing in it is fresh, and nothing about touching it is safe.",
+EntityDescription,"A troll that wandered too near a volcano and came out the other side wrong: its hide is cracked magma-rock, glowing at every seam.",
+EntityDescription,"A water moccasin gone jet black, all but invisible against a night-flooded cave pool.",
+EntityDescription,"A weathered chest, until its lid splits open into a maw ringed with teeth.",
+EntityDescription,"A young astral dog, still learning to keep all four paws on the material plane at once.",
+EntityDescription,"A young mimic, its shapeshifting still crude — usually just a box that bites back.",
 EntityDescription,"Amorphous beings who have no typical shape but often take on a translucent humanoid form. While unmistakable for anything other than a plasma-like ooze, this form enables the use of clothing and tools.","Amorfna bića koja nemaju tipičan oblik, ali često poprimaju prozirni humanoidni oblik. Iako je nepogrešiv za bilo šta drugo osim za curenje nalik plazmi, ovaj oblik omogućava upotrebu odeće i alata."
 EntityDescription,"An ancient race of towering recluses. Their terrifying size gives them immense strength, supplemented by a voracious diet of meats and minerals.","Drevna rasa visokih pustinjaka. Njihova zastrašujuća veličina daje im ogromnu snagu, dopunjenu proždrljivom ishranom mesa i minerala."
+EntityDescription,"An ape with a crackling, wire-taut hide, native to the thunderheads above the high peaks.",
+EntityDescription,"An elf of the sunlit dunes, skin bronzed and eyes narrowed; its arrows are fletched with fire-hardened reed and fly burning.",
+EntityDescription,"An ogre gone half-feral in the fens, its skin sallow and slick; its claws carry a rot no wound-dressing can clean.",
+EntityDescription,An orc mummy exhumed from a barrow sealed under a cinder-field; its wrappings are charred and its grip sears whatever it holds.,
+EntityDescription,"An orc that has made its home in the marshlands, its blade notched and slicked with venom drawn from swamp adders.",
 EntityDescription,"Astral beings who are a vessel for the indomitable spirit of a vanquished adventurer. Having no motivations of their own, they are glad to permit the possession; for the deceased adventurer, it is a second chance at revenge or redemption. Born from astral matter, they are slightly built, translucent and can move freely through physical obstacles.","Astralna bića koja su posuda za nesalomivi duh pobeđenog avanturiste. Bez sopstvene motivacije, rado dozvoljavaju posedovanje; za preminulog avanturiste, to je druga šansa za osvetu ili iskupljenje. Rođena iz astralne materije , blago su građeni, providni i mogu se slobodno kretati kroz fizičke prepreke."
 EntityDescription,"Beautiful, otherworldly beings characterised by their signature halo and feathered wings. Strongly attuned to the struggle between good and evil, they sense the divinity within anything they hold.","Prelepa, vanzemaljska bića koja se odlikuju svojim prepoznatljivim oreolom i pernatim krilima. Snažno usklađeni sa borbom između dobra i zla, oni osećaju božanstvo unutar svega što drže."
 EntityDescription,Beware this clockwork machine of war.,Čuvajte se ove ratne mašinerije.
 EntityDescription,Bipedal mechanical automatons with nearly unbounded artificial intelligence. Powered by a molten core engine that requires a constant supply of raw metals and is susceptible to water damage.,Dvonožni mehanički automati sa gotovo neograničenom veštačkom inteligencijom. Pokretani motorom sa rastopljenim jezgrom koji zahteva stalan dotok sirovih metala i osetljiv je na oštećenja izazvana vodom.
 EntityDescription,"Fey creatures linked by powerful nature spirits to fuel their antics. They are stocky with furry lower bodies, cloven hooves of a goat and curled horns of a ram. Ribald and clever, they cheerfully lead hedonistic escapades of drinking, dancing and fighting.","Feja stvorenja povezana moćnim prirodnim duhovima da podstiču njihove ludosti. Oni su zdepasti sa krznenim donjim delovima tela, iscepljenim kozjim kopitima i uvijenim rogovima ovna. Ribasti i pametni, veselo vode hedonističke eskapade opijanja, plesa i tuče."
 EntityDescription,"Imposing and heavily built, they resemble humanoid dragons with a snout, scaly hide and functional wings.","Impozantni i masivne građe, podsećaju na humanoidne zmajeve sa njuškom, krljuštastom kožom i funkcionalnim krilima."
+EntityDescription,"It waits among the headstones shaped like one more grave marker, patient as the dead around it.",
 EntityDescription,"Large, omnivorous reptilians whose bestial ancestors dominated the world long before the birth of civilisation. They are fearsome predators, capable of leaping impressive distances and warding off many attacks with their thick scaly hides.","Veliki, svaštojedni reptili čiji su zverski preci dominirali svetom mnogo pre rođenja civilizacije. Oni su strašni grabežljivci, sposobni da skaču na impresivne udaljenosti i da odvrate mnoge napade svojom debelom ljuskavom kožom."
 EntityDescription,Monstrous creatures with the head and tail of a bull and the body of a man.,Čudovišna bića sa glavom i repom bika i telom čoveka.
 EntityDescription,"Perverse creatures of many aberrations but always with crimson skin and horns. Their mere presence compels others to act out their darkest, most violent desires.","Izopačena stvorenja sa mnogo aberacija, ali uvek sa grimiznom kožom i rogovima. Njihovo samo prisustvo primorava druge da glume svoje najmračnije, najnasilnije želje."
@@ -1033,7 +1384,11 @@ EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.","Ružna, brutalna stvorenja sa kanibalističkim tendencijama; ova ratoborna rasa je poznata po svojoj impresivnoj snazi i intelektualnim nesposobnostima."
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.","Nepravedno okarakterisana kao kukavica i slaba, ova sićušna reptilska stvorenja prevazilaze svoja fizička ograničenja primenom opakih i lukavih strategija."
 EntityName,abbot,iguman
+EntityName,abyssal shark,
 EntityName,acid blob,kisela kapljica
+EntityName,acid elemental,
+EntityName,acid sphere,
+EntityName,acid spore,
 EntityName,acid worm,kiseli crv
 EntityName,acolyte,akolit
 EntityName,adamantine golem,adamantinski golem
@@ -1049,8 +1404,15 @@ EntityName,adult shimmering dragon,odrasli svetlucavi zmaj
 EntityName,adult silver dragon,odrasli srebrni zmaj
 EntityName,adult white dragon,odrasli beli zmaj
 EntityName,adult yellow dragon,odrasli žuti zmaj
+EntityName,air binder,
 EntityName,air elemental,vazdušni elementar
+EntityName,air maker,
+EntityName,air seeker,
+EntityName,air sphere,
+EntityName,albino rat,
+EntityName,alchemist,
 EntityName,Aleax,Aleaks
+EntityName,almiraj,
 EntityName,ancient black dragon,drevni crni zmaj
 EntityName,ancient blue dragon,drevni plavi zmaj
 EntityName,ancient deep dragon,drevni duboki zmaj
@@ -1063,6 +1425,7 @@ EntityName,ancient silver dragon,drevni srebrni zmaj
 EntityName,ancient white dragon,drevni beli zmaj
 EntityName,ancient yellow dragon,drevni žuti zmaj
 EntityName,angel,anđeo
+EntityName,angel warrior,
 EntityName,animate object,animirani objekat
 EntityName,ape,gorila
 EntityName,Aphrodite,Afrodita
@@ -1070,17 +1433,30 @@ EntityName,apprentice,šegrt
 EntityName,arc bug,duga buba
 EntityName,arch-lich,arh-lič
 EntityName,archangel,arhanđel
+EntityName,archeologist,
 EntityName,Archmage Dirachi,Arčmejdž Dirači
 EntityName,Archmage Flaynn,Arčmejdž Flejn
 EntityName,archon,arhon
 EntityName,Archpriest Avvakrum,Arčprist Avakrum
+EntityName,army captain,
+EntityName,army lieutenant,
+EntityName,army sergeant,
+EntityName,army soldier,
 EntityName,artisan,zanatlija
+EntityName,ash elemental,
+EntityName,ash giant,
+EntityName,ashen cave bear,
+EntityName,ashen mummy,
 EntityName,Ashikaga Takauji,Ašikaga Takaudži
 EntityName,Asmodeus,Asmodes
 EntityName,asphynx,asfinks
+EntityName,assassin,
 EntityName,assassin bug,buba antetator
 EntityName,Assassin Mortimer,Asasin Mortimer
 EntityName,astral deva,astralna diva
+EntityName,astral dog,
+EntityName,astral dragon,
+EntityName,astral puppy,
 EntityName,athol,atol
 EntityName,attendant,atendant
 EntityName,Baalzebub,Balzebub
@@ -1092,6 +1468,7 @@ EntityName,baby deep dragon,beba duboki zmaj
 EntityName,baby gold dragon,beba zlanti zmaj
 EntityName,baby green dragon,beba zeleni zmaj
 EntityName,baby long worm,beba dugi crv
+EntityName,baby mimic,
 EntityName,baby orange dragon,beba narandžasti zmaj
 EntityName,baby purple worm,beba ljubičasti crv
 EntityName,baby red dragon,beba crveni zmaj
@@ -1111,8 +1488,10 @@ EntityName,basilisk,basilisk
 EntityName,bat,slepi miš
 EntityName,bearded devil,bradati đavo
 EntityName,beholder,posmatrač
+EntityName,berserker,
 EntityName,bile worm,žučni crv
 EntityName,bile worm tail,dugi žučni crv
+EntityName,bishop,
 EntityName,black light,crno svetlo
 EntityName,black marketeer,crni marketer
 EntityName,black mould,crna buđ
@@ -1123,26 +1502,37 @@ EntityName,black rat,crni miš
 EntityName,black troll,crni trol
 EntityName,black unicorn,crni jednorog
 EntityName,black wasp,crna zolja
+EntityName,blind cave bat,
+EntityName,blink dog,
+EntityName,blink puppy,
 EntityName,blinking eye,trepćuće oko
 EntityName,blood imp,krvavi đavolčić
 EntityName,bloodshot eye,krvavo oko
 EntityName,bloodworm,krvavi crv
 EntityName,blue jelly,plavi žele
 EntityName,blue light,plavo svetlo
+EntityName,bog ogre,
 EntityName,bone devil,kosturski đavo
+EntityName,bone reaper,
+EntityName,brine elemental,
+EntityName,bronze golem,
 EntityName,brown mould,braon buđ
 EntityName,brown pudding,braon puding
 EntityName,brownie,brovni
 EntityName,bugbear,bagbir
 EntityName,bull,bik
+EntityName,buraq,
 EntityName,burbling blob,žuboreća kapljica
+EntityName,bushi,
 EntityName,byakhee,bjakhi
+EntityName,Byakko,
 EntityName,captain,kapetan
 EntityName,carnivorous ape,gorila mesožder
 EntityName,carrion crawler,puzavac strvina
 EntityName,caterwaul,katervol
 EntityName,catoblepas,katoblepas
 EntityName,cave bear,pećinski medved
+EntityName,cave gnome,
 EntityName,cave spider,pećinski pauk
 EntityName,cave troll,pećinski trol
 EntityName,centipede,stonoga
@@ -1151,6 +1541,7 @@ EntityName,chameleon,kameleon
 EntityName,changeling,preobličar
 EntityName,Charon,Čaron
 EntityName,chasme,časmi
+EntityName,cherubim,
 EntityName,chickatrice,čikatris
 EntityName,chicken,kokoška
 EntityName,chief yeoman warder,glavni jeoman čuvar
@@ -1170,6 +1561,7 @@ EntityName,crocodile,krokodil
 EntityName,Croesus,Kroesus
 EntityName,crystal golem,kristalni golem
 EntityName,Cthulhu,Ktulhu
+EntityName,cyan jelly,
 EntityName,cyclops,kiklop
 EntityName,dao,dao
 EntityName,dark cleric,crni sveštenik
@@ -1201,7 +1593,12 @@ EntityName,dracon,drakon
 EntityName,dragon king,kralj zmajeva
 EntityName,dretch,dretč
 EntityName,drow,drov
+EntityName,drow mage,
+EntityName,drow monk,
+EntityName,drow priestess,
+EntityName,drow thief,
 EntityName,dryad,drijada
+EntityName,duck,
 EntityName,duergar,duergar
 EntityName,dung worm,gnojni crv
 EntityName,dust vortex,vrtlog prašine
@@ -1220,6 +1617,7 @@ EntityName,earth seeker,tragač za zemljom
 EntityName,earth sphere,zemaljska sfera
 EntityName,echo,eho
 EntityName,efreeti,efriti
+EntityName,elder wizard,
 EntityName,electric eel,električna jegulja
 EntityName,elephant,slon
 EntityName,elf,vilenjak
@@ -1229,16 +1627,24 @@ EntityName,elf mummy,viljenak mumija
 EntityName,elf zombie,vilenjak zombi
 EntityName,Elwing,Elving
 EntityName,embalmer,balzamator
+EntityName,ember panther,
+EntityName,ember spitting beetle,
 EntityName,emerald golem,smaragdni golem
+EntityName,energy elemental,
 EntityName,energy vortex,energetski vrtlog
 EntityName,erinys,erinis
+EntityName,eshim,
 EntityName,ettin,etin
 EntityName,ettin mummy,etin mumija
 EntityName,ettin zombie,etin zombi
+EntityName,explosive elemental,
+EntityName,explosive sphere,
 EntityName,exterminator,istrebljivač
+EntityName,fae dragon,
 EntityName,fairy,vila
 EntityName,Famine,Glad
 EntityName,Father Dagon,Tata Zmaj
+EntityName,female demon,
 EntityName,fiend,đavo
 EntityName,fire ant,vatreni mrav
 EntityName,fire elemental,vatreni elementar
@@ -1257,16 +1663,24 @@ EntityName,fog cloud,oblak magle
 EntityName,forest centaur,šumski kentaur
 EntityName,fox,lisica
 EntityName,Frankenstein's Monster,Frankenštajnovo čudovište
+EntityName,frost beetle,
 EntityName,frost binder,srmznuti bajnder
+EntityName,frost cobra,
+EntityName,frost dwarf,
 EntityName,frost giant,smrznuti džin
+EntityName,frost long worm,
+EntityName,frost lynx,
 EntityName,frost maker,proizvođač zime
 EntityName,frost seeker,tragač za zimom
 EntityName,frost sphere,smrznuta sfera
+EntityName,frost wraith,
+EntityName,galgalim,
 EntityName,gargoyle,gargojl
 EntityName,garter snake,zmija podvezica
 EntityName,gas spore,gasna spora
 EntityName,gecko,tropski gušter
 EntityName,gelatinous cube,želatinasta kocka
+EntityName,General Breetai,
 EntityName,genetic engineer,genetski inženjer
 EntityName,Geryon,Gerjon
 EntityName,ghast,gast
@@ -1284,6 +1698,7 @@ EntityName,giant crab,džinovska kraba
 EntityName,giant eel,džinovska jegulja
 EntityName,giant flea,džinovska buva
 EntityName,giant frog,džinovska žaba
+EntityName,giant hamster,
 EntityName,giant king,džinovski kralj
 EntityName,giant louse,džinovska uš
 EntityName,giant mimic,džinovski mimik
@@ -1297,6 +1712,7 @@ EntityName,giant termite,džinovski termit
 EntityName,giant tick,džinovski krpelj
 EntityName,giant wasp,džinovska osa
 EntityName,giant zombie,džinovski zombi
+EntityName,Gianta Klaus,
 EntityName,gibberling,brbljar
 EntityName,gila monster,gila čudovište
 EntityName,Girtab,Girtab
@@ -1321,8 +1737,10 @@ EntityName,goblin king,kralj goblina
 EntityName,gold golem,zlatni golem
 EntityName,golden naga,zlatna naga
 EntityName,golden naga hatchling,mladunče zlatne nage
+EntityName,grave mimic,
 EntityName,great orc,veliki ork
 EntityName,green elf,zeleni vilenjak
+EntityName,green jelly,
 EntityName,green mould,zelena buđ
 EntityName,green slime,zelena sluz
 EntityName,gremlin,gremlin
@@ -1338,7 +1756,10 @@ EntityName,guide,vodič
 EntityName,Guildmaster Vaughn,Gospodar udruženja Vaung
 EntityName,Guru Quilion,Guru Kvilion
 EntityName,gypsy,rom
+EntityName,hag,
 EntityName,halfling,halfling
+EntityName,halfling female caveman,
+EntityName,halfling male caveman,
 EntityName,harpy,žena ptica
 EntityName,hell hound,pakleni pas
 EntityName,hell hound pup,kuče paklenog psa
@@ -1363,9 +1784,11 @@ EntityName,human,čovek
 EntityName,human king,kralj ljudi
 EntityName,human mummy,čovek mumija
 EntityName,human zombie,čovek zombi
+EntityName,huntress,
 EntityName,hydra,hidra
 EntityName,ice devil,ledeni đavo
 EntityName,ice elemental,ledeni elementar
+EntityName,ice giant,
 EntityName,ice troll,ledeni trol
 EntityName,ice vortex,ledeni vrtlog
 EntityName,iguana,iguana
@@ -1381,8 +1804,10 @@ EntityName,jackalwere,šakaldlak
 EntityName,jaguar,jaguar
 EntityName,jellyfish,meduza
 EntityName,jiggling blob,klimava kapljica
+EntityName,journeyman wizard,
 EntityName,juggernaut,džagernaut
 EntityName,Juiblex,Džuibleks
+EntityName,jungle kobold,
 EntityName,juvenile raven,juvenilni gavran
 EntityName,Kaloi Thrym,Kaloj Trim
 EntityName,kamadan,kamadan
@@ -1408,6 +1833,7 @@ EntityName,kobold warrior,kobold ratnik
 EntityName,kobold zombie,kobold zombi
 EntityName,komodo dragon,komodo zmaj
 EntityName,kraken,kraken
+EntityName,Krull,
 EntityName,lamb,jagnje
 EntityName,Lareth,Laret
 EntityName,large cat,ogromna mačka
@@ -1418,6 +1844,7 @@ EntityName,large mimic,ogromni mimik
 EntityName,large pile of killer coins,velika gomila novčića ubica
 EntityName,larva,larva
 EntityName,lava blob,lava kapljica
+EntityName,lava troll,
 EntityName,leather golem,kožni golem
 EntityName,lemure,lemur
 EntityName,leocrotta,leokrota
@@ -1434,6 +1861,7 @@ EntityName,lizardman,čovek gušter
 EntityName,lizardman berserker,čovek gušter berserker
 EntityName,lizardman chieftain,čovek gušter poglavica
 EntityName,lizardman mage,čovek gušter čarobnjak
+EntityName,lizardman samurai,
 EntityName,lizardman shaman,čovek gušter šaman
 EntityName,lizardman warrior,čovek gušter ratnik
 EntityName,Lolth,Lolt
@@ -1456,18 +1884,24 @@ EntityName,master mind flayer,gospodar uma derikoža
 EntityName,mastodon,mastodon
 EntityName,Maugneshaagar,Maugnešagar
 EntityName,medusa,zmijoglava
+EntityName,melanistic moccasin,
 EntityName,mellified man,umiren čovek
 EntityName,merchant,trgovac
+EntityName,Merdude,
 EntityName,Metamorphius,metamorfius
+EntityName,midnight jelly,
 EntityName,migo drone,migo dron
 EntityName,migo queen,migo kraljica
 EntityName,migo warrior,migo ratnik
+EntityName,mimic,
+EntityName,mimic coins,
 EntityName,mind flayer,derikoža
 EntityName,minotaur,minotaur
 EntityName,minotaur lord,gospodar minotaura
 EntityName,mist wolf,magleni vuk
 EntityName,mithril golem,mitrilan džin
 EntityName,mobat,slepi miš sa zubima
+EntityName,molten gila monster,
 EntityName,monadic deva,monadik deva
 EntityName,mongbat,mong slepi miš
 EntityName,monkey,majmun
@@ -1478,6 +1912,7 @@ EntityName,mountain nymph,planinska nimfa
 EntityName,movanic deva,movanik deva
 EntityName,mugger,pljačkaš
 EntityName,mumak,mamut sa četiri kljove
+EntityName,mystical dragon,
 EntityName,nabassu,nabasu
 EntityName,nalfeshnee,nalfešni
 EntityName,Nalzok,Nalzok
@@ -1488,9 +1923,12 @@ EntityName,newt,mali gušter
 EntityName,nickelpede,nikl stonoga
 EntityName,nightgaunt,noćni kostur
 EntityName,nightmare,noćna mora
+EntityName,noble elf,
 EntityName,Norn,Norn
+EntityName,nun,
 EntityName,nupperibo,nuperibu
 EntityName,nurse,medicinska sestra
+EntityName,Nymph Princess,
 EntityName,occultist,okultista
 EntityName,ochre jelly,oker žele
 EntityName,ogre,ogar
@@ -1507,6 +1945,7 @@ EntityName,orc grunt,ork grant
 EntityName,orc king,kralj orkova
 EntityName,orc mummy,ork mumija
 EntityName,orc shaman,ork šaman
+EntityName,orc thief,
 EntityName,orc warrior,ork ratnik
 EntityName,orc zombie,ork zombi
 EntityName,Orcus,Orkus
@@ -1514,6 +1953,7 @@ EntityName,Orion,Orijon
 EntityName,owlbear,sova medved
 EntityName,pack rat,putnički pacov
 EntityName,page,stranica
+EntityName,pale cave spider,
 EntityName,panther,panter
 EntityName,pantherwere,panterdlak
 EntityName,paper golem,papirni džin
@@ -1524,6 +1964,10 @@ EntityName,Pelias,Pelijas
 EntityName,Pestilence,Pestilens
 EntityName,phase spider,faza pauk
 EntityName,phase worm,faza crv
+EntityName,pheral khit,
+EntityName,pheral pharaoh,
+EntityName,pheral sentinel,
+EntityName,pheral vizier,
 EntityName,pig,svinja
 EntityName,pile of killer coins,gomila novčića ubica
 EntityName,piranha,pirana
@@ -1531,10 +1975,13 @@ EntityName,pit bull,pit bul
 EntityName,pit fiend,pit đavolčić
 EntityName,pit viper,pit zmija
 EntityName,pixie,piksi
+EntityName,plague jackal,
+EntityName,plague zombie,
 EntityName,plains centaur,ravničarski kentaur
 EntityName,Planetar,Planetar
 EntityName,plasmoid,plazmoid
 EntityName,plastic golem,plastični džin
+EntityName,poison alchemist,
 EntityName,pony,poni
 EntityName,proudfoot,praudfut
 EntityName,purple worm,ljubičasti crv
@@ -1554,6 +2001,7 @@ EntityName,rancid jelly,užegli žele
 EntityName,rat king,kralj pacova
 EntityName,ratwere,pacovdlak
 EntityName,recluse spider,pauk pustinjak
+EntityName,red jelly,
 EntityName,red light,crveno svetlo
 EntityName,red mould,crvena buđ
 EntityName,red naga,crvena naga
@@ -1561,6 +2009,10 @@ EntityName,red naga hatchling,mladunče crvene nage
 EntityName,rhaumbusun,raumbusun
 EntityName,rhumbat,rum slepi miš
 EntityName,robot,robot
+EntityName,robot female,
+EntityName,robot male vampire gunslinger,
+EntityName,robot sentry,
+EntityName,robot singer,
 EntityName,rock kobold,kameni kobold
 EntityName,rock mole,kamena krtica
 EntityName,rock piercer,kameni pirser
@@ -1570,6 +2022,7 @@ EntityName,roshi,roši
 EntityName,rot worm,truli crv
 EntityName,rothé,rote
 EntityName,ruby golem,rubin džin
+EntityName,runicorn,
 EntityName,rust monster,rđavo čudovište
 EntityName,rutterkin,ruterkin
 EntityName,sabre-toothed cat,sabljozuba mačka
@@ -1578,10 +2031,13 @@ EntityName,sandestin,sandestin
 EntityName,sapphire golem,safirski džin
 EntityName,sasquatch,saskvač
 EntityName,satyr,satir
+EntityName,savage brute,
+EntityName,savage stalker,
 EntityName,scorpion,škorpija
 EntityName,Scorpius,Škorpiijus
 EntityName,scramper,skramper
 EntityName,seal,foka
+EntityName,seraphim,
 EntityName,sergeant,narednik
 EntityName,sewer rat,kanalizacioni pacov
 EntityName,shade,nijansa
@@ -1589,6 +2045,7 @@ EntityName,shadow,senka
 EntityName,shadow ogre,senka ogar
 EntityName,shadow wolf,senka vuk
 EntityName,Shaman Karnov,Šaman Karnov
+EntityName,shaolin monk,
 EntityName,shark,ajkula
 EntityName,sheep,ovca
 EntityName,shifter,šifter
@@ -1599,6 +2056,7 @@ EntityName,shock seeker,tragač šoka
 EntityName,shock sphere,šok sfera
 EntityName,shoggoth,šogot
 EntityName,shrieker,vrisak
+EntityName,silver golem,
 EntityName,Sir Lorimar,Gospodin Lorimar
 EntityName,skeleton,skeleton
 EntityName,small mimic,mali mimik
@@ -1610,6 +2068,9 @@ EntityName,snow orc,snežni ork
 EntityName,Solar,Solarni
 EntityName,soldier,vojnik
 EntityName,soldier ant,mrav vojnik
+EntityName,sonic elemental,
+EntityName,sonic sphere,
+EntityName,Soul Summoner,
 EntityName,spark bug,buba varnica
 EntityName,spider queen,kraljica pauka
 EntityName,spiderwere,paukdlak
@@ -1623,24 +2084,36 @@ EntityName,static blob,statična kapljica
 EntityName,steam vortex,parni vrtlog
 EntityName,stone giant,kameni džin
 EntityName,stone golem,kameni golem
+EntityName,storm ape,
+EntityName,storm coyote,
 EntityName,storm giant,olujni džin
+EntityName,storm raven,
 EntityName,straw golem,slamnati golem
 EntityName,student,student
 EntityName,succubus,sukub
+EntityName,sun elf,
 EntityName,swamp kobold,močvarni kobold
+EntityName,swamp orc,
+EntityName,tar pudding,
+EntityName,tempter,
+EntityName,temptress,
 EntityName,tengu,tengu
+EntityName,thief,
 EntityName,Thorin,Torin
 EntityName,Thoth Amon,Tot Amon
 EntityName,thug,nasilnik
 EntityName,tiger,tigar
 EntityName,tigerwere,tigardlak
+EntityName,tin golem,
 EntityName,titan,titan
 EntityName,titanothere,titanoder
 EntityName,topaz golem,topazni golem
 EntityName,tortle,kornjača
 EntityName,tracker,traker
+EntityName,trader,
 EntityName,transmuter,transmuter
 EntityName,trapper,traper
+EntityName,traveller,
 EntityName,treant,trent
 EntityName,troll,trol
 EntityName,troll mummy,trol mumija
@@ -1658,6 +2131,7 @@ EntityName,vampire mage,vampirski čarobnjak
 EntityName,Van Helsing,Van Helsing
 EntityName,Vecna,Vekna
 EntityName,violet fungus,ljubičasta gljiva
+EntityName,violet jelly,
 EntityName,vorpal jabberwock,vorpal džabervok
 EntityName,vrock,vrok
 EntityName,war orc,ratni ork
@@ -1687,6 +2161,7 @@ EntityName,weretiger,dlaktigar
 EntityName,werewolf,vukodlak
 EntityName,white unicorn,beli jednorog
 EntityName,wight,vajt
+EntityName,wind sphere,
 EntityName,winged gargoyle,krilati gargojl
 EntityName,winter wolf,zimski vuk
 EntityName,winter wolf cub,mladunče zimskog vuka
@@ -1722,6 +2197,7 @@ EntityName,young shimmering dragon,mladi svetlucavi zmaj
 EntityName,young silver dragon,mladi srebrni zmaj
 EntityName,young white dragon,mladi beli zmaj
 EntityName,young yellow dragon,mladi žuti zmaj
+EntityName,zombietree,
 EntityName,zruty,zruti
 EquipAction,employ,upotrebite
 EquipAction,purse,ubacite
@@ -1763,9 +2239,15 @@ FeatureName,bed,krevet
 FeatureName,fountain,fontana
 FeatureName,grave,grob
 FeatureName,pentagram,pentagram
+FeatureName,pyramid,
 FeatureName,sarcophagus,sarkofag
+FeatureName,sink,
 FeatureName,stall,štand
 FeatureName,throne,tron
+FeatureName,toilet,
+FeatureName,wooden sign,
+FeatureName,wooden stool,
+FeatureName,wooden table,
 FeatureName,workbench,radni sto
 FormatText,{ActionCount} action,{ActionCount} akcija
 FormatText,{ActionCount} actions,{ActionCount} akcije
@@ -2056,13 +2538,17 @@ GradeName,exotic,ekzotično
 GradeName,standard,standardno
 GroundDescription,The cool stone surface has immaculate craftsmanship but is marked by damage and time.,"Hladna kamena površina ima besprekornu izradu, ali je obeležena oštećenjem i vremenom."
 GroundName,cave floor,pećinski pod
+GroundName,cave path,
 GroundName,chasm,ponor
+GroundName,cloud,
+GroundName,deep water,
 GroundName,dirt,prašina
 GroundName,gold floor,zlatni pod
 GroundName,granite floor,granitni pod
 GroundName,grass,trava
 GroundName,hive floor,pod košnice
 GroundName,ice,led
+GroundName,lattice floor,
 GroundName,lava,lava
 GroundName,marble floor,mermerni pod
 GroundName,metal floor,metalni pod
@@ -2070,33 +2556,51 @@ GroundName,moss,mahovina
 GroundName,obsidian floor,obsidijanski pod
 GroundName,sand,pesak
 GroundName,sewer floor,kanalizacioni pod
+GroundName,shallow water,
 GroundName,snow,sneg
 GroundName,stone floor,kameni pod
 GroundName,stone path,kamena staza
 GroundName,water,voda
 GroundName,wooden floor,drveni pod
+HordeName,acid foundry,
+HordeName,air foundry,
+HordeName,albino rat,
+HordeName,angelic choir,
 HordeName,ant,mrav
 HordeName,ape,gorila
+HordeName,army patrol,
+HordeName,army platoon,
+HordeName,army squad,
+HordeName,ash foundry,
+HordeName,astral dog,
 HordeName,bat,slepi miš
 HordeName,bee,pčela
 HordeName,beetle,tvrdokrilac
+HordeName,blink dog,
+HordeName,brine foundry,
 HordeName,cockroach,bubašvaba
 HordeName,couatl,koatl
 HordeName,coyote,kojot
 HordeName,demon,demon
 HordeName,drow,drov
+HordeName,drow enclave,
 HordeName,dwarf,patuljak
 HordeName,electric bug,električna buba
 HordeName,elf,vilenjak
+HordeName,energy foundry,
+HordeName,explosive foundry,
 HordeName,flea,buva
 HordeName,garter snake,zmija podvezica
 HordeName,gibberling,brbljar
 HordeName,gnome,gnom
 HordeName,goblin,goblin
+HordeName,golem workshop,
 HordeName,grimlock,grimlok
 HordeName,harpy,žena ptica
+HordeName,heavenly host,
 HordeName,hell hound,pakleni pas
 HordeName,jackal,šakal
+HordeName,jelly cistern,
 HordeName,keystone,kejston
 HordeName,kobold,kobold
 HordeName,lemure,lemur
@@ -2105,14 +2609,20 @@ HordeName,louse,uš
 HordeName,mane,griva
 HordeName,mangler,mangler
 HordeName,migo,migo
+HordeName,mimic nest,
 HordeName,mould,plesanj
 HordeName,ogre,ogar
 HordeName,orc,ork
+HordeName,pheral tomb,
+HordeName,plague jackal,
 HordeName,rat,pacov
 HordeName,rothé,rod
 HordeName,scorpion,škorpija
+HordeName,sonic foundry,
 HordeName,spider,pauk
 HordeName,spore,spora
+HordeName,storm coyote,
+HordeName,tar pudding,
 HordeName,termite,termit
 HordeName,tick,tik
 HordeName,tsetse fly,cece muva
@@ -2124,15 +2634,36 @@ HordeName,wolf,vuk
 HordeName,worm,crv
 HordeName,yeoman,jeoman
 HordeName,zombie,zombi
+ItemDescription,"A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.",
+ItemDescription,"A barbed iron hook on a long coil of rope, thrown out and hauled back in.",
+ItemDescription,"A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.",
+ItemDescription,"A branched silver candle-holder, its every arm lit at once.",
+ItemDescription,"A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.",
+ItemDescription,"A canvas roll of bandages, salves and sutures for treating wounds in the field.",
+ItemDescription,"A ceremonial double-bitted axe, its twin blades curved like a crescent moon.",
+ItemDescription,"A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.",
+ItemDescription,"A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.",
 ItemDescription,A cloth mask that completely obstructs the wearer's vision.,Maska od tkanine koja potpuno ometa vid nosioca.
 ItemDescription,"A collection of utensils, including empty tins and butchering tools, for packing corpses so as to condense them.","Zbirka pribora, uključujući prazne konzerve i alate za kasapljenje, za pakovanje leševa kako bi se oni zgusnuli."
 ItemDescription,A compact hand-held firearm.,Kompaktno ručno vatreno oružje.
+ItemDescription,"A crudely hammered throwing disc with a jagged, uneven rim, more likely to tear than to cut cleanly.",
+ItemDescription,"A curved funerary blade inlaid with gold, once carried by a pharaonic guardian charged with keeping the dead in their tombs.",
+ItemDescription,"A curved single-edged blade mounted on a long oaken shaft, prized by the warrior monks of the far east.",
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.","Zakrivljeno jednobridno sečivo koje često koristi konjica, posebno efikasno protiv stvorenja iz donjeg sveta."
 ItemDescription,A curved single-edged blade often used by cavalry.,Zakrivljeno jednobridno sečivo koje konjica često koristi.
 ItemDescription,A curved yellow fruit and a great source of fibre.,Zakrivljeno žuto voće i odličan izvor vlakana.
+ItemDescription,A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.,
+ItemDescription,A fine-grained stone for putting an edge back on a tired blade.,
+ItemDescription,"A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.",
+ItemDescription,A flat black stone used since antiquity to tell real gemstones from paste and glass.,
+ItemDescription,A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.,
 ItemDescription,"A flat throwing weapon made of wood, often used for hunting.","Pravo oružje za bacanje od drveta, koje se često koristi za lov."
 ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.","Pravna, okrugla torta. Kuvana u tiganju, kao što možete pretpostaviti."
+ItemDescription,"A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.",
 ItemDescription,A foreign device which creates perfect visual depictions of reality.,Strani uređaj koji stvara savršene vizuelne prikaze stvarnosti.
+ItemDescription,"A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.",
+ItemDescription,"A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.",
+ItemDescription,"A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.",
 ItemDescription,A hand-held brass horn.,Ručni mesingani rog.
 ItemDescription,"A hard rock, smooth and therefore aerodynamic.","Tvrda stena, glatka i stoga aerodinamična."
 ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,"Stub od tvrdog drveta. To je skromno, ali strašno oružje u obučenim rukama."
@@ -2140,10 +2671,16 @@ ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.","Obi
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.","Teško i dugačko sečivo sa dve oštrice. Slično dugom maču, uvećano posebno za upotrebu sa dve ruke."
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,Teški gvozdeni čekić dizajniran specijalno za upotrebu u bližoj borbi.
 ItemDescription,A heavy suit of armour made up of many strips of metal.,Teško odelo oklopa sačinjeno od mnogih metalnih traka.
+ItemDescription,"A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.",
 ItemDescription,"A horizontal, mechanically-aided bow and arrow with a shoulder stock.","Horizontalni, mehanički potpomognuti luk i strela sa kundakom za ramena."
 ItemDescription,A key designed to open all mundane locks.,Ključ dizajniran za otvaranje svih prizemnih brava.
+ItemDescription,"A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.",
 ItemDescription,"A leather pouch set between two cords, meant for launching small projectiles.","Kožna torbica postavljena između dva užeta, namenjena za lansiranje malih projektila."
+ItemDescription,"A length of sturdy rope with a clasp, for keeping a tame animal close at hand.",
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.","Lagana zaštitna ploča pričvršćena za podlakticu, napravljena od drveta sa metalnim ojačanjem."
+ItemDescription,"A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.",
+ItemDescription,A long cane rod strung with line and hook. Best used beside open water.,
+ItemDescription,"A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.","Dugačak gvozdeni nož sa oštrim vrhom, opterećen za bacanje."
 ItemDescription,A long pipe meant for shooting darts through force of breath.,Duga cev namenjena za gađanje strelica kroz snagu daha.
 ItemDescription,A long thrusting polearm best suited to mounted combat.,Dugačko bojno koplje koje je najprikladnije za borbu dok jašete.
@@ -2151,68 +2688,110 @@ ItemDescription,A long-shafted arrow with a distinctive tip.,Strela sa dugim dr�
 ItemDescription,"A long, flexible leather thong. Unexpectedly sharp.","Duge, fleksibilne kožne tange. Neočekivano oštre."
 ItemDescription,"A long, flowing garment, with long sleeves and a hood.","Dugačka, lepršava odeća, sa dugim rukavima i kapuljačom."
 ItemDescription,A mace that is spiked on its head.,Buzdovan koji je šiljast na glavi.
+ItemDescription,"A massive adamantine maul, its head as large as a barrel stave, that shrugs off the recoil of its own swing.",
+ItemDescription,"A massive, mithril-shod maul, its head as large as a barrel stave.",
 ItemDescription,A meal made from the stomach lining of an animal.,Obrok napravljen od stomačne sluznice životinje.
+ItemDescription,"A miniature crossbow of elven design, light enough to be drawn and fired one-handed without a stirrup.",
+ItemDescription,"A monstrous greatsword forged with three parallel blades fused along a single spine, each edge catching the light at a different angle.",
 ItemDescription,"A package of preserved meats, all dried and chewy.","Paket konzerviranog mesa, sve sušeno i žvakano."
+ItemDescription,"A pair of gauntlets ringed with jagged knuckle-spikes, made to turn a punch into a wound.",
+ItemDescription,A pair of solid iron-plated boots that guard the shin and instep at the cost of a good deal of weight.,
 ItemDescription,A pair of sturdy leather boots which extend upward until just below the knee.,Par čvrstih kožnih čizama koje se protežu nagore do malo ispod kolena.
 ItemDescription,A pair of sturdy leather boots which extend upwards to just above the ankle.,Par čvrstih kožnih čizama koje se protežu nagore do malo iznad gležnja.
+ItemDescription,"A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.",
+ItemDescription,"A physician's instrument for listening to a heartbeat -- yours, or something else's.",
+ItemDescription,"A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.",
+ItemDescription,"A plain, undyed shirt of woven cloth, worn under armour or on its own.",
 ItemDescription,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.","Šiljata gvozdena šipka oblikovana pod pravim uglom u odnosu na čvrstu drvenu dršku, koja se koristi za probijanje tvrdih površina."
 ItemDescription,A pointed metal cylinder meant to be discharged from a firearm.,Šiljati metalni cilindar namenjen za ispuštanje iz vatrenog oružja.
+ItemDescription,A polished sheet of silvered glass. Some things recoil from their own reflection.,
 ItemDescription,A portable source of light fashioned out of copper and fuelled by oil.,Prenosivi izvor svetlosti napravljen od bakra i napajan naftom.
 ItemDescription,A projectile consisting of a wooden shaft with a sharp metal tip at its front and stabilising fins at its rear.,Projektil koji se sastoji od drvene osovine sa oštrim metalnim vrhom na prednjoj strani i stabilizirajućim perajima pozadi.
+ItemDescription,"A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.",
 ItemDescription,A righteous sword forged by a revered blacksmith many years ago who set out to hone his craft and to create the ultimate blade. The noble intent of its creator lingers in this weapon to cut down the wicked and protect the innocent.,Pravedan mač koji je iskovao poštovani kovač pre mnogo godina koji je krenuo da usavrši svoj zanat i da stvori vrhunsko sečivo. Plemenita namera njegovog tvorca leži u ovom oružju da poseče zle i zaštiti nevine.
+ItemDescription,A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.,
 ItemDescription,"A sanctimonious biscuit. A miracle to the meek, a scourge to the undead.","Svetoljubivi biskvit. Čudo za pokorne, pošast za nemrtve."
 ItemDescription,"A semi-rigid weapon made up of a notched wooden shaft with a drawstring attached to both ends, used to launch arrows.","Polukruto oružje sačinjeno od urezane drvene osovine sa vrpcom pričvršćenom na oba kraja, koja se koristi za lansiranje strela."
+ItemDescription,"A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.",
 ItemDescription,A sharp iron wedge fashioned to a sturdy handle.,Oštar gvozdeni klin oblikovan za čvrstu dršku.
 ItemDescription,"A sharp metal throwing weapon, smaller than a hand and shaped like a star.","Oštro metalno oružje za bacanje, manje od ruke i u obliku zvezde."
 ItemDescription,A short and light double-edged blade.,Kratko i lagano sečivo sa dve oštrice.
+ItemDescription,"A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.",
+ItemDescription,"A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.",
+ItemDescription,"A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.",
 ItemDescription,"A slimy, scaly sea creature, in its entirety. Good for a meal.","Sluzavo, ljuskavo morsko stvorenje, u celini. Dobro za obrok."
 ItemDescription,A small cutting utensil made of metal with a wooden handle.,Mali pribor za sečenje od metala sa drvenom drškom.
+ItemDescription,A small glass vial holding a captive mote of light.,
+ItemDescription,A small hooked blade made for prying the lid off a sealed tin.,
 ItemDescription,A small iron tool designed for opening all sorts of locks.,Mali gvozdeni alat dizajniran za otvaranje svih vrsta brava.
 ItemDescription,A small missile with a pointed tip meant for throwing.,Mali projektil sa zašiljenim vrhom namenjen za bacanje.
 ItemDescription,A small missile with a reservoir of liquid delivered through a hollow pointed tip.,Mali projektil sa rezervoarom tečnosti koji se isporučuje kroz šuplji zašiljeni vrh.
+ItemDescription,"A small, chalky tablet of uncertain origin. Best swallowed quickly.",
+ItemDescription,"A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.",
+ItemDescription,"A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.",
 ItemDescription,"A soft-brimmed hat, somewhat out of fashion.","Šešir mekog oboda, pomalo van mode."
 ItemDescription,A sophisticated bludgeon with a heavy iron head.,Sofisticirana palica sa teškom gvozdenom glavom.
 ItemDescription,A spacious bag made of incredibly stretchy cotton.,Prostrana torba od neverovatno rastegljivog pamuka.
 ItemDescription,A spacious cloth bag.,Prostrana platnena torba.
+ItemDescription,"A staff of living, unworked rock. What shapes matter cannot itself be unmade.",
 ItemDescription,A stick of cured meat.,Štap sušenog mesa.
 ItemDescription,"A stick of highly explosive material, with a short fuse on one end.","Štap od veoma eksplozivnog materijala, sa kratkim osiguračem na jednom kraju."
+ItemDescription,A stone infused with restorative magic. It crumbles a little more each time it is used.,
+ItemDescription,A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.,
+ItemDescription,"A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.",
 ItemDescription,"A straight, double-edged and often cruciform blade.","Pravo, dvoseklo i često krstasto sečivo."
+ItemDescription,"A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.",
 ItemDescription,A sturdy and solid mineral.,Snažan i čvrst mineral.
 ItemDescription,A suit of armour made from metal rings sewn onto a foundation of leather or cloth.,Oklop napravljen od metalnih prstenova ušivenih na podlogu od kože ili tkanine.
+ItemDescription,"A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.",
 ItemDescription,"A surviving portion of the legendary wall of Verimurus, an ancient elven city said to have lasted since time immemorial. However, not even the mightiest walls could withstand the endless onslaught of the dragons. Now the enchanted walls stand alone over the land that once held them.","Preživeli deo legendarnog zida Verimurus, drevni vilenjački grad za koji se kaže da je trajao od pamtiveka. Međutim, ni najmoćniji zidovi nisu mogli da izdrže beskrajnu navalu zmajeva. Sada začarani zidovi stoje sami nad zemljom koja ih je nekada držala."
 ItemDescription,"A sweet citrus fruit, coloured eponymously.","Slatko citrusno voće, istoimeno obojeno."
 ItemDescription,"A sweet custard-filled pie with a thin crust, topped with whipped cream.","Slatka pita punjena kremom sa tankom korom, prelivena šlagom."
 ItemDescription,"A sweet, round fruit, of the red variety. Reportedly a great supplement to your physical health.","Slatko, okruglo voće, crvene sorte. Navodno odličan dodatak vašem fizičkom zdravlju."
+ItemDescription,"A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.",
 ItemDescription,"A tall, asymmetric bow.","Visok, asimetričan luk."
+ItemDescription,"A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.",
 ItemDescription,"A thick leather coat, constructed to withstand weather and wear.","Debeli kožni kaput, napravljen da izdrži vremenske prilike i habanje."
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.","Debela drvena palica. Ono što mu nedostaje u stilu, to nadoknađuje u funkciji."
+ItemDescription,"A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,Tanak i okretan mač namenjen skoro isključivo za zabadanje.
+ItemDescription,A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.,
 ItemDescription,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.","Dvoručno vatreno oružje, postavljeno na ramenu, često se koristi u lovu na sitnu divljač. Ima dosta udaraca."
 ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.","Čudo patuljaste genijalnosti i zanatstva, ukradeno i prenamenjeno od strane orka. Postavljen na dugačku osovinu, ovo oruđe je zastrašujuće oružje za jahanje ili na vorgovim leđima. Električna struja koja pokreće njegovu bušilicu povremeno će isprazniti svakoga ko je spreman da stane na put ovoj čudovišnosti."
+ItemDescription,"A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.",
 ItemDescription,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,Poljoprivredno oruđe koje se sastoji od dugačkog zakrivljenog sečiva i pričvršćenog za ugaonu ručku.
 ItemDescription,An ambiguous curiosity. It seems edible.,Dvosmislena radoznalost. Deluje jestivo.
 ItemDescription,An article of leather clothing covering the torso that hangs around the neck and on the shoulders.,Odeća od kože koja pokriva torzo i visi oko vrata i ramena.
 ItemDescription,An article of waterproof cotton clothing covering the torso that hangs around the neck and on the shoulders.,Artikal vodootporne pamučne odeće koja pokriva torzo i visi oko vrata i na ramenima.
+ItemDescription,"An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.",
 ItemDescription,An elven travel food. It is incredibly satiating.,Vilenjačka hrana za putovanja. To je neverovatno zasitno.
+ItemDescription,"An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.",
 ItemDescription,An extremely sharp little blade used for precise incisions.,Izuzetno oštro malo sečivo koje se koristi za precizne rezove.
 ItemDescription,An inconspicuous snack that tells deep secrets.,Neupadljiva užina koja govori duboke tajne.
 ItemDescription,An iron projectile made up of a shaft with a sharpened square-pyramid tip.,Gvozdeni projektil sastavljen od drške sa zaoštrenim vrhom kvadratne piramide.
+ItemDescription,"An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.",
 ItemDescription,"An orange root-vegetable, commonly believed to improve eyesight.","Narandžasto korenasto povrće, za koje se obično veruje da poboljšava vid."
+ItemDescription,"An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.",
 ItemDescription,"Boiled leather, moulded into a bodily shape to be donned as light armour.","Kuvana koža, oblikovana u telesni oblik da se nosi kao laki oklop."
 ItemDescription,"Bold, or just tacky?","Podebljano, ili samo lepljivo?"
 ItemDescription,Chain mail consists of a mesh of metal rings interlinked to form a flexible armour.,Lančani oklop se sastoji od mreže metalnih prstenova međusobno povezanih da formiraju fleksibilan oklop.
+ItemDescription,"Fate itself bends around the wearer, keeping them exactly where the blow cannot land.",
 ItemDescription,"Forged deep underground by dwarven hands, this blade was made to slay the scaled beasts who sought to steal their treasures. Throughout the long years this blade has bathed in the blood of its winged prey. Now almost forgotten, it yearns again for the taste of dragon flesh.","Iskovano duboko pod zemljom rukama patuljaka, ovo sečivo je napravljeno da ubije krljuštene zveri koje su htele da ukradu njihova blaga. Tokom dugih godina ovo sečivo se kupalo u krvi svog krilatog plena. Sada skoro zaboravljen, ponovo čezne za ukusom zmajevog mesa."
 ItemDescription,"Gazing into its crimson depths you can see the concentrated life essence of countless victims swirling inside of it. The artifact was completed in the moment of the creators' death, as his soul was claimed by his creation. Now residing among the souls of his former victims, his essence as an alchemist provides the stone with ultimate transmutative powers.","Gledajući u njegove grimizne dubine možete videti koncentrisanu životnu suštinu bezbrojnih žrtava koje se kovitlaju u njemu. Artefakt je završen u trenutku smrti kreatora, jer je njegova duša uzeta njegovom kreacijom. Sada živi među dušama svojih bivših žrtava, njegova suština kao alhemičara daje kamenu vrhunske transmutativne moći."
+ItemDescription,"Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.",
 ItemDescription,Its high-quality elvish manufacture makes for an effective close combat weapon.,Njegova visokokvalitetna vilenjačka proizvodnja čini efikasno oružje za blisku borbu.
 ItemDescription,Leather armour with close-set studs so as to offer more protection.,Kožni oklop sa usko postavljenim klinovima za veću zaštitu.
 ItemDescription,"Like a smaller variant of the katana, often used as a side-arm.","Kao manja varijanta katane, koja se često koristi kao bočna ruka."
+ItemDescription,"Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.",
 ItemDescription,One segment of a particularly pungent and bulbous herb.,Jedan segment posebno ljute i lukovičaste biljke.
 ItemDescription,Standard issue protective metal headgear.,Standardna zaštitna metalna kapa za glavu.
+ItemDescription,"Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.",
 ItemDescription,"Sturdy leather garments fitted firm onto the hands, sheathing each finger individually.","Čvrsta kožna odeća čvrsto stoji na rukama, pokrivajući svaki prst pojedinačno."
 ItemDescription,The final sword forged by a once respected blacksmith who lost himself in the depths of the dungeon. His warped soul now inhabits this blade and lusts for blood. It is said that the one who wields this sword is coerced into cutting down friend and foe alike.,Poslednji mač koji je iskovao nekada poštovani kovač koji se izgubio u dubinama tamnice. Njegova iskrivljena duša sada živi u ovom sečivu i žudi za krvlju. Kažu da je onaj ko rukuje ovim mačem primoran da poseče i prijatelja i neprijatelja.
 ItemDescription,The head of a ranseur consists of a spear-tip affixed with a cross hilt at its base.,Glava ransera sastoji se od vrha koplja pričvršćenog krstastom drškom u njenoj osnovi.
 ItemDescription,The only coin that can be found and spent in the dungeon.,Jedini novčić koji se može naći i potrošiti u tamnici.
 ItemDescription,The snipped segment of a plant known for its antilycanthropic properties.,Odsečeni segment biljke poznate po svojim antilikantropskim svojstvima.
+ItemDescription,"The spiral horn of a unicorn, its magic bound permanently into the artifact rather than spent in a single burst.",
 ItemDescription,The wearer will occasionally fly into uncontrollable rage lashing out at both friend and foe.,Onaj koji ga nosi povremeno će doleteti u nekontrolisani bes napadajući i prijatelja i neprijatelja.
 ItemDescription,This ancient artifact is a marvel to behold with exquisite craftsmanship and unbridled digging power.,Ovaj drevni artefakt je čudo za posmatranje sa izuzetnim umećem i neobuzdanom snagom kopanja.
 ItemDescription,"This axe is specifically designed to facilitate deep, grievous wounds in combat. This large weapon is wielded in both hands.","Ova sekira je posebno dizajnirana da olakša duboke, teške rane u borbi. Ovo veliko oružje se drži u obe ruke."
@@ -2221,6 +2800,7 @@ ItemDescription,This convenient vial of ink can be used to replenish your marker
 ItemDescription,This crudely made blade is still an effective throwing weapon.,Ova grubo napravljena oštrica je i dalje efikasno oružje za bacanje.
 ItemDescription,This curious artifact somehow chastens those it strikes and submits them to your will.,Ovaj radoznali artefakt na neki način kažnjava one koje udari i podvrgava ih vašoj volji.
 ItemDescription,This dwarvish manufactured sword is sturdy and suited to being wielded in the offhand.,Ovaj patuljasti mač proizveden je čvrst i pogodan za drugu ruku.
+ItemDescription,"This dwarvish punching blade is forged thicker than most, its crossbar reinforced to survive a full-strength thrust.",
 ItemDescription,This gemstone is made from hardened tree sap.,Ovaj dragi kamen je napravljen od očvrslog soka drveta.
 ItemDescription,This glowing looking glass reveals glimpses of the future and corrupts your soul.,Ovo sjajno ogledalo otkriva poglede budućnosti i kvari vašu dušu.
 ItemDescription,This hammer is a four-pronged head mounted atop a long polearm stick. It bears a long spike on its reverse and an even longer spike extending from the very top. It proves effective at puncturing or smashing armour as well as dismounting riders.,"Ovaj čekić je glava sa četiri kraka postavljena na dugu šipku. Ima dugačak šiljak na poleđini i još duži šiljak koji se proteže od samog vrha. Dokazuje se efikasnim u bušenju ili razbijanju oklopa, kao i pri silaženju jahača."
@@ -2250,6 +2830,7 @@ ItemDescription,This weapon consists of a spearhead mounted on a long wooden sha
 ItemDescription,"This weapon is a curved blade attached to a pole by binding the lower two-thirds of the blade to the side of the pole, to form a sort of axe.","Ovo oružje je zakrivljeno sečivo pričvršćeno za motku vezivanjem donjih dve trećine sečiva sa strane motke, da bi se formirala neka vrsta sekire."
 ItemDescription,This withered hand is the last remnant of an ancient and powerful lich.,Ova usahla ruka je poslednji ostatak drevnog i moćnog liča.
 ItemDescription,Tiny metal spikes thrown to the ground to impede mobility.,Sićušni metalni šiljci bačeni na zemlju da ometaju pokretljivost.
+ItemDescription,"Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.",
 ItemDescription,Winged sandals made of imperishable gold which fly the wearer swiftly and silently.,Krilate sandale od nepropadljivog zlata koje brzo i nečujno lete nosioca.
 ItemDescription,Zapping it at a wall creates a big tunnel.,"Ako ga udarite u zid, stvara se veliki tunel."
 ItemName,adamantine arrow,adamantinska strela
@@ -2257,16 +2838,25 @@ ItemName,adamantine axe,adamantinska sekira
 ItemName,adamantine bident,adamantinski bident
 ItemName,adamantine bow,adamantinski luk
 ItemName,adamantine bullet,adamantinski metak
+ItemName,adamantine crossbow bolt,
 ItemName,adamantine dagger,adamantinski bodež
 ItemName,adamantine dart,adamantinska strelica
 ItemName,adamantine greataxe,adamantinska velika sekira
+ItemName,adamantine greatmace,
 ItemName,adamantine greatsword,adamantinski veliki mač
 ItemName,adamantine hatchet,adamantinska sekirica
+ItemName,adamantine helm,
+ItemName,adamantine helmet,
+ItemName,adamantine katana,
+ItemName,adamantine lance,
 ItemName,adamantine long sword,adamantinski dugi mač
 ItemName,adamantine plate mail,adamantinska pločasti oklop
+ItemName,adamantine poleaxe,
+ItemName,adamantine quarterstaff,
 ItemName,adamantine rapier,adamantinski rapir
 ItemName,adamantine sabre,adamantinska sablja
 ItemName,adamantine short sword,adamantinski kratki mač
+ItemName,adamantine shuriken,
 ItemName,adamantine spear,adamantinsko koplje
 ItemName,adamantine two-handed sword,adamantinski dvoručni mač
 ItemName,agate,ahat
@@ -2300,8 +2890,10 @@ ItemName,Backpack,Ruksak
 ItemName,bag of holding,torba držanja
 ItemName,bag of tricks,torba trikova
 ItemName,banana,banana
+ItemName,bandage,
 ItemName,banded mail,trakasti oklop
 ItemName,bardiche,bardič
+ItemName,baseball bat,
 ItemName,battle robe,borbena odora
 ItemName,battle staff,borbeni štap
 ItemName,battle-axe,borbena sekira
@@ -2322,68 +2914,229 @@ ItemName,blowgun,blovgan
 ItemName,blue dragon scale mail,krljušni oklop plavog zmaja
 ItemName,blue dragon scales,krljušti plavog zmaja
 ItemName,blue glass bauble,kuglica od plavog stakla
+ItemName,book of acid splash,
 ItemName,book of acid stream,knjiga strujanja kiseline
 ItemName,book of animate dead,knjiga animiranih mrtvih
 ItemName,book of animate object,knjiga animiranja objekta
+ItemName,book of arc conduit,
+ItemName,book of arcane blight,
+ItemName,book of arcane whetstone,
+ItemName,book of arcing bolt,
+ItemName,book of artificer's exchange,
+ItemName,book of atonement,
+ItemName,book of augury,
+ItemName,book of bane,
+ItemName,book of banshee wail,
+ItemName,book of barring ward,
+ItemName,book of battle fury,
 ItemName,book of bind undead,knjiga vezanja nemrtvih
+ItemName,book of binding sphere,
+ItemName,book of black ice patch,
+ItemName,book of black plague,
+ItemName,book of blade blessing,
 ItemName,book of blank paper,knjiga praznog papira
+ItemName,book of bless,
 ItemName,book of blinking,knjiga bljeskanja
+ItemName,book of blurred form,
+ItemName,book of call of the pack,
+ItemName,book of calm,
+ItemName,book of caltrop swarm,
 ItemName,book of cancellation,knjiga ukinuća
+ItemName,book of causeway,
+ItemName,book of chain lightning,
+ItemName,book of changeless ward,
 ItemName,book of charm,knjiga šarma
+ItemName,book of chill grasp,
+ItemName,book of chromatic orb,
 ItemName,book of clairvoyance,knjiga vidovitosti
+ItemName,book of claybind touch,
+ItemName,book of clear sight,
+ItemName,book of clouded mind,
+ItemName,book of command,
+ItemName,book of commune,
+ItemName,book of concussive blast,
 ItemName,book of cone of cold,knjiga konusa hladnoće
 ItemName,book of confusion,knjiga zabune
+ItemName,book of conjure barricade,
+ItemName,book of conjure boulder,
+ItemName,book of conjure guardian,
+ItemName,book of conjure homunculus,
+ItemName,book of conjure mount,
+ItemName,book of conjured pit,
+ItemName,book of consecration,
+ItemName,book of contagion,
+ItemName,book of corpse explosion,
+ItemName,book of corroding ray,
 ItemName,book of create familiar,knjiga stvaranja familijara
+ItemName,book of creeping palsy,
+ItemName,book of crimson ichor lance,
 ItemName,book of crushing sphere,knjiga sfere drobljenja
 ItemName,book of curing,knjiga lečenja
+ItemName,book of danger sense,
 ItemName,book of darkness,knjiga tame
+ItemName,book of daze,
+ItemName,book of death ward,
+ItemName,book of death's bargain,
+ItemName,book of deathwatch,
 ItemName,book of deflection,knjiga otklona
 ItemName,book of detect food,knjiga otkrivanja hrane
+ItemName,book of detect metal,
 ItemName,book of detect monsters,knjiga otkrivanja čudovišta
 ItemName,book of detect treasure,knjiga otkrivanja blaga
+ItemName,book of detect undead,
 ItemName,book of detect unseen,knjiga otkrivanja neviđenog
 ItemName,book of dig,knjiga kopanja
+ItemName,book of disarming ward,
+ItemName,book of discord,
 ItemName,book of disintegrate,knjiga raspada
+ItemName,book of dispel magic,
+ItemName,book of displacement,
+ItemName,book of divine favor,
+ItemName,book of divine intervention,
+ItemName,book of dominate mind,
 ItemName,book of drain life,knjiga isceđivanja života
+ItemName,book of earthen colossus,
+ItemName,book of elemental servant,
+ItemName,book of elemental warding,
+ItemName,book of ember lance,
+ItemName,book of enlarge,
+ItemName,book of entangling vines,
+ItemName,book of entropic siphon,
 ItemName,book of extra healing,knjiga dodatnog lečenja
+ItemName,book of false life,
 ItemName,book of fear,knjiga straha
+ItemName,book of find doors,
+ItemName,book of find traps,
 ItemName,book of finger of death,knjiga prsta smrti
 ItemName,book of fireball,knjiga vatrene lopte
 ItemName,book of flaming sphere,knjiga plamene sfere
 ItemName,book of force bolt,knjiga sile udara
+ItemName,book of foreknowledge,
+ItemName,book of freedom,
+ItemName,book of freedom of movement,
 ItemName,book of freezing sphere,knjiga ledene sfere
+ItemName,book of frost breath,
 ItemName,book of full healing,knjiga punog isceljenja
+ItemName,book of gate,
+ItemName,book of gilding touch,
+ItemName,book of glacial spike,
+ItemName,book of grasping mind,
+ItemName,book of grave rot,
+ItemName,book of gravity well,
+ItemName,book of guided path,
+ItemName,book of harvest of souls,
 ItemName,book of haste,kniga hejsta
+ItemName,book of hazard sense,
 ItemName,book of healing,knjiga isceljenja
+ItemName,book of hex,
+ItemName,book of hexbind,
+ItemName,book of hideous laughter,
+ItemName,book of hold monster,
+ItemName,book of hold person,
+ItemName,book of holy word,
 ItemName,book of ice storm,knjiga ledene oluje
 ItemName,book of identify,knjiga identifikacije
+ItemName,book of inner calm,
 ItemName,book of invisibility,knjiga nevidljivosti
+ItemName,book of iron will,
+ItemName,book of ironbind door,
+ItemName,book of juggernaut ray,
 ItemName,book of jumping,kniga skakanja
+ItemName,book of keen search,
 ItemName,book of knock,knjiga knoka
+ItemName,book of legion of bone,
 ItemName,book of levitation,knjiga levitacije
 ItemName,book of light,knjiga svetlosti
 ItemName,book of lightning bolt,knjiga svetlosnog udara
 ItemName,book of living wall,knjiga živog zida
 ItemName,book of magic mapping,knjiga magičnog mapiranja
 ItemName,book of magic missile,knjiga magičnog projektila
+ItemName,book of meteoric cataclysm,
+ItemName,book of mind ken,
+ItemName,book of mind link,
+ItemName,book of mind spike,
+ItemName,book of mindrend,
+ItemName,book of mirror ward,
+ItemName,book of neutralize poison,
+ItemName,book of oracle's eye,
+ItemName,book of owl eyes,
+ItemName,book of petrifying touch,
 ItemName,book of phasing,knjiga faza
+ItemName,book of planar anchor,
+ItemName,book of planar swap,
 ItemName,book of poison blast,knjiga eksplozije otrova
 ItemName,book of polymorph,knjiga polimorfa
+ItemName,book of porter's reach,
+ItemName,book of prayer,
+ItemName,book of premonition,
+ItemName,book of prismatic spray,
+ItemName,book of psychic shove,
 ItemName,book of raise dead,knjiga vaskrsenja mrtvih
+ItemName,book of rally cry,
+ItemName,book of ray of enfeeblement,
+ItemName,book of reap,
 ItemName,book of regenerate,knjiga regenerisanja
 ItemName,book of remove curse,knjiga uklanjanja prokletstva
+ItemName,book of repelling ward,
+ItemName,book of repulsion,
 ItemName,book of restoration,knjiga restoracije
+ItemName,book of revelation,
+ItemName,book of sanctuary,
+ItemName,book of scalding cloud,
+ItemName,book of searing light,
+ItemName,book of sense curse,
+ItemName,book of sense the restless,
+ItemName,book of sentinel ward,
+ItemName,book of shimmer shield,
 ItemName,book of shocking sphere,knjiga šokantne sfere
+ItemName,book of shrink,
+ItemName,book of silence,
+ItemName,book of simulacrum,
 ItemName,book of sleep,knjiga spavanja
+ItemName,book of slick detonation,
+ItemName,book of slipping free,
 ItemName,book of slow,knjiga sporosti
 ItemName,book of soaking sphere,knjiga natopljene sfere
+ItemName,book of song of discord,
+ItemName,book of spark bolt,
+ItemName,book of spectral shroud,
+ItemName,book of spirit leech,
+ItemName,book of spirit shield,
+ItemName,book of starfall,
+ItemName,book of steadfast ward,
+ItemName,book of stone to flesh,
+ItemName,book of stoneskin,
 ItemName,book of summoning,knjiga pozivanja
+ItemName,book of sunburst smite,
+ItemName,book of sunder gear,
+ItemName,book of swoon,
 ItemName,book of telekinesis,knjiga telekineze
+ItemName,book of telekinetic shove,
 ItemName,book of teleport away,knjiga teleportovanja
+ItemName,book of thunderclap,
+ItemName,book of timed combustion,
+ItemName,book of tongue tied,
 ItemName,book of toxic spray,knjiga toksičnog spreja
+ItemName,book of transmuter's mastery,
+ItemName,book of true appraisal,
 ItemName,book of turn undead,knjiga pretvaranja mrtvih
+ItemName,book of unbinding,
+ItemName,book of undying ward,
+ItemName,book of unseen hand,
+ItemName,book of vampiric feast,
+ItemName,book of veil of shadows,
+ItemName,book of wall breach,
+ItemName,book of wall of thorns,
 ItemName,book of walling,knjiga zidanja
+ItemName,book of ward of return,
+ItemName,book of warning ward,
+ItemName,book of web snare,
+ItemName,book of whispers of madness,
+ItemName,book of wildfire brand,
+ItemName,book of wither,
+ItemName,book of withering ray,
 ItemName,book of wizard lock,knjiga čarobnjakove ključaonice
+ItemName,book of world vision,
 ItemName,boomerang,bumerang
 ItemName,bow,luk
 ItemName,brass bugle,mesingana bugla
@@ -2397,9 +3150,13 @@ ItemName,bullwhip,bič za bikove
 ItemName,c-ration,c-obrok
 ItemName,caltrops,kaltrops
 ItemName,can of grease,konzerva masti
+ItemName,candelabrum,
 ItemName,candy bar,slatkiš
 ItemName,Carapace,Karapejs
 ItemName,carrot,šargarepa
+ItemName,Celestial Doom,
+ItemName,Celestial Kismet,
+ItemName,Celestial Portent,
 ItemName,chain barding,lančani barding
 ItemName,chain mail,lančani oklop
 ItemName,chakram,čakram
@@ -2415,6 +3172,7 @@ ItemName,cloak of deflection,plašt otklona
 ItemName,cloak of displacement,plašt pomeranja
 ItemName,cloak of invisibility,plašt nevidljivosti
 ItemName,cloak of magic resistance,plašt magijskog otpora
+ItemName,cloth shirt,
 ItemName,clove of garlic,čen belog luka
 ItemName,club,toljaga
 ItemName,Colossal Excavator,Kolosalni Ekskavator
@@ -2422,18 +3180,22 @@ ItemName,cornuthaum,kornudaum
 ItemName,costume earrings,kostim minđuše
 ItemName,cram ration,natrpani obrok
 ItemName,cream pie,krem pita
+ItemName,credit card,
 ItemName,Creeping Sprout,Kriping Spraut
+ItemName,crimson cloak,
 ItemName,crossbow,samostrel
 ItemName,crossbow bolt,strele za samostel
 ItemName,crysknife,krisnož
 ItemName,crystal ball,kristalna kugla
 ItemName,crystal plate mail,kristalni oklop
 ItemName,dagger,nož
+ItemName,darkstone,
 ItemName,dart,strelica
 ItemName,Deadwood,Dedvud
 ItemName,Deagle,Digl
 ItemName,deep dragon scale mail,dubok oklop od zmajeve krljušti
 ItemName,deep dragon scales,krljušti dubokog zmaja
+ItemName,Demiurge,
 ItemName,dented pot,udubljeni lonac
 ItemName,detonation key,ključ za detonaciju
 ItemName,diamond,dijamant
@@ -2441,6 +3203,8 @@ ItemName,dilithium crystal,dilitijumski kristal
 ItemName,dimension key,ključ dimenzije
 ItemName,Dire Needle,Dajr Nidl
 ItemName,disencumbrance boots,čizme za rasterećenje
+ItemName,doublet,
+ItemName,dragon horn,
 ItemName,Dragonbane,Dragonbejn
 ItemName,dread staff,štap straha
 ItemName,Drilanze,Drilenz
@@ -2453,6 +3217,7 @@ ItemName,drum of earthquake,bubanj zemljotresa
 ItemName,dunce cap,dunc kapa
 ItemName,dwarvish cloak,patuljasti plašt
 ItemName,dwarvish iron helm,patuljasti gvozdeni šlem
+ItemName,dwarvish katar,
 ItemName,dwarvish mattock,patuljasti kramp
 ItemName,dwarvish mithril-coat,patuljasti mitrilni kaput
 ItemName,dwarvish roundshield,patuljasti okrugli štit
@@ -2465,8 +3230,10 @@ ItemName,elven arrow,vilenjačka strela
 ItemName,elven boots,vilenjačke čizme
 ItemName,elven bow,vilenjački luk
 ItemName,elven broadsword,vilenjački široki mač
+ItemName,elven chakram,
 ItemName,elven cloak,vilenjački plašt
 ItemName,elven dagger,vilenjački nož
+ItemName,elven hand crossbow,
 ItemName,elven leather helm,vilenjački kožni šlem
 ItemName,elven mithril-coat,vilenjački mitrilni kaput
 ItemName,elven shield,vilenjački štit
@@ -2477,11 +3244,14 @@ ItemName,Escapist,Eskapist
 ItemName,eucalyptus leaf,list eukaliptusa
 ItemName,expensive camera,skupa kamera
 ItemName,Eye of Aethiopica,Oko Aediopika
+ItemName,eyeball,
 ItemName,Eyes of Ra,Oči Ra
+ItemName,fancy boots,
 ItemName,fauchard,faukard
 ItemName,fedora,fedora
 ItemName,fire horn,vatreni rog
 ItemName,fish,riba
+ItemName,fishing pole,
 ItemName,flail,buzdovan sa lancem
 ItemName,flash staff,blic štap
 ItemName,fleet robe,flotna odora
@@ -2491,6 +3261,7 @@ ItemName,fly swatter,mušičarka
 ItemName,food ration,obrok hrane
 ItemName,fortune cookie,kolačić sreće
 ItemName,frag grenade,fragmentaciona granata
+ItemName,frisbee,
 ItemName,frost horn,rog mraza
 ItemName,fumble boots,nezgodne čizme
 ItemName,garnet,granat
@@ -2501,10 +3272,26 @@ ItemName,gauntlets of phasing,rukavice faziranja
 ItemName,gauntlets of power,rukavice moći
 ItemName,Giantslayer,Džinslejer
 ItemName,glaive,koplje sa sečivom
+ItemName,gold axe,
+ItemName,gold chakram,
 ItemName,gold coin,zlatni novčić
+ItemName,gold dagger,
+ItemName,gold double vajra,
 ItemName,gold dragon scale mail,krljušni oklop zlatnog zmaja
 ItemName,gold dragon scales,krljušti zlatnog zmaja
+ItemName,gold flail,
 ItemName,Gold Key,Zlatni Ključ
+ItemName,gold khanda,
+ItemName,gold labrys,
+ItemName,gold longsword,
+ItemName,gold plate mail,
+ItemName,gold single vajra,
+ItemName,gold spade,
+ItemName,gold trident,
+ItemName,gold twohanded sword,
+ItemName,gold urumi,
+ItemName,gold whistle,
+ItemName,grappling hook,
 ItemName,great dagger,veliki nož
 ItemName,green dragon scale mail,krljušni oklop zelenog zmaja
 ItemName,green dragon scales,krljušti zelenog zmaja
@@ -2512,10 +3299,12 @@ ItemName,green glass bauble,zelena staklena kuglica
 ItemName,grenade launcher,bacač granata
 ItemName,Grimtooth,Grimtut
 ItemName,guisarme,koplje sa zakrivljenim sečivom
+ItemName,Gungnir,
 ItemName,halberd,halberda
 ItemName,Harbalest,Harbalest
 ItemName,hatchet,sekirica
 ItemName,hawaiian shirt,havajska majica
+ItemName,healthstone,
 ItemName,heavy hammer,teški čekić
 ItemName,heavy iron ball,teška gvozdena lopta
 ItemName,heavy machine gun,teški mitraljez
@@ -2548,6 +3337,7 @@ ItemName,kanabo,kanabo
 ItemName,katana,katana
 ItemName,katar,katar
 ItemName,kelp frond,list kelpa
+ItemName,khopesh,
 ItemName,knife,kuhinjski nož
 ItemName,lab coat,laboratorijski kaput
 ItemName,lance,lanza
@@ -2556,6 +3346,7 @@ ItemName,lantern,fenjer
 ItemName,large box,velika kutija
 ItemName,large shield,veliki štit
 ItemName,Lashing Tongue,Zamahujući Jezik
+ItemName,leash,
 ItemName,leather armour,kožni oklop
 ItemName,leather barding,kožni barding
 ItemName,leather cloak,kožni plašt
@@ -2565,10 +3356,12 @@ ItemName,leather jacket,kožna jakna
 ItemName,lembas wafer,lembas oplatica
 ItemName,lenses,sočiva
 ItemName,levitation boots,levitacione čizme
+ItemName,loadstone,
 ItemName,lock pick,otvarač brava
 ItemName,long sword,dugi mač
 ItemName,low boots,kratke čizme
 ItemName,lucern hammer,lucernski čekić
+ItemName,luckstone,
 ItemName,lump of royal jelly,kuglica kraljevskog želea
 ItemName,mace,buzdovan
 ItemName,magic bugle,magični bugl
@@ -2588,32 +3381,48 @@ ItemName,Maulfrost,Mrazni Malj
 ItemName,meat ring,prsten za meso
 ItemName,meat stick,štapić za meso
 ItemName,meatball,ćufta
+ItemName,medical kit,
 ItemName,melon,dinja
+ItemName,mirror,
 ItemName,Mirrorbright,Svetlo Ogledalo
 ItemName,Miserus,Miserus
 ItemName,mithril arrow,mitrilna strela
+ItemName,mithril axe,
 ItemName,mithril barding,miltrilni barding
 ItemName,mithril battle-axe,miltrilna borbena sekira
 ItemName,mithril bullet,miltrilni metak
 ItemName,mithril crossbow bolt,strela za samostrel
 ItemName,mithril dagger,miltrilni nož
 ItemName,mithril dart,miltrilna strelica
+ItemName,mithril gauntlets,
+ItemName,mithril greatmace,
+ItemName,mithril greatsword,
+ItemName,mithril hatchet,
 ItemName,mithril helmet,miltrilni šlem
+ItemName,mithril katana,
 ItemName,mithril katar,mitrilni katar
 ItemName,mithril lance,mitrilna lanza
 ItemName,mithril long sword,mitrilni dugi mač
 ItemName,mithril plate mail,mitrilni oklop
+ItemName,mithril poleaxe,
+ItemName,mithril rapier,
 ItemName,mithril sabre,mitrilna sablja
 ItemName,mithril shield,mitrilni štit
 ItemName,mithril short sword,mitrilni kratki mač
+ItemName,mithril shuriken,
 ItemName,mithril spear,mitrilno koplje
+ItemName,mithril trident,
 ItemName,mithril two-handed sword,mitrilni mač za dve ruke
 ItemName,mithril whip,mitrilni bič
+ItemName,mooshroom,
 ItemName,morning star,bodljasti malj
+ItemName,Mournblade,
 ItemName,mummy wrapping,zavijanje mumije
 ItemName,Muramasa,Muramasa
 ItemName,mushroom,pečurka
 ItemName,mute earrings,neme minđuše
+ItemName,naginata,
+ItemName,Nonagon Infinity,
 ItemName,nunchaku,nunčake
 ItemName,obsidian,opsidijan
 ItemName,oil lamp,uljanica
@@ -2626,6 +3435,7 @@ ItemName,orange glass bauble,kuglica od narandžastog stakla
 ItemName,orcish arrow,orčanska strela
 ItemName,orcish bow,orčanski luk
 ItemName,orcish chain mail,orčanski lančani oklop
+ItemName,orcish chakram,
 ItemName,orcish cloak,orčanski plašt
 ItemName,orcish dagger,orčanski nož
 ItemName,orcish helm,orčanski šlem
@@ -2640,9 +3450,13 @@ ItemName,partisan,partizano koplje
 ItemName,pear,kruška
 ItemName,pearl,biser
 ItemName,phantom key,fantomski ključ
+ItemName,phial,
 ItemName,Philosophers Stone,Filozovski Kamen
 ItemName,pick-axe,kramp
+ItemName,pill,
 ItemName,pistol,pištolj
+ItemName,plastic bat,
+ItemName,plastic hammer,
 ItemName,plastic sword,plastični mač
 ItemName,plate barding,pločasti barding
 ItemName,plate mail,pločasti oklop
@@ -2679,10 +3493,13 @@ ItemName,potion of see invisible,napitak vida nevidljivosti
 ItemName,potion of sickness,napitak bolesti
 ItemName,potion of sleeping,napitak spavanja
 ItemName,potion of speed,napitak brzine
+ItemName,potion of sustenance,
+ItemName,potion of warning,
 ItemName,potion of water,napitak vode
 ItemName,proof earrings,miđuše dokaza
 ItemName,Prudentia,Prudentija
 ItemName,quarterstaff,četvrtasti štap
+ItemName,railgun,
 ItemName,ranseur,ranser
 ItemName,rapier,rapir
 ItemName,Ravenbow,Gavranov luk
@@ -2698,6 +3515,7 @@ ItemName,ring of cold resistance,prsten otpornosti na hladnoću
 ItemName,ring of conflict,prsten konflikta
 ItemName,ring of constitution,prsten vitalnosti
 ItemName,ring of dexterity,prsten spretnosti
+ItemName,ring of energy,
 ItemName,ring of fire resistance,prsten otpornosti na vatru
 ItemName,ring of free action,prsten slobodne akcije
 ItemName,ring of hunger,prsten gladi
@@ -2705,6 +3523,7 @@ ItemName,ring of impact,prsten impakta
 ItemName,ring of intelligence,prsten inteligencije
 ItemName,ring of invisibility,prsten nevidljivosti
 ItemName,ring of levitation,prsten levitacije
+ItemName,ring of marksmanship,
 ItemName,ring of naught,prsten ništavnosti
 ItemName,ring of poison resistance,prsten otpornosti na otrov
 ItemName,ring of polymorph,prsten polimorfa
@@ -2728,11 +3547,24 @@ ItemName,robe,odora
 ItemName,rock,kamen
 ItemName,rocket,raketa
 ItemName,rocket launcher,raketni bacač
+ItemName,rose axe,
+ItemName,rose battleaxe,
+ItemName,rose bident,
+ItemName,rose dagger,
+ItemName,rose greatsword,
+ItemName,rose hatchet,
+ItemName,rose long sword,
+ItemName,rose rapier,
+ItemName,rose ring,
+ItemName,rose sabre,
+ItemName,rose short sword,
+ItemName,rose spear,
 ItemName,Rosenthral,Rozendral
 ItemName,rubber hose,gumeno crevo
 ItemName,ruby,rubin
 ItemName,Ruby Key,Rubin Ključ
 ItemName,Runesword,Runesvord
+ItemName,Runicorn Horn,
 ItemName,sabre,sablja
 ItemName,sack,vreća
 ItemName,saddle,sedlo
@@ -2779,6 +3611,7 @@ ItemName,scythe,kosa
 ItemName,shades,sunčane naočare
 ItemName,Shadow Key,Senka Ključ
 ItemName,shield of reflection,štit refleksije
+ItemName,Shillelagh,
 ItemName,shimmering dragon scale mail,krljušni oklop svetlucavog zmaja
 ItemName,shimmering dragon scales,krljušti svetlucavog zmaja
 ItemName,short sword,kratki mač
@@ -2798,6 +3631,7 @@ ItemName,Silver Key,Srebrni Ključ
 ItemName,silver lance,srebrna lanza
 ItemName,silver long sword,srebrni dugi mač
 ItemName,silver mace,srebrni buzdovan
+ItemName,silver rapier,
 ItemName,silver sabre,srebrna sablja
 ItemName,silver short sword,srebrni kratki mač
 ItemName,silver spear,srebrno koplje
@@ -2805,6 +3639,7 @@ ItemName,silver two-handed sword,srebrni mač za dve ruke
 ItemName,skeleton key,skeleton ključ
 ItemName,slime mould,sluzava buđ
 ItemName,sling,praćka
+ItemName,sling staff,
 ItemName,small shield,mali štit
 ItemName,sniper rifle,snajper
 ItemName,spear,koplje
@@ -2814,29 +3649,40 @@ ItemName,spetum,spetum
 ItemName,splint mail,pričvršćen oklop
 ItemName,sprig of wolfsbane,grančica vulfsbejna
 ItemName,Stamped Letter,Štampano Pismo
+ItemName,steel boots,
+ItemName,stethoscope,
 ItemName,stick of dynamite,štap dinamita
 ItemName,stiletto,stilet
 ItemName,stone club,kamena toljaga
+ItemName,Stormbringer,
+ItemName,strange object,
 ItemName,studded leather armour,kožni oklop sa klinovima
 ItemName,submachine gun,puškomitraljez
+ItemName,Sudarshana Chakra,
 ItemName,Sunsword,Sunčani Mač
 ItemName,t-shirt,majica
+ItemName,tabard,
 ItemName,Talaria,Talaria
 ItemName,The Hero,Heroj
 ItemName,thunder staff,štap groma
 ItemName,tin,lim
+ItemName,tin opener,
 ItemName,tin whistle,limena zviždaljka
 ItemName,tinning kit,komplet za kalajisanje
 ItemName,tooled horn,oruđeni rog
 ItemName,topaz,topaz
 ItemName,torch,baklja
 ItemName,tortilla,tortilja
+ItemName,touchstone,
+ItemName,towel,
 ItemName,trident,trozubac
 ItemName,tripe ration,trajp obrok
+ItemName,triplesword,
 ItemName,tsurugi,curugi
 ItemName,turquoise,tirkiz
 ItemName,two-handed sword,mač za dve ruke
 ItemName,unicorn horn,rog jednoroga
+ItemName,Vajra,
 ItemName,vegetable corpse,povrćni leš
 ItemName,Verimurus,Verimurus
 ItemName,violet glass bauble,ljubičasta staklena kuglica
@@ -2847,6 +3693,7 @@ ItemName,wakizashi,vakizaši
 ItemName,wand of animation,štapić animacije
 ItemName,wand of cancellation,štapić otkazivanja
 ItemName,wand of cold,štapić hladnoće
+ItemName,wand of confusion,
 ItemName,wand of create horde,štapić stvaranja horde
 ItemName,wand of death,štapić smrti
 ItemName,wand of digging,štapić kopanja
@@ -2858,6 +3705,8 @@ ItemName,wand of fireball,štapić vatrene kugle
 ItemName,wand of haste,štapić žurbe
 ItemName,wand of healing,štapić isceljenja
 ItemName,wand of iceball,štapić ledene kugle
+ItemName,wand of jumping,
+ItemName,wand of levitation,
 ItemName,wand of light,štapić svetlosti
 ItemName,wand of lightning,štapić munje
 ItemName,wand of locking,štapić otključavanja
@@ -2873,12 +3722,17 @@ ItemName,wand of sleep,štapić spavanja
 ItemName,wand of slow,štapić usporenja
 ItemName,wand of striking,štapić udara
 ItemName,wand of summoning,štapić za prizivanje
+ItemName,wand of telekinesis,
 ItemName,wand of teleportation,štapić teleportacije
 ItemName,wand of theft,štapić krađe
 ItemName,wand of undead turning,štap za proterivanje nemrtvih
 ItemName,war club,ratna toljaga
 ItemName,war hammer,ratni čekić
+ItemName,war maul,
 ItemName,wax candle,voštana sveća
+ItemName,Wepwawet's Fang,
+ItemName,wheellock pistol,
+ItemName,whetstone,
 ItemName,white dragon scale mail,krljušni oklop belog zmaja
 ItemName,white dragon scales,krljušti belog zmaja
 ItemName,white glass bauble,kuglica od belog stakla
@@ -2893,8 +3747,10 @@ ItemName,yellow dragon scale mail,krljušni oklop žutog zmaja
 ItemName,yellow dragon scales,krljušti žutog zmaja
 ItemName,yellow glass bauble,kuglica od žutog stakla
 ItemName,yellowish brown glass bauble,žućkasto braon kuglica od stakla
+ItemName,yoyo,
 ItemName,yumi,jumi
 ItemName,zircon,zirkon
+ItemName,Zweihänder,
 ItemType,amulet,amajlija
 ItemType,bag,torba
 ItemType,barding,barding
@@ -4440,13 +5296,17 @@ SchoolName,necromancy,nekromantija
 SchoolName,transmutation,transmutacija
 ServiceDescription,detect traps in the surrounding area.,otkrijte zamke u okolini.
 ServiceDescription,identify one item in your inventory.,identifikujte jednu stavku u svom inventaru.
+ServiceDescription,learn how to cast a random spell.,
+ServiceDescription,learn how to cast two random spells.,
 ServiceDescription,magic mapping for the surrounding area.,magično mapiranje za okolinu.
 ServiceDescription,refresh the shop with new items for sale.,osvežite prodavnicu novim artiklima za prodaju.
 ServiceDescription,remove a curse from one item in your inventory.,uklonite kletvu sa jedne stavke u svom inventaru.
+ServiceName,advanced tuition,
 ServiceName,curse removal,uklanjanje prokletstva
 ServiceName,identification,indentifikacija
 ServiceName,magic mapping,magično mapiranje
 ServiceName,restock shop,popunite zalihe u prodavnici
+ServiceName,spell tuition,
 ServiceName,trap detection,detekcija zamki
 ShopName,antique weapons outlet,prodajno mesto za starinsko oružje
 ShopName,delicatessen,delikates
@@ -4462,9 +5322,14 @@ ShopName,second-hand stationery store,prodavnica polovnih kancelarijskih materij
 ShopName,used armour dealership,prodaja polovnih oklopa
 ShrineName,craft station,zanatska stanica
 ShrineName,dark sepulchre,mračna grobnica
+ShrineName,elemental forge,
+ShrineName,fae chapel,
 ShrineName,holy shrine,svetinja
+ShrineName,martial temple,
 ShrineName,mystic coven,mistik koven
+ShrineName,pheral vault,
 ShrineName,sacred grove,sveti gaj
+ShrineName,star observatory,
 SizeName,gargantuan,gargantuan
 SizeName,huge,ogroman
 SizeName,large,veliki
@@ -4670,101 +5535,290 @@ SonicName,write,pisanje
 SpecialDescription,Aristocrats who enjoy all the privilege that comes with wealth and wonder why everyone hates them.,Aristokrate koje uživaju u svim privilegijama bogatstva i pitaju se zašto ih svi mrze.
 SpecialDescription,"Being unusually short and slight, they are more nimble but not as effective in combat.","Neobično niski i vitki, oni su okretniji, ali ne tako efikasni u borbi."
 SpecialDescription,"Being unusually tall and heavy, they move a bit slower but are more resilient.","Neobično visoki i teški, kreću se sporije, ali su izdržljiviji."
+SpecialDescription,"Bound by an infernal pact to a patron whose power flows through them, whether they will it or not.",
+SpecialDescription,"Changeling blood runs through their veins, granting them an otherworldly grace, but cold iron burns them like acid.",
+SpecialDescription,"Cursed with visions of what is to come, they see danger before it arrives, but the visions are slowly undoing their mind.",
+SpecialDescription,"Escaped from a laboratory before the experiment concluded, their body still bears the unstable mark of what was done to them.",
 SpecialDescription,"Forever cursed with lycanthropy, these beings can transform themselves into monstrous wolf forms.","Večno prokleti likantropijom, ova bića se mogu transformisati u monstruozne vučje oblike."
 SpecialDescription,Forsaken creature that subsists by feeding on the vital essence of the living.,Napušteno stvorenje koje opstaje hraneći se životnom esencijom živih bića.
 SpecialDescription,Gifted with extrasensory perception to identify entities otherwise hidden from the normal senses but at the cost of a gnawing hunger.,"Obdareni ekstrasenzornom percepcijom da identifikuju bića koja su inače skrivena od normalnih čula, ali uz cenu neprekidne gladi."
+SpecialDescription,"Hardened by a lifetime of campaigns, they strike with brutal efficiency but carry old wounds that never fully healed.",
 SpecialDescription,"Highly attuned servants of elemental earth, they can conjure exploding spheres to destroy their enemies.","Visoko usklađeni sluge elementarne zemlje, mogu prizvati eksplodirajuće sfere da unište neprijatelje."
 SpecialDescription,"Highly attuned servants of elemental flame, they can conjure exploding spheres to destroy their enemies.","Visoko usklađeni sluge elementarne vatre, mogu prizvati eksplodirajuće sfere da unište neprijatelje."
 SpecialDescription,"Highly attuned servants of elemental frost, they can conjure exploding spheres to destroy their enemies.","Visoko usklađeni sluge elementarne mrazevine, mogu prizvati eksplodirajuće sfere da unište neprijatelje."
 SpecialDescription,"Highly attuned servants of elemental shock, they can conjure exploding spheres to destroy their enemies.","Visoko usklađeni sluge elementarnog udara, mogu prizvati eksplodirajuće sfere da unište neprijatelje."
 SpecialDescription,"Highly attuned servants of elemental water, they can conjure exploding spheres to destroy their enemies.","Visoko usklađeni sluge elementarne vode, mogu prizvati eksplodirajuće sfere da unište neprijatelje."
 SpecialDescription,Lifetime of study has focused on learning from books at the cost of other hobbies and fitness.,Život posvećen učenju iz knjiga po cenu drugih hobija i fizičke spremnosti.
+SpecialDescription,"Made a living prying open tombs that were meant to stay shut, and picked up a rare set of skills along the way; the dead have not forgiven them.",
 SpecialDescription,Main character syndrome has resulted in a reliance on plot armour but they are destined for a major reality check.,"Sindrom glavnog lika ih čini zavisnim od oklopa zapleta, ali su predodređeni za ozbiljan sudar sa realnošću."
+SpecialDescription,"More at home among beasts than people, they ride and bond with animals expertly but rely on their companions more than their own blade.",
+SpecialDescription,"Newly turned by an elder vampire's bite, they crave blood but have not yet mastered the strengths of the curse.",
+SpecialDescription,"One of the few to survive a great plague, their blood now resists poison but their body was left frail and their nearby creatures keep their distance.",
 SpecialDescription,"Positionally uncertain, these individuals are accustomed to being anywhere and everywhere all at once.","Prostorno nesigurni, ova bića su naviknuta da budu bilo gde i svuda odjednom."
+SpecialDescription,"Pulled under by the sea and cursed to return, their lungs have made an uneasy peace with water while their waterlogged flesh dries out on land.",
+SpecialDescription,"Raised outside civilisation among beasts, they are quick and keen-eyed but never learned the discipline of formal combat.",
 SpecialDescription,Sculptured from living glass that reflects energy and makes a perfect but delicate emulation of their natural counterpart.,"Vajani od živog stakla koje reflektuje energiju i čini savršenu, ali krhku imitaciju njihovog prirodnog pandana."
 SpecialDescription,"Somehow still alive, albeit without the flesh required to be truly living, this peculiar existence has some advantages.","Nekako još uvek živi, iako bez mesa koje je potrebno za pravo življenje, ovo neobično postojanje ima svoje prednosti."
 SpecialDescription,The habitually drunk make for brazen yet slightly unsteady adventurers; just don't ask them to recite the alphabet backwards.,"Hronični pijanci su smeli, ali pomalo nesigurni avanturisti; samo ih nemojte tražiti da recituju abecedu unazad."
+SpecialDescription,"Touched by the animating art of golem-crafters, their flesh has hardened toward stone, granting resilience at the cost of grace.",
+SpecialDescription,"Trained in the one-on-one blade duel, every strike is precise, but a lifetime spent perfecting offence left little time to master defence.",
+SpecialDescription,"Trained since childhood in a monastic order, their body is a honed weapon but their vows forbid armour and forsake worldly learning.",
 SpecialDescription,"Whether innocent or guilty of their accused crimes, these individuals are desperate to escape custody.","Bez obzira da li su nevini ili krivi za zločine za koje su optuženi, ova bića očajnički žele da pobegnu iz pritvora."
+SpecialName,ascetic,
 SpecialName,colossus,kolosus
+SpecialName,construct,
+SpecialName,drowned,
 SpecialName,drunkard,pijanica
+SpecialName,duelist,
 SpecialName,earth,zemlja
+SpecialName,feral,
+SpecialName,fey,
 SpecialName,flame,plamen
 SpecialName,frost,mraz
 SpecialName,fugitive,begunac
 SpecialName,glass,staklo
+SpecialName,graverobber,
 SpecialName,midget,kepec
 SpecialName,noble,plemenit
+SpecialName,plagued,
+SpecialName,prophet,
 SpecialName,protagonist,protagonista
 SpecialName,psychic,vidovnjak
 SpecialName,quantum,kvant
 SpecialName,scholar,naučnik
 SpecialName,shock,šoker
 SpecialName,skeleton,skeleton
+SpecialName,spawn,
+SpecialName,specimen,
+SpecialName,tamer,
 SpecialName,vampire,vampir
+SpecialName,veteran,
+SpecialName,warlock,
 SpecialName,water,voda
 SpecialName,werewolf,vukodlak
 SpellDescription,Projects a ball of energy that impacts on both monsters and objects.,Projektuje lopticu energije koja utiče i na čudovišta i na predmete.
+SpellName,acid splash,
 SpellName,acid stream,struja kiseline
 SpellName,animate dead,animiranje smrti
 SpellName,animate object,animiranje objekta
+SpellName,arc conduit,
+SpellName,arcane blight,
+SpellName,arcane whetstone,
+SpellName,arcing bolt,
+SpellName,artificer's exchange,
+SpellName,atonement,
+SpellName,augury,
+SpellName,bane,
+SpellName,banshee wail,
+SpellName,barring ward,
+SpellName,battle fury,
 SpellName,bind undead,povezivanje nemrtvih
+SpellName,binding sphere,
+SpellName,black ice patch,
+SpellName,black plague,
+SpellName,blade blessing,
+SpellName,bless,
 SpellName,blinking,bljeskanje
+SpellName,blurred form,
+SpellName,call of the pack,
+SpellName,calm,
+SpellName,caltrop swarm,
 SpellName,cancellation,ukinuće
+SpellName,causeway,
+SpellName,chain lightning,
+SpellName,changeless ward,
 SpellName,charm,šarm
+SpellName,chill grasp,
+SpellName,chromatic orb,
 SpellName,clairvoyance,vidovitost
+SpellName,claybind touch,
+SpellName,clear sight,
+SpellName,clouded mind,
+SpellName,command,
+SpellName,commune,
+SpellName,concussive blast,
 SpellName,cone of cold,konus hladnoće
 SpellName,confusion,zabuna
+SpellName,conjure barricade,
+SpellName,conjure boulder,
+SpellName,conjure guardian,
+SpellName,conjure homunculus,
+SpellName,conjure mount,
+SpellName,conjured pit,
+SpellName,consecration,
+SpellName,contagion,
+SpellName,corpse explosion,
+SpellName,corroding ray,
 SpellName,create familiar,stvaranje magičnog bića
+SpellName,creeping palsy,
+SpellName,crimson ichor lance,
 SpellName,crushing sphere,sfera drobljenja
 SpellName,curing,lečenje
+SpellName,danger sense,
 SpellName,darkness,tama
+SpellName,daze,
+SpellName,death ward,
+SpellName,death's bargain,
+SpellName,deathwatch,
 SpellName,deflection,otklon
 SpellName,detect food,otkriće hrane
+SpellName,detect metal,
 SpellName,detect monsters,otkriće čudovišta
 SpellName,detect treasure,otkriće zlata
+SpellName,detect undead,
 SpellName,detect unseen,otkriće neviđenog
 SpellName,dig,kopanje
+SpellName,disarming ward,
+SpellName,discord,
 SpellName,disintegrate,dezintegrisanje
+SpellName,dispel magic,
+SpellName,displacement,
+SpellName,divine favor,
+SpellName,divine intervention,
+SpellName,dominate mind,
 SpellName,drain life,isceđivanje života
+SpellName,earthen colossus,
+SpellName,elemental servant,
+SpellName,elemental warding,
+SpellName,ember lance,
+SpellName,enlarge,
+SpellName,entangling vines,
+SpellName,entropic siphon,
 SpellName,extra healing,ekstra isceljenje
+SpellName,false life,
 SpellName,fear,strah
+SpellName,find doors,
+SpellName,find traps,
 SpellName,finger of death,prst smrti
 SpellName,fireball,vatrena kugla
 SpellName,flaming sphere,plamena sfera
 SpellName,force bolt,sila udara
+SpellName,foreknowledge,
+SpellName,freedom,
+SpellName,freedom of movement,
 SpellName,freezing sphere,sfera za zamrzavanje
+SpellName,frost breath,
 SpellName,full healing,puno isceljenje
+SpellName,gate,
+SpellName,gilding touch,
+SpellName,glacial spike,
+SpellName,grasping mind,
+SpellName,grave rot,
+SpellName,gravity well,
+SpellName,guided path,
+SpellName,harvest of souls,
 SpellName,haste,brzina
+SpellName,hazard sense,
 SpellName,healing,isceljenje
+SpellName,hex,
+SpellName,hexbind,
+SpellName,hideous laughter,
+SpellName,hold monster,
+SpellName,hold person,
+SpellName,holy word,
 SpellName,ice storm,ledena oluja
 SpellName,identify,identifikacija
+SpellName,inner calm,
 SpellName,invisibility,nevidljivost
+SpellName,iron will,
+SpellName,ironbind door,
+SpellName,juggernaut ray,
 SpellName,jumping,skakanje
+SpellName,keen search,
 SpellName,knock,knok
+SpellName,legion of bone,
 SpellName,levitation,levitacija
 SpellName,light,svetlost
 SpellName,lightning bolt,munjeviti udar
 SpellName,living wall,živi zid
 SpellName,magic mapping,magično mapiranje
 SpellName,magic missile,magični projektil
+SpellName,meteoric cataclysm,
+SpellName,mind ken,
+SpellName,mind link,
+SpellName,mind spike,
+SpellName,mindrend,
+SpellName,mirror ward,
+SpellName,neutralize poison,
+SpellName,oracle's eye,
+SpellName,owl eyes,
+SpellName,petrifying touch,
 SpellName,phasing,faziranje
+SpellName,planar anchor,
+SpellName,planar swap,
 SpellName,poison blast,otrovna eksplozija
 SpellName,polymorph,polimorf
+SpellName,porter's reach,
+SpellName,prayer,
+SpellName,premonition,
+SpellName,prismatic spray,
+SpellName,psychic shove,
 SpellName,raise dead,oživeti mrtve
+SpellName,rally cry,
+SpellName,ray of enfeeblement,
+SpellName,reap,
 SpellName,regenerate,regenerisanje
 SpellName,remove curse,uklonjanje kletve
+SpellName,repelling ward,
+SpellName,repulsion,
 SpellName,restoration,restauracija
+SpellName,revelation,
+SpellName,sanctuary,
+SpellName,scalding cloud,
+SpellName,searing light,
+SpellName,sense curse,
+SpellName,sense the restless,
+SpellName,sentinel ward,
+SpellName,shimmer shield,
 SpellName,shocking sphere,šok sfera
+SpellName,shrink,
+SpellName,silence,
+SpellName,simulacrum,
 SpellName,sleep,spavanje
+SpellName,slick detonation,
+SpellName,slipping free,
 SpellName,slow,usporavanje
 SpellName,soaking sphere,sfera za namakanje
+SpellName,song of discord,
+SpellName,spark bolt,
+SpellName,spectral shroud,
+SpellName,spirit leech,
+SpellName,spirit shield,
+SpellName,starfall,
+SpellName,steadfast ward,
+SpellName,stone to flesh,
+SpellName,stoneskin,
 SpellName,summoning,prizivanje
+SpellName,sunburst smite,
+SpellName,sunder gear,
+SpellName,swoon,
 SpellName,telekinesis,telekineza
+SpellName,telekinetic shove,
 SpellName,teleport away,teleportacija
+SpellName,thunderclap,
+SpellName,timed combustion,
+SpellName,tongue tied,
 SpellName,toxic spray,toksičan sprej
+SpellName,transmuter's mastery,
+SpellName,true appraisal,
 SpellName,turn undead,pretvoriti nemrtve
+SpellName,unbinding,
+SpellName,undying ward,
+SpellName,unseen hand,
+SpellName,vampiric feast,
+SpellName,veil of shadows,
+SpellName,wall breach,
+SpellName,wall of thorns,
 SpellName,walling,zazidavanje
+SpellName,ward of return,
+SpellName,warning ward,
+SpellName,web snare,
+SpellName,whispers of madness,
+SpellName,wildfire brand,
+SpellName,wither,
+SpellName,withering ray,
 SpellName,wizard lock,čarobnjačko otključavanje
+SpellName,world vision,
 StandingName,damned,proklet
 StandingName,doomed,osuđen na propast
 StandingName,doubtful,sumnjiv
@@ -4815,19 +5869,31 @@ VolatileName,blaze,požar
 VolatileName,blood,krv
 VolatileName,electricity,elektricitet
 VolatileName,freeze,zamrznut
+VolatileName,oil,
 VolatileName,steam,dim
 WallStructureName,illusionary,iluzorno
 WallStructureName,permanent,trajno
 WallStructureName,solid,čvrsto
+ZooName,angelic sanctuary,
 ZooName,ant hole,mravlja rupa
+ZooName,astral kennel,
 ZooName,barracks,barake
 ZooName,bee hive,pčelinja košnica
 ZooName,cocknest,kokošinjac
 ZooName,college of wizardry,koledž čarobnjaštva
 ZooName,dragon nest,zmajevo gnezdo
+ZooName,dragon rookery,
+ZooName,drow stronghold,
+ZooName,elemental foundry,
+ZooName,golem forge,
 ZooName,graveyard,groblje
 ZooName,gremlin pit,jazbina gremlina
+ZooName,jelly vat,
 ZooName,leprechaun hall,sala leprešuna
+ZooName,military camp,
+ZooName,mimic den,
+ZooName,monster greenhouse,
+ZooName,pheral crypt,
 ZooName,salty pool,slani bazen
 ZooName,science lab,naučna laboratorija
 ZooName,slumber party,dremljiva zabava

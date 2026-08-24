@@ -17,6 +17,8 @@ namespace Pathos
       var Genders = Codex.Genders;
       var Classes = Codex.Classes;
       var Entities = Codex.Entities;
+      var Specials = Codex.Specials;
+      var Glyphs = Codex.Glyphs;
 
       Hero AddHero(string Name, Gender Gender, Entity Entity, Class Class, Action<HeroEditor> EditorAction)
       {
@@ -97,9 +99,114 @@ namespace Pathos
       {
         H.Pet = H.NewPet("Poe", Genders.female, Entities.fledgling_raven);
       });
+      // >>> GENERATED HEROES >>>
+      GiantGladiator = AddHero("Vashti", Genders.female, Entities.giant, Classes.gladiator, H =>
+      {
+        H.Pet = H.NewPet("Grum", Genders.male, Entities.little_dog);
+      });
+
+      SatyrBard = AddHero("Panderos", Genders.male, Entities.satyr, Classes.bard, H =>
+      {
+        H.Pet = H.NewPet("Lyric", Genders.female, Entities.fledgling_raven);
+      });
+
+      DemonConvict = AddHero("Malgrim", Genders.male, Entities.demon, Classes.convict, H =>
+      {
+        H.Pet = H.NewPet("Scraps", Genders.male, Entities.kitten);
+      });
+
+      DwarfMiner = AddHero("Borgrim", Genders.male, Entities.dwarf, Classes.miner, H =>
+      {
+        H.Pet = H.NewPet("Nugget", Genders.female, Entities.kitten);
+      });
+
+      KoboldGunslinger = AddHero("Skrix", Genders.male, Entities.kobold, Classes.gunslinger, H =>
+      {
+        H.Pet = H.NewPet("Buckshot", Genders.male, Entities.little_dog);
+      });
+
+      GiantHunter = AddHero("Thokk", Genders.male, Entities.giant, Classes.hunter, H =>
+      {
+        H.Pet = H.NewPet("Briar", Genders.female, Entities.little_dog);
+      });
+
+      LizardmanJester = AddHero("Sissik", Genders.female, Entities.lizardman, Classes.jester, H =>
+      {
+        H.Pet = H.NewPet("Giggles", Genders.male, Entities.kitten);
+      });
+
+      FairyMystic = AddHero("Wisp", Genders.female, Entities.fairy, Classes.mystic, H =>
+      {
+        H.Pet = H.NewPet("Pip", Genders.male, Entities.fledgling_raven);
+      });
+
+      AngelNinja = AddHero("Serathiel", Genders.female, Entities.angel, Classes.ninja, H =>
+      {
+        H.Pet = H.NewPet("Shadow", Genders.female, Entities.kitten);
+      });
+
+      OrcPaladin = AddHero("Grakna", Genders.female, Entities.orc, Classes.paladin, H =>
+      {
+        H.Pet = H.NewPet("Valor", Genders.male, Entities.pony);
+      });
+
+      RobotPirate = AddHero("Rustbeard", Genders.male, Entities.robot, Classes.pirate, H =>
+      {
+        H.Pet = H.NewPet("Gearwing", Genders.female, Entities.fledgling_raven);
+      });
+
+      MinotaurTemplar = AddHero("Korrath", Genders.male, Entities.minotaur, Classes.templar, H =>
+      {
+        H.Pet = H.NewPet("Sentinel", Genders.male, Entities.little_dog);
+      });
+
+      TrollReaver = AddHero("Ghrenna", Genders.female, Entities.troll, Classes.reaver, H =>
+      {
+        H.Pet = H.NewPet("Fangs", Genders.male, Entities.kitten);
+      });
+
+      LizardmanShaman = AddHero("Zathrik", Genders.male, Entities.lizardman, Classes.shaman, H =>
+      {
+        H.Pet = H.NewPet("Bones", Genders.female, Entities.kitten);
+      });
+
+      DraconDruid = AddHero("Vaelithra", Genders.female, Entities.dracon, Classes.druid, H =>
+      {
+        H.Pet = H.NewPet("Fern", Genders.male, Entities.little_dog);
+      });
+
+      GnomeTinker = AddHero("Tillie", Genders.female, Entities.gnome, Classes.tinker, H =>
+      {
+        H.Pet = H.NewPet("Sprocket", Genders.male, Entities.kitten);
+      });
+
+      EchoNecromancer = AddHero("Nihlus", Genders.male, Entities.echo, Classes.necromancer, H =>
+      {
+        H.Pet = H.NewPet("Wraith", Genders.female, Entities.kitten);
+      });
+      // <<< GENERATED HEROES <<<
     }
 #endif
 
+    // >>> GENERATED HEROES-FIELDS >>>
+    public readonly Hero GiantGladiator;
+    public readonly Hero SatyrBard;
+    public readonly Hero DemonConvict;
+    public readonly Hero DwarfMiner;
+    public readonly Hero KoboldGunslinger;
+    public readonly Hero GiantHunter;
+    public readonly Hero LizardmanJester;
+    public readonly Hero FairyMystic;
+    public readonly Hero AngelNinja;
+    public readonly Hero OrcPaladin;
+    public readonly Hero RobotPirate;
+    public readonly Hero MinotaurTemplar;
+    public readonly Hero TrollReaver;
+    public readonly Hero LizardmanShaman;
+    public readonly Hero DraconDruid;
+    public readonly Hero GnomeTinker;
+    public readonly Hero EchoNecromancer;
+    // <<< GENERATED HEROES-FIELDS <<<
     public readonly Hero OrcBarbarian;
     public readonly Hero OrcMonk;
     public readonly Hero DwarfExplorer;
