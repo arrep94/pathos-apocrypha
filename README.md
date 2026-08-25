@@ -1,120 +1,76 @@
-# Pathos Official
+# Pathos Apocrypha
 
-This repository contains all content definitions and module generations for the traditional roguelike game **Pathos**. Fork this repository to start creating a new variant of Pathos! All game assets such as images, sounds and translation files reside in this repository.
+A content variant of **[Pathos](https://pathos.azurewebsites.net/)** by Callan Hodgskin, built as a
+fork of [callanh/pathos-official](https://github.com/callanh/pathos-official) exactly as the upstream
+README invites.
 
-## Licensing
+*Apocrypha*: the books that sit outside the accepted canon. Pathos calls its content the **Codex**,
+and most of what follows is spellbooks — so the name fitted.
 
-Pathos has never been monetised and it is required that **variants must not be commercialised** in any way.
+It adds **681 new definitions, about 18,700 lines of C#**, and finishes the Italian translation.
+`dotnet build` is clean: 0 errors, no codex sanity messages, and the game has been launched and
+played from this build.
 
-## Getting started
+## What it adds
 
-The content definitions and module generations are declared as C# code. This code must be built into an assembly before it can be executed by Pathos. The main project compiles against the assemblies for the installed version of Pathos for Windows Desktop. The game installation files include the `PathosMaker.exe` tool which is automated to process the asset pipeline.
+| | |
+|---|---|
+| **Spells** | **+161** — the game goes from 62 to **222** — each with its own spellbook, unidentified appearance and cover art in all four tilesets |
+| **Items** | **+114** — the full mithril / adamantine / gold / rose weapon families, khopesh, Zweihänder, chakrams, railgun, the NetHack stones (luckstone, loadstone, touchstone), medical kit, and artifacts including Stormbringer, Mournblade, Gungnir, Vajra, Sudarshana Chakra, Shillelagh |
+| **Monsters** | **+125** — the drow, the angelic host, the pheral, elementals and spheres of every element, golems, jellies, mimics, astral and fae dragons, an army chain of command, and 33 palette-swapped variants |
+| **Specials** | **+14** — the prestige archetypes: vampire spawn, warlock, veteran, specimen, plagued, ascetic, feral, prophet, construct, fey, drowned, duelist, tamer, graverobber. Every one is a genuine trade-off |
+| **Classes** | **+5** — apothecary, nightblade, elementalist, witch, slayer |
+| **Heroes** | **+17** predefined starts (13 → 30) |
+| **Hordes / zoos / shrines** | **+23 / +11 / +5**, the shrines bringing 27 new boons |
+| **Tricks / evolutions / recipes / companions** | **+14 / +7 / +3 / +5** |
+| **Grimoires on *existing* monsters** | **120 grants across 63 shipped casters** — liches, ancient dragons, drow and greater demons now cast the new spells at you |
+| **Italian translation** | **6,348 entries, 100 % complete**, in-game manual included — the only language level with English |
 
-## Installation steps
+### Spell accessibility
 
-1. Download [**Pathos for Windows Desktop**](https://pathos.azurewebsites.net/).
-2. Install Pathos to `C:\Games\Pathos` **.
-3. Fork the [**Official public repository**](https://github.com/callanh/pathos-official.git).
-4. Install **Microsoft Visual Studio 2026** _or_ **Microsoft Visual Code** plus build tools.
+Books went from 62 to 223 while keeping the same 4 % share of the loot table, which made finding a
+*specific* book 2.7× harder. So: the book stock share is 4 % → 6 % (paid for out of food), the
+`rare books` shop — the only place you can *choose* a book — goes from rarity 3 to 7, two paid
+tuition services were added, and dedicated casters now start with a signature spell **plus two**
+random rolls from their schools instead of one.
 
-** _you will need to edit the paths in PathosOfficial.csproj if you don't use this default location._
+### Content the author had switched off
 
-### Visual Studio 2026
+Three finished things were sitting commented out with unused artwork, and are now live: the **`oil`
+volatile**, the **`mutation` affliction** (its code still called `Attributes.Charisma` from an older
+API — corrected, and its missing icon generated), and the **halfling caveman avatars**, which were
+drawn in all four tilesets and wired to nothing.
 
-1. Install [**Visual Studio Community**](https://visualstudio.microsoft.com/) with the **.NET Desktop Development** workload.
-2. Open `PathosOfficial.sln`.
-3. Run **PathosOfficial** project.
+Of the 325 finished-but-unused art assets in `Atlases/*/unused/`, **310 now have content behind them**.
 
-### Visual Studio Code and Build Tools
+## Art
 
-1. Install [**Visual Studio Code**](https://code.visualstudio.com).
-2. Install [**Visual Studio Build Tools**](https://aka.ms/vs/17/release/vs_BuildTools.exe) with the **.NET desktop build tools** workload.
-3. Install Visual Studio Code extension **C# for Visual Studio Code (powered by OmniSharp)**.
-4. Open `PathosOfficial.code-workspace`.
-5. Press `Ctrl+Shift+B` to build.
-6. Press `F5` to run **PathosOfficial** project.
+New spell icons are [game-icons.net](https://game-icons.net) (CC BY 3.0) rendered the way Pathos
+does it — 196 px inside a 256 px canvas, flat, in the school colour. New book covers and the
+palette-swapped creature variants are recolourings of the shipped Pathos art, generated per tileset
+so each keeps its own style. Full credits in [CREDITS-ART.md](CREDITS-ART.md).
 
-If these steps are successful, the Pathos game will launch, running the forked code. Exit the game and make a minor change to the code before building and running again to see the difference in the game.
+## Building
 
-> NOTE: when the Pathos game self-updates you need to pull the latest commits from the Official repository and vice versa.
+Exactly as upstream: install Pathos to `C:\Games\Pathos`, then `dotnet build PathosOfficial.csproj`.
+The build runs `PathosMaker.exe`, which also sanity-checks the codex and fails if any glyph is
+missing artwork.
 
-## Project overview
-
-The main file is `PathosOfficial.cs` as it the top-level class that declares the campaign content and modules.
-
-| Folder    | Description                                            |
-|-----------|--------------------------------------------------------|
-| Albums    | mp3 files for sound effects                            |
-| Assets    | translation files, change updates and music tracks     |
-| Atlases   | png files for tilesets                                 |
-| Codex     | C# files for content definition                        |
-| Modules   | C# files for module generation                         |
-| Resources | Additional files referenced by the content and modules |
-| Reports   | Generated text file to visualise the declared content  |
-
-## Concepts and terminology
-
-The `Manifest` is a neutral content definition that is executed by the game engine. It is intended to have no knowledge of the individually declared content.
-
-The `Codex` is a way of naming the individual content that is registered in the manifest. This is useful for declaring content and for writing module generation algorithms as it allows direct reference to content. For example, the `barbarian` class starts with the `two-handed sword` item.
-
-Because of the way .NET JIT (Just-In-Time) compilation works, it is desirable to serialise the codex into a binary file. This is named `Pathos.Codex` and is automatically compiled by the `PathosMaker` tool.
-
-## Debuggin and Troubleshooting
-
-In Visual Studio, the View > Output window shows information about the build. The `PathosMaker` tool will give information about what happened including any errors or warnings.
+To run this build rather than the shipped game, launch with the project as the working directory:
 
 ```
-1>------ Build started: Project: PathosOfficial, Configuration: Debug Any CPU ------
-1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
-1>  PathosOfficial -> C:\Projects\Notlame\Pathos\PathosOfficial\bin\Debug\net10.0-windows\PathosOfficial.dll
-1>  Installation: C:\Games\Pathos
-1>  Project: C:\Projects\Notlame\Pathos\PathosOfficial
-1>  Assembly: C:\Projects\Notlame\Pathos\PathosOfficial\bin\Debug\net10.0-windows\PathosOfficial.dll
-1>  Compile: Debug
-1>
-1>  Load: 283ms
-1>  Campaign: 511ms
-1>  Save Codex: 90ms
-1>  Atlases: 1,547ms
-1>  root: unused - contrary punishment
-1>  root: unused - insomnia affliction
-1>  root: unused - myopia affliction
-1>  root: unused - oil
-1>  Albums: 722ms
-1>  Dictionaries: 2,725ms
-1>  Guides: 295ms
-1>  Updates: 685ms
-1>  Translation File: 379ms
-1>  CSV Files: 11ms
-1>  Change Logs: 29ms
-1>  Reports: 21ms
-1>  Assemblies: 4ms
-1>  Assets: 69ms
-1>
-1>  Total duration: 7,404ms
-1>
-1>  0 Errors
-1>  4 Warnings
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
-========== Build completed at 9:07 AM and took 12.088 seconds ==========
+C:\Games\Pathos\PathosGame.exe disable-update campaign:"PathosOfficial.dll"
 ```
 
----
+The build writes its assets into the project's `Assets/`, **not** into the installation.
 
-Please reach out to me for any help or even just to share your variant :)
+## Upstream
 
-**Email**
-<mailto:hodgskin.callan@gmail.com>
+The original project README is kept as [README-UPSTREAM.md](README-UPSTREAM.md);
+building, tooling and repository layout are unchanged from it.
 
-**Twitter**
-<https://twitter.com/callan_hodgskin>
+## Licence
 
-**Reddit**
-<https://www.reddit.com/r/pathos_nethack>
-
-**Discord**
-<https://discord.gg/M6MmU2m>
-
-**Made with Invention**
-<https://gitlab.com/hodgskin-callan/Invention>
+Content is Creative Commons Attribution-NonCommercial 4.0, as upstream — see `license.txt`.
+This variant contains no part of the Pathos engine, which is Callan Hodgskin's proprietary software.
+Unofficial, and not endorsed by the author.
