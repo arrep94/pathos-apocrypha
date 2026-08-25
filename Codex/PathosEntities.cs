@@ -34620,8 +34620,875 @@ namespace Pathos
       });
 
       // >>> GENERATED ENTITIES >>>
+      // ==========================================================================================
+      // Four dragon families, each built to the same curve as the shipped colour dragons: the
+      // blocks below are the blue dragon family with colour, element, beam and talents swapped,
+      // so every one of them satisfies CheckDragon in PathosEvolutions.cs rather than merely
+      // looking as though it does.
+      //
+      // grey is Callan's own artwork, drawn for Pathos and never given content: baby, young,
+      // adult, ancient, scales and scale mail were all sitting in Atlases/*/unused.
+      // astral, fae and mystical replace the three single-form dragons of the same names.
+      // ==========================================================================================
+
+
+      baby_grey_dragon = AddEntity(Kinds.dragon, null, "baby grey dragon", E =>
+      {
+        E.Description = "A grey hatchling, already contemptuous of magic and of you.";
+        E.Glyph = Glyphs.baby_grey_dragon;
+        E.Sonic = BabyDragonSonic;
+        E.Level = BabyDragonLevel;
+        E.Challenge = BabyDragonChallenge;
+        E.Difficulty = BabyDragonDifficulty;
+        E.Frequency = BabyDragonFrequency;
+        E.Defence = BabyDragonDefence;
+        E.SetDiet(DragonDiet);
+        E.Speed = BabyDragonSpeed;
+        E.Size = BabyDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = BabyDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(BabyDragonLifeDice);
+        E.ManaAdvancement.Set(1.d4());
+        E.DefaultForm.Set(STR: 17, DEX: 10, CON: 15, INT: 12, WIS: 11, CHA: 15);
+        E.LimitForm.Set(STR: 20, DEX: 15, CON: 20, INT: 15, WIS: 15, CHA: 20);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient);
+        E.Startup.SetTalent(Properties.dark_vision, Properties.flight);
+        E.Startup.SetResistance(Elements.magical);
+        E.Conveyance.MinorResistance(Elements.magical);
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d4()); // +3 from str.
+        E.SetCorpse(Chance.Always);
+      });
+
+      young_grey_dragon = AddEntity(Kinds.dragon, null, "young grey dragon", E =>
+      {
+        E.Description = "Its scales drink spells the way sand drinks water. Wizards have learned to leave grey dragons alone.";
+        E.Glyph = Glyphs.young_grey_dragon;
+        E.Sonic = YoungDragonSonic;
+        E.Level = 12;
+        E.Challenge = 298;
+        E.Difficulty = 15;
+        E.Frequency = 2;
+        E.Defence = NewDragonDefence(20);
+        E.SetDiet(DragonDiet);
+        E.Speed = YoungDragonSpeed;
+        E.Size = YoungDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = YoungDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(YoungDragonLifeBase, YoungDragonLifeDice);
+        E.ManaAdvancement.Set(YoungDragonManaBase, YoungDragonManaDice);
+        E.DefaultForm.Set(STR: 19, DEX: 12, CON: 17, INT: 14, WIS: 13, CHA: 17);
+        E.LimitForm.Set(STR: 30, DEX: 30, CON: 30, INT: 30, WIS: 30, CHA: 30);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient);
+        E.Startup.SetTalent(Properties.dark_vision, Properties.flight);
+        E.Startup.SetResistance(Elements.magical);
+        E.Conveyance.MinorResistance(Elements.magical);
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d4()); // +3 from str.
+        E.AddAttack(AttackTypes.breath, Elements.magical, Dice.Zero, K =>
+        {
+          K.SetCast().Beam(Beams.magic_missile, 1.d4() + 4);
+          K.Apply.HarmEntity(Elements.magical, 3.d6());
+        });
+        E.SetCorpse(Chance.Always);
+      });
+
+      adult_grey_dragon = AddEntity(Kinds.dragon, null, "adult grey dragon", E =>
+      {
+        E.Description = "Nothing cast at a grey dragon has ever much troubled it, and it knows this better than you do.";
+        E.Glyph = Glyphs.adult_grey_dragon;
+        E.Sonic = AdultDragonSonic;
+        E.Level = 20;
+        E.Challenge = 598;
+        E.Difficulty = 23;
+        E.Frequency = 3;
+        E.Defence = NewDragonDefence(24);
+        E.SetDiet(DragonDiet);
+        E.Speed = AdultDragonSpeed;
+        E.Size = AdultDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = AdultDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(AdultDragonLifeBase, AdultDragonLifeDice);
+        E.ManaAdvancement.Set(AdultDragonManaBase, AdultDragonManaDice);
+        E.DefaultForm.Set(STR: 25, DEX: 10, CON: 23, INT: 16, WIS: 15, CHA: 19);
+        E.LimitForm.Set(STR: 30, DEX: 30, CON: 30, INT: 30, WIS: 30, CHA: 30);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient, Skills.literacy, Skills.light_armour, Skills.medium_armour, Skills.heavy_armour);
+        E.Startup.SetSkill(Qualifications.expert, Skills.clerical);
+        E.Startup.SetTalent(Properties.dark_vision, Properties.see_invisible, Properties.flight);
+        E.Startup.SetResistance(Elements.magical);
+        E.Startup.AddGrimoire(Dice.One, Spells.extra_healing);
+        E.AddAttack(AttackTypes.breath, Elements.magical, Dice.Zero, K =>
+        {
+          K.SetCast().Beam(Beams.magic_missile, 1.d5() + 5);
+          K.Apply.HarmEntity(Elements.magical, 4.d6());
+        });
+        // +7 from str.
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d8());  // +7 from str.
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.Conveyance.MajorResistance(Elements.magical);
+        E.SetCorpse(Chance.Always);
+        E.DropLoot.AddKit(AdultDragonDropScalesChance, Dice.One, Items.blue_dragon_scales);
+      });
+
+      ancient_grey_dragon = AddEntity(Kinds.dragon, null, "ancient grey dragon", E =>
+      {
+        E.Description = "Old enough that magic simply stops happening near it. Whatever it was once, it is now a hole in the weave.";
+        E.Glyph = Glyphs.ancient_grey_dragon;
+        E.Sonic = AncientDragonSonic;
+        E.Level = 30;
+        E.Challenge = 1598;
+        E.Difficulty = 33;
+        E.Frequency = 3;
+        E.Defence = NewDragonDefence(28);
+        E.SetDiet(DragonDiet);
+        E.Speed = AncientDragonSpeed;
+        E.Size = AncientDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = AncientDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(AncientDragonLifeBase, AncientDragonLifeDice);
+        E.ManaAdvancement.Set(AncientDragonManaBase, AncientDragonManaDice);
+        E.DefaultForm.Set(STR: 27, DEX: 12, CON: 25, INT: 18, WIS: 17, CHA: 21);
+        E.LimitForm.Set(STR: 30, DEX: 30, CON: 30, INT: 30, WIS: 30, CHA: 30);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient, Skills.literacy, Skills.light_armour, Skills.medium_armour, Skills.heavy_armour);
+        E.Startup.SetSkill(Qualifications.expert, Skills.clerical);
+        E.Startup.SetTalent(Properties.jumping, Properties.dark_vision, Properties.see_invisible);
+        E.Startup.SetResistance(Elements.magical);
+        E.Startup.AddGrimoire(Dice.One, Spells.extra_healing);
+        E.AddAttack(AttackTypes.breath, Elements.magical, Dice.Zero, K =>
+        {
+          K.SetCast().Beam(Beams.magic_missile, 1.d5() + 5);
+          K.Apply.HarmEntity(Elements.magical, 8.d6());
+          K.Apply.WhenChance(Chance.OneIn5, T => T.CreateVolatile(Volatiles.electricity, 1.d100() + 150));
+        });
+        // +7 from str.
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d8());  // +7 from str.
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.Conveyance.MajorResistance(Elements.magical);
+        E.SetCorpse(Chance.Always);
+        E.DropLoot.AddKit(AncientDragonDropScalesChance, Dice.One, Items.blue_dragon_scales);
+      });
+
+
+
+      baby_astral_dragon = AddEntity(Kinds.dragon, null, "baby astral dragon", E =>
+      {
+        E.Description = "A hatchling that keeps half-vanishing while you look at it, and has not yet worked out how to stop.";
+        E.Glyph = Glyphs.baby_astral_dragon;
+        E.Sonic = BabyDragonSonic;
+        E.Level = BabyDragonLevel;
+        E.Challenge = BabyDragonChallenge;
+        E.Difficulty = BabyDragonDifficulty;
+        E.Frequency = BabyDragonFrequency;
+        E.Defence = BabyDragonDefence;
+        E.SetDiet(DragonDiet);
+        E.Speed = BabyDragonSpeed;
+        E.Size = BabyDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = BabyDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(BabyDragonLifeDice);
+        E.ManaAdvancement.Set(1.d4());
+        E.DefaultForm.Set(STR: 17, DEX: 10, CON: 15, INT: 12, WIS: 11, CHA: 15);
+        E.LimitForm.Set(STR: 20, DEX: 15, CON: 20, INT: 15, WIS: 15, CHA: 20);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient);
+        E.Startup.SetTalent(Properties.dark_vision, Properties.flight, Properties.teleportation, Properties.blinking, Properties.see_invisible);
+        E.Startup.SetResistance(Elements.magical);
+        E.Conveyance.MinorResistance(Elements.magical);
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d4()); // +3 from str.
+        E.SetCorpse(Chance.Always);
+      });
+
+      young_astral_dragon = AddEntity(Kinds.dragon, null, "young astral dragon", E =>
+      {
+        E.Description = "Scales like the silver void between the planes. It steps out of the world when it is losing.";
+        E.Glyph = Glyphs.young_astral_dragon;
+        E.Sonic = YoungDragonSonic;
+        E.Level = 12;
+        E.Challenge = 298;
+        E.Difficulty = 15;
+        E.Frequency = 2;
+        E.Defence = NewDragonDefence(20);
+        E.SetDiet(DragonDiet);
+        E.Speed = YoungDragonSpeed;
+        E.Size = YoungDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = YoungDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(YoungDragonLifeBase, YoungDragonLifeDice);
+        E.ManaAdvancement.Set(YoungDragonManaBase, YoungDragonManaDice);
+        E.DefaultForm.Set(STR: 19, DEX: 12, CON: 17, INT: 14, WIS: 13, CHA: 17);
+        E.LimitForm.Set(STR: 30, DEX: 30, CON: 30, INT: 30, WIS: 30, CHA: 30);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient);
+        E.Startup.SetTalent(Properties.dark_vision, Properties.flight, Properties.teleportation, Properties.blinking, Properties.see_invisible);
+        E.Startup.SetResistance(Elements.magical);
+        E.Conveyance.MinorResistance(Elements.magical);
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d4()); // +3 from str.
+        E.AddAttack(AttackTypes.breath, Elements.magical, Dice.Zero, K =>
+        {
+          K.SetCast().Beam(Beams.magic_missile, 1.d4() + 4);
+          K.Apply.HarmEntity(Elements.magical, 3.d6());
+        });
+        E.SetCorpse(Chance.Always);
+      });
+
+      adult_astral_dragon = AddEntity(Kinds.dragon, null, "adult astral dragon", E =>
+      {
+        E.Description = "It drifts in and out of the here and now, and its breath arrives from somewhere that is not quite the room.";
+        E.Glyph = Glyphs.adult_astral_dragon;
+        E.Sonic = AdultDragonSonic;
+        E.Level = 20;
+        E.Challenge = 598;
+        E.Difficulty = 23;
+        E.Frequency = 3;
+        E.Defence = NewDragonDefence(24);
+        E.SetDiet(DragonDiet);
+        E.Speed = AdultDragonSpeed;
+        E.Size = AdultDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = AdultDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(AdultDragonLifeBase, AdultDragonLifeDice);
+        E.ManaAdvancement.Set(AdultDragonManaBase, AdultDragonManaDice);
+        E.DefaultForm.Set(STR: 25, DEX: 10, CON: 23, INT: 16, WIS: 15, CHA: 19);
+        E.LimitForm.Set(STR: 30, DEX: 30, CON: 30, INT: 30, WIS: 30, CHA: 30);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient, Skills.literacy, Skills.light_armour, Skills.medium_armour, Skills.heavy_armour);
+        E.Startup.SetSkill(Qualifications.expert, Skills.clerical);
+        E.Startup.SetTalent(Properties.dark_vision, Properties.see_invisible, Properties.flight, Properties.teleportation, Properties.blinking, Properties.see_invisible);
+        E.Startup.SetResistance(Elements.magical);
+        E.Startup.AddGrimoire(Dice.One, Spells.extra_healing);
+        E.AddAttack(AttackTypes.breath, Elements.magical, Dice.Zero, K =>
+        {
+          K.SetCast().Beam(Beams.magic_missile, 1.d5() + 5);
+          K.Apply.HarmEntity(Elements.magical, 4.d6());
+        });
+        // +7 from str.
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d8());  // +7 from str.
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.Conveyance.MajorResistance(Elements.magical);
+        E.SetCorpse(Chance.Always);
+        E.DropLoot.AddKit(AdultDragonDropScalesChance, Dice.One, Items.blue_dragon_scales);
+      });
+
+      ancient_astral_dragon = AddEntity(Kinds.dragon, null, "ancient astral dragon", E =>
+      {
+        E.Description = "It has spent so long between the planes that it is only visiting this one. Distance means nothing to it.";
+        E.Glyph = Glyphs.ancient_astral_dragon;
+        E.Sonic = AncientDragonSonic;
+        E.Level = 30;
+        E.Challenge = 1598;
+        E.Difficulty = 33;
+        E.Frequency = 3;
+        E.Defence = NewDragonDefence(28);
+        E.SetDiet(DragonDiet);
+        E.Speed = AncientDragonSpeed;
+        E.Size = AncientDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = AncientDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(AncientDragonLifeBase, AncientDragonLifeDice);
+        E.ManaAdvancement.Set(AncientDragonManaBase, AncientDragonManaDice);
+        E.DefaultForm.Set(STR: 27, DEX: 12, CON: 25, INT: 18, WIS: 17, CHA: 21);
+        E.LimitForm.Set(STR: 30, DEX: 30, CON: 30, INT: 30, WIS: 30, CHA: 30);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient, Skills.literacy, Skills.light_armour, Skills.medium_armour, Skills.heavy_armour);
+        E.Startup.SetSkill(Qualifications.expert, Skills.clerical);
+        E.Startup.SetTalent(Properties.jumping, Properties.dark_vision, Properties.see_invisible, Properties.teleportation, Properties.blinking, Properties.see_invisible);
+        E.Startup.SetResistance(Elements.magical);
+        E.Startup.AddGrimoire(Dice.One, Spells.extra_healing);
+        E.AddAttack(AttackTypes.breath, Elements.magical, Dice.Zero, K =>
+        {
+          K.SetCast().Beam(Beams.magic_missile, 1.d5() + 5);
+          K.Apply.HarmEntity(Elements.magical, 8.d6());
+          K.Apply.WhenChance(Chance.OneIn5, T => T.CreateVolatile(Volatiles.electricity, 1.d100() + 150));
+        });
+        // +7 from str.
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d8());  // +7 from str.
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.Conveyance.MajorResistance(Elements.magical);
+        E.SetCorpse(Chance.Always);
+        E.DropLoot.AddKit(AncientDragonDropScalesChance, Dice.One, Items.blue_dragon_scales);
+      });
+
+
+
+      baby_fae_dragon = AddEntity(Kinds.dragon, null, "baby fae dragon", E =>
+      {
+        E.Description = "A hatchling out of the fey courts: bright-eyed, quick, and already lying to you.";
+        E.Glyph = Glyphs.baby_fae_dragon;
+        E.Sonic = BabyDragonSonic;
+        E.Level = BabyDragonLevel;
+        E.Challenge = BabyDragonChallenge;
+        E.Difficulty = BabyDragonDifficulty;
+        E.Frequency = BabyDragonFrequency;
+        E.Defence = BabyDragonDefence;
+        E.SetDiet(DragonDiet);
+        E.Speed = BabyDragonSpeed;
+        E.Size = BabyDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = BabyDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(BabyDragonLifeDice);
+        E.ManaAdvancement.Set(1.d4());
+        E.DefaultForm.Set(STR: 17, DEX: 10, CON: 15, INT: 12, WIS: 11, CHA: 15);
+        E.LimitForm.Set(STR: 20, DEX: 15, CON: 20, INT: 15, WIS: 15, CHA: 20);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient);
+        E.Startup.SetTalent(Properties.dark_vision, Properties.flight, Properties.invisibility, Properties.see_invisible);
+        E.Startup.SetResistance(Elements.magical);
+        E.Conveyance.MinorResistance(Elements.magical);
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d4()); // +3 from str.
+        E.SetCorpse(Chance.Always);
+      });
+
+      young_fae_dragon = AddEntity(Kinds.dragon, null, "young fae dragon", E =>
+      {
+        E.Description = "More prankster than predator, which is not the same as harmless.";
+        E.Glyph = Glyphs.young_fae_dragon;
+        E.Sonic = YoungDragonSonic;
+        E.Level = 12;
+        E.Challenge = 298;
+        E.Difficulty = 15;
+        E.Frequency = 2;
+        E.Defence = NewDragonDefence(20);
+        E.SetDiet(DragonDiet);
+        E.Speed = YoungDragonSpeed;
+        E.Size = YoungDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = YoungDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(YoungDragonLifeBase, YoungDragonLifeDice);
+        E.ManaAdvancement.Set(YoungDragonManaBase, YoungDragonManaDice);
+        E.DefaultForm.Set(STR: 19, DEX: 12, CON: 17, INT: 14, WIS: 13, CHA: 17);
+        E.LimitForm.Set(STR: 30, DEX: 30, CON: 30, INT: 30, WIS: 30, CHA: 30);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient);
+        E.Startup.SetTalent(Properties.dark_vision, Properties.flight, Properties.invisibility, Properties.see_invisible);
+        E.Startup.SetResistance(Elements.magical);
+        E.Conveyance.MinorResistance(Elements.magical);
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d4()); // +3 from str.
+        E.AddAttack(AttackTypes.breath, Elements.magical, Dice.Zero, K =>
+        {
+          K.SetCast().Beam(Beams.magic_missile, 1.d4() + 4);
+          K.Apply.HarmEntity(Elements.magical, 3.d6());
+        });
+        E.SetCorpse(Chance.Always);
+      });
+
+      adult_fae_dragon = AddEntity(Kinds.dragon, null, "adult fae dragon", E =>
+      {
+        E.Description = "It keeps the courtesies of the fey courts exactly as far as they amuse it.";
+        E.Glyph = Glyphs.adult_fae_dragon;
+        E.Sonic = AdultDragonSonic;
+        E.Level = 20;
+        E.Challenge = 598;
+        E.Difficulty = 23;
+        E.Frequency = 3;
+        E.Defence = NewDragonDefence(24);
+        E.SetDiet(DragonDiet);
+        E.Speed = AdultDragonSpeed;
+        E.Size = AdultDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = AdultDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(AdultDragonLifeBase, AdultDragonLifeDice);
+        E.ManaAdvancement.Set(AdultDragonManaBase, AdultDragonManaDice);
+        E.DefaultForm.Set(STR: 25, DEX: 10, CON: 23, INT: 16, WIS: 15, CHA: 19);
+        E.LimitForm.Set(STR: 30, DEX: 30, CON: 30, INT: 30, WIS: 30, CHA: 30);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient, Skills.literacy, Skills.light_armour, Skills.medium_armour, Skills.heavy_armour);
+        E.Startup.SetSkill(Qualifications.expert, Skills.clerical);
+        E.Startup.SetTalent(Properties.dark_vision, Properties.see_invisible, Properties.flight, Properties.invisibility, Properties.see_invisible);
+        E.Startup.SetResistance(Elements.magical);
+        E.Startup.AddGrimoire(Dice.One, Spells.extra_healing);
+        E.AddAttack(AttackTypes.breath, Elements.magical, Dice.Zero, K =>
+        {
+          K.SetCast().Beam(Beams.magic_missile, 1.d5() + 5);
+          K.Apply.HarmEntity(Elements.magical, 4.d6());
+        });
+        // +7 from str.
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d8());  // +7 from str.
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.Conveyance.MajorResistance(Elements.magical);
+        E.SetCorpse(Chance.Always);
+        E.DropLoot.AddKit(AdultDragonDropScalesChance, Dice.One, Items.blue_dragon_scales);
+      });
+
+      ancient_fae_dragon = AddEntity(Kinds.dragon, null, "ancient fae dragon", E =>
+      {
+        E.Description = "It has been playing the same joke for eight hundred years and has not yet reached the end of it.";
+        E.Glyph = Glyphs.ancient_fae_dragon;
+        E.Sonic = AncientDragonSonic;
+        E.Level = 30;
+        E.Challenge = 1598;
+        E.Difficulty = 33;
+        E.Frequency = 3;
+        E.Defence = NewDragonDefence(28);
+        E.SetDiet(DragonDiet);
+        E.Speed = AncientDragonSpeed;
+        E.Size = AncientDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = AncientDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(AncientDragonLifeBase, AncientDragonLifeDice);
+        E.ManaAdvancement.Set(AncientDragonManaBase, AncientDragonManaDice);
+        E.DefaultForm.Set(STR: 27, DEX: 12, CON: 25, INT: 18, WIS: 17, CHA: 21);
+        E.LimitForm.Set(STR: 30, DEX: 30, CON: 30, INT: 30, WIS: 30, CHA: 30);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient, Skills.literacy, Skills.light_armour, Skills.medium_armour, Skills.heavy_armour);
+        E.Startup.SetSkill(Qualifications.expert, Skills.clerical);
+        E.Startup.SetTalent(Properties.jumping, Properties.dark_vision, Properties.see_invisible, Properties.invisibility, Properties.see_invisible);
+        E.Startup.SetResistance(Elements.magical);
+        E.Startup.AddGrimoire(Dice.One, Spells.extra_healing);
+        E.AddAttack(AttackTypes.breath, Elements.magical, Dice.Zero, K =>
+        {
+          K.SetCast().Beam(Beams.magic_missile, 1.d5() + 5);
+          K.Apply.HarmEntity(Elements.magical, 8.d6());
+          K.Apply.WhenChance(Chance.OneIn5, T => T.CreateVolatile(Volatiles.electricity, 1.d100() + 150));
+        });
+        // +7 from str.
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d8());  // +7 from str.
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.Conveyance.MajorResistance(Elements.magical);
+        E.SetCorpse(Chance.Always);
+        E.DropLoot.AddKit(AncientDragonDropScalesChance, Dice.One, Items.blue_dragon_scales);
+      });
+
+
+
+      baby_mystical_dragon = AddEntity(Kinds.dragon, null, "baby mystical dragon", E =>
+      {
+        E.Description = "A hatchling that has already learned one word it should not know.";
+        E.Glyph = Glyphs.baby_mystical_dragon;
+        E.Sonic = BabyDragonSonic;
+        E.Level = BabyDragonLevel;
+        E.Challenge = BabyDragonChallenge;
+        E.Difficulty = BabyDragonDifficulty;
+        E.Frequency = BabyDragonFrequency;
+        E.Defence = BabyDragonDefence;
+        E.SetDiet(DragonDiet);
+        E.Speed = BabyDragonSpeed;
+        E.Size = BabyDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = BabyDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(BabyDragonLifeDice);
+        E.ManaAdvancement.Set(1.d4());
+        E.DefaultForm.Set(STR: 17, DEX: 10, CON: 15, INT: 12, WIS: 11, CHA: 15);
+        E.LimitForm.Set(STR: 20, DEX: 15, CON: 20, INT: 15, WIS: 15, CHA: 20);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient);
+        E.Startup.SetTalent(Properties.dark_vision, Properties.flight, Properties.polymorph_control, Properties.see_invisible);
+        E.Startup.SetResistance(Elements.magical);
+        E.Conveyance.MinorResistance(Elements.magical);
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d4()); // +3 from str.
+        E.SetCorpse(Chance.Always);
+      });
+
+      young_mystical_dragon = AddEntity(Kinds.dragon, null, "young mystical dragon", E =>
+      {
+        E.Description = "It hoards grimoires the way other dragons hoard gold, and it has read them.";
+        E.Glyph = Glyphs.young_mystical_dragon;
+        E.Sonic = YoungDragonSonic;
+        E.Level = 12;
+        E.Challenge = 298;
+        E.Difficulty = 15;
+        E.Frequency = 2;
+        E.Defence = NewDragonDefence(20);
+        E.SetDiet(DragonDiet);
+        E.Speed = YoungDragonSpeed;
+        E.Size = YoungDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = YoungDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(YoungDragonLifeBase, YoungDragonLifeDice);
+        E.ManaAdvancement.Set(YoungDragonManaBase, YoungDragonManaDice);
+        E.DefaultForm.Set(STR: 19, DEX: 12, CON: 17, INT: 14, WIS: 13, CHA: 17);
+        E.LimitForm.Set(STR: 30, DEX: 30, CON: 30, INT: 30, WIS: 30, CHA: 30);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient);
+        E.Startup.SetTalent(Properties.dark_vision, Properties.flight, Properties.polymorph_control, Properties.see_invisible);
+        E.Startup.SetResistance(Elements.magical);
+        E.Conveyance.MinorResistance(Elements.magical);
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d4()); // +3 from str.
+        E.AddAttack(AttackTypes.breath, Elements.magical, Dice.Zero, K =>
+        {
+          K.SetCast().Beam(Beams.magic_missile, 1.d4() + 4);
+          K.Apply.HarmEntity(Elements.magical, 3.d6());
+        });
+        E.SetCorpse(Chance.Always);
+      });
+
+      adult_mystical_dragon = AddEntity(Kinds.dragon, null, "adult mystical dragon", E =>
+      {
+        E.Description = "Steeped in high magic, and quite capable of being something else by the time you swing.";
+        E.Glyph = Glyphs.adult_mystical_dragon;
+        E.Sonic = AdultDragonSonic;
+        E.Level = 20;
+        E.Challenge = 598;
+        E.Difficulty = 23;
+        E.Frequency = 3;
+        E.Defence = NewDragonDefence(24);
+        E.SetDiet(DragonDiet);
+        E.Speed = AdultDragonSpeed;
+        E.Size = AdultDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = AdultDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(AdultDragonLifeBase, AdultDragonLifeDice);
+        E.ManaAdvancement.Set(AdultDragonManaBase, AdultDragonManaDice);
+        E.DefaultForm.Set(STR: 25, DEX: 10, CON: 23, INT: 16, WIS: 15, CHA: 19);
+        E.LimitForm.Set(STR: 30, DEX: 30, CON: 30, INT: 30, WIS: 30, CHA: 30);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient, Skills.literacy, Skills.light_armour, Skills.medium_armour, Skills.heavy_armour);
+        E.Startup.SetSkill(Qualifications.expert, Skills.clerical);
+        E.Startup.SetTalent(Properties.dark_vision, Properties.see_invisible, Properties.flight, Properties.polymorph_control, Properties.see_invisible);
+        E.Startup.SetResistance(Elements.magical);
+        E.Startup.AddGrimoire(Dice.One, Spells.extra_healing);
+        E.AddAttack(AttackTypes.breath, Elements.magical, Dice.Zero, K =>
+        {
+          K.SetCast().Beam(Beams.magic_missile, 1.d5() + 5);
+          K.Apply.HarmEntity(Elements.magical, 4.d6());
+        });
+        // +7 from str.
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d8());  // +7 from str.
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.Conveyance.MajorResistance(Elements.magical);
+        E.SetCorpse(Chance.Always);
+        E.DropLoot.AddKit(AdultDragonDropScalesChance, Dice.One, Items.blue_dragon_scales);
+      });
+
+      ancient_mystical_dragon = AddEntity(Kinds.dragon, null, "ancient mystical dragon", E =>
+      {
+        E.Description = "Centuries of study, and a library underneath it that no scholar will ever be allowed to see.";
+        E.Glyph = Glyphs.ancient_mystical_dragon;
+        E.Sonic = AncientDragonSonic;
+        E.Level = 30;
+        E.Challenge = 1598;
+        E.Difficulty = 33;
+        E.Frequency = 3;
+        E.Defence = NewDragonDefence(28);
+        E.SetDiet(DragonDiet);
+        E.Speed = AncientDragonSpeed;
+        E.Size = AncientDragonSize;
+        E.Strategy = DragonStrategy;
+        E.Weight = AncientDragonWeight;
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: false,
+          Limbs: true,
+          Feet: false,
+          Thermal: false,
+          Blood: true,
+          Mounted: true,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(AncientDragonLifeBase, AncientDragonLifeDice);
+        E.ManaAdvancement.Set(AncientDragonManaBase, AncientDragonManaDice);
+        E.DefaultForm.Set(STR: 27, DEX: 12, CON: 25, INT: 18, WIS: 17, CHA: 21);
+        E.LimitForm.Set(STR: 30, DEX: 30, CON: 30, INT: 30, WIS: 30, CHA: 30);
+        E.SetGender(Genders.male, Genders.female);
+        E.SetGreed(SentientGreed);
+        E.Chemistry.SetVulnerability();
+        E.Startup.SetSkill(Qualifications.proficient, Skills.literacy, Skills.light_armour, Skills.medium_armour, Skills.heavy_armour);
+        E.Startup.SetSkill(Qualifications.expert, Skills.clerical);
+        E.Startup.SetTalent(Properties.jumping, Properties.dark_vision, Properties.see_invisible, Properties.polymorph_control, Properties.see_invisible);
+        E.Startup.SetResistance(Elements.magical);
+        E.Startup.AddGrimoire(Dice.One, Spells.extra_healing);
+        E.AddAttack(AttackTypes.breath, Elements.magical, Dice.Zero, K =>
+        {
+          K.SetCast().Beam(Beams.magic_missile, 1.d5() + 5);
+          K.Apply.HarmEntity(Elements.magical, 8.d6());
+          K.Apply.WhenChance(Chance.OneIn5, T => T.CreateVolatile(Volatiles.electricity, 1.d100() + 150));
+        });
+        // +7 from str.
+        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d8());  // +7 from str.
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.AddAttack(AttackTypes.claw, Elements.physical, 1.d4());
+        E.Conveyance.MajorResistance(Elements.magical);
+        E.SetCorpse(Chance.Always);
+        E.DropLoot.AddKit(AncientDragonDropScalesChance, Dice.One, Items.blue_dragon_scales);
+      });
+
       army_soldier = AddEntity(Kinds.military, Races.human, "army soldier", E =>
       {
+        E.Description = "Rank-and-file infantry, drilled to hold a line with a spear and a shield, and to break it for nobody.";
         E.Glyph = Glyphs.army_soldier;
         E.Level = 6;
         E.Challenge = 45; // calibrated against watchman (level 6, challenge 42, PathosEntities.cs 18350).
@@ -34668,6 +35535,7 @@ namespace Pathos
 
       army_sergeant = AddEntity(Kinds.military, Races.human, "army sergeant", E =>
       {
+        E.Description = "The one who taught the soldiers their drill, and who fights rather better than any of them.";
         E.Glyph = Glyphs.army_sergeant;
         E.Level = 8;
         E.Challenge = 130; // calibrated against watch captain (level 10, challenge 161, PathosEntities.cs 18303) one band down.
@@ -34714,6 +35582,7 @@ namespace Pathos
 
       army_lieutenant = AddEntity(Kinds.military, Races.human, "army lieutenant", E =>
       {
+        E.Description = "A junior officer with a commission bought or earned, leading from the front because that is where he is watched.";
         E.Glyph = Glyphs.army_lieutenant;
         E.Level = 10;
         E.Challenge = 190; // calibrated against watch captain (level 10, challenge 161, PathosEntities.cs 18303).
@@ -34761,6 +35630,7 @@ namespace Pathos
 
       army_captain = AddEntity(Kinds.military, Races.human, "army captain", E =>
       {
+        E.Description = "He has fought campaigns you have only heard rumours of, and he expects the men behind him to keep up.";
         E.Glyph = Glyphs.army_captain;
         E.Level = 13;
         E.Challenge = 270; // calibrated against guard (level 12, challenge 212, PathosEntities.cs 16857), one band up as the chain's leader.
@@ -34809,6 +35679,7 @@ namespace Pathos
 
       angel_warrior = AddEntity(Kinds.angel, Races.angel, "angel warrior", E =>
       {
+        E.Description = "A soldier of the host: armed, armoured, and entirely without doubt.";
         E.Glyph = Glyphs.angel_warrior;
         E.Sonic = Sonics.prayer;
         E.Level = 15;
@@ -34857,6 +35728,7 @@ namespace Pathos
 
       female_demon = AddEntity(Kinds.demon, null, "female demon", E =>
       {
+        E.Description = "She was beautiful once, in the way a knife is beautiful, and the resemblance has not altogether faded.";
         E.Glyph = Glyphs.female_demon;
         E.Sonic = Sonics.chant;
         E.Level = 13;
@@ -34908,6 +35780,7 @@ namespace Pathos
 
       halfling_male_caveman = AddEntity(Kinds.halfling, Races.halfling, "halfling male caveman", E =>
       {
+        E.Description = "A halfling from before halflings had villages, clubbing at the world with whatever came to hand.";
         // calibrated against goblin (PathosEntities.cs ~26645: level 0, small, Challenge 4) and the
         // shipped halfling base (PathosEntities.cs 345) for stat spread and talents.
         E.Glyph = Glyphs.halfling_male_caveman;
@@ -34954,6 +35827,7 @@ namespace Pathos
 
       halfling_female_caveman = AddEntity(Kinds.halfling, Races.halfling, "halfling female caveman", E =>
       {
+        E.Description = "Small, wary, and quicker with a thrown rock than anyone her size has any right to be.";
         // calibrated against goblin (PathosEntities.cs ~26645) and proudfoot's sling+rock kit
         // (PathosEntities.cs 24584) for the ranged-forager shape.
         E.Glyph = Glyphs.halfling_female_caveman;
@@ -35001,6 +35875,7 @@ namespace Pathos
 
       lizardman_samurai = AddEntity(Kinds.lizardman, Races.lizardman, "lizardman samurai", E =>
       {
+        E.Description = "A lizardman who took up a foreign discipline and mastered it. His two blades move faster than his bulk suggests they can.";
         // calibrated against lizardman chieftain (PathosEntities.cs 22145: level 23, Challenge 744)
         // and roshi (PathosEntities.cs 24273: katana, heavy_blade + heavy_armour mercenary shape).
         E.Glyph = Glyphs.lizardman_samurai;
@@ -35051,6 +35926,7 @@ namespace Pathos
 
       orc_thief = AddEntity(Kinds.orc, Races.orc, "orc thief", E =>
       {
+        E.Description = "An orc who worked out that pockets are a good deal easier to open than skulls.";
         // calibrated against orc grunt (PathosEntities.cs 26974: level 3, Challenge 15) for the
         // stat spread, and dwarf thief / gnome thief (PathosEntities.cs 10159, 14399) for the
         // StealCarriedItem theft mechanic.
@@ -35104,6 +35980,7 @@ namespace Pathos
 
       runicorn = AddEntity(Kinds.horse, Races.unicorn, "runicorn", E =>
       {
+        E.Description = "A unicorn whose hide is scored with runes that no hand cut. Magic slides off it and comes back sharpened.";
         // calibrated against white unicorn (PathosEntities.cs 31100: level 12, Challenge 204, the
         // strongest shipped unicorn) as a rarer, magically charged cousin one step above it.
         E.Glyph = Glyphs.Runicorn;
@@ -35158,162 +36035,6 @@ namespace Pathos
       // ============================================================
 
       #region astral dragon / fae dragon / mystical dragon (single-tier dragons, Kinds.dragon)
-
-      astral_dragon = AddEntity(Kinds.dragon, null, "astral dragon", E =>
-      {
-        E.Description = "A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.";
-        E.Glyph = Glyphs.astral_dragon;
-        E.Sonic = AdultDragonSonic;
-        E.Level = 24;
-        E.Challenge = 1040; // calibrated against adult shimmering dragon (Level 25, Challenge 1109).
-        E.Difficulty = 28;
-        E.Frequency = 2;
-        E.Defence = NewDragonDefence(26); // +2 from dex.
-        E.SetDiet(DragonDiet);
-        E.Speed = AdultDragonSpeed;
-        E.Size = AdultDragonSize;
-        E.Strategy = DragonStrategy;
-        E.Weight = AdultDragonWeight;
-        E.Figure.Set
-        (
-          Material: Materials.animal,
-          Head: true,
-          Mind: true,
-          Voice: true,
-          Eyes: true,
-          Ears: true,
-          Hands: false,
-          Limbs: true,
-          Feet: false,
-          Thermal: false,
-          Blood: true,
-          Mounted: true,
-          Amorphous: false
-        );
-        E.LifeAdvancement.Set(AdultDragonLifeBase, AdultDragonLifeDice);
-        E.ManaAdvancement.Set(AdultDragonManaBase, AdultDragonManaDice);
-        E.DefaultForm.Set(STR: 22, DEX: 16, CON: 22, INT: 15, WIS: 14, CHA: 18);
-        E.LimitForm.Set(STR: 30, DEX: 30, CON: 30, INT: 30, WIS: 30, CHA: 30);
-        E.SetGender(Genders.male, Genders.female);
-        E.SetGreed(SentientGreed);
-        E.Chemistry.SetVulnerability();
-        E.Startup.SetSkill(Qualifications.proficient, Skills.enchantment, Skills.transmutation, Skills.literacy, Skills.light_armour, Skills.medium_armour, Skills.heavy_armour);
-        E.Startup.SetTalent(Properties.teleportation, Properties.blinking, Properties.see_invisible);
-        E.Startup.SetResistance(Elements.magical, Elements.drain);
-        E.AddAttack(AttackTypes.breath, Elements.magical, Dice.Zero, K =>
-        {
-          K.SetCast().Beam(Beams.magic_missile, 1.d5() + 5);
-          K.Apply.HarmEntity(Elements.magical, 6.d6());
-        });
-        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d8()); // +5 from str.
-        E.AddAttack(AttackTypes.claw, Elements.physical, 2.d5());
-        E.AddAttack(AttackTypes.claw, Elements.physical, 2.d5());
-        E.SetCorpse(Chance.Always);
-      });
-
-      fae_dragon = AddEntity(Kinds.dragon, null, "fae dragon", E =>
-      {
-        E.Description = "A small, quick-witted dragon out of the fey courts, more prankster than predator.";
-        E.Glyph = Glyphs.fae_dragon;
-        E.Sonic = YoungDragonSonic;
-        E.Level = 15;
-        E.Challenge = 330; // calibrated against young shimmering dragon (Level 17, Challenge 409).
-        E.Difficulty = 18;
-        E.Frequency = 2;
-        E.Defence = NewDragonDefence(21); // +2 from dex.
-        E.SetDiet(DragonDiet);
-        E.Speed = YoungDragonSpeed;
-        E.Size = YoungDragonSize;
-        E.Strategy = DragonStrategy;
-        E.Weight = YoungDragonWeight;
-        E.Figure.Set
-        (
-          Material: Materials.animal,
-          Head: true,
-          Mind: true,
-          Voice: true,
-          Eyes: true,
-          Ears: true,
-          Hands: false,
-          Limbs: true,
-          Feet: false,
-          Thermal: false,
-          Blood: true,
-          Mounted: true,
-          Amorphous: false
-        );
-        E.LifeAdvancement.Set(YoungDragonLifeBase, YoungDragonLifeDice);
-        E.ManaAdvancement.Set(YoungDragonManaBase, YoungDragonManaDice);
-        E.DefaultForm.Set(STR: 15, DEX: 17, CON: 14, INT: 13, WIS: 14, CHA: 18);
-        E.LimitForm.Set(STR: 30, DEX: 30, CON: 30, INT: 30, WIS: 30, CHA: 30);
-        E.SetGender(Genders.male, Genders.female);
-        E.SetGreed(SentientGreed);
-        E.Chemistry.SetVulnerability();
-        E.Startup.SetSkill(Qualifications.proficient);
-        E.Startup.SetTalent(Properties.flight, Properties.invisibility);
-        E.Startup.SetResistance(Elements.magical);
-        E.AddAttack(AttackTypes.bite, Elements.physical, 1.d10()); // +2 from str.
-        E.AddAttack(AttackTypes.breath, Elements.magical, Dice.Zero, K =>
-        {
-          K.SetCast().Beam(Beams.magic_missile, 1.d4() + 4);
-          K.Apply.HarmEntity(Elements.magical, 3.d6());
-          K.Apply.ApplyTransient(Properties.confusion, 2.d4());
-        });
-        E.SetCorpse(Chance.Always);
-      });
-
-      mystical_dragon = AddEntity(Kinds.dragon, null, "mystical dragon", E =>
-      {
-        E.Description = "A dragon steeped in high magic, said to hoard grimoires as jealously as gold.";
-        E.Glyph = Glyphs.mystical_dragon;
-        E.Sonic = AdultDragonSonic;
-        E.Level = 26;
-        E.Challenge = 1200; // calibrated against adult shimmering dragon (Level 25, Challenge 1109) and chromatic dragon (Level 32, Challenge 1446).
-        E.Difficulty = 29;
-        E.Frequency = 1;
-        E.Defence = NewDragonDefence(27); // +2 from dex.
-        E.SetDiet(DragonDiet);
-        E.Speed = AdultDragonSpeed;
-        E.Size = AdultDragonSize;
-        E.Strategy = DragonStrategy;
-        E.Weight = AdultDragonWeight;
-        E.Figure.Set
-        (
-          Material: Materials.animal,
-          Head: true,
-          Mind: true,
-          Voice: true,
-          Eyes: true,
-          Ears: true,
-          Hands: false,
-          Limbs: true,
-          Feet: false,
-          Thermal: false,
-          Blood: true,
-          Mounted: true,
-          Amorphous: false
-        );
-        E.LifeAdvancement.Set(AdultDragonLifeBase, AdultDragonLifeDice);
-        E.ManaAdvancement.Set(AdultDragonManaBase, AdultDragonManaDice);
-        E.DefaultForm.Set(STR: 20, DEX: 15, CON: 23, INT: 18, WIS: 16, CHA: 17);
-        E.LimitForm.Set(STR: 30, DEX: 30, CON: 30, INT: 30, WIS: 30, CHA: 30);
-        E.SetGender(Genders.male, Genders.female);
-        E.SetGreed(SentientGreed);
-        E.Chemistry.SetVulnerability();
-        E.Startup.SetSkill(Qualifications.proficient, Skills.enchantment, Skills.transmutation, Skills.literacy, Skills.light_armour, Skills.medium_armour, Skills.heavy_armour);
-        E.Startup.SetTalent(Properties.polymorph_control, Properties.see_invisible, Properties.flight);
-        E.Startup.SetResistance(Elements.magical, Elements.disintegrate);
-        E.Startup.AddGrimoire(Dice.One, Spells.polymorph);
-        E.AddAttack(AttackTypes.breath, Elements.magical, Dice.Zero, K =>
-        {
-          K.SetCast().Beam(Beams.magic_missile, 1.d5() + 5);
-          K.Apply.HarmEntity(Elements.magical, 6.d8());
-        });
-        E.AddAttack(AttackTypes.bite, Elements.physical, 2.d8());
-        E.AddAttack(AttackTypes.claw, Elements.physical, 2.d6());
-        E.AddAttack(AttackTypes.claw, Elements.physical, 2.d6());
-        E.SetCorpse(Chance.Always);
-      });
       #endregion
 
       #region blink dog / blink puppy / astral dog / astral puppy (Kinds.dog)
@@ -36162,6 +36883,7 @@ namespace Pathos
 
       air_seeker = AddEntity(Kinds.mercenary, Races.human, "air seeker", E =>
       {
+        E.Description = "The first rank of the air school, who has learned to feel the wind before it moves.";
         E.Glyph = Glyphs.air_seeker;
         E.Level = 10;
         E.Challenge = 197;
@@ -36210,6 +36932,7 @@ namespace Pathos
 
       air_binder = AddEntity(Kinds.mercenary, Races.human, "air binder", E =>
       {
+        E.Description = "The second rank, who no longer asks the wind for anything but simply takes it.";
         E.Glyph = Glyphs.air_binder;
         E.Level = 20;
         E.Challenge = 597;
@@ -36261,6 +36984,7 @@ namespace Pathos
 
       air_maker = AddEntity(Kinds.mercenary, Races.human, "air maker", E =>
       {
+        E.Description = "The highest rank of the air school. Where she is standing, the weather is a matter of her preference.";
         E.Glyph = Glyphs.air_maker;
         E.Level = 30;
         E.Challenge = 1499;
@@ -36321,6 +37045,7 @@ namespace Pathos
 
       air_sphere = AddEntity(Kinds.elemental, null, "air sphere", E =>
       {
+        E.Description = "A knot of turning air about the size of a head. It has no face, and it follows you regardless.";
         E.Glyph = Glyphs.air_sphere;
         E.Sonic = Sonics.gas;
         E.Level = 8;
@@ -36377,6 +37102,7 @@ namespace Pathos
 
       acid_elemental = AddEntity(Kinds.elemental, null, "acid elemental", E =>
       {
+        E.Description = "A walking pool of acid, held in the shape of a body by something with an appetite.";
         E.Glyph = Glyphs.acid_elemental;
         E.Sonic = Sonics.hiss;
         E.Level = 13;
@@ -36426,6 +37152,7 @@ namespace Pathos
 
       ash_elemental = AddEntity(Kinds.elemental, null, "ash elemental", E =>
       {
+        E.Description = "Everything that is left when a fire has finished, and still hot enough for it to matter.";
         E.Glyph = Glyphs.ash_elemental;
         E.Sonic = Sonics.burn;
         E.Level = 15;
@@ -36477,6 +37204,7 @@ namespace Pathos
 
       energy_elemental = AddEntity(Kinds.elemental, null, "energy elemental", E =>
       {
+        E.Description = "Raw current given legs. The air around it tastes of a storm that has not arrived yet.";
         E.Glyph = Glyphs.energy_elemental;
         E.Sonic = Sonics.electricity;
         E.Level = 15;
@@ -36528,6 +37256,7 @@ namespace Pathos
 
       explosive_elemental = AddEntity(Kinds.elemental, null, "explosive elemental", E =>
       {
+        E.Description = "It is holding itself together, and it is not going to manage that for very much longer.";
         E.Glyph = Glyphs.explosive_elemental;
         E.Sonic = Sonics.explosion;
         E.Level = 14;
@@ -36579,6 +37308,7 @@ namespace Pathos
 
       sonic_elemental = AddEntity(Kinds.elemental, null, "sonic elemental", E =>
       {
+        E.Description = "A standing wave, loud enough to be solid. You feel it in your teeth before you see it.";
         E.Glyph = Glyphs.sonic_elemental;
         E.Sonic = Sonics.squeal;
         E.Level = 17;
@@ -36632,6 +37362,7 @@ namespace Pathos
 
       acid_sphere = AddEntity(Kinds.elemental, null, "acid sphere", E =>
       {
+        E.Description = "A hovering bead of acid, small enough to ignore and stupid enough to close the distance anyway.";
         E.Glyph = Glyphs.acid_sphere;
         E.Sonic = Sonics.hiss;
         E.Level = 6;
@@ -36681,6 +37412,7 @@ namespace Pathos
 
       explosive_sphere = AddEntity(Kinds.elemental, null, "explosive sphere", E =>
       {
+        E.Description = "A sphere with a short temper and a shorter future.";
         E.Glyph = Glyphs.explosive_sphere;
         E.Sonic = Sonics.explosion;
         E.Level = 6;
@@ -36729,6 +37461,7 @@ namespace Pathos
 
       sonic_sphere = AddEntity(Kinds.elemental, null, "sonic sphere", E =>
       {
+        E.Description = "A hovering note that will not stop rising.";
         E.Glyph = Glyphs.sonic_sphere;
         E.Sonic = Sonics.squeak;
         E.Level = 9;
@@ -36777,6 +37510,7 @@ namespace Pathos
 
       wind_sphere = AddEntity(Kinds.vortex, null, "wind sphere", E =>
       {
+        E.Description = "A turning column of wind: enormous, empty, and impossible to hit anywhere that counts.";
         // A distinct roaming hazard from air_sphere (elemental spell-summon): built off the shipped
         // dust_vortex/energy_vortex shape (~31770-31817) - Kinds.vortex, Amorphous, engulf-and-blind.
         E.Glyph = Glyphs.wind_sphere;
@@ -36830,6 +37564,7 @@ namespace Pathos
 
       tin_golem = AddEntity(Kinds.golem, null, "tin golem", E =>
       {
+        E.Description = "Beaten out of scrap tin by an apprentice who wanted to prove a point. It rattles as it walks.";
         // Calibrated against paper_golem (level 3, Challenge 10, D11): tin is cheap and thin like
         // paper is flimsy, but it's still metal, so pitched a notch above.
         E.Glyph = Glyphs.tin_golem;
@@ -36876,6 +37611,7 @@ namespace Pathos
 
       silver_golem = AddEntity(Kinds.golem, null, "silver golem", E =>
       {
+        E.Description = "Cast in silver at ruinous expense, and worth it: nothing rots it, nothing charms it, and it never tires.";
         // Calibrated against gold_golem (level 9, Challenge 84, D14): comparable precious-metal
         // golem, sitting a step above since silver is the harder metal, with a bane-metal edge over
         // the undead/lycanthropes that real silver hurts (fits E.Chemistry.SetVulnerability(silver)
@@ -36926,6 +37662,7 @@ namespace Pathos
 
       robot_sentry = AddEntity(Kinds.robot, Races.robot, "robot sentry", E =>
       {
+        E.Description = "It was built to stand in one place and stop things, and it is still doing exactly that long after the builders left.";
         // A stationary-minded guard unit: calibrated against gold_golem (level 9, D14) for a
         // mid-tier construct guardian, but with a ranged energy-bolt attack instead of melee-only.
         E.Glyph = Glyphs.robot_sentry;
@@ -36980,6 +37717,7 @@ namespace Pathos
 
       robot_singer = AddEntity(Kinds.robot, Races.robot, "robot singer", E =>
       {
+        E.Description = "It sings the same three phrases in a voice that used to belong to somebody, and it will not be interrupted.";
         // Same chassis, but tuned as a sonic disruptor instead of a fighter: shriek attack copied
         // from the shipped gargoyle-family shape (~2984, alert + Properties.deafness Shout).
         E.Glyph = Glyphs.robot_singer;
@@ -37037,6 +37775,7 @@ namespace Pathos
 
       robot_female = AddEntity(Kinds.robot, Races.robot, "robot female", E =>
       {
+        E.Description = "A humanoid automaton, articulated at every joint, still carrying out whatever it was last told to do.";
         // Baseline combat chassis, same shape as the shipped "robot" base entity (~869) with real
         // stats filled in: a straightforward melee unit to anchor the family.
         E.Glyph = Glyphs.robot_female;
@@ -37088,6 +37827,7 @@ namespace Pathos
 
       robot_male_vampire_gunslinger = AddEntity(Kinds.vampire, null, "robot male vampire gunslinger", E =>
       {
+        E.Description = "Somebody built a machine, somebody else turned it, and a third party handed it a pistol. All three came to regret their part.";
         // A cyborg-vampire hybrid: Kinds.vampire (so it must, and does, carry the mandatory
         // Chemistry.SetVulnerability(Materials.silver)), calibrated against the shipped vampire
         // (level 15, Challenge 477, D18/+2dex) but toned slightly down and given the watchman-style
@@ -37148,6 +37888,7 @@ namespace Pathos
 
       Tempter = AddEntity(Kinds.demon, null, "tempter", E =>
       {
+        E.Description = "He offers you exactly what you wanted, and the price is not mentioned until afterwards.";
         E.Glyph = Glyphs.Tempter;
         E.Sonic = Sonics.sigh;
         E.Level = 14;
@@ -37201,6 +37942,7 @@ namespace Pathos
 
       al_miraj = AddEntity(Kinds.rodent, null, "almiraj", E =>
       {
+        E.Description = "A hare with a single straight horn, and no sense whatever of how small it is.";
         E.Glyph = Glyphs.Al_Mi_raj;
         E.Sonic = Sonics.squeak;
         E.Level = 4;
@@ -37249,6 +37991,7 @@ namespace Pathos
 
       Soul_Summoner = AddUniqueEntity(Kinds.human, Races.human, "Soul Summoner", E =>
       {
+        E.Description = "He spent a lifetime learning to call the dead, and now they come whether he calls them or not.";
         E.Glyph = Glyphs.Soul_Summoner;
         E.Level = 20;
         E.Challenge = 900;
@@ -37298,6 +38041,7 @@ namespace Pathos
 
       Krull = AddUniqueEntity(Kinds.vampire, null, "Krull", E =>
       {
+        E.Description = "Small, old, and patient. He has outlived every hunter who assumed that size was the point.";
         E.Glyph = Glyphs.Krull;
         E.Level = 15;
         E.Challenge = 350;
@@ -37347,6 +38091,7 @@ namespace Pathos
 
       General_Breetai = AddUniqueEntity(Kinds.military, Races.human, "General Breetai", E =>
       {
+        E.Description = "A career officer with a ruined face and a habit of winning. He has never once fought alone.";
         E.Glyph = Glyphs.General_Breetai;
         E.Level = 18;
         E.Challenge = 620;
@@ -37392,6 +38137,7 @@ namespace Pathos
 
       Gianta_Klaus = AddUniqueEntity(Kinds.giant, Races.giant, "Gianta Klaus", E =>
       {
+        E.Description = "A giant in red who arrives once a year with a sack, and whose generosity is best not put to the test.";
         E.Glyph = Glyphs.Gianta_Klaus;
         E.Sonic = Sonics.grumble;
         E.Level = 19;
@@ -37444,6 +38190,7 @@ namespace Pathos
 
       Merdude = AddUniqueEntity(Kinds.marine, null, "Merdude", E =>
       {
+        E.Description = "Something enormous came up out of the deep water, and the deep water was glad to be rid of it.";
         E.Glyph = Glyphs.Merdude;
         E.Sonic = Sonics.cackle;
         E.Level = 34;
@@ -37499,6 +38246,7 @@ namespace Pathos
 
       Nymph_Princess = AddUniqueEntity(Kinds.fairy, Races.nymph, "Nymph Princess", E =>
       {
+        E.Description = "She rules a court of nymphs and has never yet had to raise a hand to keep it.";
         E.Glyph = Glyphs.Nymph_Princess;
         E.Sonic = Sonics.sigh;
         E.Level = 22;
@@ -37558,6 +38306,7 @@ namespace Pathos
 
       drow_mage = AddEntity(Kinds.elf, Races.elf, "drow mage", E =>
       {
+        E.Description = "Drow magic is taught underground, quietly, and it is used the same way.";
         E.Glyph = Glyphs.drow_mage;
         E.Level = 12;
         E.Challenge = 260;
@@ -37610,6 +38359,7 @@ namespace Pathos
 
       drow_monk = AddEntity(Kinds.elf, Races.elf, "drow monk", E =>
       {
+        E.Description = "Bare hands, bare feet, and a discipline that took thirty years in the dark to learn.";
         E.Glyph = Glyphs.drow_monk;
         E.Level = 11;
         E.Challenge = 235;
@@ -37658,6 +38408,7 @@ namespace Pathos
 
       drow_priestess = AddEntity(Kinds.elf, Races.elf, "drow priestess", E =>
       {
+        E.Description = "She speaks for the spider goddess, and the enclave does whatever she says the goddess wants.";
         E.Glyph = Glyphs.drow_priestess;
         E.Sonic = Sonics.prayer;
         E.Level = 13;
@@ -37713,6 +38464,7 @@ namespace Pathos
 
       drow_thief = AddEntity(Kinds.elf, Races.elf, "drow thief", E =>
       {
+        E.Description = "Sees perfectly in the dark, moves perfectly in it, and is already behind you.";
         E.Glyph = Glyphs.drow_thief;
         E.Level = 9;
         E.Challenge = 195;
@@ -37761,6 +38513,7 @@ namespace Pathos
 
       seraphim = AddEntity(Kinds.angel, Races.angel, "seraphim", E =>
       {
+        E.Description = "The burning ones. They stand nearest the throne, and everything near them catches.";
         E.Glyph = Glyphs.seraphim;
         E.Sonic = Sonics.prayer;
         E.Level = 19;
@@ -37810,6 +38563,7 @@ namespace Pathos
 
       cherubim = AddEntity(Kinds.angel, Races.angel, "cherubim", E =>
       {
+        E.Description = "Not the plump children of paintings: four faces, a great many wings, and a mandate to guard.";
         E.Glyph = Glyphs.cherubim;
         E.Sonic = Sonics.prayer;
         E.Level = 14;
@@ -37861,6 +38615,7 @@ namespace Pathos
 
       galgalim = AddEntity(Kinds.angel, Races.angel, "galgalim", E =>
       {
+        E.Description = "The wheels within wheels, rimmed with eyes, turning without ever facing away.";
         E.Glyph = Glyphs.galgalim;
         E.Sonic = Sonics.prayer;
         E.Level = 16;
@@ -37911,6 +38666,7 @@ namespace Pathos
 
       eshim = AddEntity(Kinds.angel, Races.angel, "eshim", E =>
       {
+        E.Description = "The least of the host, made of fire and formed for one errand at a time.";
         E.Glyph = Glyphs.eshim;
         E.Sonic = Sonics.prayer;
         E.Level = 9;
@@ -37958,6 +38714,7 @@ namespace Pathos
 
       buraq = AddEntity(Kinds.horse, null, "buraq", E =>
       {
+        E.Description = "A winged steed with a human face, which crosses in a single stride what a horse crosses in a day.";
         E.Glyph = Glyphs.buraq;
         E.Sonic = Sonics.neigh;
         E.Level = 22;
@@ -38002,6 +38759,7 @@ namespace Pathos
 
       Byakko = AddUniqueEntity(Kinds.cat, null, "Byakko", E =>
       {
+        E.Description = "The white tiger of the west, in whose season metal is forged and old things are cut away.";
         E.Glyph = Glyphs.Byakko;
         E.Sonic = Sonics.growl;
         E.Level = 17;
@@ -38050,6 +38808,7 @@ namespace Pathos
 
       noble_elf = AddEntity(Kinds.elf, Races.elf, "noble elf", E =>
       {
+        E.Description = "Old blood, old grudges, and a sword that has been in the family longer than the family has held the land.";
         E.Glyph = Glyphs.noble_elf;
         E.Level = 15;
         E.Challenge = 380;
@@ -38095,6 +38854,7 @@ namespace Pathos
 
       archeologist = AddEntity(Kinds.mercenary, Races.human, "archeologist", E =>
       {
+        E.Description = "Digs up other people's tombs for a living, and has learned which ones to leave alone.";
         E.Glyph = Glyphs.archeologist;
         E.Level = 7;
         E.Challenge = 95;
@@ -38143,6 +38903,7 @@ namespace Pathos
 
       assassin = AddEntity(Kinds.mercenary, Races.human, "assassin", E =>
       {
+        E.Description = "You do not meet an assassin. You meet somebody else, once, and after that you meet nobody at all.";
         E.Glyph = Glyphs.assassin;
         E.Level = 16;
         E.Challenge = 340;
@@ -38197,6 +38958,7 @@ namespace Pathos
 
       berserker = AddEntity(Kinds.mercenary, Races.human, "berserker", E =>
       {
+        E.Description = "Fights without armour, without caution, and without any evident expectation of tomorrow.";
         E.Glyph = Glyphs.berserker;
         E.Level = 15;
         E.Challenge = 380;
@@ -38244,6 +39006,7 @@ namespace Pathos
 
       bishop = AddEntity(Kinds.mercenary, Races.human, "bishop", E =>
       {
+        E.Description = "He carries a mace because canon law denied him the edge, and he has never once felt the restriction.";
         E.Glyph = Glyphs.bishop;
         E.Level = 20;
         E.Challenge = 620;
@@ -38300,6 +39063,7 @@ namespace Pathos
 
       nun = AddEntity(Kinds.mercenary, Races.human, "nun", E =>
       {
+        E.Description = "Devout, unarmed by preference, and armed by necessity rather more often than her order cares to admit.";
         E.Glyph = Glyphs.nun;
         E.Level = 5;
         E.Challenge = 55;
@@ -38348,6 +39112,7 @@ namespace Pathos
       // calibrated below tracker (Level 24/Challenge 746, bow ranger), PathosEntities.cs:23923
       huntress = AddEntity(Kinds.mercenary, Races.human, "huntress", E =>
       {
+        E.Description = "She tracks for a week and shoots once.";
         E.Glyph = Glyphs.huntress;
         E.Level = 14;
         E.Challenge = 290;
@@ -38396,6 +39161,7 @@ namespace Pathos
       // calibrated well under roshi (Level 21/Challenge 586, katana + splint_mail, heavy_blade master), PathosEntities.cs:24274
       bushi = AddEntity(Kinds.mercenary, Races.human, "bushi", E =>
       {
+        E.Description = "A warrior in the service of a house, thoroughly competent with everything he has ever been handed.";
         E.Glyph = Glyphs.bushi;
         E.Level = 11;
         E.Challenge = 195;
@@ -38444,6 +39210,7 @@ namespace Pathos
       // pure open-hand niche, kept separate from roshi (Level 21/Challenge 586, weapon-and-armour warrior-monk), PathosEntities.cs:24274; well under transmuter's unarmed line (1d11/1d11/2d9 at Level 30/Challenge 1475), PathosEntities.cs:24469
       shaolin_monk = AddEntity(Kinds.mercenary, Races.human, "shaolin monk", E =>
       {
+        E.Description = "Thirty years of the same forms, every morning without exception, and now he needs no weapon at all.";
         E.Glyph = Glyphs.shaolin_monk;
         E.Level = 18;
         E.Challenge = 470;
@@ -38494,6 +39261,7 @@ namespace Pathos
       // slotted between occultist (Level 30/Challenge 1376, PathosEntities.cs:24118) and transmuter (Level 30/Challenge 1475, 9-spell grimoire, PathosEntities.cs:24469), a level lower with about half transmuter's grimoire size
       elder_wizard = AddEntity(Kinds.mercenary, Races.human, "elder wizard", E =>
       {
+        E.Description = "Old enough to have forgotten more magic than most schools teach, and to still remember the dangerous parts.";
         E.Glyph = Glyphs.elder_wizard;
         E.Level = 26;
         E.Challenge = 1050;
@@ -38547,6 +39315,7 @@ namespace Pathos
       // sits directly above apprentice (Level 7/Challenge 96, single-spell grimoire, PathosEntities.cs:23224) as its graduated counterpart. RENAMED from id/name 'wizard': 'wizard' already exists in VOCABULARY.txt as the player Class enum, so renamed to journeyman_wizard / 'journeyman wizard' to avoid the collision
       journeyman_wizard = AddEntity(Kinds.mercenary, Races.human, "journeyman wizard", E =>
       {
+        E.Description = "Past apprentice, short of master, and painfully aware of the distance between the two.";
         E.Glyph = Glyphs.wizard;
         E.Level = 12;
         E.Challenge = 220;
@@ -38598,6 +39367,7 @@ namespace Pathos
       // combat power benchmarked near attendant (Level 8/Challenge 110, PathosEntities.cs:23272), not merchant (Level 24/Challenge 666, PathosEntities.cs:16063): a shop-tier crafter with merchant's SetSkill(proficient)/SetGreed pattern but none of merchant's guard-summon or retaliation attack
       alchemist = AddEntity(Kinds.mercenary, Races.human, "alchemist", E =>
       {
+        E.Description = "Mixes what should not be mixed and takes careful notes, on the occasions when he survives to write them.";
         E.Glyph = Glyphs.male_alchemist;
         E.Level = 10;
         E.Challenge = 160;
@@ -38647,6 +39417,7 @@ namespace Pathos
 
       poison_alchemist = AddEntity(Kinds.mercenary, Races.human, "poison alchemist", E =>
       {
+        E.Description = "He gave up on cures some years ago. The other trade paid better and asked far fewer questions.";
         E.Glyph = Glyphs.female_alchemist;
         E.Level = 13;
         E.Challenge = 250;
@@ -38698,6 +39469,7 @@ namespace Pathos
 
       savage_brute = AddEntity(Kinds.mercenary, Races.human, "savage brute", E =>
       {
+        E.Description = "Enormous, unarmoured, and entirely uninterested in the finer points of anything.";
         E.Glyph = Glyphs.male_savage;
         E.Level = 16;
         E.Challenge = 400;
@@ -38745,6 +39517,7 @@ namespace Pathos
 
       savage_stalker = AddEntity(Kinds.mercenary, Races.human, "savage stalker", E =>
       {
+        E.Description = "Follows for miles without making a sound, and then picks the moment.";
         E.Glyph = Glyphs.female_savage;
         E.Level = 14;
         E.Challenge = 300;
@@ -38794,6 +39567,7 @@ namespace Pathos
 
       thief = AddEntity(Kinds.mercenary, Races.human, "thief", E =>
       {
+        E.Description = "He wants your purse rather than your life, and will take the second only if you insist on it.";
         E.Glyph = Glyphs.thief;
         E.Level = 8;
         E.Challenge = 110;
@@ -38844,6 +39618,7 @@ namespace Pathos
 
       trader = AddEntity(Kinds.mercenary, Races.human, "trader", E =>
       {
+        E.Description = "Everything has a price, and he will find yours before you have finished speaking.";
         E.Glyph = Glyphs.trader;
         E.Level = 9;
         E.Challenge = 140;
@@ -38890,6 +39665,7 @@ namespace Pathos
 
       traveller = AddEntity(Kinds.mercenary, Races.human, "traveller", E =>
       {
+        E.Description = "Walks the roads between towns carrying everything he owns and a very good stick.";
         E.Glyph = Glyphs.traveller;
         E.Level = 10;
         E.Challenge = 165;
@@ -38936,6 +39712,7 @@ namespace Pathos
 
       temptress = AddEntity(Kinds.mercenary, Races.human, "temptress", E =>
       {
+        E.Description = "She is friendly, and she is interested in you, and neither of those things is true.";
         E.Glyph = Glyphs.temptress;
         E.Sonic = Sonics.sigh;
         E.Level = 11;
@@ -38988,6 +39765,7 @@ namespace Pathos
 
       hag = AddEntity(Kinds.mercenary, Races.human, "hag", E =>
       {
+        E.Description = "Old, bent, and owed favours by things that ought not to be in a position to owe favours.";
         E.Glyph = Glyphs.hag;
         E.Sonic = Sonics.cackle;
         E.Level = 17;
@@ -39044,6 +39822,7 @@ namespace Pathos
 
       pheral_khit = AddEntity(Kinds.cat, null, "pheral khit", E =>
       {
+        E.Description = "The young of the pheral: all claws, and no patience whatever.";
         E.Glyph = Glyphs.pheral_khit;
         E.Sonic = Sonics.meow;
         E.Level = 8;
@@ -39092,6 +39871,7 @@ namespace Pathos
 
       pheral_sentinel = AddEntity(Kinds.cat, null, "pheral sentinel", E =>
       {
+        E.Description = "Stands at the door of the tomb with a blade in either hand, and has been standing there a very long time.";
         E.Glyph = Glyphs.pheral_sentinel;
         E.Sonic = Sonics.growl;
         E.Level = 13;
@@ -39140,6 +39920,7 @@ namespace Pathos
 
       pheral_vizier = AddEntity(Kinds.cat, null, "pheral vizier", E =>
       {
+        E.Description = "He does not fight. He arranges matters so that the fighting has already been decided.";
         E.Glyph = Glyphs.pheral_vizier;
         E.Sonic = Sonics.chant;
         E.Level = 15;
@@ -39192,6 +39973,7 @@ namespace Pathos
 
       pheral_pharaoh = AddEntity(Kinds.cat, null, "pheral pharaoh", E =>
       {
+        E.Description = "Wrapped, crowned, and extremely displeased to have been woken.";
         E.Glyph = Glyphs.pheral_pharaoh;
         E.Sonic = Sonics.roar;
         E.Level = 26;
@@ -41227,6 +42009,22 @@ namespace Pathos
 #endif
 
     // >>> GENERATED ENTITIES-FIELDS >>>
+    public readonly Entity baby_grey_dragon;
+    public readonly Entity young_grey_dragon;
+    public readonly Entity adult_grey_dragon;
+    public readonly Entity ancient_grey_dragon;
+    public readonly Entity baby_astral_dragon;
+    public readonly Entity young_astral_dragon;
+    public readonly Entity adult_astral_dragon;
+    public readonly Entity ancient_astral_dragon;
+    public readonly Entity baby_fae_dragon;
+    public readonly Entity young_fae_dragon;
+    public readonly Entity adult_fae_dragon;
+    public readonly Entity ancient_fae_dragon;
+    public readonly Entity baby_mystical_dragon;
+    public readonly Entity young_mystical_dragon;
+    public readonly Entity adult_mystical_dragon;
+    public readonly Entity ancient_mystical_dragon;
     public readonly Entity army_soldier;
     public readonly Entity army_sergeant;
     public readonly Entity army_lieutenant;
@@ -41238,9 +42036,6 @@ namespace Pathos
     public readonly Entity lizardman_samurai;
     public readonly Entity orc_thief;
     public readonly Entity runicorn;
-    public readonly Entity astral_dragon;
-    public readonly Entity fae_dragon;
-    public readonly Entity mystical_dragon;
     public readonly Entity blink_dog;
     public readonly Entity blink_puppy;
     public readonly Entity astral_dog;

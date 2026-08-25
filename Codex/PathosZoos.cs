@@ -455,18 +455,18 @@ namespace Pathos
         Z.AddSpawn(Chance.OneIn10, Dice.One, [Entities.giant_mimic]); // rare apex mimic, matches large_mimic/giant_mimic's own Frequency=1.
       });
 
-      // Calibrated against mystical_dragon (Level 26, Difficulty 29), the toughest of the three, with
-      // fae_dragon (Difficulty 18) as the guaranteed "lesser" resident - same one-guaranteed/two-rare
-      // shape as dragon_nest, one tier below it. mystical_dragon's own description says it "hoards
+      // Calibrated against adult_mystical_dragon (Level 26, Difficulty 29), the toughest of the three, with
+      // adult_fae_dragon (Difficulty 18) as the guaranteed "lesser" resident - same one-guaranteed/two-rare
+      // shape as dragon_nest, one tier below it. adult_mystical_dragon's own description says it "hoards
       // grimoires as jealously as gold", so the loot loops every non-unique book like science_lab loops
-      // eyewear; fae_dragon's fey hoard gets the decorative rose_* weapons. Rarity 2, matching
+      // eyewear; adult_fae_dragon's fey hoard gets the decorative rose_* weapons. Rarity 2, matching
       // dragon_nest rather than going rarer, since dragon_nest already sets the precedent for a
       // top-difficulty zoo at the series' normal rarity.
       dragon_rookery = AddZoo("dragon rookery", Sonics.roar, Z =>
       {
         var GrimoireArray = Items.List.Where(I => I.Type == ItemType.Book && !I.Grade.Unique).ToArray();
 
-        Z.Difficulty = Entities.mystical_dragon.Difficulty + 1;
+        Z.Difficulty = Entities.adult_mystical_dragon.Difficulty + 1;
         Z.Rarity = 2;
         Z.Ground = Grounds.obsidian_floor;
         Z.Loot.AddKit(Chance.ThreeIn4, Dice.Zero, Items.gold_coin);
@@ -477,8 +477,8 @@ namespace Pathos
         Z.Loot.AddKit(Chance.OneIn60, Dice.One, Items.rose_rapier); // the fae dragon's own trinket hoard.
         foreach (var Item in GrimoireArray)
           Z.Loot.AddKit(Chance.OneIn(40 * GrimoireArray.Length), Dice.One, Item); // the mystical dragon "hoards grimoires as jealously as gold".
-        Z.AddSpawn(Chance.Always, Dice.One, [Entities.fae_dragon]);
-        Z.AddSpawn(Chance.OneIn3, Count: null, [Entities.astral_dragon, Entities.mystical_dragon]);
+        Z.AddSpawn(Chance.Always, Dice.One, [Entities.adult_fae_dragon]);
+        Z.AddSpawn(Chance.OneIn3, Count: null, [Entities.adult_astral_dragon, Entities.adult_mystical_dragon]);
       });
       // <<< GENERATED ZOOS <<<
     }

@@ -136,7 +136,6 @@ AppearanceName,cloudy potion,trüber Trank
 AppearanceName,coarse mantelet,grober Mantel
 AppearanceName,cobalt book,
 AppearanceName,cobblestone book,
-AppearanceName,coiled gun,
 AppearanceName,colourful book,buntes Buch
 AppearanceName,combat boots,Kampfstiefel
 AppearanceName,compact gun,Kompakte Pistole
@@ -381,7 +380,6 @@ AppearanceName,plain ring,einfacher Ring
 AppearanceName,plain robe,einfache Robe
 AppearanceName,plastic slug,Plastikkugel
 AppearanceName,plastic stick,Plastikstab
-AppearanceName,plastic wand,
 AppearanceName,platinum wand,Zauberstab aus Platin
 AppearanceName,plumed helmet,Federhelm
 AppearanceName,pocked book,
@@ -538,8 +536,6 @@ AppearanceName,tiny book,winziges Buch
 AppearanceName,topaz book,
 AppearanceName,topaz ring,Topasring
 AppearanceName,torn book,zerrissenes Buch
-AppearanceName,toy bat,
-AppearanceName,toy hammer,
 AppearanceName,toy sword,Spielzeugschwert
 AppearanceName,triangular amulet,dreieckiges Amulett
 AppearanceName,turquoise book,türkisfarbenes Buch
@@ -1307,30 +1303,42 @@ EngulfmentName,engulfed,umhüllt
 EngulfmentName,swallowed,verschluckt
 EntityDescription,"A blink dog pup, already able to flicker away from danger before it lands a bite.",
 EntityDescription,A bulbous fungus that bursts into a hissing cloud of acid when disturbed.,
+EntityDescription,A career officer with a ruined face and a habit of winning. He has never once fought alone.,
 EntityDescription,"A cave bear whose pelt has gone grey as cinders, hardened by years sheltered in a live volcano's roots.",
 EntityDescription,"A cave spider drained of all colour by lightless generations, hunting by web-thrum alone.",
 EntityDescription,"A cobra pale as hoarfrost, coiled in the ice caves where warm-blooded prey seeks shelter.",
 EntityDescription,"A coyote with a static-charged coat, drawn down from the high plains after a lightning storm.",
 EntityDescription,"A dead tree animated by rot and old malice, its bark split open where a jaw shouldn't be.",
-EntityDescription,"A dragon steeped in high magic, said to hoard grimoires as jealously as gold.",
-EntityDescription,A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.,
 EntityDescription,A dwarf of a mountain clan so far north the forge-fires burn blue; one of its twin mattocks bites like the wind off the peak.,
 EntityDescription,A fey hound that flickers between here and elsewhere; it fights alongside anyone it trusts.,
 EntityDescription,"A giant bat with clouded, sightless eyes, navigating wholly by the shriek of its own echo.",
 EntityDescription,"A giant beetle with a carapace of blue-white chitin, breath steaming with cold in the deep dark.",
 EntityDescription,"A giant caked grey with volcanic ash, walking down from a smoking peak with a club still smoking at the tip.",
+EntityDescription,"A giant in red who arrives once a year with a sack, and whose generosity is best not put to the test.",
 EntityDescription,"A giant of the high glaciers, sheathed in rime; its breath alone can flash-freeze a puddle solid.",
 EntityDescription,"A gila monster whose beaded hide glows dull orange along the seams, as if lit from beneath.",
 EntityDescription,"A gnome who never left the deep tunnels, pale and stooped, at ease chewing through rock with a pickaxe.",
 EntityDescription,"A golem cast from bronze rather than raw iron; where its cousin only staggers under a lightning strike, this one drinks the current and spits it back.",
+EntityDescription,"A grey hatchling, already contemptuous of magic and of you.",
+EntityDescription,"A halfling from before halflings had villages, clubbing at the world with whatever came to hand.",
+EntityDescription,"A hare with a single straight horn, and no sense whatever of how small it is.",
+EntityDescription,"A hatchling out of the fey courts: bright-eyed, quick, and already lying to you.",
+EntityDescription,A hatchling that has already learned one word it should not know.,
+EntityDescription,"A hatchling that keeps half-vanishing while you look at it, and has not yet worked out how to stop.",
 EntityDescription,"A hound of the Astral plane, half-seen even when it stands still; it does not breathe or bleed.",
+EntityDescription,"A hovering bead of acid, small enough to ignore and stupid enough to close the distance anyway.",
+EntityDescription,A hovering note that will not stop rising.,
+EntityDescription,"A humanoid automaton, articulated at every joint, still carrying out whatever it was last told to do.",
 EntityDescription,"A jackal wasted by sickness, its ribs showing through a mangy hide; its bite festers.",
 EntityDescription,A jelly black as a starless sky; things it touches for too long forget how alive they were.,
 EntityDescription,A jelly that glows faintly like a coal; fire only makes it swell larger and angrier.,
 EntityDescription,A jelly that reeks of rot; it dissolves flesh and gear alike to feed itself.,
 EntityDescription,"A jelly the colour of a bruise, faintly crackling; touching it feels like brushing a doorknob after crossing a carpet in winter.",
 EntityDescription,"A jelly the colour of glacier ice, cold to the touch and colder still if it touches back.",
+EntityDescription,"A junior officer with a commission bought or earned, leading from the front because that is where he is watched.",
+EntityDescription,"A knot of turning air about the size of a head. It has no face, and it follows you regardless.",
 EntityDescription,"A kobold camouflaged in mottled green, more comfortable in the canopy than underground; it spits venom from a hollow reed.",
+EntityDescription,A lizardman who took up a foreign discipline and mastered it. His two blades move faster than his bulk suggests they can.,
 EntityDescription,"A long worm that burrows through permafrost, its segmented hide crusted with rime.",
 EntityDescription,"A lynx with a rime-white winter coat, breath fogging even in a warm room.",
 EntityDescription,A medium-sized creature prone to great ambition. Short-lived but ubiquitous; they are not to be underestimated.,Eine mittelgroße Kreatur die zu großen Ambitionen neigt. Mit einer kurzen Lebensdauer aber allgegenwärtig; Sie sollte nicht unterschätzt werden.
@@ -1345,12 +1353,19 @@ EntityDescription,A shambling corpse wrapped in weeping buboes; the sickness tha
 EntityDescription,"A shark bred to lightless ocean trenches, its eyes filmed over and useless.",
 EntityDescription,"A skeleton picked clean by something worse than time; its bones are black at the joints, and its touch draws the warmth out of the living.",
 EntityDescription,A small heap of coins that isn't quite finished counting itself.,
-EntityDescription,"A small, quick-witted dragon out of the fey courts, more prankster than predator.",
+EntityDescription,"A soldier of the host: armed, armoured, and entirely without doubt.",
+EntityDescription,A sphere with a short temper and a shorter future.,
 EntityDescription,"A spitting beetle whose glands have gone volcanic, hawking gobbets of burning pitch.",
 EntityDescription,"A standing wave of brackish swamp water, thick with algae and old poison; nothing in it is fresh, and nothing about touching it is safe.",
+EntityDescription,"A standing wave, loud enough to be solid. You feel it in your teeth before you see it.",
 EntityDescription,"A troll that wandered too near a volcano and came out the other side wrong: its hide is cracked magma-rock, glowing at every seam.",
+EntityDescription,"A turning column of wind: enormous, empty, and impossible to hit anywhere that counts.",
+EntityDescription,A unicorn whose hide is scored with runes that no hand cut. Magic slides off it and comes back sharpened.,
+EntityDescription,"A walking pool of acid, held in the shape of a body by something with an appetite.",
+EntityDescription,"A warrior in the service of a house, thoroughly competent with everything he has ever been handed.",
 EntityDescription,"A water moccasin gone jet black, all but invisible against a night-flooded cave pool.",
 EntityDescription,"A weathered chest, until its lid splits open into a maw ringed with teeth.",
+EntityDescription,"A winged steed with a human face, which crosses in a single stride what a horse crosses in a day.",
 EntityDescription,"A young astral dog, still learning to keep all four paws on the material plane at once.",
 EntityDescription,"A young mimic, its shapeshifting still crude — usually just a box that bites back.",
 EntityDescription,"Amorphous beings who have no typical shape but often take on a translucent humanoid form. While unmistakable for anything other than a plasma-like ooze, this form enables the use of clothing and tools.","Unformige Wesen ohne eigene Gestalt, die gern eine menschliche Statur annehmen. Obwohl offensichtlich als durchsichtiger, plasmaartiger Schleim erkennbar, ermöglicht diese Form das Verwenden von Kleidern und Werkzeugen."
@@ -1360,29 +1375,95 @@ EntityDescription,"An elf of the sunlit dunes, skin bronzed and eyes narrowed; i
 EntityDescription,"An ogre gone half-feral in the fens, its skin sallow and slick; its claws carry a rot no wound-dressing can clean.",
 EntityDescription,An orc mummy exhumed from a barrow sealed under a cinder-field; its wrappings are charred and its grip sears whatever it holds.,
 EntityDescription,"An orc that has made its home in the marshlands, its blade notched and slicked with venom drawn from swamp adders.",
+EntityDescription,An orc who worked out that pockets are a good deal easier to open than skulls.,
 EntityDescription,"Astral beings who are a vessel for the indomitable spirit of a vanquished adventurer. Having no motivations of their own, they are glad to permit the possession; for the deceased adventurer, it is a second chance at revenge or redemption. Born from astral matter, they are slightly built, translucent and can move freely through physical obstacles.","Astralwesen, die ein Gefäß für den unbezwingbaren Geist eines besiegten Abenteurers sind. Sie haben keine eigenen Motivationen und sind froh, den Besitz zuzulassen. Für den verstorbenen Abenteurer ist es eine zweite Chance auf Rache oder Erlösung. Geboren aus astraler Materie, sind sie leicht gebaut, durchscheinend und können sich frei durch physische Hindernisse bewegen."
+EntityDescription,"Bare hands, bare feet, and a discipline that took thirty years in the dark to learn.",
+EntityDescription,Beaten out of scrap tin by an apprentice who wanted to prove a point. It rattles as it walks.,
 EntityDescription,"Beautiful, otherworldly beings characterised by their signature halo and feathered wings. Strongly attuned to the struggle between good and evil, they sense the divinity within anything they hold.","Schöne jenseitige Wesen, die sich durch ihren charakteristischen Heiligenschein und ihre gefiederten Flügel auszeichnen. Sie sind stark auf den Kampf zwischen Gut und Böse eingestellt und spüren die Göttlichkeit in allem was sie tun."
 EntityDescription,Beware this clockwork machine of war.,Vorsicht vor dieser aufziehbaren Kriegsmaschine.
 EntityDescription,Bipedal mechanical automatons with nearly unbounded artificial intelligence. Powered by a molten core engine that requires a constant supply of raw metals and is susceptible to water damage.,
+EntityDescription,"Cast in silver at ruinous expense, and worth it: nothing rots it, nothing charms it, and it never tires.",
+EntityDescription,"Centuries of study, and a library underneath it that no scholar will ever be allowed to see.",
+EntityDescription,"Devout, unarmed by preference, and armed by necessity rather more often than her order cares to admit.",
+EntityDescription,"Digs up other people's tombs for a living, and has learned which ones to leave alone.",
+EntityDescription,"Drow magic is taught underground, quietly, and it is used the same way.",
+EntityDescription,"Enormous, unarmoured, and entirely uninterested in the finer points of anything.",
+EntityDescription,"Everything has a price, and he will find yours before you have finished speaking.",
+EntityDescription,"Everything that is left when a fire has finished, and still hot enough for it to matter.",
 EntityDescription,"Fey creatures linked by powerful nature spirits to fuel their antics. They are stocky with furry lower bodies, cloven hooves of a goat and curled horns of a ram. Ribald and clever, they cheerfully lead hedonistic escapades of drinking, dancing and fighting.","Feenwesen, die durch mächtige Naturgeister gebunden sind, die sie zu Streichen anstiften. Sie sind stämmig mit dem haarigen Unterkörper, den gespaltenen Hufen einer Ziege und den spiralförmigen Hörnern eines Widders. Lachend und intelligent führen sie glücklich hedonistische Eskapaden, bei denen sie trinken, tanzen und kämpfen ."
+EntityDescription,"Fights without armour, without caution, and without any evident expectation of tomorrow.",
+EntityDescription,"Follows for miles without making a sound, and then picks the moment.",
+EntityDescription,"He carries a mace because canon law denied him the edge, and he has never once felt the restriction.",
+EntityDescription,He does not fight. He arranges matters so that the fighting has already been decided.,
+EntityDescription,He gave up on cures some years ago. The other trade paid better and asked far fewer questions.,
+EntityDescription,"He has fought campaigns you have only heard rumours of, and he expects the men behind him to keep up.",
+EntityDescription,"He offers you exactly what you wanted, and the price is not mentioned until afterwards.",
+EntityDescription,"He spent a lifetime learning to call the dead, and now they come whether he calls them or not.",
+EntityDescription,"He wants your purse rather than your life, and will take the second only if you insist on it.",
 EntityDescription,"Imposing and heavily built, they resemble humanoid dragons with a snout, scaly hide and functional wings.",
+EntityDescription,"It drifts in and out of the here and now, and its breath arrives from somewhere that is not quite the room.",
+EntityDescription,It has been playing the same joke for eight hundred years and has not yet reached the end of it.,
+EntityDescription,It has spent so long between the planes that it is only visiting this one. Distance means nothing to it.,
+EntityDescription,"It hoards grimoires the way other dragons hoard gold, and it has read them.",
+EntityDescription,"It is holding itself together, and it is not going to manage that for very much longer.",
+EntityDescription,It keeps the courtesies of the fey courts exactly as far as they amuse it.,
+EntityDescription,"It sings the same three phrases in a voice that used to belong to somebody, and it will not be interrupted.",
 EntityDescription,"It waits among the headstones shaped like one more grave marker, patient as the dead around it.",
+EntityDescription,"It was built to stand in one place and stop things, and it is still doing exactly that long after the builders left.",
+EntityDescription,Its scales drink spells the way sand drinks water. Wizards have learned to leave grey dragons alone.,
 EntityDescription,"Large, omnivorous reptilians whose bestial ancestors dominated the world long before the birth of civilisation. They are fearsome predators, capable of leaping impressive distances and warding off many attacks with their thick scaly hides.","Große, fleischfressende Reptilien, deren bestialische Vorfahren die Welt lange vor der Geburt der Zivilisation beherrschten. Sie sind furchterregende Raubtiere, die in der Lage sind, beeindruckende Entfernungen zu springen und mit ihren dicken schuppigen Häuten viele Angriffe abzuwehren."
+EntityDescription,"Mixes what should not be mixed and takes careful notes, on the occasions when he survives to write them.",
 EntityDescription,Monstrous creatures with the head and tail of a bull and the body of a man.,
+EntityDescription,"More prankster than predator, which is not the same as harmless.",
+EntityDescription,"Not the plump children of paintings: four faces, a great many wings, and a mandate to guard.",
+EntityDescription,"Nothing cast at a grey dragon has ever much troubled it, and it knows this better than you do.",
+EntityDescription,"Old blood, old grudges, and a sword that has been in the family longer than the family has held the land.",
+EntityDescription,"Old enough that magic simply stops happening near it. Whatever it was once, it is now a hole in the weave.",
+EntityDescription,"Old enough to have forgotten more magic than most schools teach, and to still remember the dangerous parts.",
+EntityDescription,"Old, bent, and owed favours by things that ought not to be in a position to owe favours.",
+EntityDescription,"Past apprentice, short of master, and painfully aware of the distance between the two.",
 EntityDescription,"Perverse creatures of many aberrations but always with crimson skin and horns. Their mere presence compels others to act out their darkest, most violent desires.",Perverse Kreaturen mit vielen Aberrationen aber immer mit purpurroter Haut und Hörnern. Ihre bloße Anwesenheit zwingt andere ihre dunkelsten und gewalttätigsten Wünsche zu erfüllen.
+EntityDescription,"Rank-and-file infantry, drilled to hold a line with a spear and a shield, and to break it for nobody.",
 EntityDescription,"Ravenous, predatory species of monstrous humanoid with a severe hunch that causes the backs of their hands to drag on the ground. Despite the awkward physical appearance, they are powerfully built and are infamous for their ability to rapidly recover from any wound to their rubbery hide.","Gefräßige, räuberische Arten von riesigen Humanoiden mit einem großen Buckel, der dazu führt, dass der Handrücken auf dem Boden schleift. Trotz des unangenehmen Aussehens sind sie kraftvoll gebaut und berüchtigt für ihre Fähigkeit sich schnell von jeder Wunde an ihrer gummiartigen Haut zu erholen."
+EntityDescription,Raw current given legs. The air around it tastes of a storm that has not arrived yet.,
+EntityDescription,Scales like the silver void between the planes. It steps out of the world when it is losing.,
+EntityDescription,"Sees perfectly in the dark, moves perfectly in it, and is already behind you.",
 EntityDescription,"Shape-shifting deviants, who thrive on their deceptive talents.",Formverändernde Wesen die von ihren trügerischen Talenten leben.
+EntityDescription,"She is friendly, and she is interested in you, and neither of those things is true.",
+EntityDescription,She rules a court of nymphs and has never yet had to raise a hand to keep it.,
+EntityDescription,"She speaks for the spider goddess, and the enclave does whatever she says the goddess wants.",
+EntityDescription,She tracks for a week and shoots once.,
+EntityDescription,"She was beautiful once, in the way a knife is beautiful, and the resemblance has not altogether faded.",
 EntityDescription,Small folk who prefer simple lives. They are notably gregarious and their build lends them well to less-than-noble endeavours.,Kleine Leute die ein einfaches Leben bevorzugen. Sie sind besonders gesellig und ihr Körperbau eignet sich gut für weniger edle Unternehmungen.
+EntityDescription,"Small, old, and patient. He has outlived every hunter who assumed that size was the point.",
+EntityDescription,"Small, wary, and quicker with a thrown rock than anyone her size has any right to be.",
+EntityDescription,"Somebody built a machine, somebody else turned it, and a third party handed it a pistol. All three came to regret their part.",
+EntityDescription,"Something enormous came up out of the deep water, and the deep water was glad to be rid of it.",
 EntityDescription,"Spiritual beings fond of nature and magic. They are physically similar to humans, but often smaller and nimbler.","Spirituelle Wesen die Natur und Magie lieben. Sie sind dem Menschen physisch ähnlich, aber oft kleiner und flinker."
+EntityDescription,"Stands at the door of the tomb with a blade in either hand, and has been standing there a very long time.",
+EntityDescription,"Steeped in high magic, and quite capable of being something else by the time you swing.",
 EntityDescription,"Stout, short and hardy folk. They are known for their stubbornness, metalworking and love of alcohol.","Starke, kleine und robuste Leute. Sie sind bekannt für ihre Sturheit, Metallverarbeitung und Liebe zum Alkohol."
 EntityDescription,"Subterranean peoples of diminutive stature, fond of tinkering and magic. Evolved for subsistence living, their metabolism is suited for long adventures where food is scarce.","Unterirdische Völker von kleiner Statur, die gerne basteln und zaubern. Ihr Stoffwechsel wurde für dieses Dasein entwickelt und eignet sich für lange Abenteuer, in denen Nahrung knapp ist."
+EntityDescription,"The burning ones. They stand nearest the throne, and everything near them catches.",
+EntityDescription,"The first rank of the air school, who has learned to feel the wind before it moves.",
+EntityDescription,"The highest rank of the air school. Where she is standing, the weather is a matter of her preference.",
+EntityDescription,"The least of the host, made of fire and formed for one errand at a time.",
 EntityDescription,"The lesser of the two ferrozygotic puddings, the brown pudding is said to taste more akin to rotted milk than a chocolate dessert. The pudding itself feeds upon fabrics and hides of all kind but its most known ability is its unique reproductive method. When brought into contact with iron the miracle of rotten slime binary fission takes place, creating two voracious offspring. Owing to the ubiquity of iron in the arms wielded by adventurers, this creature's population has only been growing with time.","Der braune Pudding, der kleinere der beiden ferrozygotischen Puddings, soll eher nach verfaulter Milch schmecken als ein Schokoladendessert. Der Pudding selbst ernährt sich von Stoffen und Häuten aller Art, aber seine bekannteste Fähigkeit ist seine einzigartige Fortpflanzungsmethode. Wenn es mit Eisen in Kontakt gebracht wird, geschieht das Wunder der binären Spaltung des faulen Schleims, wodurch zwei unersättliche Nachkommen entstehen. Aufgrund der Allgegenwart von Eisen in den Armen, die von Abenteurern getragen werden, ist die Population dieser Kreatur erst mit der Zeit gewachsen."
+EntityDescription,"The one who taught the soldiers their drill, and who fights rather better than any of them.",
+EntityDescription,"The second rank, who no longer asks the wind for anything but simply takes it.",
+EntityDescription,"The wheels within wheels, rimmed with eyes, turning without ever facing away.",
+EntityDescription,"The white tiger of the west, in whose season metal is forged and old things are cut away.",
+EntityDescription,"The young of the pheral: all claws, and no patience whatever.",
+EntityDescription,"Thirty years of the same forms, every morning without exception, and now he needs no weapon at all.",
 EntityDescription,"This mummy confection was created by steeping a human cadaver in honey. Somehow reanimated by an obscure cult of monks, it is both deadly and delicious.","Dieser Mumienkonfekt wurde hergestellt, indem man einen Leichnam in Honig badete. Aus irgendeinem Grund hat ein sonderbarer Mönchskult daraus eine tödliche Leckerei beschworen."
 EntityDescription,This strange living bubble of corrosive fluids doesn't appear to have any offensive capabilities.,Diese seltsame lebende Blase aus ätzenden Flüssigkeiten scheint keine offensiven Fähigkeiten zu haben.
 EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily beautiful. When threatened, they can escape through distortions in spatial reality.",Winzige geflügelte Geister von Natur aus magisch und außergewöhnlich schön. Wenn sie bedroht sind können sie durch Verzerrungen in der räumlichen Realität entkommen.
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.","Schildkrötenartige, nomadische Überlebenskünstler. Sobald sie laufen können, ziehen sie von ihrer Geburtsstätte los, um die Welt mit ihrer sicheren Behausung auf dem Rücken zu entdecken."
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.","Hässliche, brutale Kreaturen mit kannibalistischen Tendenzen. Diese kriegerische Rasse ist bekannt für ihre beeindruckende Stärke und intellektuelle Unfähigkeit."
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.","Unfairerweise als schwach und feige charakterisiert, wachsen diese Reptiloiden mit List und Tücke über ihre physischen Grenzen hinaus."
+EntityDescription,Walks the roads between towns carrying everything he owns and a very good stick.,
+EntityDescription,"Wrapped, crowned, and extremely displeased to have been woken.",
+EntityDescription,"You do not meet an assassin. You meet somebody else, once, and after that you meet nobody at all.",
 EntityName,abbot,Abt
 EntityName,abyssal shark,
 EntityName,acid blob,Säureblob
@@ -1392,11 +1473,15 @@ EntityName,acid spore,
 EntityName,acid worm,Säurewurm
 EntityName,acolyte,Akolyth
 EntityName,adamantine golem,Adamant-Golem
+EntityName,adult astral dragon,
 EntityName,adult black dragon,ausgewachsener schwarzer Drache
 EntityName,adult blue dragon,ausgewachsener blauer Drache
 EntityName,adult deep dragon,ausgewachsener tiefer Drache
+EntityName,adult fae dragon,
 EntityName,adult gold dragon,ausgewachsener goldener Drache
 EntityName,adult green dragon,ausgewachsener grüner Drache
+EntityName,adult grey dragon,
+EntityName,adult mystical dragon,
 EntityName,adult orange dragon,ausgewachsener oranger Drache
 EntityName,adult raven,ausgewachsener Rabe
 EntityName,adult red dragon,ausgewachsener roter Drache
@@ -1413,11 +1498,15 @@ EntityName,albino rat,
 EntityName,alchemist,
 EntityName,Aleax,Aleax
 EntityName,almiraj,
+EntityName,ancient astral dragon,
 EntityName,ancient black dragon,antiker schwarzer Drache
 EntityName,ancient blue dragon,antiker blauer Drache
 EntityName,ancient deep dragon,antiker tiefer Drache
+EntityName,ancient fae dragon,
 EntityName,ancient gold dragon,antiker goldener Drache
 EntityName,ancient green dragon,antiker grüner Drache
+EntityName,ancient grey dragon,
+EntityName,ancient mystical dragon,
 EntityName,ancient orange dragon,anktiker oranger Drache
 EntityName,ancient red dragon,antiker roter Drache
 EntityName,ancient shimmering dragon,anktiker glänzender Drache
@@ -1455,20 +1544,23 @@ EntityName,assassin bug,Attentäterkäfer
 EntityName,Assassin Mortimer,Mortimer der Attentäter
 EntityName,astral deva,Astraler Deva
 EntityName,astral dog,
-EntityName,astral dragon,
 EntityName,astral puppy,
 EntityName,athol,Athol
 EntityName,attendant,Wärter
 EntityName,Baalzebub,Beelzebub
 EntityName,babau,Babau
+EntityName,baby astral dragon,
 EntityName,baby black dragon,schwarzer Drachenwelpe
 EntityName,baby blue dragon,blauer Drachenwelpe
 EntityName,baby crocodile,Baby-Krokodil
 EntityName,baby deep dragon,tiefer Drachenwelpe
+EntityName,baby fae dragon,
 EntityName,baby gold dragon,goldener Drachenwelpe
 EntityName,baby green dragon,grüner Drachenwelpe
+EntityName,baby grey dragon,
 EntityName,baby long worm,Baby-Langwurm
 EntityName,baby mimic,
+EntityName,baby mystical dragon,
 EntityName,baby orange dragon,oranger Drachenwelpe
 EntityName,baby purple worm,Baby-Purpurwurm
 EntityName,baby red dragon,roter Drachenwelpe
@@ -1640,7 +1732,6 @@ EntityName,ettin zombie,Ettinzombie
 EntityName,explosive elemental,
 EntityName,explosive sphere,
 EntityName,exterminator,Kammerjäger
-EntityName,fae dragon,
 EntityName,fairy,Fee
 EntityName,Famine,Hungersnot
 EntityName,Father Dagon,Pater Dagon
@@ -1912,7 +2003,6 @@ EntityName,mountain nymph,Bergnymphe
 EntityName,movanic deva,Movanischer Deva
 EntityName,mugger,Straßenräuber
 EntityName,mumak,Mumak
-EntityName,mystical dragon,
 EntityName,nabassu,Nabassu
 EntityName,nalfeshnee,Nalfeshnee
 EntityName,Nalzok,Nalzok
@@ -2186,11 +2276,15 @@ EntityName,yellow mould,gelber Schimmel
 EntityName,yeoman,Gardist
 EntityName,yeoman warder,Anwärter der Garde
 EntityName,yeti,Yeti
+EntityName,young astral dragon,
 EntityName,young black dragon,junger schwartzer Drache
 EntityName,young blue dragon,junger blaue Drache
 EntityName,young deep dragon,junger tiefer Drache
+EntityName,young fae dragon,
 EntityName,young gold dragon,junger goldener Drache
 EntityName,young green dragon,junger grüner Drache
+EntityName,young grey dragon,
+EntityName,young mystical dragon,
 EntityName,young orange dragon,junger organger Drache
 EntityName,young red dragon,junger roter Drache
 EntityName,young shimmering dragon,junger schimmernder Drache
@@ -2241,10 +2335,8 @@ FeatureName,grave,Grab
 FeatureName,pentagram,Pentagram
 FeatureName,pyramid,
 FeatureName,sarcophagus,Sarkophag
-FeatureName,sink,
 FeatureName,stall,Stall
 FeatureName,throne,Thron
-FeatureName,toilet,
 FeatureName,wooden sign,
 FeatureName,wooden stool,
 FeatureName,wooden table,
@@ -2636,10 +2728,13 @@ HordeName,yeoman,Garde
 HordeName,zombie,Zombie
 ItemDescription,"A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.",
 ItemDescription,"A barbed iron hook on a long coil of rope, thrown out and hauled back in.",
+ItemDescription,"A battleaxe of rose gold, enormous and impractical, carried by someone with more household than sense.",
 ItemDescription,"A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.",
+ItemDescription,"A bolt with an adamantine head, made to open the armour that other bolts merely dent.",
 ItemDescription,"A branched silver candle-holder, its every arm lit at once.",
 ItemDescription,"A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.",
 ItemDescription,"A canvas roll of bandages, salves and sutures for treating wounds in the field.",
+ItemDescription,"A cavalry sabre in rose gold: curved, gleaming, and never once blooded.",
 ItemDescription,"A ceremonial double-bitted axe, its twin blades curved like a crescent moon.",
 ItemDescription,"A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.",
 ItemDescription,"A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.",
@@ -2652,18 +2747,22 @@ ItemDescription,"A curved single-edged blade mounted on a long oaken shaft, priz
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.","Eine gebogene einschneidige Klinge, die häufig von der Kavallerie verwendet wird und besonders effektiv gegen Kreaturen der Unterwelt ist."
 ItemDescription,A curved single-edged blade often used by cavalry.,"Eine einschneidige, gebogene Klinge, die gern von der Kavallerie genutzt wird."
 ItemDescription,A curved yellow fruit and a great source of fibre.,Eine gebogene gelbe Frucht und eine großartige Faserquelle
-ItemDescription,A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.,
+ItemDescription,"A duelling blade of mithril: quick past the guard, and quicker back.",
+ItemDescription,A duelling rapier of rose gold. It settles questions of standing far more often than questions of life.,
 ItemDescription,A fine-grained stone for putting an edge back on a tired blade.,
 ItemDescription,"A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.",
+ItemDescription,"A flail with a gilded head, made to be carried in procession behind somebody important.",
 ItemDescription,A flat black stone used since antiquity to tell real gemstones from paste and glass.,
-ItemDescription,A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.,
 ItemDescription,"A flat throwing weapon made of wood, often used for hunting.",Eine flache Wurfwaffe aus Holz die oft für die Jagd verwendet wird.
 ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.","Ein flacher, runder Kuchen. In einer Pfanne gekocht, wie Sie vielleicht annehmen."
 ItemDescription,"A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.",
 ItemDescription,A foreign device which creates perfect visual depictions of reality.,Eine fremdartige Apparatur die perfekte Abbilder der Realität schafft.
+ItemDescription,"A full harness of rose gold, made for a coronation and worn exactly once. Every plate is signed on the inside by the smith who beat it.",
+ItemDescription,A gilded trident from some temple to the sea. The prongs bend if you lean on them.,
 ItemDescription,"A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.",
 ItemDescription,"A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.",
-ItemDescription,"A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.",
+ItemDescription,A gold whistle on a fine chain. The note is no better than tin's and the price is considerably worse.,
+ItemDescription,A greatsword a strong child could lift and an adult could swing all day. Mithril forgives the arms what it does not forgive the enemy.,
 ItemDescription,A hand-held brass horn.,Une corne en laiton portative.
 ItemDescription,"A hard rock, smooth and therefore aerodynamic.","Ein harter Stein, glatt und daher aerodynamisch."
 ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,Eine Hartholzstange. Es ist eine bescheidene aber beeindruckende Waffe in geschulten Händen
@@ -2671,11 +2770,16 @@ ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.",Eine
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.","Eine schwere und lange zweischneidige Klinge. Ähnlich wie bei einem Langschwert, speziell für den Zweihandgebrauch vergrößert."
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,Un lourd marteau de fer conçu spécialement pour le combat de mêlée.
 ItemDescription,A heavy suit of armour made up of many strips of metal.,Une armure lourde composée de nombreuses bandes de métal.
+ItemDescription,"A helm of adamantine: heavy, unlovely, and proof against the blow that would otherwise have ended things.",
+ItemDescription,"A helmet beaten from gold, worn for the crowd rather than the melee. It turns the sun beautifully and a blade not at all.",
+ItemDescription,"A helmet of rose gold, the copper in the alloy giving it a warmth that plain gold never has. It is still gold underneath, and still no use in a fight.",
 ItemDescription,"A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.",
 ItemDescription,"A horizontal, mechanically-aided bow and arrow with a shoulder stock.",Ein horizontaler mechanisch unterstützter Pfeil und Bogen mit einem Schulterstock.
 ItemDescription,A key designed to open all mundane locks.,Une clé conçue pour ouvrir toutes les serrures banales.
+ItemDescription,A lance tipped with adamantine. Shields do not stop it; they only decide where it comes through.,
 ItemDescription,"A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.",
 ItemDescription,"A leather pouch set between two cords, meant for launching small projectiles.","Ein Lederbeutel zwischen zwei Schnüren, mit dem kleine Projektile abgefeuert werden können."
+ItemDescription,"A length of pine still sticky with resin, cut and polished in a hurry.",
 ItemDescription,"A length of sturdy rope with a clasp, for keeping a tame animal close at hand.",
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.",Eine leichte Schutzplatte am Unterarm aus Holz mit Metallverstärkung.
 ItemDescription,"A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.",
@@ -2683,6 +2787,7 @@ ItemDescription,A long cane rod strung with line and hook. Best used beside open
 ItemDescription,"A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.",Ein langes Eisenmesser mit einer scharfen Spitze das zum Werfen beschwert ist.
 ItemDescription,A long pipe meant for shooting darts through force of breath.,Ein langes Blasrohr zum verschießen von Pfeilen.
+ItemDescription,"A long sword of rose gold, the copper in the alloy giving it a blush the smiths were proud of.",
 ItemDescription,A long thrusting polearm best suited to mounted combat.,Eine lange Stangenwaffe die sich am besten für Reitkämpfe eignet.
 ItemDescription,A long-shafted arrow with a distinctive tip.,Ein Pfeil mit langem Schaft und einer markanten Spitze.
 ItemDescription,"A long, flexible leather thong. Unexpectedly sharp.",Ein langer flexibler Lederriemen. Unerwartet scharf.
@@ -2699,34 +2804,42 @@ ItemDescription,A pair of solid iron-plated boots that guard the shin and instep
 ItemDescription,A pair of sturdy leather boots which extend upward until just below the knee.,Ein Paar robuste Lederstiefel die bis knapp unter das Knie reichen.
 ItemDescription,A pair of sturdy leather boots which extend upwards to just above the ankle.,Ein Paar robuste Lederstiefel die bis knapp über den Knöchel reichen.
 ItemDescription,"A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.",
-ItemDescription,"A physician's instrument for listening to a heartbeat -- yours, or something else's.",
+ItemDescription,"A parade shield of gold, embossed with somebody's arms. It is carried on the left because that is the side the crowd stands on.",
+ItemDescription,"A parade sword of gold, kept bright and never once sharpened.",
 ItemDescription,"A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.",
+ItemDescription,"A plain staff of adamantine: unremarkable to look at, and impossible to snap.",
 ItemDescription,"A plain, undyed shirt of woven cloth, worn under armour or on its own.",
 ItemDescription,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.","Eine spitze Eisenstange, die rechtwinklig zu einem stabilen Holzgriff geformt ist und zum Durchstechen von harten Oberflächen verwendet wird."
 ItemDescription,A pointed metal cylinder meant to be discharged from a firearm.,Ein spitzer Metallzylinder der aus einer Schusswaffe entladen werden sollte.
+ItemDescription,"A poleaxe whose head weighs almost nothing, so the swing goes where it is aimed rather than where it falls.",
 ItemDescription,A polished sheet of silvered glass. Some things recoil from their own reflection.,
 ItemDescription,A portable source of light fashioned out of copper and fuelled by oil.,Eine tragbare Lichtquelle aus Kupfer die mit Öl betrieben wird.
 ItemDescription,A projectile consisting of a wooden shaft with a sharp metal tip at its front and stabilising fins at its rear.,Ein Projektil bestehend aus einem Holzschaft mit einer scharfen Metallspitze vorne und stabilisierenden Flossen hinten.
-ItemDescription,"A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.",
 ItemDescription,A righteous sword forged by a revered blacksmith many years ago who set out to hone his craft and to create the ultimate blade. The noble intent of its creator lingers in this weapon to cut down the wicked and protect the innocent.,Ein rechtschaffenes Schwert das vor vielen Jahren von einem verehrten Schmied geschmiedet wurde der sich daran machte sein Handwerk zu verbessern und die ultimative Klinge zu erschaffen. Die edle Absicht seines Schöpfers besteht in dieser Waffe die Bösen niederzuschlagen und die Unschuldigen zu beschützen.
 ItemDescription,A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.,
+ItemDescription,"A rose-gold hatchet, balanced for throwing by someone who was never going to throw it.",
+ItemDescription,A rose-gold shield with a mirror finish. Its owner spent more time looking at it than behind it.,
+ItemDescription,"A rose-gold spear carried at the head of processions, point up, so that nobody has to look at it closely.",
+ItemDescription,"A sacrificial dagger of soft gold, meant for the altar rather than the field.",
 ItemDescription,"A sanctimonious biscuit. A miracle to the meek, a scourge to the undead.","Ein scheinheiliger Keks. Ein Wunder für die Sanftmütigen, eine Geißel für die Untoten."
 ItemDescription,"A semi-rigid weapon made up of a notched wooden shaft with a drawstring attached to both ends, used to launch arrows.",Eine halbstarre Waffe aus einem gekerbten Holzschaft mit einer Kordel an beiden Enden mit der Pfeile abgefeuert werden.
 ItemDescription,"A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.",
 ItemDescription,A sharp iron wedge fashioned to a sturdy handle.,Ein scharfer Eisenkeil der zu einem stabilen Griff geformt war.
 ItemDescription,"A sharp metal throwing weapon, smaller than a hand and shaped like a star.",Eine scharfe Metallwurfwaffe kleiner als eine Hand und sternförmig.
+ItemDescription,"A shield faced with a single sheet of adamantine. It does not dent, and the arm behind it feels every blow it does not let through.",
 ItemDescription,A short and light double-edged blade.,Eine kurze und leichte zweischneidige Klinge.
 ItemDescription,"A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.",
+ItemDescription,"A short sword of rose gold, sized for a courtier's belt and a courtier's quarrel.",
+ItemDescription,"A short wand carved into a grinning face, the sort a street conjurer waves about before the trick.",
 ItemDescription,"A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.",
 ItemDescription,"A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.",
+ItemDescription,"A slim rose-gold dagger, warm to the touch and made to be seen being carried.",
 ItemDescription,"A slimy, scaly sea creature, in its entirety. Good for a meal.","Ein schleimiges, schuppiges Meerestier in seiner Gesamtheit. Gut für eine Mahlzeit."
 ItemDescription,A small cutting utensil made of metal with a wooden handle.,Ein kleines Schneidgerät aus Metall mit Holzgriff.
 ItemDescription,A small glass vial holding a captive mote of light.,
-ItemDescription,A small hooked blade made for prying the lid off a sealed tin.,
 ItemDescription,A small iron tool designed for opening all sorts of locks.,Ein kleines Eisenwerkzeug zum Öffnen aller Arten von Schlössern.
 ItemDescription,A small missile with a pointed tip meant for throwing.,Eine kleine Rakete mit einer spitzen Ende zum Werfen.
 ItemDescription,A small missile with a reservoir of liquid delivered through a hollow pointed tip.,Eine kleine Rakete mit einem Flüssigkeitsreservoir das durch eine hohle spitze Spitze abgegeben wird.
-ItemDescription,"A small, chalky tablet of uncertain origin. Best swallowed quickly.",
 ItemDescription,"A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.",
 ItemDescription,"A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.",
 ItemDescription,"A soft-brimmed hat, somewhat out of fashion.",Ein Hut mit weicher Krempe etwas aus der Mode gekommen.
@@ -2734,13 +2847,12 @@ ItemDescription,A sophisticated bludgeon with a heavy iron head.,Ein raffinierte
 ItemDescription,A spacious bag made of incredibly stretchy cotton.,Eine geräumige Tasche aus unglaublich dehnbarer Baumwolle.
 ItemDescription,A spacious cloth bag.,Eine geräumige Stofftasche.
 ItemDescription,"A staff of living, unworked rock. What shapes matter cannot itself be unmade.",
+ItemDescription,"A star of mithril, so light that it seems to hang in the air a moment before it arrives.",
 ItemDescription,A stick of cured meat.,Ein Stück Wurst.
 ItemDescription,"A stick of highly explosive material, with a short fuse on one end.",Ein Stab aus hochexplosivem Material mit einer kurzen Sicherung an einem Ende.
 ItemDescription,A stone infused with restorative magic. It crumbles a little more each time it is used.,
 ItemDescription,A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.,
-ItemDescription,"A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.",
 ItemDescription,"A straight, double-edged and often cruciform blade.",Eine gerade zweischneidige und oft kreuzförmige Klinge.
-ItemDescription,"A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.",
 ItemDescription,A sturdy and solid mineral.,Ein robustes und festes Mineral.
 ItemDescription,A suit of armour made from metal rings sewn onto a foundation of leather or cloth.,Ein Rüstungsanzug aus Metallringen die auf ein Fundament aus Leder oder Stoff genäht sind.
 ItemDescription,"A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.",
@@ -2750,21 +2862,26 @@ ItemDescription,"A sweet custard-filled pie with a thin crust, topped with whipp
 ItemDescription,"A sweet, round fruit, of the red variety. Reportedly a great supplement to your physical health.",Eine süße runde Frucht der roten Sorte. Berichten zufolge eine großartige Ergänzung zu Ihrer körperlichen Gesundheit.
 ItemDescription,"A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.",
 ItemDescription,"A tall, asymmetric bow.",Ein großer asymmetrischer Bogen.
-ItemDescription,"A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.",
 ItemDescription,"A thick leather coat, constructed to withstand weather and wear.",Ein dicker Ledermantel der Wetter und Verschleiß standhält.
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.","Ein dicker hölzerner Knüppel. Was ihm an Stil fehlt, macht er an Funktion wieder wett."
 ItemDescription,"A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,Ein dünnes und bewegliches Schwert das fast ausschließlich zum Stoßen gedacht war.
+ItemDescription,"A thin broth that sits in the stomach like a full meal. It tastes of nothing whatsoever, which is the price of never having to stop and eat.",
+ItemDescription,A throwing hatchet of mithril. It flies flatter and further than its weight suggests it should.,
+ItemDescription,A throwing ring of gold. It returns beautifully and cuts adequately.,
 ItemDescription,A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.,
 ItemDescription,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.","Eine Zweihandwaffe, die an der Schulter abgestützt und häufig bei der Kleinwildjagd eingesetzt wird. Sie teilt ziemlich was aus."
+ItemDescription,"A wand that splits into two prongs at the tip, like a diviner's rod that never did find water.",
 ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.",Ein Wunder des Einfallsreichtums und der Handwerkskunst der Zwerge die von Orks gestohlen und für andere Zwecke verwendet wurden. Dieses Werkzeug ist auf einem langen Schaft montiert und eine beeindruckende Waffe auf dem Pferderücken oder im Warg-Back. Der elektrische Strom der den Bohrer antreibt entlädt sich gegen jeden der dieser Monstrosität im Wege steht.
-ItemDescription,"A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.",
+ItemDescription,Adamantine cannot be dulled and will not break. The blade will outlast whoever is carrying it.,
+ItemDescription,"Adamantine stars, thrown a thousand times and recovered a thousand times. Nothing they strike blunts them.",
 ItemDescription,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,Ein Landwirtschaftliches Gerät das aus einer langen gebogenen Klinge besteht und an einem abgewinkelten Griff befestigt ist.
 ItemDescription,An ambiguous curiosity. It seems edible.,Eine mehrdeutige Kuriosität. Sieht essbar aus.
 ItemDescription,An article of leather clothing covering the torso that hangs around the neck and on the shoulders.,Ein Lederkleidungsstück das den Oberkörper bedeckt und um den Hals und an den Schultern hängt.
 ItemDescription,An article of waterproof cotton clothing covering the torso that hangs around the neck and on the shoulders.,Ein wasserdichtes Baumwollkleidungsstück das den Oberkörper bedeckt und um den Hals und an den Schultern hängt.
 ItemDescription,"An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.",
 ItemDescription,An elven travel food. It is incredibly satiating.,Reiseproviant der Elfen. Unglaublich sättigend.
+ItemDescription,"An enormous sword of solid gold, more monument than weapon, and worth a small estate.",
 ItemDescription,"An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.",
 ItemDescription,An extremely sharp little blade used for precise incisions.,"Eine extrem scharfe, kleine Klinge für präzise Schnitte."
 ItemDescription,An inconspicuous snack that tells deep secrets.,"Ein unauffälliger Snack, der tiefgründige Geheimnisse verrät."
@@ -2772,22 +2889,37 @@ ItemDescription,An iron projectile made up of a shaft with a sharpened square-py
 ItemDescription,"An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.",
 ItemDescription,"An orange root-vegetable, commonly believed to improve eyesight.","Ein Orangenwurzelgemüse von dem allgemein angenommen wird, dass es das Sehvermögen verbessert."
 ItemDescription,"An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.",
+ItemDescription,"Articulated adamantine over a leather glove. Nothing you catch in your hand will cut it, which has settled more than one argument about knives.",
 ItemDescription,"Boiled leather, moulded into a bodily shape to be donned as light armour.","Gekochtes Leder zu einer Körperform geformt, um als leichte Rüstung angezogen zu werden."
 ItemDescription,"Bold, or just tacky?",Mutig oder einfach nur geschmacklos?
+ItemDescription,Boots shod in adamantine. They are as heavy as the iron pair and will still be whole long after the feet inside them are not.,
+ItemDescription,"Ceremonial gauntlets of soft gold. They mark the wearer's rank, and they mark very easily.",
 ItemDescription,Chain mail consists of a mesh of metal rings interlinked to form a flexible armour.,Das Kettenhemd besteht aus einem Netz von Metallringen die zu einer flexiblen Panzerung miteinander verbunden sind.
+ItemDescription,"Drinking it leaves a cold spot at the back of the neck, and the spot grows colder the closer danger comes.",
 ItemDescription,"Fate itself bends around the wearer, keeping them exactly where the blow cannot land.",
+ItemDescription,"Fine mithril mail worked into a glove, close enough to the hand that you can still feel what you are holding.",
+ItemDescription,Folded mithril holds an edge that no whetstone has ever had to touch. The smiths who made it are long dead.,
 ItemDescription,"Forged deep underground by dwarven hands, this blade was made to slay the scaled beasts who sought to steal their treasures. Throughout the long years this blade has bathed in the blood of its winged prey. Now almost forgotten, it yearns again for the taste of dragon flesh.","Diese Klinge wurde von Zwergenhänden tief unter der Erde geschmiedet um die schuppigen Bestien zu töten, die ihre Schätze stehlen wollten."
 ItemDescription,"Gazing into its crimson depths you can see the concentrated life essence of countless victims swirling inside of it. The artifact was completed in the moment of the creators' death, as his soul was claimed by his creation. Now residing among the souls of his former victims, his essence as an alchemist provides the stone with ultimate transmutative powers.","In die purpurroten Tiefen zu starren eröffnet den grausamen Anblick konzentrierter Lebensessenzen unzähliger Opfer, die daran herumwirbeln. Das Artefakt wurde im Moment des Todes des Schöpfers fertiggestellt, als seine Seele von seiner Schöpfung beansprucht wurde. Seine Essenz als Alchemist weilt jetzt unter den Seelen seiner ehemaligen Opfer und verleiht dem Stein ultimative transmutative Kräfte."
+ItemDescription,"Gilded boots for standing in, at the top of steps, while somebody reads something out at length.",
+ItemDescription,"Gold is far too soft to hold an edge, but it is worth more than the fight. Ceremonial, and traded rather more often than it is swung.",
 ItemDescription,"Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.",
 ItemDescription,Its high-quality elvish manufacture makes for an effective close combat weapon.,Die hochwertige Handwerkskunst der Elfen macht diese effektive Nahkampfwaffe möglich.
 ItemDescription,Leather armour with close-set studs so as to offer more protection.,"Eine Lederrüstung, deren dichte Nieten mehr Schutz bieten."
 ItemDescription,"Like a smaller variant of the katana, often used as a side-arm.","Wie eine kleinere Variante des Katana, die oft als Seitenwaffe verwendet wird."
+ItemDescription,Mithril takes an edge that steel cannot hold and weighs a third as much. The head barely tires the arm between swings.,
 ItemDescription,"Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.",
 ItemDescription,One segment of a particularly pungent and bulbous herb.,Ein Segment eines besonders stechenden und knolligen Krauts.
+ItemDescription,"Rose gold takes an edge no better than gold does, but it looks magnificent failing to.",
+ItemDescription,"Rose gold, alloyed with copper for a warmer colour and a little more spine than gold alone.",
+ItemDescription,"Rose-gold boots, chased with vine work down the shin. They were made to be looked at from below, on a dais.",
+ItemDescription,"Rose-gold gauntlets with articulated fingers, delicate enough to hold a cup and useless for holding a line.",
+ItemDescription,Shoes of mithril plate over a soft lining. They weigh less than the leather pair they replace and will never rust through.,
 ItemDescription,Standard issue protective metal headgear.,Standard Kopfbedeckung aus Metall.
 ItemDescription,"Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.",
 ItemDescription,"Sturdy leather garments fitted firm onto the hands, sheathing each finger individually.","Robuste Lederbekleidung, die fest auf den Händen sitzt und jeden Finger einzeln umhüllt."
 ItemDescription,The final sword forged by a once respected blacksmith who lost himself in the depths of the dungeon. His warped soul now inhabits this blade and lusts for blood. It is said that the one who wields this sword is coerced into cutting down friend and foe alike.,Das letzte Schwert das von einem einst angesehenen Schmied geschmiedet wurde der sich in den Tiefen des Verlieses verlor. Seine verzerrte Seele bewohnt jetzt diese Klinge und sehnt sich nach Blut. Es wird gesagt dass derjenige der dieses Schwert führt gezwungen wird Freund und Feind gleichermaßen niederzuschlagen.
+ItemDescription,"The head is adamantine and the haft is merely wood, so the haft is what usually fails first.",
 ItemDescription,The head of a ranseur consists of a spear-tip affixed with a cross hilt at its base.,Der Kopf eines Ranseurs besteht aus einer Speerspitze an deren Basis ein Kreuzgriff angebracht ist.
 ItemDescription,The only coin that can be found and spent in the dungeon.,Die einzige Münze die im Dungeon gefunden und ausgegeben werden kann.
 ItemDescription,The snipped segment of a plant known for its antilycanthropic properties.,Das abgeschnittene Segment einer Pflanze die für ihre Antilykanthropischen Eigenschaften bekannt ist.
@@ -2829,18 +2961,22 @@ ItemDescription,This weapon consists of a single-edged blade on the end of a pol
 ItemDescription,This weapon consists of a spearhead mounted on a long wooden shaft with protrusions on the sides which aided in parrying sword thrusts.,"Diese Waffe besteht aus einem Speerkopf, der auf einem langen Holzstab montiert ist. Weist an den Seiten Vorsprünge auf, die beim Parieren von Schwertschlägen helfen."
 ItemDescription,"This weapon is a curved blade attached to a pole by binding the lower two-thirds of the blade to the side of the pole, to form a sort of axe.","Diese Waffe ist eine gebogene Klinge, die an einer Stange befestigt ist. Dabei sind zwei Drittel der Klinge an der Seite der Stange befestigt, um eine Art Axt zu bilden."
 ItemDescription,This withered hand is the last remnant of an ancient and powerful lich.,Diese welke Hand ist das letzte Überbleibsel eines machtvollen Lich.
+ItemDescription,Three mithril prongs on a slender shaft. It goes through mail with very little behind it.,
 ItemDescription,Tiny metal spikes thrown to the ground to impede mobility.,"Winzige Metallspitzen, die auf den Boden geworfen Bewegungen beeinträchtigen."
+ItemDescription,"Two prongs of rose gold on a polished haft: a ceremonial guard's weapon, and unmistakably so.",
 ItemDescription,"Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.",
 ItemDescription,Winged sandals made of imperishable gold which fly the wearer swiftly and silently.,"Geflügelte Sandalen aus unvergänglichem Gold, die den Träger geschwind und geräuschlos fliegen lassen."
 ItemDescription,Zapping it at a wall creates a big tunnel.,Auf eine Wand angewendet entsteht ein geräumiger Tunnel.
 ItemName,adamantine arrow,Adamantpfeil
 ItemName,adamantine axe,Adamantaxt
 ItemName,adamantine bident,Adamantiner Zweizack
+ItemName,adamantine boots,
 ItemName,adamantine bow,Adamantbogen
 ItemName,adamantine bullet,
 ItemName,adamantine crossbow bolt,
 ItemName,adamantine dagger,Adamantdolch
 ItemName,adamantine dart,
+ItemName,adamantine gauntlets,
 ItemName,adamantine greataxe,Adamantine Großaxt
 ItemName,adamantine greatmace,
 ItemName,adamantine greatsword,Adamantines Großschwert
@@ -2855,6 +2991,7 @@ ItemName,adamantine poleaxe,
 ItemName,adamantine quarterstaff,
 ItemName,adamantine rapier,Adamantrapier
 ItemName,adamantine sabre,Adamantsäbel
+ItemName,adamantine shield,
 ItemName,adamantine short sword,Adamant-Kurzschwert
 ItemName,adamantine shuriken,
 ItemName,adamantine spear,Adamantspeer
@@ -2882,6 +3019,8 @@ ItemName,apple,Apfel
 ItemName,aquamarine,Aquamarin
 ItemName,arrow,Pfeil
 ItemName,assault rifle,Sturmgewehr
+ItemName,astral dragon scale mail,
+ItemName,astral dragon scales,
 ItemName,athame,Athame
 ItemName,Aurigage,Aurigage
 ItemName,auto shotgun,Automatische Schrotflinte
@@ -2890,10 +3029,8 @@ ItemName,Backpack,Rucksack
 ItemName,bag of holding,Tasche des Platzes
 ItemName,bag of tricks,Tasche der Tricks
 ItemName,banana,Banane
-ItemName,bandage,
 ItemName,banded mail,Bänderrüstung
 ItemName,bardiche,Bardiche
-ItemName,baseball bat,
 ItemName,battle robe,Kampfmantel
 ItemName,battle staff,Kampfstab
 ItemName,battle-axe,Streitaxt
@@ -3180,7 +3317,6 @@ ItemName,cornuthaum,Cornuthaum
 ItemName,costume earrings,Modische Ohrringe
 ItemName,cram ration,gefüllte Ration
 ItemName,cream pie,Sahnetörtchen
-ItemName,credit card,
 ItemName,Creeping Sprout,Kriechender Sprössling
 ItemName,crimson cloak,
 ItemName,crossbow,Armbrust
@@ -3246,6 +3382,8 @@ ItemName,expensive camera,teure Kamera
 ItemName,Eye of Aethiopica,Auge von Aethiopica
 ItemName,eyeball,
 ItemName,Eyes of Ra,Augen von Ra
+ItemName,fae dragon scale mail,
+ItemName,fae dragon scales,
 ItemName,fancy boots,
 ItemName,fauchard,Fauchard
 ItemName,fedora,Filzhut
@@ -3261,7 +3399,6 @@ ItemName,fly swatter,Fliegenklatsche
 ItemName,food ration,Nahrungsration
 ItemName,fortune cookie,Glückskeks
 ItemName,frag grenade,Granate
-ItemName,frisbee,
 ItemName,frost horn,Frosthorn
 ItemName,fumble boots,Stiefel der Ungeschicklichkeit
 ItemName,garnet,Granat
@@ -3273,6 +3410,7 @@ ItemName,gauntlets of power,Stulpen der Macht
 ItemName,Giantslayer,Riesentöter
 ItemName,glaive,Glaive
 ItemName,gold axe,
+ItemName,gold boots,
 ItemName,gold chakram,
 ItemName,gold coin,Goldmünze
 ItemName,gold dagger,
@@ -3280,11 +3418,14 @@ ItemName,gold double vajra,
 ItemName,gold dragon scale mail,Goldene Drachenschuppenrüstung
 ItemName,gold dragon scales,Goldene Drachenschuppen
 ItemName,gold flail,
+ItemName,gold gauntlets,
+ItemName,gold helmet,
 ItemName,Gold Key,Goldschlüssel
 ItemName,gold khanda,
 ItemName,gold labrys,
 ItemName,gold longsword,
 ItemName,gold plate mail,
+ItemName,gold shield,
 ItemName,gold single vajra,
 ItemName,gold spade,
 ItemName,gold trident,
@@ -3297,6 +3438,8 @@ ItemName,green dragon scale mail,grüne Drachenschuppenrüstung
 ItemName,green dragon scales,grüne Drachenschuppen
 ItemName,green glass bauble,grüner Klunker
 ItemName,grenade launcher,Granatwerfer
+ItemName,grey dragon scale mail,
+ItemName,grey dragon scales,
 ItemName,Grimtooth,Grimmzahn
 ItemName,guisarme,Guisarme
 ItemName,Gungnir,
@@ -3304,6 +3447,7 @@ ItemName,halberd,Hellebarde
 ItemName,Harbalest,Harbalest
 ItemName,hatchet,Beil
 ItemName,hawaiian shirt,Hawaiihemd
+ItemName,healer's satchel,
 ItemName,healthstone,
 ItemName,heavy hammer,schwerer Hammer
 ItemName,heavy iron ball,schwere Eisenkugel
@@ -3381,7 +3525,6 @@ ItemName,Maulfrost,Frostreißer
 ItemName,meat ring,Fleischring
 ItemName,meat stick,Fleischstock
 ItemName,meatball,Fleischbällchen
-ItemName,medical kit,
 ItemName,melon,Melone
 ItemName,mirror,
 ItemName,Mirrorbright,Spiegelglanz
@@ -3395,6 +3538,7 @@ ItemName,mithril crossbow bolt,Mithrilbolzen
 ItemName,mithril dagger,Mithrildolch
 ItemName,mithril dart,Mithrilwurfpfeil
 ItemName,mithril gauntlets,
+ItemName,mithril gloves,
 ItemName,mithril greatmace,
 ItemName,mithril greatsword,
 ItemName,mithril hatchet,
@@ -3408,19 +3552,21 @@ ItemName,mithril poleaxe,
 ItemName,mithril rapier,
 ItemName,mithril sabre,Mithrilsäbel
 ItemName,mithril shield,Mithrilschild
+ItemName,mithril shoes,
 ItemName,mithril short sword,Mithrilschwert
 ItemName,mithril shuriken,
 ItemName,mithril spear,Mithrilspeer
 ItemName,mithril trident,
 ItemName,mithril two-handed sword,Zweihandschwert aus Mithril
 ItemName,mithril whip,Mithrilpeitsche
-ItemName,mooshroom,
 ItemName,morning star,Morgenstern
 ItemName,Mournblade,
 ItemName,mummy wrapping,Mumienwickel
 ItemName,Muramasa,Muramasa
 ItemName,mushroom,Pilz
 ItemName,mute earrings,Ruhige Ohrringe
+ItemName,mystical dragon scale mail,
+ItemName,mystical dragon scales,
 ItemName,naginata,
 ItemName,Nonagon Infinity,
 ItemName,nunchaku,Nunchaku
@@ -3453,10 +3599,7 @@ ItemName,phantom key,Phantomschlüssel
 ItemName,phial,
 ItemName,Philosophers Stone,Stein der Weisen
 ItemName,pick-axe,Spitzhacke
-ItemName,pill,
 ItemName,pistol,Pistole
-ItemName,plastic bat,
-ItemName,plastic hammer,
 ItemName,plastic sword,Plastikschwert
 ItemName,plate barding,Plattenharnisch
 ItemName,plate mail,Plattenrüstung
@@ -3499,7 +3642,6 @@ ItemName,potion of water,Trank mit Wasser
 ItemName,proof earrings,Sichere Ohrringe
 ItemName,Prudentia,Prudentia
 ItemName,quarterstaff,Kampfstock
-ItemName,railgun,
 ItemName,ranseur,Ranseur
 ItemName,rapier,Rapier
 ItemName,Ravenbow,Rabenbogen
@@ -3550,13 +3692,18 @@ ItemName,rocket launcher,Raketenwerfer
 ItemName,rose axe,
 ItemName,rose battleaxe,
 ItemName,rose bident,
+ItemName,rose boots,
 ItemName,rose dagger,
+ItemName,rose gauntlets,
 ItemName,rose greatsword,
 ItemName,rose hatchet,
+ItemName,rose helmet,
 ItemName,rose long sword,
+ItemName,rose plate mail,
 ItemName,rose rapier,
 ItemName,rose ring,
 ItemName,rose sabre,
+ItemName,rose shield,
 ItemName,rose short sword,
 ItemName,rose spear,
 ItemName,Rosenthral,Rosenthral
@@ -3650,12 +3797,10 @@ ItemName,splint mail,Schienenpanzer
 ItemName,sprig of wolfsbane,Zweig Wolfsbann
 ItemName,Stamped Letter,gestempelter Brief
 ItemName,steel boots,
-ItemName,stethoscope,
 ItemName,stick of dynamite,Dynamitstange
 ItemName,stiletto,Stilett
 ItemName,stone club,Steinschläger
 ItemName,Stormbringer,
-ItemName,strange object,
 ItemName,studded leather armour,Lederrüstung mit Nieten
 ItemName,submachine gun,Maschinenpistole
 ItemName,Sudarshana Chakra,
@@ -3666,7 +3811,6 @@ ItemName,Talaria,Talaria
 ItemName,The Hero,Der Held
 ItemName,thunder staff,Stab des Donners
 ItemName,tin,Konserve
-ItemName,tin opener,
 ItemName,tin whistle,Blechflöte
 ItemName,tinning kit,Konservierungsset
 ItemName,tooled horn,bearbeitetes Horn
@@ -3674,7 +3818,6 @@ ItemName,topaz,Topas
 ItemName,torch,Fackel
 ItemName,tortilla,Tortilla
 ItemName,touchstone,
-ItemName,towel,
 ItemName,trident,Dreizack
 ItemName,tripe ration,Ration Kutteln
 ItemName,triplesword,
@@ -3705,7 +3848,6 @@ ItemName,wand of fireball,Zauberstab des Feuerballs
 ItemName,wand of haste,Zauberstab der Eile
 ItemName,wand of healing,Zauberstab der Heilung
 ItemName,wand of iceball,Zauberstab des Eisballes
-ItemName,wand of jumping,
 ItemName,wand of levitation,
 ItemName,wand of light,Zauberstab des Lichtes
 ItemName,wand of lightning,Zauberstab des Blitzes
@@ -3747,7 +3889,6 @@ ItemName,yellow dragon scale mail,gelbe Drachenschuppenrüstung
 ItemName,yellow dragon scales,gelbe Drachenschuppen
 ItemName,yellow glass bauble,gelber Klunker
 ItemName,yellowish brown glass bauble,braun-gelber Klunker
-ItemName,yoyo,
 ItemName,yumi,Yumi
 ItemName,zircon,Zirkon
 ItemName,Zweihänder,

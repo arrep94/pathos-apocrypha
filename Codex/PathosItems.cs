@@ -16702,6 +16702,267 @@ namespace Pathos
         I.SetTwoHandedMomentumWeapon(Skills.polearm, null, Elements.physical, DamageType.Slash, 1.d8());
       });
 
+      // ==========================================================================================
+      // Completing the two material armour families. Until now adamantine had a suit and two helms
+      // and gold had a suit alone, so neither could actually be worn as a set.
+      //
+      // Adamantine goes through AdamantineEquivalent like every other adamantine piece, which takes
+      // the steel item's weight and size and multiplies its price, and then adds the same +1 defence
+      // step the shipped adamantine plate mail takes over plate mail (D:7 -> D:8).
+      //
+      // Gold follows the gold plate mail already in the codex: same weight as the steel piece, about
+      // half its defence because the metal is soft, and rarity 2 because these turn up as treasure
+      // rather than on soldiers. Prices are the x8 the eight gold weapons already use.
+      // ==========================================================================================
+
+      // large_shield is D:2, so this is D:3 - the same step adamantine plate mail takes over plate mail.
+      adamantine_shield = AddArmour(ItemType.Shield, "adamantine shield", I =>
+      {
+        AdamantineEquivalent(I, large_shield);
+
+        I.Description = "A shield faced with a single sheet of adamantine. It does not dent, and the arm behind it feels every blow it does not let through.";
+        I.Glyph = Glyphs.adamantine_shield;
+        I.Series = null;
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.armour);
+        I.SetArmour(Skills.heavy_armour, 3);
+      });
+
+      // iron_shoes is D:2 at 500 units; adamantine keeps the weight and gains the point.
+      adamantine_boots = AddArmour(ItemType.Boots, "adamantine boots", I =>
+      {
+        AdamantineEquivalent(I, iron_shoes);
+
+        I.Description = "Boots shod in adamantine. They are as heavy as the iron pair and will still be whole long after the feet inside them are not.";
+        I.Glyph = Glyphs.adamantine_boots;
+        I.Series = null;
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(20), Sonics.armour);
+        I.SetArmour(Skills.heavy_armour, 3);
+      });
+
+      // leather_gloves is D:1 light armour; the adamantine pair stays light armour at D:2.
+      adamantine_gauntlets = AddArmour(ItemType.Gloves, "adamantine gauntlets", I =>
+      {
+        AdamantineEquivalent(I, leather_gloves);
+
+        I.Description = "Articulated adamantine over a leather glove. Nothing you catch in your hand will cut it, which has settled more than one argument about knives.";
+        I.Glyph = Glyphs.adamantine_gauntlets;
+        I.Series = null;
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.armour);
+        I.SetArmour(Skills.light_armour, 2);
+      });
+
+      // plumed helmet is D:1 at 500 units and 10 gold: gold halves the defence and multiplies the price.
+      gold_helmet = AddArmour(ItemType.Helmet, "gold helmet", I =>
+      {
+        I.Description = "A helmet beaten from gold, worn for the crowd rather than the melee. It turns the sun beautifully and a blade not at all.";
+        I.Glyph = Glyphs.gold_helmet;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(500);
+        I.Material = Materials.gold;
+        I.Essence = ArmourEssence1;
+        I.Price = Gold.FromCoins(80);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.armour);
+        I.SetArmour(Skills.heavy_armour, 0);
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(20), Sonics.armour);
+      });
+
+      // large_shield is D:2 at 1000 units and 10 gold.
+      gold_shield = AddArmour(ItemType.Shield, "gold shield", I =>
+      {
+        I.Description = "A parade shield of gold, embossed with somebody's arms. It is carried on the left because that is the side the crowd stands on.";
+        I.Glyph = Glyphs.gold_shield;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(1000);
+        I.Material = Materials.gold;
+        I.Essence = ArmourEssence2;
+        I.Price = Gold.FromCoins(80);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.armour);
+        I.SetArmour(Skills.heavy_armour, 1);
+        I.AddObviousIngestUse(Motions.eat, 200, Delay.FromTurns(20), Sonics.armour);
+      });
+
+      // iron_shoes is D:2 at 500 units and 16 gold.
+      gold_boots = AddArmour(ItemType.Boots, "gold boots", I =>
+      {
+        I.Description = "Gilded boots for standing in, at the top of steps, while somebody reads something out at length.";
+        I.Glyph = Glyphs.gold_boots;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(500);
+        I.Material = Materials.gold;
+        I.Essence = ArmourEssence2;
+        I.Price = Gold.FromCoins(128);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(20), Sonics.armour);
+        I.SetArmour(Skills.heavy_armour, 1);
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(20), Sonics.armour);
+      });
+
+      // leather_gloves is D:1 light armour at 100 units and 8 gold.
+      gold_gauntlets = AddArmour(ItemType.Gloves, "gold gauntlets", I =>
+      {
+        I.Description = "Ceremonial gauntlets of soft gold. They mark the wearer's rank, and they mark very easily.";
+        I.Glyph = Glyphs.gold_gauntlets;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(100);
+        I.Material = Materials.gold;
+        I.Essence = ArmourEssence1;
+        I.Price = Gold.FromCoins(64);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.armour);
+        I.SetArmour(Skills.light_armour, 0);
+        I.AddObviousIngestUse(Motions.eat, 20, Delay.FromTurns(10), Sonics.armour);
+      });
+
+      // ==========================================================================================
+      // The last two material armour families.
+      //
+      // Mithril already had a helmet, a suit and a shield. It could not have "mithril boots" or
+      // "mithril gauntlets" because both names are taken: the first is the unidentified appearance
+      // of the shipped panic boots, the second is a set of unarmed-combat gauntlets. Shoes and
+      // gloves are the free names, and they sit beside the shipped iron shoes and leather gloves.
+      // Mithril is light and does not rust, so these keep the mithril helmet's ratio: about half
+      // the steel weight, one point better in defence, and priced with the rest of the family.
+      //
+      // Rose gold had eleven weapons and no armour at all. It follows gold - soft metal, about half
+      // the defence of steel, rarity 2, and the x8 price the gold and rose weapons already use -
+      // with a small premium over plain gold for the copper in the alloy, exactly as the rose
+      // weapons are dearer than their gold twins.
+      // ==========================================================================================
+
+      // iron_shoes is D:2 at 500 units and 16 gold; mithril halves the weight and adds the point.
+      mithril_shoes = AddArmour(ItemType.Boots, "mithril shoes", I =>
+      {
+        I.Description = "Shoes of mithril plate over a soft lining. They weigh less than the leather pair they replace and will never rust through.";
+        I.Glyph = Glyphs.mithril_shoes;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 3;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(250);
+        I.Material = Materials.mithril;
+        I.Essence = ArmourEssence2;
+        I.Price = Gold.FromCoins(240);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(20), Sonics.armour);
+        I.SetArmour(Skills.medium_armour, 3);
+      });
+
+      // leather_gloves is D:1 light armour at 100 units and 8 gold.
+      mithril_gloves = AddArmour(ItemType.Gloves, "mithril gloves", I =>
+      {
+        I.Description = "Fine mithril mail worked into a glove, close enough to the hand that you can still feel what you are holding.";
+        I.Glyph = Glyphs.mithril_gloves;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 3;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(60);
+        I.Material = Materials.mithril;
+        I.Essence = ArmourEssence1;
+        I.Price = Gold.FromCoins(160);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.armour);
+        I.SetArmour(Skills.light_armour, 2);
+      });
+
+      // plumed helmet is D:1 at 500 units and 10 gold; rose gold halves the defence like gold does.
+      rose_helmet = AddArmour(ItemType.Helmet, "rose helmet", I =>
+      {
+        I.Description = "A helmet of rose gold, the copper in the alloy giving it a warmth that plain gold never has. It is still gold underneath, and still no use in a fight.";
+        I.Glyph = Glyphs.rose_helmet;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(500);
+        I.Material = Materials.gold;
+        I.Essence = ArmourEssence1;
+        I.Price = Gold.FromCoins(120);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.armour);
+        I.SetArmour(Skills.heavy_armour, 0);
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(20), Sonics.armour);
+      });
+
+      // plate_mail is D:7 at 4500 units and 600 gold; gold plate mail already sits at D:4.
+      rose_plate_mail = AddArmour(ItemType.Suit, "rose plate mail", I =>
+      {
+        I.Description = "A full harness of rose gold, made for a coronation and worn exactly once. Every plate is signed on the inside by the smith who beat it.";
+        I.Glyph = Glyphs.rose_plate_mail;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(4500);
+        I.Material = Materials.gold;
+        I.Essence = ArmourEssence2;
+        I.Price = Gold.FromCoins(720);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(50), Sonics.armour);
+        I.SetArmour(Skills.heavy_armour, D: 4, P: +0, S: +1, B: +0);
+        I.AddObviousIngestUse(Motions.eat, 900, Delay.FromTurns(50), Sonics.armour);
+      });
+
+      // large_shield is D:2 at 1000 units and 10 gold.
+      rose_shield = AddArmour(ItemType.Shield, "rose shield", I =>
+      {
+        I.Description = "A rose-gold shield with a mirror finish. Its owner spent more time looking at it than behind it.";
+        I.Glyph = Glyphs.rose_shield;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Large;
+        I.Weight = Weight.FromUnits(1000);
+        I.Material = Materials.gold;
+        I.Essence = ArmourEssence2;
+        I.Price = Gold.FromCoins(120);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.armour);
+        I.SetArmour(Skills.heavy_armour, 1);
+        I.AddObviousIngestUse(Motions.eat, 200, Delay.FromTurns(20), Sonics.armour);
+      });
+
+      // iron_shoes is D:2 at 500 units and 16 gold.
+      rose_boots = AddArmour(ItemType.Boots, "rose boots", I =>
+      {
+        I.Description = "Rose-gold boots, chased with vine work down the shin. They were made to be looked at from below, on a dais.";
+        I.Glyph = Glyphs.rose_boots;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(500);
+        I.Material = Materials.gold;
+        I.Essence = ArmourEssence2;
+        I.Price = Gold.FromCoins(192);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(20), Sonics.armour);
+        I.SetArmour(Skills.heavy_armour, 1);
+        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(20), Sonics.armour);
+      });
+
+      // leather_gloves is D:1 light armour at 100 units and 8 gold.
+      rose_gauntlets = AddArmour(ItemType.Gloves, "rose gauntlets", I =>
+      {
+        I.Description = "Rose-gold gauntlets with articulated fingers, delicate enough to hold a cup and useless for holding a line.";
+        I.Glyph = Glyphs.rose_gauntlets;
+        I.Sonic = Sonics.armour;
+        I.Series = null;
+        I.Rarity = 2;
+        I.Size = Size.Small;
+        I.Weight = Weight.FromUnits(100);
+        I.Material = Materials.gold;
+        I.Essence = ArmourEssence1;
+        I.Price = Gold.FromCoins(96);
+        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.armour);
+        I.SetArmour(Skills.light_armour, 0);
+        I.AddObviousIngestUse(Motions.eat, 20, Delay.FromTurns(10), Sonics.armour);
+      });
+
       Stormbringer = AddMeleeWeapon("Stormbringer", I =>
       {
         I.Description = "A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.";
@@ -17055,6 +17316,66 @@ namespace Pathos
         });
       });
 
+      grey_dragon_scales = AddDragonScalesArmour("grey dragon scales", Elements.magical, I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.grey_dragon_scales;
+        I.Price = Gold.FromCoins(800);
+        I.SetDerivative(Entities.adult_grey_dragon);
+      });
+
+      grey_dragon_scale_mail = AddDragonScaleMailArmour("grey dragon scale mail", Elements.magical, I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.grey_dragon_scale_mail;
+        I.Price = Gold.FromCoins(1600);
+      });
+
+      astral_dragon_scales = AddDragonScalesArmour("astral dragon scales", Elements.magical, I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.astral_dragon_scales;
+        I.Price = Gold.FromCoins(900);
+        I.SetDerivative(Entities.adult_astral_dragon);
+      });
+
+      astral_dragon_scale_mail = AddDragonScaleMailArmour("astral dragon scale mail", Elements.magical, I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.astral_dragon_scale_mail;
+        I.Price = Gold.FromCoins(1800);
+      });
+
+      fae_dragon_scales = AddDragonScalesArmour("fae dragon scales", Elements.magical, I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.fae_dragon_scales;
+        I.Price = Gold.FromCoins(700);
+        I.SetDerivative(Entities.adult_fae_dragon);
+      });
+
+      fae_dragon_scale_mail = AddDragonScaleMailArmour("fae dragon scale mail", Elements.magical, I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.fae_dragon_scale_mail;
+        I.Price = Gold.FromCoins(1400);
+      });
+
+      mystical_dragon_scales = AddDragonScalesArmour("mystical dragon scales", Elements.magical, I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.mystical_dragon_scales;
+        I.Price = Gold.FromCoins(1000);
+        I.SetDerivative(Entities.adult_mystical_dragon);
+      });
+
+      mystical_dragon_scale_mail = AddDragonScaleMailArmour("mystical dragon scale mail", Elements.magical, I =>
+      {
+        I.Description = null;
+        I.Glyph = Glyphs.mystical_dragon_scale_mail;
+        I.Price = Gold.FromCoins(2000);
+      });
+
       // ==================== STONES ====================
       // Calibrated against flint (Stocks.gem, ItemType.Rock, Rarity 10, Weight 100, Price 1gp)
       // and ruby (Rarity 4). All four "special stones" keep flint's Rock shape so they hide
@@ -17266,10 +17587,10 @@ namespace Pathos
       // Calibrated against can of grease (Stocks.tool, ItemType.Tool, Rarity 5, ChargesDice 5d5)
       // for the rub/eat dual pattern, and potion of healing (8d4/6d4/4d4) for the HealEntity dice.
 
-      medical_kit = AddItem(Stocks.tool, ItemType.Tool, "medical kit", I =>
+      medical_kit = AddItem(Stocks.tool, ItemType.Tool, "healer's satchel", I =>
       {
         I.Description = "A canvas roll of bandages, salves and sutures for treating wounds in the field.";
-        I.Glyph = Glyphs.medical_kit;
+        I.Glyph = Glyphs.healer_s_satchel;
         I.Sonic = Sonics.tool;
         I.Series = null;
         I.Rarity = 12;
@@ -17299,121 +17620,17 @@ namespace Pathos
         I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(20), Sonics.tool);
       });
 
-      stethoscope = AddItem(Stocks.tool, ItemType.Tool, "stethoscope", I =>
-      {
-        I.Description = "A physician's instrument for listening to a heartbeat -- yours, or something else's.";
-        I.Glyph = Glyphs.stethoscope;
-        I.Sonic = Sonics.tool;
-        I.Series = null;
-        I.Rarity = 15;
-        I.Size = Size.Small;
-        I.Weight = Weight.FromUnits(100);
-        I.Material = Materials.iron;
-        I.Essence = ToolEssence1;
-        I.Price = Gold.FromCoins(50);
-        // A quick self-diagnosis grants a short bout of Properties.warning, the same property
-        // ring of warning grants passively; here it is a rub-triggered, reusable, tiered pulse.
-        I.AddObviousUse(Motions.study, Delay.FromTurns(10), Sonics.tool, Use =>
-        {
-          Use.SetCast().Plain(Dice.One);
-          Use.Apply.WithSourceSanctity
-          (
-            B => B.ApplyTransient(Properties.warning, 5.d100()),
-            U => U.ApplyTransient(Properties.warning, 5.d20()),
-            C => C.ApplyTransient(Properties.deafness, 1.d6())
-          );
-        });
-        I.AddObviousIngestUse(Motions.eat, 100, Delay.FromTurns(20), Sonics.tool);
-      });
-
-      bandage = AddItem(Stocks.tool, ItemType.Tool, "bandage", I =>
-      {
-        I.Description = "A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.";
-        I.Glyph = Glyphs.bandage;
-        I.Sonic = Sonics.tool;
-        I.Series = null;
-        I.Rarity = 20;
-        I.Size = Size.Tiny;
-        I.Weight = Weight.FromUnits(20);
-        I.Material = Materials.cloth;
-        I.Essence = ToolEssence0;
-        I.Price = Gold.FromCoins(5);
-        I.AddHealingUse(Motions.rub, Delay.FromTurns(10), Sonics.tool, Use =>
-        {
-          Use.Consume();
-          Use.Apply.WithSourceSanctity
-          (
-            B => B.HealEntity(2.d4() + 2, Modifier.Zero),
-            U => U.HealEntity(1.d4() + 1, Modifier.Zero),
-            C => C.HealEntity(Dice.One, Modifier.Zero)
-          );
-        });
-        I.AddObviousIngestUse(Motions.eat, 20, Delay.FromTurns(10), Sonics.tool);
-      });
-
       // ==================== UTILITY TOOLS ====================
 
       // Tin opener: like the Governor's GetTinReduction/TinNutrition helpers imply, tins already
       // open faster and more safely just by owning the right tool -- there is no separate apply
       // verb needed in NetHack either. Ready it like lock_pick so it sits in the "tool" slot.
-      tin_opener = AddItem(Stocks.tool, ItemType.Tool, "tin opener", I =>
-      {
-        I.Description = "A small hooked blade made for prying the lid off a sealed tin.";
-        I.Glyph = Glyphs.tin_opener;
-        I.Sonic = Sonics.tool;
-        I.Series = null;
-        I.Rarity = 25;
-        I.Size = Size.Tiny;
-        I.Weight = Weight.FromUnits(100);
-        I.Material = Materials.iron;
-        I.Essence = ToolEssence1;
-        I.Price = Gold.FromCoins(12);
-        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.tool);
-        I.AddObviousIngestUse(Motions.eat, 30, Delay.FromTurns(10), Sonics.tool);
-      });
 
       // Towel: doubles as a wearable blindfold (same SetEquip/SetTalent(Properties.blindness) shape
       // as the shipped blindfold), and wipes stickiness/blindness off your face when rubbed instead.
-      towel = AddItem(Stocks.tool, ItemType.Eyewear, "towel", I =>
-      {
-        I.Description = "A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.";
-        I.Glyph = Glyphs.towel;
-        I.Sonic = Sonics.tool;
-        I.Series = null;
-        I.Rarity = 20;
-        I.Size = Size.Small;
-        I.Weight = Weight.FromUnits(100);
-        I.Material = Materials.cloth;
-        I.Essence = ToolEssence0;
-        I.Price = Gold.FromCoins(15);
-        I.SetEquip(EquipAction.Wear, Delay.FromTurns(10), Sonics.tool)
-         .SetTalent(Properties.blindness);
-        I.AddObviousUse(Motions.rub, Delay.FromTurns(5), Sonics.tool, Use =>
-        {
-          Use.SetCast().Plain(Dice.One);
-          Use.Apply.RemoveTransient(Properties.blindness, Properties.slippery);
-        });
-        I.AddObviousIngestUse(Motions.eat, 50, Delay.FromTurns(10), Sonics.tool);
-      });
 
       // Credit card: lock_pick's shape almost exactly, but lighter, cheaper and rarer -- the
       // improvised, less reliable cousin of a proper lock pick.
-      credit_card = AddItem(Stocks.tool, ItemType.Lockpick, "credit card", I =>
-      {
-        I.Description = "A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.";
-        I.Glyph = Glyphs.credit_card;
-        I.Sonic = Sonics.tool;
-        I.Series = null;
-        I.Rarity = 40;
-        I.BundleDice = Dice.One;
-        I.Size = Size.Tiny;
-        I.Weight = Weight.FromUnits(10);
-        I.Material = Materials.plastic;
-        I.Essence = ToolEssence1;
-        I.Price = Gold.FromCoins(12);
-        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.tool);
-        //I.AddEat(...); // NOTE: no diet can eat plastic yet, matching expensive camera's TODO.
-      });
 
       // Leash: same CaptureEntity/ReleaseEntity pair the net (bag_of_tricks-style capture device)
       // uses, without the anger dice -- this is meant for your own tame pet, not a hostile capture.
@@ -17558,28 +17775,6 @@ namespace Pathos
 
       // Pill: swallowed like unicorn horn's cure list, but weaker and via plain ingestion instead
       // of a zap -- a quick fix for a fouled-up condition, not a panacea.
-      pill = AddItem(Stocks.tool, ItemType.Tool, "pill", I =>
-      {
-        I.Description = "A small, chalky tablet of uncertain origin. Best swallowed quickly.";
-        I.Glyph = Glyphs.pill;
-        I.Sonic = Sonics.tool;
-        I.Series = null;
-        I.Rarity = 15;
-        I.Size = Size.Tiny;
-        I.Weight = Weight.FromUnits(5);
-        I.Material = Materials.clay;
-        I.Essence = ToolEssence0;
-        I.Price = Gold.FromCoins(15);
-        I.AddObviousIngestUse(Motions.eat, 10, Delay.FromTurns(10), Sonics.tool, A =>
-        {
-          A.WithSourceSanctity
-          (
-            B => B.RemoveTransient(Properties.sickness, Properties.confusion, Properties.hallucination),
-            U => U.RemoveTransient(Properties.sickness),
-            C => C.ApplyTransient(Properties.sickness, 1.d6())
-          );
-        });
-      });
 
 
       // Fishing pole: reels in the shipped "fish" food item, chance-gated by sanctity.
@@ -17665,7 +17860,7 @@ namespace Pathos
       // carrying the currently-unused Properties.sustain_ability, on potion of divinity's tiering.
       glossy_potion_of_sustenance = AddPotion("potion of sustenance", I =>
       {
-        I.Description = null;
+        I.Description = "A thin broth that sits in the stomach like a full meal. It tastes of nothing whatsoever, which is the price of never having to stop and eat.";
         I.SetAppearance("glossy potion", null);
         I.Glyph = Glyphs.glossy_potion;
         I.Sonic = Sonics.potion;
@@ -17693,7 +17888,7 @@ namespace Pathos
       // Properties.warning; a cursed drink broadcasts your position instead (Properties.aggravation).
       khaki_potion_of_warning = AddPotion("potion of warning", I =>
       {
-        I.Description = null;
+        I.Description = "Drinking it leaves a cold spot at the back of the neck, and the spot grows colder the closer danger comes.";
         I.SetAppearance("khaki potion", null);
         I.Glyph = Glyphs.khaki_potion;
         I.Sonic = Sonics.potion;
@@ -17719,59 +17914,9 @@ namespace Pathos
 
       // Mooshroom: a Minecraft-flavoured food item; eating it grants Properties.life_regeneration,
       // via the same GainTalent/MajorProperty ingest split as darkstone above.
-      mooshroom = AddFood("mooshroom", I =>
-      {
-        I.Description = "A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.";
-        I.Glyph = Glyphs.mooshroom;
-        I.Sonic = Sonics.food;
-        I.Series = null;
-        I.Rarity = 5;
-        I.Size = Size.Medium;
-        I.Weight = Weight.FromUnits(400);
-        I.Material = Materials.animal;
-        I.Essence = FoodEssence2;
-        I.Price = Gold.FromCoins(50);
-        I.AddObviousIngestUse(Motions.eat, 600, Delay.FromTurns(30), Sonics.eat, A =>
-        {
-          A.WithSourceSanctity
-          (
-            B => B.GainTalent(Properties.life_regeneration),
-            U => U.MajorProperty(Properties.life_regeneration),
-            C => C.ApplyTransient(Properties.hallucination, 1.d20())
-          );
-        });
-      });
 
       // Strange object: an unidentifiable gadget with a different, chaotic effect every time --
       // reuses the two-branch WhenChance already seen on the shipped "boulder" polymorph gag.
-      strange_object = AddItem(Stocks.tool, ItemType.Tool, "strange object", I =>
-      {
-        I.Description = "A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.";
-        I.Glyph = Glyphs.strange_object;
-        I.Sonic = Sonics.tool;
-        I.Series = null;
-        I.Rarity = 5;
-        I.Size = Size.Small;
-        I.Weight = Weight.FromUnits(150);
-        I.Material = Materials.iron;
-        I.Essence = ToolEssence3;
-        I.Price = Gold.FromCoins(100);
-        I.AddObviousUse(Motions.rub, Delay.FromTurns(10), Sonics.tool, Use =>
-        {
-          Use.SetCast().Plain(Dice.One);
-          Use.Apply.WithSourceSanctity
-          (
-            B => B.WhenChance(Chance.OneIn2,
-                   T => T.HealEntity(2.d8(), Modifier.Zero),
-                   F => F.ApplyTransient(Properties.quickness, 1.d20())),
-            U => U.WhenChance(Chance.OneIn2,
-                   T => T.ApplyTransient(Properties.confusion, 1.d10()),
-                   F => F.ApplyTransient(Properties.stunned, 1.d6())),
-            C => C.HarmEntity(Elements.magical, 2.d6())
-          );
-        });
-        //I.AddEat(...); // NOTE: no diet can eat this yet, matching expensive camera's TODO.
-      });
 
       khopesh = AddMeleeWeapon("khopesh", I =>
       {
@@ -17992,123 +18137,20 @@ namespace Pathos
       // weight 1500, WeaponEssence3, price 600, FixedRange 20, AttackDelay +5) and assault_rifle
       // (FixedRange 20): a never-randomly-generated, anachronistic two-handed sniper piece —
       // reuses the standard bullet, trading rate of fire for accuracy and range.
-      railgun = AddRangedWeapon(Ammunition.Bullet, "railgun", I =>
-      {
-        I.Description = null;
-        I.SetAppearance("coiled gun", null);
-        I.Glyph = Glyphs.railgun;
-        I.Sonic = Sonics.weapon;
-        I.Series = null;
-        I.Rarity = 0;
-        I.Size = Size.Large;
-        I.Weight = Weight.FromUnits(700);
-        I.Material = Materials.iron;
-        I.Essence = WeaponEssence3;
-        I.Price = Gold.FromCoins(800);
-        I.AddObviousIngestUse(Motions.eat, 350, Delay.FromTurns(20), Sonics.weapon);
-        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
-        var W = I.SetTwoHandedWeapon(Skills.firearms, Sonics.rifle_shot, Elements.physical, DamageType.Bludgeon, 2.d6());
-        W.FixedRange = 25;
-        W.AttackModifier = Modifier.Plus2;
-        W.AttackDelay = Delay.FromTurns(+5);
-      });
 
       // Calibrated against club (Skills.club, wood, medium, rarity 22, weight 300, price 3, 1d6):
       // a heftier anachronistic bat, slightly rarer since it doesn't belong in this era.
-      baseball_bat = AddMeleeWeapon("baseball bat", I =>
-      {
-        I.Description = "A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.";
-        I.Glyph = Glyphs.baseball_bat;
-        I.Sonic = Sonics.weapon;
-        I.Series = null;
-        I.Rarity = 5;
-        I.Size = Size.Medium;
-        I.Weight = Weight.FromUnits(320);
-        I.Material = Materials.wood;
-        I.Essence = WeaponEssence0;
-        I.Price = Gold.FromCoins(8);
-        I.AddObviousIngestUse(Motions.eat, 160, Delay.FromTurns(30), Sonics.weapon);
-        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
-        I.SetOneHandedWeapon(Skills.club, null, Elements.physical, DamageType.Bludgeon, 1.d7());
-      });
 
       // Calibrated against plastic_sword (Materials.plastic toy weapon, rarity 0, small, weight
       // 100, WeaponEssence2, price 5, no ingest use, 1d4): a hollow toy bat.
-      plastic_bat = AddMeleeWeapon("plastic bat", I =>
-      {
-        I.Description = null;
-        I.SetAppearance("toy bat", null);
-        I.Glyph = Glyphs.plastic_bat;
-        I.Sonic = Sonics.weapon;
-        I.Series = null;
-        I.Rarity = 0;
-        I.Size = Size.Small;
-        I.Weight = Weight.FromUnits(120);
-        I.Material = Materials.plastic;
-        I.Essence = WeaponEssence2;
-        I.Price = Gold.FromCoins(5);
-        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
-        I.SetOneHandedWeapon(Skills.club, null, Elements.physical, DamageType.Bludgeon, 1.d4());
-      });
 
       // Same toy template as plastic_bat / plastic_sword, on the hammer skill.
-      plastic_hammer = AddMeleeWeapon("plastic hammer", I =>
-      {
-        I.Description = null;
-        I.SetAppearance("toy hammer", null);
-        I.Glyph = Glyphs.plastic_hammer;
-        I.Sonic = Sonics.weapon;
-        I.Series = null;
-        I.Rarity = 0;
-        I.Size = Size.Small;
-        I.Weight = Weight.FromUnits(100);
-        I.Material = Materials.plastic;
-        I.Essence = WeaponEssence2;
-        I.Price = Gold.FromCoins(4);
-        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.weapon);
-        I.SetOneHandedWeapon(Skills.hammer, null, Elements.physical, DamageType.Bludgeon, 1.d3());
-      });
 
       // Calibrated against chakram (Skills.disc, thrown, BundleDice 1d3+3, price 10): a
       // featherweight toy disc, cheap and nearly harmless.
-      frisbee = AddThrownWeapon("frisbee", I =>
-      {
-        I.Description = "A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.";
-        I.Glyph = Glyphs.frisbee;
-        I.Sonic = Sonics.weapon;
-        I.Series = null;
-        I.Rarity = 0;
-        I.Size = Size.Small;
-        I.Weight = Weight.FromUnits(20);
-        I.Material = Materials.plastic;
-        I.Essence = WeaponEssence1;
-        I.SetWeakness(AmmoWeakness);
-        I.BundleDice = 1.d3() + 3;
-        I.Price = Gold.FromCoins(3);
-        I.SetEquip(EquipAction.Ready, Delay.FromTurns(10), Sonics.weapon);
-        I.SetOneHandedWeapon(Skills.disc, Sonics.throw_object, Elements.physical, DamageType.Bludgeon, 1.d2());
-      });
 
       // Calibrated against rubber_hose (Materials.plastic, Skills.whip, one-handed, rarity 0,
       // weight 50, price 4, 1d2 with SpecialDisarm): a toy on a string, same niche.
-      yoyo = AddMeleeWeapon("yoyo", I =>
-      {
-        I.Description = "A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.";
-        I.Glyph = Glyphs.yoyo;
-        I.Sonic = Sonics.weapon;
-        I.Series = null;
-        I.Rarity = 0;
-        I.Size = Size.Small;
-        I.Weight = Weight.FromUnits(30);
-        I.Material = Materials.plastic;
-        I.Essence = WeaponEssence1;
-        I.Price = Gold.FromCoins(3);
-        I.SetEquip(EquipAction.Wield, Delay.FromTurns(10), Sonics.tool);
-        I.SetOneHandedWeapon(Skills.whip, null, Elements.physical, DamageType.Bludgeon, 1.d2(), A =>
-        {
-          A.SpecialDisarm();
-        });
-      });
 
       // Calibrated against iron_shoes (ItemType.Boots, heavy_armour+2, iron, rarity 7, weight
       // 500, price 16): a plain heavy iron boot.
@@ -18282,7 +18324,7 @@ namespace Pathos
       // appearances instead of a mineral/wood name.
       silly_wand = AddWand("wand of confusion", I =>
       {
-        I.Description = null;
+        I.Description = "A short wand carved into a grinning face, the sort a street conjurer waves about before the trick.";
         I.SetAppearance("silly wand", null);
         I.Glyph = Glyphs.silly_wand;
         I.Sonic = Sonics.wand;
@@ -18314,7 +18356,7 @@ namespace Pathos
 
       forked_wand = AddWand("wand of telekinesis", I =>
       {
-        I.Description = null;
+        I.Description = "A wand that splits into two prongs at the tip, like a diviner's rod that never did find water.";
         I.SetAppearance("forked wand", null);
         I.Glyph = Glyphs.forked_wand;
         I.Sonic = Sonics.wand;
@@ -18346,7 +18388,7 @@ namespace Pathos
 
       pine_wand = AddWand("wand of levitation", I =>
       {
-        I.Description = null;
+        I.Description = "A length of pine still sticky with resin, cut and polished in a hurry.";
         I.SetAppearance("pine wand", null);
         I.Glyph = Glyphs.pine_wand;
         I.Sonic = Sonics.wand;
@@ -18376,41 +18418,13 @@ namespace Pathos
         });
       });
 
-      plastic_wand = AddWand("wand of jumping", I =>
-      {
-        I.Description = null;
-        I.SetAppearance("plastic wand", null);
-        I.Glyph = Glyphs.plastic_wand;
-        I.Sonic = Sonics.wand;
-        I.Series = WandSeries;
-        I.Rarity = 20;
-        I.Size = WandSize;
-        I.Weight = Weight.FromUnits(70);
-        I.Material = Materials.plastic;
-        I.Essence = WandEssence1;
-        I.Price = Gold.FromCoins(100);
-        I.SetWeakness(WandWeakness);
-        I.ChargesDice = 1.d5() + 4;
-        I.AddPropertyBuffUse(Motions.zap, Properties.jumping, WandZapDelay, Sonics.magic, Use =>
-        {
-          Use.SetCast().Strike(Strikes.spirit, 2.d6() + 2)
-             .SetAudibility(5);
-          Use.Apply.WithSourceSanctity
-          (
-            B => B.ApplyTransient(Properties.jumping, 20.d6()),
-            U => U.ApplyTransient(Properties.jumping, 10.d6()),
-            C => C.ApplyTransient(Properties.jumping, 5.d6())
-          );
-        });
-      });
-
       // === mithril material weapons ===
       // calibrated against mithril_katar/mithril_whip (WeaponEssence3, MithrilRarity, price = steel price x10,
       // dice = steel dice + 1, same weight as the steel weapon) and mithril_long_sword/mithril_battleaxe.
 
       mithril_axe = AddMeleeWeapon("mithril axe", I =>
       {
-        I.Description = null;
+        I.Description = "Mithril takes an edge that steel cannot hold and weighs a third as much. The head barely tires the arm between swings.";
         I.Glyph = Glyphs.mithril_axe;
         I.Sonic = Sonics.weapon;
         I.Series = null;
@@ -18427,7 +18441,7 @@ namespace Pathos
 
       mithril_trident = AddReachWeapon("mithril trident", I =>
       {
-        I.Description = null;
+        I.Description = "Three mithril prongs on a slender shaft. It goes through mail with very little behind it.";
         I.SetAppearance("three-pointed polearm", null);
         I.Glyph = Glyphs.mithril_trident;
         I.Sonic = Sonics.weapon;
@@ -18445,7 +18459,7 @@ namespace Pathos
 
       mithril_greatsword = AddMeleeWeapon("mithril greatsword", I =>
       {
-        I.Description = null;
+        I.Description = "A greatsword a strong child could lift and an adult could swing all day. Mithril forgives the arms what it does not forgive the enemy.";
         I.Glyph = Glyphs.mithril_greatsword;
         I.Sonic = Sonics.weapon;
         I.Series = null;
@@ -18462,7 +18476,7 @@ namespace Pathos
 
       mithril_shuriken = AddThrownWeapon("mithril shuriken", I =>
       {
-        I.Description = null;
+        I.Description = "A star of mithril, so light that it seems to hang in the air a moment before it arrives.";
         I.SetAppearance("throwing star", null);
         I.Glyph = Glyphs.mithril_shuriken;
         I.Sonic = Sonics.weapon;
@@ -18482,7 +18496,7 @@ namespace Pathos
 
       mithril_rapier = AddMeleeWeapon("mithril rapier", I =>
       {
-        I.Description = null;
+        I.Description = "A duelling blade of mithril: quick past the guard, and quicker back.";
         I.Glyph = Glyphs.mithril_rapier;
         I.Sonic = Sonics.weapon;
         I.Series = null;
@@ -18499,7 +18513,7 @@ namespace Pathos
 
       mithril_katana = AddMeleeWeapon("mithril katana", I =>
       {
-        I.Description = null;
+        I.Description = "Folded mithril holds an edge that no whetstone has ever had to touch. The smiths who made it are long dead.";
         I.SetAppearance("samurai sword", null);
         I.Glyph = Glyphs.mithril_katana;
         I.Sonic = Sonics.weapon;
@@ -18517,7 +18531,7 @@ namespace Pathos
 
       mithril_poleaxe = AddReachWeapon("mithril poleaxe", I =>
       {
-        I.Description = null;
+        I.Description = "A poleaxe whose head weighs almost nothing, so the swing goes where it is aimed rather than where it falls.";
         I.SetAppearance("angled poleaxe", null);
         I.Glyph = Glyphs.mithril_poleaxe;
         I.Sonic = Sonics.weapon;
@@ -18535,7 +18549,7 @@ namespace Pathos
 
       mithril_hatchet = AddThrownWeapon("mithril hatchet", I =>
       {
-        I.Description = null;
+        I.Description = "A throwing hatchet of mithril. It flies flatter and further than its weight suggests it should.";
         I.SetAppearance("throwing axe", null);
         I.Glyph = Glyphs.mithril_hatchet;
         I.Sonic = Sonics.weapon;
@@ -18598,7 +18612,7 @@ namespace Pathos
       {
         AdamantineEquivalent(I, katana);
 
-        I.Description = null;
+        I.Description = "Adamantine cannot be dulled and will not break. The blade will outlast whoever is carrying it.";
         I.SetAppearance("samurai sword", null);
         I.Glyph = Glyphs.adamantine_katana;
         I.Series = null;
@@ -18611,7 +18625,7 @@ namespace Pathos
       {
         AdamantineEquivalent(I, lance);
 
-        I.Description = null;
+        I.Description = "A lance tipped with adamantine. Shields do not stop it; they only decide where it comes through.";
         I.Glyph = Glyphs.adamantine_lance;
         I.Series = null;
         //I.AddObviousIngestUse(Motions.eat, 900, Delay.FromTurns(40), Sonics.weapon);
@@ -18623,7 +18637,7 @@ namespace Pathos
       {
         AdamantineEquivalent(I, halberd);
 
-        I.Description = null;
+        I.Description = "The head is adamantine and the haft is merely wood, so the haft is what usually fails first.";
         I.SetAppearance("angled poleaxe", null);
         I.Glyph = Glyphs.adamantine_poleaxe;
         I.Series = null;
@@ -18636,7 +18650,7 @@ namespace Pathos
       {
         AdamantineEquivalent(I, quarterstaff);
 
-        I.Description = null;
+        I.Description = "A plain staff of adamantine: unremarkable to look at, and impossible to snap.";
         I.Glyph = Glyphs.adamantine_quarterstaff;
         I.Series = null;
         I.SetArmour(Skills.staff, 1);
@@ -18649,7 +18663,7 @@ namespace Pathos
       {
         AdamantineEquivalent(I, shuriken);
 
-        I.Description = null;
+        I.Description = "Adamantine stars, thrown a thousand times and recovered a thousand times. Nothing they strike blunts them.";
         I.SetAppearance("throwing star", null);
         I.Glyph = Glyphs.adamantine_shuriken;
         I.Series = null;
@@ -18664,7 +18678,7 @@ namespace Pathos
       {
         AdamantineEquivalent(I, crossbow_bolt);
 
-        I.Description = null;
+        I.Description = "A bolt with an adamantine head, made to open the armour that other bolts merely dent.";
         I.Glyph = Glyphs.adamantine_crossbow_bolt;
         I.Series = null;
         I.SetWeakness(); // won't break
@@ -18702,7 +18716,7 @@ namespace Pathos
       {
         AdamantineEquivalent(I, helmet);
 
-        I.Description = null;
+        I.Description = "A helm of adamantine: heavy, unlovely, and proof against the blow that would otherwise have ended things.";
         I.Glyph = Glyphs.adamantine_helmet;
         I.Series = null;
         //I.AddObviousIngestUse(Motions.eat, 250, Delay.FromTurns(50), Sonics.armour);
@@ -18738,7 +18752,7 @@ namespace Pathos
 
       gold_axe = AddMeleeWeapon("gold axe", I =>
       {
-        I.Description = null;
+        I.Description = "Gold is far too soft to hold an edge, but it is worth more than the fight. Ceremonial, and traded rather more often than it is swung.";
         I.Glyph = Glyphs.gold_axe;
         I.Sonic = Sonics.weapon;
         I.Series = null;
@@ -18755,7 +18769,7 @@ namespace Pathos
 
       gold_dagger = AddThrownWeapon("gold dagger", I =>
       {
-        I.Description = null;
+        I.Description = "A sacrificial dagger of soft gold, meant for the altar rather than the field.";
         I.Glyph = Glyphs.gold_dagger;
         I.Sonic = Sonics.weapon;
         I.BundleDice = Dice.One;
@@ -18773,7 +18787,7 @@ namespace Pathos
 
       gold_flail = AddMeleeWeapon("gold flail", I =>
       {
-        I.Description = null;
+        I.Description = "A flail with a gilded head, made to be carried in procession behind somebody important.";
         I.Glyph = Glyphs.gold_flail;
         I.Sonic = Sonics.weapon;
         I.Series = null;
@@ -18828,7 +18842,7 @@ namespace Pathos
 
       gold_longsword = AddMeleeWeapon("gold longsword", I =>
       {
-        I.Description = null;
+        I.Description = "A parade sword of gold, kept bright and never once sharpened.";
         I.Glyph = Glyphs.gold_longsword;
         I.Sonic = Sonics.weapon;
         I.Series = null;
@@ -18884,7 +18898,7 @@ namespace Pathos
 
       gold_trident = AddReachWeapon("gold trident", I =>
       {
-        I.Description = null;
+        I.Description = "A gilded trident from some temple to the sea. The prongs bend if you lean on them.";
         I.SetAppearance("three-pointed polearm", null);
         I.Glyph = Glyphs.gold_trident;
         I.Sonic = Sonics.weapon;
@@ -18902,7 +18916,7 @@ namespace Pathos
 
       gold_twohanded_sword = AddMeleeWeapon("gold twohanded sword", I =>
       {
-        I.Description = null;
+        I.Description = "An enormous sword of solid gold, more monument than weapon, and worth a small estate.";
         I.Glyph = Glyphs.gold_twohanded_sword;
         I.Sonic = Sonics.weapon;
         I.Series = null;
@@ -18937,7 +18951,7 @@ namespace Pathos
 
       gold_chakram = AddThrownWeapon("gold chakram", I =>
       {
-        I.Description = null;
+        I.Description = "A throwing ring of gold. It returns beautifully and cuts adequately.";
         I.SetAppearance("throwing disc", null);
         I.Glyph = Glyphs.gold_chakram;
         I.Sonic = Sonics.weapon;
@@ -18996,7 +19010,7 @@ namespace Pathos
       // AddInstrument, ToolEssence0, price scaled 10gp -> 80gp the same x8 way the weapons above are).
       gold_whistle = AddInstrument("gold whistle", I =>
       {
-        I.Description = null;
+        I.Description = "A gold whistle on a fine chain. The note is no better than tin's and the price is considerably worse.";
         I.SetAppearance("whistle", null);
         I.Glyph = Glyphs.gold_whistle;
         I.Sonic = Sonics.tool;
@@ -19026,7 +19040,7 @@ namespace Pathos
 
       rose_axe = AddMeleeWeapon("rose axe", I =>
       {
-        I.Description = null;
+        I.Description = "Rose gold, alloyed with copper for a warmer colour and a little more spine than gold alone.";
         I.Glyph = Glyphs.rose_axe;
         I.Sonic = Sonics.weapon;
         I.Series = null;
@@ -19043,7 +19057,7 @@ namespace Pathos
 
       rose_battleaxe = AddMeleeWeapon("rose battleaxe", I =>
       {
-        I.Description = null;
+        I.Description = "A battleaxe of rose gold, enormous and impractical, carried by someone with more household than sense.";
         I.SetAppearance("double-headed axe", null);
         I.Glyph = Glyphs.rose_battleaxe;
         I.Sonic = Sonics.weapon;
@@ -19063,7 +19077,7 @@ namespace Pathos
       // ("exotic two-pointed polearm" is required as an appearance for polearms by the sanity check).
       rose_bident = AddReachWeapon("rose bident", I =>
       {
-        I.Description = null;
+        I.Description = "Two prongs of rose gold on a polished haft: a ceremonial guard's weapon, and unmistakably so.";
         I.SetAppearance("exotic two-pointed polearm", null);
         I.Glyph = Glyphs.rose_bident;
         I.Sonic = Sonics.weapon;
@@ -19081,7 +19095,7 @@ namespace Pathos
 
       rose_dagger = AddThrownWeapon("rose dagger", I =>
       {
-        I.Description = null;
+        I.Description = "A slim rose-gold dagger, warm to the touch and made to be seen being carried.";
         I.Glyph = Glyphs.rose_dagger;
         I.Sonic = Sonics.weapon;
         I.BundleDice = Dice.One;
@@ -19099,7 +19113,7 @@ namespace Pathos
 
       rose_greatsword = AddMeleeWeapon("rose greatsword", I =>
       {
-        I.Description = null;
+        I.Description = "Rose gold takes an edge no better than gold does, but it looks magnificent failing to.";
         I.Glyph = Glyphs.rose_greatsword;
         I.Sonic = Sonics.weapon;
         I.Series = null;
@@ -19116,7 +19130,7 @@ namespace Pathos
 
       rose_hatchet = AddThrownWeapon("rose hatchet", I =>
       {
-        I.Description = null;
+        I.Description = "A rose-gold hatchet, balanced for throwing by someone who was never going to throw it.";
         I.SetAppearance("throwing axe", null);
         I.Glyph = Glyphs.rose_hatchet;
         I.Sonic = Sonics.weapon;
@@ -19135,7 +19149,7 @@ namespace Pathos
 
       rose_long_sword = AddMeleeWeapon("rose long sword", I =>
       {
-        I.Description = null;
+        I.Description = "A long sword of rose gold, the copper in the alloy giving it a blush the smiths were proud of.";
         I.Glyph = Glyphs.rose_long_sword;
         I.Sonic = Sonics.weapon;
         I.Series = null;
@@ -19152,7 +19166,7 @@ namespace Pathos
 
       rose_rapier = AddMeleeWeapon("rose rapier", I =>
       {
-        I.Description = null;
+        I.Description = "A duelling rapier of rose gold. It settles questions of standing far more often than questions of life.";
         I.Glyph = Glyphs.rose_rapier;
         I.Sonic = Sonics.weapon;
         I.Series = null;
@@ -19169,7 +19183,7 @@ namespace Pathos
 
       rose_sabre = AddMeleeWeapon("rose sabre", I =>
       {
-        I.Description = null;
+        I.Description = "A cavalry sabre in rose gold: curved, gleaming, and never once blooded.";
         I.Glyph = Glyphs.rose_sabre;
         I.Sonic = Sonics.weapon;
         I.Series = null;
@@ -19186,7 +19200,7 @@ namespace Pathos
 
       rose_short_sword = AddMeleeWeapon("rose short sword", I =>
       {
-        I.Description = null;
+        I.Description = "A short sword of rose gold, sized for a courtier's belt and a courtier's quarrel.";
         I.Glyph = Glyphs.rose_short_sword;
         I.Sonic = Sonics.weapon;
         I.Series = null;
@@ -19203,7 +19217,7 @@ namespace Pathos
 
       rose_spear = AddReachWeapon("rose spear", I =>
       {
-        I.Description = null;
+        I.Description = "A rose-gold spear carried at the head of processions, point up, so that nobody has to look at it closely.";
         I.Glyph = Glyphs.rose_spear;
         I.Sonic = Sonics.weapon;
         I.Series = null;
@@ -19960,6 +19974,20 @@ namespace Pathos
     // <<< GENERATED BOOK-FIELDS <<<
     // >>> GENERATED ITEMS-FIELDS >>>
     public readonly Item naginata;
+    public readonly Item adamantine_shield;
+    public readonly Item adamantine_boots;
+    public readonly Item adamantine_gauntlets;
+    public readonly Item gold_helmet;
+    public readonly Item gold_shield;
+    public readonly Item gold_boots;
+    public readonly Item gold_gauntlets;
+    public readonly Item mithril_shoes;
+    public readonly Item mithril_gloves;
+    public readonly Item rose_helmet;
+    public readonly Item rose_plate_mail;
+    public readonly Item rose_shield;
+    public readonly Item rose_boots;
+    public readonly Item rose_gauntlets;
     public readonly Item Stormbringer;
     public readonly Item Mournblade;
     public readonly Item Gungir;
@@ -19974,6 +20002,14 @@ namespace Pathos
     public readonly Item Celestial_Portent;
     public readonly Item Nonagon_Infinity;
     public readonly Item Demiurge;
+    public readonly Item grey_dragon_scales;
+    public readonly Item grey_dragon_scale_mail;
+    public readonly Item astral_dragon_scales;
+    public readonly Item astral_dragon_scale_mail;
+    public readonly Item fae_dragon_scales;
+    public readonly Item fae_dragon_scale_mail;
+    public readonly Item mystical_dragon_scales;
+    public readonly Item mystical_dragon_scale_mail;
     public readonly Item luckstone;
     public readonly Item loadstone;
     public readonly Item touchstone;
@@ -19981,24 +20017,16 @@ namespace Pathos
     public readonly Item healthstone;
     public readonly Item whetstone;
     public readonly Item medical_kit;
-    public readonly Item stethoscope;
-    public readonly Item bandage;
-    public readonly Item tin_opener;
-    public readonly Item towel;
-    public readonly Item credit_card;
     public readonly Item leash;
     public readonly Item mirror;
     public readonly Item candelabrum;
     public readonly Item dragon_horn;
     public readonly Item phial;
-    public readonly Item pill;
     public readonly Item fishing_pole;
     public readonly Item grappling_hook;
     public readonly Item eyeball;
     public readonly Item glossy_potion_of_sustenance;
     public readonly Item khaki_potion_of_warning;
-    public readonly Item mooshroom;
-    public readonly Item strange_object;
     public readonly Item khopesh;
     public readonly Item triplesword;
     public readonly Item war_maul;
@@ -20009,12 +20037,6 @@ namespace Pathos
     public readonly Item elven_hand_crossbow;
     public readonly Item sling_staff;
     public readonly Item wheellock_pistol;
-    public readonly Item railgun;
-    public readonly Item baseball_bat;
-    public readonly Item plastic_bat;
-    public readonly Item plastic_hammer;
-    public readonly Item frisbee;
-    public readonly Item yoyo;
     public readonly Item steel_boots;
     public readonly Item fancy_boots;
     public readonly Item cloth_shirt;
@@ -20026,7 +20048,6 @@ namespace Pathos
     public readonly Item silly_wand;
     public readonly Item forked_wand;
     public readonly Item pine_wand;
-    public readonly Item plastic_wand;
     public readonly Item mithril_axe;
     public readonly Item mithril_trident;
     public readonly Item mithril_greatsword;

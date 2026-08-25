@@ -165,11 +165,13 @@ actions icon
 adamantine arrow
 adamantine axe
 adamantine bident
+adamantine boots
 adamantine bow
 adamantine bullet
 adamantine crossbow bolt
 adamantine dagger
 adamantine dart
+adamantine gauntlets
 adamantine golem
 adamantine greataxe
 adamantine greatmace
@@ -185,16 +187,21 @@ adamantine poleaxe
 adamantine quarterstaff
 adamantine rapier
 adamantine sabre
+adamantine shield
 adamantine short sword
 adamantine shuriken
 adamantine spear
 adamantine staff
 adamantine twohanded sword
+adult astral dragon
 adult black dragon
 adult blue dragon
 adult deep dragon
+adult fae dragon
 adult gold dragon
 adult green dragon
+adult grey dragon
+adult mystical dragon
 adult orange dragon
 adult raven
 adult red dragon
@@ -220,12 +227,16 @@ aluminium wand
 amber book
 amnesia trap
 amulet stock
+ancient astral dragon
 ancient black dragon
 ancient blue dragon
 ancient book
 ancient deep dragon
+ancient fae dragon
 ancient gold dragon
 ancient green dragon
+ancient grey dragon
+ancient mystical dragon
 ancient orange dragon
 ancient red dragon
 ancient shimmering dragon
@@ -297,7 +308,8 @@ assault rifle
 assets icon
 astral deva
 astral dog
-astral dragon
+astral dragon scale mail
+astral dragon scales
 astral puppy
 athame
 athol
@@ -308,14 +320,18 @@ augury spell
 auto shotgun
 axe
 babau
+baby astral dragon
 baby black dragon
 baby blue dragon
 baby crocodile
 baby deep dragon
+baby fae dragon
 baby gold dragon
 baby green dragon
+baby grey dragon
 baby long worm
 baby mimic
+baby mystical dragon
 baby orange dragon
 baby purple worm
 baby red dragon
@@ -334,7 +350,6 @@ balsa wand
 baluchitherium
 bamboo wand
 banana
-bandage
 banded book
 banded mail
 bane spell
@@ -349,7 +364,6 @@ barrier icon
 barring ward spell
 barrow wight
 basalt book
-baseball bat
 basilisk
 bat
 battered book
@@ -629,7 +643,6 @@ cratered book
 cration
 cream pie
 create familiar spell
-credit card
 creeping palsy spell
 crested helmet
 crimson book
@@ -1027,7 +1040,8 @@ extinction icon
 extra healing spell
 eyeball
 faded book
-fae dragon
+fae dragon scale mail
+fae dragon scales
 fainting property
 fairy
 fairy female barbarian
@@ -1173,7 +1187,6 @@ freedom of movement spell
 freedom spell
 freeze
 freezing sphere spell
-frisbee
 frost beetle
 frost binder
 frost breath spell
@@ -1385,6 +1398,7 @@ goblin
 goblin king
 gold axe
 gold book
+gold boots
 gold boulder
 gold chakram
 gold coin
@@ -1404,12 +1418,15 @@ gold dragon scales
 gold earrings
 gold flail
 gold floor
+gold gauntlets
 gold golem
+gold helmet
 gold khanda
 gold labrys
 gold longsword
 gold plate mail
 gold ring
+gold shield
 gold single vajra
 gold spade
 gold trident
@@ -1449,6 +1466,8 @@ green slime
 gremlin
 grenade launcher
 grey book
+grey dragon scale mail
+grey dragon scales
 grey elf
 grey ooze
 grey unicorn
@@ -1479,6 +1498,7 @@ hatchet
 hawaiian shirt
 hazard sense spell
 hazel book
+healer s satchel
 healing spell
 healthstone
 heavy hammer
@@ -1888,7 +1908,6 @@ meat ring
 meat stick
 meatball
 medallion amulet
-medical kit
 medusa
 melanistic moccasin
 mellified man
@@ -1940,6 +1959,7 @@ mithril crossbow bolt
 mithril dagger
 mithril dart
 mithril gauntlets
+mithril gloves
 mithril golem
 mithril greatmace
 mithril greatsword
@@ -1955,6 +1975,7 @@ mithril rapier
 mithril ring
 mithril sabre
 mithril shield
+mithril shoes
 mithril short sword
 mithril shuriken
 mithril spear
@@ -1969,7 +1990,6 @@ mongbat
 monkey
 mood ring
 moonstone ring
-mooshroom
 more icon
 morning star
 moss
@@ -2000,7 +2020,8 @@ mushroom
 mutation affliction
 muted book
 mystic coven
-mystical dragon
+mystical dragon scale mail
+mystical dragon scales
 nabassu
 naginata
 nalfeshnee
@@ -2148,7 +2169,6 @@ pickaxe
 piece of cloth
 pig
 pile of killer coins
-pill
 pine wand
 pink book
 pink potion
@@ -2173,11 +2193,8 @@ planar anchor spell
 planar swap spell
 plasmoid
 plasmoid nonbinary tinker
-plastic bat
 plastic golem
-plastic hammer
 plastic sword
-plastic wand
 plate barding
 plate mail
 platform icon
@@ -2275,7 +2292,6 @@ rabies affliction
 radiant book
 rage property
 ragged book
-railgun
 rainbow book
 raise dead spell
 rally cry spell
@@ -2373,13 +2389,18 @@ rope golem
 rose axe
 rose battleaxe
 rose bident
+rose boots
 rose dagger
+rose gauntlets
 rose greatsword
 rose hatchet
+rose helmet
 rose long sword
+rose plate mail
 rose rapier
 rose ring
 rose sabre
+rose shield
 rose short sword
 rose spear
 roshi
@@ -2569,7 +2590,6 @@ silver twohanded sword
 silver wand
 silvered book
 simulacrum spell
-sink
 skeleton
 skeleton key
 skill abjuration
@@ -2728,7 +2748,6 @@ steed icon
 steel boots
 steel ring
 steel wand
-stethoscope
 stick of dynamite
 stiletto
 stone boulder
@@ -2762,7 +2781,6 @@ storm coyote
 storm giant
 storm raven
 storm wracked book
-strange object
 straw golem
 stuck icon
 studded leather armour
@@ -2822,14 +2840,12 @@ tigerwere
 timed combustion spell
 tin
 tin golem
-tin opener
 tin wand
 tin whistle
 tinning kit
 tiny book
 titan
 titanothere
-toilet
 tongue tied spell
 tool stock
 tooled horn
@@ -2841,7 +2857,6 @@ torn book
 tortilla
 tortle
 touchstone
-towel
 toxic spray spell
 toxic trap
 tracker
@@ -3083,18 +3098,21 @@ yellowish brown gem
 yeoman
 yeoman warder
 yeti
+young astral dragon
 young black dragon
 young blue dragon
 young deep dragon
+young fae dragon
 young gold dragon
 young green dragon
+young grey dragon
+young mystical dragon
 young orange dragon
 young red dragon
 young shimmering dragon
 young silver dragon
 young white dragon
 young yellow dragon
-yoyo
 yumi
 zinc wand
 zombietree

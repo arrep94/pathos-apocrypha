@@ -1,11 +1,24 @@
 A	C	G	S	#	File
-X	X	X	X	4	adult grey dragon.png
-X	X	X	X	4	ancient grey dragon.png
-X	X	X	X	4	baby grey dragon.png
+X	X	X	X	4	bandage.png
+X	X	X	X	4	baseball bat.png
 X	X	X	X	4	bejewelled book.png
-X	X	X	X	4	grey dragon scale mail.png
-X	X	X	X	4	grey dragon scales.png
+X	X	X	X	4	credit card.png
+X	X	X	X	4	frisbee.png
+X	X	X	X	4	healer's satchel.png
+X	X	X	X	4	mooshroom.png
+X	X	X	X	4	pill.png
+X	X	X	X	4	plastic bat.png
+X	X	X	X	4	plastic hammer.png
+X	X	X	X	4	plastic wand.png
+X	X	X	X	4	railgun.png
+X	X	X	X	4	sink.png
 X	X	X	X	4	smouldering book.png
+X	X	X	X	4	stethoscope.png
+X	X	X	X	4	strange object.png
+X	X	X	X	4	tin opener.png
+X	X	X	X	4	toilet.png
+X	X	X	X	4	towel.png
+X	X	X	X	4	yoyo.png
 X	X	 	X	3	burgundy book.png
 X	X	 	X	3	froster.png
 X	X	 	X	3	holy book.png
@@ -13,7 +26,6 @@ X	X	 	X	3	igniter.png
 X	X	 	X	3	pentagram book.png
 X	X	 	X	3	perforated book.png
 X	X	 	X	3	shredded book.png
-X	 	X	X	3	young grey dragon.png
  	X	 	X	2	pine.png
 X	 	 	 	1	air.png
  	 	 	X	1	balrog original.png

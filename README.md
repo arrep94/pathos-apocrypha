@@ -7,7 +7,7 @@ README invites.
 *Apocrypha*: the books that sit outside the accepted canon. Pathos calls its content the **Codex**,
 and most of what follows is spellbooks — so the name fitted.
 
-It adds **681 new definitions, about 18,700 lines of C#**, and finishes the Italian translation.
+It adds **523 new definitions, about 19,400 lines of C#**, and finishes the Italian translation.
 `dotnet build` is clean: 0 errors, no codex sanity messages, and the game has been launched and
 played from this build.
 
@@ -16,15 +16,15 @@ played from this build.
 | | |
 |---|---|
 | **Spells** | **+161** — the game goes from 62 to **222** — each with its own spellbook, unidentified appearance and cover art in all four tilesets |
-| **Items** | **+114** — the full mithril / adamantine / gold / rose weapon families, khopesh, Zweihänder, chakrams, railgun, the NetHack stones (luckstone, loadstone, touchstone), medical kit, and artifacts including Stormbringer, Mournblade, Gungnir, Vajra, Sudarshana Chakra, Shillelagh |
-| **Monsters** | **+125** — the drow, the angelic host, the pheral, elementals and spheres of every element, golems, jellies, mimics, astral and fae dragons, an army chain of command, and 33 palette-swapped variants |
+| **Items** | **+121** — the mithril, adamantine, gold and rose-gold families, each now a **complete armour set** (helm, suit, shield, boots, gauntlets) as well as its weapons; khopesh, Zweihänder, chakrams, naginata, the NetHack stones (luckstone, loadstone, touchstone), dragon scales and scale mail for the four new dragon colours, and artifacts including Stormbringer, Mournblade, Gungnir, Vajra, Sudarshana Chakra, Shillelagh |
+| **Monsters** | **+138** — the drow, the angelic host, the pheral, elementals and spheres of every element, golems, jellies, mimics, four complete dragon families (grey, astral, fae and mystical, each from hatchling to ancient, with their scales and scale mail), an army chain of command, and 33 palette-swapped variants |
 | **Specials** | **+14** — the prestige archetypes: vampire spawn, warlock, veteran, specimen, plagued, ascetic, feral, prophet, construct, fey, drowned, duelist, tamer, graverobber. Every one is a genuine trade-off |
 | **Classes** | **+5** — apothecary, nightblade, elementalist, witch, slayer |
 | **Heroes** | **+17** predefined starts (13 → 30) |
 | **Hordes / zoos / shrines** | **+23 / +11 / +5**, the shrines bringing 27 new boons |
 | **Tricks / evolutions / recipes / companions** | **+14 / +7 / +3 / +5** |
 | **Grimoires on *existing* monsters** | **120 grants across 63 shipped casters** — liches, ancient dragons, drow and greater demons now cast the new spells at you |
-| **Italian translation** | **6,348 entries, 100 % complete**, in-game manual included — the only language level with English |
+| **Italian translation** | **6,461 entries, 100 % complete** (6,086 in the dictionary, 375 in the in-game manual) — the only language level with English |
 
 ### Spell accessibility
 
@@ -68,6 +68,16 @@ The build writes its assets into the project's `Assets/`, **not** into the insta
 
 The original project README is kept as [README-UPSTREAM.md](README-UPSTREAM.md);
 building, tooling and repository layout are unchanged from it.
+
+## Fantasy register
+
+This variant deliberately leaves out the modern joke items Pathos inherits from NetHack. The
+artwork is Callan's own and stays in his game; it simply does not belong in a fork that is trying
+to read as fantasy throughout. Removed here: the credit card, stethoscope, towel, tin opener, pill,
+sticking plaster, baseball bat, the plastic bat, hammer and wand, the railgun, frisbee, yoyo, the
+mooshroom, the "strange object", and the sink and toilet dungeon furniture. The medical kit became
+a healer's satchel, which the artwork suited better anyway. Robots and firearms stay: Pathos has
+had both from the start.
 
 ## Licence
 

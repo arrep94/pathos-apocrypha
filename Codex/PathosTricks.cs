@@ -291,7 +291,7 @@ namespace Pathos
 
       dragon_sighting = AddTrick("dragon sighting", A =>
       {
-        A.ArriveEntity(Dice.One, Sonics.roar, [Entities.astral_dragon, Entities.fae_dragon, Entities.mystical_dragon]);
+        A.ArriveEntity(Dice.One, Sonics.roar, [Entities.adult_astral_dragon, Entities.adult_fae_dragon, Entities.adult_mystical_dragon]);
       });
 
       wandering_company = AddTrick("wandering company", A =>

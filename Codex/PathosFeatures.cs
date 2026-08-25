@@ -486,34 +486,6 @@ namespace Pathos
         });
       });
       // >>> GENERATED FEATURES >>>
-      sink = AddFeature("sink", Materials.stone, Chance.OneIn80, Glyphs.sink, Glyphs.sink, F =>
-      {
-        F.Sonic = Sonics.water_splash;
-        F.Mountable = true;
-        F.Weight = Weight.FromUnits(100000);
-
-        F.DestroyApply.HarmEntity(Elements.water, Dice.Zero);
-        F.DestroyApply.BreakFeature(sink);
-
-        var DrinkUse = F.AddUse(Codex.Motions.drink, null, Delay.FromTurns(20), Sonics.water_splash, Audibility: 2);
-        DrinkUse.Apply.WhenProbability(Table =>
-        {
-          Table.Add(80, A => { });
-          Table.Add(10, A => A.CreateItem(Dice.One, Stocks.gem));
-          Table.Add(5, A => A.HarmEntity(Elements.acid, 1.d6()));
-          Table.Add(5, A => A.ApplyTransient(Properties.sickness, 10.d10() + 10));
-        });
-      });
-
-      toilet = AddFeature("toilet", Materials.stone, Chance.OneIn120, Glyphs.toilet, Glyphs.toilet, F =>
-      {
-        F.Sonic = Sonics.water_splash;
-        F.Mountable = true;
-        F.Weight = Weight.FromUnits(80000);
-
-        F.DestroyApply.BreakFeature(toilet);
-      });
-
       wooden_table = AddFeature("wooden table", Materials.wood, Chance.OneIn80, Glyphs.wooden_table, Glyphs.wooden_table, F =>
       {
         F.Sonic = Sonics.scrape;
@@ -574,8 +546,6 @@ namespace Pathos
 #endif
 
     // >>> GENERATED FEATURES-FIELDS >>>
-    public readonly Feature sink;
-    public readonly Feature toilet;
     public readonly Feature wooden_table;
     public readonly Feature wooden_stool;
     public readonly Feature wooden_sign;

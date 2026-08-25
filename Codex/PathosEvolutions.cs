@@ -113,6 +113,14 @@ namespace Pathos
       CheckDragon(Entities.baby_white_dragon, Entities.young_white_dragon, Entities.adult_white_dragon, Entities.ancient_white_dragon);
       CheckDragon(Entities.baby_yellow_dragon, Entities.young_yellow_dragon, Entities.adult_yellow_dragon, Entities.ancient_yellow_dragon);
 
+      // --- Apocrypha dragon families. Declared here, beside the shipped colours and before the
+      // dragon arrays are built below, so that they are checked by the same assertions and are
+      // picked up by BabyDragonArray and AdultDragonArray like every other colour.
+      CheckDragon(Entities.baby_grey_dragon, Entities.young_grey_dragon, Entities.adult_grey_dragon, Entities.ancient_grey_dragon);
+      CheckDragon(Entities.baby_astral_dragon, Entities.young_astral_dragon, Entities.adult_astral_dragon, Entities.ancient_astral_dragon);
+      CheckDragon(Entities.baby_fae_dragon, Entities.young_fae_dragon, Entities.adult_fae_dragon, Entities.ancient_fae_dragon);
+      CheckDragon(Entities.baby_mystical_dragon, Entities.young_mystical_dragon, Entities.adult_mystical_dragon, Entities.ancient_mystical_dragon);
+
       this.AdultDragonArray = AdultDragonList.ToArray();
       this.BabyDragonArray = BabyDragonList.ToArray();
 
@@ -255,7 +263,9 @@ namespace Pathos
       // army_lieutenant Level 10 / Weight 17000 -> army_captain Level 13 / Weight 17500.
       AddEvolution(Entities.army_soldier, Entities.army_sergeant, Entities.army_lieutenant, Entities.army_captain);
 
-      // astral_dragon, fae_dragon and mystical_dragon were left out of any evolution chain: each is a
+      // astral, fae, mystical and grey are full four-age families now, so their evolution chains
+      // are declared with the shipped colour dragons in PathosEvolutions.cs instead of here.
+
       // single new stage (adult/adult/young respectively) with no matching baby/young/adult/ancient
       // siblings of the same colour, so no growth chain can be built for them.
       // <<< GENERATED EVOLUTIONS <<<

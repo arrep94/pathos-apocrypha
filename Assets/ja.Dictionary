@@ -136,7 +136,6 @@ AppearanceName,cloudy potion,曇った液体の入った小瓶
 AppearanceName,coarse mantelet,粗末なクローク
 AppearanceName,cobalt book,
 AppearanceName,cobblestone book,
-AppearanceName,coiled gun,
 AppearanceName,colourful book,カラフルな本
 AppearanceName,combat boots,半長靴
 AppearanceName,compact gun,手持ち銃
@@ -381,7 +380,6 @@ AppearanceName,plain ring,地味な指輪
 AppearanceName,plain robe,地味なローブ
 AppearanceName,plastic slug,プラスチックの小塊
 AppearanceName,plastic stick,プラスチックの棒きれ
-AppearanceName,plastic wand,
 AppearanceName,platinum wand,白金の棒
 AppearanceName,plumed helmet,羽飾り付きの兜
 AppearanceName,pocked book,
@@ -538,8 +536,6 @@ AppearanceName,tiny book,小さい本
 AppearanceName,topaz book,
 AppearanceName,topaz ring,トパーズの指輪
 AppearanceName,torn book,破れた本
-AppearanceName,toy bat,
-AppearanceName,toy hammer,
 AppearanceName,toy sword,おもちゃの剣
 AppearanceName,triangular amulet,三角形のお守り
 AppearanceName,turquoise book,青緑色の本
@@ -1307,30 +1303,42 @@ EngulfmentName,engulfed,呑み込み
 EngulfmentName,swallowed,丸呑み
 EntityDescription,"A blink dog pup, already able to flicker away from danger before it lands a bite.",
 EntityDescription,A bulbous fungus that bursts into a hissing cloud of acid when disturbed.,
+EntityDescription,A career officer with a ruined face and a habit of winning. He has never once fought alone.,
 EntityDescription,"A cave bear whose pelt has gone grey as cinders, hardened by years sheltered in a live volcano's roots.",
 EntityDescription,"A cave spider drained of all colour by lightless generations, hunting by web-thrum alone.",
 EntityDescription,"A cobra pale as hoarfrost, coiled in the ice caves where warm-blooded prey seeks shelter.",
 EntityDescription,"A coyote with a static-charged coat, drawn down from the high plains after a lightning storm.",
 EntityDescription,"A dead tree animated by rot and old malice, its bark split open where a jaw shouldn't be.",
-EntityDescription,"A dragon steeped in high magic, said to hoard grimoires as jealously as gold.",
-EntityDescription,A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.,
 EntityDescription,A dwarf of a mountain clan so far north the forge-fires burn blue; one of its twin mattocks bites like the wind off the peak.,
 EntityDescription,A fey hound that flickers between here and elsewhere; it fights alongside anyone it trusts.,
 EntityDescription,"A giant bat with clouded, sightless eyes, navigating wholly by the shriek of its own echo.",
 EntityDescription,"A giant beetle with a carapace of blue-white chitin, breath steaming with cold in the deep dark.",
 EntityDescription,"A giant caked grey with volcanic ash, walking down from a smoking peak with a club still smoking at the tip.",
+EntityDescription,"A giant in red who arrives once a year with a sack, and whose generosity is best not put to the test.",
 EntityDescription,"A giant of the high glaciers, sheathed in rime; its breath alone can flash-freeze a puddle solid.",
 EntityDescription,"A gila monster whose beaded hide glows dull orange along the seams, as if lit from beneath.",
 EntityDescription,"A gnome who never left the deep tunnels, pale and stooped, at ease chewing through rock with a pickaxe.",
 EntityDescription,"A golem cast from bronze rather than raw iron; where its cousin only staggers under a lightning strike, this one drinks the current and spits it back.",
+EntityDescription,"A grey hatchling, already contemptuous of magic and of you.",
+EntityDescription,"A halfling from before halflings had villages, clubbing at the world with whatever came to hand.",
+EntityDescription,"A hare with a single straight horn, and no sense whatever of how small it is.",
+EntityDescription,"A hatchling out of the fey courts: bright-eyed, quick, and already lying to you.",
+EntityDescription,A hatchling that has already learned one word it should not know.,
+EntityDescription,"A hatchling that keeps half-vanishing while you look at it, and has not yet worked out how to stop.",
 EntityDescription,"A hound of the Astral plane, half-seen even when it stands still; it does not breathe or bleed.",
+EntityDescription,"A hovering bead of acid, small enough to ignore and stupid enough to close the distance anyway.",
+EntityDescription,A hovering note that will not stop rising.,
+EntityDescription,"A humanoid automaton, articulated at every joint, still carrying out whatever it was last told to do.",
 EntityDescription,"A jackal wasted by sickness, its ribs showing through a mangy hide; its bite festers.",
 EntityDescription,A jelly black as a starless sky; things it touches for too long forget how alive they were.,
 EntityDescription,A jelly that glows faintly like a coal; fire only makes it swell larger and angrier.,
 EntityDescription,A jelly that reeks of rot; it dissolves flesh and gear alike to feed itself.,
 EntityDescription,"A jelly the colour of a bruise, faintly crackling; touching it feels like brushing a doorknob after crossing a carpet in winter.",
 EntityDescription,"A jelly the colour of glacier ice, cold to the touch and colder still if it touches back.",
+EntityDescription,"A junior officer with a commission bought or earned, leading from the front because that is where he is watched.",
+EntityDescription,"A knot of turning air about the size of a head. It has no face, and it follows you regardless.",
 EntityDescription,"A kobold camouflaged in mottled green, more comfortable in the canopy than underground; it spits venom from a hollow reed.",
+EntityDescription,A lizardman who took up a foreign discipline and mastered it. His two blades move faster than his bulk suggests they can.,
 EntityDescription,"A long worm that burrows through permafrost, its segmented hide crusted with rime.",
 EntityDescription,"A lynx with a rime-white winter coat, breath fogging even in a warm room.",
 EntityDescription,A medium-sized creature prone to great ambition. Short-lived but ubiquitous; they are not to be underestimated.,短命ではあるがそこら中に住んでいる、大それた野心を抱きがちな中型の生き物。これといった長所はないが、なめてかかると痛い目を見ることになる。
@@ -1345,12 +1353,19 @@ EntityDescription,A shambling corpse wrapped in weeping buboes; the sickness tha
 EntityDescription,"A shark bred to lightless ocean trenches, its eyes filmed over and useless.",
 EntityDescription,"A skeleton picked clean by something worse than time; its bones are black at the joints, and its touch draws the warmth out of the living.",
 EntityDescription,A small heap of coins that isn't quite finished counting itself.,
-EntityDescription,"A small, quick-witted dragon out of the fey courts, more prankster than predator.",
+EntityDescription,"A soldier of the host: armed, armoured, and entirely without doubt.",
+EntityDescription,A sphere with a short temper and a shorter future.,
 EntityDescription,"A spitting beetle whose glands have gone volcanic, hawking gobbets of burning pitch.",
 EntityDescription,"A standing wave of brackish swamp water, thick with algae and old poison; nothing in it is fresh, and nothing about touching it is safe.",
+EntityDescription,"A standing wave, loud enough to be solid. You feel it in your teeth before you see it.",
 EntityDescription,"A troll that wandered too near a volcano and came out the other side wrong: its hide is cracked magma-rock, glowing at every seam.",
+EntityDescription,"A turning column of wind: enormous, empty, and impossible to hit anywhere that counts.",
+EntityDescription,A unicorn whose hide is scored with runes that no hand cut. Magic slides off it and comes back sharpened.,
+EntityDescription,"A walking pool of acid, held in the shape of a body by something with an appetite.",
+EntityDescription,"A warrior in the service of a house, thoroughly competent with everything he has ever been handed.",
 EntityDescription,"A water moccasin gone jet black, all but invisible against a night-flooded cave pool.",
 EntityDescription,"A weathered chest, until its lid splits open into a maw ringed with teeth.",
+EntityDescription,"A winged steed with a human face, which crosses in a single stride what a horse crosses in a day.",
 EntityDescription,"A young astral dog, still learning to keep all four paws on the material plane at once.",
 EntityDescription,"A young mimic, its shapeshifting still crude — usually just a box that bites back.",
 EntityDescription,"Amorphous beings who have no typical shape but often take on a translucent humanoid form. While unmistakable for anything other than a plasma-like ooze, this form enables the use of clothing and tools.",ほぼ透明かつ不定形の存在。しばしば人型の形状をとることで、どう見てもべちゃっとした血しょうのような物体でしかないその体に衣服をまとったり道具を使用したりすることを可能にしている。
@@ -1360,29 +1375,95 @@ EntityDescription,"An elf of the sunlit dunes, skin bronzed and eyes narrowed; i
 EntityDescription,"An ogre gone half-feral in the fens, its skin sallow and slick; its claws carry a rot no wound-dressing can clean.",
 EntityDescription,An orc mummy exhumed from a barrow sealed under a cinder-field; its wrappings are charred and its grip sears whatever it holds.,
 EntityDescription,"An orc that has made its home in the marshlands, its blade notched and slicked with venom drawn from swamp adders.",
+EntityDescription,An orc who worked out that pockets are a good deal easier to open than skulls.,
 EntityDescription,"Astral beings who are a vessel for the indomitable spirit of a vanquished adventurer. Having no motivations of their own, they are glad to permit the possession; for the deceased adventurer, it is a second chance at revenge or redemption. Born from astral matter, they are slightly built, translucent and can move freely through physical obstacles.",死してなお不屈たる冒険者の魂の依り代となる霊界の存在。自らの目的や欲といったようなものを持たず、依り代となることを厭わない彼らとの出会いは、無念の死を遂げた冒険者にとって魂の安らぎを得る二度目のチャンスとなる。霊界の物質の産物である彼らの姿形はおぼろげで向こうが透けて見え、物理的な障害を自由に通り抜けることができる。
+EntityDescription,"Bare hands, bare feet, and a discipline that took thirty years in the dark to learn.",
+EntityDescription,Beaten out of scrap tin by an apprentice who wanted to prove a point. It rattles as it walks.,
 EntityDescription,"Beautiful, otherworldly beings characterised by their signature halo and feathered wings. Strongly attuned to the struggle between good and evil, they sense the divinity within anything they hold.",光輪と羽毛に覆われた翼が特徴的な、別世界の美しい住人達。善と悪の闘争との関係は深く、触れるもの全てに神の威光を見出す。
 EntityDescription,Beware this clockwork machine of war.,この殺戮マシーンには気をつけろ。
 EntityDescription,Bipedal mechanical automatons with nearly unbounded artificial intelligence. Powered by a molten core engine that requires a constant supply of raw metals and is susceptible to water damage.,とどまることをしらない人工知能を持つ、二足歩行の自律メカ。定期的に金属の供給が必要で、水によって損傷を受けやすい融解炉心式エンジンが動力源。
+EntityDescription,"Cast in silver at ruinous expense, and worth it: nothing rots it, nothing charms it, and it never tires.",
+EntityDescription,"Centuries of study, and a library underneath it that no scholar will ever be allowed to see.",
+EntityDescription,"Devout, unarmed by preference, and armed by necessity rather more often than her order cares to admit.",
+EntityDescription,"Digs up other people's tombs for a living, and has learned which ones to leave alone.",
+EntityDescription,"Drow magic is taught underground, quietly, and it is used the same way.",
+EntityDescription,"Enormous, unarmoured, and entirely uninterested in the finer points of anything.",
+EntityDescription,"Everything has a price, and he will find yours before you have finished speaking.",
+EntityDescription,"Everything that is left when a fire has finished, and still hot enough for it to matter.",
 EntityDescription,"Fey creatures linked by powerful nature spirits to fuel their antics. They are stocky with furry lower bodies, cloven hooves of a goat and curled horns of a ram. Ribald and clever, they cheerfully lead hedonistic escapades of drinking, dancing and fighting.",強大な自然界の精霊たちとの結びつきによって得られる力を愚行のために注ぎ込む妖精界の住人達。下半身を覆う毛皮とヤギの割れた蹄、牡羊の渦巻いた角とずんぐりとした体形を特徴とする。この頭の回る助兵衛共の頭の中は快楽の二字で埋まっており、悪乗りの過ぎた酒や踊りや喧嘩のバカ騒ぎに日々明け暮れている。
+EntityDescription,"Fights without armour, without caution, and without any evident expectation of tomorrow.",
+EntityDescription,"Follows for miles without making a sound, and then picks the moment.",
+EntityDescription,"He carries a mace because canon law denied him the edge, and he has never once felt the restriction.",
+EntityDescription,He does not fight. He arranges matters so that the fighting has already been decided.,
+EntityDescription,He gave up on cures some years ago. The other trade paid better and asked far fewer questions.,
+EntityDescription,"He has fought campaigns you have only heard rumours of, and he expects the men behind him to keep up.",
+EntityDescription,"He offers you exactly what you wanted, and the price is not mentioned until afterwards.",
+EntityDescription,"He spent a lifetime learning to call the dead, and now they come whether he calls them or not.",
+EntityDescription,"He wants your purse rather than your life, and will take the second only if you insist on it.",
 EntityDescription,"Imposing and heavily built, they resemble humanoid dragons with a snout, scaly hide and functional wings.",堂々としてがっしりとした体躯を誇り、口先、鱗に覆われた体表、飛翔を可能とする翼といった特徴を持つ、人型のドラゴンとでも形容すべき種族。
+EntityDescription,"It drifts in and out of the here and now, and its breath arrives from somewhere that is not quite the room.",
+EntityDescription,It has been playing the same joke for eight hundred years and has not yet reached the end of it.,
+EntityDescription,It has spent so long between the planes that it is only visiting this one. Distance means nothing to it.,
+EntityDescription,"It hoards grimoires the way other dragons hoard gold, and it has read them.",
+EntityDescription,"It is holding itself together, and it is not going to manage that for very much longer.",
+EntityDescription,It keeps the courtesies of the fey courts exactly as far as they amuse it.,
+EntityDescription,"It sings the same three phrases in a voice that used to belong to somebody, and it will not be interrupted.",
 EntityDescription,"It waits among the headstones shaped like one more grave marker, patient as the dead around it.",
+EntityDescription,"It was built to stand in one place and stop things, and it is still doing exactly that long after the builders left.",
+EntityDescription,Its scales drink spells the way sand drinks water. Wizards have learned to leave grey dragons alone.,
 EntityDescription,"Large, omnivorous reptilians whose bestial ancestors dominated the world long before the birth of civilisation. They are fearsome predators, capable of leaping impressive distances and warding off many attacks with their thick scaly hides.",文明の誕生よりもはるか昔に世界を支配していた、大型で雑食の爬虫人類。恐るべき狩人であり、驚くほどの跳躍力と、強固な鱗と厚い皮による堅固な防護を誇る。
+EntityDescription,"Mixes what should not be mixed and takes careful notes, on the occasions when he survives to write them.",
 EntityDescription,Monstrous creatures with the head and tail of a bull and the body of a man.,人の身体に牛の頭と尾が付いた、狂暴な怪物。
+EntityDescription,"More prankster than predator, which is not the same as harmless.",
+EntityDescription,"Not the plump children of paintings: four faces, a great many wings, and a mandate to guard.",
+EntityDescription,"Nothing cast at a grey dragon has ever much troubled it, and it knows this better than you do.",
+EntityDescription,"Old blood, old grudges, and a sword that has been in the family longer than the family has held the land.",
+EntityDescription,"Old enough that magic simply stops happening near it. Whatever it was once, it is now a hole in the weave.",
+EntityDescription,"Old enough to have forgotten more magic than most schools teach, and to still remember the dangerous parts.",
+EntityDescription,"Old, bent, and owed favours by things that ought not to be in a position to owe favours.",
+EntityDescription,"Past apprentice, short of master, and painfully aware of the distance between the two.",
 EntityDescription,"Perverse creatures of many aberrations but always with crimson skin and horns. Their mere presence compels others to act out their darkest, most violent desires.",邪道を地で行く生物。姿は様々ではあるが深紅の肌と角は彼ら共通の特徴である。彼らと同じ空気を吸う者はそれだけでドス黒い暴力への欲求に服従することになる。
+EntityDescription,"Rank-and-file infantry, drilled to hold a line with a spear and a shield, and to break it for nobody.",
 EntityDescription,"Ravenous, predatory species of monstrous humanoid with a severe hunch that causes the backs of their hands to drag on the ground. Despite the awkward physical appearance, they are powerfully built and are infamous for their ability to rapidly recover from any wound to their rubbery hide.",満腹と言う言葉を知らぬ、巨大な人間型の捕食者。手の甲を地面に引き摺らせるほどに極端な猫背から一見運動は苦手なように思われがちだがその筋骨たるや隆々としたもので、肉体を覆うゴムのような厚皮はどんな傷を付けられようとも見る間に元に戻ってしまうことで特に厄介がられている。
+EntityDescription,Raw current given legs. The air around it tastes of a storm that has not arrived yet.,
+EntityDescription,Scales like the silver void between the planes. It steps out of the world when it is losing.,
+EntityDescription,"Sees perfectly in the dark, moves perfectly in it, and is already behind you.",
 EntityDescription,"Shape-shifting deviants, who thrive on their deceptive talents.",変化の才で人を欺き世に蔓延る、変幻自在の外道達。
+EntityDescription,"She is friendly, and she is interested in you, and neither of those things is true.",
+EntityDescription,She rules a court of nymphs and has never yet had to raise a hand to keep it.,
+EntityDescription,"She speaks for the spider goddess, and the enclave does whatever she says the goddess wants.",
+EntityDescription,She tracks for a week and shoots once.,
+EntityDescription,"She was beautiful once, in the way a knife is beautiful, and the resemblance has not altogether faded.",
 EntityDescription,Small folk who prefer simple lives. They are notably gregarious and their build lends them well to less-than-noble endeavours.,簡素な生活を好む小人達。高い社交性と小柄な体格は日常生活にはうってつけである。
+EntityDescription,"Small, old, and patient. He has outlived every hunter who assumed that size was the point.",
+EntityDescription,"Small, wary, and quicker with a thrown rock than anyone her size has any right to be.",
+EntityDescription,"Somebody built a machine, somebody else turned it, and a third party handed it a pistol. All three came to regret their part.",
+EntityDescription,"Something enormous came up out of the deep water, and the deep water was glad to be rid of it.",
 EntityDescription,"Spiritual beings fond of nature and magic. They are physically similar to humans, but often smaller and nimbler.",自然と魔法を好む気取り屋達。姿形は人間と似ているが、往々にしてより細く俊敏である。
+EntityDescription,"Stands at the door of the tomb with a blade in either hand, and has been standing there a very long time.",
+EntityDescription,"Steeped in high magic, and quite capable of being something else by the time you swing.",
 EntityDescription,"Stout, short and hardy folk. They are known for their stubbornness, metalworking and love of alcohol.",頑健で背が低く、図太い人々。彼らの頑固さ、金属加工の素晴らしさ、そして酒好きっぷりは皆の知るところである。
 EntityDescription,"Subterranean peoples of diminutive stature, fond of tinkering and magic. Evolved for subsistence living, their metabolism is suited for long adventures where food is scarce.",細工ごとや魔術を好む、地下に暮らす小型の人々。苦しい環境での生活に順応した代謝システムを持ち、食料不足が見込まれるような長旅に向く。
+EntityDescription,"The burning ones. They stand nearest the throne, and everything near them catches.",
+EntityDescription,"The first rank of the air school, who has learned to feel the wind before it moves.",
+EntityDescription,"The highest rank of the air school. Where she is standing, the weather is a matter of her preference.",
+EntityDescription,"The least of the host, made of fire and formed for one errand at a time.",
 EntityDescription,"The lesser of the two ferrozygotic puddings, the brown pudding is said to taste more akin to rotted milk than a chocolate dessert. The pudding itself feeds upon fabrics and hides of all kind but its most known ability is its unique reproductive method. When brought into contact with iron the miracle of rotten slime binary fission takes place, creating two voracious offspring. Owing to the ubiquity of iron in the arms wielded by adventurers, this creature's population has only been growing with time.",鉄に反応するプリンは二種存在し、そのうちの小さい方、茶色のプリンは甘いチョコレートというよりは腐った牛乳に近い味がすると言われている。あらゆる布地や革を餌とすることでも知られるが、もっとも有名な能力はその特殊な繁殖方法だ。鉄と接触することで腐った粘液の細胞分裂という奇跡が始まり、二体の食欲旺盛な子プリンとなる。冒険者たちの武器には大抵鉄が使われているおかげで、この生物の数は増加の一途を辿っている。
+EntityDescription,"The one who taught the soldiers their drill, and who fights rather better than any of them.",
+EntityDescription,"The second rank, who no longer asks the wind for anything but simply takes it.",
+EntityDescription,"The wheels within wheels, rimmed with eyes, turning without ever facing away.",
+EntityDescription,"The white tiger of the west, in whose season metal is forged and old things are cut away.",
+EntityDescription,"The young of the pheral: all claws, and no patience whatever.",
+EntityDescription,"Thirty years of the same forms, every morning without exception, and now he needs no weapon at all.",
 EntityDescription,"This mummy confection was created by steeping a human cadaver in honey. Somehow reanimated by an obscure cult of monks, it is both deadly and delicious.",人間の死体をハチミツに浸して作られた極甘のミイラ。それを知られざる秘教の僧達が未知の技法で復活させた、非常に危険かつ美味なる怪物。
 EntityDescription,This strange living bubble of corrosive fluids doesn't appear to have any offensive capabilities.,この奇妙な生きる腐食性の流体生物は、攻撃能力を全く持たないように思える。
 EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily beautiful. When threatened, they can escape through distortions in spatial reality.",とても小さな羽根の生えた精霊。元来魔法的な存在であり、言語を絶するほどの美しさを持つ。脅威を感じると、空間の歪みを通って逃げるという芸当も見せる。
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.",亀の様な放浪者で、歩けるようになったその時から生地を離れ、頑丈で快適な背中の家と共に世界を旅する。
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",共食いの習慣を持つ、醜く獣じみた生物。好戦的であり、優れた筋力と知的な無能さで知られる。
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.",臆病で弱々しい連中と見なされながらも、この小柄な爬虫類は残忍かつ狡猾な手口をもってその肉体的な弱みを補っている。
+EntityDescription,Walks the roads between towns carrying everything he owns and a very good stick.,
+EntityDescription,"Wrapped, crowned, and extremely displeased to have been woken.",
+EntityDescription,"You do not meet an assassin. You meet somebody else, once, and after that you meet nobody at all.",
 EntityName,abbot,僧院長
 EntityName,abyssal shark,
 EntityName,acid blob,酸のブロブ
@@ -1392,11 +1473,15 @@ EntityName,acid spore,
 EntityName,acid worm,酸のワーム
 EntityName,acolyte,侍祭
 EntityName,adamantine golem,アダマンタインのゴーレム
+EntityName,adult astral dragon,
 EntityName,adult black dragon,ブラックドラゴン
 EntityName,adult blue dragon,ブルードラゴン
 EntityName,adult deep dragon,ディープドラゴン
+EntityName,adult fae dragon,
 EntityName,adult gold dragon,ゴールドドラゴン
 EntityName,adult green dragon,グリーンドラゴン
+EntityName,adult grey dragon,
+EntityName,adult mystical dragon,
 EntityName,adult orange dragon,オレンジドラゴン
 EntityName,adult raven,親ガラス
 EntityName,adult red dragon,レッドドラゴン
@@ -1413,11 +1498,15 @@ EntityName,albino rat,
 EntityName,alchemist,
 EntityName,Aleax,『アレックス』
 EntityName,almiraj,
+EntityName,ancient astral dragon,
 EntityName,ancient black dragon,古代ブラックドラゴン
 EntityName,ancient blue dragon,古代ブルードラゴン
 EntityName,ancient deep dragon,古代ディープドラゴン
+EntityName,ancient fae dragon,
 EntityName,ancient gold dragon,古代ゴールドドラゴン
 EntityName,ancient green dragon,古代グリーンドラゴン
+EntityName,ancient grey dragon,
+EntityName,ancient mystical dragon,
 EntityName,ancient orange dragon,古代オレンジドラゴン
 EntityName,ancient red dragon,古代レッドドラゴン
 EntityName,ancient shimmering dragon,古代シマリングドラゴン
@@ -1455,20 +1544,23 @@ EntityName,assassin bug,殺人虫
 EntityName,Assassin Mortimer,暗殺者『モーティマー』
 EntityName,astral deva,アストラルデヴァ
 EntityName,astral dog,
-EntityName,astral dragon,
 EntityName,astral puppy,
 EntityName,athol,アフール
 EntityName,attendant,医療助手
 EntityName,Baalzebub,『ベルゼブブ』
 EntityName,babau,ババウ
+EntityName,baby astral dragon,
 EntityName,baby black dragon,ブラックドラゴンの幼体
 EntityName,baby blue dragon,ブルードラゴンの幼体
 EntityName,baby crocodile,クロコダイルの幼体
 EntityName,baby deep dragon,ディープドラゴンの幼体
+EntityName,baby fae dragon,
 EntityName,baby gold dragon,ゴールドドラゴンの幼体
 EntityName,baby green dragon,グリーンドラゴンの幼体
+EntityName,baby grey dragon,
 EntityName,baby long worm,ロングワームの幼体
 EntityName,baby mimic,
+EntityName,baby mystical dragon,
 EntityName,baby orange dragon,オレンジドラゴンの幼体
 EntityName,baby purple worm,紫ワームの幼体
 EntityName,baby red dragon,レッドドラゴンの幼体
@@ -1640,7 +1732,6 @@ EntityName,ettin zombie,エティンのゾンビ
 EntityName,explosive elemental,
 EntityName,explosive sphere,
 EntityName,exterminator,害虫掃除屋
-EntityName,fae dragon,
 EntityName,fairy,妖精
 EntityName,Famine,『ファミン』
 EntityName,Father Dagon,父なる『ダゴン』
@@ -1912,7 +2003,6 @@ EntityName,mountain nymph,山のニンフ
 EntityName,movanic deva,モヴァニックデヴァ
 EntityName,mugger,追い剥ぎ
 EntityName,mumak,ムーマク
-EntityName,mystical dragon,
 EntityName,nabassu,ナバス
 EntityName,nalfeshnee,ナルフェシュニー
 EntityName,Nalzok,『ナルゾク』
@@ -2186,11 +2276,15 @@ EntityName,yellow mould,黄色いカビ
 EntityName,yeoman,近衛兵
 EntityName,yeoman warder,近衛兵長
 EntityName,yeti,イエティ
+EntityName,young astral dragon,
 EntityName,young black dragon,若いブラックドラゴン
 EntityName,young blue dragon,若いブルードラゴン
 EntityName,young deep dragon,若いディープドラゴン
+EntityName,young fae dragon,
 EntityName,young gold dragon,若いゴールドドラゴン
 EntityName,young green dragon,若いグリーンドラゴン
+EntityName,young grey dragon,
+EntityName,young mystical dragon,
 EntityName,young orange dragon,若いオレンジドラゴン
 EntityName,young red dragon,若いレッドドラゴン
 EntityName,young shimmering dragon,若いシマリングドラゴン
@@ -2241,10 +2335,8 @@ FeatureName,grave,墓
 FeatureName,pentagram,魔法陣
 FeatureName,pyramid,
 FeatureName,sarcophagus,石棺
-FeatureName,sink,
 FeatureName,stall,陳列台
 FeatureName,throne,玉座
-FeatureName,toilet,
 FeatureName,wooden sign,
 FeatureName,wooden stool,
 FeatureName,wooden table,
@@ -2636,10 +2728,13 @@ HordeName,yeoman,近衛兵
 HordeName,zombie,ゾンビ
 ItemDescription,"A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.",
 ItemDescription,"A barbed iron hook on a long coil of rope, thrown out and hauled back in.",
+ItemDescription,"A battleaxe of rose gold, enormous and impractical, carried by someone with more household than sense.",
 ItemDescription,"A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.",
+ItemDescription,"A bolt with an adamantine head, made to open the armour that other bolts merely dent.",
 ItemDescription,"A branched silver candle-holder, its every arm lit at once.",
 ItemDescription,"A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.",
 ItemDescription,"A canvas roll of bandages, salves and sutures for treating wounds in the field.",
+ItemDescription,"A cavalry sabre in rose gold: curved, gleaming, and never once blooded.",
 ItemDescription,"A ceremonial double-bitted axe, its twin blades curved like a crescent moon.",
 ItemDescription,"A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.",
 ItemDescription,"A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.",
@@ -2652,18 +2747,22 @@ ItemDescription,"A curved single-edged blade mounted on a long oaken shaft, priz
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.",騎兵がよく使う片刃の曲剣。地獄から来た怪物共に対し特に有効である。
 ItemDescription,A curved single-edged blade often used by cavalry.,騎兵がよく使う片刃の曲剣。
 ItemDescription,A curved yellow fruit and a great source of fibre.,食物繊維豊富な、黄色くて曲がった果物。
-ItemDescription,A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.,
+ItemDescription,"A duelling blade of mithril: quick past the guard, and quicker back.",
+ItemDescription,A duelling rapier of rose gold. It settles questions of standing far more often than questions of life.,
 ItemDescription,A fine-grained stone for putting an edge back on a tired blade.,
 ItemDescription,"A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.",
+ItemDescription,"A flail with a gilded head, made to be carried in procession behind somebody important.",
 ItemDescription,A flat black stone used since antiquity to tell real gemstones from paste and glass.,
-ItemDescription,A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.,
 ItemDescription,"A flat throwing weapon made of wood, often used for hunting.",狩りの道具としてよく使われる、平たい木製の投擲武器。
 ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.",平たく丸いケーキ。もちろんフライパンで焼いてるよ。
 ItemDescription,"A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.",
 ItemDescription,A foreign device which creates perfect visual depictions of reality.,完璧な模写を作ることができる異界の装置。
+ItemDescription,"A full harness of rose gold, made for a coronation and worn exactly once. Every plate is signed on the inside by the smith who beat it.",
+ItemDescription,A gilded trident from some temple to the sea. The prongs bend if you lean on them.,
 ItemDescription,"A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.",
 ItemDescription,"A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.",
-ItemDescription,"A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.",
+ItemDescription,A gold whistle on a fine chain. The note is no better than tin's and the price is considerably worse.,
+ItemDescription,A greatsword a strong child could lift and an adult could swing all day. Mithril forgives the arms what it does not forgive the enemy.,
 ItemDescription,A hand-held brass horn.,真鍮でできた携帯用のラッパ。
 ItemDescription,"A hard rock, smooth and therefore aerodynamic.",硬く滑らかで空気抵抗の少ない石。
 ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,硬い木の棒。一目でそうとは思えないかもしれないが持つ者次第で強力な武器となりうる。
@@ -2671,11 +2770,16 @@ ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.",ボ�
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.",重く長い両刃の刃物。長剣と似ているが、両手での使用を前提にしてより大きく作られている。
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,至近距離での戦闘を想定してデザインされた重い鉄製のハンマー。
 ItemDescription,A heavy suit of armour made up of many strips of metal.,鉄片を繋ぎ合わせた重い甲冑。
+ItemDescription,"A helm of adamantine: heavy, unlovely, and proof against the blow that would otherwise have ended things.",
+ItemDescription,"A helmet beaten from gold, worn for the crowd rather than the melee. It turns the sun beautifully and a blade not at all.",
+ItemDescription,"A helmet of rose gold, the copper in the alloy giving it a warmth that plain gold never has. It is still gold underneath, and still no use in a fight.",
 ItemDescription,"A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.",
 ItemDescription,"A horizontal, mechanically-aided bow and arrow with a shoulder stock.",肩で支える、機械式の水平にしならせる弓。
 ItemDescription,A key designed to open all mundane locks.,よほど凝ったものでもなければこれ一本であらゆる錠前を開けることができるように設計された鍵。
+ItemDescription,A lance tipped with adamantine. Shields do not stop it; they only decide where it comes through.,
 ItemDescription,"A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.",
 ItemDescription,"A leather pouch set between two cords, meant for launching small projectiles.",二本のひもの間に革の受け皿がついた道具。小型の弾を撃ち出すのに使われる。
+ItemDescription,"A length of pine still sticky with resin, cut and polished in a hurry.",
 ItemDescription,"A length of sturdy rope with a clasp, for keeping a tame animal close at hand.",
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.",木と鉄製の補強具でできた、前腕部に取り付ける防護用の板。
 ItemDescription,"A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.",
@@ -2683,6 +2787,7 @@ ItemDescription,A long cane rod strung with line and hook. Best used beside open
 ItemDescription,"A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.",先端を尖らせた鉄製の長いナイフ。投げることを想定した重量バランスに作られている。
 ItemDescription,A long pipe meant for shooting darts through force of breath.,息でダーツを撃ち出すための、長いパイプ。
+ItemDescription,"A long sword of rose gold, the copper in the alloy giving it a blush the smiths were proud of.",
 ItemDescription,A long thrusting polearm best suited to mounted combat.,非常に長い刺突用の槍。騎乗した状態での戦闘に最適である。
 ItemDescription,A long-shafted arrow with a distinctive tip.,特徴的な矢じりの付いた長い矢。
 ItemDescription,"A long, flexible leather thong. Unexpectedly sharp.",長くしなやかな革ひも。意外に思われるかもしれないが十分な殺傷能力を持つ。
@@ -2699,34 +2804,42 @@ ItemDescription,A pair of solid iron-plated boots that guard the shin and instep
 ItemDescription,A pair of sturdy leather boots which extend upward until just below the knee.,膝のすぐ下まである頑丈な革のブーツ。
 ItemDescription,A pair of sturdy leather boots which extend upwards to just above the ankle.,足首までを覆う頑丈な革のブーツ。
 ItemDescription,"A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.",
-ItemDescription,"A physician's instrument for listening to a heartbeat -- yours, or something else's.",
+ItemDescription,"A parade shield of gold, embossed with somebody's arms. It is carried on the left because that is the side the crowd stands on.",
+ItemDescription,"A parade sword of gold, kept bright and never once sharpened.",
 ItemDescription,"A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.",
+ItemDescription,"A plain staff of adamantine: unremarkable to look at, and impossible to snap.",
 ItemDescription,"A plain, undyed shirt of woven cloth, worn under armour or on its own.",
 ItemDescription,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.",木のハンドルに弓なりの、先端の尖った鉄の棒を付けたもの。硬い表層を貫通するのに使われる。
 ItemDescription,A pointed metal cylinder meant to be discharged from a firearm.,銃器から発射されるために作られた、先端の尖った円柱形の金属塊。
+ItemDescription,"A poleaxe whose head weighs almost nothing, so the swing goes where it is aimed rather than where it falls.",
 ItemDescription,A polished sheet of silvered glass. Some things recoil from their own reflection.,
 ItemDescription,A portable source of light fashioned out of copper and fuelled by oil.,油を燃料とする、銅製の携帯光源。
 ItemDescription,A projectile consisting of a wooden shaft with a sharp metal tip at its front and stabilising fins at its rear.,木製の棒に鋭利な金属製の先端と、後端に安定させるためのヒレがついた飛び道具。
-ItemDescription,"A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.",
 ItemDescription,A righteous sword forged by a revered blacksmith many years ago who set out to hone his craft and to create the ultimate blade. The noble intent of its creator lingers in this weapon to cut down the wicked and protect the innocent.,大昔に世の崇敬を集めた名匠が、至高の一振りのためにと隠居して作り上げた大義のための刀。彼の誅悪救民の志は今もこの刀の中に宿っている。
 ItemDescription,A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.,
+ItemDescription,"A rose-gold hatchet, balanced for throwing by someone who was never going to throw it.",
+ItemDescription,A rose-gold shield with a mirror finish. Its owner spent more time looking at it than behind it.,
+ItemDescription,"A rose-gold spear carried at the head of processions, point up, so that nobody has to look at it closely.",
+ItemDescription,"A sacrificial dagger of soft gold, meant for the altar rather than the field.",
 ItemDescription,"A sanctimonious biscuit. A miracle to the meek, a scourge to the undead.",宗教くさいビスケット。神の従僕にとっては奇蹟の産物、アンデッドにとっては神の鞭。
 ItemDescription,"A semi-rigid weapon made up of a notched wooden shaft with a drawstring attached to both ends, used to launch arrows.",しなる木製の軸棒の両端に切り込みを入れ紐で引き締めた武器。矢を飛ばすのに使われる。
 ItemDescription,"A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.",
 ItemDescription,A sharp iron wedge fashioned to a sturdy handle.,頑丈な持ち手に鉄製の鋭い刃を持つくさび状の頭部を取り付けたもの。
 ItemDescription,"A sharp metal throwing weapon, smaller than a hand and shaped like a star.",手の中に収まる大きさの、星形の鋭利な金属の投擲武器。
+ItemDescription,"A shield faced with a single sheet of adamantine. It does not dent, and the arm behind it feels every blow it does not let through.",
 ItemDescription,A short and light double-edged blade.,短く軽量な両刃の剣。
 ItemDescription,"A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.",
+ItemDescription,"A short sword of rose gold, sized for a courtier's belt and a courtier's quarrel.",
+ItemDescription,"A short wand carved into a grinning face, the sort a street conjurer waves about before the trick.",
 ItemDescription,"A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.",
 ItemDescription,"A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.",
+ItemDescription,"A slim rose-gold dagger, warm to the touch and made to be seen being carried.",
 ItemDescription,"A slimy, scaly sea creature, in its entirety. Good for a meal.",全身がぬめぬめとしていて、鱗に覆われている海の生き物。申し分のない食糧である。
 ItemDescription,A small cutting utensil made of metal with a wooden handle.,木製の取っ手の付いた、物を切るための金属製の道具。
 ItemDescription,A small glass vial holding a captive mote of light.,
-ItemDescription,A small hooked blade made for prying the lid off a sealed tin.,
 ItemDescription,A small iron tool designed for opening all sorts of locks.,様々な錠をこじ開けるために作られた小さな鉄製の道具。
 ItemDescription,A small missile with a pointed tip meant for throwing.,尖った先端部を持つ手投げの飛び道具。
 ItemDescription,A small missile with a reservoir of liquid delivered through a hollow pointed tip.,注射針状の先端部から中の液体を流し込む飛び道具。
-ItemDescription,"A small, chalky tablet of uncertain origin. Best swallowed quickly.",
 ItemDescription,"A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.",
 ItemDescription,"A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.",
 ItemDescription,"A soft-brimmed hat, somewhat out of fashion.",幾分時代遅れの、つば付きの帽子。
@@ -2734,13 +2847,12 @@ ItemDescription,A sophisticated bludgeon with a heavy iron head.,鉄製の重い
 ItemDescription,A spacious bag made of incredibly stretchy cotton.,信じがたいほどの伸縮性を持つ綿布でできた大きな袋。
 ItemDescription,A spacious cloth bag.,大きな布の袋。
 ItemDescription,"A staff of living, unworked rock. What shapes matter cannot itself be unmade.",
+ItemDescription,"A star of mithril, so light that it seems to hang in the air a moment before it arrives.",
 ItemDescription,A stick of cured meat.,保存処理された肉の棒。
 ItemDescription,"A stick of highly explosive material, with a short fuse on one end.",爆発性の高い物質を棒状に固め、片端に短い導火線を付けたもの。
 ItemDescription,A stone infused with restorative magic. It crumbles a little more each time it is used.,
 ItemDescription,A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.,
-ItemDescription,"A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.",
 ItemDescription,"A straight, double-edged and often cruciform blade.",まっすぐな両刃の刃物。十字型に作られることが多い。
-ItemDescription,"A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.",
 ItemDescription,A sturdy and solid mineral.,硬く頑丈な鉱物。
 ItemDescription,A suit of armour made from metal rings sewn onto a foundation of leather or cloth.,革や布の下地にたくさんの金属の輪を縫い付けた鎧。
 ItemDescription,"A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.",
@@ -2750,21 +2862,26 @@ ItemDescription,"A sweet custard-filled pie with a thin crust, topped with whipp
 ItemDescription,"A sweet, round fruit, of the red variety. Reportedly a great supplement to your physical health.",甘くて丸い、赤色のフルーツ。健康に良いらしい。
 ItemDescription,"A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.",
 ItemDescription,"A tall, asymmetric bow.",とても長い、上下非対称の弓。
-ItemDescription,"A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.",
 ItemDescription,"A thick leather coat, constructed to withstand weather and wear.",悪天候や擦り切れに強く作られた厚い皮のコート。
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.",ずっしりとした木製の鈍器。見栄えはしないが十分に仕事をこなしてくれる。
 ItemDescription,"A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,細く取り回しのいい、基本的に突くために作られた剣。
+ItemDescription,"A thin broth that sits in the stomach like a full meal. It tastes of nothing whatsoever, which is the price of never having to stop and eat.",
+ItemDescription,A throwing hatchet of mithril. It flies flatter and further than its weight suggests it should.,
+ItemDescription,A throwing ring of gold. It returns beautifully and cuts adequately.,
 ItemDescription,A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.,
 ItemDescription,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.",両手で持ち、肩で安定させて撃つ殺傷力の高い銃器。小型動物の狩猟によく使われる。
+ItemDescription,"A wand that splits into two prongs at the tip, like a diviner's rod that never did find water.",
 ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.",ドワーフの創意と職人技が産んだ奇跡の産物が、オークに盗まれ武器となったのがこれである。長い柄の先に取り付けられたこの道具は、馬やワーグの背に乗った者にとって比類なき武器となる。ドリルを動かす電流は時折、この化け物じみた武器に立ち向かおうとする愚か者に流れ込むことがある。
-ItemDescription,"A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.",
+ItemDescription,Adamantine cannot be dulled and will not break. The blade will outlast whoever is carrying it.,
+ItemDescription,"Adamantine stars, thrown a thousand times and recovered a thousand times. Nothing they strike blunts them.",
 ItemDescription,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,長く曲がった刃と角度の付いた柄から成る農業用器具。
 ItemDescription,An ambiguous curiosity. It seems edible.,好奇心をそそられる奇妙な物体。食べても大丈夫・・・っぽい。
 ItemDescription,An article of leather clothing covering the torso that hangs around the neck and on the shoulders.,首の周りに掛け、肩から胴体を覆う革製の上着。
 ItemDescription,An article of waterproof cotton clothing covering the torso that hangs around the neck and on the shoulders.,首の周りに掛け、肩から胴体を覆う防水加工済みの綿布で作られた上着。
 ItemDescription,"An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.",
 ItemDescription,An elven travel food. It is incredibly satiating.,エルフの携行食。見た目からは信じがたいほどの満腹感が得られる。
+ItemDescription,"An enormous sword of solid gold, more monument than weapon, and worth a small estate.",
 ItemDescription,"An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.",
 ItemDescription,An extremely sharp little blade used for precise incisions.,正確な切開を行うために使用される、きわめて鋭利な短い刃物。
 ItemDescription,An inconspicuous snack that tells deep secrets.,どこにでもあるおやつにしか見えないが、深遠な秘密が隠されている。
@@ -2772,22 +2889,37 @@ ItemDescription,An iron projectile made up of a shaft with a sharpened square-py
 ItemDescription,"An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.",
 ItemDescription,"An orange root-vegetable, commonly believed to improve eyesight.",オレンジ色の根菜。食べると目が良くなるといわれる。
 ItemDescription,"An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.",
+ItemDescription,"Articulated adamantine over a leather glove. Nothing you catch in your hand will cut it, which has settled more than one argument about knives.",
 ItemDescription,"Boiled leather, moulded into a bodily shape to be donned as light armour.",体系に合うように成型された煮なめし革。軽量の鎧として着ることができる。
 ItemDescription,"Bold, or just tacky?",いいアピール？単にダサい？
+ItemDescription,Boots shod in adamantine. They are as heavy as the iron pair and will still be whole long after the feet inside them are not.,
+ItemDescription,"Ceremonial gauntlets of soft gold. They mark the wearer's rank, and they mark very easily.",
 ItemDescription,Chain mail consists of a mesh of metal rings interlinked to form a flexible armour.,チェインメイルとは、金属の輪を連結させて鎧にしたものであり、動きを妨げにくいという特長がある。
+ItemDescription,"Drinking it leaves a cold spot at the back of the neck, and the spot grows colder the closer danger comes.",
 ItemDescription,"Fate itself bends around the wearer, keeping them exactly where the blow cannot land.",
+ItemDescription,"Fine mithril mail worked into a glove, close enough to the hand that you can still feel what you are holding.",
+ItemDescription,Folded mithril holds an edge that no whetstone has ever had to touch. The smiths who made it are long dead.,
 ItemDescription,"Forged deep underground by dwarven hands, this blade was made to slay the scaled beasts who sought to steal their treasures. Throughout the long years this blade has bathed in the blood of its winged prey. Now almost forgotten, it yearns again for the taste of dragon flesh.",ドワーフの財宝を狙う鱗まみれの獣共を殺すために、地下深くで彼らによって鍛えられた刃物。長年の間翼の生えた餌食共の血を浴びてきたが、人々に忘れ去られた今もなお、再びドラゴンの肉を味わう時を心待ちにしている。
 ItemDescription,"Gazing into its crimson depths you can see the concentrated life essence of countless victims swirling inside of it. The artifact was completed in the moment of the creators' death, as his soul was claimed by his creation. Now residing among the souls of his former victims, his essence as an alchemist provides the stone with ultimate transmutative powers.",この深紅の石の奥を見つめると、凝縮され中に捕らわれた無数の生命のエッセンスが渦巻いているのが見える。この遺物が完成したのは製作者の生命を取り込んだ瞬間であった。自身が犠牲にしてきた無数の魂に囲まれた、彼の錬金術師としてのエッセンスがこの石に究極の変性の力を与えている。
+ItemDescription,"Gilded boots for standing in, at the top of steps, while somebody reads something out at length.",
+ItemDescription,"Gold is far too soft to hold an edge, but it is worth more than the fight. Ceremonial, and traded rather more often than it is swung.",
 ItemDescription,"Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.",
 ItemDescription,Its high-quality elvish manufacture makes for an effective close combat weapon.,エルフの高度な製造技術により更なる実用性を備えた近接武器。
 ItemDescription,Leather armour with close-set studs so as to offer more protection.,より頑丈にするため、鋲を付けた革鎧。
 ItemDescription,"Like a smaller variant of the katana, often used as a side-arm.",小さい刀の一種で、しばしば予備の武器として用いられる。
+ItemDescription,Mithril takes an edge that steel cannot hold and weighs a third as much. The head barely tires the arm between swings.,
 ItemDescription,"Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.",
 ItemDescription,One segment of a particularly pungent and bulbous herb.,ハーブとして用いられる、きつい匂いが特徴的な球根の一片。
+ItemDescription,"Rose gold takes an edge no better than gold does, but it looks magnificent failing to.",
+ItemDescription,"Rose gold, alloyed with copper for a warmer colour and a little more spine than gold alone.",
+ItemDescription,"Rose-gold boots, chased with vine work down the shin. They were made to be looked at from below, on a dais.",
+ItemDescription,"Rose-gold gauntlets with articulated fingers, delicate enough to hold a cup and useless for holding a line.",
+ItemDescription,Shoes of mithril plate over a soft lining. They weigh less than the leather pair they replace and will never rust through.,
 ItemDescription,Standard issue protective metal headgear.,兵卒の標準装備として支給される、頭部保護を目的とした金属製の被り物。
 ItemDescription,"Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.",
 ItemDescription,"Sturdy leather garments fitted firm onto the hands, sheathing each finger individually.",指の一本一本まできっちりと覆う、丈夫な革製品。
 ItemDescription,The final sword forged by a once respected blacksmith who lost himself in the depths of the dungeon. His warped soul now inhabits this blade and lusts for blood. It is said that the one who wields this sword is coerced into cutting down friend and foe alike.,一度は世の尊敬を集めた鍛冶師が、ダンジョンの奥深くで乱心し鍛え上げた最期の一振り。彼の捻じ曲げられた魂は未だにこの刀の中で血を求め続け、手にした者を敵味方の見境なく斬り捨て回る狂人に変えてしまうという。
+ItemDescription,"The head is adamantine and the haft is merely wood, so the haft is what usually fails first.",
 ItemDescription,The head of a ranseur consists of a spear-tip affixed with a cross hilt at its base.,ランサーの頭部は、槍の穂先に枝刃を付けたものとなっている。
 ItemDescription,The only coin that can be found and spent in the dungeon.,ダンジョンで唯一信用のある硬貨。
 ItemDescription,The snipped segment of a plant known for its antilycanthropic properties.,獣人が嫌うことで知られる植物の小枝。
@@ -2829,18 +2961,22 @@ ItemDescription,This weapon consists of a single-edged blade on the end of a pol
 ItemDescription,This weapon consists of a spearhead mounted on a long wooden shaft with protrusions on the sides which aided in parrying sword thrusts.,長い槍の穂先に、剣による突きをそらすことに使えるつばのような突起を付けた武器。
 ItemDescription,"This weapon is a curved blade attached to a pole by binding the lower two-thirds of the blade to the side of the pole, to form a sort of axe.",長い柄に湾曲した刃の下部3分の2を斧のように取り付けた武器。
 ItemDescription,This withered hand is the last remnant of an ancient and powerful lich.,この朽ち果てた手は、古代の強大なリッチの最後の遺物である。
+ItemDescription,Three mithril prongs on a slender shaft. It goes through mail with very little behind it.,
 ItemDescription,Tiny metal spikes thrown to the ground to impede mobility.,動きを阻害するために地面にばら撒かれるトゲトゲの小さな金属片。
+ItemDescription,"Two prongs of rose gold on a polished haft: a ceremonial guard's weapon, and unmistakably so.",
 ItemDescription,"Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.",
 ItemDescription,Winged sandals made of imperishable gold which fly the wearer swiftly and silently.,身に着けた者を音もたてずに軽々と運んでくれる、空飛ぶ黄金のサンダル。
 ItemDescription,Zapping it at a wall creates a big tunnel.,一振りで壁に大きなトンネルを作り出す杖。
 ItemName,adamantine arrow,アダマンタインの矢
 ItemName,adamantine axe,アダマンタインの斧
 ItemName,adamantine bident,アダマンタインのバイデント
+ItemName,adamantine boots,
 ItemName,adamantine bow,アダマンタインの弓
 ItemName,adamantine bullet,アダマンタインの弾丸
 ItemName,adamantine crossbow bolt,
 ItemName,adamantine dagger,アダマンタインのダガー
 ItemName,adamantine dart,アダマンタインのダーツ
+ItemName,adamantine gauntlets,
 ItemName,adamantine greataxe,アダマンタインのグレートアックス
 ItemName,adamantine greatmace,
 ItemName,adamantine greatsword,アダマンタインのグレートソード
@@ -2855,6 +2991,7 @@ ItemName,adamantine poleaxe,
 ItemName,adamantine quarterstaff,
 ItemName,adamantine rapier,アダマンタインのレイピア
 ItemName,adamantine sabre,アダマンタインのサーベル
+ItemName,adamantine shield,
 ItemName,adamantine short sword,アダマンタインのショートソード
 ItemName,adamantine shuriken,
 ItemName,adamantine spear,アダマンタインの槍
@@ -2882,6 +3019,8 @@ ItemName,apple,リンゴ
 ItemName,aquamarine,アクアマリン
 ItemName,arrow,矢
 ItemName,assault rifle,アサルトライフル
+ItemName,astral dragon scale mail,
+ItemName,astral dragon scales,
 ItemName,athame,アサメイ
 ItemName,Aurigage,『オーリゲージ』
 ItemName,auto shotgun,オートショットガン
@@ -2890,10 +3029,8 @@ ItemName,Backpack,『リュックサック』
 ItemName,bag of holding,軽量化の袋
 ItemName,bag of tricks,びっくり袋
 ItemName,banana,バナナ
-ItemName,bandage,
 ItemName,banded mail,バンデッドメイル
 ItemName,bardiche,バルディッシュ
-ItemName,baseball bat,
 ItemName,battle robe,バトルローブ
 ItemName,battle staff,バトルスタッフ
 ItemName,battle-axe,バトルアックス
@@ -3180,7 +3317,6 @@ ItemName,cornuthaum,魔法使いの帽子
 ItemName,costume earrings,ただの耳飾り
 ItemName,cram ration,圧縮携行食
 ItemName,cream pie,クリームパイ
-ItemName,credit card,
 ItemName,Creeping Sprout,『クリーピング・スプラウト』
 ItemName,crimson cloak,
 ItemName,crossbow,クロスボウ
@@ -3246,6 +3382,8 @@ ItemName,expensive camera,高級カメラ
 ItemName,Eye of Aethiopica,『エチオピカの目』
 ItemName,eyeball,
 ItemName,Eyes of Ra,『ラーの眼』
+ItemName,fae dragon scale mail,
+ItemName,fae dragon scales,
 ItemName,fancy boots,
 ItemName,fauchard,フォシャール
 ItemName,fedora,フェドーラ
@@ -3261,7 +3399,6 @@ ItemName,fly swatter,ハエ叩き
 ItemName,food ration,携行食
 ItemName,fortune cookie,おみくじクッキー
 ItemName,frag grenade,グレネード
-ItemName,frisbee,
 ItemName,frost horn,氷の角笛
 ItemName,fumble boots,滑りやすい靴
 ItemName,garnet,ガーネット
@@ -3273,6 +3410,7 @@ ItemName,gauntlets of power,力の籠手
 ItemName,Giantslayer,『ジャイアントスレイヤー』
 ItemName,glaive,グレイブ
 ItemName,gold axe,
+ItemName,gold boots,
 ItemName,gold chakram,
 ItemName,gold coin,金貨
 ItemName,gold dagger,
@@ -3280,11 +3418,14 @@ ItemName,gold double vajra,
 ItemName,gold dragon scale mail,ゴールドドラゴンの鱗鎧
 ItemName,gold dragon scales,ゴールドドラゴンの鱗
 ItemName,gold flail,
+ItemName,gold gauntlets,
+ItemName,gold helmet,
 ItemName,Gold Key,『黄金の鍵』
 ItemName,gold khanda,
 ItemName,gold labrys,
 ItemName,gold longsword,
 ItemName,gold plate mail,
+ItemName,gold shield,
 ItemName,gold single vajra,
 ItemName,gold spade,
 ItemName,gold trident,
@@ -3297,6 +3438,8 @@ ItemName,green dragon scale mail,グリーンドラゴンの鱗鎧
 ItemName,green dragon scales,グリーンドラゴンの鱗
 ItemName,green glass bauble,緑の安物ガラス
 ItemName,grenade launcher,グレネードランチャー
+ItemName,grey dragon scale mail,
+ItemName,grey dragon scales,
 ItemName,Grimtooth,『グリムトゥース』
 ItemName,guisarme,ギザルム
 ItemName,Gungnir,
@@ -3304,6 +3447,7 @@ ItemName,halberd,ハルバード
 ItemName,Harbalest,『ハーバレスト』
 ItemName,hatchet,手斧
 ItemName,hawaiian shirt,アロハシャツ
+ItemName,healer's satchel,
 ItemName,healthstone,
 ItemName,heavy hammer,ヘビーハンマー
 ItemName,heavy iron ball,重い鉄球
@@ -3381,7 +3525,6 @@ ItemName,Maulfrost,『モールフロスト』
 ItemName,meat ring,ミートリング
 ItemName,meat stick,ミートスティック
 ItemName,meatball,ミートボール
-ItemName,medical kit,
 ItemName,melon,スイカ
 ItemName,mirror,
 ItemName,Mirrorbright,『ミラーブライト』
@@ -3395,6 +3538,7 @@ ItemName,mithril crossbow bolt,ミスリルのクロスボウボルト
 ItemName,mithril dagger,ミスリルのダガー
 ItemName,mithril dart,ミスリルのダーツ
 ItemName,mithril gauntlets,
+ItemName,mithril gloves,
 ItemName,mithril greatmace,
 ItemName,mithril greatsword,
 ItemName,mithril hatchet,
@@ -3408,19 +3552,21 @@ ItemName,mithril poleaxe,
 ItemName,mithril rapier,
 ItemName,mithril sabre,ミスリルのサーベル
 ItemName,mithril shield,ミスリルの盾
+ItemName,mithril shoes,
 ItemName,mithril short sword,ミスリルのショートソード
 ItemName,mithril shuriken,
 ItemName,mithril spear,ミスリルの槍
 ItemName,mithril trident,
 ItemName,mithril two-handed sword,ミスリルの両手剣
 ItemName,mithril whip,ミスリルの鞭
-ItemName,mooshroom,
 ItemName,morning star,モーニングスター
 ItemName,Mournblade,
 ItemName,mummy wrapping,ミイラの包帯
 ItemName,Muramasa,『村正』
 ItemName,mushroom,キノコ
 ItemName,mute earrings,静寂の耳飾り
+ItemName,mystical dragon scale mail,
+ItemName,mystical dragon scales,
 ItemName,naginata,
 ItemName,Nonagon Infinity,
 ItemName,nunchaku,ヌンチャク
@@ -3453,10 +3599,7 @@ ItemName,phantom key,幽幻の鍵
 ItemName,phial,
 ItemName,Philosophers Stone,『賢者の石』
 ItemName,pick-axe,つるはし
-ItemName,pill,
 ItemName,pistol,ピストル
-ItemName,plastic bat,
-ItemName,plastic hammer,
 ItemName,plastic sword,プラスチックの剣
 ItemName,plate barding,鋼鉄の馬鎧
 ItemName,plate mail,プレートメイル
@@ -3499,7 +3642,6 @@ ItemName,potion of water,水の小瓶
 ItemName,proof earrings,目利きの耳飾り
 ItemName,Prudentia,『プルデンティア』
 ItemName,quarterstaff,クォータースタッフ
-ItemName,railgun,
 ItemName,ranseur,ランサー
 ItemName,rapier,レイピア
 ItemName,Ravenbow,『レイヴンボウ』
@@ -3550,13 +3692,18 @@ ItemName,rocket launcher,ロケットランチャー
 ItemName,rose axe,
 ItemName,rose battleaxe,
 ItemName,rose bident,
+ItemName,rose boots,
 ItemName,rose dagger,
+ItemName,rose gauntlets,
 ItemName,rose greatsword,
 ItemName,rose hatchet,
+ItemName,rose helmet,
 ItemName,rose long sword,
+ItemName,rose plate mail,
 ItemName,rose rapier,
 ItemName,rose ring,
 ItemName,rose sabre,
+ItemName,rose shield,
 ItemName,rose short sword,
 ItemName,rose spear,
 ItemName,Rosenthral,『ローゼンスレール』
@@ -3650,12 +3797,10 @@ ItemName,splint mail,スプリントメイル
 ItemName,sprig of wolfsbane,トリカブトの小枝
 ItemName,Stamped Letter,『手紙』
 ItemName,steel boots,
-ItemName,stethoscope,
 ItemName,stick of dynamite,ダイナマイトの棒
 ItemName,stiletto,スティレット
 ItemName,stone club,石の棍棒
 ItemName,Stormbringer,
-ItemName,strange object,
 ItemName,studded leather armour,鋲付きレザーアーマー
 ItemName,submachine gun,サブマシンガン
 ItemName,Sudarshana Chakra,
@@ -3666,7 +3811,6 @@ ItemName,Talaria,『タラリア』
 ItemName,The Hero,『ザ・ヒーロー』
 ItemName,thunder staff,雷鳴の杖
 ItemName,tin,缶詰
-ItemName,tin opener,
 ItemName,tin whistle,錫のホイッスル
 ItemName,tinning kit,缶詰自作キット
 ItemName,tooled horn,装飾された角笛
@@ -3674,7 +3818,6 @@ ItemName,topaz,トパーズ
 ItemName,torch,たいまつ
 ItemName,tortilla,トルティーヤ
 ItemName,touchstone,
-ItemName,towel,
 ItemName,trident,トライデント
 ItemName,tripe ration,屑モツ
 ItemName,triplesword,
@@ -3705,7 +3848,6 @@ ItemName,wand of fireball,爆炎球の魔法棒
 ItemName,wand of haste,加速の魔法棒
 ItemName,wand of healing,回復の魔法棒
 ItemName,wand of iceball,氷の玉の魔法棒
-ItemName,wand of jumping,
 ItemName,wand of levitation,
 ItemName,wand of light,灯りの魔法棒
 ItemName,wand of lightning,電撃の魔法棒
@@ -3747,7 +3889,6 @@ ItemName,yellow dragon scale mail,イエロードラゴンの鱗鎧
 ItemName,yellow dragon scales,イエロードラゴンの鱗
 ItemName,yellow glass bauble,黄色の安物ガラス
 ItemName,yellowish brown glass bauble,黄褐色の安物ガラス
-ItemName,yoyo,
 ItemName,yumi,大弓
 ItemName,zircon,ジルコン
 ItemName,Zweihänder,

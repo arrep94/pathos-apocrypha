@@ -1,19 +1,19 @@
 ﻿Kind,Race,Name,Description,Level,Frequency,Difficulty,Challenge,Size,Material,Weight,Speed,Defence,Strategy,Flags,STR,DEX,CON,INT,WIS,CHA
 angel,angel,Aleax,,50,0,55,5208,medium,animal,18000,"6,0",30,attack,GUARDIAN|UNIQUE,22,18,21,22,23,24
 angel,angel,angel,"Beautiful, otherworldly beings characterised by their signature halo and feathered wings. Strongly attuned to the struggle between good and evil, they sense the divinity within anything they hold.",0,0,0,0,medium,animal,15000,"4,5",10,attack,BASE,10,10,10,10,10,10
-angel,angel,angel warrior,,15,1,20,430,medium,animal,18000,"4,5",22,attack,,20,16,18,14,16,16
+angel,angel,angel warrior,"A soldier of the host: armed, armoured, and entirely without doubt.",15,1,20,430,medium,animal,18000,"4,5",22,attack,,20,16,18,14,16,16
 angel,angel,archangel,,14,1,19,415,medium,animal,18000,"4,5",24,attack,,18,17,16,17,19,20
 angel,angel,archon,,19,1,26,662,large,animal,18000,"5,0",22,attack,,21,20,21,21,22,22
 angel,angel,astral deva,,18,1,24,604,medium,animal,18000,"5,0",21,attack,,20,20,20,19,22,20
-angel,angel,cherubim,,14,1,14,390,medium,animal,18000,"4,5",22,defend,,17,16,15,16,18,19
+angel,angel,cherubim,"Not the plump children of paintings: four faces, a great many wings, and a mandate to guard.",14,1,14,390,medium,animal,18000,"4,5",22,defend,,17,16,15,16,18,19
 angel,,couatl,,8,1,11,148,large,animal,100000,"3,0",10,attack,,16,20,17,18,20,18
-angel,angel,eshim,,9,1,8,165,medium,animal,15000,"4,5",16,attack,,14,14,14,13,16,16
-angel,angel,galgalim,,16,1,16,480,medium,animal,18000,"5,0",20,attack,,16,18,16,20,22,18
+angel,angel,eshim,"The least of the host, made of fire and formed for one errand at a time.",9,1,8,165,medium,animal,15000,"4,5",16,attack,,14,14,14,13,16,16
+angel,angel,galgalim,"The wheels within wheels, rimmed with eyes, turning without ever facing away.",16,1,16,480,medium,animal,18000,"5,0",20,attack,,16,18,16,20,22,18
 angel,,ki-rin,,16,1,21,472,large,animal,140000,"6,0",18,attack,,19,20,16,17,20,18
 angel,angel,monadic deva,,15,1,21,456,medium,animal,20000,"5,0",20,attack,,18,18,18,17,20,20
 angel,angel,movanic deva,,12,1,19,386,medium,animal,19000,"5,0",19,attack,,16,16,16,15,18,18
 angel,angel,Planetar,,50,0,55,5642,large,animal,21000,"6,0",30,attack,GUARDIAN|UNIQUE,24,20,24,19,22,25
-angel,angel,seraphim,,19,1,20,590,medium,animal,18000,"5,0",22,attack,,19,19,19,18,21,21
+angel,angel,seraphim,"The burning ones. They stand nearest the throne, and everything near them catches.",19,1,20,590,medium,animal,18000,"5,0",22,attack,,19,19,19,18,21,21
 angel,angel,Solar,,50,0,55,5100,large,animal,18000,"5,0",30,attack,GUARDIAN|UNIQUE,26,22,26,25,25,30
 bat,,athol,,5,1,6,22,medium,animal,6000,"5,0",13,defend,,15,14,11,2,12,6
 bat,,bat,,0,2,2,6,tiny,animal,200,"5,0",10,defend,,4,15,8,2,13,4
@@ -58,7 +58,7 @@ blob,,jiggling blob,,10,1,11,174,large,vegetable,2000,"2,0",13,defend,,13,8,17,3
 blob,,lava blob,,10,1,12,194,large,vegetable,2000,"2,0",18,defend,,14,8,17,3,8,3
 blob,,quivering blob,,5,3,6,29,small,vegetable,2000,"1,5",14,defend,,12,6,18,1,5,1
 blob,,static blob,,12,1,14,258,large,vegetable,2000,"2,0",21,defend,,14,8,16,3,7,3
-cat,,Byakko,,17,0,15,490,large,animal,60000,"6,0",21,attack,UNIQUE,20,18,17,12,18,16
+cat,,Byakko,"The white tiger of the west, in whose season metal is forged and old things are cut away.",17,0,15,490,large,animal,60000,"6,0",21,attack,UNIQUE,20,18,17,12,18,16
 cat,,caterwaul,,6,1,8,42,medium,animal,6000,"7,5",13,attack,,10,16,10,5,14,9
 cat,,displacer beast,,30,1,32,1450,large,animal,23000,"3,7",26,attack,,18,15,16,6,12,8
 cat,,ember panther,"A panther whose black coat smoulders at the edges, leaving smoking pawprints on stone.",9,1,11,95,medium,animal,12000,"5,0",19,attack,,16,16,12,3,14,7
@@ -71,10 +71,10 @@ cat,,kitten,,2,7,3,8,small,animal,1500,"5,0",12,defend,DOMESTIC,10,14,10,3,12,7
 cat,,large cat,,6,7,7,40,medium,animal,12000,"5,0",14,attack,DOMESTIC,14,18,14,3,12,7
 cat,,lynx,,11,1,13,208,small,animal,6000,"5,0",17,attack,,12,17,10,3,14,7
 cat,,panther,,7,1,9,45,medium,animal,12000,"5,0",18,attack,,14,15,10,3,14,7
-cat,,pheral khit,,8,2,6,130,medium,animal,9000,"4,0",13,attack,,12,17,11,10,10,9
-cat,,pheral pharaoh,,26,1,22,850,medium,animal,12000,"4,0",20,attack,GUARDIAN,19,18,17,15,16,18
-cat,,pheral sentinel,,13,1,10,235,medium,animal,11000,"3,7",16,attack,,15,16,13,10,11,10
-cat,,pheral vizier,,15,1,13,380,medium,animal,10000,"3,7",14,attack,,10,14,11,16,17,14
+cat,,pheral khit,"The young of the pheral: all claws, and no patience whatever.",8,2,6,130,medium,animal,9000,"4,0",13,attack,,12,17,11,10,10,9
+cat,,pheral pharaoh,"Wrapped, crowned, and extremely displeased to have been woken.",26,1,22,850,medium,animal,12000,"4,0",20,attack,GUARDIAN,19,18,17,15,16,18
+cat,,pheral sentinel,"Stands at the door of the tomb with a blade in either hand, and has been standing there a very long time.",13,1,10,235,medium,animal,11000,"3,7",16,attack,,15,16,13,10,11,10
+cat,,pheral vizier,He does not fight. He arranges matters so that the fighting has already been decided.,15,1,13,380,medium,animal,10000,"3,7",14,attack,,10,14,11,16,17,14
 cat,,sabre-toothed cat,,23,1,25,691,large,animal,30000,"3,7",20,attack,,18,16,15,3,12,8
 cat,,tiger,,12,2,15,252,large,animal,50000,"3,7",13,attack,,17,15,14,3,12,8
 centaur,,forest centaur,,10,3,12,160,large,animal,75500,"5,0",20,attack,,18,14,14,9,13,11
@@ -99,7 +99,7 @@ demon,,Dispater,,75,0,80,10951,medium,animal,19500,"5,0",30,attack,UNIQUE,19,23,
 demon,,doppelgänger,,8,1,10,129,medium,animal,14500,"3,7",13,attack,,11,14,14,14,15,13
 demon,,erinys,,34,1,37,1305,medium,animal,14000,"4,0",24,attack,,24,23,24,21,20,18
 demon,,Famine,,45,0,50,4311,medium,animal,12000,"4,0",28,attack,UNIQUE,28,24,26,16,16,18
-demon,,female demon,,13,2,15,220,medium,animal,14000,"4,0",18,attack,,17,14,16,10,10,12
+demon,,female demon,"She was beautiful once, in the way a knife is beautiful, and the resemblance has not altogether faded.",13,2,15,220,medium,animal,14000,"4,0",18,attack,,17,14,16,10,10,12
 demon,,Geryon,,75,0,80,10006,huge,animal,1400000,"4,5",29,attack,UNIQUE,17,24,26,22,21,25
 demon,,hezrou,,28,2,31,1334,large,animal,30000,"2,5",21,attack,,24,17,20,5,12,13
 demon,,horned devil,,29,2,32,1114,medium,animal,18000,"2,5",24,attack,,22,17,21,12,16,17
@@ -120,7 +120,7 @@ demon,,pit fiend,,33,2,36,1421,large,animal,30000,"2,5",23,attack,,26,14,24,22,1
 demon,,sandestin,,21,1,23,702,medium,animal,15000,"4,0",18,attack,,13,15,15,14,11,13
 demon,,spined devil,,26,2,29,1244,medium,animal,15000,"5,0",22,attack,,18,15,12,11,14,8
 demon,,succubus,,13,2,15,220,medium,animal,13000,"4,0",17,attack,,8,17,13,15,12,20
-demon,,tempter,,14,2,16,235,medium,animal,18000,"4,0",18,attack,,8,17,13,15,12,20
+demon,,tempter,"He offers you exactly what you wanted, and the price is not mentioned until afterwards.",14,2,16,235,medium,animal,18000,"4,0",18,attack,,8,17,13,15,12,20
 demon,,vrock,,25,2,28,950,large,animal,14500,"4,0",25,attack,,23,15,18,8,13,8
 demon,,water demon,,8,1,11,148,medium,animal,21000,"4,0",19,attack,,11,20,16,12,11,14
 demon,,Yeenoghu,,50,0,55,5850,large,animal,22000,"5,0",23,attack,UNIQUE,16,14,26,22,21,26
@@ -156,34 +156,45 @@ dog,,winter wolf cub,,10,2,12,185,small,animal,2500,"3,7",14,attack,,10,12,10,3,
 dog,,wolf,,7,3,8,54,medium,animal,10000,"3,7",14,attack,,12,15,12,3,12,6
 dog,,wolverine,,13,1,15,211,medium,animal,8500,"5,0",15,attack,,13,12,16,4,9,7
 dracon,dracon,dracon,"Imposing and heavily built, they resemble humanoid dragons with a snout, scaly hide and functional wings.",0,0,0,0,medium,animal,20000,"4,5",13,attack,BASE,10,10,10,10,10,10
+dragon,,adult astral dragon,"It drifts in and out of the here and now, and its breath arrives from somewhere that is not quite the room.",20,3,23,598,huge,animal,200000,"5,0",24,attack,,25,10,23,16,15,19
 dragon,,adult black dragon,,20,3,25,894,huge,animal,200000,"5,0",23,attack,,23,14,21,14,13,17
 dragon,,adult blue dragon,,20,3,23,598,huge,animal,200000,"5,0",24,attack,,25,10,23,16,15,19
 dragon,,adult deep dragon,,22,3,27,944,huge,animal,200000,"5,0",26,attack,,22,11,21,16,15,20
+dragon,,adult fae dragon,It keeps the courtesies of the fey courts exactly as far as they amuse it.,20,3,23,598,huge,animal,200000,"5,0",24,attack,,25,10,23,16,15,19
 dragon,,adult gold dragon,,23,3,27,936,huge,animal,200000,"5,0",25,attack,GUARDIAN,25,10,25,16,13,21
 dragon,,adult green dragon,,20,3,27,785,huge,animal,200000,"5,0",23,attack,,24,12,21,18,13,19
+dragon,,adult grey dragon,"Nothing cast at a grey dragon has ever much troubled it, and it knows this better than you do.",20,3,23,598,huge,animal,200000,"5,0",24,attack,,25,10,23,16,15,19
+dragon,,adult mystical dragon,"Steeped in high magic, and quite capable of being something else by the time you swing.",20,3,23,598,huge,animal,200000,"5,0",24,attack,,25,10,23,16,15,19
 dragon,,adult orange dragon,,18,3,21,557,huge,animal,200000,"5,0",24,attack,,23,11,21,14,13,20
 dragon,,adult red dragon,,20,3,23,598,huge,animal,200000,"5,0",24,attack,,27,10,25,16,13,21
 dragon,,adult shimmering dragon,,25,3,29,1109,huge,animal,200000,"5,0",26,attack,,21,15,22,14,13,17
 dragon,,adult silver dragon,,25,3,30,1264,huge,animal,200000,"5,0",25,attack,GUARDIAN,27,10,25,16,13,21
 dragon,,adult white dragon,,20,3,23,598,huge,animal,200000,"5,0",24,attack,,22,10,22,8,12,12
 dragon,,adult yellow dragon,,20,3,25,910,huge,animal,200000,"5,0",24,attack,,21,10,22,17,15,17
+dragon,,ancient astral dragon,It has spent so long between the planes that it is only visiting this one. Distance means nothing to it.,30,3,33,1598,gargantuan,animal,300000,"5,0",28,attack,,27,12,25,18,17,21
 dragon,,ancient black dragon,,30,3,35,1894,gargantuan,animal,300000,"5,0",27,attack,,25,16,23,16,15,19
 dragon,,ancient blue dragon,,30,3,33,1598,gargantuan,animal,300000,"5,0",28,attack,,27,12,25,18,17,21
 dragon,,ancient deep dragon,,34,3,37,1944,gargantuan,animal,300000,"5,0",30,attack,,24,13,23,18,17,22
+dragon,,ancient fae dragon,It has been playing the same joke for eight hundred years and has not yet reached the end of it.,30,3,33,1598,gargantuan,animal,300000,"5,0",28,attack,,27,12,25,18,17,21
 dragon,,ancient gold dragon,,38,3,40,1936,gargantuan,animal,300000,"5,0",29,attack,GUARDIAN,27,12,27,18,15,23
 dragon,,ancient green dragon,,30,3,36,1785,gargantuan,animal,300000,"5,0",27,attack,,26,14,23,20,15,21
+dragon,,ancient grey dragon,"Old enough that magic simply stops happening near it. Whatever it was once, it is now a hole in the weave.",30,3,33,1598,gargantuan,animal,300000,"5,0",28,attack,,27,12,25,18,17,21
+dragon,,ancient mystical dragon,"Centuries of study, and a library underneath it that no scholar will ever be allowed to see.",30,3,33,1598,gargantuan,animal,300000,"5,0",28,attack,,27,12,25,18,17,21
 dragon,,ancient orange dragon,,28,3,31,1557,gargantuan,animal,300000,"5,0",28,attack,,25,13,23,16,15,22
 dragon,,ancient red dragon,,30,3,33,1598,gargantuan,animal,300000,"5,0",28,attack,,29,12,27,18,15,23
 dragon,,ancient shimmering dragon,,35,3,37,2109,gargantuan,animal,300000,"5,0",30,attack,,23,17,24,16,15,19
 dragon,,ancient silver dragon,,37,3,39,2264,gargantuan,animal,300000,"5,0",29,attack,GUARDIAN,29,12,27,18,15,23
 dragon,,ancient white dragon,,30,3,33,1598,gargantuan,animal,300000,"5,0",28,attack,,24,12,24,10,14,14
 dragon,,ancient yellow dragon,,30,3,35,1910,gargantuan,animal,300000,"5,0",28,attack,,23,12,24,19,17,19
-dragon,,astral dragon,A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.,24,2,28,1040,huge,animal,200000,"5,0",26,attack,,22,16,22,15,14,18
+dragon,,baby astral dragon,"A hatchling that keeps half-vanishing while you look at it, and has not yet worked out how to stop.",4,2,5,22,medium,animal,50000,"5,0",18,attack,,17,10,15,12,11,15
 dragon,,baby black dragon,,4,2,6,24,medium,animal,50000,"5,0",18,attack,,15,14,13,10,11,13
 dragon,,baby blue dragon,,4,2,5,22,medium,animal,50000,"5,0",18,attack,,17,10,15,12,11,15
 dragon,,baby deep dragon,,4,2,5,22,medium,animal,50000,"5,0",18,attack,,15,10,15,13,11,15
+dragon,,baby fae dragon,"A hatchling out of the fey courts: bright-eyed, quick, and already lying to you.",4,2,5,22,medium,animal,50000,"5,0",18,attack,,17,10,15,12,11,15
 dragon,,baby gold dragon,,4,2,6,24,medium,animal,50000,"5,0",18,attack,GUARDIAN,18,10,17,12,11,15
 dragon,,baby green dragon,,4,2,6,24,medium,animal,50000,"5,0",18,attack,,15,12,13,14,11,13
+dragon,,baby grey dragon,"A grey hatchling, already contemptuous of magic and of you.",4,2,5,22,medium,animal,50000,"5,0",18,attack,,17,10,15,12,11,15
+dragon,,baby mystical dragon,A hatchling that has already learned one word it should not know.,4,2,5,22,medium,animal,50000,"5,0",18,attack,,17,10,15,12,11,15
 dragon,,baby orange dragon,,4,2,5,22,medium,animal,50000,"5,0",18,attack,,15,10,15,12,11,15
 dragon,,baby red dragon,,4,2,5,22,medium,animal,50000,"5,0",18,attack,,19,10,17,12,11,15
 dragon,,baby shimmering dragon,,4,2,6,24,medium,animal,50000,"5,0",18,attack,,15,13,14,12,11,15
@@ -192,16 +203,18 @@ dragon,,baby white dragon,,4,2,5,22,medium,animal,50000,"5,0",18,attack,,14,10,1
 dragon,,baby yellow dragon,,4,2,5,22,medium,animal,50000,"5,0",18,attack,,15,10,14,14,12,15
 dragon,,chromatic dragon,,32,1,33,1446,gargantuan,animal,450000,"5,0",27,attack,,27,10,30,26,26,28
 dragon,,dragon king,,39,1,38,1713,gargantuan,animal,300000,"5,0",30,attack,,30,14,26,18,16,28
-dragon,,fae dragon,"A small, quick-witted dragon out of the fey courts, more prankster than predator.",15,2,18,330,large,animal,100000,"5,0",21,attack,,15,17,14,13,14,18
 dragon,,hydra,,34,1,36,1350,gargantuan,animal,1200000,"5,0",27,attack,,28,12,24,2,10,7
 dragon,,Ixoth,,35,0,40,3500,gargantuan,animal,1400000,"4,5",30,attack,UNIQUE,26,12,24,10,11,11
-dragon,,mystical dragon,"A dragon steeped in high magic, said to hoard grimoires as jealously as gold.",26,1,29,1200,huge,animal,200000,"5,0",27,attack,,20,15,23,18,16,17
 dragon,,wyvern,,16,1,20,530,gargantuan,animal,70000,"5,0",21,attack,,19,10,16,5,12,16
+dragon,,young astral dragon,Scales like the silver void between the planes. It steps out of the world when it is losing.,12,2,15,298,large,animal,100000,"5,0",20,attack,,19,12,17,14,13,17
 dragon,,young black dragon,,12,2,15,294,large,animal,100000,"5,0",20,attack,,17,16,15,12,13,15
 dragon,,young blue dragon,,12,2,15,298,large,animal,100000,"5,0",20,attack,,19,12,17,14,13,17
 dragon,,young deep dragon,,14,2,17,344,large,animal,100000,"5,0",22,attack,,17,12,17,15,13,17
+dragon,,young fae dragon,"More prankster than predator, which is not the same as harmless.",12,2,15,298,large,animal,100000,"5,0",20,attack,,19,12,17,14,13,17
 dragon,,young gold dragon,,15,2,17,336,large,animal,100000,"5,0",21,attack,GUARDIAN,20,12,19,14,13,17
 dragon,,young green dragon,,12,2,17,285,large,animal,100000,"5,0",21,attack,,17,14,15,16,13,15
+dragon,,young grey dragon,Its scales drink spells the way sand drinks water. Wizards have learned to leave grey dragons alone.,12,2,15,298,large,animal,100000,"5,0",20,attack,,19,12,17,14,13,17
+dragon,,young mystical dragon,"It hoards grimoires the way other dragons hoard gold, and it has read them.",12,2,15,298,large,animal,100000,"5,0",20,attack,,19,12,17,14,13,17
 dragon,,young orange dragon,,10,2,11,187,large,animal,100000,"5,0",20,attack,,17,12,17,14,13,17
 dragon,,young red dragon,,12,2,13,298,large,animal,100000,"5,0",20,attack,,21,12,19,14,13,17
 dragon,,young shimmering dragon,,17,2,19,409,large,animal,100000,"5,0",23,attack,,17,15,16,14,13,17
@@ -217,37 +230,37 @@ dwarf,dwarf,dwarf warrior,,11,1,13,204,medium,animal,15000,"4,2",12,attack,,16,1
 dwarf,dwarf,frost dwarf,A dwarf of a mountain clan so far north the forge-fires burn blue; one of its twin mattocks bites like the wind off the peak.,13,1,15,258,medium,animal,15500,"4,2",12,attack,,17,11,13,8,10,9
 dwarf,dwarf,Thorin,,20,0,22,963,medium,animal,17000,"4,2",18,attack,GUARDIAN|UNIQUE,16,14,15,13,11,14
 echo,echo,echo,"Astral beings who are a vessel for the indomitable spirit of a vanquished adventurer. Having no motivations of their own, they are glad to permit the possession; for the deceased adventurer, it is a second chance at revenge or redemption. Born from astral matter, they are slightly built, translucent and can move freely through physical obstacles.",0,0,0,0,medium,animal,10000,"5,0",8,attack,BASE,10,10,10,10,10,10
-elemental,,acid elemental,,13,2,15,275,huge,water,180000,"2,0",15,attack,,17,13,17,5,10,7
-elemental,,acid sphere,,6,2,8,48,small,water,100,"3,0",12,attack,,6,12,10,7,8,12
+elemental,,acid elemental,"A walking pool of acid, held in the shape of a body by something with an appetite.",13,2,15,275,huge,water,180000,"2,0",15,attack,,17,13,17,5,10,7
+elemental,,acid sphere,"A hovering bead of acid, small enough to ignore and stupid enough to close the distance anyway.",6,2,8,48,small,water,100,"3,0",12,attack,,6,12,10,7,8,12
 elemental,,air elemental,,18,2,20,505,huge,air,0,"7,5",17,attack,,14,20,14,6,10,6
-elemental,,air sphere,,8,2,10,66,small,air,0,"5,0",17,attack,,6,19,8,7,8,12
+elemental,,air sphere,"A knot of turning air about the size of a head. It has no face, and it follows you regardless.",8,2,10,66,small,air,0,"5,0",17,attack,,6,19,8,7,8,12
 elemental,,animate object,,0,0,0,0,small,ether,0,"5,0",10,attack,ANIMATE,11,11,11,11,11,11
-elemental,,ash elemental,,15,2,17,358,huge,fire,30000,"3,7",16,attack,,14,16,17,5,10,6
+elemental,,ash elemental,"Everything that is left when a fire has finished, and still hot enough for it to matter.",15,2,17,358,huge,fire,30000,"3,7",16,attack,,14,16,17,5,10,6
 elemental,,brine elemental,"A standing wave of brackish swamp water, thick with algae and old poison; nothing in it is fresh, and nothing about touching it is safe.",14,1,16,272,huge,water,200000,"2,0",16,attack,,18,14,18,5,10,8
 elemental,,dao,,7,1,8,55,medium,stone,19000,"4,0",15,attack,,23,12,24,12,13,14
 elemental,,djinni,,17,1,18,455,medium,animal,14000,"4,5",18,defend,,21,15,22,15,16,20
 elemental,,earth elemental,,16,2,18,405,huge,stone,90000,"2,0",21,attack,,20,8,20,5,10,5
 elemental,,earth sphere,,9,2,11,54,small,stone,45000,"3,7",21,attack,,6,8,16,7,8,12
 elemental,,efreeti,,37,1,38,2055,medium,fire,18000,"4,0",15,attack,,22,12,24,16,15,16
-elemental,,energy elemental,,15,1,17,360,huge,electricity,0,"3,7",14,attack,,12,18,14,6,10,6
-elemental,,explosive elemental,,14,1,16,330,huge,fire,0,"3,7",12,attack,,9,17,10,4,8,5
-elemental,,explosive sphere,,6,2,8,51,small,fire,0,"3,7",10,attack,,6,16,6,7,8,12
+elemental,,energy elemental,Raw current given legs. The air around it tastes of a storm that has not arrived yet.,15,1,17,360,huge,electricity,0,"3,7",14,attack,,12,18,14,6,10,6
+elemental,,explosive elemental,"It is holding itself together, and it is not going to manage that for very much longer.",14,1,16,330,huge,fire,0,"3,7",12,attack,,9,17,10,4,8,5
+elemental,,explosive sphere,A sphere with a short temper and a shorter future.,6,2,8,51,small,fire,0,"3,7",10,attack,,6,16,6,7,8,12
 elemental,,fire elemental,,14,2,16,327,huge,fire,0,"3,7",15,attack,,10,17,16,6,10,7
 elemental,,flame sphere,,5,2,7,54,small,fire,0,"3,7",11,attack,,6,16,8,7,8,12
 elemental,,frost sphere,,7,2,9,80,small,ice,100,"3,7",13,attack,,6,16,8,7,8,12
 elemental,,ice elemental,,20,2,22,605,huge,ice,120000,"3,7",20,attack,,18,12,16,6,10,6
 elemental,,marid,,27,1,28,979,medium,animal,15000,"4,0",21,attack,,22,18,26,18,17,18
 elemental,,shock sphere,,11,2,13,156,small,electricity,0,"3,7",15,attack,,6,16,8,7,8,12
-elemental,,sonic elemental,,17,1,19,470,huge,air,0,"5,0",18,attack,,13,19,14,6,10,6
-elemental,,sonic sphere,,9,2,11,90,small,air,0,"5,0",11,attack,,6,20,8,7,8,12
+elemental,,sonic elemental,"A standing wave, loud enough to be solid. You feel it in your teeth before you see it.",17,1,19,470,huge,air,0,"5,0",18,attack,,13,19,14,6,10,6
+elemental,,sonic sphere,A hovering note that will not stop rising.,9,2,11,90,small,air,0,"5,0",11,attack,,6,20,8,7,8,12
 elemental,,stalker,,8,3,9,65,large,animal,9000,"3,7",13,defend,,16,19,14,10,15,11
 elemental,,water elemental,,12,2,14,226,huge,water,200000,"2,0",16,attack,,18,14,18,5,10,8
 elemental,,water sphere,,3,2,5,24,small,water,100000,"3,7",11,attack,,6,12,18,7,8,12
 elf,elf,drow,,10,1,13,225,medium,animal,10000,"5,0",16,attack,,14,16,12,15,15,13
-elf,elf,drow mage,,12,1,9,260,medium,animal,10000,"5,0",17,attack,,11,16,12,19,16,13
-elf,elf,drow monk,,11,1,8,235,medium,animal,10000,"5,0",17,attack,,15,18,13,12,14,11
-elf,elf,drow priestess,,13,1,10,300,medium,animal,10000,"5,0",17,attack,,12,16,13,15,18,15
-elf,elf,drow thief,,9,1,7,195,medium,animal,9500,"5,0",17,attack,,11,18,11,13,12,13
+elf,elf,drow mage,"Drow magic is taught underground, quietly, and it is used the same way.",12,1,9,260,medium,animal,10000,"5,0",17,attack,,11,16,12,19,16,13
+elf,elf,drow monk,"Bare hands, bare feet, and a discipline that took thirty years in the dark to learn.",11,1,8,235,medium,animal,10000,"5,0",17,attack,,15,18,13,12,14,11
+elf,elf,drow priestess,"She speaks for the spider goddess, and the enclave does whatever she says the goddess wants.",13,1,10,300,medium,animal,10000,"5,0",17,attack,,12,16,13,15,18,15
+elf,elf,drow thief,"Sees perfectly in the dark, moves perfectly in it, and is already behind you.",9,1,7,195,medium,animal,9500,"5,0",17,attack,,11,18,11,13,12,13
 elf,elf,Earendil,,20,0,22,963,medium,animal,15000,"5,0",20,attack,GUARDIAN|UNIQUE,14,24,14,20,20,22
 elf,elf,elf,"Spiritual beings fond of nature and magic. They are physically similar to humans, but often smaller and nimbler.",0,0,0,0,medium,animal,10000,"5,0",10,attack,BASE,10,10,10,10,10,10
 elf,elf,elf king,,22,1,24,713,medium,animal,12000,"5,0",18,attack,,19,19,15,16,15,23
@@ -256,7 +269,7 @@ elf,elf,Elwing,,20,0,22,963,medium,animal,11000,"5,0",20,attack,GUARDIAN|UNIQUE,
 elf,elf,green elf,,10,3,12,189,medium,animal,10000,"5,0",12,attack,,12,13,11,14,15,13
 elf,elf,grey elf,,14,3,16,242,medium,animal,10000,"5,0",13,attack,,12,13,12,14,15,13
 elf,elf,high elf,,17,1,19,427,medium,animal,11000,"5,0",15,attack,,17,15,12,15,15,14
-elf,elf,noble elf,,15,1,11,380,medium,animal,12000,"3,7",15,attack,,13,15,12,15,14,19
+elf,elf,noble elf,"Old blood, old grudges, and a sword that has been in the family longer than the family has held the land.",15,1,11,380,medium,animal,12000,"3,7",15,attack,,13,15,12,15,14,19
 elf,elf,sun elf,"An elf of the sunlit dunes, skin bronzed and eyes narrowed; its arrows are fletched with fire-hardened reed and fly burning.",9,2,11,96,medium,animal,9000,"5,0",10,attack,,12,14,10,13,13,12
 elf,elf,woodland elf,,7,3,9,60,medium,animal,9000,"5,0",10,attack,,12,13,10,13,13,12
 eye,,beholder,,32,1,34,1508,large,animal,25000,"3,7",26,attack,,14,13,15,14,11,14
@@ -271,7 +284,7 @@ fairy,fairy,dryad,,14,0,16,254,medium,animal,14500,"3,7",26,attack,,18,16,20,15,
 fairy,fairy,fairy,"Tiny winged spirits, inherently magical and extraordinarily beautiful. When threatened, they can escape through distortions in spatial reality.",0,0,0,0,tiny,animal,3000,"5,0",10,attack,BASE,10,10,10,10,10,10
 fairy,nymph,fire nymph,,18,2,20,420,medium,animal,6000,"5,0",20,defend,sleeping,6,20,10,15,15,18
 fairy,nymph,mountain nymph,,13,2,15,220,medium,animal,6000,"5,0",17,defend,sleeping,5,18,8,13,13,16
-fairy,nymph,Nymph Princess,,22,0,24,720,medium,animal,6000,"5,0",22,defend,GUARDIAN|UNIQUE|sleeping,7,22,12,17,17,22
+fairy,nymph,Nymph Princess,She rules a court of nymphs and has never yet had to raise a hand to keep it.,22,0,24,720,medium,animal,6000,"5,0",22,defend,GUARDIAN|UNIQUE|sleeping,7,22,12,17,17,22
 fairy,fairy,pixie,,3,1,11,76,tiny,animal,600,"5,0",15,defend,sleeping,6,14,8,13,13,15
 fairy,fairy,quickling,,5,1,7,48,tiny,animal,600,"7,5",6,defend,,6,18,8,11,12,12
 fairy,nymph,water nymph,,3,2,5,16,medium,animal,6000,"5,0",10,defend,sleeping,5,12,8,13,13,16
@@ -301,7 +314,7 @@ giant,giant,fire giant,,15,2,17,414,huge,animal,110000,"3,0",16,attack,,25,9,23,
 giant,giant,frost giant,,17,1,20,441,huge,animal,110000,"3,0",18,attack,,23,9,21,9,10,12
 giant,giant,giant,"An ancient race of towering recluses. Their terrifying size gives them immense strength, supplemented by a voracious diet of meats and minerals.",0,0,0,0,huge,animal,100000,"3,3",10,attack,BASE,10,10,10,10,10,10
 giant,giant,giant king,,30,1,32,1300,huge,animal,165000,"3,7",20,attack,,30,15,27,15,13,24
-giant,giant,Gianta Klaus,,19,0,24,640,huge,animal,140000,"4,0",18,attack,UNIQUE,28,11,26,12,12,15
+giant,giant,Gianta Klaus,"A giant in red who arrives once a year with a sack, and whose generosity is best not put to the test.",19,0,24,640,huge,animal,140000,"4,0",18,attack,UNIQUE,28,11,26,12,12,15
 giant,giant,hill giant,,12,2,14,229,huge,animal,110000,"3,0",15,attack,,21,8,19,5,9,6
 giant,giant,ice giant,"A giant of the high glaciers, sheathed in rime; its breath alone can flash-freeze a puddle solid.",19,1,22,500,huge,animal,110000,"3,0",19,attack,,25,9,22,9,11,12
 giant,giant,Lord Surtur,,15,0,20,511,huge,animal,130000,"4,0",18,attack,UNIQUE,27,11,25,11,11,14
@@ -340,11 +353,11 @@ golem,,plastic golem,,5,1,6,23,large,plastic,95000,"3,7",12,attack,,16,9,14,3,11
 golem,,rope golem,,7,1,9,62,large,cloth,80000,"2,5",13,attack,,18,8,14,3,10,3
 golem,,ruby golem,,26,1,28,731,large,gemstone,100000,"3,7",18,attack,,26,9,22,3,9,1
 golem,,sapphire golem,,30,1,32,1014,large,gemstone,110000,"3,7",19,attack,,26,9,22,3,9,1
-golem,,silver golem,,11,1,13,138,large,silver,130000,"2,5",16,attack,,18,10,15,3,9,1
+golem,,silver golem,"Cast in silver at ruinous expense, and worth it: nothing rots it, nothing charms it, and it never tires.",11,1,13,138,large,silver,130000,"2,5",16,attack,,18,10,15,3,9,1
 golem,,snow golem,,12,1,13,199,large,ice,60000,"2,5",16,attack,,16,9,12,3,11,3
 golem,,stone golem,,21,1,22,673,large,stone,120000,"2,0",16,attack,,22,9,20,3,11,1
 golem,,straw golem,,3,1,3,10,large,vegetable,20000,"3,7",11,attack,,8,8,10,3,13,2
-golem,,tin golem,,5,1,6,24,medium,tin,60000,"3,7",12,attack,,15,9,13,3,9,1
+golem,,tin golem,Beaten out of scrap tin by an apprentice who wanted to prove a point. It rattles as it walks.,5,1,6,24,medium,tin,60000,"3,7",12,attack,,15,9,13,3,9,1
 golem,,topaz golem,,21,1,23,501,large,gemstone,100000,"3,7",17,attack,,26,9,22,3,9,1
 golem,,wax golem,,6,1,8,47,large,wax,28000,"3,7",11,attack,,14,10,16,3,10,1
 golem,,wood golem,,14,1,16,310,large,wood,30000,"2,0",17,attack,,14,9,12,3,9,1
@@ -352,16 +365,16 @@ gremlin,,gargoyle,,16,2,18,398,medium,animal,22000,"2,5",24,attack,,16,11,16,6,1
 gremlin,,gremlin,,4,2,6,29,small,animal,1000,"3,7",15,attack,,8,16,12,14,12,14
 gremlin,,winged gargoyle,,23,1,25,649,medium,animal,14000,"5,0",23,attack,,22,13,16,6,11,7
 halfling,halfling,halfling,Small folk who prefer simple lives. They are notably gregarious and their build lends them well to less-than-noble endeavours.,0,0,0,0,small,animal,5000,"4,5",10,attack,BASE,10,10,10,10,10,10
-halfling,halfling,halfling female caveman,,0,2,1,5,small,animal,4800,"4,5",11,attack,,10,15,11,7,9,10
-halfling,halfling,halfling male caveman,,0,2,1,5,small,animal,5200,"4,5",10,attack,,14,12,13,6,7,8
+halfling,halfling,halfling female caveman,"Small, wary, and quicker with a thrown rock than anyone her size has any right to be.",0,2,1,5,small,animal,4800,"4,5",11,attack,,10,15,11,7,9,10
+halfling,halfling,halfling male caveman,"A halfling from before halflings had villages, clubbing at the world with whatever came to hand.",0,2,1,5,small,animal,5200,"4,5",10,attack,,14,12,13,6,7,8
 horse,unicorn,black unicorn,,4,4,6,27,large,animal,80000,"7,5",16,defend,,18,14,15,11,17,16
-horse,,buraq,,22,1,18,880,large,animal,90000,"7,5",20,defend,,19,18,17,10,15,14
+horse,,buraq,"A winged steed with a human face, which crosses in a single stride what a horse crosses in a day.",22,1,18,880,large,animal,90000,"7,5",20,defend,,19,18,17,10,15,14
 horse,unicorn,grey unicorn,,8,4,10,165,large,animal,120000,"7,5",17,defend,,18,14,15,11,17,16
 horse,,horse,,5,2,7,31,large,animal,90000,"6,0",15,defend,DOMESTIC,16,10,12,2,11,7
 horse,,nightmare,,30,1,32,1365,large,animal,120000,"7,5",19,defend,,18,15,16,10,13,15
 horse,,pegasus,,24,1,27,961,large,animal,75000,"7,5",19,defend,,18,15,16,10,15,13
 horse,,pony,,3,2,4,13,large,animal,40000,"5,0",14,defend,DOMESTIC,15,10,13,2,11,7
-horse,unicorn,runicorn,,16,1,18,320,large,animal,105000,"7,5",20,defend,,22,16,16,13,19,18
+horse,unicorn,runicorn,A unicorn whose hide is scored with runes that no hand cut. Magic slides off it and comes back sharpened.,16,1,18,320,large,animal,105000,"7,5",20,defend,,22,16,16,13,19,18
 horse,,warhorse,,7,2,9,55,large,animal,140000,"6,0",15,defend,DOMESTIC,18,12,13,2,12,7
 horse,unicorn,white unicorn,,12,4,14,204,large,animal,100000,"7,5",18,defend,,22,14,15,11,17,16
 human,human,Archmage Dirachi,,40,0,44,2498,medium,animal,14500,"5,0",27,attack,GUARDIAN|UNIQUE,15,17,16,22,21,22
@@ -401,7 +414,7 @@ human,human,Pelias,,20,0,22,963,medium,animal,18000,"4,2",17,attack,GUARDIAN|UNI
 human,human,quantum mechanic,,7,2,9,57,medium,animal,14500,"3,7",14,attack,,12,16,12,18,13,12
 human,human,Shaman Karnov,,25,0,31,1263,medium,animal,13000,"4,2",17,attack,GUARDIAN|UNIQUE,16,16,16,20,24,15
 human,human,Sir Lorimar,,25,0,31,1223,medium,animal,14500,"5,0",26,attack,GUARDIAN|UNIQUE,17,18,19,17,15,18
-human,human,Soul Summoner,,20,0,26,900,medium,animal,16000,"4,5",19,attack,UNIQUE,14,15,16,19,18,15
+human,human,Soul Summoner,"He spent a lifetime learning to call the dead, and now they come whether he calls them or not.",20,0,26,900,medium,animal,16000,"4,5",19,attack,UNIQUE,14,15,16,19,18,15
 human,human,Thoth Amon,,15,0,20,499,medium,animal,19000,"4,2",17,attack,UNIQUE,14,16,15,17,22,15
 human,human,Twoflower,,30,0,35,2461,medium,animal,14500,"5,0",29,attack,GUARDIAN|UNIQUE,16,12,16,15,13,17
 human,human,Van Helsing,,30,0,33,2468,medium,animal,17000,"5,0",15,attack,GUARDIAN|UNIQUE,14,21,17,18,19,21
@@ -495,7 +508,7 @@ lizardman,lizardman,lizardman,"Large, omnivorous reptilians whose bestial ancest
 lizardman,lizardman,lizardman berserker,,20,3,22,600,large,animal,24000,"4,5",21,attack,,21,10,20,5,5,5
 lizardman,lizardman,lizardman chieftain,,23,1,25,744,large,animal,26000,"4,5",23,attack,,16,14,20,15,13,13
 lizardman,lizardman,lizardman mage,,21,2,23,641,large,animal,22000,"4,5",20,attack,,14,12,11,12,14,8
-lizardman,lizardman,lizardman samurai,,22,1,24,690,large,animal,25000,"4,5",22,attack,,18,16,19,12,12,10
+lizardman,lizardman,lizardman samurai,A lizardman who took up a foreign discipline and mastered it. His two blades move faster than his bulk suggests they can.,22,1,24,690,large,animal,25000,"4,5",22,attack,,18,16,19,12,12,10
 lizardman,lizardman,lizardman shaman,,18,2,20,481,large,animal,22000,"4,5",19,attack,,14,12,11,10,14,12
 lizardman,lizardman,lizardman warrior,,17,4,19,421,large,animal,24000,"4,5",16,attack,,14,14,18,8,7,5
 lycanthrope,,jackalwere,,6,1,7,63,medium,animal,18000,"3,7",15,attack,,11,10,14,8,11,16
@@ -522,30 +535,30 @@ marine,,giant eel,,14,10,16,305,huge,animal,80000,"2,5",18,attack,,16,14,13,4,8,
 marine,,giant frog,,9,10,11,105,huge,animal,40000,"5,0",13,attack,,12,13,11,2,10,3
 marine,,jellyfish,,5,10,7,49,small,animal,800,"2,0",14,attack,,8,11,9,1,3,3
 marine,,kraken,,20,10,22,447,huge,animal,300000,"2,0",13,attack,,17,13,18,8,11,15
-marine,,Merdude,,34,0,37,1460,huge,animal,45000,"5,0",24,attack,GUARDIAN|UNIQUE,26,20,26,10,14,18
+marine,,Merdude,"Something enormous came up out of the deep water, and the deep water was glad to be rid of it.",34,0,37,1460,huge,animal,45000,"5,0",24,attack,GUARDIAN|UNIQUE,26,20,26,10,14,18
 marine,,piranha,,7,10,8,46,small,animal,600,"3,7",16,attack,,13,15,13,3,1,5
 marine,,seal,,10,10,12,125,large,animal,88000,"4,0",18,escape,DOMESTIC,20,5,20,5,5,14
 marine,,shark,,18,10,20,482,large,animal,200000,"3,7",20,attack,,21,13,18,3,5,5
 mercenary,human,abbot,,23,1,18,812,medium,animal,15000,"5,0",14,attack,MERCENARY,14,16,15,12,18,10
 mercenary,human,acolyte,,4,1,2,46,medium,animal,15000,"3,7",10,attack,MERCENARY,14,11,12,13,15,14
-mercenary,human,air binder,,20,1,15,597,medium,animal,14500,"4,5",17,attack,MERCENARY,13,19,14,16,14,14
-mercenary,human,air maker,,30,1,25,1499,medium,animal,14500,"4,5",19,attack,MERCENARY,15,21,16,19,16,16
-mercenary,human,air seeker,,10,1,5,197,medium,animal,14500,"4,5",14,attack,MERCENARY,10,17,12,14,13,12
-mercenary,human,alchemist,,10,1,6,160,medium,animal,14000,"3,7",10,attack,MERCENARY,10,11,11,14,12,11
+mercenary,human,air binder,"The second rank, who no longer asks the wind for anything but simply takes it.",20,1,15,597,medium,animal,14500,"4,5",17,attack,MERCENARY,13,19,14,16,14,14
+mercenary,human,air maker,"The highest rank of the air school. Where she is standing, the weather is a matter of her preference.",30,1,25,1499,medium,animal,14500,"4,5",19,attack,MERCENARY,15,21,16,19,16,16
+mercenary,human,air seeker,"The first rank of the air school, who has learned to feel the wind before it moves.",10,1,5,197,medium,animal,14500,"4,5",14,attack,MERCENARY,10,17,12,14,13,12
+mercenary,human,alchemist,"Mixes what should not be mixed and takes careful notes, on the occasions when he survives to write them.",10,1,6,160,medium,animal,14000,"3,7",10,attack,MERCENARY,10,11,11,14,12,11
 mercenary,human,apprentice,,7,1,4,96,medium,animal,13000,"3,7",10,attack,MERCENARY,10,13,10,14,14,10
-mercenary,human,archeologist,,7,1,4,95,medium,animal,13500,"3,7",10,attack,MERCENARY,10,12,11,15,13,10
-mercenary,human,assassin,,16,1,12,340,medium,animal,14000,"3,7",15,attack,MERCENARY,14,18,13,11,11,10
+mercenary,human,archeologist,"Digs up other people's tombs for a living, and has learned which ones to leave alone.",7,1,4,95,medium,animal,13500,"3,7",10,attack,MERCENARY,10,12,11,15,13,10
+mercenary,human,assassin,"You do not meet an assassin. You meet somebody else, once, and after that you meet nobody at all.",16,1,12,340,medium,animal,14000,"3,7",15,attack,MERCENARY,14,18,13,11,11,10
 mercenary,human,attendant,,8,1,5,110,medium,animal,15000,"3,7",12,attack,MERCENARY,11,13,14,10,11,12
-mercenary,human,berserker,,15,1,13,380,medium,animal,17000,"3,7",12,attack,MERCENARY,20,12,16,8,8,9
-mercenary,human,bishop,,20,1,17,620,medium,animal,15000,"5,0",22,attack,MERCENARY,15,10,17,15,20,18
+mercenary,human,berserker,"Fights without armour, without caution, and without any evident expectation of tomorrow.",15,1,13,380,medium,animal,17000,"3,7",12,attack,MERCENARY,20,12,16,8,8,9
+mercenary,human,bishop,"He carries a mace because canon law denied him the edge, and he has never once felt the restriction.",20,1,17,620,medium,animal,15000,"5,0",22,attack,MERCENARY,15,10,17,15,20,18
 mercenary,human,black marketeer,,25,1,21,741,medium,animal,15000,"5,0",28,attack,MERCENARY,20,16,16,16,14,18
-mercenary,human,bushi,,11,1,8,195,medium,animal,14000,"3,7",11,attack,MERCENARY,14,13,13,9,10,8
+mercenary,human,bushi,"A warrior in the service of a house, thoroughly competent with everything he has ever been handed.",11,1,8,195,medium,animal,14000,"3,7",11,attack,MERCENARY,14,13,13,9,10,8
 mercenary,human,chief yeoman warder,,28,1,23,1168,medium,animal,17000,"3,7",18,attack,MERCENARY,18,15,18,12,14,16
 mercenary,human,chieftain,,29,1,24,1031,medium,animal,19000,"3,7",13,attack,MERCENARY,22,9,19,9,14,15
 mercenary,human,earth binder,,20,1,15,598,medium,animal,14500,"4,5",18,attack,MERCENARY,18,12,18,16,15,13
 mercenary,human,earth maker,,30,1,25,1498,medium,animal,14500,"4,5",20,attack,MERCENARY,20,13,22,19,17,14
 mercenary,human,earth seeker,,10,1,5,198,medium,animal,14500,"4,5",16,attack,MERCENARY,15,10,16,14,14,11
-mercenary,human,elder wizard,,26,1,24,1050,medium,animal,13000,"3,7",12,attack,MERCENARY,11,10,12,19,20,14
+mercenary,human,elder wizard,"Old enough to have forgotten more magic than most schools teach, and to still remember the dangerous parts.",26,1,24,1050,medium,animal,13000,"3,7",12,attack,MERCENARY,11,10,12,19,20,14
 mercenary,human,embalmer,,15,1,10,296,medium,animal,13000,"3,7",15,attack,MERCENARY,13,12,15,13,11,11
 mercenary,human,exterminator,,18,1,13,550,medium,animal,14500,"3,7",15,attack,MERCENARY,12,16,13,13,11,12
 mercenary,demon,fiend,,25,1,20,871,medium,animal,16000,"3,7",21,attack,MERCENARY,19,15,16,12,15,15
@@ -557,35 +570,35 @@ mercenary,human,frost maker,,30,1,25,1431,medium,animal,14500,"4,5",20,attack,ME
 mercenary,human,frost seeker,,10,1,5,196,medium,animal,14500,"4,5",11,attack,MERCENARY,9,11,13,13,11,15
 mercenary,human,guide,,3,1,1,35,medium,animal,14500,"3,7",10,attack,MERCENARY,11,13,12,11,10,14
 mercenary,human,gypsy,,19,2,14,519,medium,animal,12000,"3,7",16,attack,MERCENARY,16,18,16,15,17,20
-mercenary,human,hag,,17,1,18,600,medium,animal,13000,"3,7",16,attack,MERCENARY,13,14,14,15,17,6
+mercenary,human,hag,"Old, bent, and owed favours by things that ought not to be in a position to owe favours.",17,1,18,600,medium,animal,13000,"3,7",16,attack,MERCENARY,13,14,14,15,17,6
 mercenary,human,high priest,,30,1,25,1274,medium,animal,16000,"5,0",25,attack,MERCENARY,19,11,21,17,22,20
-mercenary,human,huntress,,14,1,10,290,medium,animal,13500,"3,7",14,attack,MERCENARY,12,17,13,10,13,11
+mercenary,human,huntress,She tracks for a week and shoots once.,14,1,10,290,medium,animal,13500,"3,7",14,attack,MERCENARY,12,17,13,10,13,11
 mercenary,human,intern,,12,1,7,201,medium,animal,12000,"3,7",13,attack,MERCENARY,10,13,10,11,12,10
-mercenary,human,journeyman wizard,,12,1,8,220,medium,animal,13000,"3,7",10,attack,MERCENARY,10,13,11,15,15,10
+mercenary,human,journeyman wizard,"Past apprentice, short of master, and painfully aware of the distance between the two.",12,1,8,220,medium,animal,13000,"3,7",10,attack,MERCENARY,10,13,11,15,15,10
 mercenary,human,mugger,,13,1,8,230,medium,animal,14500,"3,7",15,attack,MERCENARY,14,15,12,8,8,14
 mercenary,human,neanderthal,,17,1,12,421,medium,animal,20000,"3,7",15,attack,MERCENARY,20,11,16,6,8,9
-mercenary,human,nun,,5,1,3,55,medium,animal,14500,"3,7",10,attack,MERCENARY,11,11,12,12,15,13
+mercenary,human,nun,"Devout, unarmed by preference, and armed by necessity rather more often than her order cares to admit.",5,1,3,55,medium,animal,14500,"3,7",10,attack,MERCENARY,11,11,12,12,15,13
 mercenary,human,occultist,,30,1,28,1376,medium,animal,13000,"3,7",15,attack,MERCENARY,12,11,13,17,18,15
 mercenary,human,page,,6,1,3,76,medium,animal,14500,"3,7",7,attack,MERCENARY,11,16,14,8,10,9
-mercenary,human,poison alchemist,,13,1,9,250,medium,animal,12000,"3,7",14,attack,MERCENARY,11,13,11,14,11,10
+mercenary,human,poison alchemist,He gave up on cures some years ago. The other trade paid better and asked far fewer questions.,13,1,9,250,medium,animal,12000,"3,7",14,attack,MERCENARY,11,13,11,14,11,10
 mercenary,halfling,proudfoot,,14,1,9,237,small,animal,8500,"4,5",12,attack,MERCENARY,11,14,13,12,15,9
 mercenary,human,roshi,,21,1,16,586,medium,animal,12000,"3,7",10,attack,MERCENARY,16,16,16,12,14,8
-mercenary,human,savage brute,,16,1,13,400,medium,animal,21000,"3,7",14,attack,MERCENARY,21,10,17,6,8,8
-mercenary,human,savage stalker,,14,1,11,300,medium,animal,13000,"3,7",16,attack,MERCENARY,13,17,12,9,10,9
-mercenary,human,shaolin monk,,18,1,15,470,medium,animal,13000,"3,7",18,attack,MERCENARY,16,18,15,10,15,8
+mercenary,human,savage brute,"Enormous, unarmoured, and entirely uninterested in the finer points of anything.",16,1,13,400,medium,animal,21000,"3,7",14,attack,MERCENARY,21,10,17,6,8,8
+mercenary,human,savage stalker,"Follows for miles without making a sound, and then picks the moment.",14,1,11,300,medium,animal,13000,"3,7",16,attack,MERCENARY,13,17,12,9,10,9
+mercenary,human,shaolin monk,"Thirty years of the same forms, every morning without exception, and now he needs no weapon at all.",18,1,15,470,medium,animal,13000,"3,7",18,attack,MERCENARY,16,18,15,10,15,8
 mercenary,human,shifter,,21,1,16,583,medium,animal,14500,"3,7",17,attack,MERCENARY,12,16,22,12,14,13
 mercenary,human,shinobi,,30,1,27,1236,medium,animal,13500,"3,7",15,attack,MERCENARY,18,20,14,10,13,11
 mercenary,human,shock binder,,20,1,15,498,medium,animal,14500,"4,5",20,attack,MERCENARY,13,17,13,15,13,17
 mercenary,human,shock maker,,30,1,25,1513,medium,animal,14500,"4,5",20,attack,MERCENARY,13,19,15,17,15,19
 mercenary,human,shock seeker,,10,1,5,173,medium,animal,14500,"4,5",20,attack,MERCENARY,11,15,11,13,11,15
 mercenary,human,student,,10,1,6,191,medium,animal,14000,"4,5",12,attack,MERCENARY,10,12,12,16,11,8
-mercenary,human,temptress,,11,2,9,190,medium,animal,12000,"3,7",14,attack,MERCENARY,10,14,12,13,11,19
-mercenary,human,thief,,8,1,5,110,medium,animal,14000,"3,7",12,attack,MERCENARY,11,15,12,11,10,12
+mercenary,human,temptress,"She is friendly, and she is interested in you, and neither of those things is true.",11,2,9,190,medium,animal,12000,"3,7",14,attack,MERCENARY,10,14,12,13,11,19
+mercenary,human,thief,"He wants your purse rather than your life, and will take the second only if you insist on it.",8,1,5,110,medium,animal,14000,"3,7",12,attack,MERCENARY,11,15,12,11,10,12
 mercenary,human,thug,,22,1,17,676,medium,animal,16000,"3,7",15,attack,MERCENARY,17,17,12,8,8,14
 mercenary,human,tracker,,24,1,19,746,medium,animal,14500,"4,5",15,attack,MERCENARY,14,18,16,8,15,12
-mercenary,human,trader,,9,1,6,140,medium,animal,14000,"3,7",11,attack,MERCENARY,10,11,11,12,12,13
+mercenary,human,trader,"Everything has a price, and he will find yours before you have finished speaking.",9,1,6,140,medium,animal,14000,"3,7",11,attack,MERCENARY,10,11,11,12,12,13
 mercenary,human,transmuter,,30,1,26,1475,medium,animal,14000,"3,7",27,attack,MERCENARY,18,17,21,20,23,21
-mercenary,human,traveller,,10,1,7,165,medium,animal,14500,"3,7",12,attack,MERCENARY,12,12,12,11,13,11
+mercenary,human,traveller,Walks the roads between towns carrying everything he owns and a very good stick.,10,1,7,165,medium,animal,14500,"3,7",12,attack,MERCENARY,12,12,12,11,13,11
 mercenary,human,undead slayer,,30,1,29,1368,medium,animal,14500,"5,0",14,attack,MERCENARY,16,19,15,13,14,15
 mercenary,human,warrior,,27,1,22,976,medium,animal,17500,"3,7",13,attack,MERCENARY,18,14,18,8,8,10
 mercenary,human,water binder,,20,1,15,518,medium,animal,14500,"4,5",20,attack,MERCENARY,14,14,17,16,16,14
@@ -593,12 +606,12 @@ mercenary,human,water maker,,30,1,25,1459,medium,animal,14500,"4,5",20,attack,ME
 mercenary,human,water seeker,,10,1,5,164,medium,animal,14500,"4,5",20,attack,MERCENARY,12,12,15,14,14,12
 mercenary,human,yeoman,,9,1,5,156,medium,animal,15000,"3,7",10,attack,MERCENARY,12,11,13,8,11,12
 mercenary,human,yeoman warder,,16,1,11,151,medium,animal,16000,"3,7",14,attack,MERCENARY,14,11,15,10,11,14
-military,human,army captain,,13,1,16,270,medium,animal,17500,"3,7",12,attack,,18,13,17,11,12,13
-military,human,army lieutenant,,10,1,12,190,medium,animal,17000,"3,7",11,attack,,16,13,16,10,11,11
-military,human,army sergeant,,8,2,10,130,medium,animal,17000,"3,7",10,attack,,15,12,15,9,10,10
-military,human,army soldier,,6,4,8,45,medium,animal,16000,"3,7",10,attack,,14,12,14,8,10,9
+military,human,army captain,"He has fought campaigns you have only heard rumours of, and he expects the men behind him to keep up.",13,1,16,270,medium,animal,17500,"3,7",12,attack,,18,13,17,11,12,13
+military,human,army lieutenant,"A junior officer with a commission bought or earned, leading from the front because that is where he is watched.",10,1,12,190,medium,animal,17000,"3,7",11,attack,,16,13,16,10,11,11
+military,human,army sergeant,"The one who taught the soldiers their drill, and who fights rather better than any of them.",8,2,10,130,medium,animal,17000,"3,7",10,attack,,15,12,15,9,10,10
+military,human,army soldier,"Rank-and-file infantry, drilled to hold a line with a spear and a shield, and to break it for nobody.",6,4,8,45,medium,animal,16000,"3,7",10,attack,,14,12,14,8,10,9
 military,human,captain,,12,0,14,250,medium,animal,16000,"5,0",10,attack,,17,17,17,11,15,13
-military,human,General Breetai,,18,0,20,620,medium,animal,19000,"4,5",21,attack,GUARDIAN|UNIQUE,20,15,19,15,16,17
+military,human,General Breetai,A career officer with a ruined face and a habit of winning. He has never once fought alone.,18,0,20,620,medium,animal,19000,"4,5",21,attack,GUARDIAN|UNIQUE,20,15,19,15,16,17
 military,human,keystone captain,,4,0,4,25,medium,animal,16000,"5,0",10,attack,,17,17,17,11,15,13
 military,human,keystone kop,,1,0,1,5,medium,animal,16000,"5,0",10,attack,,14,14,14,8,12,10
 military,human,keystone lieutenant,,3,0,3,20,medium,animal,16000,"5,0",10,attack,,16,16,16,10,14,12
@@ -660,7 +673,7 @@ orc,orc,orc captain,,15,1,20,819,medium,animal,18500,"3,3",9,attack,,18,12,16,9,
 orc,orc,orc grunt,,3,2,5,15,medium,animal,14000,"3,3",9,attack,,16,12,14,7,8,6
 orc,orc,orc king,,21,1,22,626,medium,animal,19000,"3,3",11,attack,,20,12,19,13,9,16
 orc,orc,orc shaman,,3,1,5,23,medium,animal,15000,"3,0",13,attack,,14,15,13,12,12,8
-orc,orc,orc thief,,4,2,6,30,medium,animal,13000,"4,2",12,attack,,14,16,12,8,7,6
+orc,orc,orc thief,An orc who worked out that pockets are a good deal easier to open than skulls.,4,2,6,30,medium,animal,13000,"4,2",12,attack,,14,16,12,8,7,6
 orc,orc,orc warrior,,12,1,14,214,medium,animal,17000,"3,3",10,attack,,17,12,16,7,8,6
 orc,orc,snow orc,,11,1,13,183,medium,animal,16000,"3,7",11,attack,,17,12,16,8,8,10
 orc,orc,swamp orc,"An orc that has made its home in the marshlands, its blade notched and slicked with venom drawn from swamp adders.",7,2,9,143,medium,animal,14000,"2,5",13,attack,,14,11,14,7,8,6
@@ -697,11 +710,11 @@ quadruped,,squealer,,6,1,9,74,large,animal,4000,"2,5",13,attack,,10,13,10,4,7,6
 quadruped,,titanothere,,26,2,27,935,huge,animal,300000,"3,7",15,attack,,18,9,18,3,6,5
 quadruped,,wumpus,,16,1,18,370,large,animal,25000,"2,0",18,attack,,14,10,14,3,7,5
 robot,robot,robot,Bipedal mechanical automatons with nearly unbounded artificial intelligence. Powered by a molten core engine that requires a constant supply of raw metals and is susceptible to water damage.,0,0,0,0,medium,iron,15000,"4,5",11,attack,BASE,10,10,10,10,10,10
-robot,robot,robot female,,7,2,9,58,medium,iron,15000,"4,5",12,attack,,14,13,13,11,11,9
-robot,robot,robot sentry,,9,1,11,92,medium,iron,18000,"2,0",15,defend,,14,10,16,12,12,6
-robot,robot,robot singer,,8,1,10,74,medium,iron,14000,"4,5",11,attack,,9,12,10,12,11,16
+robot,robot,robot female,"A humanoid automaton, articulated at every joint, still carrying out whatever it was last told to do.",7,2,9,58,medium,iron,15000,"4,5",12,attack,,14,13,13,11,11,9
+robot,robot,robot sentry,"It was built to stand in one place and stop things, and it is still doing exactly that long after the builders left.",9,1,11,92,medium,iron,18000,"2,0",15,defend,,14,10,16,12,12,6
+robot,robot,robot singer,"It sings the same three phrases in a voice that used to belong to somebody, and it will not be interrupted.",8,1,10,74,medium,iron,14000,"4,5",11,attack,,9,12,10,12,11,16
 rodent,,albino rat,"A sewer rat gone pure white and pink-eyed, blind from generations in unlit tunnels.",1,1,2,4,tiny,animal,200,"3,7",11,attack,,8,14,6,3,9,5
-rodent,,almiraj,,4,5,3,35,tiny,animal,500,"4,0",13,attack,,9,13,6,3,6,5
+rodent,,almiraj,"A hare with a single straight horn, and no sense whatever of how small it is.",4,5,3,35,tiny,animal,500,"4,0",13,attack,,9,13,6,3,6,5
 rodent,,black rat,,2,1,3,8,tiny,animal,400,"5,0",11,attack,DOMESTIC,7,14,5,3,7,5
 rodent,,giant hamster,"A rodent the size of a dog, cheek pouches bulging with whatever it last found on the floor.",1,2,2,2,small,animal,900,"2,0",11,attack,,7,10,9,2,6,7
 rodent,,giant rat,,1,2,2,2,tiny,animal,300,"2,5",11,attack,,8,14,6,3,7,5
@@ -758,8 +771,8 @@ umber,,umber hulk,,9,2,12,149,large,animal,25000,"2,0",16,attack,,17,14,16,6,11,
 umber,,water hulk,,24,1,27,930,large,animal,24000,"2,5",16,attack,,17,14,17,6,11,8
 vampire,,Count Dracula,,15,0,20,544,medium,animal,14500,"5,0",23,attack,UNIQUE,16,20,22,16,17,15
 vampire,,fire vampire,,24,1,30,1185,medium,fire,20000,"5,0",15,attack,,15,20,16,11,12,11
-vampire,,Krull,,15,0,14,350,small,animal,9000,"5,0",16,attack,UNIQUE,12,15,14,9,10,8
-vampire,,robot male vampire gunslinger,,14,1,16,420,medium,iron,15000,"3,7",17,attack,,13,14,14,11,10,12
+vampire,,Krull,"Small, old, and patient. He has outlived every hunter who assumed that size was the point.",15,0,14,350,small,animal,9000,"5,0",16,attack,UNIQUE,12,15,14,9,10,8
+vampire,,robot male vampire gunslinger,"Somebody built a machine, somebody else turned it, and a third party handed it a pistol. All three came to regret their part.",14,1,16,420,medium,iron,15000,"3,7",17,attack,,13,14,14,11,10,12
 vampire,,star vampire,,28,1,33,1020,large,animal,30000,"5,0",21,attack,,16,18,18,11,12,10
 vampire,,vampire,,15,2,17,477,medium,animal,14500,"3,7",18,attack,,12,14,14,10,10,11
 vampire,,vampire king,,32,1,36,1094,medium,animal,17000,"5,0",27,attack,,16,17,16,16,15,16
@@ -771,7 +784,7 @@ vortex,,fire vortex,,21,1,23,695,huge,fire,0,"5,0",22,attack,,10,17,8,1,3,1
 vortex,,fog cloud,,3,2,4,20,huge,ether,0,"1,5",18,attack,,4,14,7,1,4,1
 vortex,,ice vortex,,10,1,11,89,huge,ice,0,"5,0",15,attack,,10,17,8,1,3,1
 vortex,,steam vortex,,15,2,17,374,huge,water,0,"5,0",20,attack,,10,17,8,1,3,1
-vortex,,wind sphere,,7,2,9,55,huge,air,0,"5,0",15,attack,,10,18,8,1,3,1
+vortex,,wind sphere,"A turning column of wind: enormous, empty, and impossible to hit anywhere that counts.",7,2,9,55,huge,air,0,"5,0",15,attack,,10,18,8,1,3,1
 worm,,acid worm,,22,1,24,664,small,animal,300,"2,5",16,attack,,10,9,10,2,8,4
 worm,,baby long worm,,12,1,13,184,medium,animal,6000,"2,0",16,attack,,6,8,8,2,5,3
 worm,,baby purple worm,,12,1,13,184,medium,animal,6000,"2,0",16,attack,,6,8,8,2,5,3

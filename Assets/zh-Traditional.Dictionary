@@ -136,7 +136,6 @@ AppearanceName,cloudy potion,渾濁藥水
 AppearanceName,coarse mantelet,粗糙斗篷
 AppearanceName,cobalt book,
 AppearanceName,cobblestone book,
-AppearanceName,coiled gun,
 AppearanceName,colourful book,彩色封面的書
 AppearanceName,combat boots,戰鬥靴
 AppearanceName,compact gun,小型槍支
@@ -381,7 +380,6 @@ AppearanceName,plain ring,樸素戒指
 AppearanceName,plain robe,樸素長袍
 AppearanceName,plastic slug,塑料彈頭
 AppearanceName,plastic stick,塑料棍子
-AppearanceName,plastic wand,
 AppearanceName,platinum wand,白金魔杖
 AppearanceName,plumed helmet,羽毛盔
 AppearanceName,pocked book,
@@ -538,8 +536,6 @@ AppearanceName,tiny book,小巧的書
 AppearanceName,topaz book,
 AppearanceName,topaz ring,黃玉戒指
 AppearanceName,torn book,被撕裂的書
-AppearanceName,toy bat,
-AppearanceName,toy hammer,
 AppearanceName,toy sword,玩具劍
 AppearanceName,triangular amulet,三角形護符
 AppearanceName,turquoise book,綠松石書
@@ -1307,30 +1303,42 @@ EngulfmentName,engulfed,吞入
 EngulfmentName,swallowed,吞嚥
 EntityDescription,"A blink dog pup, already able to flicker away from danger before it lands a bite.",
 EntityDescription,A bulbous fungus that bursts into a hissing cloud of acid when disturbed.,
+EntityDescription,A career officer with a ruined face and a habit of winning. He has never once fought alone.,
 EntityDescription,"A cave bear whose pelt has gone grey as cinders, hardened by years sheltered in a live volcano's roots.",
 EntityDescription,"A cave spider drained of all colour by lightless generations, hunting by web-thrum alone.",
 EntityDescription,"A cobra pale as hoarfrost, coiled in the ice caves where warm-blooded prey seeks shelter.",
 EntityDescription,"A coyote with a static-charged coat, drawn down from the high plains after a lightning storm.",
 EntityDescription,"A dead tree animated by rot and old malice, its bark split open where a jaw shouldn't be.",
-EntityDescription,"A dragon steeped in high magic, said to hoard grimoires as jealously as gold.",
-EntityDescription,A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.,
 EntityDescription,A dwarf of a mountain clan so far north the forge-fires burn blue; one of its twin mattocks bites like the wind off the peak.,
 EntityDescription,A fey hound that flickers between here and elsewhere; it fights alongside anyone it trusts.,
 EntityDescription,"A giant bat with clouded, sightless eyes, navigating wholly by the shriek of its own echo.",
 EntityDescription,"A giant beetle with a carapace of blue-white chitin, breath steaming with cold in the deep dark.",
 EntityDescription,"A giant caked grey with volcanic ash, walking down from a smoking peak with a club still smoking at the tip.",
+EntityDescription,"A giant in red who arrives once a year with a sack, and whose generosity is best not put to the test.",
 EntityDescription,"A giant of the high glaciers, sheathed in rime; its breath alone can flash-freeze a puddle solid.",
 EntityDescription,"A gila monster whose beaded hide glows dull orange along the seams, as if lit from beneath.",
 EntityDescription,"A gnome who never left the deep tunnels, pale and stooped, at ease chewing through rock with a pickaxe.",
 EntityDescription,"A golem cast from bronze rather than raw iron; where its cousin only staggers under a lightning strike, this one drinks the current and spits it back.",
+EntityDescription,"A grey hatchling, already contemptuous of magic and of you.",
+EntityDescription,"A halfling from before halflings had villages, clubbing at the world with whatever came to hand.",
+EntityDescription,"A hare with a single straight horn, and no sense whatever of how small it is.",
+EntityDescription,"A hatchling out of the fey courts: bright-eyed, quick, and already lying to you.",
+EntityDescription,A hatchling that has already learned one word it should not know.,
+EntityDescription,"A hatchling that keeps half-vanishing while you look at it, and has not yet worked out how to stop.",
 EntityDescription,"A hound of the Astral plane, half-seen even when it stands still; it does not breathe or bleed.",
+EntityDescription,"A hovering bead of acid, small enough to ignore and stupid enough to close the distance anyway.",
+EntityDescription,A hovering note that will not stop rising.,
+EntityDescription,"A humanoid automaton, articulated at every joint, still carrying out whatever it was last told to do.",
 EntityDescription,"A jackal wasted by sickness, its ribs showing through a mangy hide; its bite festers.",
 EntityDescription,A jelly black as a starless sky; things it touches for too long forget how alive they were.,
 EntityDescription,A jelly that glows faintly like a coal; fire only makes it swell larger and angrier.,
 EntityDescription,A jelly that reeks of rot; it dissolves flesh and gear alike to feed itself.,
 EntityDescription,"A jelly the colour of a bruise, faintly crackling; touching it feels like brushing a doorknob after crossing a carpet in winter.",
 EntityDescription,"A jelly the colour of glacier ice, cold to the touch and colder still if it touches back.",
+EntityDescription,"A junior officer with a commission bought or earned, leading from the front because that is where he is watched.",
+EntityDescription,"A knot of turning air about the size of a head. It has no face, and it follows you regardless.",
 EntityDescription,"A kobold camouflaged in mottled green, more comfortable in the canopy than underground; it spits venom from a hollow reed.",
+EntityDescription,A lizardman who took up a foreign discipline and mastered it. His two blades move faster than his bulk suggests they can.,
 EntityDescription,"A long worm that burrows through permafrost, its segmented hide crusted with rime.",
 EntityDescription,"A lynx with a rime-white winter coat, breath fogging even in a warm room.",
 EntityDescription,A medium-sized creature prone to great ambition. Short-lived but ubiquitous; they are not to be underestimated.,有遠大理想的中體型生物。短命而常見，不要低估它們。
@@ -1345,12 +1353,19 @@ EntityDescription,A shambling corpse wrapped in weeping buboes; the sickness tha
 EntityDescription,"A shark bred to lightless ocean trenches, its eyes filmed over and useless.",
 EntityDescription,"A skeleton picked clean by something worse than time; its bones are black at the joints, and its touch draws the warmth out of the living.",
 EntityDescription,A small heap of coins that isn't quite finished counting itself.,
-EntityDescription,"A small, quick-witted dragon out of the fey courts, more prankster than predator.",
+EntityDescription,"A soldier of the host: armed, armoured, and entirely without doubt.",
+EntityDescription,A sphere with a short temper and a shorter future.,
 EntityDescription,"A spitting beetle whose glands have gone volcanic, hawking gobbets of burning pitch.",
 EntityDescription,"A standing wave of brackish swamp water, thick with algae and old poison; nothing in it is fresh, and nothing about touching it is safe.",
+EntityDescription,"A standing wave, loud enough to be solid. You feel it in your teeth before you see it.",
 EntityDescription,"A troll that wandered too near a volcano and came out the other side wrong: its hide is cracked magma-rock, glowing at every seam.",
+EntityDescription,"A turning column of wind: enormous, empty, and impossible to hit anywhere that counts.",
+EntityDescription,A unicorn whose hide is scored with runes that no hand cut. Magic slides off it and comes back sharpened.,
+EntityDescription,"A walking pool of acid, held in the shape of a body by something with an appetite.",
+EntityDescription,"A warrior in the service of a house, thoroughly competent with everything he has ever been handed.",
 EntityDescription,"A water moccasin gone jet black, all but invisible against a night-flooded cave pool.",
 EntityDescription,"A weathered chest, until its lid splits open into a maw ringed with teeth.",
+EntityDescription,"A winged steed with a human face, which crosses in a single stride what a horse crosses in a day.",
 EntityDescription,"A young astral dog, still learning to keep all four paws on the material plane at once.",
 EntityDescription,"A young mimic, its shapeshifting still crude — usually just a box that bites back.",
 EntityDescription,"Amorphous beings who have no typical shape but often take on a translucent humanoid form. While unmistakable for anything other than a plasma-like ooze, this form enables the use of clothing and tools.",可以隨意變形的奇妙存在，沒有固定的形狀，常常被描述為等離子體一樣的軟泥怪。不過它們經常呈現為半透明的人形，這樣就可以使用工具和衣物。
@@ -1360,29 +1375,95 @@ EntityDescription,"An elf of the sunlit dunes, skin bronzed and eyes narrowed; i
 EntityDescription,"An ogre gone half-feral in the fens, its skin sallow and slick; its claws carry a rot no wound-dressing can clean.",
 EntityDescription,An orc mummy exhumed from a barrow sealed under a cinder-field; its wrappings are charred and its grip sears whatever it holds.,
 EntityDescription,"An orc that has made its home in the marshlands, its blade notched and slicked with venom drawn from swamp adders.",
+EntityDescription,An orc who worked out that pockets are a good deal easier to open than skulls.,
 EntityDescription,"Astral beings who are a vessel for the indomitable spirit of a vanquished adventurer. Having no motivations of their own, they are glad to permit the possession; for the deceased adventurer, it is a second chance at revenge or redemption. Born from astral matter, they are slightly built, translucent and can move freely through physical obstacles.",已故冒險者殘留在世間的靈魂。他們已經沒有了那種世俗的慾望，因此很樂意與他人分享。對於這些已故的冒險者來說，這是他們的第二次機會，讓他們能夠繼續自己的復仇或是尋求救贖。作為一種靈體，他們體型較大，呈半透明狀，並且可以在牆壁中穿梭。
+EntityDescription,"Bare hands, bare feet, and a discipline that took thirty years in the dark to learn.",
+EntityDescription,Beaten out of scrap tin by an apprentice who wanted to prove a point. It rattles as it walks.,
 EntityDescription,"Beautiful, otherworldly beings characterised by their signature halo and feathered wings. Strongly attuned to the struggle between good and evil, they sense the divinity within anything they hold.",美麗且與俗世隔絕的生物，謠傳他們帶有標誌型的光圈與帶羽毛的翅膀。 他們能在善惡分辨中從容自如，並且能在一切所持的物品中感覺到神性。
 EntityDescription,Beware this clockwork machine of war.,當心這個發條控制的戰爭機器。
 EntityDescription,Bipedal mechanical automatons with nearly unbounded artificial intelligence. Powered by a molten core engine that requires a constant supply of raw metals and is susceptible to water damage.,一種雙足機械造物，擁有近乎無限的智能，由熔核引擎驅動。這種引擎需要持續提供金屬作為原料，並且極易受到水的傷害。
+EntityDescription,"Cast in silver at ruinous expense, and worth it: nothing rots it, nothing charms it, and it never tires.",
+EntityDescription,"Centuries of study, and a library underneath it that no scholar will ever be allowed to see.",
+EntityDescription,"Devout, unarmed by preference, and armed by necessity rather more often than her order cares to admit.",
+EntityDescription,"Digs up other people's tombs for a living, and has learned which ones to leave alone.",
+EntityDescription,"Drow magic is taught underground, quietly, and it is used the same way.",
+EntityDescription,"Enormous, unarmoured, and entirely uninterested in the finer points of anything.",
+EntityDescription,"Everything has a price, and he will find yours before you have finished speaking.",
+EntityDescription,"Everything that is left when a fire has finished, and still hot enough for it to matter.",
 EntityDescription,"Fey creatures linked by powerful nature spirits to fuel their antics. They are stocky with furry lower bodies, cloven hooves of a goat and curled horns of a ram. Ribald and clever, they cheerfully lead hedonistic escapades of drinking, dancing and fighting.",受到自然之靈祝福的異族生物，擁有魁梧的身軀，毛茸茸的下半身，山羊的蹄子和公羊的角。他們野蠻而又聰明，過著每天喝酒跳舞打架的快樂生活。
+EntityDescription,"Fights without armour, without caution, and without any evident expectation of tomorrow.",
+EntityDescription,"Follows for miles without making a sound, and then picks the moment.",
+EntityDescription,"He carries a mace because canon law denied him the edge, and he has never once felt the restriction.",
+EntityDescription,He does not fight. He arranges matters so that the fighting has already been decided.,
+EntityDescription,He gave up on cures some years ago. The other trade paid better and asked far fewer questions.,
+EntityDescription,"He has fought campaigns you have only heard rumours of, and he expects the men behind him to keep up.",
+EntityDescription,"He offers you exactly what you wanted, and the price is not mentioned until afterwards.",
+EntityDescription,"He spent a lifetime learning to call the dead, and now they come whether he calls them or not.",
+EntityDescription,"He wants your purse rather than your life, and will take the second only if you insist on it.",
 EntityDescription,"Imposing and heavily built, they resemble humanoid dragons with a snout, scaly hide and functional wings.",看起來像人形的龍，體型健壯、氣勢雄偉，具有一些爬行動物的特徵，包括鱗片、呼吸孔和爪子。
+EntityDescription,"It drifts in and out of the here and now, and its breath arrives from somewhere that is not quite the room.",
+EntityDescription,It has been playing the same joke for eight hundred years and has not yet reached the end of it.,
+EntityDescription,It has spent so long between the planes that it is only visiting this one. Distance means nothing to it.,
+EntityDescription,"It hoards grimoires the way other dragons hoard gold, and it has read them.",
+EntityDescription,"It is holding itself together, and it is not going to manage that for very much longer.",
+EntityDescription,It keeps the courtesies of the fey courts exactly as far as they amuse it.,
+EntityDescription,"It sings the same three phrases in a voice that used to belong to somebody, and it will not be interrupted.",
 EntityDescription,"It waits among the headstones shaped like one more grave marker, patient as the dead around it.",
+EntityDescription,"It was built to stand in one place and stop things, and it is still doing exactly that long after the builders left.",
+EntityDescription,Its scales drink spells the way sand drinks water. Wizards have learned to leave grey dragons alone.,
 EntityDescription,"Large, omnivorous reptilians whose bestial ancestors dominated the world long before the birth of civilisation. They are fearsome predators, capable of leaping impressive distances and warding off many attacks with their thick scaly hides.",大型食肉爬行動物其祖先在文明出現前就已統治世界許久。他們是令人恐懼的掠食者，可以跳躍很遠、用厚皮抵擋許多攻擊。
+EntityDescription,"Mixes what should not be mixed and takes careful notes, on the occasions when he survives to write them.",
 EntityDescription,Monstrous creatures with the head and tail of a bull and the body of a man.,可怖的生物，有公牛一般的頭和尾巴，身體卻是人形。
+EntityDescription,"More prankster than predator, which is not the same as harmless.",
+EntityDescription,"Not the plump children of paintings: four faces, a great many wings, and a mandate to guard.",
+EntityDescription,"Nothing cast at a grey dragon has ever much troubled it, and it knows this better than you do.",
+EntityDescription,"Old blood, old grudges, and a sword that has been in the family longer than the family has held the land.",
+EntityDescription,"Old enough that magic simply stops happening near it. Whatever it was once, it is now a hole in the weave.",
+EntityDescription,"Old enough to have forgotten more magic than most schools teach, and to still remember the dangerous parts.",
+EntityDescription,"Old, bent, and owed favours by things that ought not to be in a position to owe favours.",
+EntityDescription,"Past apprentice, short of master, and painfully aware of the distance between the two.",
 EntityDescription,"Perverse creatures of many aberrations but always with crimson skin and horns. Their mere presence compels others to act out their darkest, most violent desires.",雖然是所有邪惡生物的簡稱，但總長著赤紅的皮膚以及長角。 僅僅是迫使他人就能使他們展現出最黑暗且殘暴的慾望。
+EntityDescription,"Rank-and-file infantry, drilled to hold a line with a spear and a shield, and to break it for nobody.",
 EntityDescription,"Ravenous, predatory species of monstrous humanoid with a severe hunch that causes the backs of their hands to drag on the ground. Despite the awkward physical appearance, they are powerfully built and are infamous for their ability to rapidly recover from any wound to their rubbery hide.",貪婪、喜歡劫掠且體型魁梧的類人種族，通常有很嚴重的駝背，因此他們總是把手拖在地上。雖然體型笨拙，但是他們有著強壯的體質，以及極強的自愈能力。
+EntityDescription,Raw current given legs. The air around it tastes of a storm that has not arrived yet.,
+EntityDescription,Scales like the silver void between the planes. It steps out of the world when it is losing.,
+EntityDescription,"Sees perfectly in the dark, moves perfectly in it, and is already behind you.",
 EntityDescription,"Shape-shifting deviants, who thrive on their deceptive talents.",能變形的惡魔，以欺騙為生。
+EntityDescription,"She is friendly, and she is interested in you, and neither of those things is true.",
+EntityDescription,She rules a court of nymphs and has never yet had to raise a hand to keep it.,
+EntityDescription,"She speaks for the spider goddess, and the enclave does whatever she says the goddess wants.",
+EntityDescription,She tracks for a week and shoots once.,
+EntityDescription,"She was beautiful once, in the way a knife is beautiful, and the resemblance has not altogether faded.",
 EntityDescription,Small folk who prefer simple lives. They are notably gregarious and their build lends them well to less-than-noble endeavours.,喜歡簡單生活的小生物。他們尤其喜好社交，天賦常讓他們有不軌企圖。
+EntityDescription,"Small, old, and patient. He has outlived every hunter who assumed that size was the point.",
+EntityDescription,"Small, wary, and quicker with a thrown rock than anyone her size has any right to be.",
+EntityDescription,"Somebody built a machine, somebody else turned it, and a third party handed it a pistol. All three came to regret their part.",
+EntityDescription,"Something enormous came up out of the deep water, and the deep water was glad to be rid of it.",
 EntityDescription,"Spiritual beings fond of nature and magic. They are physically similar to humans, but often smaller and nimbler.",喜好自然與魔法的物種。他們與人類相近，但更小、更靈敏。
+EntityDescription,"Stands at the door of the tomb with a blade in either hand, and has been standing there a very long time.",
+EntityDescription,"Steeped in high magic, and quite capable of being something else by the time you swing.",
 EntityDescription,"Stout, short and hardy folk. They are known for their stubbornness, metalworking and love of alcohol.",粗壯、矮小、堅硬的物種。他們以固執、金技和嗜酒知名。
 EntityDescription,"Subterranean peoples of diminutive stature, fond of tinkering and magic. Evolved for subsistence living, their metabolism is suited for long adventures where food is scarce.",小體型的地底生物，喜好打造和魔法。進化使其適合在食物稀少的環境下生存。
+EntityDescription,"The burning ones. They stand nearest the throne, and everything near them catches.",
+EntityDescription,"The first rank of the air school, who has learned to feel the wind before it moves.",
+EntityDescription,"The highest rank of the air school. Where she is standing, the weather is a matter of her preference.",
+EntityDescription,"The least of the host, made of fire and formed for one errand at a time.",
 EntityDescription,"The lesser of the two ferrozygotic puddings, the brown pudding is said to taste more akin to rotted milk than a chocolate dessert. The pudding itself feeds upon fabrics and hides of all kind but its most known ability is its unique reproductive method. When brought into contact with iron the miracle of rotten slime binary fission takes place, creating two voracious offspring. Owing to the ubiquity of iron in the arms wielded by adventurers, this creature's population has only been growing with time.",兩種腐爛史萊姆較小的那個，這個棕色的史萊姆據說嘗起來更像過期的牛奶，而不是巧克力甜點。這個史萊姆會吃編織物和各種獸皮，但是它最有名的能力是它獨特的繁殖方式。當它和鐵器接觸的時候，會發生腐爛史萊姆的二分裂，產生兩個後代。得益於地牢中冒險者使用的鐵質武器，這個生物的數量從來沒有下降過。
+EntityDescription,"The one who taught the soldiers their drill, and who fights rather better than any of them.",
+EntityDescription,"The second rank, who no longer asks the wind for anything but simply takes it.",
+EntityDescription,"The wheels within wheels, rimmed with eyes, turning without ever facing away.",
+EntityDescription,"The white tiger of the west, in whose season metal is forged and old things are cut away.",
+EntityDescription,"The young of the pheral: all claws, and no patience whatever.",
+EntityDescription,"Thirty years of the same forms, every morning without exception, and now he needs no weapon at all.",
 EntityDescription,"This mummy confection was created by steeping a human cadaver in honey. Somehow reanimated by an obscure cult of monks, it is both deadly and delicious.",這款木乃伊甜點是將人類屍體浸泡在蜂蜜中製成的。不知何故，一種鮮為人知的僧侶崇拜使它復活了，它既致命又美味。
 EntityDescription,This strange living bubble of corrosive fluids doesn't appear to have any offensive capabilities.,這個奇怪的腐蝕性液體泡泡看起來沒有任何進攻性。
 EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily beautiful. When threatened, they can escape through distortions in spatial reality.",長翅膀的小精靈，天生具有魔力和美貌。在受威脅時，他們可以通過扭曲空間逃脫。
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.",他們和烏龜一樣背著大大的殼，是天生的遊牧生存主義者。從學會走路的那一刻起，他們就會離開家鄉去環遊世界。無論走到哪裡，他們的背後都有家的舒適與庇護。
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",醜陋而殘暴的食人物種，好戰、強力但愚蠢。
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.",大家常常以貌取人，覺得這種矮小的爬行動物軟弱而無能。他們用邪惡而狡猾的策略來面對難題，以克服自己身體上的限制。
+EntityDescription,Walks the roads between towns carrying everything he owns and a very good stick.,
+EntityDescription,"Wrapped, crowned, and extremely displeased to have been woken.",
+EntityDescription,"You do not meet an assassin. You meet somebody else, once, and after that you meet nobody at all.",
 EntityName,abbot,修道院長
 EntityName,abyssal shark,
 EntityName,acid blob,強酸污斑
@@ -1392,11 +1473,15 @@ EntityName,acid spore,
 EntityName,acid worm,強酸蠕蟲
 EntityName,acolyte,侍僧
 EntityName,adamantine golem,精金傀儡
+EntityName,adult astral dragon,
 EntityName,adult black dragon,黑龍
 EntityName,adult blue dragon,藍龍
 EntityName,adult deep dragon,深淵龍
+EntityName,adult fae dragon,
 EntityName,adult gold dragon,金龍
 EntityName,adult green dragon,綠龍
+EntityName,adult grey dragon,
+EntityName,adult mystical dragon,
 EntityName,adult orange dragon,橙龍
 EntityName,adult raven,成年烏鴉
 EntityName,adult red dragon,紅龍
@@ -1413,11 +1498,15 @@ EntityName,albino rat,
 EntityName,alchemist,
 EntityName,Aleax,復仇神使
 EntityName,almiraj,
+EntityName,ancient astral dragon,
 EntityName,ancient black dragon,古黑龍
 EntityName,ancient blue dragon,古藍龍
 EntityName,ancient deep dragon,古深淵龍
+EntityName,ancient fae dragon,
 EntityName,ancient gold dragon,古金龍
 EntityName,ancient green dragon,古綠龍
+EntityName,ancient grey dragon,
+EntityName,ancient mystical dragon,
 EntityName,ancient orange dragon,古橙龍
 EntityName,ancient red dragon,古紅龍
 EntityName,ancient shimmering dragon,古閃爍龍
@@ -1455,20 +1544,23 @@ EntityName,assassin bug,獵蝽
 EntityName,Assassin Mortimer,刺客大師
 EntityName,astral deva,星界使徒
 EntityName,astral dog,
-EntityName,astral dragon,
 EntityName,astral puppy,
 EntityName,athol,阿索爾
 EntityName,attendant,侍從
 EntityName,Baalzebub,別西卜
 EntityName,babau,巴布魔
+EntityName,baby astral dragon,
 EntityName,baby black dragon,黑色雛龍
 EntityName,baby blue dragon,藍色雛龍
 EntityName,baby crocodile,幼鱷魚
 EntityName,baby deep dragon,深淵雛龍
+EntityName,baby fae dragon,
 EntityName,baby gold dragon,金色雛龍
 EntityName,baby green dragon,綠色雛龍
+EntityName,baby grey dragon,
 EntityName,baby long worm,幼長蠕蟲
 EntityName,baby mimic,
+EntityName,baby mystical dragon,
 EntityName,baby orange dragon,橙色雛龍
 EntityName,baby purple worm,幼紫蠕蟲
 EntityName,baby red dragon,紅色雛龍
@@ -1640,7 +1732,6 @@ EntityName,ettin zombie,雙頭巨人殭屍
 EntityName,explosive elemental,
 EntityName,explosive sphere,
 EntityName,exterminator,滅蟲者
-EntityName,fae dragon,
 EntityName,fairy,妖精
 EntityName,Famine,饑荒
 EntityName,Father Dagon,父神達貢
@@ -1912,7 +2003,6 @@ EntityName,mountain nymph,山地仙女
 EntityName,movanic deva,光暗使徒
 EntityName,mugger,搶劫者
 EntityName,mumak,戰象
-EntityName,mystical dragon,
 EntityName,nabassu,掠魂魔
 EntityName,nalfeshnee,判魂魔
 EntityName,Nalzok,納佐克
@@ -2186,11 +2276,15 @@ EntityName,yellow mould,黃色真菌
 EntityName,yeoman,自耕農
 EntityName,yeoman warder,自耕農看守
 EntityName,yeti,雪人
+EntityName,young astral dragon,
 EntityName,young black dragon,黑色幼龍
 EntityName,young blue dragon,藍色幼龍
 EntityName,young deep dragon,深淵幼龍
+EntityName,young fae dragon,
 EntityName,young gold dragon,金色幼龍
 EntityName,young green dragon,綠色幼龍
+EntityName,young grey dragon,
+EntityName,young mystical dragon,
 EntityName,young orange dragon,橙色幼龍
 EntityName,young red dragon,紅色幼龍
 EntityName,young shimmering dragon,閃爍幼龍
@@ -2241,10 +2335,8 @@ FeatureName,grave,墳墓
 FeatureName,pentagram,五芒星法陣
 FeatureName,pyramid,
 FeatureName,sarcophagus,石棺
-FeatureName,sink,
 FeatureName,stall,貨攤
 FeatureName,throne,王座
-FeatureName,toilet,
 FeatureName,wooden sign,
 FeatureName,wooden stool,
 FeatureName,wooden table,
@@ -2636,10 +2728,13 @@ HordeName,yeoman,自耕農
 HordeName,zombie,殭屍
 ItemDescription,"A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.",
 ItemDescription,"A barbed iron hook on a long coil of rope, thrown out and hauled back in.",
+ItemDescription,"A battleaxe of rose gold, enormous and impractical, carried by someone with more household than sense.",
 ItemDescription,"A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.",
+ItemDescription,"A bolt with an adamantine head, made to open the armour that other bolts merely dent.",
 ItemDescription,"A branched silver candle-holder, its every arm lit at once.",
 ItemDescription,"A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.",
 ItemDescription,"A canvas roll of bandages, salves and sutures for treating wounds in the field.",
+ItemDescription,"A cavalry sabre in rose gold: curved, gleaming, and never once blooded.",
 ItemDescription,"A ceremonial double-bitted axe, its twin blades curved like a crescent moon.",
 ItemDescription,"A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.",
 ItemDescription,"A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.",
@@ -2652,18 +2747,22 @@ ItemDescription,"A curved single-edged blade mounted on a long oaken shaft, priz
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.",一把單刃的彎刀，常由騎兵使用。對下界生物尤其有效。
 ItemDescription,A curved single-edged blade often used by cavalry.,一把單刃的彎刀，常由騎兵使用。
 ItemDescription,A curved yellow fruit and a great source of fibre.,彎曲的黃色水果，提供大量纖維。
-ItemDescription,A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.,
+ItemDescription,"A duelling blade of mithril: quick past the guard, and quicker back.",
+ItemDescription,A duelling rapier of rose gold. It settles questions of standing far more often than questions of life.,
 ItemDescription,A fine-grained stone for putting an edge back on a tired blade.,
 ItemDescription,"A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.",
+ItemDescription,"A flail with a gilded head, made to be carried in procession behind somebody important.",
 ItemDescription,A flat black stone used since antiquity to tell real gemstones from paste and glass.,
-ItemDescription,A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.,
 ItemDescription,"A flat throwing weapon made of wood, often used for hunting.",扁平的木製投擲武器，常用於狩獵。
 ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.",一塊又圓又扁的餅。用煎鍋做的，你可能已經猜到了。
 ItemDescription,"A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.",
 ItemDescription,A foreign device which creates perfect visual depictions of reality.,能完美描繪現實景象的異國設備。
+ItemDescription,"A full harness of rose gold, made for a coronation and worn exactly once. Every plate is signed on the inside by the smith who beat it.",
+ItemDescription,A gilded trident from some temple to the sea. The prongs bend if you lean on them.,
 ItemDescription,"A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.",
 ItemDescription,"A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.",
-ItemDescription,"A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.",
+ItemDescription,A gold whistle on a fine chain. The note is no better than tin's and the price is considerably worse.,
+ItemDescription,A greatsword a strong child could lift and an adult could swing all day. Mithril forgives the arms what it does not forgive the enemy.,
 ItemDescription,A hand-held brass horn.,手持銅號。
 ItemDescription,"A hard rock, smooth and therefore aerodynamic.",形狀符合空氣動力學原理的石頭。
 ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,硬木棍。看著不起眼，在行家手裡是可畏的武器。
@@ -2671,11 +2770,16 @@ ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.",大�
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.",長雙刃。類似長劍，為雙手使用設計。
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,為近戰特別打造的重錘。
 ItemDescription,A heavy suit of armour made up of many strips of metal.,很多金屬片組成的厚重盔甲。
+ItemDescription,"A helm of adamantine: heavy, unlovely, and proof against the blow that would otherwise have ended things.",
+ItemDescription,"A helmet beaten from gold, worn for the crowd rather than the melee. It turns the sun beautifully and a blade not at all.",
+ItemDescription,"A helmet of rose gold, the copper in the alloy giving it a warmth that plain gold never has. It is still gold underneath, and still no use in a fight.",
 ItemDescription,"A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.",
 ItemDescription,"A horizontal, mechanically-aided bow and arrow with a shoulder stock.",有肩托的機械弓箭。
 ItemDescription,A key designed to open all mundane locks.,設計來開所有鎖的鑰匙。
+ItemDescription,A lance tipped with adamantine. Shields do not stop it; they only decide where it comes through.,
 ItemDescription,"A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.",
 ItemDescription,"A leather pouch set between two cords, meant for launching small projectiles.",兩個繩頭栓一塊皮包袱，用來發射小型投擲物。
+ItemDescription,"A length of pine still sticky with resin, cut and polished in a hurry.",
 ItemDescription,"A length of sturdy rope with a clasp, for keeping a tame animal close at hand.",
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.",綁在前臂的輕木片，有金屬部分加固。
 ItemDescription,"A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.",
@@ -2683,6 +2787,7 @@ ItemDescription,A long cane rod strung with line and hook. Best used beside open
 ItemDescription,"A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.",重心平衡的鐵製小刀，可以用來投擲。
 ItemDescription,A long pipe meant for shooting darts through force of breath.,用吹氣射出飛鏢的長管。
+ItemDescription,"A long sword of rose gold, the copper in the alloy giving it a blush the smiths were proud of.",
 ItemDescription,A long thrusting polearm best suited to mounted combat.,一根長矛樣的長柄武器，騎乘的時候使用效果更好。
 ItemDescription,A long-shafted arrow with a distinctive tip.,尖端突出的長箭。
 ItemDescription,"A long, flexible leather thong. Unexpectedly sharp.",一條長皮子，意想不到的鋒利。
@@ -2699,34 +2804,42 @@ ItemDescription,A pair of solid iron-plated boots that guard the shin and instep
 ItemDescription,A pair of sturdy leather boots which extend upward until just below the knee.,長及膝下的皮靴。
 ItemDescription,A pair of sturdy leather boots which extend upwards to just above the ankle.,長及腳踝的皮靴。
 ItemDescription,"A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.",
-ItemDescription,"A physician's instrument for listening to a heartbeat -- yours, or something else's.",
+ItemDescription,"A parade shield of gold, embossed with somebody's arms. It is carried on the left because that is the side the crowd stands on.",
+ItemDescription,"A parade sword of gold, kept bright and never once sharpened.",
 ItemDescription,"A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.",
+ItemDescription,"A plain staff of adamantine: unremarkable to look at, and impossible to snap.",
 ItemDescription,"A plain, undyed shirt of woven cloth, worn under armour or on its own.",
 ItemDescription,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.",尖鐵片接在硬木柄上，用來穿刺硬質表面。
 ItemDescription,A pointed metal cylinder meant to be discharged from a firearm.,用於從火器中被射出的尖圓柱。
+ItemDescription,"A poleaxe whose head weighs almost nothing, so the swing goes where it is aimed rather than where it falls.",
 ItemDescription,A polished sheet of silvered glass. Some things recoil from their own reflection.,
 ItemDescription,A portable source of light fashioned out of copper and fuelled by oil.,銅質移動光源，需要添油。
 ItemDescription,A projectile consisting of a wooden shaft with a sharp metal tip at its front and stabilising fins at its rear.,尖金屬頭和尾羽接在木棍上。
-ItemDescription,"A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.",
 ItemDescription,A righteous sword forged by a revered blacksmith many years ago who set out to hone his craft and to create the ultimate blade. The noble intent of its creator lingers in this weapon to cut down the wicked and protect the innocent.,一把由著名的鐵匠經過多年鍛造出來的最終之刃，它被創造的初衷是為了斬盡一切邪穢之物從而保護無辜。
 ItemDescription,A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.,
+ItemDescription,"A rose-gold hatchet, balanced for throwing by someone who was never going to throw it.",
+ItemDescription,A rose-gold shield with a mirror finish. Its owner spent more time looking at it than behind it.,
+ItemDescription,"A rose-gold spear carried at the head of processions, point up, so that nobody has to look at it closely.",
+ItemDescription,"A sacrificial dagger of soft gold, meant for the altar rather than the field.",
 ItemDescription,"A sanctimonious biscuit. A miracle to the meek, a scourge to the undead.",神聖的餅乾。馴良者的福音，死靈的噩夢。
 ItemDescription,"A semi-rigid weapon made up of a notched wooden shaft with a drawstring attached to both ends, used to launch arrows.",木柄和拉弦組成的武器，用來發射箭。
 ItemDescription,"A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.",
 ItemDescription,A sharp iron wedge fashioned to a sturdy handle.,尖鐵楔接在硬柄上。
 ItemDescription,"A sharp metal throwing weapon, smaller than a hand and shaped like a star.",鋒利的金屬投擲武器，比手掌小，外形像星星。
+ItemDescription,"A shield faced with a single sheet of adamantine. It does not dent, and the arm behind it feels every blow it does not let through.",
 ItemDescription,A short and light double-edged blade.,短而輕的雙刃劍。
 ItemDescription,"A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.",
+ItemDescription,"A short sword of rose gold, sized for a courtier's belt and a courtier's quarrel.",
+ItemDescription,"A short wand carved into a grinning face, the sort a street conjurer waves about before the trick.",
 ItemDescription,"A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.",
 ItemDescription,"A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.",
+ItemDescription,"A slim rose-gold dagger, warm to the touch and made to be seen being carried.",
 ItemDescription,"A slimy, scaly sea creature, in its entirety. Good for a meal.",某種黏黏糊糊有鱗片的海生動物。可以飽食一頓了。
 ItemDescription,A small cutting utensil made of metal with a wooden handle.,木柄鐵質切割工具。
 ItemDescription,A small glass vial holding a captive mote of light.,
-ItemDescription,A small hooked blade made for prying the lid off a sealed tin.,
 ItemDescription,A small iron tool designed for opening all sorts of locks.,被設計用來打開任意鎖具的鐵製小工具。
 ItemDescription,A small missile with a pointed tip meant for throwing.,一段極度尖銳的小型投擲物。
 ItemDescription,A small missile with a reservoir of liquid delivered through a hollow pointed tip.,一種尖銳的小型投擲武器，其尖端的中空部分注入了毒液
-ItemDescription,"A small, chalky tablet of uncertain origin. Best swallowed quickly.",
 ItemDescription,"A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.",
 ItemDescription,"A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.",
 ItemDescription,"A soft-brimmed hat, somewhat out of fashion.",有點過時的軟邊帽。
@@ -2734,13 +2847,12 @@ ItemDescription,A sophisticated bludgeon with a heavy iron head.,硬鐵頭大錘
 ItemDescription,A spacious bag made of incredibly stretchy cotton.,一個寬敞的袋子，由擁有超強伸展性的棉製成。
 ItemDescription,A spacious cloth bag.,空間很大的布包。
 ItemDescription,"A staff of living, unworked rock. What shapes matter cannot itself be unmade.",
+ItemDescription,"A star of mithril, so light that it seems to hang in the air a moment before it arrives.",
 ItemDescription,A stick of cured meat.,臘肉串。
 ItemDescription,"A stick of highly explosive material, with a short fuse on one end.",一根易爆物，一端有短引線。
 ItemDescription,A stone infused with restorative magic. It crumbles a little more each time it is used.,
 ItemDescription,A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.,
-ItemDescription,"A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.",
 ItemDescription,"A straight, double-edged and often cruciform blade.",這把劍擁有筆直的雙刃，通常是十字形。
-ItemDescription,"A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.",
 ItemDescription,A sturdy and solid mineral.,堅硬的礦物。
 ItemDescription,A suit of armour made from metal rings sewn onto a foundation of leather or cloth.,環甲由皮革或布料製作的襯裡和外面所附著的獨立鐵環組成。
 ItemDescription,"A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.",
@@ -2750,21 +2862,26 @@ ItemDescription,"A sweet custard-filled pie with a thin crust, topped with whipp
 ItemDescription,"A sweet, round fruit, of the red variety. Reportedly a great supplement to your physical health.",紅色圓形水果。對你的身體有好處。
 ItemDescription,"A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.",
 ItemDescription,"A tall, asymmetric bow.",對稱的長弓。
-ItemDescription,"A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.",
 ItemDescription,"A thick leather coat, constructed to withstand weather and wear.",厚皮衣物，遮風擋雨耐磨。
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.",大木棍子。難看，但是好用。
 ItemDescription,"A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,靈活的長劍，基本只能用於穿刺。
+ItemDescription,"A thin broth that sits in the stomach like a full meal. It tastes of nothing whatsoever, which is the price of never having to stop and eat.",
+ItemDescription,A throwing hatchet of mithril. It flies flatter and further than its weight suggests it should.,
+ItemDescription,A throwing ring of gold. It returns beautifully and cuts adequately.,
 ItemDescription,A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.,
 ItemDescription,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.",雙手火器，有肩托，常用於打獵。打人很疼。
+ItemDescription,"A wand that splits into two prongs at the tip, like a diviner's rod that never did find water.",
 ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.",來源自矮人的天才想法以及精湛匠工，被獸人偷竊後擅自使用。安裝在長軸上之後，這件武器在馬背上或用來反擊時尤其強大。在鑽上的電流會意外地排出並讓膽敢擋在它面前的人知道它的洶湧。
-ItemDescription,"A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.",
+ItemDescription,Adamantine cannot be dulled and will not break. The blade will outlast whoever is carrying it.,
+ItemDescription,"Adamantine stars, thrown a thousand times and recovered a thousand times. Nothing they strike blunts them.",
 ItemDescription,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,農具的一種，將彎刀固定在手柄上製成
 ItemDescription,An ambiguous curiosity. It seems edible.,不知道什麼玩意兒。看起來能吃。
 ItemDescription,An article of leather clothing covering the torso that hangs around the neck and on the shoulders.,圍在脖子和肩膀上、覆蓋身體的皮衣物。
 ItemDescription,An article of waterproof cotton clothing covering the torso that hangs around the neck and on the shoulders.,圍在脖子和肩膀上、覆蓋身體的防水棉衣物。
 ItemDescription,"An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.",
 ItemDescription,An elven travel food. It is incredibly satiating.,精靈旅行食物。特別管飽。
+ItemDescription,"An enormous sword of solid gold, more monument than weapon, and worth a small estate.",
 ItemDescription,"An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.",
 ItemDescription,An extremely sharp little blade used for precise incisions.,非常鋒利的小刀，用於精密切割。
 ItemDescription,An inconspicuous snack that tells deep secrets.,不起眼的零食，藏著深刻的秘密。
@@ -2772,22 +2889,37 @@ ItemDescription,An iron projectile made up of a shaft with a sharpened square-py
 ItemDescription,"An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.",
 ItemDescription,"An orange root-vegetable, commonly believed to improve eyesight.",橘紅色的蔬菜根部，普遍認為對視力有益。
 ItemDescription,"An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.",
+ItemDescription,"Articulated adamantine over a leather glove. Nothing you catch in your hand will cut it, which has settled more than one argument about knives.",
 ItemDescription,"Boiled leather, moulded into a bodily shape to be donned as light armour.",熟皮子塑成軀體狀作為輕甲。
 ItemDescription,"Bold, or just tacky?",「大膽，還是俗氣？」
+ItemDescription,Boots shod in adamantine. They are as heavy as the iron pair and will still be whole long after the feet inside them are not.,
+ItemDescription,"Ceremonial gauntlets of soft gold. They mark the wearer's rank, and they mark very easily.",
 ItemDescription,Chain mail consists of a mesh of metal rings interlinked to form a flexible armour.,鏈甲由網狀相連的鐵環組成，柔韌靈活。
+ItemDescription,"Drinking it leaves a cold spot at the back of the neck, and the spot grows colder the closer danger comes.",
 ItemDescription,"Fate itself bends around the wearer, keeping them exactly where the blow cannot land.",
+ItemDescription,"Fine mithril mail worked into a glove, close enough to the hand that you can still feel what you are holding.",
+ItemDescription,Folded mithril holds an edge that no whetstone has ever had to touch. The smiths who made it are long dead.,
 ItemDescription,"Forged deep underground by dwarven hands, this blade was made to slay the scaled beasts who sought to steal their treasures. Throughout the long years this blade has bathed in the blood of its winged prey. Now almost forgotten, it yearns again for the taste of dragon flesh.",由矮人匠工於地下深處打造，這把利刃當初被用來殺戮欲要搶奪他們寶藏的巨大野獸。 在漫長的歲月中這把利刃已在它的帶翼獵物的血液中浸泡得鮮紅。 如今它幾乎被遺忘，卻仍嚮往著品嚐巨龍的血肉。
 ItemDescription,"Gazing into its crimson depths you can see the concentrated life essence of countless victims swirling inside of it. The artifact was completed in the moment of the creators' death, as his soul was claimed by his creation. Now residing among the souls of his former victims, his essence as an alchemist provides the stone with ultimate transmutative powers.",如果你注視著這赤紅寶石的深處，你可以窺見帶有無數冤魂在其中環繞的生命精華.這件神器在它的創造者的死亡時完成，他的靈魂被這件神器所佔有。現如今與環繞著的冤魂一起，他的精華在鮮紅的寶石中作為熔爐，為這顆寶石提供無盡且強大的轉化之力。
+ItemDescription,"Gilded boots for standing in, at the top of steps, while somebody reads something out at length.",
+ItemDescription,"Gold is far too soft to hold an edge, but it is worth more than the fight. Ceremonial, and traded rather more often than it is swung.",
 ItemDescription,"Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.",
 ItemDescription,Its high-quality elvish manufacture makes for an effective close combat weapon.,精靈製造的高質量產品，有效的近戰武器。
 ItemDescription,Leather armour with close-set studs so as to offer more protection.,釘有鐵釘的皮甲，防護效果更好。
 ItemDescription,"Like a smaller variant of the katana, often used as a side-arm.",武士刀的小型變種，常做備用武器。
+ItemDescription,Mithril takes an edge that steel cannot hold and weighs a third as much. The head barely tires the arm between swings.,
 ItemDescription,"Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.",
 ItemDescription,One segment of a particularly pungent and bulbous herb.,某種辛辣球狀植物的一部分。
+ItemDescription,"Rose gold takes an edge no better than gold does, but it looks magnificent failing to.",
+ItemDescription,"Rose gold, alloyed with copper for a warmer colour and a little more spine than gold alone.",
+ItemDescription,"Rose-gold boots, chased with vine work down the shin. They were made to be looked at from below, on a dais.",
+ItemDescription,"Rose-gold gauntlets with articulated fingers, delicate enough to hold a cup and useless for holding a line.",
+ItemDescription,Shoes of mithril plate over a soft lining. They weigh less than the leather pair they replace and will never rust through.,
 ItemDescription,Standard issue protective metal headgear.,一般的金屬頭部護具。
 ItemDescription,"Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.",
 ItemDescription,"Sturdy leather garments fitted firm onto the hands, sheathing each finger individually.",覆蓋每根手指的皮質衣物。
 ItemDescription,The final sword forged by a once respected blacksmith who lost himself in the depths of the dungeon. His warped soul now inhabits this blade and lusts for blood. It is said that the one who wields this sword is coerced into cutting down friend and foe alike.,由一位在地牢深處迷失自我的著名鐵匠鍛造而成的最終之作，他扭曲的靈魂潛藏在刀刃之中。 傳聞稱使用這把利刃的人會因為寄居在刀刃裡宿主的嗜血意志而變得狂暴從而攻擊盟友與同類。
+ItemDescription,"The head is adamantine and the haft is merely wood, so the haft is what usually fails first.",
 ItemDescription,The head of a ranseur consists of a spear-tip affixed with a cross hilt at its base.,一個三叉矛頭，底部與十字狀刀柄相連接。
 ItemDescription,The only coin that can be found and spent in the dungeon.,在地牢發現並能夠使用的唯一的貨幣。
 ItemDescription,The snipped segment of a plant known for its antilycanthropic properties.,某種植物的一部分，以抗獸化效果知名。
@@ -2829,18 +2961,22 @@ ItemDescription,This weapon consists of a single-edged blade on the end of a pol
 ItemDescription,This weapon consists of a spearhead mounted on a long wooden shaft with protrusions on the sides which aided in parrying sword thrusts.,連接在長木桿上的矛頭邊緣有突出，用於格擋。
 ItemDescription,"This weapon is a curved blade attached to a pole by binding the lower two-thirds of the blade to the side of the pole, to form a sort of axe.",一把彎曲的刃由向下三分之二處捆綁在長柄的一側，使用起來類似於斧頭。
 ItemDescription,This withered hand is the last remnant of an ancient and powerful lich.,這只乾枯的手是一位古老而又強大的巫妖留下的，最後的遺物。
+ItemDescription,Three mithril prongs on a slender shaft. It goes through mail with very little behind it.,
 ItemDescription,Tiny metal spikes thrown to the ground to impede mobility.,用來扔在地上延緩移動的小金屬刺。
+ItemDescription,"Two prongs of rose gold on a polished haft: a ceremonial guard's weapon, and unmistakably so.",
 ItemDescription,"Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.",
 ItemDescription,Winged sandals made of imperishable gold which fly the wearer swiftly and silently.,用不朽之金製成的帶翼涼鞋，可以使穿戴者迅捷且無聲地飛行。
 ItemDescription,Zapping it at a wall creates a big tunnel.,對著牆壁使用可以製造一個巨大的隧道。
 ItemName,adamantine arrow,精金箭
 ItemName,adamantine axe,精金斧
 ItemName,adamantine bident,精金雙尖刀
+ItemName,adamantine boots,
 ItemName,adamantine bow,精金弓
 ItemName,adamantine bullet,精金子彈
 ItemName,adamantine crossbow bolt,
 ItemName,adamantine dagger,精金匕首
 ItemName,adamantine dart,精金飛鏢
+ItemName,adamantine gauntlets,
 ItemName,adamantine greataxe,精金戰斧
 ItemName,adamantine greatmace,
 ItemName,adamantine greatsword,精金大劍
@@ -2855,6 +2991,7 @@ ItemName,adamantine poleaxe,
 ItemName,adamantine quarterstaff,
 ItemName,adamantine rapier,精金細劍
 ItemName,adamantine sabre,精金馬刀
+ItemName,adamantine shield,
 ItemName,adamantine short sword,精金短劍
 ItemName,adamantine shuriken,
 ItemName,adamantine spear,精金矛
@@ -2882,6 +3019,8 @@ ItemName,apple,蘋果
 ItemName,aquamarine,海藍寶石
 ItemName,arrow,箭
 ItemName,assault rifle,突擊步槍
+ItemName,astral dragon scale mail,
+ItemName,astral dragon scales,
 ItemName,athame,儀祭匕首
 ItemName,Aurigage,仙女座
 ItemName,auto shotgun,自動霰彈槍
@@ -2890,10 +3029,8 @@ ItemName,Backpack,背包
 ItemName,bag of holding,收納之袋
 ItemName,bag of tricks,詭計之袋
 ItemName,banana,香蕉
-ItemName,bandage,
 ItemName,banded mail,帶鏈甲
 ItemName,bardiche,月刃斧
-ItemName,baseball bat,
 ItemName,battle robe,戰袍
 ItemName,battle staff,戰杖
 ItemName,battle-axe,戰斧
@@ -3180,7 +3317,6 @@ ItemName,cornuthaum,巫師帽
 ItemName,costume earrings,無效果耳環
 ItemName,cram ration,廉價口糧
 ItemName,cream pie,奶油派
-ItemName,credit card,
 ItemName,Creeping Sprout,幼芽
 ItemName,crimson cloak,
 ItemName,crossbow,弩
@@ -3246,6 +3382,8 @@ ItemName,expensive camera,昂貴相機
 ItemName,Eye of Aethiopica,埃塞俄比加之眼
 ItemName,eyeball,
 ItemName,Eyes of Ra,太陽神之眼
+ItemName,fae dragon scale mail,
+ItemName,fae dragon scales,
 ItemName,fancy boots,
 ItemName,fauchard,彎刃矛
 ItemName,fedora,軟呢帽
@@ -3261,7 +3399,6 @@ ItemName,fly swatter,蒼蠅拍
 ItemName,food ration,食物
 ItemName,fortune cookie,簽語餅
 ItemName,frag grenade,破片手雷
-ItemName,frisbee,
 ItemName,frost horn,冰霜號角
 ItemName,fumble boots,笨拙靴
 ItemName,garnet,石榴石
@@ -3273,6 +3410,7 @@ ItemName,gauntlets of power,力量手套
 ItemName,Giantslayer,巨人殺手
 ItemName,glaive,劍刃戟
 ItemName,gold axe,
+ItemName,gold boots,
 ItemName,gold chakram,
 ItemName,gold coin,金幣
 ItemName,gold dagger,
@@ -3280,11 +3418,14 @@ ItemName,gold double vajra,
 ItemName,gold dragon scale mail,金色龍鱗甲
 ItemName,gold dragon scales,金色龍鱗
 ItemName,gold flail,
+ItemName,gold gauntlets,
+ItemName,gold helmet,
 ItemName,Gold Key,黃金鑰匙
 ItemName,gold khanda,
 ItemName,gold labrys,
 ItemName,gold longsword,
 ItemName,gold plate mail,
+ItemName,gold shield,
 ItemName,gold single vajra,
 ItemName,gold spade,
 ItemName,gold trident,
@@ -3297,6 +3438,8 @@ ItemName,green dragon scale mail,綠色龍鱗甲
 ItemName,green dragon scales,綠色龍鱗
 ItemName,green glass bauble,綠色玻璃裝飾品
 ItemName,grenade launcher,榴彈發射器
+ItemName,grey dragon scale mail,
+ItemName,grey dragon scales,
 ItemName,Grimtooth,邪獸之牙
 ItemName,guisarme,威爾士鉤矛
 ItemName,Gungnir,
@@ -3304,6 +3447,7 @@ ItemName,halberd,戟
 ItemName,Harbalest,雙子星
 ItemName,hatchet,手斧
 ItemName,hawaiian shirt,夏威夷襯衫
+ItemName,healer's satchel,
 ItemName,healthstone,
 ItemName,heavy hammer,重錘
 ItemName,heavy iron ball,沉重鐵球
@@ -3381,7 +3525,6 @@ ItemName,Maulfrost,冰霜漩渦
 ItemName,meat ring,肉環
 ItemName,meat stick,肉棒
 ItemName,meatball,肉球
-ItemName,medical kit,
 ItemName,melon,蜜瓜
 ItemName,mirror,
 ItemName,Mirrorbright,明鏡
@@ -3395,6 +3538,7 @@ ItemName,mithril crossbow bolt,秘銀弩箭
 ItemName,mithril dagger,秘銀匕首
 ItemName,mithril dart,秘銀飛鏢
 ItemName,mithril gauntlets,
+ItemName,mithril gloves,
 ItemName,mithril greatmace,
 ItemName,mithril greatsword,
 ItemName,mithril hatchet,
@@ -3408,19 +3552,21 @@ ItemName,mithril poleaxe,
 ItemName,mithril rapier,
 ItemName,mithril sabre,秘銀馬刀
 ItemName,mithril shield,秘銀盾
+ItemName,mithril shoes,
 ItemName,mithril short sword,秘銀短劍
 ItemName,mithril shuriken,
 ItemName,mithril spear,秘銀矛
 ItemName,mithril trident,
 ItemName,mithril two-handed sword,秘銀雙手劍
 ItemName,mithril whip,秘銀鞭
-ItemName,mooshroom,
 ItemName,morning star,流星錘
 ItemName,Mournblade,
 ItemName,mummy wrapping,木乃伊裹屍布
 ItemName,Muramasa,村正
 ItemName,mushroom,蘑菇
 ItemName,mute earrings,沉默耳環
+ItemName,mystical dragon scale mail,
+ItemName,mystical dragon scales,
 ItemName,naginata,
 ItemName,Nonagon Infinity,
 ItemName,nunchaku,雙截棍
@@ -3453,10 +3599,7 @@ ItemName,phantom key,幻影鑰匙
 ItemName,phial,
 ItemName,Philosophers Stone,哲學者之石
 ItemName,pick-axe,鶴嘴鋤
-ItemName,pill,
 ItemName,pistol,手槍
-ItemName,plastic bat,
-ItemName,plastic hammer,
 ItemName,plastic sword,塑料劍
 ItemName,plate barding,金屬馬甲
 ItemName,plate mail,板甲
@@ -3499,7 +3642,6 @@ ItemName,potion of water,水
 ItemName,proof earrings,評價耳環
 ItemName,Prudentia,智慧之鏡
 ItemName,quarterstaff,短杖
-ItemName,railgun,
 ItemName,ranseur,三叉矛
 ItemName,rapier,細劍
 ItemName,Ravenbow,鴉羽弓
@@ -3550,13 +3692,18 @@ ItemName,rocket launcher,火箭筒
 ItemName,rose axe,
 ItemName,rose battleaxe,
 ItemName,rose bident,
+ItemName,rose boots,
 ItemName,rose dagger,
+ItemName,rose gauntlets,
 ItemName,rose greatsword,
 ItemName,rose hatchet,
+ItemName,rose helmet,
 ItemName,rose long sword,
+ItemName,rose plate mail,
 ItemName,rose rapier,
 ItemName,rose ring,
 ItemName,rose sabre,
+ItemName,rose shield,
 ItemName,rose short sword,
 ItemName,rose spear,
 ItemName,Rosenthral,魅血
@@ -3650,12 +3797,10 @@ ItemName,splint mail,板鏈甲
 ItemName,sprig of wolfsbane,附子草枝
 ItemName,Stamped Letter,有印章的信
 ItemName,steel boots,
-ItemName,stethoscope,
 ItemName,stick of dynamite,條狀炸藥
 ItemName,stiletto,長刃短劍
 ItemName,stone club,石製大棒
 ItemName,Stormbringer,
-ItemName,strange object,
 ItemName,studded leather armour,鑲釘皮革甲
 ItemName,submachine gun,衝鋒鎗
 ItemName,Sudarshana Chakra,
@@ -3666,7 +3811,6 @@ ItemName,Talaria,泰拉瑞亞
 ItemName,The Hero,「英雄」
 ItemName,thunder staff,雷霆手杖
 ItemName,tin,罐頭
-ItemName,tin opener,
 ItemName,tin whistle,錫制口哨
 ItemName,tinning kit,罐裝器
 ItemName,tooled horn,加工過的號角
@@ -3674,7 +3818,6 @@ ItemName,topaz,黃玉
 ItemName,torch,火炬
 ItemName,tortilla,墨西哥薄餅
 ItemName,touchstone,
-ItemName,towel,
 ItemName,trident,三叉戟
 ItemName,tripe ration,內臟
 ItemName,triplesword,
@@ -3705,7 +3848,6 @@ ItemName,wand of fireball,火球之杖
 ItemName,wand of haste,迅捷之杖
 ItemName,wand of healing,治療之杖
 ItemName,wand of iceball,冰風暴之杖
-ItemName,wand of jumping,
 ItemName,wand of levitation,
 ItemName,wand of light,光明之杖
 ItemName,wand of lightning,閃電之杖
@@ -3747,7 +3889,6 @@ ItemName,yellow dragon scale mail,黃色龍鱗甲
 ItemName,yellow dragon scales,黃色龍鱗
 ItemName,yellow glass bauble,黃色玻璃裝飾品
 ItemName,yellowish brown glass bauble,黃褐玻璃裝飾品
-ItemName,yoyo,
 ItemName,yumi,和弓
 ItemName,zircon,藍鋯石
 ItemName,Zweihander,

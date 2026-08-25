@@ -136,7 +136,6 @@ AppearanceName,cloudy potion,Lọ thuốc âm u
 AppearanceName,coarse mantelet,Cái mộc thô
 AppearanceName,cobalt book,
 AppearanceName,cobblestone book,
-AppearanceName,coiled gun,
 AppearanceName,colourful book,Quyển sách sặc sỡ
 AppearanceName,combat boots,Ủng chiến đấu
 AppearanceName,compact gun,Súng nhỏ gọn
@@ -381,7 +380,6 @@ AppearanceName,plain ring,Nhẫn thường
 AppearanceName,plain robe,Áo choàng vai thường
 AppearanceName,plastic slug,Đạn nhựa nhỏ
 AppearanceName,plastic stick,Que nhựa
-AppearanceName,plastic wand,
 AppearanceName,platinum wand,Đũa phép bạch kim
 AppearanceName,plumed helmet,Giáp mũ đính lông vũ
 AppearanceName,pocked book,
@@ -538,8 +536,6 @@ AppearanceName,tiny book,Quyển sách nhỏ xíu
 AppearanceName,topaz book,
 AppearanceName,topaz ring,Nhẫn hoàng ngọc
 AppearanceName,torn book,Quyển sách bị xé
-AppearanceName,toy bat,
-AppearanceName,toy hammer,
 AppearanceName,toy sword,Kiếm đồ chơi
 AppearanceName,triangular amulet,Bùa tam giác
 AppearanceName,turquoise book,Quyển sách màu ngọc lam
@@ -1307,30 +1303,42 @@ EngulfmentName,engulfed,bị dìm
 EngulfmentName,swallowed,bị nuốt chửng
 EntityDescription,"A blink dog pup, already able to flicker away from danger before it lands a bite.",
 EntityDescription,A bulbous fungus that bursts into a hissing cloud of acid when disturbed.,
+EntityDescription,A career officer with a ruined face and a habit of winning. He has never once fought alone.,
 EntityDescription,"A cave bear whose pelt has gone grey as cinders, hardened by years sheltered in a live volcano's roots.",
 EntityDescription,"A cave spider drained of all colour by lightless generations, hunting by web-thrum alone.",
 EntityDescription,"A cobra pale as hoarfrost, coiled in the ice caves where warm-blooded prey seeks shelter.",
 EntityDescription,"A coyote with a static-charged coat, drawn down from the high plains after a lightning storm.",
 EntityDescription,"A dead tree animated by rot and old malice, its bark split open where a jaw shouldn't be.",
-EntityDescription,"A dragon steeped in high magic, said to hoard grimoires as jealously as gold.",
-EntityDescription,A dragon whose scales shimmer like the silver void between the planes; it drifts in and out of true sight.,
 EntityDescription,A dwarf of a mountain clan so far north the forge-fires burn blue; one of its twin mattocks bites like the wind off the peak.,
 EntityDescription,A fey hound that flickers between here and elsewhere; it fights alongside anyone it trusts.,
 EntityDescription,"A giant bat with clouded, sightless eyes, navigating wholly by the shriek of its own echo.",
 EntityDescription,"A giant beetle with a carapace of blue-white chitin, breath steaming with cold in the deep dark.",
 EntityDescription,"A giant caked grey with volcanic ash, walking down from a smoking peak with a club still smoking at the tip.",
+EntityDescription,"A giant in red who arrives once a year with a sack, and whose generosity is best not put to the test.",
 EntityDescription,"A giant of the high glaciers, sheathed in rime; its breath alone can flash-freeze a puddle solid.",
 EntityDescription,"A gila monster whose beaded hide glows dull orange along the seams, as if lit from beneath.",
 EntityDescription,"A gnome who never left the deep tunnels, pale and stooped, at ease chewing through rock with a pickaxe.",
 EntityDescription,"A golem cast from bronze rather than raw iron; where its cousin only staggers under a lightning strike, this one drinks the current and spits it back.",
+EntityDescription,"A grey hatchling, already contemptuous of magic and of you.",
+EntityDescription,"A halfling from before halflings had villages, clubbing at the world with whatever came to hand.",
+EntityDescription,"A hare with a single straight horn, and no sense whatever of how small it is.",
+EntityDescription,"A hatchling out of the fey courts: bright-eyed, quick, and already lying to you.",
+EntityDescription,A hatchling that has already learned one word it should not know.,
+EntityDescription,"A hatchling that keeps half-vanishing while you look at it, and has not yet worked out how to stop.",
 EntityDescription,"A hound of the Astral plane, half-seen even when it stands still; it does not breathe or bleed.",
+EntityDescription,"A hovering bead of acid, small enough to ignore and stupid enough to close the distance anyway.",
+EntityDescription,A hovering note that will not stop rising.,
+EntityDescription,"A humanoid automaton, articulated at every joint, still carrying out whatever it was last told to do.",
 EntityDescription,"A jackal wasted by sickness, its ribs showing through a mangy hide; its bite festers.",
 EntityDescription,A jelly black as a starless sky; things it touches for too long forget how alive they were.,
 EntityDescription,A jelly that glows faintly like a coal; fire only makes it swell larger and angrier.,
 EntityDescription,A jelly that reeks of rot; it dissolves flesh and gear alike to feed itself.,
 EntityDescription,"A jelly the colour of a bruise, faintly crackling; touching it feels like brushing a doorknob after crossing a carpet in winter.",
 EntityDescription,"A jelly the colour of glacier ice, cold to the touch and colder still if it touches back.",
+EntityDescription,"A junior officer with a commission bought or earned, leading from the front because that is where he is watched.",
+EntityDescription,"A knot of turning air about the size of a head. It has no face, and it follows you regardless.",
 EntityDescription,"A kobold camouflaged in mottled green, more comfortable in the canopy than underground; it spits venom from a hollow reed.",
+EntityDescription,A lizardman who took up a foreign discipline and mastered it. His two blades move faster than his bulk suggests they can.,
 EntityDescription,"A long worm that burrows through permafrost, its segmented hide crusted with rime.",
 EntityDescription,"A lynx with a rime-white winter coat, breath fogging even in a warm room.",
 EntityDescription,A medium-sized creature prone to great ambition. Short-lived but ubiquitous; they are not to be underestimated.,"Một loài sinh vật cỡ vừa với dã tâm lớn, tuổi thọ ngắn nhưng có ở khắp nơi; đừng đánh giá thấp chúng."
@@ -1345,12 +1353,19 @@ EntityDescription,A shambling corpse wrapped in weeping buboes; the sickness tha
 EntityDescription,"A shark bred to lightless ocean trenches, its eyes filmed over and useless.",
 EntityDescription,"A skeleton picked clean by something worse than time; its bones are black at the joints, and its touch draws the warmth out of the living.",
 EntityDescription,A small heap of coins that isn't quite finished counting itself.,
-EntityDescription,"A small, quick-witted dragon out of the fey courts, more prankster than predator.",
+EntityDescription,"A soldier of the host: armed, armoured, and entirely without doubt.",
+EntityDescription,A sphere with a short temper and a shorter future.,
 EntityDescription,"A spitting beetle whose glands have gone volcanic, hawking gobbets of burning pitch.",
 EntityDescription,"A standing wave of brackish swamp water, thick with algae and old poison; nothing in it is fresh, and nothing about touching it is safe.",
+EntityDescription,"A standing wave, loud enough to be solid. You feel it in your teeth before you see it.",
 EntityDescription,"A troll that wandered too near a volcano and came out the other side wrong: its hide is cracked magma-rock, glowing at every seam.",
+EntityDescription,"A turning column of wind: enormous, empty, and impossible to hit anywhere that counts.",
+EntityDescription,A unicorn whose hide is scored with runes that no hand cut. Magic slides off it and comes back sharpened.,
+EntityDescription,"A walking pool of acid, held in the shape of a body by something with an appetite.",
+EntityDescription,"A warrior in the service of a house, thoroughly competent with everything he has ever been handed.",
 EntityDescription,"A water moccasin gone jet black, all but invisible against a night-flooded cave pool.",
 EntityDescription,"A weathered chest, until its lid splits open into a maw ringed with teeth.",
+EntityDescription,"A winged steed with a human face, which crosses in a single stride what a horse crosses in a day.",
 EntityDescription,"A young astral dog, still learning to keep all four paws on the material plane at once.",
 EntityDescription,"A young mimic, its shapeshifting still crude — usually just a box that bites back.",
 EntityDescription,"Amorphous beings who have no typical shape but often take on a translucent humanoid form. While unmistakable for anything other than a plasma-like ooze, this form enables the use of clothing and tools.","Những sinh vật vô định hình không có hình dạng điển hình nhưng thường có dạng hình người nhìn mờ nhạt. Mặc dù không thể nhầm lẫn với bất kỳ thứ gì khác ngoài các chất lỏng plasma giống như huyết tương, nhưng dạng này cho phép sử dụng quần áo và dụng cụ."
@@ -1360,29 +1375,95 @@ EntityDescription,"An elf of the sunlit dunes, skin bronzed and eyes narrowed; i
 EntityDescription,"An ogre gone half-feral in the fens, its skin sallow and slick; its claws carry a rot no wound-dressing can clean.",
 EntityDescription,An orc mummy exhumed from a barrow sealed under a cinder-field; its wrappings are charred and its grip sears whatever it holds.,
 EntityDescription,"An orc that has made its home in the marshlands, its blade notched and slicked with venom drawn from swamp adders.",
+EntityDescription,An orc who worked out that pockets are a good deal easier to open than skulls.,
 EntityDescription,"Astral beings who are a vessel for the indomitable spirit of a vanquished adventurer. Having no motivations of their own, they are glad to permit the possession; for the deceased adventurer, it is a second chance at revenge or redemption. Born from astral matter, they are slightly built, translucent and can move freely through physical obstacles.","Những thực thể thần thánh, là vỏ bọc cho những linh hồn bất khuất của những nhà thám hiểm. Chúng không có mục tiêu, luôn sẵn lòng cho mượn lấy cơ thể của mình; đối với những nhà thám hiểm đã chết, đây chính là cơ hội thứ hai để trả thù hoặc chuộc lỗi. Được tạo ra từ vật chất thiên thạch, chúng rất mỏng, trong suốt và có thể bay lượn tự do xuyên qua vật chất."
+EntityDescription,"Bare hands, bare feet, and a discipline that took thirty years in the dark to learn.",
+EntityDescription,Beaten out of scrap tin by an apprentice who wanted to prove a point. It rattles as it walks.,
 EntityDescription,"Beautiful, otherworldly beings characterised by their signature halo and feathered wings. Strongly attuned to the struggle between good and evil, they sense the divinity within anything they hold.","Xinh đẹp, những thực thể siêu nhiên này nổi bật với đặc điểm như vầng hào quang hay cánh lông vũ. Rất hòa hợp với cuộc chiến giữa cái thiện và cái ác, họ có thể cảm nhận được tính thánh hóa của mọi vật họ chạm vào."
 EntityDescription,Beware this clockwork machine of war.,Hãy coi chừng cỗ máy của chiến tranh.
 EntityDescription,Bipedal mechanical automatons with nearly unbounded artificial intelligence. Powered by a molten core engine that requires a constant supply of raw metals and is susceptible to water damage.,"Những cỗ máy 2 chân tự động với trí tuệ nhân tạo gần như vô song. Được vận hành bởi một bộ lõi kim loại lỏng và cần nguồn cung cấp kim loại thô liên tục, chúng dễ bị tổn thương bởi sát thương từ nước."
+EntityDescription,"Cast in silver at ruinous expense, and worth it: nothing rots it, nothing charms it, and it never tires.",
+EntityDescription,"Centuries of study, and a library underneath it that no scholar will ever be allowed to see.",
+EntityDescription,"Devout, unarmed by preference, and armed by necessity rather more often than her order cares to admit.",
+EntityDescription,"Digs up other people's tombs for a living, and has learned which ones to leave alone.",
+EntityDescription,"Drow magic is taught underground, quietly, and it is used the same way.",
+EntityDescription,"Enormous, unarmoured, and entirely uninterested in the finer points of anything.",
+EntityDescription,"Everything has a price, and he will find yours before you have finished speaking.",
+EntityDescription,"Everything that is left when a fire has finished, and still hot enough for it to matter.",
 EntityDescription,"Fey creatures linked by powerful nature spirits to fuel their antics. They are stocky with furry lower bodies, cloven hooves of a goat and curled horns of a ram. Ribald and clever, they cheerfully lead hedonistic escapades of drinking, dancing and fighting.","Những sinh vật thần tiên, được kết nối bởi linh hồn thiên nhiên mạnh mẽ để tiếp nối những trò hề của họ. Cơ thể chắc nịch, phần dưới có lông, có móng vuốt giống loài dê và sừng xoắn ốc giống loài cừu. Dâm tục và thông minh, họ vui vẻ dẫn dắt những tù nhân của sự khoái lạc vào việc uống, nhảy múa và đánh nhau."
+EntityDescription,"Fights without armour, without caution, and without any evident expectation of tomorrow.",
+EntityDescription,"Follows for miles without making a sound, and then picks the moment.",
+EntityDescription,"He carries a mace because canon law denied him the edge, and he has never once felt the restriction.",
+EntityDescription,He does not fight. He arranges matters so that the fighting has already been decided.,
+EntityDescription,He gave up on cures some years ago. The other trade paid better and asked far fewer questions.,
+EntityDescription,"He has fought campaigns you have only heard rumours of, and he expects the men behind him to keep up.",
+EntityDescription,"He offers you exactly what you wanted, and the price is not mentioned until afterwards.",
+EntityDescription,"He spent a lifetime learning to call the dead, and now they come whether he calls them or not.",
+EntityDescription,"He wants your purse rather than your life, and will take the second only if you insist on it.",
 EntityDescription,"Imposing and heavily built, they resemble humanoid dragons with a snout, scaly hide and functional wings.","Với vẻ ngoài oai nghiêm cường hoá bởi thân hình cứng cáp, chúng có nét tương đồng với tộc người rồng với cái mõm, da vảy và bộ cánh."
+EntityDescription,"It drifts in and out of the here and now, and its breath arrives from somewhere that is not quite the room.",
+EntityDescription,It has been playing the same joke for eight hundred years and has not yet reached the end of it.,
+EntityDescription,It has spent so long between the planes that it is only visiting this one. Distance means nothing to it.,
+EntityDescription,"It hoards grimoires the way other dragons hoard gold, and it has read them.",
+EntityDescription,"It is holding itself together, and it is not going to manage that for very much longer.",
+EntityDescription,It keeps the courtesies of the fey courts exactly as far as they amuse it.,
+EntityDescription,"It sings the same three phrases in a voice that used to belong to somebody, and it will not be interrupted.",
 EntityDescription,"It waits among the headstones shaped like one more grave marker, patient as the dead around it.",
+EntityDescription,"It was built to stand in one place and stop things, and it is still doing exactly that long after the builders left.",
+EntityDescription,Its scales drink spells the way sand drinks water. Wizards have learned to leave grey dragons alone.,
 EntityDescription,"Large, omnivorous reptilians whose bestial ancestors dominated the world long before the birth of civilisation. They are fearsome predators, capable of leaping impressive distances and warding off many attacks with their thick scaly hides.","To lớn, những người bò sát ăn thịt mà tổ tiên của họ đã từng thống trị thế giới trước khi nền văn minh ra đời. Họ là những sát thủ ăn thịt đáng sợ, có thể nhảy vọt với khoảng cách rất xa và chống lại rất nhiều đòn tấn công với vảy cứng của họ."
+EntityDescription,"Mixes what should not be mixed and takes careful notes, on the occasions when he survives to write them.",
 EntityDescription,Monstrous creatures with the head and tail of a bull and the body of a man.,Thứ sinh vật quái quỷ với cái đầu và đuôi của con bò lai với thân hình của con người.
+EntityDescription,"More prankster than predator, which is not the same as harmless.",
+EntityDescription,"Not the plump children of paintings: four faces, a great many wings, and a mandate to guard.",
+EntityDescription,"Nothing cast at a grey dragon has ever much troubled it, and it knows this better than you do.",
+EntityDescription,"Old blood, old grudges, and a sword that has been in the family longer than the family has held the land.",
+EntityDescription,"Old enough that magic simply stops happening near it. Whatever it was once, it is now a hole in the weave.",
+EntityDescription,"Old enough to have forgotten more magic than most schools teach, and to still remember the dangerous parts.",
+EntityDescription,"Old, bent, and owed favours by things that ought not to be in a position to owe favours.",
+EntityDescription,"Past apprentice, short of master, and painfully aware of the distance between the two.",
 EntityDescription,"Perverse creatures of many aberrations but always with crimson skin and horns. Their mere presence compels others to act out their darkest, most violent desires.","Những sinh vật biến thái lầm lạc nhưng luôn có màu da đỏ thắm và mọc sừng. Sự xuất hiện của chúng khiến tất cả bộc lộ những tham vọng, trụy lạc đen tối và bạo lực nhất."
+EntityDescription,"Rank-and-file infantry, drilled to hold a line with a spear and a shield, and to break it for nobody.",
 EntityDescription,"Ravenous, predatory species of monstrous humanoid with a severe hunch that causes the backs of their hands to drag on the ground. Despite the awkward physical appearance, they are powerfully built and are infamous for their ability to rapidly recover from any wound to their rubbery hide.","Giống loài người khổng lồ ăn thịt đói khát, với cục bướu to khiến cho bàn tay của họ bị kéo lê trên mặt đất. Mặc dù ngoại hình kì lạ, họ cực kỉ khỏe mạnh và nổi tiếng nhờ khả năng hồi phục mọi vết thương vào da dẻo dai của họ."
+EntityDescription,Raw current given legs. The air around it tastes of a storm that has not arrived yet.,
+EntityDescription,Scales like the silver void between the planes. It steps out of the world when it is losing.,
+EntityDescription,"Sees perfectly in the dark, moves perfectly in it, and is already behind you.",
 EntityDescription,"Shape-shifting deviants, who thrive on their deceptive talents.","Giống loài biến hình lệch lạc, sống nhờ vào tài năng lừa dối của chúng."
+EntityDescription,"She is friendly, and she is interested in you, and neither of those things is true.",
+EntityDescription,She rules a court of nymphs and has never yet had to raise a hand to keep it.,
+EntityDescription,"She speaks for the spider goddess, and the enclave does whatever she says the goddess wants.",
+EntityDescription,She tracks for a week and shoots once.,
+EntityDescription,"She was beautiful once, in the way a knife is beautiful, and the resemblance has not altogether faded.",
 EntityDescription,Small folk who prefer simple lives. They are notably gregarious and their build lends them well to less-than-noble endeavours.,"Những cư dân nhỏ bé, những người ưa chuộng cuộc sống đơn giản. Họ thường sống theo cộng đồng, và sự đoàn kết của họ rất hiệu quả trong việc chống lại những hành vi xấu xa."
+EntityDescription,"Small, old, and patient. He has outlived every hunter who assumed that size was the point.",
+EntityDescription,"Small, wary, and quicker with a thrown rock than anyone her size has any right to be.",
+EntityDescription,"Somebody built a machine, somebody else turned it, and a third party handed it a pistol. All three came to regret their part.",
+EntityDescription,"Something enormous came up out of the deep water, and the deep water was glad to be rid of it.",
 EntityDescription,"Spiritual beings fond of nature and magic. They are physically similar to humans, but often smaller and nimbler.","Những sinh vật siêu nhiên yêu chuộng thiên thiên và ma thuật. Họ rất giống với con người về vẻ ngoài, nhưng thường nhỏ bé và nhanh hơn."
+EntityDescription,"Stands at the door of the tomb with a blade in either hand, and has been standing there a very long time.",
+EntityDescription,"Steeped in high magic, and quite capable of being something else by the time you swing.",
 EntityDescription,"Stout, short and hardy folk. They are known for their stubbornness, metalworking and love of alcohol.","Béo, lùn và cứng cáp. Họ nổi tiếng với trí khôn ngu dốt của họ, kĩ nghệ kim loại, và tình yêu với rượu."
 EntityDescription,"Subterranean peoples of diminutive stature, fond of tinkering and magic. Evolved for subsistence living, their metabolism is suited for long adventures where food is scarce.","Những con người sống dưới lòng đất với chiều cao thấp bé, rất yêu thích kĩ thuật chế tạo và ma thuật. Tiến hóa để sống một cách tiết kiệm, sự trao đổi chất của họ rất thích hợp cho những chuyến phiêu lưu dài khi thức ăn vô cùng hạn hẹp."
+EntityDescription,"The burning ones. They stand nearest the throne, and everything near them catches.",
+EntityDescription,"The first rank of the air school, who has learned to feel the wind before it moves.",
+EntityDescription,"The highest rank of the air school. Where she is standing, the weather is a matter of her preference.",
+EntityDescription,"The least of the host, made of fire and formed for one errand at a time.",
 EntityDescription,"The lesser of the two ferrozygotic puddings, the brown pudding is said to taste more akin to rotted milk than a chocolate dessert. The pudding itself feeds upon fabrics and hides of all kind but its most known ability is its unique reproductive method. When brought into contact with iron the miracle of rotten slime binary fission takes place, creating two voracious offspring. Owing to the ubiquity of iron in the arms wielded by adventurers, this creature's population has only been growing with time.","Một loại hợp tử sắt yếu hơn, pudding màu nâu được cho là có vị giống với sữa thối hơn là bánh sô cô la. Pudding ăn khi tiếp xúc với vải và da của mọi loài nhưng nó nổi tiếng với cách tái tạo của nó. Khi tiếp xúc với sắt, sự trục phân sẽ diễn ra, tạo ra hai cá thể con. Nhờ việc sắt có ở khắp nơi, đặc biệt là từ các thám hiểm gia, dân số của sinh vật này ngày càng tăng lên nhanh chóng."
+EntityDescription,"The one who taught the soldiers their drill, and who fights rather better than any of them.",
+EntityDescription,"The second rank, who no longer asks the wind for anything but simply takes it.",
+EntityDescription,"The wheels within wheels, rimmed with eyes, turning without ever facing away.",
+EntityDescription,"The white tiger of the west, in whose season metal is forged and old things are cut away.",
+EntityDescription,"The young of the pheral: all claws, and no patience whatever.",
+EntityDescription,"Thirty years of the same forms, every morning without exception, and now he needs no weapon at all.",
 EntityDescription,"This mummy confection was created by steeping a human cadaver in honey. Somehow reanimated by an obscure cult of monks, it is both deadly and delicious.","Xác ướp này được tạo ra bằng cách nhúng xác người chết vào trong mật ong. Bằng cách nào đó được tái sinh bởi một hội nhóm nhà sư kín, con quái vật này vừa nguy hiểm, song cũng thật ngon."
 EntityDescription,This strange living bubble of corrosive fluids doesn't appear to have any offensive capabilities.,Khối cầu dung dịch ăn mòn kì lạ này trông có vẻ vô hại.
 EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily beautiful. When threatened, they can escape through distortions in spatial reality.","Những linh hồn có cánh nhỏ bé, được truyền ma thuật từ cha mẹ và vô cùng xinh đẹp. Khi gặp nguy hiểm, chúng có thể chạy trốn qua sự méo mó của không gian thực."
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.","Những người sống sót du mục giống như những con rùa rời khỏi nơi sinh của họ, ngay từ khi họ có thể đi bộ, để đi du lịch khắp thế giới với sự thoải mái và bảo vệ của ngôi nhà trên lưng."
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.","Những sinh vật xấu xí, thú tính với tập tính ăn thịt đồng loại; Chủng tộc hiếu chiến này được biết đến với sức mạnh phi thường và trí thông minh ngu dốt đến đần độn của chúng."
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.","Được các đặc tính một cách bất công là hèn nhát và yếu đuối, những sinh vật bò sát nhỏ bé này vượt qua những hạn chế về thể chất của chúng bằng cách sử dụng các chiến lược xấu xa và xảo quyệt."
+EntityDescription,Walks the roads between towns carrying everything he owns and a very good stick.,
+EntityDescription,"Wrapped, crowned, and extremely displeased to have been woken.",
+EntityDescription,"You do not meet an assassin. You meet somebody else, once, and after that you meet nobody at all.",
 EntityName,abbot,trụ trì
 EntityName,abyssal shark,
 EntityName,acid blob,bãi axít
@@ -1392,11 +1473,15 @@ EntityName,acid spore,
 EntityName,acid worm,giun axít
 EntityName,acolyte,thầy dòng
 EntityName,adamantine golem,golem adamantine
+EntityName,adult astral dragon,
 EntityName,adult black dragon,rồng đen trưởng thành
 EntityName,adult blue dragon,rồng xanh dương trưởng thành
 EntityName,adult deep dragon,rồng xanh đậm trưởng thành
+EntityName,adult fae dragon,
 EntityName,adult gold dragon,rồng vàng kim trưởng thành
 EntityName,adult green dragon,rồng xanh lá trưởng thành
+EntityName,adult grey dragon,
+EntityName,adult mystical dragon,
 EntityName,adult orange dragon,rồng cam trưởng thành
 EntityName,adult raven,quạ trưởng thành
 EntityName,adult red dragon,rồng đỏ trưởng thành
@@ -1413,11 +1498,15 @@ EntityName,albino rat,
 EntityName,alchemist,
 EntityName,Aleax,Aleax
 EntityName,almiraj,
+EntityName,ancient astral dragon,
 EntityName,ancient black dragon,rồng đen cổ đại
 EntityName,ancient blue dragon,rồng xanh dương cổ đại
 EntityName,ancient deep dragon,rồng xanh đậm cổ đại
+EntityName,ancient fae dragon,
 EntityName,ancient gold dragon,rồng vàng kim cổ đại
 EntityName,ancient green dragon,rồng xanh lá cổ đại
+EntityName,ancient grey dragon,
+EntityName,ancient mystical dragon,
 EntityName,ancient orange dragon,rồng cam cổ đại
 EntityName,ancient red dragon,rồng đỏ cổ đại
 EntityName,ancient shimmering dragon,rồng lấp lánh cổ đại
@@ -1455,20 +1544,23 @@ EntityName,assassin bug,bọ sát thủ
 EntityName,Assassin Mortimer,sát thủ Mortimer
 EntityName,astral deva,astral deva
 EntityName,astral dog,
-EntityName,astral dragon,
 EntityName,astral puppy,
 EntityName,athol,athol
 EntityName,attendant,người phục vụ
 EntityName,Baalzebub,Baalzebub
 EntityName,babau,ông kẹ
+EntityName,baby astral dragon,
 EntityName,baby black dragon,rồng con đen
 EntityName,baby blue dragon,rồng con xanh dương
 EntityName,baby crocodile,cá sấu con
 EntityName,baby deep dragon,rồng con xanh đậm
+EntityName,baby fae dragon,
 EntityName,baby gold dragon,rồng con vàng kim
 EntityName,baby green dragon,rồng con xanh lá
+EntityName,baby grey dragon,
 EntityName,baby long worm,giun con dài
 EntityName,baby mimic,
+EntityName,baby mystical dragon,
 EntityName,baby orange dragon,rồng con cam
 EntityName,baby purple worm,giun con tím
 EntityName,baby red dragon,rồng con đỏ
@@ -1640,7 +1732,6 @@ EntityName,ettin zombie,thây ma ettin
 EntityName,explosive elemental,
 EntityName,explosive sphere,
 EntityName,exterminator,kẻ hủy diệt
-EntityName,fae dragon,
 EntityName,fairy,tinh linh
 EntityName,Famine,Nạn Đói
 EntityName,Father Dagon,Cha xứ Dagon
@@ -1912,7 +2003,6 @@ EntityName,mountain nymph,nymph núi
 EntityName,movanic deva,thiên nam
 EntityName,mugger,tên cướp
 EntityName,mumak,voi mumak
-EntityName,mystical dragon,
 EntityName,nabassu,nabassu
 EntityName,nalfeshnee,nalfeshnee
 EntityName,Nalzok,Nalzok
@@ -2186,11 +2276,15 @@ EntityName,yellow mould,mốc màu vàng
 EntityName,yeoman,kỵ binh
 EntityName,yeoman warder,kỵ binh giám ngục
 EntityName,yeti,yeti
+EntityName,young astral dragon,
 EntityName,young black dragon,rồng màu đen
 EntityName,young blue dragon,rồng màu xanh dương
 EntityName,young deep dragon,rồng màu xanh đậm
+EntityName,young fae dragon,
 EntityName,young gold dragon,rồng vàng kim
 EntityName,young green dragon,rồng màu xanh lá
+EntityName,young grey dragon,
+EntityName,young mystical dragon,
 EntityName,young orange dragon,rồng màu cam
 EntityName,young red dragon,rồng màu đỏ
 EntityName,young shimmering dragon,rồng lấp lánh
@@ -2241,10 +2335,8 @@ FeatureName,grave,ngôi mộ
 FeatureName,pentagram,ngôi sao năm cánh
 FeatureName,pyramid,
 FeatureName,sarcophagus,quách
-FeatureName,sink,
 FeatureName,stall,ngăn tủ
 FeatureName,throne,ngai vàng
-FeatureName,toilet,
 FeatureName,wooden sign,
 FeatureName,wooden stool,
 FeatureName,wooden table,
@@ -2636,10 +2728,13 @@ HordeName,yeoman,bầy kỵ binh
 HordeName,zombie,bầy thây ma
 ItemDescription,"A band of twisted iron studded with inward-facing barbs, uncomfortable to wear but said to sharpen the wearer's aim.",
 ItemDescription,"A barbed iron hook on a long coil of rope, thrown out and hauled back in.",
+ItemDescription,"A battleaxe of rose gold, enormous and impractical, carried by someone with more household than sense.",
 ItemDescription,"A black rune-etched blade that whispers to its wielder, a hunger that is never sated. It drinks the life of whoever it cuts down, and the stolen years flow into the one who carries it.",
+ItemDescription,"A bolt with an adamantine head, made to open the armour that other bolts merely dent.",
 ItemDescription,"A branched silver candle-holder, its every arm lit at once.",
 ItemDescription,"A broad, straight-edged sword of Indian pattern, its hilt guard curved up to protect the knuckles.",
 ItemDescription,"A canvas roll of bandages, salves and sutures for treating wounds in the field.",
+ItemDescription,"A cavalry sabre in rose gold: curved, gleaming, and never once blooded.",
 ItemDescription,"A ceremonial double-bitted axe, its twin blades curved like a crescent moon.",
 ItemDescription,"A cloak of heavy cloth dyed a deep, uniform crimson, the mark of a self-styled captain or a travelling noble.",
 ItemDescription,"A closed great helm forged from a single adamantine shell, hiding the wearer's face entirely.",
@@ -2652,18 +2747,22 @@ ItemDescription,"A curved single-edged blade mounted on a long oaken shaft, priz
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.","1 cây kiếm lưỡi liềm thường dùng bởi kỵ binh, chúng rất hiệu quả với quái vật từ địa ngục."
 ItemDescription,A curved single-edged blade often used by cavalry.,Một thanh kiếm lưỡi liềm thường được dùng bởi các kỵ sĩ.
 ItemDescription,A curved yellow fruit and a great source of fibre.,1 loại quả có hình cong và là 1 nguồn cung cấp chất xơ tốt.
-ItemDescription,A device of no obvious make or purpose. Fiddling with it seems to do something -- but never quite the same thing twice.,
+ItemDescription,"A duelling blade of mithril: quick past the guard, and quicker back.",
+ItemDescription,A duelling rapier of rose gold. It settles questions of standing far more often than questions of life.,
 ItemDescription,A fine-grained stone for putting an edge back on a tired blade.,
 ItemDescription,"A finely balanced throwing ring of wood-sheathed steel, prized by elven skirmishers for its silent flight.",
+ItemDescription,"A flail with a gilded head, made to be carried in procession behind somebody important.",
 ItemDescription,A flat black stone used since antiquity to tell real gemstones from paste and glass.,
-ItemDescription,A flat plastic disc that sails a surprisingly long way when flung with a flick of the wrist.,
 ItemDescription,"A flat throwing weapon made of wood, often used for hunting.","1 loại vũ khí thẳng làm từ gỗ, thường dùng để đi săn bắn."
 ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.",1 cái bánh hình tròn. Chắc chắn là rán trong chảo rồi.
 ItemDescription,"A flattened fighting ring, its outer edge honed to a razor finish, thrown with a spinning flick of the wrist.",
 ItemDescription,A foreign device which creates perfect visual depictions of reality.,1 thiết bị kì lạ tạo ra những miêu tả hoàn hảo về thực tế.
+ItemDescription,"A full harness of rose gold, made for a coronation and worn exactly once. Every plate is signed on the inside by the smith who beat it.",
+ItemDescription,A gilded trident from some temple to the sea. The prongs bend if you lean on them.,
 ItemDescription,"A gilded, flat-bladed digging spade, its edge blunt but its weight considerable.",
 ItemDescription,"A gnarled druidic cudgel that hums faintly with the pulse of living wood, said to channel the life-force of the earth back into its wielder.",
-ItemDescription,"A grooved plastic disc on a length of string, wound to spin out and snap back at the flick of a finger.",
+ItemDescription,A gold whistle on a fine chain. The note is no better than tin's and the price is considerably worse.,
+ItemDescription,A greatsword a strong child could lift and an adult could swing all day. Mithril forgives the arms what it does not forgive the enemy.,
 ItemDescription,A hand-held brass horn.,1 cái tù và làm từ đồng thau
 ItemDescription,"A hard rock, smooth and therefore aerodynamic.","1 viên đá cứng, mượt và vì thế khi bắn bay rất xa."
 ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,"1 cây gậy gỗ cứng. Trông tầm thường, nhưng cực kì mạnh nếu biết dùng chúng."
@@ -2671,11 +2770,16 @@ ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.",1 b�
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.","1 thanh kiếm dài và nặng. Trông giống với trường kiếm, nhưng được thiết kế để dùng với cả 2 tay."
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,1 cái búa tạ được thiết kế để chiến đấu cận chiến.
 ItemDescription,A heavy suit of armour made up of many strips of metal.,1 bộ giáp nặng làm từ những sợi chỉ kim loại.
+ItemDescription,"A helm of adamantine: heavy, unlovely, and proof against the blow that would otherwise have ended things.",
+ItemDescription,"A helmet beaten from gold, worn for the crowd rather than the melee. It turns the sun beautifully and a blade not at all.",
+ItemDescription,"A helmet of rose gold, the copper in the alloy giving it a warmth that plain gold never has. It is still gold underneath, and still no use in a fight.",
 ItemDescription,"A hollowed dragon's horn, carved with old runes. Blowing it lets loose a gout of flame.",
 ItemDescription,"A horizontal, mechanically-aided bow and arrow with a shoulder stock.",1 cái cung nằm ngang với báng kề vai và 1 cơ chế máy móc đơn giản.
 ItemDescription,A key designed to open all mundane locks.,1 chiếc chìa khóa được làm để phá khóa tất cả các loại khóa tầm thường.
+ItemDescription,A lance tipped with adamantine. Shields do not stop it; they only decide where it comes through.,
 ItemDescription,"A leather pouch mounted at the tip of a long wooden staff, letting the wielder put both arms into the throw.",
 ItemDescription,"A leather pouch set between two cords, meant for launching small projectiles.","1 miếng da được đặt giữa 2 sợi dây, dùng để bắn vật thể nhỏ."
+ItemDescription,"A length of pine still sticky with resin, cut and polished in a hurry.",
 ItemDescription,"A length of sturdy rope with a clasp, for keeping a tame animal close at hand.",
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.","1 tấm khiên nhẹ được gắn vào cánh tay, làm từ gỗ và gia cố bằng kim loại."
 ItemDescription,"A lone, unblinking eye. Swallowing it whole is unpleasant, but not without its uses.",
@@ -2683,6 +2787,7 @@ ItemDescription,A long cane rod strung with line and hook. Best used beside open
 ItemDescription,"A long ceremonial scepter with a thunderbolt head at either end, swung two-handed.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.","1 con dao dài với đầu nhọn, dùng để ném."
 ItemDescription,A long pipe meant for shooting darts through force of breath.,1 ống dài dùng để thổi phi tiêu.
+ItemDescription,"A long sword of rose gold, the copper in the alloy giving it a blush the smiths were proud of.",
 ItemDescription,A long thrusting polearm best suited to mounted combat.,1 cây thương dài dùng để chiến đấu trên ngựa.
 ItemDescription,A long-shafted arrow with a distinctive tip.,1 mũi tên dài với đầu tên đặc biệt.
 ItemDescription,"A long, flexible leather thong. Unexpectedly sharp.",1 sợi dây da dài và dễ uốn. Sắc bén đến bất ngờ.
@@ -2699,34 +2804,42 @@ ItemDescription,A pair of solid iron-plated boots that guard the shin and instep
 ItemDescription,A pair of sturdy leather boots which extend upward until just below the knee.,1 đôi giày da dài ngay dưới đầu gối.
 ItemDescription,A pair of sturdy leather boots which extend upwards to just above the ankle.,1 đôi giày đa dài ngay trên mắt cá chân.
 ItemDescription,"A pair of well-tailored leather boots, dyed and stitched more for looking good than for taking a beating.",
-ItemDescription,"A physician's instrument for listening to a heartbeat -- yours, or something else's.",
+ItemDescription,"A parade shield of gold, embossed with somebody's arms. It is carried on the left because that is the side the crowd stands on.",
+ItemDescription,"A parade sword of gold, kept bright and never once sharpened.",
 ItemDescription,"A plain gold band with no beginning and no visible seam, warm to the touch as if something inside it never stops moving.",
+ItemDescription,"A plain staff of adamantine: unremarkable to look at, and impossible to snap.",
 ItemDescription,"A plain, undyed shirt of woven cloth, worn under armour or on its own.",
 ItemDescription,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.","1 thanh sắt được hàn với tay cầm gỗ cứng, dùng để đào qua những mặt cứng."
 ItemDescription,A pointed metal cylinder meant to be discharged from a firearm.,1 miếng kim loại hình trụ thường bắn ra từ súng.
+ItemDescription,"A poleaxe whose head weighs almost nothing, so the swing goes where it is aimed rather than where it falls.",
 ItemDescription,A polished sheet of silvered glass. Some things recoil from their own reflection.,
 ItemDescription,A portable source of light fashioned out of copper and fuelled by oil.,1 cái đèn bằng đồng đỏ và dùng dầu để thắp sáng.
 ItemDescription,A projectile consisting of a wooden shaft with a sharp metal tip at its front and stabilising fins at its rear.,"1 vật thể với thân gỗ, đầu làm từ miếng sắt nhọn và lông định hướng ở đuôi."
-ItemDescription,"A rectangle of stiff plastic, useless for its original purpose here, but handy for slipping a lock.",
 ItemDescription,A righteous sword forged by a revered blacksmith many years ago who set out to hone his craft and to create the ultimate blade. The noble intent of its creator lingers in this weapon to cut down the wicked and protect the innocent.,"1 thanh kiếm chính nghĩa được rèn bởi 1 người thợ rèn đại tài từ rất lâu về trước, ông ra đi nhằm tôi luyện tài năng của mình để tạo ra thanh kiếm mạnh nhất. Tấm lòng đẹp đẽ của ông thể hiện ở trong thanh kiếm: để chém kẻ ác và bảo vệ kẻ yếu."
 ItemDescription,A ring of nine facets with no beginning and no end. The wearer's life loops rather than ends.,
+ItemDescription,"A rose-gold hatchet, balanced for throwing by someone who was never going to throw it.",
+ItemDescription,A rose-gold shield with a mirror finish. Its owner spent more time looking at it than behind it.,
+ItemDescription,"A rose-gold spear carried at the head of processions, point up, so that nobody has to look at it closely.",
+ItemDescription,"A sacrificial dagger of soft gold, meant for the altar rather than the field.",
 ItemDescription,"A sanctimonious biscuit. A miracle to the meek, a scourge to the undead.","1 chiếc bánh đúng đắn. Là phước lành của người hiền, và là tai họa cho kẻ ác."
 ItemDescription,"A semi-rigid weapon made up of a notched wooden shaft with a drawstring attached to both ends, used to launch arrows.",1 vũ khí cứng rắn làm từ gỗ khắc và được cuốn bởi dây ở hai đầu. Dùng để bắn tên.
 ItemDescription,"A shard of the night sky, showing the wearer what is hidden, what is coming, and what others think.",
 ItemDescription,A sharp iron wedge fashioned to a sturdy handle.,1 lưỡi kim loại hàn chặt vào tay cầm chắc chắn.
 ItemDescription,"A sharp metal throwing weapon, smaller than a hand and shaped like a star.","1 vũ khí kim loại ném, bé hơn bàn tay và có hình ngôi sao."
+ItemDescription,"A shield faced with a single sheet of adamantine. It does not dent, and the arm behind it feels every blow it does not let through.",
 ItemDescription,A short and light double-edged blade.,1 thanh kiếm 2 lưỡi ngắn và nhẹ.
 ItemDescription,"A short ceremonial scepter cast in the shape of a thunderbolt, wielded as a mace.",
+ItemDescription,"A short sword of rose gold, sized for a courtier's belt and a courtier's quarrel.",
+ItemDescription,"A short wand carved into a grinning face, the sort a street conjurer waves about before the trick.",
 ItemDescription,"A sickle-sword of the old kingdoms, its outer edge sharpened into a hook.",
 ItemDescription,"A sleeveless cloth garment worn over armour, its blank front begging for a coat of arms.",
+ItemDescription,"A slim rose-gold dagger, warm to the touch and made to be seen being carried.",
 ItemDescription,"A slimy, scaly sea creature, in its entirety. Good for a meal.",1 loài sinh vật biển có vảy và nhớt nhát. Ăn rất ngon!
 ItemDescription,A small cutting utensil made of metal with a wooden handle.,1 dụng cụ cắt gọt làm từ kim loại và tay cầm bằng gỗ.
 ItemDescription,A small glass vial holding a captive mote of light.,
-ItemDescription,A small hooked blade made for prying the lid off a sealed tin.,
 ItemDescription,A small iron tool designed for opening all sorts of locks.,1 dụng cụ bằng sắt được thiết kế để mở tất cả các loại khóa.
 ItemDescription,A small missile with a pointed tip meant for throwing.,1 vật thể với đầu nhọn để ném.
 ItemDescription,A small missile with a reservoir of liquid delivered through a hollow pointed tip.,1 vật nhỏ với thân rỗng chứa chất lỏng phun qua đầu nhọn.
-ItemDescription,"A small, chalky tablet of uncertain origin. Best swallowed quickly.",
 ItemDescription,"A small, smooth grey stone that feels warm to the touch. Fortune favours whoever carries it.",
 ItemDescription,"A snugly fitted, padded jacket buttoned up the front, the sort of thing a merchant or a minor noble might wear.",
 ItemDescription,"A soft-brimmed hat, somewhat out of fashion.","1 cái mũ vành mềm, trông rất cổ."
@@ -2734,13 +2847,12 @@ ItemDescription,A sophisticated bludgeon with a heavy iron head.,1 cái chùy ph
 ItemDescription,A spacious bag made of incredibly stretchy cotton.,1 cái túi rộng làm từ loại vải siêu đàn hồi.
 ItemDescription,A spacious cloth bag.,1 cái túi vải rộng.
 ItemDescription,"A staff of living, unworked rock. What shapes matter cannot itself be unmade.",
+ItemDescription,"A star of mithril, so light that it seems to hang in the air a moment before it arrives.",
 ItemDescription,A stick of cured meat.,1 xiên que thịt ướp muối.
 ItemDescription,"A stick of highly explosive material, with a short fuse on one end.","1 thanh chứa đầy thuốc nổ, với 1 đầu gắn dây chì ngắn."
 ItemDescription,A stone infused with restorative magic. It crumbles a little more each time it is used.,
 ItemDescription,A stone so black it seems to swallow the light around it. Some say it lets you see by its own darkness.,
-ItemDescription,"A stout, mushroom-flecked creature, docile and slow. Its meat is said to nourish more than it should.",
 ItemDescription,"A straight, double-edged and often cruciform blade.","1 thanh kiếm dài hai lưỡi, thường có hình chữ thập."
-ItemDescription,"A strip of clean cloth for binding a wound. Cheap, disposable, and always worth carrying a few.",
 ItemDescription,A sturdy and solid mineral.,1 loại khoáng sản cứng và rắn.
 ItemDescription,A suit of armour made from metal rings sewn onto a foundation of leather or cloth.,1 bộ giáp làm từ những vòng sắt được khâu với nền vải hoặc da.
 ItemDescription,"A suit of plate armour beaten from solid gold, prized by kings who never expect to take a blow.",
@@ -2750,21 +2862,26 @@ ItemDescription,"A sweet custard-filled pie with a thin crust, topped with whipp
 ItemDescription,"A sweet, round fruit, of the red variety. Reportedly a great supplement to your physical health.","1 loại quả tròn, ngọt có màu đỏ. Được cho rằng có lợi cho sức khỏe."
 ItemDescription,"A sword whose blade is a long, flexible ribbon of metal, coiled like a belt when not in use.",
 ItemDescription,"A tall, asymmetric bow.","1 cái cung dài, không đối xứng."
-ItemDescription,"A tapered wooden club meant for hitting a ball, repurposed here for hitting skulls.",
 ItemDescription,"A thick leather coat, constructed to withstand weather and wear.","1 chiếc áo khoác da dày, được thiết kế để chống chọi với thời tiết và thời gian."
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.","1 cái chùy gỗ cứng. Bề ngoài xấu, nhưng bù lại rất tốt trong khoản đánh đập."
 ItemDescription,"A thin and agile sword meant almost exclusively for thrusting, its blade cast in silver and folded steel.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,1 cây kiếm mỏng và nhẹ. Rất thích hợp để đâm.
+ItemDescription,"A thin broth that sits in the stomach like a full meal. It tastes of nothing whatsoever, which is the price of never having to stop and eat.",
+ItemDescription,A throwing hatchet of mithril. It flies flatter and further than its weight suggests it should.,
+ItemDescription,A throwing ring of gold. It returns beautifully and cuts adequately.,
 ItemDescription,A tremendous two-handed blade whose sheer momentum can bowl over anything caught in its swing.,
 ItemDescription,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.","1 khẩu súng trường cầm tay, được kê ngang vai và thường dùng để đi săn. Sát thương rất lớn đấy."
+ItemDescription,"A wand that splits into two prongs at the tip, like a diviner's rod that never did find water.",
 ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.","1 kiệt tác nghệ thuật của tộc người lùn, bị mất cắp và tái sử dụng bởi tộc orc. Được gắn trên 1 thanh dài, vũ khĩ này cực kỳ đáng nể khi cưỡi trên lưng ngựa hoặc warg. Dòng điện kích hoạt máy khoan trên nó sẽ giật chết những ai dám cả gan chặn đường con quái vật hủy diệt này."
-ItemDescription,"A worn but clean cloth. Useful for wiping your face, or for tying over your eyes.",
+ItemDescription,Adamantine cannot be dulled and will not break. The blade will outlast whoever is carrying it.,
+ItemDescription,"Adamantine stars, thrown a thousand times and recovered a thousand times. Nothing they strike blunts them.",
 ItemDescription,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,1 công cụ nhà nông làm từ lưỡi liềm và hàn chặt trên tay cầm vòng.
 ItemDescription,An ambiguous curiosity. It seems edible.,1 vật khó hiểu. Trông có vẻ ăn được.
 ItemDescription,An article of leather clothing covering the torso that hangs around the neck and on the shoulders.,"1 vật làm từ da, che đi phần thân. Được mắc vào cổ và trên vai."
 ItemDescription,An article of waterproof cotton clothing covering the torso that hangs around the neck and on the shoulders.,"1 vật chống thấm làm từ vải, che đi phần thân. Được mắc vào cổ và trên vai."
 ItemDescription,"An early hand cannon that sparks its own charge with a spinning steel wheel, saving its user from carrying a lit match.",
 ItemDescription,An elven travel food. It is incredibly satiating.,1 thức ăn đi đường của tộc elf. Ăn cực kì no.
+ItemDescription,"An enormous sword of solid gold, more monument than weapon, and worth a small estate.",
 ItemDescription,"An enormous two-handed hammer, its iron head wide enough to crack shields and crush breastplates in a single swing.",
 ItemDescription,An extremely sharp little blade used for precise incisions.,1 lưỡi dao cực sắc dùng trong phẫu thuật.
 ItemDescription,An inconspicuous snack that tells deep secrets.,1 miếng bánh đầy bí ẩn. Nó chứa đầy những bí mật đen tối...
@@ -2772,22 +2889,37 @@ ItemDescription,An iron projectile made up of a shaft with a sharpened square-py
 ItemDescription,"An omen of your own death, worn openly. You always sense it coming, but so does everyone standing near you.",
 ItemDescription,"An orange root-vegetable, commonly believed to improve eyesight.","1 loại củ màu cam, được cho rằng giúp bổ mắt."
 ItemDescription,"An unremarkable grey rock, deceptively heavy for its size. It is not one you want to be caught carrying.",
+ItemDescription,"Articulated adamantine over a leather glove. Nothing you catch in your hand will cut it, which has settled more than one argument about knives.",
 ItemDescription,"Boiled leather, moulded into a bodily shape to be donned as light armour.","Da thuộc, được đúc thành hình thân người và độn thành giáp nhẹ."
 ItemDescription,"Bold, or just tacky?","Liều lĩnh, hay lòe loẹt?"
+ItemDescription,Boots shod in adamantine. They are as heavy as the iron pair and will still be whole long after the feet inside them are not.,
+ItemDescription,"Ceremonial gauntlets of soft gold. They mark the wearer's rank, and they mark very easily.",
 ItemDescription,Chain mail consists of a mesh of metal rings interlinked to form a flexible armour.,Giáp xích làm từ những tẫm nhẫn sắt nối với nhau tạo thành 1 loại áo giáp đàn hồi.
+ItemDescription,"Drinking it leaves a cold spot at the back of the neck, and the spot grows colder the closer danger comes.",
 ItemDescription,"Fate itself bends around the wearer, keeping them exactly where the blow cannot land.",
+ItemDescription,"Fine mithril mail worked into a glove, close enough to the hand that you can still feel what you are holding.",
+ItemDescription,Folded mithril holds an edge that no whetstone has ever had to touch. The smiths who made it are long dead.,
 ItemDescription,"Forged deep underground by dwarven hands, this blade was made to slay the scaled beasts who sought to steal their treasures. Throughout the long years this blade has bathed in the blood of its winged prey. Now almost forgotten, it yearns again for the taste of dragon flesh.","Được rèn tận sâu trong lòng đất dưới bàn tay của tộc người lùn. Thanh kiếm này được chế tạo để giết những con rồng luôn cướp lấy những báu vật của họ. Xuyên suốt theo năm tháng, thanh kiếm này được tắm trong bể máu của những con mồi mọc cánh. Giờ đây gần như bị lãng quên, một lần nữa nó gào lên, gào lên sự thèm khát máu rồng của nó."
 ItemDescription,"Gazing into its crimson depths you can see the concentrated life essence of countless victims swirling inside of it. The artifact was completed in the moment of the creators' death, as his soul was claimed by his creation. Now residing among the souls of his former victims, his essence as an alchemist provides the stone with ultimate transmutative powers.","Nhìn vào sắc màu đỏ thắm, bạn có thể thấy sức sống được tập trung lại của biết bao nạn nhân của nó xoáy vòng vòng trong ấy. Báu vật này được hoàn thành vào khoảnh khắc khi mà người chế tạo ra nó chết đi, linh hồn của ông ấy được hấp thụ bởi chính dây chuyền này. Linh hồn của ông giờ đây trú ngụ cùng với những nạn nhân của nó, và bản chất dược sư của ông cung cấp cho viên đá sức mạnh chuyển hóa đến tối thượng."
+ItemDescription,"Gilded boots for standing in, at the top of steps, while somebody reads something out at length.",
+ItemDescription,"Gold is far too soft to hold an edge, but it is worth more than the fight. Ceremonial, and traded rather more often than it is swung.",
 ItemDescription,"Indra's thunderbolt, forged to slay the asuras. Its wielder is proof against the storm, and every solid blow can arc into a crackling, stunning discharge.",
 ItemDescription,Its high-quality elvish manufacture makes for an effective close combat weapon.,Chất lượng tuyệt vời của vũ khí do tộc elf chế tạo này tỏ ra rất hiệu quả trong giao tranh tầm gần.
 ItemDescription,Leather armour with close-set studs so as to offer more protection.,Giáp da được gài thêm đinh tán để tăng sức bảo vệ.
 ItemDescription,"Like a smaller variant of the katana, often used as a side-arm.",1 thanh kiếm giống với kiếm katana nhưng nhỏ hơn. Thường dùng như 1 loại vũ khí phụ.
+ItemDescription,Mithril takes an edge that steel cannot hold and weighs a third as much. The head barely tires the arm between swings.,
 ItemDescription,"Odin's own spear, said never to miss its mark. Hurled at a foe it strikes true and returns to the hand that threw it, wreathed in a force no shield can turn aside.",
 ItemDescription,One segment of a particularly pungent and bulbous herb.,1 giống củ có vị cay riêng biệt giống với củ hành.
+ItemDescription,"Rose gold takes an edge no better than gold does, but it looks magnificent failing to.",
+ItemDescription,"Rose gold, alloyed with copper for a warmer colour and a little more spine than gold alone.",
+ItemDescription,"Rose-gold boots, chased with vine work down the shin. They were made to be looked at from below, on a dais.",
+ItemDescription,"Rose-gold gauntlets with articulated fingers, delicate enough to hold a cup and useless for holding a line.",
+ItemDescription,Shoes of mithril plate over a soft lining. They weigh less than the leather pair they replace and will never rust through.,
 ItemDescription,Standard issue protective metal headgear.,Mũ bảo vệ kim loại tiêu chuẩn.
 ItemDescription,"Stormbringer's twin, forged of the same black iron. Where its sibling drinks blood, this blade drinks the mind, and those it does not kill outright it bends to serve a new master.",
 ItemDescription,"Sturdy leather garments fitted firm onto the hands, sheathing each finger individually.","1 đôi găng bằng da gắn chặt vào bàn tay, luồn qua mỗi ngón riêng biệt."
 ItemDescription,The final sword forged by a once respected blacksmith who lost himself in the depths of the dungeon. His warped soul now inhabits this blade and lusts for blood. It is said that the one who wields this sword is coerced into cutting down friend and foe alike.,"Thanh kiếm cuối cùng được rèn bởi người thợ rèn lừng danh 1 thời, người đã chết ở sâu trong hầm ngục. Tâm hồn méo mó của ông giờ đây trú ngụ ở trong thanh kiếm này, tràn đầy ham muốn chém giết. Người ta nói rằng người nào mang theo thanh kiếm này sẽ bị ép phải giết cả đồng đội lẫn kẻ thù."
+ItemDescription,"The head is adamantine and the haft is merely wood, so the haft is what usually fails first.",
 ItemDescription,The head of a ranseur consists of a spear-tip affixed with a cross hilt at its base.,Phần đỉnh của cây thương Ranseur gồm đầu giáo gắn chặt với chuôi chữ thập ở phần đầu.
 ItemDescription,The only coin that can be found and spent in the dungeon.,Loại tiền duy nhất có thể tìm và tiêu được ở trong hầm ngục.
 ItemDescription,The snipped segment of a plant known for its antilycanthropic properties.,1 phần tiêu bản của loài thực vật được biết đến với độc tính của chúng.
@@ -2829,18 +2961,22 @@ ItemDescription,This weapon consists of a single-edged blade on the end of a pol
 ItemDescription,This weapon consists of a spearhead mounted on a long wooden shaft with protrusions on the sides which aided in parrying sword thrusts.,Món vũ khí này gồm một đầu giáo gắn trên 1 thanh gỗ dài với phần nhô ra ở 2 bên giúp người dùng đỡ những nhát đâm.
 ItemDescription,"This weapon is a curved blade attached to a pole by binding the lower two-thirds of the blade to the side of the pole, to form a sort of axe.","Món vũ khí này gồm một lưỡi dao cong gắn vào 1 thanh cầm bằng việc lắp 2/3 phần dưới của lưỡi dao vào cạnh của thanh cầm, tạo thành 1 cây rìu."
 ItemDescription,This withered hand is the last remnant of an ancient and powerful lich.,Bàn tay khô héo này là tàn dư xót lại của 1 vu yêu cổ xưa và hùng mạnh.
+ItemDescription,Three mithril prongs on a slender shaft. It goes through mail with very little behind it.,
 ItemDescription,Tiny metal spikes thrown to the ground to impede mobility.,Những mảnh gai kim loại nhỏ bé này được ném xuống mặt đất để cản trở việc di chuyển.
+ItemDescription,"Two prongs of rose gold on a polished haft: a ceremonial guard's weapon, and unmistakably so.",
 ItemDescription,"Vishnu's own discus, a spinning wheel of golden light famed for cutting through anything it is thrown at. It is the classic bane of demons.",
 ItemDescription,Winged sandals made of imperishable gold which fly the wearer swiftly and silently.,Đôi dép quai hậu mọc cánh này được làm từ loại vàng siêu bền khiến người đeo nó bay một cách nhanh nhẹn và lặng lẽ.
 ItemDescription,Zapping it at a wall creates a big tunnel.,Vụt nó vào bức tường sẽ tạo nên 1 đường hầm.
 ItemName,adamantine arrow,mũi tên adamantine
 ItemName,adamantine axe,rìu adamantine
 ItemName,adamantine bident,trượng 2 đầu adamantine
+ItemName,adamantine boots,
 ItemName,adamantine bow,cung adamantine
 ItemName,adamantine bullet,đạn adamantine
 ItemName,adamantine crossbow bolt,
 ItemName,adamantine dagger,dao găm adamantine
 ItemName,adamantine dart,phi tiêu adamantine
+ItemName,adamantine gauntlets,
 ItemName,adamantine greataxe,rìu lớn adamantine
 ItemName,adamantine greatmace,
 ItemName,adamantine greatsword,đại kiếm adamantine
@@ -2855,6 +2991,7 @@ ItemName,adamantine poleaxe,
 ItemName,adamantine quarterstaff,
 ItemName,adamantine rapier,kiếm mảnh adamantine
 ItemName,adamantine sabre,kiếm lưỡi cong adamantine
+ItemName,adamantine shield,
 ItemName,adamantine short sword,kiếm ngắn adamantine
 ItemName,adamantine shuriken,
 ItemName,adamantine spear,thương adamantine
@@ -2882,6 +3019,8 @@ ItemName,apple,quả táo
 ItemName,aquamarine,ngọc xanh biển
 ItemName,arrow,mũi tên
 ItemName,assault rifle,súng trường
+ItemName,astral dragon scale mail,
+ItemName,astral dragon scales,
 ItemName,athame,dao athame
 ItemName,Aurigage,Aurigage
 ItemName,auto shotgun,súng shotgun tự động
@@ -2890,10 +3029,8 @@ ItemName,Backpack,Balo
 ItemName,bag of holding,túi chứa đồ
 ItemName,bag of tricks,túi pha trò
 ItemName,banana,chuối
-ItemName,bandage,
 ItemName,banded mail,giáp buộc kim loại
 ItemName,bardiche,thương bardiche
-ItemName,baseball bat,
 ItemName,battle robe,áo choàng chiến đấu
 ItemName,battle staff,gậy chiến
 ItemName,battle-axe,rìu chiến
@@ -3180,7 +3317,6 @@ ItemName,cornuthaum,cornuthaum
 ItemName,costume earrings,khuyên tai thời trang
 ItemName,cram ration,thực phẩm chay
 ItemName,cream pie,bánh kem
-ItemName,credit card,
 ItemName,Creeping Sprout,Mầm leo
 ItemName,crimson cloak,
 ItemName,crossbow,nỏ
@@ -3246,6 +3382,8 @@ ItemName,expensive camera,máy ảnh đắt tiền
 ItemName,Eye of Aethiopica,Mắt của Aethiopica
 ItemName,eyeball,
 ItemName,Eyes of Ra,Đôi mắt của Ra
+ItemName,fae dragon scale mail,
+ItemName,fae dragon scales,
 ItemName,fancy boots,
 ItemName,fauchard,mã tấu
 ItemName,fedora,mũ phớt
@@ -3261,7 +3399,6 @@ ItemName,fly swatter,vĩ ruồi
 ItemName,food ration,lương khô
 ItemName,fortune cookie,bánh quy may mắn
 ItemName,frag grenade,lựu đạn
-ItemName,frisbee,
 ItemName,frost horn,tù và băng giá
 ItemName,fumble boots,đôi giày hậu đậu
 ItemName,garnet,ngọc hồng lựu
@@ -3273,6 +3410,7 @@ ItemName,gauntlets of power,găng tay sức mạnh
 ItemName,Giantslayer,Giantslayer
 ItemName,glaive,đoản kiếm
 ItemName,gold axe,
+ItemName,gold boots,
 ItemName,gold chakram,
 ItemName,gold coin,đồng xu vàng
 ItemName,gold dagger,
@@ -3280,11 +3418,14 @@ ItemName,gold double vajra,
 ItemName,gold dragon scale mail,giáp vảy rồng vàng kim
 ItemName,gold dragon scales,vảy rồng vàng kim
 ItemName,gold flail,
+ItemName,gold gauntlets,
+ItemName,gold helmet,
 ItemName,Gold Key,Chìa Khóa Vàng
 ItemName,gold khanda,
 ItemName,gold labrys,
 ItemName,gold longsword,
 ItemName,gold plate mail,
+ItemName,gold shield,
 ItemName,gold single vajra,
 ItemName,gold spade,
 ItemName,gold trident,
@@ -3297,6 +3438,8 @@ ItemName,green dragon scale mail,giáp vảy rồng xanh lá
 ItemName,green dragon scales,vảy rồng xanh lá
 ItemName,green glass bauble,trang sức thủy tinh xanh lá
 ItemName,grenade launcher,súng phóng lựu
+ItemName,grey dragon scale mail,
+ItemName,grey dragon scales,
 ItemName,Grimtooth,Grimtooth
 ItemName,guisarme,thương guisarme
 ItemName,Gungnir,
@@ -3304,6 +3447,7 @@ ItemName,halberd,phủ thương
 ItemName,Harbalest,Harbalest
 ItemName,hatchet,rìu nhỏ
 ItemName,hawaiian shirt,áo hawaiian
+ItemName,healer's satchel,
 ItemName,healthstone,
 ItemName,heavy hammer,búa tảng
 ItemName,heavy iron ball,bi sắt nặng
@@ -3381,7 +3525,6 @@ ItemName,Maulfrost,Maulfrost
 ItemName,meat ring,vòng thịt
 ItemName,meat stick,que thịt
 ItemName,meatball,viên thịt
-ItemName,medical kit,
 ItemName,melon,dưa hấu
 ItemName,mirror,
 ItemName,Mirrorbright,Mirrorbright
@@ -3395,6 +3538,7 @@ ItemName,mithril crossbow bolt,tên nỏ mithril
 ItemName,mithril dagger,dao mithril
 ItemName,mithril dart,phi tiêu mithril
 ItemName,mithril gauntlets,
+ItemName,mithril gloves,
 ItemName,mithril greatmace,
 ItemName,mithril greatsword,
 ItemName,mithril hatchet,
@@ -3408,19 +3552,21 @@ ItemName,mithril poleaxe,
 ItemName,mithril rapier,
 ItemName,mithril sabre,kiếm lưỡi cong mithril
 ItemName,mithril shield,khiên mithril
+ItemName,mithril shoes,
 ItemName,mithril short sword,kiếm ngắn mithril
 ItemName,mithril shuriken,
 ItemName,mithril spear,thương mithril
 ItemName,mithril trident,
 ItemName,mithril two-handed sword,kiếm song thủ mithril
 ItemName,mithril whip,roi dây mithril
-ItemName,mooshroom,
 ItemName,morning star,chùy gai morning star
 ItemName,Mournblade,
 ItemName,mummy wrapping,vải gói xác ướp
 ItemName,Muramasa,Muramasa
 ItemName,mushroom,nấm
 ItemName,mute earrings,khuyên tai câm lặng
+ItemName,mystical dragon scale mail,
+ItemName,mystical dragon scales,
 ItemName,naginata,
 ItemName,Nonagon Infinity,
 ItemName,nunchaku,côn nhị khúc
@@ -3453,10 +3599,7 @@ ItemName,phantom key,chìa khóa bóng ma
 ItemName,phial,
 ItemName,Philosophers Stone,Viên Đá Philosophers
 ItemName,pick-axe,cuốc chim
-ItemName,pill,
 ItemName,pistol,súng ngắn
-ItemName,plastic bat,
-ItemName,plastic hammer,
 ItemName,plastic sword,kiếm nhựa
 ItemName,plate barding,giáp ngựa tấm
 ItemName,plate mail,giáp tấm
@@ -3499,7 +3642,6 @@ ItemName,potion of water,lọ nước
 ItemName,proof earrings,khuyên tai bông
 ItemName,Prudentia,Prudentia
 ItemName,quarterstaff,gậy
-ItemName,railgun,
 ItemName,ranseur,thương ranseur
 ItemName,rapier,kiếm mảnh
 ItemName,Ravenbow,Ravenbow
@@ -3550,13 +3692,18 @@ ItemName,rocket launcher,súng phản lực
 ItemName,rose axe,
 ItemName,rose battleaxe,
 ItemName,rose bident,
+ItemName,rose boots,
 ItemName,rose dagger,
+ItemName,rose gauntlets,
 ItemName,rose greatsword,
 ItemName,rose hatchet,
+ItemName,rose helmet,
 ItemName,rose long sword,
+ItemName,rose plate mail,
 ItemName,rose rapier,
 ItemName,rose ring,
 ItemName,rose sabre,
+ItemName,rose shield,
 ItemName,rose short sword,
 ItemName,rose spear,
 ItemName,Rosenthral,Rosenthral
@@ -3650,12 +3797,10 @@ ItemName,splint mail,giáp nẹp
 ItemName,sprig of wolfsbane,cành Ô đầu
 ItemName,Stamped Letter,Lá thư đóng dấu
 ItemName,steel boots,
-ItemName,stethoscope,
 ItemName,stick of dynamite,thanh thuốc nổ
 ItemName,stiletto,dao cá kiếm
 ItemName,stone club,dùi cui đá
 ItemName,Stormbringer,
-ItemName,strange object,
 ItemName,studded leather armour,giáp da độn cứng
 ItemName,submachine gun,súng tiểu liên
 ItemName,Sudarshana Chakra,
@@ -3666,7 +3811,6 @@ ItemName,Talaria,Talaria
 ItemName,The Hero,Anh Hùng
 ItemName,thunder staff,gậy sấm
 ItemName,tin,thiếc
-ItemName,tin opener,
 ItemName,tin whistle,còi thiếc
 ItemName,tinning kit,bộ đóng hộp
 ItemName,tooled horn,tù và chạm khắc
@@ -3674,7 +3818,6 @@ ItemName,topaz,hoàng ngọc
 ItemName,torch,ngọn đuốc
 ItemName,tortilla,bánh tortilla
 ItemName,touchstone,
-ItemName,towel,
 ItemName,trident,đinh ba
 ItemName,tripe ration,thức ăn cho chó
 ItemName,triplesword,
@@ -3705,7 +3848,6 @@ ItemName,wand of fireball,đũa phép cầu lửa
 ItemName,wand of haste,đũa phép tốc độ
 ItemName,wand of healing,đũa phép hồi phục
 ItemName,wand of iceball,đũa phép cầu băng
-ItemName,wand of jumping,
 ItemName,wand of levitation,
 ItemName,wand of light,đũa phép ánh sáng
 ItemName,wand of lightning,đũa phép sấm sét
@@ -3747,7 +3889,6 @@ ItemName,yellow dragon scale mail,giáp vảy rồng vàng
 ItemName,yellow dragon scales,vảy rồng vàng
 ItemName,yellow glass bauble,trang sức thủy tinh màu vàng
 ItemName,yellowish brown glass bauble,trang sức thủy tinh nâu vàng
-ItemName,yoyo,
 ItemName,yumi,cung Nhật
 ItemName,zircon,đá zircon
 ItemName,Zweihänder,
